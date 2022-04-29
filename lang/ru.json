@@ -2,89 +2,94 @@
   "yume": {
     "kalimba": {
       "name": "KALIMBA",
-      "description": "Tune into the KALIMBA TV channel"
+      "condition": "Tune into the KALIMBA TV channel"
     },
     "a_r_m": {
       "name": "Ancient Raves",
-      "description": "Experience the Aztec Rave Monkey"
+      "condition": "Experience the Aztec Rave Monkey"
     },
     "boombox": {
       "name": "Бумбокс",
-      "description": "Пронаблюдайте за вечеринкой Птицелюдей (Toringens)"
+      "condition": "Пронаблюдайте за вечеринкой Птицелюдей (Toringens)"
     },
     "takofuusen": {
       "name": "Takofuusen",
-      "description": "Encounter Takofuusen in the White Desert"
+      "condition": "Encounter Takofuusen in the White Desert"
     },
     "uboa": {
       "name": "Uboa",
-      "description": "Попадитесь в ловушку Uboa"
+      "condition": "Попадитесь в ловушку Uboa"
     },
     "blackcat": {
       "name": "Чёрный кот",
-      "description": "Полетайте на метле с крыши здания"
+      "condition": "Полетайте на метле с крыши здания"
     }
   },
   "2kki": {
     "mono": {
       "name": "Медаль Туриста",
-      "description": "Достигните Продвинутого ранга в Походах"
+      "condition": "Достигните Продвинутого ранга в Походах"
     },
     "bronze": {
       "name": "Бронзовая медаль Туриста",
-      "description": "Достигните Бронзового ранга в Походах"
+      "condition": "Достигните Бронзового ранга в Походах"
     },
     "silver": {
       "name": "Серебрянная медаль Туриста",
-      "description": "Достигните Серебрянного ранга в Походах"
+      "condition": "Достигните Серебрянного ранга в Походах"
     },
     "gold": {
       "name": "Золотая медаль Туриста",
-      "description": "Достигните Золотого ранга в Походах"
+      "condition": "Достигните Золотого ранга в Походах"
     },
     "platinum": {
       "name": "Платиновая медаль Туриста",
-      "description": "Достигните Платинового ранга в Походах"
+      "condition": "Достигните Платинового ранга в Походах"
     },
     "diamond": {
       "name": "Алмазная медаль Туриста",
-      "description": "Достигните Алмазного ранга в Походах"
+      "condition": "Достигните Алмазного ранга в Походах"
     },
     "compass": {
       "name": "Медаль Путешественника",
-      "description": "Совершите походы в 30% доступных локаций"
+      "condition": "Совершите походы в 30% доступных локаций"
     },
     "compass_bronze": {
       "name": "Бронзовая медаль Путешественника",
-      "description": "Совершите походы в 50% доступных локаций"
+      "condition": "Совершите походы в 50% доступных локаций"
     },
     "compass_silver": {
       "name": "Серебрянная медаль Путешественника",
-      "description": "Совершите походы в 70% доступных локаций"
+      "condition": "Совершите походы в 70% доступных локаций"
     },
     "compass_gold": {
       "name": "Золотая медаль Путешественника",
-      "description": "Совершите походы в 80% доступных локаций"
+      "condition": "Совершите походы в 80% доступных локаций"
     },
     "compass_platinum": {
       "name": "Платиновая медаль Путешественника",
-      "description": "Совершите походы в 90% доступных локаций"
+      "condition": "Совершите походы в 90% доступных локаций"
     },
     "compass_diamond": {
       "name": "Алмазная медаль Путешественника",
-      "description": "Совершите походы в 95% доступных локаций"
+      "condition": "Совершите походы в 95% доступных локаций"
     },
     "crushed": {
       "name": "Пресс",
-      "description": "Посмотрите, как расплющит Уроцуки"
+      "condition": "Посмотрите, как расплющит Уроцуки"
     },
     "haunted_mirror": {
       "name": "Haunted Mirror",
-      "description": "See the Woman in the Mirror event in the Ocean Storehouse"
+      "condition": "See the Woman in the Mirror event in the Ocean Storehouse"
+    },
+    "black_king": {
+      "name": "Black King",
+      "condition": "Enter the chess board in Chess World"
     },
     "obentou": {
       "name": "Obentou",
-      "description": "おべんとう"
+      "description": "おべんとう",
+      "condition": "Go to Obentou World"
     },
     "compass_28": {
       "name": "28",
@@ -92,81 +97,91 @@
     },
     "blue_orb": {
       "name": "Синий шар",
-      "description": "Побывайте в Scrambled Egg Zone"
+      "condition": "Побывайте в Scrambled Egg Zone"
+    },
+    "aojiru": {
+      "name": "Aojiru",
+      "condition": "Visit Aojiru in the Hospital"
     },
     "zalgo": {
       "name": "Zalgo's Lament",
-      "description": "Reach the room accessible from the Zalgo event in the Magnet Room"
+      "condition": "Reach the room accessible from the Zalgo event in the Magnet Room"
     },
     "aooh": {
       "name": "Взор Aooh'а",
-      "description": ";-82)77C%33,C)1)6+)C*631C&)=32(C-2C%,3+)/37C,397)"
+      "description": ";-82)77C%33,C)1)6+)C*631C&)=32(C-2C%,3+)/37C,397)",
+      "condition": "Trigger the Aooh event in Ahogeko's House"
+    },
+    "snow_fairy": {
+      "name": "Snowy Fairy",
+      "description": "The Smiling Fairy",
+      "condition": "Interact with the Snow Fairy in the Snowy Forest"
     },
     "operator_cyborg": {
       "name": "Rusted Memory",
-      "description": "Interact with the Cyborg Operator in the Rusty Urban Complex"
+      "condition": "Resonate with the Cyborg Operator in the Rusty Urban Complex"
     },
     "singularity": {
       "name": "Miniature Singularity",
-      "description": "Find and interact with All 6 Black Hole Girls in Rio's worlds. If you have already done so previously, you must visit the area where you found them."
+      "condition": "Find and interact with All 6 Black Hole Girls in Rio's worlds. If you have already done so previously, you must visit the area where you found them."
     },
     "hakoko": {
       "name": "Hakoko",
-      "description": "Interact with Hakoko in the Eye Shop"
+      "condition": "Interact with Hakoko in the Eye Shop"
     },
     "hakoko_prime": {
       "name": "Hakoko Prime",
-      "description": "Reach and interact with Hakoko in {TIME} or less in Time Trial Mode"
+      "condition": "Reach and interact with Hakoko in {TIME} or less in Time Trial Mode"
     },
     "fabric_planet": {
       "name": "Fabric Planet",
-      "description": "Reach Moonview Lane"
+      "condition": "Reach the Fabric Planet at Moonview Lane"
     },
     "fabric_galaxy": {
       "name": "Fabric Galaxy",
-      "description": "Reach Moonview Lane in {TIME} or less in Time Trial Mode"
+      "condition": "Reach the Fabric Planet at Moonview Lane in {TIME} or less in Time Trial Mode"
     },
     "lavender_lesser": {
       "name": "Фиолетовый Камень",
-      "description": "Доберитесь до Lavender Waters"
+      "condition": "Доберитесь до Lavender Waters"
     },
     "lavender": {
       "name": "Сиреневый Камень",
-      "description": "Доберитесь до Lavender Waters за {TIME} или быстрее в Time Trial Mode"
+      "condition": "Доберитесь до Lavender Waters за {TIME} или быстрее в Time Trial Mode"
     },
     "butterfly_lesser": {
       "name": "Sunset Butterfly Brooch",
-      "description": "Доберитесь до Lunar Sanctuary"
+      "condition": "Доберитесь до Lunar Sanctuary"
     },
     "butterfly": {
       "name": "Twilight Butterfly Brooch",
-      "description": "Доберитесь до Lunar Sanctuary за {TIME} или быстрее в Time Trial Mode"
+      "condition": "Доберитесь до Lunar Sanctuary за {TIME} или быстрее в Time Trial Mode"
     },
     "magical_lesser": {
       "name": "Kiki",
-      "description": "Reach Magical Passage"
+      "condition": "Reach Magical Passage"
     },
     "magical": {
       "name": "Merlin",
-      "description": "Reach Magical Passage in {TIME} or less in Time Trial Mode"
+      "condition": "Reach Magical Passage in {TIME} or less in Time Trial Mode"
     },
     "voxels": {
       "name": "Magical Voxels",
-      "description": "Exploit the rules of the dream realm and reach Voxel Island"
+      "condition": "Exploit the rules of the dream realm and reach Voxel Island"
     },
     "vending_machine": {
       "name": "Vending Machine",
-      "description": "Complete and visit the Snack Gallery"
+      "condition": "Complete and visit the Snack Gallery"
     },
     "clover": {
       "name": "Розово-Красный клевер",
-      "description": "Феноменальное везение..."
+      "condition": "Феноменальное везение..."
     }
   },
   "flow": {
     "cake": {
       "name": "Chocolate Cake",
-      "description": "Eat at least 20 pieces of cake at Sugar Hole"
+      "condition": "Eat at least 20 pieces of cake at Sugar Hole"
     }
   },
   "prayers": {
@@ -176,7 +191,7 @@
     },
     "missingno": {
       "name": "Заглючено",
-      "description": "Найдите MissingNo."
+      "condition": "Найдите MissingNo."
     }
   }
 }

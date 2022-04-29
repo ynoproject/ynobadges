@@ -2,89 +2,94 @@
   "yume": {
     "kalimba": {
       "name": "カリンバ",
-      "description": "カリンバを見る"
+      "condition": "カリンバを見る"
     },
     "a_r_m": {
       "name": "サタデーナイトフィーバー",
-      "description": "サタデーナイトフィーバーを見る"
+      "condition": "サタデーナイトフィーバーを見る"
     },
     "boombox": {
       "name": "ラジカセ",
-      "description": "鳥人間ピクニックを見る"
+      "condition": "鳥人間ピクニックを見る"
     },
     "takofuusen": {
       "name": "たこふうせん",
-      "description": "白黒世界でたこふうせんを見る"
+      "condition": "白黒世界でたこふうせんを見る"
     },
     "uboa": {
       "name": "ウボァ",
-      "description": "ウボァに触れる"
+      "condition": "ウボァに触れる"
     },
     "blackcat": {
       "name": "黒猫",
-      "description": "デパート屋上で魔女イベントを発生させる"
+      "condition": "デパート屋上で魔女イベントを発生させる"
     }
   },
   "2kki": {
     "mono": {
       "name": "ドリーマー",
-      "description": "ドリームラリーでミドルランクに到達する"
+      "condition": "ドリームラリーでミドルランクに到達する"
     },
     "bronze": {
       "name": "ブロンズドリーマー",
-      "description": "ドリームラリーでブロンズランクに到達する"
+      "condition": "ドリームラリーでブロンズランクに到達する"
     },
     "silver": {
       "name": "シルバードリーマー",
-      "description": "ドリームラリーでシルバーランクに到達する"
+      "condition": "ドリームラリーでシルバーランクに到達する"
     },
     "gold": {
       "name": "ゴールドドリーマー",
-      "description": "ドリームラリーでゴールドランクに到達する"
+      "condition": "ドリームラリーでゴールドランクに到達する"
     },
     "platinum": {
       "name": "プラチナドリーマー",
-      "description": "ドリームラリーでプラチナランクに到達する"
+      "condition": "ドリームラリーでプラチナランクに到達する"
     },
     "diamond": {
       "name": "ダイアモンドドリーマー",
-      "description": "ドリームラリーでダイアモンドランクに到達する"
+      "condition": "ドリームラリーでダイアモンドランクに到達する"
     },
     "compass": {
       "name": "ドリームランナー",
-      "description": "ドリームラリーで選ばれる世界の内30%の世界のラリーを完了させる"
+      "condition": "ドリームラリーで選ばれる世界の内30%の世界のラリーを完了させる"
     },
     "compass_bronze": {
       "name": "ブロンズドリームランナー",
-      "description": "ドリームラリーで選ばれる世界の内50%の世界のラリーを完了させる"
+      "condition": "ドリームラリーで選ばれる世界の内50%の世界のラリーを完了させる"
     },
     "compass_silver": {
       "name": "シルバードリームランナー",
-      "description": "ドリームラリーで選ばれる世界の内70%の世界のラリーを完了させる"
+      "condition": "ドリームラリーで選ばれる世界の内70%の世界のラリーを完了させる"
     },
     "compass_gold": {
       "name": "ゴールドドリームランナー",
-      "description": "ドリームラリーで選ばれる世界の内80%の世界のラリーを完了させる"
+      "condition": "ドリームラリーで選ばれる世界の内80%の世界のラリーを完了させる"
     },
     "compass_platinum": {
       "name": "プラチナドリームランナー",
-      "description": "ドリームラリーで選ばれる世界の内90%の世界のラリーを完了させる"
+      "condition": "ドリームラリーで選ばれる世界の内90%の世界のラリーを完了させる"
     },
     "compass_diamond": {
       "name": "ダイアモンドドリームランナー",
-      "description": "ドリームラリーで選ばれる世界の内95%の世界のラリーを完了させる"
+      "condition": "ドリームラリーで選ばれる世界の内95%の世界のラリーを完了させる"
     },
     "crushed": {
       "name": "クラッシュ",
-      "description": "うろつきが押し潰される所を見る"
+      "condition": "うろつきが押し潰される所を見る"
     },
     "haunted_mirror": {
-      "name": "Haunted Mirror",
-      "description": "See the Woman in the Mirror event in the Ocean Storehouse"
+      "name": "呪いの鏡",
+      "condition": "地下室でカーテン越しの人影のムービーを見る"
+    },
+    "black_king": {
+      "name": "Black King",
+      "condition": "Enter the chess board in Chess World"
     },
     "obentou": {
       "name": "Obentou",
-      "description": "おべんとう"
+      "description": "おべんとう",
+      "condition": "Go to Obentou World"
     },
     "compass_28": {
       "name": "28",
@@ -92,81 +97,91 @@
     },
     "blue_orb": {
       "name": "ブルーオーブ",
-      "description": "たまごに到達する"
+      "condition": "たまごに到達する"
+    },
+    "aojiru": {
+      "name": "Aojiru",
+      "condition": "Visit Aojiru in the Hospital"
     },
     "zalgo": {
       "name": "うつむきさん",
-      "description": "うつむき部屋に到達する"
+      "condition": "うつむき部屋に到達する"
     },
     "aooh": {
       "name": "アオォの威光",
-      "description": ";-82)77C%33,C)1)6+)C*631C&)=32(C-2C%,3+)/37C,397)"
+      "description": ";-82)77C%33,C)1)6+)C*631C&)=32(C-2C%,3+)/37C,397)",
+      "condition": "Trigger the Aooh event in Ahogeko's House"
+    },
+    "snow_fairy": {
+      "name": "Snowy Fairy",
+      "description": "The Smiling Fairy",
+      "condition": "Interact with the Snow Fairy in the Snowy Forest"
     },
     "operator_cyborg": {
       "name": "ラストメモリー",
-      "description": "錆鉄にいるギプ子に話しかける"
+      "condition": "錆鉄にいるギプ子に話しかける"
     },
     "singularity": {
       "name": "紅の混沌",
-      "description": "Rio氏の世界にいる全6人の人型オブジェクトに話しかける。既に見つけている場合は、見つけた場所に行く。"
+      "condition": "Rio氏の世界にいる全6人の人型オブジェクトに話しかける。既に見つけている場合は、見つけた場所に行く。"
     },
     "hakoko": {
       "name": "箱子",
-      "description": "目薬屋さんで箱子に話しかける"
+      "condition": "目薬屋さんで箱子に話しかける"
     },
     "hakoko_prime": {
       "name": "箱子プライム",
-      "description": "Time Trial Modeで{TIME}以内に目薬屋さんで箱子に話しかける"
+      "condition": "Time Trial Modeで{TIME}以内に目薬屋さんで箱子に話しかける"
     },
     "fabric_planet": {
       "name": "ツギハギ星",
-      "description": "ツギハギタウンに到達する"
+      "condition": "ツギハギタウンのツギハギ星に到達する"
     },
     "fabric_galaxy": {
       "name": "ツギハギ銀河",
-      "description": "Time Trial Modeで{TIME}以内にツギハギタウンに到達する"
+      "condition": "Time Trial Modeで{TIME}以内にツギハギタウンのツギハギ星に到達する"
     },
     "lavender_lesser": {
       "name": "パープルジェム",
-      "description": "紫湖に到達する"
+      "condition": "紫湖に到達する"
     },
     "lavender": {
       "name": "ラベンダージェム",
-      "description": "Time Trial Modeで{TIME}以内に紫湖に到達する"
+      "condition": "Time Trial Modeで{TIME}以内に紫湖に到達する"
     },
     "butterfly_lesser": {
       "name": "サンセットバタフライブローチ",
-      "description": "Butterflyの最奥に到達する"
+      "condition": "Butterflyの最奥に到達する"
     },
     "butterfly": {
       "name": "トワイライトバタフライブローチ",
-      "description": "Time Trial Modeで{TIME}以内にButterflyの最奥に到達する"
+      "condition": "Time Trial Modeで{TIME}以内にButterflyの最奥に到達する"
     },
     "magical_lesser": {
       "name": "キキ",
-      "description": "マジカルに到達する"
+      "condition": "マジカルに到達する"
     },
     "magical": {
       "name": "マーリン",
-      "description": " Time Trial Modeで{TIME}以内にマジカルに到達する"
+      "condition": " Time Trial Modeで{TIME}以内にマジカルに到達する"
     },
     "voxels": {
       "name": "マジカルブロック",
-      "description": "ブロック島に到達する"
+      "condition": "ブロック島に到達する"
     },
     "vending_machine": {
       "name": "自動販売機",
-      "description": "展示スペースを完成させて訪れる"
+      "condition": "展示スペースを完成させて訪れる"
     },
     "clover": {
       "name": "深紅色のクローバー",
-      "description": "幸運を祈る…"
+      "condition": "幸運を祈る…"
     }
   },
   "flow": {
     "cake": {
       "name": "チョコレートケーキ",
-      "description": "sugars holeでケーキを20個以上食べる"
+      "condition": "sugars holeでケーキを20個以上食べる"
     }
   },
   "prayers": {
@@ -176,7 +191,7 @@
     },
     "missingno": {
       "name": "けつばん",
-      "description": "けつばんに触れる"
+      "condition": "けつばんに触れる"
     }
   }
 }
