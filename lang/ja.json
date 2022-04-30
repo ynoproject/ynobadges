@@ -82,6 +82,10 @@
       "name": "呪いの鏡",
       "condition": "地下室でカーテン越しの人影のムービーを見る"
     },
+    "neon_highway": {
+      "name": "Neon Souvenir",
+      "condition": "Get to the Neon Highway"
+    },
     "black_king": {
       "name": "ブラックキング",
       "condition": "平行四辺形チェスの大広間に到達する"
@@ -120,10 +124,6 @@
     "operator_cyborg": {
       "name": "ラストメモリー",
       "condition": "錆鉄にいるギプ子に話しかける"
-    },
-    "singularity": {
-      "name": "紅の混沌",
-      "condition": "Rio氏の世界にいる全6人の人型オブジェクトに話しかける。既に見つけている場合は、見つけた場所に行く。"
     },
     "hakoko": {
       "name": "箱子",
@@ -169,6 +169,18 @@
       "name": "マジカルブロック",
       "condition": "ブロック島に到達する"
     },
+    "digital_rose": {
+      "name": "Digital Rose",
+      "condition": "Bloom all of the gray roses in the Neon Caves"
+    },
+    "singularity": {
+      "name": "紅の混沌",
+      "condition": "Rio氏の世界にいる全6人の人型オブジェクトに話しかける。既に見つけている場合は、見つけた場所に行く。"
+    },
+    "portrait": {
+      "name": "誰かの肖像",
+      "condition": "時は銀なりの肖像画を完成させる"
+    },
     "vending_machine": {
       "name": "自動販売機",
       "condition": "展示スペースを完成させて訪れる"
@@ -192,6 +204,12 @@
     "missingno": {
       "name": "けつばん",
       "condition": "けつばんに触れる"
+    }
+  },
+  "unevendream": {
+    "inkblot_test": {
+      "name": "Inkblot Test",
+      "condition": "Trigger the Therapy event in the Deranged Faces Zone"
     }
   }
 }

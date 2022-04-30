@@ -82,6 +82,10 @@
       "name": "不祥之镜",
       "condition": "从地下室的门缝中窥探"
     },
+    "neon_highway": {
+      "name": "Neon Souvenir",
+      "condition": "Get to the Neon Highway"
+    },
     "black_king": {
       "name": "黑王",
       "condition": "登上象棋世界的棋盘"
@@ -120,10 +124,6 @@
     "operator_cyborg": {
       "name": "锖色芳华",
       "condition": "与锖铁的半机械少女产生共鸣"
-    },
-    "singularity": {
-      "name": "微型黑洞",
-      "condition": "在Rio的世界里，找到所有6个黑洞女孩并与其互动。若之前已经互动过，则必须抵达每个女孩对应的出现地点。"
     },
     "hakoko": {
       "name": "箱子",
@@ -169,6 +169,18 @@
       "name": "魔法体素",
       "condition": "不惜一切手段抵达方块岛"
     },
+    "digital_rose": {
+      "name": "Digital Rose",
+      "condition": "Bloom all of the gray roses in the Neon Caves"
+    },
+    "singularity": {
+      "name": "微型黑洞",
+      "condition": "在Rio的世界里，找到所有6个黑洞女孩并与其互动。若之前已经互动过，则必须抵达每个女孩对应的出现地点。"
+    },
+    "portrait": {
+      "name": "The Portrait",
+      "condition": "Complete the Lorn Tower portrait"
+    },
     "vending_machine": {
       "name": "自动贩卖机",
       "condition": "达成零食全收集"
@@ -192,6 +204,12 @@
     "missingno": {
       "name": "蓝屏",
       "condition": "找到并调查 MissingNo."
+    }
+  },
+  "unevendream": {
+    "inkblot_test": {
+      "name": "Inkblot Test",
+      "condition": "Trigger the Therapy event in the Deranged Faces Zone"
     }
   }
 }

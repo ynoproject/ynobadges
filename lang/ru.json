@@ -82,6 +82,10 @@
       "name": "Haunted Mirror",
       "condition": "See the Woman in the Mirror event in the Ocean Storehouse"
     },
+    "neon_highway": {
+      "name": "Neon Souvenir",
+      "condition": "Get to the Neon Highway"
+    },
     "black_king": {
       "name": "Black King",
       "condition": "Enter the chess board in Chess World"
@@ -120,10 +124,6 @@
     "operator_cyborg": {
       "name": "Rusted Memory",
       "condition": "Resonate with the Cyborg Operator in the Rusty Urban Complex"
-    },
-    "singularity": {
-      "name": "Miniature Singularity",
-      "condition": "Find and interact with All 6 Black Hole Girls in Rio's worlds. If you have already done so previously, you must visit the area where you found them."
     },
     "hakoko": {
       "name": "Hakoko",
@@ -169,6 +169,18 @@
       "name": "Magical Voxels",
       "condition": "Exploit the rules of the dream realm and reach Voxel Island"
     },
+    "digital_rose": {
+      "name": "Digital Rose",
+      "condition": "Bloom all of the gray roses in the Neon Caves"
+    },
+    "singularity": {
+      "name": "Miniature Singularity",
+      "condition": "Find and interact with All 6 Black Hole Girls in Rio's worlds. If you have already done so previously, you must visit the area where you found them."
+    },
+    "portrait": {
+      "name": "The Portrait",
+      "condition": "Complete the Lorn Tower portrait"
+    },
     "vending_machine": {
       "name": "Vending Machine",
       "condition": "Complete and visit the Snack Gallery"
@@ -192,6 +204,12 @@
     "missingno": {
       "name": "Заглючено",
       "condition": "Найдите MissingNo."
+    }
+  },
+  "unevendream": {
+    "inkblot_test": {
+      "name": "Inkblot Test",
+      "condition": "Trigger the Therapy event in the Deranged Faces Zone"
     }
   }
 }
