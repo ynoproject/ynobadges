@@ -170,12 +170,20 @@
       "condition": "ブロック島に到達する"
     },
     "digital_rose": {
-      "name": "Digital Rose",
-      "condition": "Bloom all of the gray roses in the Neon Caves"
+      "name": "デジタルの薔薇",
+      "condition": "ネオンケイブですべての薔薇を咲かせる"
     },
     "singularity": {
       "name": "紅の混沌",
       "condition": "Rio氏の世界にいる全6人の人型オブジェクトに話しかける。既に見つけている場合は、見つけた場所に行く。"
+    },
+    "circus_lesser": {
+      "name": "ショーからの大脱出",
+      "condition": "ショーを成功させる"
+    },
+    "circus": {
+      "name": "地上最大のショウ",
+      "condition": "一度も捕まることなく、ショーを成功させる"
     },
     "portrait": {
       "name": "誰かの肖像",
@@ -185,9 +193,34 @@
       "name": "自動販売機",
       "condition": "展示スペースを完成させて訪れる"
     },
+    "piggy_bank": {
+      "name": "シルバー会員",
+      "description": "お金持ち",
+      "condition": "夢銀行に10000夢預ける"
+    },
+    "piggy_bank_gold": {
+      "name": "ゴールド会員",
+      "description": "大金持ち",
+      "condition": "夢銀行に100000夢預ける"
+    },
+    "piggy_bank_vip": {
+      "name": "財閥",
+      "description": "V.I.P.",
+      "condition": "夢銀行に999999夢預ける"
+    },
     "clover": {
       "name": "深紅色のクローバー",
       "condition": "幸運を祈る…"
+    },
+    "ticket": {
+      "name": "切符",
+      "description": "To the skyline!",
+      "condition": "エンディングNo.4を見る"
+    },
+    "grafitti": {
+      "name": "ゆめの最果て",
+      "description": "She is still dreaming to this day...",
+      "condition": "全てのEDを見て、ゆめの最果てへと辿り着く"
     }
   },
   "flow": {
