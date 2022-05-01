@@ -177,6 +177,14 @@
       "name": "Miniature Singularity",
       "condition": "Find and interact with All 6 Black Hole Girls in Rio's worlds. If you have already done so previously, you must visit the area where you found them."
     },
+    "circus_lesser": {
+      "name": "Escape From the Show",
+      "condition": "Complete the High Priestess event"
+    },
+    "circus": {
+      "name": "The Greatest Show",
+      "condition": "Complete the High Priestess event without being caught by a single chaser"
+    },
     "portrait": {
       "name": "The Portrait",
       "condition": "Complete the Lorn Tower portrait"
@@ -185,9 +193,34 @@
       "name": "Vending Machine",
       "condition": "Complete and visit the Snack Gallery"
     },
+    "piggy_bank": {
+      "name": "Silver Member",
+      "description": "Rich",
+      "condition": "Deposit 10000夢 in the Dream Bank"
+    },
+    "piggy_bank_gold": {
+      "name": "Gold Member",
+      "description": "Very rich",
+      "condition": "Deposit 100000夢 in the Dream Bank"
+    },
+    "piggy_bank_vip": {
+      "name": "Millionaire",
+      "description": "V.I.P.",
+      "condition": "Deposit 999999夢 in the Dream Bank"
+    },
     "clover": {
       "name": "Розово-Красный клевер",
       "condition": "Феноменальное везение..."
+    },
+    "ticket": {
+      "name": "Ticket",
+      "description": "To the skyline!",
+      "condition": "Reach Ending #4"
+    },
+    "graffiti": {
+      "name": "The Farthest",
+      "description": "She is still dreaming to this day...",
+      "condition": "View all the endings and reach the farthest room of Urotsuki's dream world"
     }
   },
   "flow": {

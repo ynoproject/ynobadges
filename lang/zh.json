@@ -177,6 +177,14 @@
       "name": "微型黑洞",
       "condition": "在Rio的世界里，找到所有6个黑洞女孩并与其互动。若之前已经互动过，则必须抵达每个女孩对应的出现地点。"
     },
+    "circus_lesser": {
+      "name": "Escape From the Show",
+      "condition": "Complete the High Priestess event"
+    },
+    "circus": {
+      "name": "The Greatest Show",
+      "condition": "Complete the High Priestess event without being caught by a single chaser"
+    },
     "portrait": {
       "name": "The Portrait",
       "condition": "Complete the Lorn Tower portrait"
@@ -185,9 +193,34 @@
       "name": "自动贩卖机",
       "condition": "达成零食全收集"
     },
+    "piggy_bank": {
+      "name": "Silver Member",
+      "description": "Rich",
+      "condition": "Deposit 10000夢 in the Dream Bank"
+    },
+    "piggy_bank_gold": {
+      "name": "Gold Member",
+      "description": "Very rich",
+      "condition": "Deposit 100000夢 in the Dream Bank"
+    },
+    "piggy_bank_vip": {
+      "name": "Millionaire",
+      "description": "V.I.P.",
+      "condition": "Deposit 999999夢 in the Dream Bank"
+    },
     "clover": {
       "name": "红白四叶草纹章",
       "condition": "祝君好运……"
+    },
+    "ticket": {
+      "name": "Ticket",
+      "description": "To the skyline!",
+      "condition": "Reach Ending #4"
+    },
+    "graffiti": {
+      "name": "The Farthest",
+      "description": "She is still dreaming to this day...",
+      "condition": "View all the endings and reach the farthest room of Urotsuki's dream world"
     }
   },
   "flow": {
