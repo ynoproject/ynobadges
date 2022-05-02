@@ -90,10 +90,18 @@
       "name": "Black King",
       "condition": "Enter the chess board in Chess World"
     },
+    "silver_whale": {
+      "name": "Silver Ocean",
+      "condition": "Spot a whale at the Silver Mansion"
+    },
     "obentou": {
       "name": "도시락 뱃지",
       "description": "오벤토우ㅡ",
       "condition": "Go to Obentou World"
+    },
+    "rainbow_picture": {
+      "name": "Rainbow Picture",
+      "condition": "Enter the colourful Private Rooms"
     },
     "compass_28": {
       "name": "28 뱃지",
@@ -111,6 +119,10 @@
       "name": "Zalgo의 비탄",
       "condition": "Magnet Room 에서 Zalgo 이벤트를 완료하기"
     },
+    "lotus_girl": {
+      "name": "Lotus Girl",
+      "condition": "Using the Twintails effect, find the girl who takes you to Lotus Park and interact with her"
+    },
     "aooh": {
       "name": "Aooh의 눈빛",
       "description": "ㅂ@%15(@)ㅜㄹ@6#1$3ㅇ@)%3^ㅡ6#(%4)ㄹ@7#$9#ㄲ7#$7@ㅡ9ㅈ@#9$ㅣ8@%7#7ㅁ@)7%#ㅏ7",
@@ -119,11 +131,15 @@
     "snow_fairy": {
       "name": "Snowy Fairy",
       "description": "The Smiling Fairy",
-      "condition": "Interact with the Snow Fairy in the Snowy Forest"
+      "condition": "Interact with a certain fairy"
     },
     "operator_cyborg": {
       "name": "녹슬은 기억 뱃지",
       "condition": "Rusty Urban Complex에서 사이보그 관리자 이벤트를 감상하기"
+    },
+    "parasite": {
+      "name": "Parasitic",
+      "condition": "Chainsaw the test tube in the Parasite Laboratory"
     },
     "hakoko": {
       "name": "하코코 뱃지",
@@ -157,6 +173,10 @@
       "name": "밤하늘빛 나비 브로치",
       "condition": "Time Trial Mode를 키고 Lunar Sanctuary 서브 에리어에 {TIME} 이내로 도달하기"
     },
+    "streetlight": {
+      "name": "Gloomy Streetlight",
+      "condition": "Reach the Streetlight Garden"
+    },
     "magical_lesser": {
       "name": "키키 뱃지",
       "condition": "Magical Passage 방문하기"
@@ -185,6 +205,10 @@
       "name": "The Greatest Show",
       "condition": "Complete the High Priestess event without being caught by a single chaser"
     },
+    "snow_queen": {
+      "name": "Snow Queen",
+      "condition": "Collect 50 tiny floating snowflakes"
+    },
     "portrait": {
       "name": "The Portrait",
       "condition": "Complete the Lorn Tower portrait"
@@ -212,6 +236,11 @@
       "name": "심홍색 클로버 뱃지",
       "condition": "운수대통!"
     },
+    "pacifist": {
+      "name": "Pacifist",
+      "description": "Nobody has to die",
+      "condition": "See Ending ? without killing anyone"
+    },
     "ticket": {
       "name": "Ticket",
       "description": "To the skyline!",
@@ -230,6 +259,11 @@
     }
   },
   "prayers": {
+    "broken_clock": {
+      "name": "Broken Clock",
+      "description": "What's the time again?",
+      "condition": "Find the cyclops monster room in Clocks World"
+    },
     "koraiyn": {
       "name": "코라인 뱃지",
       "description": "코라인(Koraiyn)이 대체 뭐야?"
@@ -237,9 +271,18 @@
     "missingno": {
       "name": "글리치 뱃지",
       "condition": "미싱노(Missing NO.)를 찾아서 상호작용하기"
+    },
+    "halo": {
+      "name": "Halo of the Deceased",
+      "condition": "Enter the crashed bus in Ice World"
     }
   },
   "unevendream": {
+    "el_bebe": {
+      "name": "el bebe",
+      "description": "it is born",
+      "condition": "Trigger the el bebe event"
+    },
     "inkblot_test": {
       "name": "Inkblot Test",
       "condition": "Trigger the Therapy event in the Deranged Faces Zone"

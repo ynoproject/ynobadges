@@ -90,10 +90,18 @@
       "name": "ブラックキング",
       "condition": "平行四辺形チェスの大広間に到達する"
     },
+    "silver_whale": {
+      "name": "シルバーオーシャン",
+      "condition": "銀洋館でクジラを見る"
+    },
     "obentou": {
       "name": "Obentou",
       "description": "おべんとう",
       "condition": "吐き気に到達する"
+    },
+    "rainbow_picture": {
+      "name": "虹の絵",
+      "condition": "虹色の色の個室に到達する"
     },
     "compass_28": {
       "name": "28",
@@ -111,6 +119,10 @@
       "name": "うつむきさん",
       "condition": "うつむき部屋に到達する"
     },
+    "lotus_girl": {
+      "name": "蓮華少女",
+      "condition": "Using the Twintails effect, find the girl who takes you to Lotus Park and interact with her"
+    },
     "aooh": {
       "name": "アオォの威光",
       "description": ";-82)77C%33,C)1)6+)C*631C&)=32(C-2C%,3+)/37C,397)",
@@ -119,11 +131,15 @@
     "snow_fairy": {
       "name": "スノーフェアリー",
       "description": "微笑む妖精",
-      "condition": "目覚めの森でスノーフェアリーと話す"
+      "condition": "Interact with a certain fairy"
     },
     "operator_cyborg": {
       "name": "ラストメモリー",
       "condition": "錆鉄にいるギプ子に話しかける"
+    },
+    "parasite": {
+      "name": "Parasitic",
+      "condition": "Chainsaw the test tube in the Parasite Laboratory"
     },
     "hakoko": {
       "name": "箱子",
@@ -157,6 +173,10 @@
       "name": "トワイライトバタフライブローチ",
       "condition": "Time Trial Modeで{TIME}以内にButterflyの最奥に到達する"
     },
+    "streetlight": {
+      "name": "Gloomy Streetlight",
+      "condition": "Reach the Streetlight Garden"
+    },
     "magical_lesser": {
       "name": "キキ",
       "condition": "マジカルに到達する"
@@ -185,6 +205,10 @@
       "name": "地上最大のショウ",
       "condition": "一度も捕まることなく、ショーを成功させる"
     },
+    "snow_queen": {
+      "name": "雪の女王",
+      "condition": "粉雪を50個集める"
+    },
     "portrait": {
       "name": "誰かの肖像",
       "condition": "時は銀なりの肖像画を完成させる"
@@ -212,6 +236,11 @@
       "name": "深紅色のクローバー",
       "condition": "幸運を祈る…"
     },
+    "pacifist": {
+      "name": "Pacifist",
+      "description": "誰も死ぬ必要はない。",
+      "condition": "誰も殺さずにEDを見る"
+    },
     "ticket": {
       "name": "切符",
       "description": "To the skyline!",
@@ -230,6 +259,11 @@
     }
   },
   "prayers": {
+    "broken_clock": {
+      "name": "Broken Clock",
+      "description": "What's the time again?",
+      "condition": "Find the cyclops monster room in Clocks World"
+    },
     "koraiyn": {
       "name": "Koraiyn",
       "description": "Koraiynって何？"
@@ -237,9 +271,18 @@
     "missingno": {
       "name": "けつばん",
       "condition": "けつばんに触れる"
+    },
+    "halo": {
+      "name": "Halo of the Deceased",
+      "condition": "Enter the crashed bus in Ice World"
     }
   },
   "unevendream": {
+    "el_bebe": {
+      "name": "el bebe",
+      "description": "it is born",
+      "condition": "Trigger the el bebe event"
+    },
     "inkblot_test": {
       "name": "ロールシャッハテスト",
       "condition": "Deranged Faces Zoneで検査イベントを見る"

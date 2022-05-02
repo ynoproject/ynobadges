@@ -90,10 +90,18 @@
       "name": "黑王",
       "condition": "登上象棋世界的棋盘"
     },
+    "silver_whale": {
+      "name": "Silver Ocean",
+      "condition": "Spot a whale at the Silver Mansion"
+    },
     "obentou": {
       "name": "便当",
       "description": "おべんとう",
       "condition": "被噁心到"
+    },
+    "rainbow_picture": {
+      "name": "Rainbow Picture",
+      "condition": "Enter the colourful Private Rooms"
     },
     "compass_28": {
       "name": "28",
@@ -111,6 +119,10 @@
       "name": "Zalgo的挽歌",
       "condition": "在磁力工厂里，成功抵达Zalgo事件最终通向的房间"
     },
+    "lotus_girl": {
+      "name": "Lotus Girl",
+      "condition": "Using the Twintails effect, find the girl who takes you to Lotus Park and interact with her"
+    },
     "aooh": {
       "name": "Aooh之凝视",
       "description": "獗網瑪寤醱腹衾渭楷庌泆岈",
@@ -119,11 +131,15 @@
     "snow_fairy": {
       "name": "雪妖精",
       "description": "妖精的微笑",
-      "condition": "找到并与梦醒之森的妖精互动"
+      "condition": "Interact with a certain fairy"
     },
     "operator_cyborg": {
       "name": "锖色芳华",
       "condition": "与锖铁的半机械少女产生共鸣"
+    },
+    "parasite": {
+      "name": "Parasitic",
+      "condition": "Chainsaw the test tube in the Parasite Laboratory"
     },
     "hakoko": {
       "name": "箱子",
@@ -157,6 +173,10 @@
       "name": "暮色蝴蝶胸针",
       "condition": "在计时模式下，于{TIME}内抵达天使之夜"
     },
+    "streetlight": {
+      "name": "Gloomy Streetlight",
+      "condition": "Reach the Streetlight Garden"
+    },
     "magical_lesser": {
       "name": "琪琪",
       "condition": "抵达魔法通路"
@@ -185,6 +205,10 @@
       "name": "完美谢幕",
       "condition": "无伤完成高阶女祭司事件"
     },
+    "snow_queen": {
+      "name": "Snow Queen",
+      "condition": "Collect 50 tiny floating snowflakes"
+    },
     "portrait": {
       "name": "肖像画",
       "condition": "完成时计塔内的肖像画"
@@ -212,6 +236,11 @@
       "name": "红白四叶草纹章",
       "condition": "祝君好运……"
     },
+    "pacifist": {
+      "name": "Pacifist",
+      "description": "Nobody has to die",
+      "condition": "See Ending ? without killing anyone"
+    },
     "ticket": {
       "name": "车票",
       "description": "走，上天去！",
@@ -230,6 +259,11 @@
     }
   },
   "prayers": {
+    "broken_clock": {
+      "name": "Broken Clock",
+      "description": "What's the time again?",
+      "condition": "Find the cyclops monster room in Clocks World"
+    },
     "koraiyn": {
       "name": "Koraiyn",
       "description": "Koraiyn 到底是个啥子？"
@@ -237,9 +271,18 @@
     "missingno": {
       "name": "蓝屏",
       "condition": "找到并调查 MissingNo."
+    },
+    "halo": {
+      "name": "Halo of the Deceased",
+      "condition": "Enter the crashed bus in Ice World"
     }
   },
   "unevendream": {
+    "el_bebe": {
+      "name": "el bebe",
+      "description": "it is born",
+      "condition": "Trigger the el bebe event"
+    },
     "inkblot_test": {
       "name": "墨迹测验",
       "condition": "在狰狞面世界触发治疗师事件"
