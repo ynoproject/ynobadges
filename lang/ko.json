@@ -86,6 +86,11 @@
       "name": "Neon Souvenir",
       "condition": "Get to the Neon Highway"
     },
+    "crying_eyes": {
+      "name": "100 Tears",
+      "description": "They saw everything.",
+      "condition": "Use the Eyeball Bomb effect in the Crying Eyes Cave in Cloudy World"
+    },
     "black_king": {
       "name": "Black King",
       "condition": "Enter the chess board in Chess World"
@@ -98,6 +103,10 @@
       "name": "도시락 뱃지",
       "description": "오벤토우ㅡ",
       "condition": "Go to Obentou World"
+    },
+    "rainbow_paint": {
+      "name": "Road to Rainbow",
+      "condition": "Finish the painting in Pencil World"
     },
     "rainbow_picture": {
       "name": "Rainbow Picture",
@@ -148,6 +157,16 @@
     "hakoko_prime": {
       "name": "하코코 프라임 뱃지",
       "condition": "Time Trial Mode를 키고 Visine World의 안약 가게에 있는 하코코 NPC와 {TIME} 이내로 상호작용 하기"
+    },
+    "lotus_waters_lesser": {
+      "name": "Water Flowers",
+      "description": "Flowers beneath the secluded waters",
+      "condition": "Reach the Lotus Waters"
+    },
+    "lotus_waters": {
+      "name": "Blooming Water Flowers",
+      "description": "Aquatic flowers in full bloom",
+      "condition": "Reach the Lotus Waters in {TIME} or less in Time Trial Mode"
     },
     "fabric_planet": {
       "name": "헝겊 행성 뱃지",
@@ -277,10 +296,17 @@
       "condition": "Enter the crashed bus in Ice World"
     }
   },
+  "deepdreams": {
+    "carousel": {
+      "name": "Carousel",
+      "description": "Return to a simpler time",
+      "condition": "Trigger the full screen carousel event in Misty Forest"
+    }
+  },
   "unevendream": {
     "el_bebe": {
       "name": "el bebe",
-      "description": "it is born",
+      "description": "it is born.",
       "condition": "Trigger the el bebe event"
     },
     "inkblot_test": {

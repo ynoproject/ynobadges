@@ -86,6 +86,11 @@
       "name": "ネオンメメント",
       "condition": "裏駐車場に行く"
     },
+    "crying_eyes": {
+      "name": "100 Tears",
+      "description": "They saw everything.",
+      "condition": "Use the Eyeball Bomb effect in the Crying Eyes Cave in Cloudy World"
+    },
     "black_king": {
       "name": "ブラックキング",
       "condition": "平行四辺形チェスの大広間に到達する"
@@ -98,6 +103,10 @@
       "name": "Obentou",
       "description": "おべんとう",
       "condition": "吐き気に到達する"
+    },
+    "rainbow_paint": {
+      "name": "Road to Rainbow",
+      "condition": "Finish the painting in Pencil World"
     },
     "rainbow_picture": {
       "name": "虹の絵",
@@ -148,6 +157,16 @@
     "hakoko_prime": {
       "name": "箱子プライム",
       "condition": "Time Trial Modeで{TIME}以内に目薬屋さんで箱子に話しかける"
+    },
+    "lotus_waters_lesser": {
+      "name": "Water Flowers",
+      "description": "Flowers beneath the secluded waters",
+      "condition": "Reach the Lotus Waters"
+    },
+    "lotus_waters": {
+      "name": "Blooming Water Flowers",
+      "description": "Aquatic flowers in full bloom",
+      "condition": "Reach the Lotus Waters in {TIME} or less in Time Trial Mode"
     },
     "fabric_planet": {
       "name": "ツギハギ星",
@@ -275,6 +294,13 @@
     "halo": {
       "name": "死者の光輪",
       "condition": "Ice Worldで墜落したバスに入る"
+    }
+  },
+  "deepdreams": {
+    "carousel": {
+      "name": "Carousel",
+      "description": "Return to a simpler time",
+      "condition": "Trigger the full screen carousel event in Misty Forest"
     }
   },
   "unevendream": {

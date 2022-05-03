@@ -86,6 +86,11 @@
       "name": "虹色仪表盘",
       "condition": "抵达里停车场"
     },
+    "crying_eyes": {
+      "name": "100 Tears",
+      "description": "They saw everything.",
+      "condition": "Use the Eyeball Bomb effect in the Crying Eyes Cave in Cloudy World"
+    },
     "black_king": {
       "name": "黑王",
       "condition": "登上象棋世界的棋盘"
@@ -98,6 +103,10 @@
       "name": "便当",
       "description": "おべんとう",
       "condition": "被噁心到"
+    },
+    "rainbow_paint": {
+      "name": "Road to Rainbow",
+      "condition": "Finish the painting in Pencil World"
     },
     "rainbow_picture": {
       "name": "七彩画像",
@@ -148,6 +157,16 @@
     "hakoko_prime": {
       "name": "快递箱子",
       "condition": "在计时模式下，于{TIME}内抵达目药屋并与箱子互动"
+    },
+    "lotus_waters_lesser": {
+      "name": "Water Flowers",
+      "description": "Flowers beneath the secluded waters",
+      "condition": "Reach the Lotus Waters"
+    },
+    "lotus_waters": {
+      "name": "Blooming Water Flowers",
+      "description": "Aquatic flowers in full bloom",
+      "condition": "Reach the Lotus Waters in {TIME} or less in Time Trial Mode"
     },
     "fabric_planet": {
       "name": "布料星球",
@@ -275,6 +294,13 @@
     "halo": {
       "name": "逝者的光环",
       "condition": "进入冰封街道的事故巴士"
+    }
+  },
+  "deepdreams": {
+    "carousel": {
+      "name": "Carousel",
+      "description": "Return to a simpler time",
+      "condition": "Trigger the full screen carousel event in Misty Forest"
     }
   },
   "unevendream": {
