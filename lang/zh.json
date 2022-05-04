@@ -78,6 +78,10 @@
       "name": "钢印",
       "condition": "把流浪子刻成钢印"
     },
+    "dogboa": {
+      "name": "Dogboa",
+      "condition": "Catch a glimpse of Dogboa in the Sky Kingdom"
+    },
     "haunted_mirror": {
       "name": "不祥之镜",
       "condition": "从地下室的门缝中窥探"
@@ -94,6 +98,10 @@
     "black_king": {
       "name": "黑王",
       "condition": "登上象棋世界的棋盘"
+    },
+    "fluorescent": {
+      "name": "Fluorescent Equinox",
+      "condition": "Enter the Fluorescent City"
     },
     "silver_whale": {
       "name": "银色海洋",
@@ -142,13 +150,17 @@
       "description": "妖精的微笑",
       "condition": "与某位妖精碰面"
     },
+    "parasite": {
+      "name": "寄生",
+      "condition": "破坏寄生兽研究所内的培养皿"
+    },
     "operator_cyborg": {
       "name": "锖色芳华",
       "condition": "与锖铁的半机械少女产生共鸣"
     },
-    "parasite": {
-      "name": "寄生",
-      "condition": "破坏寄生兽研究所内的培养皿"
+    "mushroom": {
+      "name": "Iridescent Mushroom",
+      "condition": "Unseal the mushroom girl from her stone prison"
     },
     "hakoko": {
       "name": "箱子",
@@ -175,6 +187,14 @@
     "fabric_galaxy": {
       "name": "布料银河",
       "condition": "在计时模式下，于{TIME}内抵达补丁小镇的布料星球"
+    },
+    "monochrome_stairs_lesser": {
+      "name": "Monochrome Stairs",
+      "condition": "Reach the Static Labyrinth"
+    },
+    "monochrome_stairs": {
+      "name": "M̶o̸n̷oc̸h̵r̶o̸m̵e̵ S̶t̷a̵i̷rs̵",
+      "condition": "Reach the Static Labyrinth in {TIME} or less in Time Trial Mode"
     },
     "lavender_lesser": {
       "name": "紫色宝石",
@@ -211,6 +231,10 @@
     "digital_rose": {
       "name": "数字玫瑰",
       "condition": "使霓虹洞窟内的所有灰色玫瑰绽放"
+    },
+    "roku": {
+      "name": "Psychedelic Folk",
+      "condition": "Visit the Underground Lake, the Cliffside Woods, and the Radiant Stones Pathway"
     },
     "singularity": {
       "name": "微型黑洞",
@@ -300,7 +324,7 @@
     "carousel": {
       "name": "Carousel",
       "description": "Return to a simpler time",
-      "condition": "Trigger the full screen carousel event in Misty Forest"
+      "condition": "Trigger the full screen carousel event in the Misty Forest"
     }
   },
   "unevendream": {
@@ -308,6 +332,16 @@
       "name": "宝赑儿",
       "description": "☢ミ絀貹溂灬✾",
       "condition": "触发 el bebe 事件"
+    },
+    "clay": {
+      "name": "Hidden Clay",
+      "description": "This probably belongs somewhere else...",
+      "condition": "Reach the hidden room in the Stone Wasteland"
+    },
+    "fantasy_crystal": {
+      "name": "Crystal of Fantasy",
+      "description": "01001110 01000101 01010011",
+      "condition": "Reach the roof of NES World"
     },
     "inkblot_test": {
       "name": "墨迹测验",
