@@ -23,6 +23,24 @@
     "blackcat": {
       "name": "黒猫",
       "condition": "デパート屋上で魔女イベントを発生させる"
+    },
+    "face": {
+      "name": "KyuuKyuu-kun",
+      "description": "Fancy a massage?",
+      "condition": "Trigger the FACE event"
+    },
+    "glitch": {
+      "name": "�� �������",
+      "description": "R̵̫̣͎͊̉ķ̶͓̺̓̃̚M̷̧̜̮̒̿͂g̴̺̏͘Ŗ̵̝̲͛̉̎̄Ḫ̶̲̣̤̾V̴̢͚͔̘́u̵̳̽͆̑͝Z̷͇̈́̿̇Ẇ̵̬̼͉̪̓͊9̸̧̟̈̔̆ṳ̶̞̑̒",
+      "condition": "Trigger the FC Dungeon glitch"
+    },
+    "mars": {
+      "name": "Mars-san",
+      "condition": "Visit Mars-san"
+    },
+    "organoid": {
+      "name": "No Escape",
+      "condition": "Stab Organoid"
     }
   },
   "2kki": {
@@ -301,12 +319,43 @@
     "chocolate_tower": {
       "name": "Monolith of Sweets",
       "condition": "Enter the Chocolate Tower"
+    },
+    "vomiting": {
+      "name": "嘔吐",
+      "condition": "嘔吐通路に到達する"
+    },
+    "hanako": {
+      "name": "Hanako",
+      "condition": "Meet Hanako in the Lotus Lamp Room at the Misty Bridges"
+    },
+    "oni_musume": {
+      "name": "Oni Musume",
+      "description": "The Unmoving Tiny Library",
+      "condition": "Interact with Oni Musume in the Dark Room"
+    },
+    "deserted_space": {
+      "name": "Deserted Space",
+      "description": "A fine place to take a break",
+      "condition": "Find the secret room in the Ruined Garden"
+    },
+    "moai_bro": {
+      "name": "Moai Bro",
+      "condition": "Enter the Moai Bro Prison in the Sea of Clouds"
     }
   },
   "flow": {
+    "rust": {
+      "name": "Rust",
+      "condition": "Become Rust"
+    },
     "cake": {
       "name": "チョコレートケーキ",
       "condition": "sugars holeでケーキを20個以上食べる"
+    },
+    "sewer": {
+      "name": "Sewer Slime",
+      "description": "Maybe you shouldn't have drank that...",
+      "condition": "See the 'Blood, Pus, Rust' event"
     }
   },
   "prayers": {
@@ -364,6 +413,33 @@
       "name": "Contained Deer",
       "description": "How did it get there?",
       "condition": "Interact with the water tank with the deer head in it"
+    },
+    "dream_flower": {
+      "name": "Dream Flower",
+      "description": "A plant from the deepest parts of your mind",
+      "condition": "Enter the house in the Subconscious Garden"
+    },
+    "dude": {
+      "name": "DUDE",
+      "description": "DUDE",
+      "condition": "Complete the DUDE event"
+    },
+    "pc98": {
+      "name": "Old Computer",
+      "description": "It still works!",
+      "condition": "Enter PC98 World"
+    },
+    "sun_flower": {
+      "name": "A Flower for the Sun",
+      "description": "Was the attempt worth it?",
+      "condition": "Trigger the Sun Lord's Wrath event"
+    }
+  },
+  "braingirl": {
+    "lotus_cluster": {
+      "name": "Lotus Cluster",
+      "description": "A happy and relaxing time in the water",
+      "condition": "Enter the Hot Springs"
     }
   }
 }
