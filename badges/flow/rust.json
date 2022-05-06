@@ -1,10 +1,6 @@
 {
-  "reqType": "tags",
-  "reqStrings": [
-    "rust",
-    "rust_activation"
-  ],
-  "reqOr": true,
+  "reqType": "tag",
+  "reqString": "rust",
   "map": 261,
   "secretMap": true,
   "secretCondition": true,
