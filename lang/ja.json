@@ -376,7 +376,7 @@
     },
     "moai_bro": {
       "name": "モアイ",
-      "condition": "水面の天獄に到達する"
+      "condition": "Interact with Moai Bro in his prison cell in the Sea of Clouds"
     },
     "hebiko": {
       "name": "蛇女",
@@ -415,7 +415,7 @@
     },
     "noranyan": {
       "name": "Noranyan",
-      "description": "Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanyadai nyanynaku nyarabete nyaganyagame.",
+      "description": "にゃにゃめにゃにゃじゅうにゃにゃどのにゃらびでにゃくにゃくいにゃにゃくにゃにゃはんにゃにゃだいにゃんにゃくにゃらべてにゃがにゃがめ。",
       "condition": "Interact with Noranyan in the Sofa Room"
     },
     "cheese": {
@@ -479,6 +479,10 @@
       "name": "Paradise",
       "description": "Whale hello there.",
       "condition": "Enter Paradise"
+    },
+    "effects_speedrun": {
+      "name": "予定あるけど2っきクリアしてえ！！",
+      "condition": "Time Trial Modeで{TIME}以内に全てのエフェクトを捨てて現実部屋に行く"
     }
   },
   "flow": {

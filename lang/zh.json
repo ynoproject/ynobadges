@@ -376,7 +376,7 @@
     },
     "moai_bro": {
       "name": "摩艾小哥",
-      "condition": "闯入云海的牢房"
+      "condition": "Interact with Moai Bro in his prison cell in the Sea of Clouds"
     },
     "hebiko": {
       "name": "蛇子",
@@ -479,6 +479,10 @@
       "name": "金云海",
       "description": "鲸云海",
       "condition": "升入金云海"
+    },
+    "effects_speedrun": {
+      "name": "I have work in 1 hour but I want to beat Yume 2kki!",
+      "condition": "Wake up with all effects dropped in {TIME} or less in Time Trial Mode"
     }
   },
   "flow": {
