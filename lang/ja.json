@@ -77,6 +77,14 @@
       "name": "ワタシクローゼット",
       "description": "破壊衝動によって開かれるクローゼット…",
       "condition": "数字の世界から地獄の十字路に到達する"
+    },
+    "nasu": {
+      "name": "Nasu",
+      "condition": "Score 1000 points in NASU"
+    },
+    "nasu_pink": {
+      "name": "Pink Nasu",
+      "condition": "Score 3000 points in NASU"
     }
   },
   "2kki": {
@@ -483,6 +491,31 @@
     "effects_speedrun": {
       "name": "予定あるけど2っきクリアしてえ！！",
       "condition": "Time Trial Modeで{TIME}以内に全てのエフェクトを捨てて現実部屋に行く"
+    },
+    "sweets_musume": {
+      "name": "Sweeets?!",
+      "condition": "Get Sweet Musume's attention with the Cake effect"
+    },
+    "smile": {
+      "name": "Smiling World",
+      "description": "Turn that frown upside-down!",
+      "condition": "Enter the house in Smiling Trees World"
+    },
+    "glitch_road": {
+      "name": "Corrupted Road",
+      "condition": "Reach the end of the NES Glitch Tunnel"
+    },
+    "freezer": {
+      "name": "Freezer Burn",
+      "condition": "Enter the Freezer in the Refrigerator Tower"
+    },
+    "hydrangea_skull": {
+      "name": "Hydrangea Skull",
+      "condition": "Using the Glasses or Grave effect, see the ghostly inhabitants of the Ancient Hydrangea City"
+    },
+    "originator_garden": {
+      "name": "神話と起源",
+      "condition": "始祖庭に到達する"
     }
   },
   "flow": {
