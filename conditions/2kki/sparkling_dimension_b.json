@@ -1,7 +1,6 @@
 {
   "map": 1123,
-  "mapY1": 170,
-  "mapX2": 79,
-  "mapY2": 239,
-  "trigger": "teleport"
+  "varIds": [ 23, 24, 25 ],
+  "varValues": [ 170, 79, 239 ],
+  "varOps": [ ">=", "<=" ]
 }
