@@ -83,8 +83,13 @@
       "condition": "NASUで1000点を取る"
     },
     "nasu_pink": {
-      "name": "pink NASU",
+      "name": "Pink NASU",
       "condition": "NASUで2500点を取る"
+    },
+    "fc_demon": {
+      "name": "FC Demon",
+      "description": "*smooch*",
+      "condition": "Interact with the FC Demon in FC World B"
     }
   },
   "2kki": {
@@ -516,6 +521,31 @@
     "originator_garden": {
       "name": "神話と起源",
       "condition": "始祖庭に到達する"
+    },
+    "bsides": {
+      "name": "B-sides",
+      "condition": "Visit Downfall Garden B, Sparkling Dimension B, Opal Ruins B, and Fuchsia Suburbs B"
+    },
+    "survivor": {
+      "name": "Survivor",
+      "condition": "Find and interact with the only non-Tokage being in the Evergreen Woods"
+    },
+    "medic_bag": {
+      "name": "Medic Bag",
+      "condition": "Using the Plaster Cast effect, let the doctor in the Shop Ruins heal you"
+    },
+    "popula_toru": {
+      "name": "目玉っ子",
+      "condition": "Interact with Popula-Toru in 3 different states (awake, sleeping, looking down, lying down)"
+    },
+    "glitch_sushi": {
+      "name": "Glitch Sushi",
+      "condition": "Enter the building with the neon signs at the Highway"
+    },
+    "red_blob": {
+      "name": "It's a Trap!",
+      "description": "You have been deceived",
+      "condition": "Interact with the red blob at Despair Road"
     }
   },
   "flow": {
@@ -561,6 +591,10 @@
     "koi": {
       "name": "Serene Waters in the Shadows",
       "condition": "Reach the Water Garden"
+    },
+    "planetarium": {
+      "name": "Beyond the Stars",
+      "condition": "Enter the room in the Planetarium containing the Celestial effect"
     }
   },
   "unevendream": {
@@ -626,6 +660,11 @@
       "name": "シャイニークリスタル",
       "description": "デジャブ",
       "condition": "Crystal CavesのStellar Lakeの奥にある島に到達する"
+    },
+    "dessert_house": {
+      "name": "Dessert House",
+      "description": "It's just a nice little house",
+      "condition": "Enter Trixie's house in Galleta World"
     }
   },
   "braingirl": {

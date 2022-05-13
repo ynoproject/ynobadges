@@ -79,12 +79,17 @@
       "condition": "从数字世界抵达地狱的十字路"
     },
     "nasu": {
-      "name": "Nasu",
+      "name": "NASU",
       "condition": "在NASU中得到 1000 分"
     },
     "nasu_pink": {
-      "name": "Pink Nasu",
+      "name": "Pink NASU",
       "condition": "在NASU中得到 2500 分"
+    },
+    "fc_demon": {
+      "name": "FC Demon",
+      "description": "*smooch*",
+      "condition": "Interact with the FC Demon in FC World B"
     }
   },
   "2kki": {
@@ -516,6 +521,31 @@
     "originator_garden": {
       "name": "神话之源",
       "condition": "进入始祖庭的主区域"
+    },
+    "bsides": {
+      "name": "B-sides",
+      "condition": "Visit Downfall Garden B, Sparkling Dimension B, Opal Ruins B, and Fuchsia Suburbs B"
+    },
+    "survivor": {
+      "name": "Survivor",
+      "condition": "Find and interact with the only non-Tokage being in the Evergreen Woods"
+    },
+    "medic_bag": {
+      "name": "Medic Bag",
+      "condition": "Using the Plaster Cast effect, let the doctor in the Shop Ruins heal you"
+    },
+    "popula_toru": {
+      "name": "Popula-Toru",
+      "condition": "Interact with Popula-Toru in 3 different states (awake, sleeping, looking down, lying down)"
+    },
+    "glitch_sushi": {
+      "name": "Glitch Sushi",
+      "condition": "Enter the building with the neon signs at the Highway"
+    },
+    "red_blob": {
+      "name": "It's a Trap!",
+      "description": "You have been deceived",
+      "condition": "Interact with the red blob at Despair Road"
     }
   },
   "flow": {
@@ -561,6 +591,10 @@
     "koi": {
       "name": "空游无依",
       "condition": "抵达水之庭"
+    },
+    "planetarium": {
+      "name": "Beyond the Stars",
+      "condition": "Enter the room in the Planetarium containing the Celestial effect"
     }
   },
   "unevendream": {
@@ -626,6 +660,11 @@
       "name": "闪亮水晶",
       "description": "似曾相识",
       "condition": "在水晶洞窟中，抵达星辰之河彼岸的岛屿"
+    },
+    "dessert_house": {
+      "name": "Dessert House",
+      "description": "It's just a nice little house",
+      "condition": "Enter Trixie's house in Galleta World"
     }
   },
   "braingirl": {
