@@ -1,4 +1,15 @@
 {
+  "ynoproject": {
+    "compuss": {
+      "name": "指南猫",
+      "description": "次世代定位装置",
+      "condition": "猫了个毯"
+    },
+    "miau": {
+      "name": "Miau Badge",
+      "condition": "Be Miau"
+    }
+  },
   "yume": {
     "kalimba": {
       "name": "KALIMBA",
@@ -94,6 +105,14 @@
       "name": "FC鬼",
       "description": "*mua!*",
       "condition": "与在FC世界B的鬼互动"
+    },
+    "eye_box": {
+      "name": "Box of Eyes",
+      "condition": "Stab the Eye Box until you get teleported to its area"
+    },
+    "monoko": {
+      "name": "Monoko of the White Desert",
+      "condition": "Interact with Monoko using the Traffic Light effect"
     }
   },
   "2kki": {
@@ -145,10 +164,10 @@
       "name": "钻石探梦者",
       "condition": "在梦远征及无尽流浪中踏遍 99% 的地图"
     },
-    "compuss": {
-      "name": "指南猫",
-      "description": "次世代定位装置",
-      "condition": "猫了个毯"
+    "adaptive": {
+      "name": "Expeditionist Amulet",
+      "description": "It adapts to match your surroundings",
+      "condition": "Complete a total of 1000 expeditions"
     },
     "crushed": {
       "name": "钢印",
@@ -555,6 +574,78 @@
       "name": "陷阱",
       "description": "你被骗了！",
       "condition": "调查拒绝之道上的红色肉块"
+    },
+    "punis": {
+      "name": "Five Puni",
+      "description": "Oh, how adorable",
+      "condition": "Transform into a Puni at the Dream Park"
+    },
+    "mechanical_heart": {
+      "name": "Fin",
+      "condition": "Watch the Mechanical Heart Act event in the Chainlink Lees"
+    },
+    "eye_window": {
+      "name": "Eye See You",
+      "description": "Take the long way to Visine World",
+      "condition": "Go to Visine World from the Garden of Treachery"
+    },
+    "scenery": {
+      "name": "Faraway Scenery",
+      "description": "A well deserved reward after a long trip",
+      "condition": "Visit the faraway scenery in the Foliage Estate"
+    },
+    "sunken_city": {
+      "name": "Drowned Building",
+      "condition": "Reach the Sunken City"
+    },
+    "crocodile_dog": {
+      "name": "Garden Party",
+      "description": "It's a crocodile-dog party!",
+      "condition": "Enter the Monster Party in Garden World"
+    },
+    "celestial": {
+      "name": "Celestial",
+      "condition": "Enter the Star Building in Constellation World"
+    },
+    "planet": {
+      "name": "Interplanetary Traveller",
+      "condition": "Visit Dream Mars and Dream Venus"
+    },
+    "opal_archives": {
+      "name": "Lustrous Acadamia",
+      "condition": "Reach the Opal Archives"
+    },
+    "unamused": {
+      "name": "Unamused",
+      "description": "No boys allowed",
+      "condition": "Annoy the purple creature at the Fantasy Isle using the Boy or Gakuran effect"
+    },
+    "undersea_artifact": {
+      "name": "Undersea Artifact",
+      "condition": "Enter the Undersea Temple"
+    },
+    "acrophobia": {
+      "name": "Acrophobia",
+      "description": "01001000 01100101 01101100 01101100 01101111",
+      "condition": "Change the time to night at the Industrial Towers by interacting with Glitchman with the Bunny Ears effect"
+    },
+    "dream_fishing": {
+      "name": "Dream Fishing",
+      "description": "This one looks special",
+      "condition": "Visit Ocean Subsurface, Rotten Fish Lake, Fish World, Tuna Desert, and Sushi World"
+    },
+    "decrepit_smile": {
+      "name": "Decrepit Smile",
+      "condition": "Interact with the shadow lady in the Decrepit Village using the Grave effect"
+    },
+    "tv_room": {
+      "name": "TV Screen",
+      "description": "What channel will you watch today?",
+      "condition": "Enter the TV Room at the Highway"
+    },
+    "nostalgic_house": {
+      "name": "Dreamer's Home",
+      "condition": "Enter the Nostalgic House"
     }
   },
   "flow": {
@@ -604,6 +695,21 @@
     "planetarium": {
       "name": "繁星之上",
       "condition": "进入天文馆内取得天体效果的房间"
+    },
+    "hospital_event": {
+      "name": "Patient 001",
+      "description": "This happened to my buddy Eric",
+      "condition": "View the event in the Hospital"
+    }
+  },
+  "someday": {
+    "alien": {
+      "name": "Space Party!",
+      "condition": "Visit the giant alien"
+    },
+    "dance_flood": {
+      "name": "Dance Flood",
+      "condition": "Flip the underwater switch at the Dance Flood"
     }
   },
   "unevendream": {
