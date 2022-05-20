@@ -708,6 +708,14 @@
     "lobster": {
       "name": "Friendly Lobster",
       "condition": "Enter the pool at the Flooded Baths"
+    },
+    "chandelier": {
+      "name": "Old-fashioned Chandelier",
+      "condition": "Reach the Travel Hotel"
+    },
+    "red_rock_caves": {
+      "name": "Dream of Roses",
+      "condition": "Complete the Dream of Roses event in the Red Rock Caves"
     }
   },
   "flow": {
@@ -723,6 +731,26 @@
       "name": "Sewer Slime",
       "description": "呑むべきじゃなかったな...",
       "condition": "血膿錆部屋のイベントを見る"
+    },
+    "rotten_smile": {
+      "name": "Rotten Smile",
+      "condition": "Enter the Smile and Demon rooms of the Womb Maze"
+    },
+    "empty_boxes": {
+      "name": "□□□",
+      "condition": "Get the 3 empty boxes"
+    },
+    "rainbow_sweeper": {
+      "name": "Rainbow Sweeper",
+      "condition": "Trigger the flight event in the Rainbow Maze"
+    },
+    "orange_experiments": {
+      "name": "Orange Experiments",
+      "condition": "Visit the Orange Maze, the Orange Passage, and the Orange Lab"
+    },
+    "dark_city": {
+      "name": "Dark City",
+      "condition": "Interact with the alien in Psychedelic Town"
     }
   },
   "prayers": {
@@ -742,6 +770,14 @@
     "halo": {
       "name": "死者の光輪",
       "condition": "Ice Worldで墜落したバスに入る"
+    },
+    "confused_arrows": {
+      "name": "Confused Arrows",
+      "condition": "Enter the secret area in Green World"
+    },
+    "chroma_cat": {
+      "name": "Chroma Key Cat",
+      "condition": "Reach the depths of Glitch World"
     }
   },
   "deepdreams": {
