@@ -1,10 +1,22 @@
 {
   "bp": 20,
-  "reqType": "tags",
-  "reqStrings": [
-    "orange_maze",
-    "orange_passage",
-    "orange_lab"
+  "reqType": "tagArrays",
+  "reqStringArrays": [
+    [
+      "orange_maze_1",
+      "orange_maze_2",
+      "orange_maze_3"
+    ],
+    [
+      "orange_passage_1",
+      "orange_passage_2"
+    ],
+    [
+      "orange_laboratory_1",
+      "orange_laboratory_2",
+      "orange_laboratory_3",
+      "orange_laboratory_4"
+    ]
   ],
   "map": 67,
   "art": "Takofuusen",
