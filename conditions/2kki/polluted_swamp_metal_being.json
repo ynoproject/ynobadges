@@ -1,9 +1,10 @@
 {
   "map": 795,
+  "mapX1": 52,
+  "mapY1": 201,
+  "mapX2": 52,
+  "mapY2": 201,
   "switchId": 124,
   "switchValue": true,
-  "varIds": [ 22, 23 ],
-  "varValues": [ 52, 201 ],
-  "varOps": [ "=", "=" ],
-  "varTrigger": true
+  "trigger": "coords"
 }
