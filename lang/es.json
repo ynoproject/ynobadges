@@ -776,6 +776,79 @@
     "bowling": {
       "name": "Strike!",
       "condition": "Dodge all the bowling ball men in the Bowling Zone and reach Bowling World"
+    },
+    "jade": {
+      "name": "Jade Sky",
+      "description": "Jade beings and jade structures",
+      "condition": "Visit the Jade Sky Hamlet"
+    },
+    "sea_star": {
+      "name": "Sea Star",
+      "description": "Fun in the sun?",
+      "condition": "Fill the Calcarina Sea"
+    },
+    "alien_cellar": {
+      "name": "Cluster",
+      "condition": "Enter the Alien Cellar"
+    },
+    "sea_monster": {
+      "name": "Lord of 20.180",
+      "condition": "Encounter the sea monster in the Neon Sea"
+    },
+    "mosenite": {
+      "name": "Mosenite",
+      "condition": "Go to Mosenite"
+    },
+    "heart": {
+      "name": "Heart of Health",
+      "condition": "Reach 100 Heart Points from vending machines (granted upon waking up)"
+    },
+    "heart_2": {
+      "name": "Heart of Hope",
+      "condition": "Reach 500 Heart Points from vending machines (granted upon waking up)"
+    },
+    "heart_3": {
+      "name": "Heart of Life",
+      "condition": "Reach 999 Heart Points from vending machines (granted upon waking up)"
+    },
+    "square_ruins": {
+      "name": "Memories of the Old Ruins",
+      "condition": "Find the old ruins leading to the Viridian Wetlands"
+    },
+    "egg": {
+      "name": "Memories of the Chromatic Nest",
+      "condition": "Obtain menu themes 8-15 and 25"
+    },
+    "aura_matrix": {
+      "name": "Aura Matrix",
+      "condition": "Enter the Aura Matrix at the Aureate Clockworks"
+    },
+    "scared_octopus": {
+      "name": "Scared Octopus",
+      "condition": "Using the Fairy effect, scare Tako Otoko in Atlantis"
+    },
+    "mini_town": {
+      "name": "Giant",
+      "condition": "Enter Mini-Town"
+    },
+    "gakuran": {
+      "name": "Wandering Boy",
+      "condition": "Interact with Gakuran-kun while using the Maiko effect"
+    },
+    "block_person": {
+      "name": "Block Person",
+      "description": "I've turned into a block person?!",
+      "condition": "Transform into a block person in the Red Brick Maze"
+    },
+    "madotsukis_room": {
+      "name": "Original Likeness",
+      "description": "It clearly resembles a certain place",
+      "condition": "Enter a certain room in the Never-Ending Hallway"
+    },
+    "haniwa": {
+      "name": "Haniwa Dance",
+      "description": "Look at her go!",
+      "condition": "View the Haniwa Dance event at the Haniwa Temple"
     }
   },
   "flow": {
@@ -790,7 +863,7 @@
     "sewer": {
       "name": "Sewer Slime",
       "description": "Maybe you shouldn't have drank that...",
-      "condition": "See the 'Blood, Pus, Rust' event"
+      "condition": "See the Blood, Pus, Rust event"
     },
     "rotten_smile": {
       "name": "Rotten Smile",
@@ -815,6 +888,11 @@
     "red_eye": {
       "name": "Red Eye",
       "condition": "Find the red eye on the wall in the Apartments and make it blink"
+    },
+    "other_worlds": {
+      "name": "Other Worlds",
+      "description": "The piano chords lead... somewhere...",
+      "condition": "Enter the Young Passage and the Microscopic World"
     }
   },
   "prayers": {
@@ -867,6 +945,11 @@
       "name": "Mind-bending",
       "description": "Don't think about it too hard",
       "condition": "Enter Escher Gardens"
+    },
+    "moonrise": {
+      "name": "Moonrise",
+      "description": "What a view!",
+      "condition": "Reach the Jovian Moon"
     }
   },
   "someday": {
@@ -880,6 +963,11 @@
     }
   },
   "unevendream": {
+    "cookies": {
+      "name": "Cookies",
+      "description": "They're not as good when they're burnt...",
+      "condition": "Complete the Burnt Cookies event in Mutant Sunflower World"
+    },
     "el_bebe": {
       "name": "el bebe",
       "description": "it is born.",
@@ -947,6 +1035,22 @@
       "name": "Dessert House",
       "description": "It's just a nice little house",
       "condition": "Enter Trixie's house in Galleta World"
+    },
+    "eye_flower": {
+      "name": "Eye Flower",
+      "condition": "Use the Seer effect near a certain flower in Alien Plants World to make it bud"
+    },
+    "arcade": {
+      "name": "Bright Arcade",
+      "condition": "View all the active arcade machines in the Concrete Treehouse"
+    },
+    "paper_boat": {
+      "name": "Paper Boat",
+      "condition": "Ride the paper boat at Lantern Lake"
+    },
+    "static": {
+      "name": "Pure Static",
+      "condition": "View the Corroded Dream event"
     }
   },
   "braingirl": {
@@ -963,6 +1067,10 @@
     "labyrinth_boombox": {
       "name": "The Labyrinth Shuffle",
       "condition": "Activate the boombox in the Grasslands Labyrinth"
+    },
+    "shrine_garden": {
+      "name": "Resting place; white flowers",
+      "condition": "Trigger the event in the Spirit Shrines"
     }
   }
 }

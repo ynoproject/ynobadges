@@ -1,7 +1,5 @@
 {
-  
   "ynoproject": {
-    
     "badge_amulet": {
       "name": "バッジコレクターアミュレット",
       "description": "メニュータイプに合わせて適応します",
@@ -778,6 +776,79 @@
     "bowling": {
       "name": "ストライク！",
       "condition": "神速ボールを避けて歪みボーリング場へ到達する"
+    },
+    "jade": {
+      "name": "Jade Sky",
+      "description": "Jade beings and jade structures",
+      "condition": "Visit the Jade Sky Hamlet"
+    },
+    "sea_star": {
+      "name": "Sea Star",
+      "description": "Fun in the sun?",
+      "condition": "Fill the Calcarina Sea"
+    },
+    "alien_cellar": {
+      "name": "Cluster",
+      "condition": "Enter the Alien Cellar"
+    },
+    "sea_monster": {
+      "name": "Lord of 20.180",
+      "condition": "Encounter the sea monster in the Neon Sea"
+    },
+    "mosenite": {
+      "name": "Mosenite",
+      "condition": "Go to Mosenite"
+    },
+    "heart": {
+      "name": "Heart of Health",
+      "condition": "Reach 100 Heart Points from vending machines (granted upon waking up)"
+    },
+    "heart_2": {
+      "name": "Heart of Hope",
+      "condition": "Reach 500 Heart Points from vending machines (granted upon waking up)"
+    },
+    "heart_3": {
+      "name": "Heart of Life",
+      "condition": "Reach 999 Heart Points from vending machines (granted upon waking up)"
+    },
+    "square_ruins": {
+      "name": "Memories of the Old Ruins",
+      "condition": "Find the old ruins leading to the Viridian Wetlands"
+    },
+    "egg": {
+      "name": "Memories of the Chromatic Nest",
+      "condition": "Obtain menu themes 8-15 and 25"
+    },
+    "aura_matrix": {
+      "name": "Aura Matrix",
+      "condition": "Enter the Aura Matrix at the Aureate Clockworks"
+    },
+    "scared_octopus": {
+      "name": "Scared Octopus",
+      "condition": "Using the Fairy effect, scare Tako Otoko in Atlantis"
+    },
+    "mini_town": {
+      "name": "Giant",
+      "condition": "Enter Mini-Town"
+    },
+    "gakuran": {
+      "name": "Wandering Boy",
+      "condition": "Interact with Gakuran-kun while using the Maiko effect"
+    },
+    "block_person": {
+      "name": "分銅くん",
+      "description": "歩く分銅になっちゃった？！",
+      "condition": "煉瓦ダンジョンで分銅くんに変身する"
+    },
+    "madotsukis_room": {
+      "name": "Original Likeness",
+      "description": "It clearly resembles a certain place",
+      "condition": "Enter a certain room in the Never-Ending Hallway"
+    },
+    "haniwa": {
+      "name": "Haniwa Dance",
+      "description": "Look at her go!",
+      "condition": "View the Haniwa Dance event at the Haniwa Temple"
     }
   },
   "flow": {
@@ -817,6 +888,11 @@
     "red_eye": {
       "name": "赤目",
       "condition": "アパートの壁にある赤い目を見つけて、点滅させる。"
+    },
+    "other_worlds": {
+      "name": "Other Worlds",
+      "description": "The piano chords lead... somewhere...",
+      "condition": "Enter the Young Passage and the Microscopic World"
     }
   },
   "prayers": {
@@ -869,6 +945,11 @@
       "name": "幻覚",
       "description": "難しく考える必要はない",
       "condition": "Escher Gardensに到達する"
+    },
+    "moonrise": {
+      "name": "Moonrise",
+      "description": "What a view!",
+      "condition": "Reach the Jovian Moon"
     }
   },
   "someday": {
@@ -882,6 +963,11 @@
     }
   },
   "unevendream": {
+    "cookies": {
+      "name": "Cookies",
+      "description": "They're not as good when they're burnt...",
+      "condition": "Complete the Burnt Cookies event in Mutant Sunflower World"
+    },
     "el_bebe": {
       "name": "el bebe",
       "description": "生まれる",
@@ -949,6 +1035,22 @@
       "name": "お菓子の家",
       "description": "美味しそうな家",
       "condition": "Galleta WorldのTrixieの家に入る"
+    },
+    "eye_flower": {
+      "name": "Eye Flower",
+      "condition": "Use the Seer effect near a certain flower in Alien Plants World to make it bud"
+    },
+    "arcade": {
+      "name": "Bright Arcade",
+      "condition": "View all the active arcade machines in the Concrete Treehouse"
+    },
+    "paper_boat": {
+      "name": "Paper Boat",
+      "condition": "Ride the paper boat at Lantern Lake"
+    },
+    "static": {
+      "name": "Pure Static",
+      "condition": "View the Corroded Dream event"
     }
   },
   "braingirl": {
@@ -965,6 +1067,10 @@
     "labyrinth_boombox": {
       "name": "ラビリンスシャッフル",
       "condition": "Grasslands LabyrinthにBGMを流す"
+    },
+    "shrine_garden": {
+      "name": "Resting place; white flowers",
+      "condition": "Trigger the event in the Spirit Shrines"
     }
   }
 }
