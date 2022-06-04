@@ -1,9 +1,10 @@
 {
   "map": 109,
-  "switchIds": [ 152, 92 ],
-  "switchValues": [ false, true ],
-  "switchDelay": true,
-  "varId": 11,
-  "varValue": 2,
-  "varOp": "!="
+  "switchId": 92,
+  "switchValue": true,
+  "varIds": [ 21, 11 ],
+  "varValues": [ 11, 2 ],
+  "varOps": [ "=", "!=" ],
+  "varDelay": true,
+  "varTrigger": true
 }
