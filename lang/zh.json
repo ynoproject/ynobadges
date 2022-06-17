@@ -1023,6 +1023,32 @@
     "green_prince": {
       "name": "碰到你了",
       "condition": "与位于城市边界的绿色王子互动"
+    },
+    "phone": {
+      "name": "MVP",
+      "description": "Most Valued Phone",
+      "condition": "Use the phone shortcut to Urotsuki's Dream Apartments in all 5 locations: Aquatic Cube City, Fossil Lake, Sugar Road, Underground Garage, Water Reclamation Facility"
+    },
+    "butterfly_passage": {
+      "name": "Tricolored Butterfly",
+      "condition": "Visit Butterfly Passage"
+    },
+    "forest_interlude": {
+      "name": "Lone Calla Lily",
+      "condition": "Visit the Forest Interlude"
+    },
+    "pink_flower": {
+      "name": "Dancing Pink Flower",
+      "condition": "See the patch of pink flowers in the Rapeseed Fields"
+    },
+    "banana": {
+      "name": "Ohhh Banana!",
+      "condition": "Find the hidden banana in the NES Glitch Tunnel"
+    },
+    "tv_channels": {
+      "name": "Telephilia",
+      "description": "Are you still watching",
+      "condition": "View every channel in the TV room"
     }
   },
   "flow": {
@@ -1077,6 +1103,11 @@
       "name": "一转攻势",
       "description": "完成报复",
       "condition": "生锈之后，冷血地杀死Smile"
+    },
+    "smile_channel": {
+      "name": "Smile Channel",
+      "description": "Let's put a smile on that face!",
+      "condition": "Interact with the TV in Sabitsuki's room until a smile appears on the screen"
     }
   },
   "prayers": {
@@ -1120,6 +1151,10 @@
     "all_prayers": {
       "name": "悬念",
       "condition": "获得所有效果后进入门世界"
+    },
+    "food_room": {
+      "name": "Bon Appetit",
+      "condition": "Enter the room containing the Food effect"
     }
   },
   "deepdreams": {
@@ -1275,6 +1310,17 @@
     "shrine_garden": {
       "name": "憩所白花",
       "condition": "触发灵魂神庙的事件"
+    },
+    "vista": {
+      "name": "Viva La Vista",
+      "description": "Enjoying the view at all times",
+      "condition": "Walk onto the balcony during each state (morning, day, evening, night, storm)"
+    }
+  },
+  "amillusion": {
+    "calendar": {
+      "name": "Four Seasons",
+      "condition": "See the Nexus in all 4 seasons"
     }
   }
 }
