@@ -228,6 +228,30 @@
       "name": "Diamond Expedition Completionist",
       "condition": "Complete expeditions in 99% of available locations"
     },
+    "vm": {
+      "name": "Vending Machine Finder",
+      "condition": "Complete 5 Vending Machine Finder expeditions"
+    },
+    "vm_bronze": {
+      "name": "Bronze Vending Machine Finder",
+      "condition": "Complete 10 Vending Machine Finder expeditions"
+    },
+    "vm_silver": {
+      "name": "Silver Vending Machine Finder",
+      "condition": "Complete 25 Vending Machine Finder expeditions"
+    },
+    "vm_gold": {
+      "name": "Gold Vending Machine Finder",
+      "condition": "Complete 50 Vending Machine Finder expeditions"
+    },
+    "vm_platinum": {
+      "name": "Platinum Vending Machine Finder",
+      "condition": "Complete 100 Vending Machine Finder expeditions"
+    },
+    "vm_diamond": {
+      "name": "Diamond Vending Machine Finder",
+      "condition": "Complete 200 Vending Machine Finder expeditions"
+    },
     "exp_amulet": {
       "name": "Expeditionist Amulet",
       "description": "It adapts to match your surroundings",
@@ -1308,7 +1332,7 @@
     },
     "turbine": {
       "name": "Turbine",
-      "condition": "Read the end of the Turbine Facility"
+      "condition": "Reach the end of the Turbine Facility"
     },
     "braille_angel": {
       "name": "Braille Angel",

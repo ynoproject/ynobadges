@@ -228,6 +228,30 @@
       "name": "ダイアモンドドリームランナー",
       "condition": "ドリームラリーで選ばれる世界の内99%の世界のラリーを完了させる"
     },
+    "vm": {
+      "name": "Vending Machine Finder",
+      "condition": "Complete 5 Vending Machine Finder expeditions"
+    },
+    "vm_bronze": {
+      "name": "Bronze Vending Machine Finder",
+      "condition": "Complete 10 Vending Machine Finder expeditions"
+    },
+    "vm_silver": {
+      "name": "Silver Vending Machine Finder",
+      "condition": "Complete 25 Vending Machine Finder expeditions"
+    },
+    "vm_gold": {
+      "name": "Gold Vending Machine Finder",
+      "condition": "Complete 50 Vending Machine Finder expeditions"
+    },
+    "vm_platinum": {
+      "name": "Platinum Vending Machine Finder",
+      "condition": "Complete 100 Vending Machine Finder expeditions"
+    },
+    "vm_diamond": {
+      "name": "Diamond Vending Machine Finder",
+      "condition": "Complete 200 Vending Machine Finder expeditions"
+    },
     "exp_amulet": {
       "name": "ドリームランナーアミュレット",
       "description": "周囲の環境に適応する",
@@ -1308,7 +1332,7 @@
     },
     "turbine": {
       "name": "風車",
-      "condition": "Turbine Facilityの最後を読む"
+      "condition": "Reach the end of the Turbine Facility"
     },
     "braille_angel": {
       "name": "点字天使",
