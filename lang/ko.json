@@ -229,28 +229,28 @@
       "condition": "방문 가능한 99%의 장소들을 탐험 완료하기"
     },
     "vm": {
-      "name": "Vending Machine Finder",
-      "condition": "Complete 5 Vending Machine Finder expeditions"
+      "name": "자판기 사냥꾼 뱃지",
+      "condition": "5개의 자판기 찾기를 완료하기"
     },
     "vm_bronze": {
-      "name": "Bronze Vending Machine Finder",
-      "condition": "Complete 10 Vending Machine Finder expeditions"
+      "name": "브론즈 자판기 사냥꾼 뱃지",
+      "condition": "10개의 자판기 찾기를 완료하기"
     },
     "vm_silver": {
-      "name": "Silver Vending Machine Finder",
-      "condition": "Complete 25 Vending Machine Finder expeditions"
+      "name": "실버 자판기 사냥꾼 뱃지",
+      "condition": "25개의 자판기 찾기를 완료하기"
     },
     "vm_gold": {
-      "name": "Gold Vending Machine Finder",
-      "condition": "Complete 50 Vending Machine Finder expeditions"
+      "name": "골드 자판기 사냥꾼 뱃지",
+      "condition": "50개의 자판기 찾기를 완료하기"
     },
     "vm_platinum": {
-      "name": "Platinum Vending Machine Finder",
-      "condition": "Complete 100 Vending Machine Finder expeditions"
+      "name": "플래티넘 자판기 사냥꾼 뱃지",
+      "condition": "100개의 자판기 찾기를 완료하기"
     },
     "vm_diamond": {
-      "name": "Diamond Vending Machine Finder",
-      "condition": "Complete 200 Vending Machine Finder expeditions"
+      "name": "다이아몬드 자판기 사냥꾼 뱃지",
+      "condition": "200개의 자판기 찾기를 완료하기"
     },
     "exp_amulet": {
       "name": "여행가 뱃지",
@@ -430,11 +430,11 @@
     },
     "circus": {
       "name": "멋진 탈출쇼 뱃지",
-      "condition": "High Priestess 이벤트에서 추격자 NPC에게 전혀 잡히지 않고 탈출하기"
+      "condition": "High Priestess 이벤트에서 추격자 NPC에게 한 번도 잡히지 않고 탈출하기"
     },
     "snow_queen": {
       "name": "눈의 여왕 뱃지",
-      "condition": "50 개의 눈 가루를 모우기"
+      "condition": "50 개의 눈가루를 모으기"
     },
     "portrait": {
       "name": "초상화 뱃지",
@@ -447,17 +447,17 @@
     "piggy_bank": {
       "name": "실버 회원증",
       "description": "졸부",
-      "condition": "Dream Bank에서 10000몽을 인출하기"
+      "condition": "Dream Bank에서 10000몽을 예금하기"
     },
     "piggy_bank_gold": {
       "name": "골드 회원증",
       "description": "금수저",
-      "condition": "Dream Bank에서 100000몽을 인출하기"
+      "condition": "Dream Bank에서 100000몽을 예금하기"
     },
     "piggy_bank_vip": {
-      "name": "억만장자 뱃지e",
+      "name": "억만장자 뱃지",
       "description": "VIP 회원",
-      "condition": "Dream Bank에서 999999몽을 인출하기"
+      "condition": "Dream Bank에서 999999몽을 예금하기"
     },
     "clover": {
       "name": "심홍색 클로버 뱃지",
@@ -466,7 +466,7 @@
     "pacifist": {
       "name": "평화주의자 뱃지",
       "description": "아무도 죽어선 안 돼",
-      "condition": "아무도 죽이지 않고 <ED ?>를 보기"
+      "condition": "아무도 죽이지 않고 (ED ?)를 보기"
     },
     "ticket": {
       "name": "기차표",
@@ -536,7 +536,7 @@
       "condition": "Rusted Factory의 가장 깊은 곳에 위치한 방에 도달하기"
     },
     "rusted_factory": {
-      "name": "손상된 기계 뱃지",
+      "name": "변질된 기계 뱃지",
       "condition": "Time Trial Mode를 키고 Rusted Factory의 가장 깊은 곳에 위치한 방에 {TIME} 이내로 도달하기"
     },
     "sea_lily": {
@@ -553,7 +553,7 @@
       "condition": "Toy World에 위치한 치즈집에 방문하기"
     },
     "heart_jar": {
-      "name": "허술한 사랑 뱃지",
+      "name": "섬세한 사랑 뱃지",
       "condition": "Shop Ruins에 위치한 의사 NPC를 부적절한 죽음에 이르게 하기"
     },
     "flooded_garden": {
@@ -587,7 +587,7 @@
       "condition": "Apartments에 있는 하얀색 침흘리개 NPC와 상호작용하기"
     },
     "data_stream": {
-      "name": "디지털 도플갱어 뱃지",
+      "name": "디지털 분신 뱃지",
       "description": "꽤 낯이 익는데...",
       "condition": "Data Stream에 도달하기"
     },
@@ -615,7 +615,7 @@
       "condition": "Time Trial Mode를 키고 {TIME}이내로 모든 이펙트를 버리고 꿈에서 깨기"
     },
     "sweets_musume": {
-      "name": "단거?!",
+      "name": "달콤한 거?!",
       "condition": "케이크 이펙트를 끼고 디저트 공주 NPC와 상호작용하기"
     },
     "smile": {
@@ -645,7 +645,7 @@
     },
     "survivor": {
       "name": "생존자 뱃지",
-      "condition": "Evergreen Woods에서 유일하게 도마뱀 상태가 아닌 생물체와 상호작용하기"
+      "condition": "Evergreen Woods에서 도마뱀이 아닌 생물체와 상호작용하기"
     },
     "medic_bag": {
       "name": "응급키트 뱃지",
@@ -827,7 +827,7 @@
       "condition": "Calcarina Sea에 물을 채우기"
     },
     "alien_cellar": {
-      "name": "외계인 무리 뱃지",
+      "name": "클러스터 뱃지",
       "condition": "Alien Cellar에 입장하기"
     },
     "sea_monster": {
@@ -890,7 +890,7 @@
       "condition": "Snowy Village에 방문하기"
     },
     "tartaric_abyss_uro": {
-      "name": "친숙한 사람 뱃지",
+      "name": "익숙한 사람 뱃지",
       "condition": "Tartaric Abyss에서 우로츠키의 분신을 발견하기"
     },
     "butterfly_lady": {
@@ -1018,7 +1018,7 @@
       "condition": "Garden World (밤), Blue Forest, Botanical Garden (2), Twilight Park에 있는 모든 시계탑들과 상호작용하기"
     },
     "coffee_cup": {
-      "name": "금일의 음식 뱃지",
+      "name": "오늘의 맛 뱃지",
       "description": "볼을 꼬집는 것보다는 좀 낫네",
       "condition": "Coffee Cup World에서 아무 이펙트나 장착하고 자판기에서 음식을 구매하기"
     },
@@ -1085,7 +1085,7 @@
       "condition": "Toxic Sea에 도달하기"
     },
     "traffic_lights": {
-      "name": "준비하시고, 쏘세요!",
+      "name": "준비, 시ㅡ작!",
       "condition": "Gray Road에서 Techno Condominium으로 이동하기"
     },
     "blurry": {
@@ -1102,7 +1102,7 @@
     },
     "bat_flight": {
       "name": "박쥐의 날개짓 뱃지",
-      "condition": "Techno Condominium의 옥상에서 비행가기"
+      "condition": "Techno Condominium의 옥상에서 비행하기"
     },
     "amoeba": {
       "name": "산산조각 뱃지",
