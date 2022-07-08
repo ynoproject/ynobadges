@@ -1117,6 +1117,51 @@
     "dojo": {
       "name": "纪念物",
       "condition": "烧毁道场的太空区域"
+    },
+    "voxed": {
+      "name": "Voxed",
+      "description": "Kill it! Do it now!",
+      "condition": "Chainsaw the NPC at Voxel Island"
+    },
+    "green_tea_cake": {
+      "name": "Green Tea Cake",
+      "condition": "Buy a green tea cake from the cake shop in the Shop Ruins"
+    },
+    "principal": {
+      "name": "No Biking in the Halls!",
+      "condition": "Get caught and chewed out by the principal in the School for using the Bike"
+    },
+    "car_crash": {
+      "name": "Whiplash",
+      "description": "This game blows!",
+      "condition": "Crash the car at the Hidden Garage"
+    },
+    "wedding_cake": {
+      "name": "Triple-Decker Cake",
+      "description": "Are you going to eat it all?",
+      "condition": "Get the wedding cake from a vending machine"
+    },
+    "green_monster": {
+      "name": "Green Monster",
+      "condition": "Interact with the green monster at the Foliage Estate"
+    },
+    "nail_lady": {
+      "name": "Loose Nail",
+      "description": "Hammer the loose nail",
+      "condition": "Interact with the Nail Lady in the nail circle"
+    },
+    "cmyk": {
+      "name": "Ink Cartridge Combo",
+      "description": "Not enough ink",
+      "condition": "Buy something from all 3 vending machines in CMYK Tiles World"
+    },
+    "muertitos": {
+      "name": "Muertitos",
+      "condition": "Honor the death in Dream Mexico"
+    },
+    "crown_of_sorrow": {
+      "name": "Crown of Sorrow",
+      "condition": "Enter the room at the end of the Spirit Capital highway in {TIME} or less in Time Trial Mode"
     }
   },
   "flow": {
@@ -1176,6 +1221,11 @@
       "name": "微笑频道",
       "description": "脸上来点儿笑吧!",
       "condition": "反复与铁锈子房间中的电视互动，直到屏幕上出现一个微笑"
+    },
+    "orange": {
+      "name": "Best Friends Forever",
+      "description": "Maybe there is some good in this world",
+      "condition": "Unlock the Orange menu theme. If you have already unlocked it, return to the location where you found it."
     }
   },
   "prayers": {
@@ -1253,6 +1303,10 @@
       "name": "明月初升",
       "description": "把酒问青天",
       "condition": "抵达木卫"
+    },
+    "flo": {
+      "name": "Go With the Flo",
+      "condition": "Purchase the bathing suit at the bath house"
     }
   },
   "someday": {
@@ -1362,6 +1416,15 @@
     "static": {
       "name": "纯噪点",
       "condition": "观看侵蚀之梦事件"
+    },
+    "pinball_machine": {
+      "name": "Down the Apron",
+      "description": "Let's play some pinball!",
+      "condition": "Visit the Pinball Machine"
+    },
+    "hermit_crab": {
+      "name": "Hermit Crab",
+      "condition": "Get a hermit crab from a vending machine"
     }
   },
   "braingirl": {
@@ -1396,7 +1459,7 @@
     },
     "syncopation": {
       "name": "切分音",
-      "condition": "在蓝色爵士火车里，站在火车的前方使其停下来"
+      "condition": "Visit Le Jazzy Train Bleu"
     },
     "epacse": {
       "name": "SUDOXE",

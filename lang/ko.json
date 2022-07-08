@@ -1119,6 +1119,51 @@
     "dojo": {
       "name": "추모 뱃지",
       "condition": "Dojo의 메인 에리어를 모두 불태우기"
+    },
+    "voxed": {
+      "name": "Voxed",
+      "description": "Kill it! Do it now!",
+      "condition": "Chainsaw the NPC at Voxel Island"
+    },
+    "green_tea_cake": {
+      "name": "Green Tea Cake",
+      "condition": "Buy a green tea cake from the cake shop in the Shop Ruins"
+    },
+    "principal": {
+      "name": "No Biking in the Halls!",
+      "condition": "Get caught and chewed out by the principal in the School for using the Bike"
+    },
+    "car_crash": {
+      "name": "Whiplash",
+      "description": "This game blows!",
+      "condition": "Crash the car at the Hidden Garage"
+    },
+    "wedding_cake": {
+      "name": "Triple-Decker Cake",
+      "description": "Are you going to eat it all?",
+      "condition": "Get the wedding cake from a vending machine"
+    },
+    "green_monster": {
+      "name": "Green Monster",
+      "condition": "Interact with the green monster at the Foliage Estate"
+    },
+    "nail_lady": {
+      "name": "Loose Nail",
+      "description": "Hammer the loose nail",
+      "condition": "Interact with the Nail Lady in the nail circle"
+    },
+    "cmyk": {
+      "name": "Ink Cartridge Combo",
+      "description": "Not enough ink",
+      "condition": "Buy something from all 3 vending machines in CMYK Tiles World"
+    },
+    "muertitos": {
+      "name": "Muertitos",
+      "condition": "Honor the death in Dream Mexico"
+    },
+    "crown_of_sorrow": {
+      "name": "Crown of Sorrow",
+      "condition": "Enter the room at the end of the Spirit Capital highway in {TIME} or less in Time Trial Mode"
     }
   },
   "flow": {
@@ -1178,6 +1223,11 @@
       "name": "스마일 채널 뱃지",
       "description": "얼굴에 미소를 가득 담아 보내드립니다!",
       "condition": "꿈 속의 방에서 TV를 킬 때 확률적으로 등장하는 스마일 채널을 보기"
+    },
+    "orange": {
+      "name": "Best Friends Forever",
+      "description": "Maybe there is some good in this world",
+      "condition": "Unlock the Orange menu theme. If you have already unlocked it, return to the location where you found it."
     }
   },
   "prayers": {
@@ -1255,6 +1305,10 @@
       "name": "월출 뱃지",
       "description": "경치 죽이네!",
       "condition": "Jovian Moon에 도달하기"
+    },
+    "flo": {
+      "name": "Go With the Flo",
+      "condition": "Purchase the bathing suit at the bath house"
     }
   },
   "someday": {
@@ -1364,6 +1418,15 @@
     "static": {
       "name": "순수한 정적 뱃지",
       "condition": "부식된 꿈(Corroded Dream) 이벤트를 보기"
+    },
+    "pinball_machine": {
+      "name": "Down the Apron",
+      "description": "Let's play some pinball!",
+      "condition": "Visit the Pinball Machine"
+    },
+    "hermit_crab": {
+      "name": "Hermit Crab",
+      "condition": "Get a hermit crab from a vending machine"
     }
   },
   "braingirl": {
@@ -1398,7 +1461,7 @@
     },
     "syncopation": {
       "name": "동기화 뱃지",
-      "condition": "Le Jazzy Train의 기차 앞에 서서 지나가는 것을 막기"
+      "condition": "Visit Le Jazzy Train Bleu"
     },
     "epacse": {
       "name": "스도크 뱃지",
