@@ -1162,6 +1162,40 @@
     "crown_of_sorrow": {
       "name": "哀怨之冠",
       "condition": "在计时模式下，于 {TIME} 内抵达断崖车道的尽头的房间"
+    },
+    "the_liar": {
+      "name": "Liar, Liar",
+      "description": "I know what you are.",
+      "condition": "Turn the light off in the Liar's bedroom."
+    },
+    "the_assistant": {
+      "name": "The Assistant",
+      "description": "Don't touch that!",
+      "condition": "Make the submarine's outer shell visible."
+    },
+    "surimuki": {
+      "name": "Surimuki",
+      "description": "\"I got scraped.\"",
+      "condition": "Find Surimuki everywhere she appears in the dream world (Broken Faces Area, a book in the Library, and the Monochrome School's rooftop)"
+    },
+    "helmet_girl": {
+      "name": "Shine On",
+      "description": "I'll see you on the dark side of the moon.",
+      "condition": "Visit Helmet Girl in Square-Square World, her apartment, and in the Moonlit Purple Balcony."
+    },
+    "garden_of_dreams": {
+      "name": "Garden of Dreams",
+      "description": "In this vast world of dreams, like a garden that grows, grows, and grows",
+      "condition": "Interact with (or enter the room containing) the trees of Mountaintop Ruins, Blood Cell Sea (including its Qliphothic state), Graffiti Maze, Shinto Shrine, Azure Garden ,Scenic Outlook, and Evergreen Woods"
+    },
+    "infinite_library_mirror": {
+      "name": "Lose Yourself",
+      "description": "Witness your reflection in a mirror beyond the seemingly-infinite.",
+      "condition": "Face yourself in the mirror and reach Static Noise Hell through Infinite Library."
+    },
+    "neon_cave_rose": {
+      "name": "Digital Rose",
+      "condition": "Bloom all the roses in Neon Caves"
     }
   },
   "flow": {
@@ -1226,6 +1260,20 @@
       "name": "永远的好朋友",
       "description": "最后的温柔",
       "condition": "解锁橙色菜单主题。若已解锁，请前往获取它的位置。"
+    },
+    "moonlight_flower": {
+      "name": "Moonside Flower",
+      "description": "Rainbow Flower Party!",
+      "condition": "Interact with the flower in Psychedelic Town and see the Rainbow Flower event."
+    },
+    "oreko": {
+      "name": "Oreko",
+      "condition": "Obtain the Diving Helmet effect"
+    },
+    "onigo_childbirth": {
+      "name": "Onigo Childbirth",
+      "description": "See the Childbirth event",
+      "condition": "Trigger the Childbirth event in Visceral World"
     }
   },
   "prayers": {
@@ -1273,6 +1321,21 @@
     "food_room": {
       "name": "好胃口",
       "condition": "进入食物效果所在的房间"
+    },
+    "submarine_cat_eyes": {
+      "name": "Thalassophobia",
+      "description": "When you stare into an abyss for a long time, the abyss also stares into you.",
+      "condition": "See the Underwater Ship Cat Eyes event in the Sunken Submarine"
+    },
+    "lookout_point": {
+      "name": "Lookout Point",
+      "description": "Not a gameboy in sight, just spirits living in the moment.",
+      "condition": "Visit the second island of Silhouette World via Symbol Maze."
+    },
+    "phantom_symbols": {
+      "name": "Phantom Symbols",
+      "description": "Bear witness to your own ghost.",
+      "condition": "Interact with the Ghost Fluorette in the Symbols Maze."
     }
   },
   "deepdreams": {
@@ -1307,6 +1370,26 @@
     "flo": {
       "name": "随波逐流",
       "condition": "在澡堂购买浴袍"
+    },
+    "warm_embrace": {
+      "name": "A Warm Embrace",
+      "description": "Share a hug with Tetsuko.",
+      "condition": "See Tetsuko's event in her room within the Subnexus."
+    },
+    "apparition_creature": {
+      "name": "Pastel Phantom",
+      "description": "A past of pastel",
+      "condition": "Enter the room containing the Apparition effect using the Pastel alter"
+    },
+    "pink_bathing_creature": {
+      "name": "Bath House Bubbles",
+      "description": "Enjoy the soothing company~",
+      "condition": "Find the pink bathing creature in the Bath House"
+    },
+    "spa_day": {
+      "name": "Spa Day",
+      "description": "Time to take a break!",
+      "condition": "Relax in the jacuzzi in the Bath House"
     }
   },
   "someday": {
@@ -1325,6 +1408,16 @@
     "fox": {
       "name": "动物爱好者",
       "condition": "在好结局中rua狐狸"
+    },
+    "over_8k": {
+      "name": "zaP-Rank",
+      "description": "It's over 8000!",
+      "condition": "Achieve a score of 8000 or more on Level 7 of Zapnef"
+    },
+    "hollow_head": {
+      "name": "Hollow Head",
+      "description": "\"you gotta go to the sospital and get the heeh raura effef so you can heal the glilg in the suswew\" - Jojogape",
+      "condition": "Reach The Void from the Subway."
     }
   },
   "unevendream": {
@@ -1425,6 +1518,15 @@
     "hermit_crab": {
       "name": "寄居蟹",
       "condition": "从自贩机内买到寄居蟹"
+    },
+    "mimic": {
+      "name": "Mimic Engineer",
+      "description": "Way of The Dreamy Mime",
+      "condition": "Enter the Upside-Down event's area"
+    },
+    "cube_racing": {
+      "name": "Cube Racing",
+      "condition": "Witness the 78 Skidoo event in the Cube Road."
     }
   },
   "braingirl": {
@@ -1472,6 +1574,26 @@
     "rainbow_screw": {
       "name": "同类! 同类!",
       "condition": "在彩虹螺丝地板中使用螺丝效果钻入地面"
+    },
+    "sequoia_wheel_loss": {
+      "name": "The house always wins",
+      "description": "Face the consequences of your losses",
+      "condition": "Roll the worst result on the Sequoia Lucky Forest wheels and get caught by the chasers"
+    },
+    "residential_corridor_balcony": {
+      "name": "Industrial Society and Its Future",
+      "description": "What a polluted view...",
+      "condition": "Admire the view from the balcony of Residential Corridor World."
+    },
+    "pouleine_ride": {
+      "name": "Eggcellent Eggsersice",
+      "description": "Take a ride on the chicken to the beach!",
+      "condition": "Activate the Pouleine Ride event"
+    },
+    "midnight_mall_haircut": {
+      "name": "Stylin'!",
+      "description": "Follow the latest trends!",
+      "condition": "Get a haircut at the Midnight Mall Hairdresser (with Cougar effect)"
     }
   }
 }
