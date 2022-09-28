@@ -179,14 +179,14 @@
       "condition": "공중정원과 콘크리트 폐허 사이에 위치한 백색 튤립 통로에 도달하기"
     },
     "spaceship_crash_event": {
-      "name": "U-F-Uh-Oh",
-      "description": "Masada, we have a problem!",
-      "condition": "Witness the crash event in Masada's Spaceship."
+      "name": "유-에프-오-으엇...",
+      "description": "마사다 씨, 저희 뭔가 잘못된 것 같아요!",
+      "condition": "우주선 착륙 이벤트를 보기"
     },
     "cube_guru_seat": {
-      "name": "Seat Taken",
-      "description": "Steal the Cube Guru's seat in the Windmill World.",
-      "condition": "Move the Cube Guru off of his seat, and then sit on it"
+      "name": "내 자리야!",
+      "description": "풍차의 세계에 있는 큐브 구루(Cube Guru) NPC의 자리를 뺏기.",
+      "condition": "큐브 구루(Cube Guru) NPC를 자리에서 움직이게 하고, 그 자리에 앉기"
     }
   },
   "2kki": {
@@ -621,7 +621,7 @@
       "condition": "Paradise에 도달하기"
     },
     "effects_speedrun": {
-      "name": "1시간 뒤에 일이 있으니까 2키 켠왕이라도 해볼까!",
+      "name": "1시간 내로 2키 켠왕 가즈아!",
       "condition": "Time Trial Mode를 키고 {TIME}이내로 모든 이펙트를 버리고 꿈에서 깨기"
     },
     "sweets_musume": {
@@ -1047,8 +1047,8 @@
       "condition": "The Docks에서 잠수함 밖에 나와 앉아 있는 특공대원(Commando)과 선장님(Provost san) NPC를 만나기"
     },
     "plaza": {
-      "name": "물의 광장 뱃지",
-      "description": "이건 도시가 아니라 큰 광장이야",
+      "name": "물의 플라자 뱃지",
+      "description": "이건 도시라기보다는 큰 플라자라구",
       "condition": "Poseidon Plaza의 모든 곳을 방문하기"
     },
     "robot": {
@@ -1104,7 +1104,7 @@
     },
     "guillotine": {
       "name": "단두대 뱃지",
-      "condition": "우로츠키의 처형을 감상하기"
+      "condition": "우로츠키의 처형 이벤트를 감상하기"
     },
     "wifi": {
       "name": "와이파이 뱃지",
@@ -1132,7 +1132,7 @@
     },
     "voxed": {
       "name": "복셀화된 뱃지",
-      "description": "죽여버려! 당장!",
+      "description": "핫하 죽어라!",
       "condition": "Voxel Island의 NPC를 전기톱으로 죽이기"
     },
     "green_tea_cake": {
@@ -1144,8 +1144,8 @@
       "condition": "학교에서 바이크를 장착하고 교장 NPC에게 잡혀서 야단맞기"
     },
     "car_crash": {
-      "name": "윕플래쉬",
-      "description": "이 게임 쩌는데!",
+      "name": "급출발 뱃지",
+      "description": "졸음 운전은 사망 운전",
       "condition": "Hidden Garage에서 차를 박살내기"
     },
     "wedding_cake": {
@@ -1176,53 +1176,53 @@
       "condition": "Time Trial Mode를 키고 Spirit Capital의 복도의 끝에 위치한 방에 {TIME} 이내로 도달하기"
     },
     "the_liar": {
-      "name": "Liar, Liar",
-      "description": "I know what you are.",
-      "condition": "Turn the light off in the Liar's bedroom."
+      "name": "거짓말쟁이, 거짓말쟁이",
+      "description": "난 네가 어떤 사람인지 알고 있어",
+      "condition": "거짓말쟁이(Liar) NPC의 침실에 불을 끄기."
     },
     "the_assistant": {
-      "name": "The Assistant",
-      "description": "Don't touch that!",
-      "condition": "Make the submarine's outer shell visible."
+      "name": "조수 뱃지",
+      "description": "그거 건들면 안 돼!",
+      "condition": "잠수함의 겉면을 투명화하기"
     },
     "surimuki": {
-      "name": "Surimuki",
-      "description": "\"I got scraped.\"",
-      "condition": "Find Surimuki everywhere she appears in the dream world (Broken Faces Area, a book in the Library, and the Monochrome School's rooftop)"
+      "name": "스리무키 뱃지",
+      "description": "\"넘어졌더니 '뇌'가 쓸려버렸어.\"",
+      "condition": "꿈 속에 존재하는 스리무키(Surimuki) NPC를 모두 찾아내기 (Broken Faces Area, Library 에 있는 책, Monochrome School 에서의 옥상)"
     },
     "helmet_girl": {
-      "name": "Shine On",
-      "description": "I'll see you on the dark side of the moon.",
-      "condition": "Visit Helmet Girl in Square-Square World, her apartment, and in the Moonlit Purple Balcony."
+      "name": "찬란한 뱃지",
+      "description": "달의 어두운 면에서 만나자.",
+      "condition": "Square-Square World, 그녀의 아파트 내부, Moonlit Purple Balcony 에서 헬멧 소녀(Helmet Girl) NPC를 만나기."
     },
     "garden_of_dreams": {
-      "name": "Garden of Dreams",
-      "description": "In this vast world of dreams, like a garden that grows, grows, and grows",
-      "condition": "Interact with (or enter the room containing) the trees of Mountaintop Ruins, Blood Cell Sea (including its Qliphothic state), Graffiti Maze, Shinto Shrine, Azure Garden ,Scenic Outlook, and Evergreen Woods"
+      "name": "꿈들의 정원 뱃지",
+      "description": "이 넓은 꿈의 세계에서, 자라나고, 자라나는 정원처럼...",
+      "condition": "Mountaintop Ruins, Blood Cell Sea (반전 상태의 나무 포함), Graffiti Maze, Shinto Shrine, Azure Garden ,Scenic Outlook, Evergreen Woods 에 있는 나무 조형물(혹은 나무 모양의 월드 워프 물체)와 상호작용 하기"
     },
     "infinite_library_mirror": {
-      "name": "Lose Yourself",
-      "description": "Witness your reflection in a mirror beyond the seemingly-infinite.",
-      "condition": "Face yourself in the mirror and reach Static Noise Hell through Infinite Library."
+      "name": "자아 상실 뱃지",
+      "description": "무한해 보이는 거울 너머에 비친 너의 모습을 직시하라.",
+      "condition": "Infinite Library 에서 거울과 상호작용하여 Static Labyrinth에 도달하기."
     },
     "rainbow_tiles_glitch": {
-      "name": "My Friends Need Me!",
-      "description": "Get buggy in the Rainbow Tiles Maze",
-      "condition": "Get to the Reverse version of the Rainbow Tiles Maze"
+      "name": "내 친구들은 네가 필요해!",
+      "description": "버그로 가득찬 무지개 타일 미로",
+      "condition": "Rainbow Tiles Maze 의 리버스 버전 맵에 도달하기"
     },
     "nightshade_corridor_creature": {
-      "name": "\"Snibbit, Snibbit?\"",
-      "condition": "Discover the Scissor Monster in Nightshade Corridor."
+      "name": "\"사그락, 사그락?\"",
+      "condition": "야경 복도에서 가위 괴물을 찾아내기"
     },
     "gutter_secret": {
-      "name": "She Loves Me Not",
-      "description": "Take my heart, pull it apart.",
-      "condition": "Witness ???-tsuki's agony hidden within the Gutter's confines"
+      "name": "그녀는 나를 좋아하지 않는다",
+      "description": "내 마음을 받아 줘, 거절은 받지 않을 테니까.",
+      "condition": "The Gutter 의 숨겨진 방에 있는 ???츠키의 고민(???tsuki's agony) 이벤트를 보기"
     },
     "deluxe_mask_shop_purchase": {
-      "name": "Silk Ribbon",
-      "description": "Smells like Licorice.",
-      "condition": "Buy a mask from the Deluxe Mask Shop."
+      "name": "실크 리본 뱃지",
+      "description": "감초의 냄새가 난다.",
+      "condition": "Deluxe Mask Shop 에서 가면을 구매하기"
     },
     "japan_town_bath": {
       "name": "The Freaks Come Out At Night",
@@ -1308,13 +1308,13 @@
       "condition": "See the skyline from the high rise of the Vending Machine Factory."
     },
     "solo_concert_hall": {
-      "name": "Solo Concert Hall",
+      "name": "솔로 콘서트 홀",
       "description": "The slums' best-kept secret: a serene symphony.",
       "condition": "Fall into a hole in the Tricolor Room and reach the alley with calming piano music playing."
     },
     "mirror_lake_patient": {
-      "name": "Mirror Lake Patient",
-      "condition": "Meet Lavender in the Blue Cactus Islands' Mirror Lake."
+      "name": "거울 호수의 환자 뱃지",
+      "condition": "Blue Cactus Islands 의 Mirror Lake 서브 에리어에 위치한 라벤더(Lavander) NPC를 발견하기"
     },
     "master_crow": {
       "name": "Master Crow perched on a fence",
@@ -1322,65 +1322,65 @@
       "condition": "Visit the Sunset Rooftops in Rock World"
     },
     "rotten_truth": {
-      "name": "Rotten Truth",
-      "description": "What have we done?",
-      "condition": "Get ending -1"
+      "name": "부패한 진실 뱃지",
+      "description": "우리가 무슨 짓을 한거지?",
+      "condition": "ED -1 을 보기"
     },
     "the_watcher": {
-      "name": "The Watcher",
-      "description": "It breathes.",
-      "condition": "Interact with the long neck creature in Flesh Paths World until something happens."
+      "name": "감시자 뱃지",
+      "description": "저거, 숨을 쉬고 있어",
+      "condition": "Flesh Paths World 에서 무언가 일어나기 전까지 계속해서 목이 긴 NPC와 상호작용 하기"
     },
     "heishi_kun": {
-      "name": "The Wounded Soldier",
-      "condition": "Use the Chainsaw effect on Heishi-kun and see what happens."
+      "name": "부상병 뱃지",
+      "condition": "병사군(Heishi-kun) NPC에게 전기톱 이펙트를 사용하기"
     },
     "luminous_lake_fish": {
-      "name": "Luminous lake",
-      "description": "Is that a Mola mola fish floating in the sky?",
-      "condition": "Get to the Luminous Lake and see the sunfish as it flies"
+      "name": "야광 호수 뱃지",
+      "description": "하늘에 떠다니는 저거... 설마 개복치인거야?",
+      "condition": "Luminous Lake 에서 날아다니는 개복치를 보기"
     },
     "forest_of_reflections": {
-      "name": "Mirror Magic",
-      "condition": "Visit the Forest Of Reflections."
+      "name": "거울 마법 뱃지",
+      "condition": "Forest Of Reflections 에 입장하기"
     },
     "blue_house_road": {
-      "name": "Bluesteel Badge",
-      "description": "That's it? That's the badge?",
-      "condition": "Visit Blue House Road"
+      "name": "블루스틸 뱃지",
+      "description": "그게 다야? 그게 뱃지라고?",
+      "condition": "Blue House Road 에 입장하기"
     },
     "the_tiger": {
-      "name": "The Tiger",
-      "description": "You pet the kitty.",
-      "condition": "Go into the Shadow Lady Mansion and pet the Tiger."
+      "name": "호랑이 뱃지",
+      "description": "당신은 고양이를 쓰다듬었다",
+      "condition": "Shadow Lady Mansion 에 있는 호랑이 NPC와 상호작용 하기"
     },
     "mar_marina": {
-      "name": "Mar Marina",
-      "description": "She used to live in a hidden shoal and moved into a lost shoal",
-      "condition": "Enter Marina's House, with the lights on and off"
+      "name": "마리아나 뱃지",
+      "description": "저 여성분, 예전에 Hidden Shoal 근처에서 살다가 요번에 Lost Shoal로 이사했대요.",
+      "condition": "Marina's House 의 전원을 키고 끈 상태의 방에 들어가기"
     },
     "libra_palace": {
-      "name": "Libra Palace",
-      "description": "Set foot into a beautiful palace in the autumn",
-      "condition": "Visit Libra Palace in autumn"
+      "name": "천칭 궁전 뱃지",
+      "description": "가을 날, 아름다운 궁전에 발을 들이다",
+      "condition": "Libra Palace 를 가을에 방문하기"
     },
     "tree_muncher": {
-      "name": "Tree Muncher",
-      "description": "*munch munch crunch crunch*",
-      "condition": "Encounter the tree-eating pink creature in Container Forest"
+      "name": "나무 먹보 뱃지",
+      "description": "*냠냠쩝쩝*",
+      "condition": "Container Forest 에서 나무를 씹어먹는 핑크빛 NPC를 찾아내기"
     },
     "rainbow_fish": {
-      "name": "Rainbow Fish",
-      "condition": "See the fishes in Binary World after using the Polygon and Rainbow effects."
+      "name": "무지개 물고기 뱃지",
+      "condition": "Binary World 에서 폴리곤과 무지개 이펙트를 사용한 후 물고기 군집을 발견하기"
     },
     "maple_symphony": {
-      "name": "Symphony of Maple",
-      "description": "A good melody",
-      "condition": "Listen to the song from the orange ball creature in Maple Shrine"
+      "name": "단풍의 심포니 뱃지",
+      "description": "좋은 멜로디구나",
+      "condition": "Maple Shrine 에서 오렌지 색 공 NPC가 불러주는 노래를 듣기"
     },
     "jiangshi": {
-      "name": "Jiangshi!",
-      "condition": "Visit Nightmare Inn"
+      "name": "강시! 뱃지",
+      "condition": "Nightmare Inn 를 방문하기"
     }
   },
   "flow": {
