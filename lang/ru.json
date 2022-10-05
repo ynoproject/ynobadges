@@ -187,6 +187,11 @@
       "name": "Seat Taken",
       "description": "Украдите сидение у Куба Гуру в Мире Мельниц.",
       "condition": "Сдвиньте Куб Гуру с его сидения, а потом сядьте туда сами."
+    },
+    "meow_ufo": {
+      "name": "They Like Me-ow~!",
+      "description": "Purrfect meet up!",
+      "condition": "Summon the UFOs on Mars with the Cat effect"
     }
   },
   "2kki": {
@@ -1381,6 +1386,81 @@
     "jiangshi": {
       "name": "Цзянши!",
       "condition": "Доберитесь до Nightmare Inn."
+    },
+    "awoo_monster_jaw": {
+      "name": "Awoo",
+      "description": "If you awoo, he awoos too!",
+      "condition": "Use the Wolf effect on the Monster's Jaw and view the short cutscene"
+    },
+    "call_for_help": {
+      "name": "A Call For Help",
+      "condition": "Save the Victim in Snowy Forest by finding them alive and interacting with them while the Telephone effect is equipped."
+    },
+    "chaser_party": {
+      "name": "Chaser Party",
+      "description": "Teamwork makes the dream work.",
+      "condition": "Get ambushed by a group of chasers when interacting with the TV in the Urotsuki's Dream Apartments"
+    },
+    "cyber_prison": {
+      "name": "Unlucky Neko",
+      "condition": "Go to Cyber Prison"
+    },
+    "get_out_meeting": {
+      "name": "GET OUT!!!",
+      "description": "\"GUARDS, GET HER!\"",
+      "condition": "Use the Chainsaw effect in the meeting room and get sent to jail."
+    },
+    "mask_shop_ring": {
+      "name": "Stop that!",
+      "description": "Be an insufferable pest",
+      "condition": "Ring the bell and piss off the mask shopkeep."
+    },
+    "myriad_blossoms": {
+      "name": "Myriad Blossoms",
+      "condition": "Reach the Sakura Path through Shinto Shrine"
+    },
+    "urotsuki_pendant": {
+      "name": "Pendant of Memories",
+      "description": "\"I\" am here.",
+      "condition": "Encounter Urotsuki or find terrain similar to her in Atlantis, Tapir-San's Place, Giant Cloning Room, Urotsuki's Dream Apartments, Closet Pinwheel Path, Red Sky Cliff, Despair Road, Head World, Static Noise Hell, Colorless Valley, and Spear Tribe World."
+    },
+    "blossoming_brooch": {
+      "name": "Blossoming Brooch",
+      "condition": "Reach the Adabana Gardens"
+    },
+    "puni_snacks": {
+      "name": "Puni Snacks",
+      "description": "Let's hope these aren't made out of real punis...",
+      "condition": "Buy every single puni related Dream Park snack and then visit Birthday Tower"
+    },
+    "rainy_day_residence": {
+      "name": "Rainy Day Residence",
+      "description": "The young girl wakes up in a flash, and when she opens her eyes, she's about to face not the gorgeous virtual city of her dreams, but a bachelor apartment and a gray day",
+      "condition": "Enter Rainy Apartments for the first time"
+    },
+    "researcher_lover": {
+      "name": "Researcher Lover",
+      "description": "The truth will be revealed.",
+      "condition": "Interact with the NPC in the Space Construction Site"
+    },
+    "techno_karaoke": {
+      "name": "Techno Karaoke",
+      "description": "* A small riot *",
+      "condition": "Interact with the Pink Girl in the Karaoke room in Virtual City"
+    },
+    "tomato_world": {
+      "name": "Ketchup and Mayonnaise",
+      "condition": "Visit Tomato World."
+    },
+    "white_garden": {
+      "name": "White Garden Sky",
+      "description": "A flower can change the world",
+      "condition": "View both of the White Garden versions in Pure White Lands"
+    },
+    "windswept_souls": {
+      "name": "Windswept Souls",
+      "description": "What more is out there?",
+      "condition": "View the deserted land from one of the towers"
     }
   },
   "flow": {
@@ -1478,6 +1558,10 @@
       "name": "Метал-тян",
       "description": "Бип буп.",
       "condition": "Посетите Метал-тян."
+    },
+    "entrance": {
+      "name": "Gateway to a Rusted Dream",
+      "condition": "See all possible variations of the entrance"
     }
   },
   "prayers": {
@@ -1614,6 +1698,15 @@
       "name": "Новинка на час",
       "description": "Время глубоко её захоронило.",
       "condition": "Получите тему Rainbow из Парка Радужных Насечек. Если эта тема у вас уже есть, вернитесь туда, где вы её подобрали."
+    },
+    "docks_aquarium": {
+      "name": "Walks of life",
+      "description": "Calm in the storm.",
+      "condition": "Visit the Aquarium in the Docks."
+    },
+    "pastel_girl": {
+      "name": "Shoal Girl",
+      "condition": "Go to Pastel House"
     }
   },
   "someday": {
@@ -1646,6 +1739,26 @@
       "name": "заП-Ранг",
       "description": "Свыше 8000!",
       "condition": "Получите 8000 или больше очков на 7-м Уровне ЗапНеФ."
+    },
+    "mystery_boxes_flooded": {
+      "name": "Graham",
+      "description": "Where are those speakers?",
+      "condition": "Break the ? box in the Dance Flood."
+    },
+    "mystery_boxes_grassland": {
+      "name": "Fibonacci",
+      "description": "Fuzzy, Not Fuzzy, Fuzzy, Not Fuzzy,...",
+      "condition": "Break the ? box in Grassland World."
+    },
+    "mystery_boxes_neon": {
+      "name": "William and Morris",
+      "description": "PEACE LOVE UNITY RESPECT: THE RAVER'S CODE",
+      "condition": "Break the ? box in Neon World."
+    },
+    "mystery_boxes_question": {
+      "name": "Schrödinger",
+      "description": "¿?QUELQUIÉNWHEREDŌSHITEКОГДА¿?",
+      "condition": "Break the ? box in Question World."
     }
   },
   "unevendream": {
@@ -1760,6 +1873,16 @@
       "name": "Кот из Глубин Снов",
       "description": "МЯЯЯЯУУУУУУ.",
       "condition": "Дотроньтесь до кота на Кубической Дороге."
+    },
+    "rainy_garden_powerline": {
+      "name": "Pretty Powerlines",
+      "description": "What a lovely stroll!",
+      "condition": "Make your way over to the powerline area from Rainy Garden"
+    },
+    "seriri": {
+      "name": "Singing Mermaid of the Sea",
+      "description": "Only a lament animates this forgotten place...",
+      "condition": "Get the Mermaid effect in the Mermaid Mansion"
     }
   },
   "braingirl": {
@@ -1790,6 +1913,20 @@
       "name": "Плавая во Тьме",
       "description": "Заперт в одиноком плавании.",
       "condition": "Посмотрите на плавающего монстра в закрытой комнате Психоделической Фермы."
+    },
+    "cubic_ruins": {
+      "name": "Flooded Ruins",
+      "description": "One small slip and you'll fall right into the waters below.",
+      "condition": "Enter the Cubic Ruins."
+    },
+    "industrial_impact": {
+      "name": "Industrial Impact",
+      "description": "A nice escape from your nightmares.",
+      "condition": "Reach the Tunnels Exit from the Industrial Tunnels"
+    },
+    "museum_takeoff": {
+      "name": "Takeoff",
+      "condition": "Watch the plane taking off in the Museum Tunnel."
     }
   },
   "amillusion": {

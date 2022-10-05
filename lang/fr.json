@@ -187,6 +187,11 @@
       "name": "Siège pris",
       "description": "Voler le siège du Cube Guru dans le Windmill World.",
       "condition": "Bouger le Cube Guru de son siège et s'asseoir dessus"
+    },
+    "meow_ufo": {
+      "name": "Ils miaiment~!",
+      "description": "Un rendez-vous miaourfait!",
+      "condition": "Faire venir les OVNIs sur Mars avec l'effet Chat"
     }
   },
   "2kki": {
@@ -1346,7 +1351,7 @@
     },
     "blue_house_road": {
       "name": "Badge bleu-acier",
-      "description": "C'est tout ? C'est le badge ?",
+      "description": "C'est tout ? C'est ça le badge ?",
       "condition": "Visiter la Blue House Road"
     },
     "the_tiger": {
@@ -1381,6 +1386,81 @@
     "jiangshi": {
       "name": "Jiangshi !",
       "condition": "Visiter le Nightmare Inn"
+    },
+    "awoo_monster_jaw": {
+      "name": "Awoo",
+      "description": "Si tu awoo, il awoo aussi!",
+      "condition": "Utiliser l'effet Loup dans la Monster's Jaw et voir la courte scène"
+    },
+    "call_for_help": {
+      "name": "Un appel à l'aide",
+      "condition": "Sauver la Victime dans la Snowy Forest en la trouvant vivante et en interagissant avec elle alors que l'effet Téléphone est équipé."
+    },
+    "chaser_party": {
+      "name": "Fête de chasseurs",
+      "description": "Le travail d'équipe forge les rêves.",
+      "condition": "Se faire embûcher en interagissant avec la TV dans l'Urotsuki's Dream Apartments"
+    },
+    "cyber_prison": {
+      "name": "Neko malchanceux",
+      "condition": "Aller dans la Cyber Prison"
+    },
+    "get_out_meeting": {
+      "name": "VA-T-EN!!!",
+      "description": "\"GARDES, ATTRAPEZ-LA!\"",
+      "condition": "Utiliser l'effet Tronçonneuse dans la salle de réunion et être envoyé en prison."
+    },
+    "mask_shop_ring": {
+      "name": "Arrête ça!",
+      "description": "Être une insupportable peste",
+      "condition": "Faire sonner la cloche et énerver le vendeur de masques."
+    },
+    "myriad_blossoms": {
+      "name": "Myriade de fleurs",
+      "condition": "Atteindre le Passage Sakura depuis le Shinto Shrine"
+    },
+    "urotsuki_pendant": {
+      "name": "Pendentif de souvenirs",
+      "description": "\"Je\" suis là.",
+      "condition": "Rencontrer Urotsuki ou trouver un terrain la ressemblant dans Atlantis, Tapir-San's Place, Giant Cloning Room, Urotsuki's Dream Apartments, Closet Pinwheel Path, Red Sky Cliff, Despair Road, Head World, Static Noise Hell, Colorless Valley, et Spear Tribe World."
+    },
+    "blossoming_brooch": {
+      "name": "Broche florissante",
+      "condition": "Atteindre les Adabana Gardens"
+    },
+    "puni_snacks": {
+      "name": "Goûters Punis",
+      "description": "Espérons qu'ils ne soient pas faits de vrais punis...",
+      "condition": "Acheter tous les goûters liés aux Punis dans le Dream Park et visiter la Birthday Tower"
+    },
+    "rainy_day_residence": {
+      "name": "Résidence au jour de pluie",
+      "description": "La jeune fille se réveille en un éclair, et lorqu'elle ouvre ses yeux, elle s'apprête non pas à voir la magnifique ville virtuelle de ses rêves, mais plutôt un appartement de bachelier et une journée morose",
+      "condition": "Entrer dans les Rainy Apartments pour la première fois"
+    },
+    "researcher_lover": {
+      "name": "Rechercheuse en amour",
+      "description": "La vérité va être révélée.",
+      "condition": "Interagir avec le PNJ dans le Space Construction Site"
+    },
+    "techno_karaoke": {
+      "name": "Karaoké techno",
+      "description": "* Une petite émeute *",
+      "condition": "Interagir avec la Fille Rose dans la salle de Karaoké de la Virtual City"
+    },
+    "tomato_world": {
+      "name": "Ketchup et mayonnaise",
+      "condition": "Visiter le Tomato World."
+    },
+    "white_garden": {
+      "name": "Ciel du Jardin Blanc",
+      "description": "Une fleur peut changer le monde",
+      "condition": "Voir les deux versions du Jardin Blanc dans les Pure White Lands"
+    },
+    "windswept_souls": {
+      "name": "Âmes balayées par les vents",
+      "description": "Qu'y a-t-il de plus là-bas ?",
+      "condition": "Voir les terres désertées depuis l'une des tours"
     }
   },
   "flow": {
@@ -1478,6 +1558,10 @@
       "name": "Metal-tan",
       "description": "Biip boup.",
       "condition": "Rendre visite à Metal-tan."
+    },
+    "entrance": {
+      "name": "Porte d'entrée vers un rêve rouillé",
+      "condition": "Voir toutes les variations possibles de l'entrance"
     }
   },
   "prayers": {
@@ -1614,6 +1698,15 @@
       "name": "Nouveauté d'une heure",
       "description": "Le temps l'a enterré profondément.",
       "condition": "Obtenir le Système Arc-en-ciel dans le Rainbow Scratch Park. Si vous l'avez déjà obtenu, retournez là où vous l'avez trouvé."
+    },
+    "docks_aquarium": {
+      "name": "Marche de la vie",
+      "description": "Le calme dans la tempête.",
+      "condition": "Visiter l'Aquarium dans les Docks."
+    },
+    "pastel_girl": {
+      "name": "Fille du Banc de Sable",
+      "condition": "Aller dans la Pastel House"
     }
   },
   "someday": {
@@ -1646,6 +1739,26 @@
       "name": "zaP-Rank",
       "description": "It's over 8000 !",
       "condition": "Obtenir un score de 8000 ou plus sur le Niveau 7 de Zapnef"
+    },
+    "mystery_boxes_flooded": {
+      "name": "Graham",
+      "description": "Où sont ces haut-parleurs ?",
+      "condition": "Casser la boîte ? dans le Dance Flood."
+    },
+    "mystery_boxes_grassland": {
+      "name": "Fibonacci",
+      "description": "Flou, pas flou, flou, pas flou,...",
+      "condition": "Casser la boîte ? dans le Grassland World."
+    },
+    "mystery_boxes_neon": {
+      "name": "William et Morris",
+      "description": "PAIX AMOUR UNITÉ RESPECT: LE CODE DES RAVEURS",
+      "condition": "Casser la boîte ? dans le Neon World."
+    },
+    "mystery_boxes_question": {
+      "name": "Schrödinger",
+      "description": "¿?WHATQUIÉNOÙDŌSHITEКОГДА¿?",
+      "condition": "Casser la boîte ? dans le Question World."
     }
   },
   "unevendream": {
@@ -1760,6 +1873,16 @@
       "name": "Chat d'un profond rêve",
       "description": "MIIIIAAAAOOOOOOU",
       "condition": "Interagir avec le chat dans la Cube Road"
+    },
+    "rainy_garden_powerline": {
+      "name": "Jolies lignes électriques",
+      "description": "Quelle promenade charmante !",
+      "condition": "Tracer son chemin jusqu'à la zone aux lignes électriques du Rainy Garden"
+    },
+    "seriri": {
+      "name": "Sirène chanteuse du fond de l'océan",
+      "description": "Seule une complainte anime ce lieu désolé...",
+      "condition": "Obtenir l'effet Sirène dans le Manoir Sirène"
     }
   },
   "braingirl": {
@@ -1790,6 +1913,20 @@
       "name": "Natation dans les ténèbres",
       "description": "Enfermé pour nager seul.",
       "condition": "Voir le monstre nageur dans la salle verrouillée dans la Psychedelic Farm."
+    },
+    "cubic_ruins": {
+      "name": "Ruines inondées",
+      "description": "Un faux pas et tu tombes dans l'eau.",
+      "condition": "Entrer dans les Cubic Ruins."
+    },
+    "industrial_impact": {
+      "name": "Impact industriel",
+      "description": "Un joli échappatoire à vos cauchemars.",
+      "condition": "Atteindre la Tunnels Exit depuis l'Industrial Tunnels"
+    },
+    "museum_takeoff": {
+      "name": "Décollage",
+      "condition": "Regarder l'avion prendre son envol dans le Museum Tunnel."
     }
   },
   "amillusion": {
