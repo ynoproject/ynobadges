@@ -192,6 +192,21 @@
       "name": "Ils miaiment~!",
       "description": "Un rendez-vous miaourfait!",
       "condition": "Faire venir les OVNIs sur Mars avec l'effet Chat"
+    },
+    "noemi": {
+      "name": "New Badge",
+      "description": "AE",
+      "condition": "Blz"
+    },
+    "masada_moon_walk": {
+      "name": "Moon walk",
+      "description": "“Please put the knife away”",
+      "condition": "Make Seccom Masada-sensei walk away with the Kitchen Knife effect"
+    },
+    "severed_heads": {
+      "name": "Heads off to you!",
+      "description": "Sorry, you went in over my head!",
+      "condition": "Activate the severed heads event"
     }
   },
   "2kki": {
@@ -329,7 +344,7 @@
     },
     "aojiru": {
       "name": "Aojiru",
-      "condition": "Visiter Aojiru dans l'Hospital"
+      "condition": "Rendre visite à Aojiru dans l'Hospital"
     },
     "zalgo": {
       "name": "Lamentation de Zalgo",
@@ -1389,7 +1404,7 @@
     },
     "awoo_monster_jaw": {
       "name": "Awoo",
-      "description": "Si tu awoo, il awoo aussi!",
+      "description": "Si tu awoo, il awoo aussi !",
       "condition": "Utiliser l'effet Loup dans la Monster's Jaw et voir la courte scène"
     },
     "call_for_help": {
@@ -1407,7 +1422,7 @@
     },
     "get_out_meeting": {
       "name": "VA-T-EN!!!",
-      "description": "\"GARDES, ATTRAPEZ-LA!\"",
+      "description": "\"GARDES, ATTRAPEZ-LA !\"",
       "condition": "Utiliser l'effet Tronçonneuse dans la salle de réunion et être envoyé en prison."
     },
     "mask_shop_ring": {
@@ -1461,6 +1476,44 @@
       "name": "Âmes balayées par les vents",
       "description": "Qu'y a-t-il de plus là-bas ?",
       "condition": "Voir les terres désertées depuis l'une des tours"
+    },
+    "green_tea_graveyard": {
+      "name": "Thé amer",
+      "description": "THÉFLÛTÉ",
+      "condition": "Entrer dans le Green Tea Graveyard"
+    },
+    "robot_dark_alleys": {
+      "name": "Ami robot",
+      "description": "Robot rigolo :)",
+      "condition": "Rendre visite au Robot de l'Allée dans sa salle des Dark Alleys"
+    },
+    "phone_dream_apartments": {
+      "name": "Court délai",
+      "description": "T'aimes pas trop perdre ton temps toi, n'est-ce pas ?",
+      "condition": "Prendre un raccourci en utilisant le téléphone dans les Urotsuki's Dream Apartments"
+    },
+    "ghostly_exhibit": {
+      "name": "Photosynthèse",
+      "condition": "Visiter le Ghostly Exhibit."
+    },
+    "mushroom_floating_catacombs": {
+      "name": "Sanctuaire lumineux",
+      "description": "Caché parmi les monolithes de pierre résistants au sinueux écoulement du temps, un sanctuaire rempli de champis lumineux attend le voyageur onirique, profitant d'un instant de paix avant les ténèbres.",
+      "condition": "S'asseoir dans la Chambr-ignon lumineuse dans les Floating Catacombs."
+    },
+    "windswept_fields": {
+      "name": "Brise du printemps précoce",
+      "condition": "Visiter les Windswept Fields"
+    },
+    "floral_interlude": {
+      "name": "Interlude florale",
+      "description": "Des myriades de fleurs enchantent lentement l'œil...",
+      "condition": "Découvrir les 4 décors de fleurs dans le Field of Cosmos et dans les Adabana Gardens"
+    },
+    "prison_power_plants": {
+      "name": "Prison aqueuse",
+      "description": "Tu dois être plus attentif quand tu marches !",
+      "condition": "Faire l'événement des Creatures of the Power Plant dans la Power Plant."
     }
   },
   "flow": {
@@ -1562,6 +1615,15 @@
     "entrance": {
       "name": "Porte d'entrée vers un rêve rouillé",
       "condition": "Voir toutes les variations possibles de l'entrance"
+    },
+    "deterioration_mysterious_door": {
+      "name": "Bonjour ?",
+      "description": "Qu'est-ce qu'il y avait là-dedans ?",
+      "condition": "Interagir avec la 4ème porte dans les Deterioration Apartment"
+    },
+    "erosion_counter": {
+      "name": "Subir l'érosion",
+      "condition": "Avoir le Compteur d'Érosion à 300 ou plus"
     }
   },
   "prayers": {
@@ -1624,6 +1686,10 @@
       "name": "Symboles fantomatiques",
       "description": "Porte ressemblance à ton propre fantôme.",
       "condition": "Interagir avec la Fluorette Fantomatique dans le Symbols Maze."
+    },
+    "eye_mural_gb": {
+      "name": "Graffiti qui voit tout",
+      "condition": "Entrer dans la zone du graffiti œil dans la GB Forest"
     }
   },
   "deepdreams": {
@@ -1759,6 +1825,11 @@
       "name": "Schrödinger",
       "description": "¿?WHATQUIÉNOÙDŌSHITEКОГДА¿?",
       "condition": "Casser la boîte ? dans le Question World."
+    },
+    "tangday": {
+      "name": "TANGDAY",
+      "description": "Désormais avec de la soupe de poisson en plus pour soigner votre santé mentale ! [Avertissement : Ne soigne pas les problèmes familiaux et traumatismes venant avec]",
+      "condition": "Prendre une boisson au Bar."
     }
   },
   "unevendream": {
@@ -1883,6 +1954,11 @@
       "name": "Sirène chanteuse du fond de l'océan",
       "description": "Seule une complainte anime ce lieu désolé...",
       "condition": "Obtenir l'effet Sirène dans le Manoir Sirène"
+    },
+    "eye_dust": {
+      "name": "Chassie",
+      "description": "C'est donc ici que le marchand de sable vit ?",
+      "condition": "Visiter l'Eye Dust."
     }
   },
   "braingirl": {
@@ -1969,6 +2045,11 @@
       "name": "Stylé' !",
       "description": "Suivre les dernières tendances !",
       "condition": "Obtenir une coiffure au Coiffeur du Midnight Mall (avec la clé Cougar)"
+    },
+    "geology_exhibit_view": {
+      "name": "Annihilation",
+      "description": "On a pas commencé le feu...",
+      "condition": "Grimper l'échelle dans le Geology exhibit du Science Museum."
     }
   }
 }
