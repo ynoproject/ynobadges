@@ -194,12 +194,12 @@
       "condition": "火星でねこを使用しUFOを呼び寄せる"
     },
     "masada_moon_walk": {
-      "name": "Moon walk",
-      "description": "“Please put the knife away”",
+      "name": "Moonwalk",
+      "description": "Please put the knife away",
       "condition": "Make Seccom Masada-sensei walk away with the Kitchen Knife effect"
     },
     "severed_heads": {
-      "name": "Heads off to you!",
+      "name": "Heads Off to You!",
       "description": "Sorry, you went in over my head!",
       "condition": "Activate the severed heads event"
     }
@@ -1479,13 +1479,7 @@
     },
     "robot_dark_alleys": {
       "name": "Robot Friend",
-      "description": "Funny robot :)",
       "condition": "Visit the Alley Robot's room in the Dark Alleys"
-    },
-    "phone_dream_apartments": {
-      "name": "Short Notice",
-      "description": "You sure don't like wasting time, do you?",
-      "condition": "Take a shortcut using the phone in Urotsuki's Dream Apartments"
     },
     "ghostly_exhibit": {
       "name": "Photosynthesis",
@@ -1683,7 +1677,8 @@
       "condition": "Interact with the Ghost Fluorette in the Symbols Maze."
     },
     "eye_mural_gb": {
-      "name": "All Seeing Graffiti",
+      "name": "All-Seeing Graffiti",
+      "description": "The walls, they have eyes!",
       "condition": "Enter the eye mural map in the GB Forest"
     }
   },
