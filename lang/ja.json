@@ -1461,6 +1461,108 @@
       "name": "Windswept Souls",
       "description": "ここには何もない",
       "condition": "砂と風の塔のから荒涼とした大地を眺める"
+    },
+    "starry_night": {
+      "name": "Starry Night",
+      "description": "You look quite divine tonight, underneath these vibrant lights...",
+      "condition": "Enter the Starry Night painting in Windswept Scarlet Sands."
+    },
+    "victorian_festival": {
+      "name": "Festival of Colors",
+      "condition": "Enter the Carnival Town in the Victorian Drains."
+    },
+    "rainbow_clock": {
+      "name": "Happier Times",
+      "condition": "View the giant clock in Rainbow Silhouette World."
+    },
+    "from_behind": {
+      "name": "The Shadow of Neon",
+      "condition": "Watch the \"It Came From Behind\" event in Neon City."
+    },
+    "star_planetarium": {
+      "name": "Starry View and Machinery",
+      "condition": "View the \"Starry Sky Event\" in Planetarium."
+    },
+    "cosmic_daydream": {
+      "name": "Daydream",
+      "condition": "Enter the \"Dark Room\" in Cosmic World."
+    },
+    "lonely_garden": {
+      "name": "Lonely Garden amid Desolate Streets",
+      "description": "What secrets are hiding in these unwelcoming winding alleys?",
+      "condition": "Enter the \"Hidden Garden\" in Deserted Town."
+    },
+    "serene_waters": {
+      "name": "Serene Waters by the Cold Brick Walls",
+      "condition": "Enter the balcony in Mansion."
+    },
+    "dancing_queen": {
+      "name": "Dancing Queen",
+      "description": "Night is young & the music's high!",
+      "condition": "View the Giant Dancing Eye in Forest Pier."
+    },
+    "fishy_friends": {
+      "name": "Fishy Friends",
+      "description": "Jellyfishing Time!",
+      "condition": "Enter the Aquarium in Overgrown City."
+    },
+    "sunbeam_industrial": {
+      "name": "Sunbeams",
+      "description": "Traces of warmth in an otherwise desolate labyrinth.",
+      "condition": "Enter the Passage within Industrial Maze."
+    },
+    "lustrous_memory": {
+      "name": "Lustrous Memory",
+      "condition": "Enter the Radiant Ruins."
+    },
+    "hide_kotatsu": {
+      "name": "Attempting to Hide",
+      "description": "Hey, is that you down there?",
+      "condition": "Go under the kotatsu in the Green Creature's room in Transmission Tower World."
+    },
+    "music_bottom": {
+      "name": "Bottom Jukebox",
+      "description": "Home Sweet Home of a Big Jukebox.",
+      "condition": "Enter the Music Box Creature's home in Bottom Garden."
+    },
+    "falling_up": {
+      "name": "Falling Up",
+      "description": "Just try to get down.",
+      "condition": "Enter the Chaotic Buildings."
+    },
+    "familiar_figure": {
+      "name": "A Familiar Figure",
+      "description": "A glass of water a day keeps the doctor away.",
+      "condition": "Find Onsen-San in Pillars World."
+    },
+    "lucent_world": {
+      "name": "Lucent World",
+      "description": "A Fish's Night of Nocturnal Dreaming.",
+      "condition": "Reach the magical waters of Bioluminescent Cavern"
+    },
+    "gold_statue": {
+      "name": "Golden Statue",
+      "description": "The Golden Arch.",
+      "condition": "Visit the room with the Golden Statue in Overgrown City."
+    },
+    "hurt_blob": {
+      "name": "That Hurt!",
+      "description": "The guardian of a great secret.",
+      "condition": "Make the Blob NPC in Deserted Town scream in agony."
+    },
+    "mystery_hideaway": {
+      "name": "Mysterious Hideaway",
+      "description": "A hidden place, familiar yet different...",
+      "condition": "Enter the Hidden Shoal."
+    },
+    "decadent_sunfish": {
+      "name": "Decadent Sunfish",
+      "condition": "Collide with the Ocean Sunfish in Rainbow Silhouette World."
+    },
+    "blind_cosmo": {
+      "name": "Blinding Cosmos",
+      "description": "I love flashing lights!",
+      "condition": "Enter Cosmic World."
     }
   },
   "flow": {
@@ -1915,18 +2017,18 @@
       "condition": "Green Barnの扉を開けて泳ぐモンスターを見る。"
     },
     "cubic_ruins": {
-      "name": "浸水遺跡",
-      "description": "ちょっとでも足を滑らせたら、すぐに海に落ちちゃう。",
-      "condition": "Cubic Ruinsに到達する。"
+      "name": "Flooded Ruins",
+      "description": "One small slip and you'll fall right into the waters below.",
+      "condition": "Enter the Cubic Ruins."
     },
     "industrial_impact": {
-      "name": "産業革命",
-      "description": "悪夢からの脱出",
-      "condition": "Industrial Tunnelsを抜ける"
+      "name": "Industrial Impact",
+      "description": "A nice escape from your nightmares.",
+      "condition": "Reach the Tunnels Exit from the Industrial Tunnels"
     },
     "museum_takeoff": {
-      "name": "離陸",
-      "condition": "Museum Tunnelで離陸する飛行機を見る。"
+      "name": "Takeoff",
+      "condition": "Watch the plane taking off in the Museum Tunnel."
     }
   },
   "amillusion": {
