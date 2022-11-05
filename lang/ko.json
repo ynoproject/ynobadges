@@ -332,8 +332,8 @@
       "condition": "Hospital에서 아오지루(Aojiru)NPC의 방에 도달하기"
     },
     "zalgo": {
-      "name": "Zalgo의 비탄",
-      "condition": "Magnet Room 에서 Zalgo 이벤트를 완료하기"
+      "name": "자르고의 비탄",
+      "condition": "Magnet Room 에서 자르고(Zalgo) 이벤트를 완료하기"
     },
     "lotus_girl": {
       "name": "연꽃 소녀 뱃지",
@@ -359,7 +359,7 @@
     },
     "mushroom": {
       "name": "무지개 버섯 뱃지",
-      "condition": "돌 감옥에 갇힌 소녀를 구출하기"
+      "condition": "돌에 갇힌 소녀를 구하기"
     },
     "hakoko": {
       "name": "하코코 뱃지",
@@ -512,10 +512,10 @@
     "oni_musume": {
       "name": "도깨비 공주 뱃지",
       "description": "움직이지 않는 작은 도서관",
-      "condition": "Dark Room의 남측 끝방에 있는 도깨비 공주가 책을 읽고 있을 때 해당 NPC와 상호작용하기"
+      "condition": "Dark Room의 남측 끝방에 위치한 도깨비 공주(Oni Musume)가 책을 읽고 있을 때 해당 NPC와 상호작용하기"
     },
     "deserted_space": {
-      "name": "발길이 끊긴 곳",
+      "name": "발길이 끊긴 장소 뱃지",
       "description": "쉬기 딱 좋은 공간이네요",
       "condition": "Ruined Garden의 숨겨진 방에 입장하기"
     },
@@ -525,7 +525,7 @@
     },
     "hebiko": {
       "name": "헤비코 뱃지",
-      "condition": "Blue Forest에 있는 헤비코 npc와 상호작용하기"
+      "condition": "Blue Forest에 있는 헤비코(Hebiko) npc와 상호작용하기"
     },
     "book": {
       "name": "명석한 책벌레 뱃지",
@@ -538,7 +538,7 @@
     "firehead": {
       "name": "화염 소녀 뱃지",
       "description": "그 곳이 바다 속 일지라도, 파티의 불꽃은 수그러들지 않는다",
-      "condition": "Aquatic Cube City에 화염 소녀 이벤트를 보기"
+      "condition": "Aquatic Cube City에 화염 소녀(Firehead) 이벤트를 보기"
     },
     "peak": {
       "name": "한숨 돌리기",
@@ -599,7 +599,7 @@
     },
     "white_creature": {
       "name": "0으로 나누기",
-      "condition": "Apartments에 있는 하얀색 침흘리개 NPC와 상호작용하기"
+      "condition": "Apartments에 있는 하얀색 침흘리개(White Drooling Creature) NPC와 상호작용하기"
     },
     "data_stream": {
       "name": "디지털 분신 뱃지",
@@ -613,7 +613,7 @@
     },
     "crown_of_spirits": {
       "name": "정령관 뱃지",
-      "condition": "Spirit Capital의 고속도로 서브 에리어에서 가장 끝에 위치한 방에 입장하기"
+      "condition": "Spirit Capital의 Underwater section 서브 에리어에서 가장 끝에 위치한 방에 입장하기"
     },
     "drunk": {
       "name": "마슈타 뱃지",
@@ -631,10 +631,10 @@
     },
     "sweets_musume": {
       "name": "달콤한 거?!",
-      "condition": "케이크 이펙트를 끼고 디저트 공주 NPC와 상호작용하기"
+      "condition": "케이크 이펙트를 끼고 디저트 공주(Sweets Musume) NPC와 상호작용하기"
     },
     "smile": {
-      "name": "미소의 세계 뱃지",
+      "name": "미소의 세상 뱃지",
       "description": "얼굴 좀 펴!",
       "condition": "Smiling Trees World에 있는 집에 입장하기"
     },
@@ -660,7 +660,7 @@
     },
     "survivor": {
       "name": "생존자 뱃지",
-      "condition": "Evergreen Woods에서 도마뱀이 아닌 생물체와 상호작용하기"
+      "condition": "Evergreen Woods에서 인간의 형태를 한 생물체와 상호작용하기"
     },
     "medic_bag": {
       "name": "응급키트 뱃지",
@@ -682,7 +682,7 @@
     "puni": {
       "name": "다섯 푸니 뱃지",
       "description": "우와 귀여워~!",
-      "condition": "Dream Park에서 푸니(puni) NPC로 변신하기"
+      "condition": "Dream Park에서 푸니(Puni) NPC로 변신하기"
     },
     "mechanical_heart": {
       "name": "종막 뱃지",
@@ -731,7 +731,7 @@
     "acrophobia": {
       "name": "고소공포증 뱃지",
       "description": "01001000 01100101 01101100 01101100 01101111",
-      "condition": "토끼귀 이펙트를 끼고 Glitchman과 상호작용해서 Industrial Towers의 시간대를 밤으로 바꾸기"
+      "condition": "토끼귀 이펙트를 끼고 글리치맨(Glitchman) NPC와 상호작용해서 Industrial Towers의 시간대를 밤으로 바꾸기"
     },
     "dream_fishing": {
       "name": "꿈낚시 뱃지",
@@ -804,7 +804,7 @@
     "odorika": {
       "name": "가로등 가무 뱃지",
       "description": "저 여자 리듬 잘 타는데!",
-      "condition": "마이코 이펙트로 Odorika의 풀스크린 댄스 이벤트를 감상하기"
+      "condition": "마이코 이펙트로 오도리카(Odorika) NPC의 풀스크린 댄스 이벤트를 감상하기"
     },
     "akama": {
       "name": "마녀 결투 뱃지",
@@ -850,8 +850,8 @@
       "condition": "Neon Sea에서 바다 괴물을 만나기"
     },
     "mosenite": {
-      "name": "모세나이트 뱃지",
-      "condition": "Mosenite를 방문하기"
+      "name": "헤이안 풍 마을 뱃지",
+      "condition": "Heian Era Village를 방문하기"
     },
     "heart": {
       "name": "체력의 근간 뱃지",
@@ -883,7 +883,7 @@
     },
     "gakuran": {
       "name": "방랑소년 뱃지",
-      "condition": "특정 이펙트를 장착한 채 Gakuran-kun과 상호작용하기"
+      "condition": "특정 이펙트를 장착한 채 가쿠란군(Gakuran-kun) NPC와 상호작용하기"
     },
     "block_person": {
       "name": "블록 인간 뱃지",
@@ -891,7 +891,7 @@
       "condition": "Red Brick Maze에서 블록 인간으로 변신하기"
     },
     "madotsukis_room": {
-      "name": "본래의 모습",
+      "name": "창문달린 방 뱃지",
       "description": "확실히 어떤 곳이랑 닮아 보이는데...",
       "condition": "Never-Ending Hallway에 있는 특정 방에 입장하기"
     },
@@ -962,7 +962,7 @@
     },
     "blood_ghosts": {
       "name": "피의 망령들 뱃지",
-      "description": "그런 짓은 하지 말았어야지",
+      "description": "그런 짓은 하지 말아야했는데 난 그 사실을 몰랐어",
       "condition": "Blood World에서 피의 희생(Blood Sacrific) 이벤트를 보기"
     },
     "scourge_of_guilt": {
@@ -972,7 +972,7 @@
     },
     "pink_bow": {
       "name": "핑크빛 리본",
-      "description": "낭만적인 여성",
+      "description": "로맨틱한 여성",
       "condition": "Shop Ruins에 있는 모든 의상을 입어보기"
     },
     "pien": {
@@ -995,7 +995,7 @@
     },
     "flying_fish_world": {
       "name": "너, 나 그리고 우리",
-      "description": "결국 모두 빙글빙글 돌아갈 뿐이야",
+      "description": "어떻게 하나~ 우리 만남은 빙글빙글 돌고~",
       "condition": "Flying Fish World의 메인 에리어와 모든 서브 에리어를 방문하기"
     },
     "sacred_crypt": {
@@ -1040,7 +1040,7 @@
     "lamplighter": {
       "name": "소등 뱃지",
       "description": "세계는 어둠 속으로 빠져버렸다...",
-      "condition": "점등사를 죽이고 이벤트를 감상하기"
+      "condition": "점등사 NPC를 죽이고 이벤트를 감상하기"
     },
     "fairy_hole": {
       "name": "요정의 안식처",
@@ -1053,7 +1053,7 @@
     },
     "plaza": {
       "name": "물의 플라자 뱃지",
-      "description": "이건 도시라기보다는 큰 플라자라구",
+      "description": "여긴 도시보다 더 큰 플라자라구!",
       "condition": "Poseidon Plaza의 모든 곳을 방문하기"
     },
     "robot": {
@@ -1087,7 +1087,7 @@
       "condition": "NES Glitch Tunnel에 숨겨진 바나나를 찾아내기"
     },
     "tv_channels": {
-      "name": "티비 애호가 뱃지",
+      "name": "TV 애호가 뱃지",
       "description": "아직도 보고 있는거야?",
       "condition": "TV room의 모든 채널을 시청하기"
     },
@@ -1197,18 +1197,18 @@
     },
     "helmet_girl": {
       "name": "찬란한 뱃지",
-      "description": "달의 어두운 면에서 만나자.",
-      "condition": "Square-Square World, 그녀의 아파트 내부, Moonlit Purple Balcony 에서 헬멧 소녀(Helmet Girl) NPC를 만나기."
+      "description": "달의 어두운 쪽에서 만나자.",
+      "condition": "Square-Square World, 그녀의 아파트 내부, Moonlit Purple Balcony 에서 헬멧 소녀(Helmet Girl) NPC를 만나기"
     },
     "garden_of_dreams": {
       "name": "꿈들의 정원 뱃지",
-      "description": "이 넓은 꿈의 세계에서, 자라나고, 자라나는 정원처럼...",
+      "description": "이 광활한 꿈세계에서, 자라나고, 자라나는 정원처럼...",
       "condition": "Mountaintop Ruins, Blood Cell Sea (반전 상태의 나무 포함), Graffiti Maze, Shinto Shrine, Azure Garden ,Scenic Outlook, Evergreen Woods 에 있는 나무 조형물(혹은 나무 모양의 월드 워프 물체)와 상호작용 하기"
     },
     "infinite_library_mirror": {
       "name": "자아 상실 뱃지",
-      "description": "무한해 보이는 거울 너머에 비친 너의 모습을 직시하라.",
-      "condition": "Infinite Library 에서 거울과 상호작용하여 Static Labyrinth에 도달하기."
+      "description": "무한해 보이는 거울 너머에 비친 너의 모습을 직시하라",
+      "condition": "Infinite Library 에서 거울과 상호작용하여 Static Labyrinth에 도달하기"
     },
     "rainbow_tiles_glitch": {
       "name": "내 친구들은 네가 필요해!",
@@ -1255,12 +1255,12 @@
     },
     "foliage_estate_satellite_dish": {
       "name": "별빛 위성 뱃지",
-      "description": "별들 사이에서 길을 잃지 않도록 조심하세요!",
+      "description": "별들 사이에서 길을 잃지 않도록 조심해!",
       "condition": "Foliage Estate 의 위성 관측소(Satellite Dish) 서브 에리어를 방문하기"
     },
     "shallows_of_deceit_rooftop": {
       "name": "해질녘의 옥상 뱃지",
-      "description": "아름다운 경치네요!",
+      "description": "정말로 아름다운 밤이야!",
       "condition": "Shallows of Deceit 의 옥상 서브 에리어를 방문하기"
     },
     "shadow_cat": {
@@ -1268,7 +1268,7 @@
       "condition": "Techno Condominium, Vending Machine Factory 에 출몰하는 그림자 고양이들을 모두 찾아내기"
     },
     "sculpture_park_monolith": {
-      "name": "어리석은 기둥 뱃지",
+      "name": "우매한 기둥 뱃지",
       "condition": "Sculpture Park 에 원형으로 설치된 기둥들을 찾아내기"
     },
     "ancient_mural": {
@@ -1282,7 +1282,7 @@
     },
     "shell_lake_giant_snail": {
       "name": "점액투성이 행인 뱃지",
-      "description": "껍질 호수에서의 달팽이를 발견하다",
+      "description": "껍질 호수에서 달팽이를 맞닥뜨리다",
       "condition": "Shell Lake 의 거대 달팽이 복도 서브 에리어에 방문하기"
     },
     "overgrown_condominium_ticket": {
@@ -1298,13 +1298,13 @@
       "condition": "Snowy Village 에 있는 연보라빛 물개 NPC와 상호작용 하기"
     },
     "cloning_room": {
-      "name": "복제하다",
-      "description": "\"섹터 재평가 : 복제 플랫폼 활성화 \n복제 플렛폼이 파괴됨\n상태 : 재앙\"",
+      "name": "복제 뱃지",
+      "description": "\"섹터 재할당 : 복제 플랫폼 활성화 \n복제 플렛폼이 파괴됨\n상태 : 재앙\"",
       "condition": "Red Brick Maze 의 클론룸(Cloning Room) 이벤트를 감상하기"
     },
     "rainbow_towers_ufo": {
       "name": "미확인 비행 물체 뱃지",
-      "description": "레이더에 포착되다!",
+      "description": "레이더 망에 포착되다!",
       "condition": "Rainbow Towers 에서 UFO가 지나가는 이벤트를 보기"
     },
     "vending_machine_factory_balcony": {
@@ -1333,7 +1333,7 @@
     },
     "the_watcher": {
       "name": "감시자 뱃지",
-      "description": "저거, 숨을 쉬고 있어",
+      "description": "저거, 숨 쉬는데...?",
       "condition": "Flesh Paths World 에서 무언가 일어나기 전까지 계속해서 목이 긴 NPC와 상호작용 하기"
     },
     "heishi_kun": {
@@ -1351,7 +1351,7 @@
     },
     "blue_house_road": {
       "name": "블루스틸 뱃지",
-      "description": "그게 다야? 그게 뱃지라고?",
+      "description": "이게 다야? 이게 뱃지라고?",
       "condition": "Blue House Road 에 입장하기"
     },
     "the_tiger": {
@@ -1402,7 +1402,7 @@
       "condition": "Urotsuki's Dream Apartments 에서 TV와 상호작용 하여 체이서 NPC들에게 습격당하기"
     },
     "cyber_prison": {
-      "name": "운 없는 냥이 뱃지",
+      "name": "언럭키 마네키네코 뱃지",
       "condition": "Cyber Prison 에 도달하기"
     },
     "get_out_meeting": {
@@ -1454,7 +1454,7 @@
     },
     "white_garden": {
       "name": "백색 정원의 하늘 뱃지",
-      "description": "꽃 한 송이가 세상을 바꿀 수 있다",
+      "description": "꽃 한 송이가 세상을 바꾼다",
       "condition": "Pure White Lands 에서 White Garden 서브 에리어의 모든 버전을 보기"
     },
     "windswept_souls": {
@@ -1463,131 +1463,131 @@
       "condition": "건물 중 한 곳에 올라가 황량한 땅을 바라보기"
     },
     "starry_night": {
-      "name": "Starry Night",
-      "description": "You look quite divine tonight, underneath these vibrant lights...",
-      "condition": "Enter the Starry Night painting in Windswept Scarlet Sands."
+      "name": "별이 빛나는 밤 뱃지",
+      "description": "이 찬란한 별빛들 아래, 오늘 밤의 당신은 정말로 멋져 보여요",
+      "condition": "Windswept Scarlet Sands의 Starry Night painting 서브 에리어에 도달하기."
     },
     "victorian_festival": {
-      "name": "Festival of Colors",
-      "condition": "Enter the Carnival Town in the Victorian Drains."
+      "name": "색들의 축제 뱃지",
+      "condition": "Victorian Drains의 Carnival Town서브 에리어에 도달하기"
     },
     "rainbow_clock": {
-      "name": "Happier Times",
-      "condition": "View the giant clock in Rainbow Silhouette World."
+      "name": "행복한 시간들 뱃지",
+      "condition": "Rainbow Silhouette World 에서 거대한 시계를 찾아내기"
     },
     "from_behind": {
-      "name": "The Shadow of Neon",
-      "condition": "Watch the \"It Came From Behind\" event in Neon City."
+      "name": "네온의 그림자 뱃지",
+      "condition": "Neon City에서 \"그것은 은밀하게 다가온다\"(It Came From Behind) 이벤트를 감상하기"
     },
     "star_planetarium": {
-      "name": "Starry View and Machinery",
-      "condition": "View the \"Starry Sky Event\" in Planetarium."
+      "name": "별빛 풍경과 기계 뱃지",
+      "condition": "Planetarium에서 \"별빛 하늘\"(Starry Sky) 이벤트를 감상하기"
     },
     "cosmic_daydream": {
-      "name": "Daydream",
-      "condition": "Enter the \"Dark Room\" in Cosmic World."
+      "name": "백일몽 뱃지",
+      "condition": "Cosmic World 내에 위치한 \"어두운 방\"(Dark Room)을 찾아내기"
     },
     "lonely_garden": {
-      "name": "Lonely Garden amid Desolate Streets",
-      "description": "What secrets are hiding in these unwelcoming winding alleys?",
-      "condition": "Enter the \"Hidden Garden\" in Deserted Town."
+      "name": "적막한 골목 속의 외로운 정원 뱃지",
+      "description": "지나가기 힘든 이 구불구불한 골목에는 어떤 비밀이 숨겨져 있을까?",
+      "condition": "Deserted Town의 \"숨겨진 정원\"(Hidden Garden) 서브 에리어에 도달하기"
     },
     "serene_waters": {
-      "name": "Serene Waters by the Cold Brick Walls",
-      "condition": "Enter the balcony in Mansion."
+      "name": "차가운 벽돌담 옆의 고즈넉한 수로 뱃지",
+      "condition": "Mansion의 발코니에 입장하기"
     },
     "dancing_queen": {
-      "name": "Dancing Queen",
-      "description": "Night is young & the music's high!",
-      "condition": "View the Giant Dancing Eye in Forest Pier."
+      "name": "댄싱퀸 뱃지",
+      "description": "음악이 꺼지기엔 밤이 아직 이르다구!",
+      "condition": "Forest Pier에 위치한 춤추는 거대한 눈(Giant Dancing Eye) NPC를 찾아내기"
     },
     "fishy_friends": {
-      "name": "Fishy Friends",
-      "description": "Jellyfishing Time!",
-      "condition": "Enter the Aquarium in Overgrown City."
+      "name": "바닷 속 친구들 뱃지",
+      "description": "해파리 사냥 시간이야!",
+      "condition": "Overgrown City의 Aquarium 서브 에리어에 도달하기"
     },
     "sunbeam_industrial": {
-      "name": "Sunbeams",
-      "description": "Traces of warmth in an otherwise desolate labyrinth.",
-      "condition": "Enter the Passage within Industrial Maze."
+      "name": "일광 뱃지",
+      "description": "황량한 미로 속의 상반되는 온기의 흔적",
+      "condition": "Industrial Maze 내부에 위치한 일광 통로를 지나가기"
     },
     "lustrous_memory": {
-      "name": "Lustrous Memory",
-      "condition": "Enter the Radiant Ruins."
+      "name": "반짝이는 기억 뱃지",
+      "condition": "Radiant Ruins에 도달하기"
     },
     "hide_kotatsu": {
-      "name": "Warming Up",
-      "description": "Mmm, nice and toasty.",
-      "condition": "Go under the kotatsu in the Green Creature's room in Transmission Tower World."
+      "name": "이불 밖은 위험해",
+      "description": "으음, 따뜻하고 좋네",
+      "condition": "Transmission Tower World의 Green Creature's room 서브 에리어에서 코타츠 아래로 들어가기"
     },
     "music_bottom": {
-      "name": "Bottom Jukebox",
-      "description": "Home Sweet Home of a Big Jukebox.",
-      "condition": "Enter the Music Box Creature's home in Bottom Garden."
+      "name": "월야관의 주크박스 뱃지",
+      "description": "커다란 주크박스가 있는 안락한 집",
+      "condition": "Bottom Garden의 Music Box Creature's home 서브 에리어를 방문하기"
     },
     "falling_up": {
-      "name": "Falling Up",
-      "description": "Just try to get down.",
-      "condition": "Enter the Chaotic Buildings."
+      "name": "기나긴 사다리 뱃지",
+      "description": "그냥 한번 쭉 내려가 봐",
+      "condition": "Chaotic Buildings에 도달하기"
     },
     "familiar_figure": {
-      "name": "A Familiar Figure",
-      "description": "A glass of water a day keeps the doctor away.",
-      "condition": "Find Onsen-San in Pillars World."
+      "name": "친숙한 형체 뱃지",
+      "description": "하루에 물 한 잔씩이라도 마시면 의사 얼굴을 볼 일이 없대",
+      "condition": "Pillars World에서 온천씨 NPC를 만나기"
     },
     "lucent_world": {
-      "name": "Lucent World",
-      "description": "A Fish's Night of Nocturnal Dreaming.",
-      "condition": "Reach the magical waters of Bioluminescent Cavern"
+      "name": "발광 세계 뱃지",
+      "description": "야행성 꿈을 꾸는 물고기들의 밤",
+      "condition": "신비로운 물로 가득찬 Bioluminescent Cavern에 도달하기"
     },
     "gold_statue": {
-      "name": "Golden Statue",
-      "description": "The Golden Arch.",
-      "condition": "Visit the room with the Golden Statue in Overgrown City."
+      "name": "금빛 조각상 뱃지",
+      "description": "금빛 건축물",
+      "condition": "Overgrown City에서 금빛 조각상이 있는 방에 입장하기"
     },
     "hurt_blob": {
-      "name": "That Hurt!",
-      "description": "The guardian of a great secret.",
-      "condition": "Make the Blob NPC in Deserted Town scream in agony."
+      "name": "아프다고!",
+      "description": "참으로 대단한 비밀을 지닌 수호자",
+      "condition": "Deserted Town에 있는 블롭(The Blob) NPC가 괴로워하며 비명을 지르게 만들기"
     },
     "mystery_hideaway": {
-      "name": "Mysterious Hideaway",
-      "description": "A hidden place, familiar yet different...",
-      "condition": "Enter the Hidden Shoal."
+      "name": "불가사의한 은신처 뱃지",
+      "description": "익숙하지만 무언가가 다른, 숨겨진 공간...",
+      "condition": "Hidden Shoal에 도달하기"
     },
     "decadent_sunfish": {
-      "name": "Decadent Sunfish",
-      "condition": "Touch the Ocean Sunfish in Rainbow Silhouette World."
+      "name": "퇴폐한 개복치 뱃지",
+      "condition": "Rainbow Silhouette World에 있는 바다 개복치와 상호작용하기"
     },
     "blind_cosmo": {
-      "name": "Blinding Cosmos",
-      "description": "I love flashing lights!",
-      "condition": "Enter Cosmic World."
+      "name": "섬광탄 뱃지",
+      "description": "눈뽕!",
+      "condition": "Cosmic World에 도달하기"
     },
     "bent_screw": {
-      "name": "Bent Screw",
-      "description": "I wonder what memories it holds...",
-      "condition": "Interact with the Bent Screw."
+      "name": "구부러진 나사 뱃지",
+      "description": "과연 어떤 기억을 가지고 있을까...",
+      "condition": "구부러진 나사와 상호작용하기"
     },
     "well_creature": {
-      "name": "The Creature in the Well",
-      "description": "LORD OF THE WELL",
-      "condition": "Find the creature in the well in the first area of the Abandoned Apartments."
+      "name": "우물 속의 생명체 뱃지",
+      "description": "나.는.우.물.의.신.이.다.",
+      "condition": "Abandoned Apartments의 첫번째 구역에서 우물 속의 생명체(The Creature In The Well)를 만나기"
     },
     "lonely_cottage": {
-      "name": "Lonely Cottage",
-      "description": "Ominous...",
-      "condition": "Find the strange cottage on an island surrounded by white flowers in Abandoned Factory."
+      "name": "인적이 드문 전원주택 뱃지",
+      "description": "불길하다...",
+      "condition": "Abandoned Factory에서 흰색 꽃밭에 둘러싸인 작은 섬 위에 지어진 수상한 전원주택을 찾아내기"
     },
     "reflect_one": {
-      "name": "Reflection of One",
-      "description": "A distant memory of only one.",
-      "condition": "Reach the twin mountain beach area in Mirror Room."
+      "name": "한 사람의 반영 뱃지",
+      "description": "오직 한 사람만의 머나먼 추억",
+      "condition": "Mirror Room의 쌍둥이 산 해변(Twin mountain beach) 서브 에리어에 도달하기"
     },
     "tulip_lamp": {
-      "name": "Under the Overhang",
-      "description": "Tulips + Lamps = Tulamps.",
-      "condition": "Enter Tulip Lamp World."
+      "name": "처마 밑 뱃지",
+      "description": "튤립이 램프가 되면? 튜럼프",
+      "condition": "Tulip Lamp World에 도달하기"
     }
   },
   "flow": {
@@ -2063,7 +2063,7 @@
     },
     "syncopation": {
       "name": "동기화 뱃지",
-      "condition": "Visit Le Jazzy Train Bleu"
+      "condition": "Le Jazzy Train Bleu을 방문하기"
     },
     "epacse": {
       "name": "스도크 뱃지",
