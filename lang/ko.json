@@ -1626,12 +1626,18 @@
     },
     "amusement_secret": {
       "name": "I don't think you're supposed to be here...",
-      "condition": "Go through the secret passage on the water ride at the Underwater Amusement Park."
+      "description": "What horrors await you in the secret room?",
+      "condition": "Go through the secret passage on the water ride and enter the hidden room at the Underwater Amusement Park."
     },
     "bike_crash": {
       "name": "Accidents Happen",
       "description": "Should've brought some bike lights...",
       "condition": "Crash into Biker Urotsuki in Highway."
+    },
+    "tranquil_crescent": {
+      "name": "Tranquil Crescent",
+      "description": "The luminous moon stands out in the bleak atmosphere.",
+      "condition": "Enter the Moon Area in Jigsaw Puzzle World."
     }
   },
   "flow": {
