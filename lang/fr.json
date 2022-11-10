@@ -1597,7 +1597,7 @@
     "radiant_leaf": {
       "name": "Feuilles radieuses",
       "description": "La brillance de l'eau fait ressortir davantage les plantes.",
-      "condition": "Se reposer sur la feuille de la plante géante dans le Radiant Garden."
+      "condition": "Se reposer sur la feuille de la plante géante dans le Radiant Ruins."
     },
     "strange_presence": {
       "name": "Une étrange présence",
@@ -1605,49 +1605,59 @@
       "condition": "Trouver la salle cachée derrière le caniveau dans l'Old Train Station."
     },
     "purple_flowers": {
-      "name": "Purple Flowers",
-      "description": "Purple flowers, Purple castles.",
-      "condition": "Enter the Petal Hotel."
+      "name": "Fleurs violettes",
+      "description": "Fleurs violettes, châteaux violets.",
+      "condition": "Entrer dans le Petal Hotel."
     },
     "omurice_rooms": {
-      "name": "Food Fighter Emblem",
-      "description": "What a wonderful meal!",
-      "condition": "Reach the hidden rooms of Omurice Labyrinth."
+      "name": "Emblème du combattant nourriture",
+      "description": "Quel merveilleux repas !",
+      "condition": "Atteindre les salles cachées de l'Omurice Labyrinth."
     },
     "hands_abyss": {
-      "name": "Hands from Abyss",
-      "description": "The lost souls are desperate, attempting to reach the light, only to be bound to fail.",
-      "condition": "Find the hands in Azure Gardens, Forbidden Swamp, Foliage Estate, Dark Nexus, and Garden of Treachery"
+      "name": "Mains de l'Abysse",
+      "description": "Les âmes perdues sont désespérées, tentant d'atteindre la lumière, seulement pour être vouées à l'échec.",
+      "condition": "Trouver les mains dans l'Azure Gardens, Forbidden Swamp, Foliage Estate, Dark Nexus, et Garden of Treachery"
     },
     "virtual_mapper": {
-      "name": "Virtual Mapper",
-      "description": "Virtual technology continues to evolve over time...",
-      "condition": "Enter the Map room in Virtual City and interact with the NPC."
+      "name": "Cartographe virtuelle",
+      "description": "La technologie virtuelle continue d'évoluer avec le temps...",
+      "condition": "Entrer dans la Salle de la Carte dans la Virtual City et interagir avec le PNJ."
     },
     "amusement_secret": {
-      "name": "I don't think you're supposed to be here...",
-      "description": "What horrors await you in the secret room?",
-      "condition": "Go through the secret passage on the water ride and enter the hidden room at the Underwater Amusement Park."
+      "name": "Je crois pas que t'es censée être là...",
+      "description": "Quelles horreurs vous attendent dans la salle secrète ?",
+      "condition": "Passer à travers le passage secret sur la balade à bateau et entrer dans la salle secrète de l'Underwater Amusement Park."
     },
     "bike_crash": {
-      "name": "Accidents Happen",
-      "description": "Should've brought some bike lights...",
-      "condition": "Crash into Biker Urotsuki in Highway."
+      "name": "Les accidents arrivent",
+      "description": "J'aurais dû ramener des feux pour ma moto...",
+      "condition": "Se crasher dans l'Urotsuki Bikeuse dans l'Highway."
     },
     "tranquil_crescent": {
-      "name": "Tranquil Crescent",
-      "description": "The luminous moon stands out in the bleak atmosphere.",
-      "condition": "Enter the Moon Area in Jigsaw Puzzle World."
+      "name": "Croissant de lune tranquille",
+      "description": "La lumineuse lune ressort dans cette morne atmosphère.",
+      "condition": "Entrer dans la Zone de la Lune dans le Jigsaw Puzzle World."
     },
     "glitch_butterfly": {
-      "name": "Magical Morph",
-      "description": "Raw visceral imagination of the mind.",
-      "condition": "Enter Glitched Butterfly Sector for the first time."
+      "name": "Morphose magique",
+      "description": "Une imagination viscérale brute de l'esprit.",
+      "condition": "Entrer dans le Glitched Butterfly Sector pour la première fois."
     },
-	"puppet_show": {
-      "name": "Fractured Theater",
-      "description": "Deep within the sea lies some sorrowful things, waiting to be uncovered.",
-      "condition": "See the puppet show in Ocean Floor."
+    "puppet_show": {
+      "name": "Théâtre fracturé",
+      "description": "Au fin fond de la mer s'étendent des choses tristes, attendant d'être découvertes.",
+      "condition": "Voir le show de marionnettes dans l'Ocean Floor."
+    },
+    "floral_interlude": {
+      "name": "Interlude florale",
+      "description": "Des myriades de fleurs enchantent lentement l'œil...",
+      "condition": "Entrer dans les 4 couloirs floraux reliant les Adabana Gardens, le Field of Cosmos, et les Lamplit Stones."
+    },
+    "2kki_gold": {
+      "name": "Yume 2kki Gold",
+      "description": "Membre 2kki Gold",
+      "condition": "Escalade la pyramide, bats le pharaon et deviens un Membre Yume 2kki Gold™."
     }
   },
   "flow": {
