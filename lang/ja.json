@@ -1597,7 +1597,7 @@
     "industrial_garden": {
       "name": "蒸気庭園",
       "description": "自然は、植物が存在しないところでも繁栄する方法を見出す。",
-      "condition": "蒸気工場の廃棄機械エリアに到達する。"
+      "condition": "蒸気工場の最下層に到達する。"
     },
     "radiant_leaf": {
       "name": "輝きの葉",
@@ -1605,7 +1605,7 @@
       "condition": "巨大遺跡の植物遺跡エリアの大きな葉に腰かけて休む"
     },
     "strange_presence": {
-      "name": "奇妙な存在",
+      "name": "奇妙な気配",
       "description": "鉄格子の先に潜むものとは？",
       "condition": "第三閉塞の鉄格子の先の隠された部屋を見つける"
     },
@@ -1641,7 +1641,7 @@
     },
     "tranquil_crescent": {
       "name": "平穏な三日月",
-      "description": "荒涼の空気に際立つ月.",
+      "description": "荒涼の空気に際立つ月",
       "condition": "月湖に到達する"
     },
     "glitch_butterfly": {
@@ -1766,13 +1766,13 @@
       "condition": "エントランスの背景を全種類見る"
     },
     "smile_happy": {
-      "name": "He's so happy!",
-      "description": "What a wonderful smile you have.",
-      "condition": "Make Smile happy by showing him your iron pipe."
+      "name": "彼はとても嬉しい！",
+      "description": "なんて素敵な笑顔なんだ",
+      "condition": "てつパイプを見せて、イレズミ兄を喜ばせるMake Smile happy by showing him your iron pipe."
     },
     "submit_erosion": {
-      "name": "Submit to the Erosion",
-      "condition": "Have 200 or more Erosion."
+      "name": "侵食に屈する",
+      "condition": "「侵食」が200以上になる"
     }
   },
   "prayers": {
@@ -1827,14 +1827,14 @@
       "condition": "沈没船で猫の目のイベントを見る"
     },
     "lookout_point": {
-      "name": "Lookout Point",
-      "description": "Not a gameboy in sight, just spirits living in the moment.",
-      "condition": "Visit the second island of the Playground via Symbols Maze."
+      "name": "展望崖",
+      "description": "ゲームボーイに目もくれず、今を生きる魂たち",
+      "condition": "Symbols Mazeを経由してPlaygroundの別エリアに行く"
     },
     "phantom_symbols": {
-      "name": "Phantom Symbols",
-      "description": "Bear witness to your own ghost.",
-      "condition": "Interact with the Ghost Fluorette in the Symbols Maze."
+      "name": "幻影のシンボル",
+      "description": "自分自身の霊の目撃者になる.",
+      "condition": "Symbols Mazeで幽霊のFluoretteに話しかける"
     }
   },
   "deepdreams": {
@@ -1849,7 +1849,7 @@
     },
     "planetarium": {
       "name": "星の彼方",
-      "condition": "プラネタリウムでCelestialエフェクトが入る部屋に入る"
+      "condition": "プラネタリウムでCelestialのalterがある部屋に入る"
     },
     "hospital_event": {
       "name": "患者番号001",
@@ -1868,60 +1868,60 @@
     },
     "flo": {
       "name": "Go With the Flo",
-      "condition": "Purchase the bathing suit at the bath house"
+      "condition": "bath houseで水着を購入する"
     },
     "warm_embrace": {
-      "name": "A Warm Embrace",
-      "description": "Share a hug with Tetsuko.",
-      "condition": "See Tetsuko's event in her room within the Subnexus."
+      "name": "温かい抱擁",
+      "description": "Tetsukoとハグを交わす",
+      "condition": "SubnexusのTetsukoの部屋で彼女のイベントを見る"
     },
     "apparition_creature": {
-      "name": "Pastel Phantom",
-      "description": "A past of pastel",
-      "condition": "Enter the room containing the Apparition alter using the Pastel alter"
+      "name": "パステルカラーの幻",
+      "description": "パステル色の過去",
+      "condition": "Pastelのalterを使ってApparitionのalterがある部屋に入る"
     },
     "pink_bathing_creature": {
-      "name": "Bath House Bubbles",
-      "description": "Enjoy the soothing company~",
-      "condition": "Find the pink bathing creature in the Bath House"
+      "name": "浴場の泡",
+      "description": "癒しの仲間との出会いを楽しんで～",
+      "condition": "Bath Houseでピンク色の入浴生物を見つける"
     },
     "spa_day": {
-      "name": "Spa Day",
-      "description": "Time to take a break!",
-      "condition": "Relax in the jacuzzi in the Bath House"
+      "name": "スパの日",
+      "description": "休憩の時間！",
+      "condition": "Bath Houseのジャグジーでくつろぐ"
     },
     "bat_girl_verdant": {
-      "name": "Pink Flowers, Pink Hearts",
-      "description": "Flowers? How cute!",
-      "condition": "Catch the attention of the bat girl in Lily Field."
+      "name": "ピンクの花、ピンクの心",
+      "description": "お花？なんてかわいいの！",
+      "condition": "Lily Fieldのコウモリの女の子から注目を浴びる"
     },
     "angel_nurse": {
-      "name": "Nourish The Blood",
-      "description": "A sacrifice had to be made",
-      "condition": "Find the angel nurse in the hospital and use the Damage and Toxic Alters in the room."
+      "name": "血液に栄養を",
+      "description": "必要な犠牲だった",
+      "condition": "hospitalで天使のナースを見つけ、部屋の中でDamageとToxicのalterを使う"
     },
     "flying_mermaid": {
-      "name": "Sky Angel Mermaid",
-      "description": "Guardian of the sky",
-      "condition": "Go to the edge of Green Field and have the screen pan up to the sky"
+      "name": "空の人魚天使",
+      "description": "空の守護者",
+      "condition": "Green Fieldの上端に行き、空を見上げる"
     },
     "rainbow_theme": {
       "name": "Hour-Long Novelty",
-      "description": "Time buried it deep.",
-      "condition": "Get the Rainbow System from Rainbow Scratch Park. If you have already obtained it, go the place where you found it."
+      "description": "時はそれを深く埋葬した.",
+      "condition": "Rainbow Scratch ParkでRainbow Systemを入手する、すでに入手している場合は見つけた場所に行く"
     },
     "docks_aquarium": {
-      "name": "Walks of life",
-      "description": "Calm in the storm.",
-      "condition": "Visit the Aquarium in the Docks."
+      "name": "人生の歩み",
+      "description": "嵐の中の静けさ",
+      "condition": "Docksにある水族館に到達する"
     },
     "pastel_girl": {
-      "name": "Shoal Girl",
-      "condition": "Go to Pastel House"
+      "name": "浅瀬の少女",
+      "condition": "Pastel Houseに行く"
     },
     "hell_flower": {
       "name": "Hellflower",
-      "condition": "Find Hellflower in the Red River and interact with her."
+      "condition": "Red RiverでHellflowerを見つけ、話しかける"
     }
   },
   "someday": {
