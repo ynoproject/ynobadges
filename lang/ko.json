@@ -1683,6 +1683,29 @@
       "name": "유메2키 골드 회원증",
       "description": "2키 골드 멤버쉽",
       "condition": "피라미드를 정복하고 파라오를 무찔러서 유메2키 골드 회원이 되기"
+    },
+    "gb_memories": {
+      "name": "GB Memories",
+      "description": "Remember this?",
+      "condition": "Witness every secret in the Monochrome GB World and sit on the bench at the end of NES Glitch Tunnel."
+    },
+    "bunny_cocktail": {
+      "name": "Bunny Cocktail",
+      "description": "Bnuuy!",
+      "condition": "Reveal the hidden bunny in Cocktail Lounge using the Bunny Ears."
+    },
+    "sweet_poison": {
+      "name": "Sweet Poison",
+      "condition": "Interact with the scientists while using the Drum effect in the Toxic Chemical World."
+    },
+    "celestial_garden": {
+      "name": "Transcendental Island",
+      "description": "High up in the clouds, where spirits can roam freely.",
+      "condition": "Enter Celestial Garden."
+    },
+    "conway": {
+      "name": "Digital Glider",
+      "condition": "Visit the Conway area in Symbolon."
     }
   },
   "flow": {
@@ -1792,7 +1815,7 @@
     },
     "submit_erosion": {
       "name": "침식에 굴복하다",
-      "condition": "침식 포인트(Erosion Point)를 200점 이상 얻기"
+      "condition": "침식 포인트(Erosion Point)를 250점 이상 얻기"
     }
   },
   "prayers": {
@@ -2118,6 +2141,11 @@
       "name": "바다 인어의 노랫소리 뱃지",
       "description": "오직 한탄만이 이 잊혀진 곳을 활기차게 만든다...",
       "condition": "Mermaid Mansion 에서 인어 이펙트를 얻기"
+    },
+    "shimmering_girl": {
+      "name": "Shimmering Girl",
+      "description": "Gazing into the cosmos.",
+      "condition": "Use the Seer effect to see the sparkly-haired girl in Starlit Road."
     }
   },
   "braingirl": {
@@ -2162,6 +2190,10 @@
     "museum_takeoff": {
       "name": "이륙 뱃지",
       "condition": "Museum Tunnel 에서 이륙하는 비행기 보기"
+    },
+    "midnight_band": {
+      "name": "Midnight Band",
+      "condition": "See the stage in the Midnight Saloon"
     }
   },
   "amillusion": {
@@ -2274,6 +2306,16 @@
       "name": "실험 뱃지",
       "description": "저 사람들 누구야?",
       "condition": "Lab의 실험관을 모두 채우기"
+    },
+    "satiated_rabbit": {
+      "name": "Om nom nom",
+      "description": "Not a carrot in the world!",
+      "condition": "Feed the rabbit in the Isle of Seasons"
+    },
+    "sleep_paralysis_mare": {
+      "name": "Mare",
+      "description": "\"Sleep paralysis is a state, during waking up or falling asleep, in which one is conscious but is unable to move or speak.\"",
+      "condition": "Sit on the boy’s chest in his bedroom."
     }
   }
 }
