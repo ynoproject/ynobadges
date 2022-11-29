@@ -1,0 +1,2351 @@
+{
+  "ynoproject": {
+    "badge_amulet": {
+      "name": "朝花夕拾",
+      "description": "会根据您的菜单主题改变颜色",
+      "condition": "收集 100 枚徽章 (不含隐藏徽章)"
+    },
+    "badge_amulet_2": {
+      "name": "梦笔生花",
+      "description": "会根据您的菜单主题改变颜色",
+      "condition": "收集 500 枚徽章 (不含隐藏徽章)"
+    },
+    "medal_bronze": {
+      "name": "青铜奖章",
+      "condition": "在任意排行榜上名列前百"
+    },
+    "medal_silver": {
+      "name": "白银奖章",
+      "condition": "在任意排行榜上名列前三十"
+    },
+    "medal_gold": {
+      "name": "黄金奖章",
+      "condition": "在任意排行榜上名列前十"
+    },
+    "medal_platinum": {
+      "name": "白金奖章",
+      "condition": "在任意排行榜上名列前三"
+    },
+    "medal_diamond": {
+      "name": "钻石奖章",
+      "condition": "在任意排行榜上名列第一"
+    },
+    "translator": {
+      "name": "翻译官",
+      "condition": "为YNOproject的翻译工程作出杰出贡献"
+    },
+    "compuss": {
+      "name": "指南猫",
+      "description": "次世代定位装置",
+      "condition": "猫了个毯"
+    },
+    "miau": {
+      "name": "史莱喵",
+      "condition": "粘了个Miau"
+    },
+    "cookie": {
+      "name": "曲奇",
+      "description": "吉娃娃Cookie",
+      "condition": "成为万众瞩目的吉娃娃"
+    },
+    "ynfg_dev": {
+      "name": "派生织梦人",
+      "description": "颁发给本站派生的开发者",
+      "condition": "制作《梦日记》派生并使之登陆YNOproject"
+    },
+    "2kki_dev": {
+      "name": "梦２工程师",
+      "description": "颁发给梦２记开发者",
+      "condition": "参与梦２记的地图制作"
+    },
+    "zolotl": {
+      "name": "O Réquiem",
+      "description": "No final que sobrou foi você, sua propria sombra e um infinito deserto com um ardente sol, do pó ao pó\n\n- O Número 12 \"Réquiem\" do codinome Xolotl",
+      "condition": "Zolotl 是也"
+    },
+    "novaflow": {
+      "name": "NovAflow",
+      "condition": "Be NovAflow"
+    }
+  },
+  "yume": {
+    "kalimba": {
+      "name": "KALIMBA",
+      "condition": "收视KALIMBA电视频道"
+    },
+    "a_r_m": {
+      "name": "古神的狂欢",
+      "condition": "观赏阿兹特克锐舞猴"
+    },
+    "boombox": {
+      "name": "手提音响",
+      "condition": "在荒漠远观鸟人嬉闹"
+    },
+    "takofuusen": {
+      "name": "风船君",
+      "condition": "在黑白世界目击风船君"
+    },
+    "uboa": {
+      "name": "Uboa的笑颜",
+      "condition": "被浅濑的深渊吞噬"
+    },
+    "blackcat": {
+      "name": "黑猫",
+      "condition": "与黑猫一同目送魔女起航"
+    },
+    "face": {
+      "name": "捋管君",
+      "description": "给您按摩一下？",
+      "condition": "触发梦醒事件"
+    },
+    "glitch": {
+      "name": "�� ��",
+      "description": "R̵̫̣͎͊̉ķ̶͓̺̓̃̚M̷̧̜̮̒̿͂g̴̺̏͘Ŗ̵̝̲͛̉̎̄Ḫ̶̲̣̤̾V̴̢͚͔̘́u̵̳̽͆̑͝Z̷͇̈́̿̇Ẇ̵̬̼͉̪̓͊9̸̧̟̈̔̆ṳ̶̞̑̒",
+      "condition": "在FC遗迹触发死机事件"
+    },
+    "mars": {
+      "name": "异星泪",
+      "condition": "拜访火星君"
+    },
+    "organoid": {
+      "name": "无路可逃",
+      "condition": "捉住并刀捅Organoid"
+    },
+    "seahorse": {
+      "name": "海马",
+      "description": "这个可以入药吗？",
+      "condition": "刀捅村落的海马形生物"
+    },
+    "melt": {
+      "name": "融化",
+      "condition": "静观附窗子在火旁融化"
+    },
+    "cube_guru": {
+      "name": "方块先知",
+      "description": "施主您眼眶发黑，是不是没睡醒",
+      "condition": "与腹中世界盘坐的方块对话"
+    },
+    "nekoin": {
+      "name": "猫币",
+      "condition": "在持有至少10000円时与盾民族世界的猫币互动"
+    },
+    "nekoin_gold": {
+      "name": "金猫币",
+      "condition": "在持有至少50000円时与盾民族世界的猫币互动"
+    },
+    "henkei": {
+      "name": "独眼刑天",
+      "condition": "从地狱的无头腹人处通往足迹走廊"
+    },
+    "tokuto": {
+      "name": "血杯君",
+      "description": "打翻血杯君",
+      "condition": "在商场与血杯君互动"
+    },
+    "closet": {
+      "name": "衣柜",
+      "description": "熟悉的身影在路口处眺望",
+      "condition": "从数字世界抵达地狱的十字路"
+    },
+    "nasu": {
+      "name": "NASU",
+      "condition": "在NASU中得到 1000 分"
+    },
+    "nasu_pink": {
+      "name": "粉NASU",
+      "condition": "在NASU中得到 2000 分"
+    },
+    "nasu_gold": {
+      "name": "金NASU",
+      "condition": "在NASU中得到 3000 分"
+    },
+    "fc_demon": {
+      "name": "FC鬼",
+      "description": "*mua!*",
+      "condition": "与在FC世界B的鬼互动"
+    },
+    "eye_box": {
+      "name": "目之匣",
+      "condition": "刀捅黑白世界的眼盒直到被传送"
+    },
+    "monoko": {
+      "name": "黑白之舞",
+      "condition": "使用红绿灯让Monoko旋转起飞"
+    },
+    "a": {
+      "name": "笼中啼",
+      "condition": "ああああああああああああああああ"
+    },
+    "eye": {
+      "name": "笼中眼",
+      "condition": "踩在数字世界小黑屋的眼睛地砖上"
+    },
+    "bottles": {
+      "name": "冰阔落",
+      "condition": "在梦中的三个自动贩卖机处各买一瓶饮品"
+    },
+    "mado": {
+      "name": "窗",
+      "condition": "梦终。"
+    },
+    "monoe": {
+      "name": "嫣然失色",
+      "description": "看见我了？等会就不一定了哦",
+      "condition": "跟丢モノ江的踪影"
+    },
+    "teleport_bros": {
+      "name": "空洞兄弟",
+      "condition": "在方块空间里，于空洞兄弟两人身旁分别使用猫效果"
+    },
+    "poniko_cat": {
+      "name": "猫猫的诱惑",
+      "description": "啊啊啊啊啊我吸爆！！",
+      "condition": "在浅瀬附近使用猫效果"
+    },
+    "white_tulip": {
+      "name": "白色郁金香",
+      "description": "朴实的球根花卉",
+      "condition": "进入空中庭园和混凝土废墟之间的白花小径"
+    },
+    "spaceship_crash_event": {
+      "name": "火星迫降",
+      "description": "老师，我们有麻烦了！",
+      "condition": "观看火星飞船坠落"
+    },
+    "cube_guru_seat": {
+      "name": "霸座",
+      "description": "对不起，这里已经满员了",
+      "condition": "抢走风车世界方块先生的坐垫"
+    },
+    "meow_ufo": {
+      "name": "沟通无阻",
+      "description": "宇宙的答案是喵",
+      "condition": "在火星用猫效果吸引UFO"
+    }
+  },
+  "2kki": {
+    "mono": {
+      "name": "梦境远征队",
+      "condition": "在梦远征中达到进阶等级"
+    },
+    "bronze": {
+      "name": "青铜远征队",
+      "condition": "在梦远征中达到青铜等级"
+    },
+    "silver": {
+      "name": "白银远征队",
+      "condition": "在梦远征中达到白银等级"
+    },
+    "gold": {
+      "name": "黄金远征队",
+      "condition": "在梦远征中达到黄金等级"
+    },
+    "platinum": {
+      "name": "铂金远征队",
+      "condition": "在梦远征中达到铂金等级"
+    },
+    "diamond": {
+      "name": "钻石远征队",
+      "condition": "在梦远征中达到钻石等级"
+    },
+    "compass": {
+      "name": "梦境探索者",
+      "condition": "在梦远征及无尽流浪中踏遍 30% 的地图"
+    },
+    "compass_bronze": {
+      "name": "青铜探梦者",
+      "condition": "在梦远征及无尽流浪中踏遍 50% 的地图"
+    },
+    "compass_silver": {
+      "name": "白银探梦者",
+      "condition": "在梦远征及无尽流浪中踏遍 70% 的地图"
+    },
+    "compass_gold": {
+      "name": "黄金探梦者",
+      "condition": "在梦远征及无尽流浪中踏遍 80% 的地图"
+    },
+    "compass_platinum": {
+      "name": "铂金探梦者",
+      "condition": "在梦远征及无尽流浪中踏遍 90% 的地图"
+    },
+    "compass_diamond": {
+      "name": "钻石探梦者",
+      "condition": "在梦远征及无尽流浪中踏遍 95% 的地图"
+    },
+    "vm": {
+      "name": "自贩机猎人",
+      "condition": "完成 5 次自贩机远征"
+    },
+    "vm_bronze": {
+      "name": "青铜自贩机猎人",
+      "condition": "完成 10 次自贩机远征"
+    },
+    "vm_silver": {
+      "name": "白银自贩机猎人",
+      "condition": "完成 25 次自贩机远征"
+    },
+    "vm_gold": {
+      "name": "黄金自贩机猎人",
+      "condition": "完成 50 次自贩机远征"
+    },
+    "vm_platinum": {
+      "name": "铂金自贩机猎人",
+      "condition": "完成 100 次自贩机远征"
+    },
+    "vm_diamond": {
+      "name": "钻石自贩机猎人",
+      "condition": "完成 200 次自贩机远征"
+    },
+    "exp_amulet": {
+      "name": "远征护身符",
+      "description": "会根据您的所处位置改变颜色",
+      "condition": "完成 250 次梦远征"
+    },
+    "exp_amulet_2": {
+      "name": "远征护身符 EX",
+      "description": "会根据您的所处位置改变颜色",
+      "condition": "完成 1000 次梦远征"
+    },
+    "crushed": {
+      "name": "钢印",
+      "condition": "把流浪子刻成钢印"
+    },
+    "dogboa": {
+      "name": "Dogboa",
+      "condition": "在天界之门瞥见Dogboa一闪而过"
+    },
+    "haunted_mirror": {
+      "name": "不祥之镜",
+      "condition": "从地下室的门缝中窥探"
+    },
+    "neon_highway": {
+      "name": "虹色仪表盘",
+      "condition": "抵达里停车场"
+    },
+    "crying_eyes": {
+      "name": "涕泪交加",
+      "description": "它们看见的太多了",
+      "condition": "在水镜地下使用眼珠炸弹效果"
+    },
+    "black_king": {
+      "name": "黑王",
+      "condition": "登上象棋世界的棋盘"
+    },
+    "silver_whale": {
+      "name": "银色海洋",
+      "condition": "在银色洋馆内目击鲸鱼"
+    },
+    "obentou": {
+      "name": "便当",
+      "description": "おべんとう",
+      "condition": "被噁心到"
+    },
+    "rainbow_paint": {
+      "name": "七彩小径",
+      "condition": "完成铅笔世界的绘画"
+    },
+    "rainbow_picture": {
+      "name": "八色画像",
+      "condition": "进入多彩的个人房间"
+    },
+    "compass_28": {
+      "name": "28",
+      "description": "２８"
+    },
+    "blue_orb": {
+      "name": "蓝玉",
+      "condition": "造访蛋广场"
+    },
+    "aojiru": {
+      "name": "青汁",
+      "condition": "去医院探望青汁"
+    },
+    "zalgo": {
+      "name": "Zalgo的挽歌",
+      "condition": "在磁力工厂里，成功抵达Zalgo事件最终通向的房间"
+    },
+    "lotus_girl": {
+      "name": "莲华少女",
+      "condition": "使用双马尾效果，找到莲华少女并随她去莲华公园"
+    },
+    "aooh": {
+      "name": "Aooh之凝视",
+      "description": "獗網瑪寤醱腹衾渭楷庌泆岈",
+      "condition": "玩弄呆毛子家的电灯"
+    },
+    "snow_fairy": {
+      "name": "雪妖精",
+      "description": "妖精的微笑",
+      "condition": "与某位妖精碰面"
+    },
+    "parasite": {
+      "name": "寄生",
+      "condition": "破坏寄生兽研究所内的培养皿"
+    },
+    "operator_cyborg": {
+      "name": "锖色芳华",
+      "condition": "与锖铁的半机械少女产生共鸣"
+    },
+    "mushroom": {
+      "name": "斑斓菌菇",
+      "condition": "解除蘑菇少女的石化封印"
+    },
+    "hakoko": {
+      "name": "箱子",
+      "condition": "在目药屋与箱子互动"
+    },
+    "hakoko_prime": {
+      "name": "快递箱子",
+      "condition": "在计时模式下，于 {TIME} 内抵达目药屋并与箱子互动"
+    },
+    "lotus_waters_lesser": {
+      "name": "水中莲华",
+      "description": "出淤泥而不染",
+      "condition": "抵达水中华"
+    },
+    "lotus_waters": {
+      "name": "出水芙蓉",
+      "description": "濯清涟而不妖",
+      "condition": "在计时模式下，于 {TIME} 内抵达水中华"
+    },
+    "fabric_planet": {
+      "name": "布料星球",
+      "condition": "抵达月见横丁的布料星球"
+    },
+    "fabric_galaxy": {
+      "name": "布料银河",
+      "condition": "在计时模式下，于 {TIME} 内抵达月见横丁的布料星球"
+    },
+    "monochrome_stairs_lesser": {
+      "name": "黑白阶梯",
+      "condition": "抵达噪声之海"
+    },
+    "monochrome_stairs": {
+      "name": "黑⃟̷⃟白⃟̷⃟阶⃟̷⃟梯⃟̷⃟",
+      "condition": "在计时模式下，于 {TIME} 内抵达噪声之海"
+    },
+    "lavender_lesser": {
+      "name": "紫色宝石",
+      "condition": "抵达薰衣草之湖"
+    },
+    "lavender": {
+      "name": "浅紫色宝石",
+      "condition": "在计时模式下，于 {TIME} 内抵达薰衣草之湖"
+    },
+    "butterfly_lesser": {
+      "name": "霞光蝴蝶胸针",
+      "condition": "抵达天使之夜"
+    },
+    "butterfly": {
+      "name": "暮色蝴蝶胸针",
+      "condition": "在计时模式下，于 {TIME} 内抵达天使之夜"
+    },
+    "streetlight": {
+      "name": "昏暗的街灯",
+      "condition": "抵达街灯园"
+    },
+    "magical_lesser": {
+      "name": "琪琪",
+      "condition": "抵达魔法回廊"
+    },
+    "magical": {
+      "name": "梅林",
+      "condition": "在计时模式下，于 {TIME} 内抵达魔法回廊"
+    },
+    "voxels": {
+      "name": "魔法体素",
+      "condition": "不惜一切手段抵达方块岛"
+    },
+    "digital_rose": {
+      "name": "数字玫瑰",
+      "condition": "使霓虹洞窟内的所有灰色玫瑰绽放"
+    },
+    "roku": {
+      "name": "精污四天王",
+      "condition": "造访地底湖、树林空间与石跡"
+    },
+    "singularity": {
+      "name": "微型黑洞",
+      "condition": "在Río的世界里，找到所有5个黑洞女孩并与其互动。若已互动过，则必须抵达每位女孩的原本位置。"
+    },
+    "circus_lesser": {
+      "name": "落下帷幕",
+      "condition": "完成高阶女祭司事件"
+    },
+    "circus": {
+      "name": "完美谢幕",
+      "condition": "无伤完成高阶女祭司事件"
+    },
+    "snow_queen": {
+      "name": "冰雪皇后",
+      "condition": "收集50片飞扬的雪花"
+    },
+    "portrait": {
+      "name": "肖像画",
+      "condition": "完成时计塔内的肖像画"
+    },
+    "vending_machine": {
+      "name": "自动贩卖机",
+      "condition": "达成零食全收集"
+    },
+    "piggy_bank": {
+      "name": "白银会员",
+      "description": "家财万贯",
+      "condition": "在梦银行储蓄 10000夢"
+    },
+    "piggy_bank_gold": {
+      "name": "黄金会员",
+      "description": "堆金积玉",
+      "condition": "在梦银行储蓄 100000夢"
+    },
+    "piggy_bank_vip": {
+      "name": "百万富翁",
+      "description": "小心通货膨胀",
+      "condition": "在梦银行储蓄 999999夢"
+    },
+    "clover": {
+      "name": "红白四叶草纹章",
+      "condition": "祝君好运……"
+    },
+    "pacifist": {
+      "name": "和平主义者",
+      "description": "只有你受伤的世界达成了",
+      "condition": "在不杀害任何NPC的前提下达成 结局？"
+    },
+    "ticket": {
+      "name": "车票",
+      "description": "出发，前往天际线！",
+      "condition": "达成结局 #4"
+    },
+    "graffiti": {
+      "name": "蝶飏临界",
+      "description": "狂梦未散，流浪不止",
+      "condition": "查看所有结局并抵达梦尽头的房间"
+    },
+    "rby": {
+      "name": "红蓝黄",
+      "condition": "在小游戏B中获得500分以上 (Original 模式)"
+    },
+    "chocolate_tower": {
+      "name": "甜腻纪念碑",
+      "condition": "抵达巧克力塔"
+    },
+    "vomiting": {
+      "name": "嘔☆吐",
+      "condition": "抵达呕吐迷宫"
+    },
+    "hanako": {
+      "name": "花子",
+      "condition": "在雾之桥的小屋中遇见花子"
+    },
+    "oni_musume": {
+      "name": "馆长娘",
+      "description": "不动的小图书馆",
+      "condition": "在剧场与读书中的馆长娘互动"
+    },
+    "deserted_space": {
+      "name": "铃兰之间",
+      "description": "歇脚的好地方",
+      "condition": "进入秋之花园的密室"
+    },
+    "moai_bro": {
+      "name": "摩艾小哥",
+      "condition": "闯入云海的牢房"
+    },
+    "hebiko": {
+      "name": "蛇子",
+      "condition": "在雨之森与蛇子互动"
+    },
+    "book": {
+      "name": "神仙书虫",
+      "condition": "造访梦幻图书馆、无尽图书馆、魔法图书馆"
+    },
+    "cosmic_cube": {
+      "name": "匣中星辰",
+      "condition": "抵达匣中宇宙"
+    },
+    "firehead": {
+      "name": "火之高兴",
+      "description": "就算是在水底也要燃起来！",
+      "condition": "在石切参与劲爆迪斯科"
+    },
+    "peak": {
+      "name": "山间小憩",
+      "description": "断枝残影见獠牙，苍山碧月映青花。",
+      "condition": "站在雾之森山巅眺望"
+    },
+    "rusted_factory_lesser": {
+      "name": "锈蚀齿轮",
+      "description": "揭开锈蚀工厂的伤疤",
+      "condition": "抵达锈蚀工厂最深处的房间"
+    },
+    "rusted_factory": {
+      "name": "腐朽机关",
+      "condition": "在计时模式下，于 {TIME} 内抵达锈蚀工厂最深处的房间"
+    },
+    "sea_lily": {
+      "name": "虹色海百合",
+      "condition": "抵达海百合世界"
+    },
+    "noranyan": {
+      "name": "野良喵",
+      "description": "斜喵十喵度喵列的一边喵一边喵的喵台喵百五十CC的喵托喵排着喵望喵方。",
+      "condition": "与沙发房间的野良喵互喵"
+    },
+    "cheese": {
+      "name": "起司住客",
+      "condition": "拜访玩具世界的奶酪小屋"
+    },
+    "heart_jar": {
+      "name": "脆弱的爱",
+      "condition": "致使废墟商店的医生心碎"
+    },
+    "flooded_garden": {
+      "name": "沉没花园",
+      "condition": "抵达水之迷宫的繁花旋涡"
+    },
+    "biplane": {
+      "name": "双翼飞机",
+      "description": "上天去!",
+      "condition": "在流浪子的梦中宅邸搭乘飞机"
+    },
+    "rainy_docks_girl": {
+      "name": "洞庭翠微",
+      "condition": "使用双马尾效果，远观梦孤岛的绿发女孩"
+    },
+    "grass_world": {
+      "name": "新芽",
+      "condition": "抵达若葉"
+    },
+    "flame_of_faith": {
+      "name": "信仰之焰",
+      "condition": "让原始人部落的火炬烧得没那么旺"
+    },
+    "dark_nexus": {
+      "name": "暗之边境",
+      "description": "门通往何处？",
+      "condition": "抵达梦边境"
+    },
+    "white_creature": {
+      "name": "除以零",
+      "condition": "调查梦旅店中流口水的白色生物"
+    },
+    "data_stream": {
+      "name": "数字二重身",
+      "description": "有些许眼熟……",
+      "condition": "进入数据流"
+    },
+    "evil_jihanki": {
+      "name": "自动抢劫机",
+      "description": "吃吃吃，就知道吃！",
+      "condition": "被蘑菇世界的售卖机抢劫"
+    },
+    "crown_of_spirits": {
+      "name": "怨灵之冠",
+      "condition": "抵达断崖水底公路最深处的房间"
+    },
+    "drunk": {
+      "name": "调酒师",
+      "description": "这个流浪子就是逊啦！",
+      "condition": "在昭和路地的地下酒吧喝到不省人事"
+    },
+    "paradise": {
+      "name": "金云海",
+      "description": "鲸云海",
+      "condition": "升入金云海"
+    },
+    "effects_speedrun": {
+      "name": "距离上班还剩一小时但我依旧想玩2记",
+      "condition": "在计时模式下，于 {TIME} 内放置所有效果并醒来"
+    },
+    "sweets_musume": {
+      "name": "糖糖？！",
+      "condition": "使用蛋糕效果与糖果姬互动"
+    },
+    "smile": {
+      "name": "微笑世界",
+      "description": "笑一笑，世界更美妙",
+      "condition": "进入表情树林的小屋内"
+    },
+    "glitch_road": {
+      "name": "故障大道",
+      "condition": "抵达NES隧道的尽头"
+    },
+    "freezer": {
+      "name": "完美冻结",
+      "condition": "进入冷藏库的冷冻柜内"
+    },
+    "hydrangea_skull": {
+      "name": "紫阳余烬",
+      "condition": "使用眼镜或墓碑效果，再会紫阳花都的逝者"
+    },
+    "originator_garden": {
+      "name": "神话之源",
+      "condition": "进入始祖庭的主区域"
+    },
+    "bsides": {
+      "name": "B位面",
+      "condition": "造访呕吐庭B、闪烁通道B、辩论嫌忌B、反富裕B"
+    },
+    "survivor": {
+      "name": "幸存者",
+      "condition": "在梦森中找到唯一一个不是蜥蜴的生物并与之互动"
+    },
+    "medic_bag": {
+      "name": "医药包",
+      "condition": "使用石膏效果，在废墟商店接受治疗"
+    },
+    "popula_toru": {
+      "name": "眼珠仔",
+      "condition": "与三种不同形态的眼珠仔互动（清醒，沉睡，低头，躺下）"
+    },
+    "glitch_sushi": {
+      "name": "故障寿司",
+      "condition": "进入高速路旁有霓虹标牌的建筑物"
+    },
+    "red_blob": {
+      "name": "陷阱",
+      "description": "你被骗了！",
+      "condition": "调查拒绝之道上的红色肉块"
+    },
+    "puni": {
+      "name": "五只噗呢",
+      "description": "可爱滴捏！",
+      "condition": "在梦想公园变身为Puni"
+    },
+    "mechanical_heart": {
+      "name": "剧终",
+      "condition": "在天体观测所观看舞台剧"
+    },
+    "eye_window": {
+      "name": "乱花迷眼",
+      "description": "绕远路抵达目药世界",
+      "condition": "从花之小径抵达目玉薬"
+    },
+    "scenery": {
+      "name": "绝景",
+      "description": "不虚此行",
+      "condition": "穿过徘徊之森的隧道以观美景"
+    },
+    "sunken_city": {
+      "name": "沉没之厦",
+      "condition": "抵达水没之厦"
+    },
+    "crocodile_dog": {
+      "name": "花园轰趴",
+      "description": "鳄鱼狗派对！",
+      "condition": "参与植物世界的鰐犬派对"
+    },
+    "celestial": {
+      "name": "星之殿",
+      "condition": "通过星座世界抵达星之殿"
+    },
+    "planet": {
+      "name": "双星物语",
+      "condition": "在梦火星与梦金星上着陆"
+    },
+    "opal_archives": {
+      "name": "辉光学院",
+      "condition": "拜访浮游书库"
+    },
+    "unamused": {
+      "name": "不爽",
+      "description": "这里男士禁入啊喂",
+      "condition": "用男孩或学生制服效果，惹恼甜蜜谎言城堡内的紫色生物"
+    },
+    "undersea_artifact": {
+      "name": "海底神器",
+      "condition": "抵达海底神殿"
+    },
+    "acrophobia": {
+      "name": "恐高症",
+      "description": "01001000 01100101 01101100 01101100 01101111",
+      "condition": "使用兔耳效果，让葬塔场的故障男将时间变为夜晚"
+    },
+    "dream_fishing": {
+      "name": "渔之乐",
+      "description": "这条挺别致的",
+      "condition": "造访地下海、鱼骨迷宫、鱼世界、鲭鱼沙漠、刺身世界。"
+    },
+    "decrepit_smile": {
+      "name": "芜言狞笑",
+      "condition": "在废村的黑魔女面前亮出你的坟"
+    },
+    "tv_room": {
+      "name": "液晶屏",
+      "description": "今天看点啥？",
+      "condition": "进入停车场的放映厅"
+    },
+    "nostalgic_house": {
+      "name": "意义",
+      "condition": "觅求 意义"
+    },
+    "wind_turbine_plateau": {
+      "name": "风原追忆",
+      "condition": "仰望风力高原的斜塔"
+    },
+    "strange_being": {
+      "name": "怪东西",
+      "condition": "使用电锯威胁机密沼泽的奇妙铁丝"
+    },
+    "01": {
+      "name": "01君",
+      "condition": "在数字森林、闪耀森林、繁华道、雪之森、恋楔与01君互动"
+    },
+    "tetrapod": {
+      "name": "消波块",
+      "condition": "踏遍海滨沙滩的每片区域"
+    },
+    "stellar_graveyard": {
+      "name": "星耀墓场",
+      "description": "外太空安魂所",
+      "condition": "抵达星耀陵墓"
+    },
+    "cat_cemetary": {
+      "name": "永恒之爱",
+      "description": "真爱永留存",
+      "condition": "透过眼镜观察猫墓地长椅上的灰猫"
+    },
+    "huyure": {
+      "name": "护目镜酱",
+      "condition": "在梦海岸拜访护目镜酱"
+    },
+    "lobster": {
+      "name": "温顺的龙虾",
+      "condition": "潜入浸水浴的水池"
+    },
+    "chandelier": {
+      "name": "复古吊灯",
+      "condition": "抵达古典旅馆"
+    },
+    "red_rock_caves": {
+      "name": "玫瑰之梦",
+      "condition": "在黑汤完成玫瑰梦事件"
+    },
+    "rainbow_bird": {
+      "name": "落泉翠鸟",
+      "condition": "在垂水使用彩虹召唤出幽谷绮丽的鸟"
+    },
+    "paint": {
+      "name": "颜料旋涡",
+      "condition": "完成墓地世界雕塑屋的事件"
+    },
+    "odorika": {
+      "name": "灯下歌舞",
+      "description": "她超会踩点",
+      "condition": "与独眼舞娘共舞"
+    },
+    "akama": {
+      "name": "魔女决斗",
+      "description": "小小魔女，大大能量",
+      "condition": "战胜合拼世界的红色魔法使"
+    },
+    "snow": {
+      "name": "雪景球",
+      "condition": "在下雪时从废笼的拱形物下通过"
+    },
+    "streetlight_scenery": {
+      "name": "雨都丽景",
+      "condition": "抵达水没电柱的尽头"
+    },
+    "akako": {
+      "name": "苍红赤子",
+      "condition": "整点赤子爱看的好活"
+    },
+    "isometry": {
+      "name": "轴侧沙都",
+      "condition": "探索沙之町的每片区域"
+    },
+    "bowling": {
+      "name": "一投全倒",
+      "condition": "避开滚球道中的所有保龄球并抵达保龄瓶世界"
+    },
+    "jade": {
+      "name": "碧玉之空",
+      "description": "翡翠城下，碧玉苍生",
+      "condition": "抵达翡翠镇"
+    },
+    "sea_star": {
+      "name": "海星",
+      "description": "我觉得海星？",
+      "condition": "让干涸的钙质海重新恢复生机"
+    },
+    "alien_cellar": {
+      "name": "异星集群",
+      "condition": "进入外星地窖"
+    },
+    "sea_monster": {
+      "name": "20.180之主",
+      "condition": "在霓虹海里遇见巨型海怪"
+    },
+    "mosenite": {
+      "name": "平安小町",
+      "condition": "抵达平安小町"
+    },
+    "heart": {
+      "name": "健康之心",
+      "condition": "通过在自动贩卖机处购买食品将生命值提升至100，然后捏脸醒来"
+    },
+    "heart_2": {
+      "name": "希望之心",
+      "condition": "通过在自动贩卖机处购买食品将生命值提升至500，然后捏脸醒来"
+    },
+    "heart_3": {
+      "name": "生命之心",
+      "condition": "通过在自动贩卖机处购买食品将生命值提升至999，然后捏脸醒来"
+    },
+    "square_ruins": {
+      "name": "古迹追忆",
+      "condition": "找到通往常绿湿地的古老遗迹"
+    },
+    "egg": {
+      "name": "彩巢回忆",
+      "condition": "获得8-15号和25号菜单样式。若已获得过某些菜单样式，则必须抵达其原本的位置。"
+    },
+    "scared_octopus": {
+      "name": "受惊的章鱼",
+      "condition": "使用妖精效果惊吓亚特兰蒂斯里的章鱼男"
+    },
+    "mini_town": {
+      "name": "巨人",
+      "condition": "进入迷你城"
+    },
+    "gakuran": {
+      "name": "彷徨少年",
+      "condition": "用某个效果与学兰君互动"
+    },
+    "block_person": {
+      "name": "方块人",
+      "description": "我方了？！",
+      "condition": "在红砖迷宫里变身方块人"
+    },
+    "madotsukis_room": {
+      "name": "原点回归",
+      "description": "扑面而来的既视感",
+      "condition": "进入无尽走廊里的某个房间"
+    },
+    "haniwa": {
+      "name": "埴轮之舞",
+      "description": "快看她跳！",
+      "condition": "在埴轮神庙里观看埴轮之舞"
+    },
+    "snowflake": {
+      "name": "风雪旅人",
+      "condition": "拜访冬之村"
+    },
+    "tartaric_abyss_uro": {
+      "name": "熟悉的身影",
+      "condition": "在赤之奈落里找到另一个流浪子的身影"
+    },
+    "butterfly_lady": {
+      "name": "蝴蝶女士",
+      "description": "这边看！",
+      "condition": "进入月光庭院的蝴蝶屋"
+    },
+    "ice_cream": {
+      "name": "三倍Ice Cream",
+      "description": "Feeling like heaven~",
+      "condition": "抵达冰淇淋梦"
+    },
+    "five_guardians": {
+      "name": "五护卫",
+      "description": "HER DREAM IS STILL GOING ON",
+      "condition": "拜访梦想公园里的5位守护者，并进入守护者神殿"
+    },
+    "evil_cube": {
+      "name": "纯粹之恶",
+      "condition": "进入未确认荒野"
+    },
+    "candy": {
+      "name": "糖糖！！",
+      "description": "对牙齿不好",
+      "condition": "抵达下列以甜点为主题的地点: 巧克力世界, 餐具世界, 砂糖世界（包括砂糖深渊）, 拐杖糖平原, 冰淇淋梦, 甜点方块, 巧克力塔, 甜点平原（主区域）"
+    },
+    "sunrise_drink": {
+      "name": "日出特饮",
+      "description": "宛如清晨之空的暖色饮品",
+      "condition": "抵达下列地点中的酒吧: 昭和路地, 坏蛋酒吧, 旋律绘本馆, 赛博酒吧, 鸡尾酒廊, 海蓝宝石洞穴, 宇宙船, 黑色东方酒吧, 净水设施"
+    },
+    "wavyup": {
+      "name": "直面死亡",
+      "description": "她充满了 决 心",
+      "condition": "通关 ↑V↑ 小游戏"
+    },
+    "rune": {
+      "name": "注魔符文",
+      "description": "连接梦世界的神秘符文",
+      "condition": "抵达下列地点: 肉迷宫, 404洞窟, 市街地, 雾之湖, 白色蘑菇世界, 溶岩山, 彩块世界, 八边形网格世界（中断的道路）, 便当世界, 熵之地牢, 彩虹之塔, 以及Zalgo事件的最终房间"
+    },
+    "poker": {
+      "name": "赌博区",
+      "description": "这种游戏十赌十输",
+      "condition": "进入拒绝之道的赌博区"
+    },
+    "rainbow_ruins": {
+      "name": "彩虹胸针",
+      "condition": "进入闪耀森林的彩虹遗迹"
+    },
+    "yukata": {
+      "name": "师匠",
+      "condition": "反复尝试在隐形迷宫里锯掉师匠，直到他把你抓起来"
+    },
+    "blood_ghosts": {
+      "name": "鲜血幽灵",
+      "description": "不该这么做的...",
+      "condition": "在血生臭中触发血之献祭事件"
+    },
+    "scourge_of_guilt": {
+      "name": "疚之渊",
+      "description": "你这怪物...",
+      "condition": "在废墟商店里，对香水瓶幽灵使用电锯效果"
+    },
+    "pink_bow": {
+      "name": "粉色蝴蝶结",
+      "description": "浪漫女孩",
+      "condition": "试穿废墟商店里所有的服装"
+    },
+    "pien": {
+      "name": "嘤嘤",
+      "condition": "抵达相思世界"
+    },
+    "lemon": {
+      "name": "当生活给你柠檬",
+      "description": "...那就把它挤到别人眼睛里吧！",
+      "condition": "锯掉红色现代美术馆的柠檬"
+    },
+    "balloon": {
+      "name": "漂浮气球",
+      "condition": "进入热气球世界"
+    },
+    "tea_party": {
+      "name": "私人茶会",
+      "description": "盯着别人看很没礼貌，你不知道吗？",
+      "condition": "观望月光庭院里一起喝茶的黑魔女们"
+    },
+    "flying_fish_world": {
+      "name": "我们与他们",
+      "description": "到最后都是在原地打转",
+      "condition": "造访飞鱼世界的所有区域"
+    },
+    "sacred_crypt": {
+      "name": "起源之梦",
+      "description": "梦诞生的地方",
+      "condition": "看见起床点最深处的小孩流浪子之影"
+    },
+    "red_sun": {
+      "name": "红日",
+      "condition": "试图在红日下的女士旁边使用电锯效果"
+    },
+    "kigaru": {
+      "name": "发条少女",
+      "description": "端坐在棉花糖的海洋里",
+      "condition": "在棉花糖港湾里，获得发条少女身上的发条"
+    },
+    "smile_san": {
+      "name": "狂笑",
+      "description": "哈哈哈哈口合口合口合口合口合",
+      "condition": "在微笑君身旁使用电话效果"
+    },
+    "classified": {
+      "name": "机密",
+      "description": "一旦树开了花...",
+      "condition": "进入机密研究实验室"
+    },
+    "mysterious_maid": {
+      "name": "神秘女仆",
+      "description": "她与某人有种奇怪的相似之处...",
+      "condition": "在以下每个地方找到神秘女仆并与其互动: 医院, 空中公园, 铁轨世界, 施工支架世界"
+    },
+    "clock_pole": {
+      "name": "严守时间",
+      "description": "守时守时一定要守时！",
+      "condition": "在以下地点找到并靠近对应世界的时钟：植物世界, 雨之森, 水中植物园（两处）, Sculpture Park, 月光庭院, Monochrome School"
+    },
+    "coffee_cup": {
+      "name": "今日风味",
+      "description": "比捏脸更能提神",
+      "condition": "使用任意效果时，从咖啡杯世界的自动售货机处购买食品"
+    },
+    "lamplighter": {
+      "name": "熄灭",
+      "description": "黑暗的世界...",
+      "condition": "承担杀死点灯人的后果"
+    },
+    "fairy_hole": {
+      "name": "精灵居所",
+      "description": "深埋于积雪的世界中",
+      "condition": "进入雪之森林里的妖精洞穴"
+    },
+    "provost": {
+      "name": "休息时间",
+      "condition": "在雾之湖里，于潜艇之外看见潜水艇二人组"
+    },
+    "plaza": {
+      "name": "水之广场",
+      "description": "这可不是座城市，这是片大广场",
+      "condition": "拜访波塞冬广场的每一片区域"
+    },
+    "robot": {
+      "name": "储藏室",
+      "description": "01100110 01110010 01101001 01100101 01101110 01100100",
+      "condition": "眺望特斯拉庭院的机器人"
+    },
+    "green_prince": {
+      "name": "碰到你了",
+      "condition": "与位于城市边界的绿色王子互动"
+    },
+    "phone": {
+      "name": "MVP",
+      "description": "最有价值电话",
+      "condition": "通过电话捷径从下列7个地点分别到达伪现实部屋: 石切, 化石之湖, 砂糖道, 地下仓库, 净水设施, Dark Museum, Dark Warehouse"
+    },
+    "butterfly_passage": {
+      "name": "三色蝴蝶",
+      "condition": "拜访蝴蝶通路"
+    },
+    "forest_interlude": {
+      "name": "孤独的马蹄莲",
+      "condition": "抵达阴森之桥"
+    },
+    "pink_flower": {
+      "name": "摇曳粉花",
+      "condition": "看见油菜花田里的一片粉色花朵"
+    },
+    "banana": {
+      "name": "Ohhh Banana!",
+      "condition": "找到NES隧道里的隐藏香蕉"
+    },
+    "tv_channels": {
+      "name": "电视迷",
+      "description": "还在看吗？",
+      "condition": "观看电视房间的所有频道"
+    },
+    "toilet": {
+      "name": "休息时间",
+      "condition": "进入眼珠樱桃世界的厕所"
+    },
+    "toxic_sea": {
+      "name": "毒海",
+      "condition": "抵达毒海"
+    },
+    "traffic_lights": {
+      "name": "各就各位，预备，跑!",
+      "condition": "从灰色公路进入科技公寓"
+    },
+    "blurry": {
+      "name": "模糊",
+      "condition": "使用某个效果注视兰道环世界里模糊的窥视孔"
+    },
+    "guillotine": {
+      "name": "断头台",
+      "condition": "观看流浪子被斩首"
+    },
+    "wifi": {
+      "name": "Wi-Fi",
+      "condition": "逃离电磁终端的追逐者，并进入停车区"
+    },
+    "bat_flight": {
+      "name": "蝙蝠的飞行",
+      "condition": "从科技公寓的楼顶上起飞"
+    },
+    "amoeba": {
+      "name": "破碎",
+      "condition": "让公寓里的变形虫碎成好几块"
+    },
+    "nocturnal_trees": {
+      "name": "夜行之树",
+      "condition": "抵达夜行林"
+    },
+    "seishonen": {
+      "name": "荒唐的二象性",
+      "condition": "在伪现实部屋里，进入扭曲版本的U君的房间"
+    },
+    "dojo": {
+      "name": "纪念物",
+      "condition": "烧毁道场的太空区域"
+    },
+    "voxed": {
+      "name": "体㔄",
+      "description": "干掉它！立刻马上！",
+      "condition": "锯掉方块岛的npc"
+    },
+    "green_tea_cake": {
+      "name": "绿茶蛋糕",
+      "condition": "在废墟商店的蛋糕店购买绿茶蛋糕"
+    },
+    "principal": {
+      "name": "走廊禁止飙车",
+      "condition": "因在学校走廊骑摩托被主任训斥"
+    },
+    "car_crash": {
+      "name": "上保险没？",
+      "description": "泥头车开创！",
+      "condition": "把地下停车场的车创了"
+    },
+    "wedding_cake": {
+      "name": "三层莓蛋糕",
+      "description": "……必须一个人吃完吗？",
+      "condition": "从自贩机里买到婚庆蛋糕"
+    },
+    "green_monster": {
+      "name": "绿色怪物",
+      "condition": "调查森徊的绿色生物"
+    },
+    "nail_lady": {
+      "name": "旋转螺钉",
+      "description": "钉紧点儿",
+      "condition": "在钉圈内与跳舞的女子互动"
+    },
+    "cmyk": {
+      "name": "墨盒",
+      "description": "余料不足",
+      "condition": "从nOnAmE的3台自贩机处购物"
+    },
+    "muertitos": {
+      "name": "Muertitos",
+      "condition": "在墨西哥的葬礼上献花"
+    },
+    "crown_of_sorrow": {
+      "name": "哀怨之冠",
+      "condition": "在计时模式下，于 {TIME} 内抵达断崖车道的尽头的房间"
+    },
+    "the_liar": {
+      "name": "矫情饰诈",
+      "description": "别演了",
+      "condition": "关闭恋の家的电灯"
+    },
+    "the_assistant": {
+      "name": "得力助手",
+      "description": "别乱碰！",
+      "condition": "激活潜水艇的光学迷彩"
+    },
+    "surimuki": {
+      "name": "擦伤娘",
+      "description": "\"被擦伤了。\"",
+      "condition": "找到梦中每一处的すりむき娘。（顔腕通路、梦幻图书馆、黑白学校楼顶）"
+    },
+    "helmet_girl": {
+      "name": "继续闪耀",
+      "description": "我们相约在月之暗面。",
+      "condition": "在四角四角、飞鱼广厦及其公寓内与宇航服少女互动"
+    },
+    "garden_of_dreams": {
+      "name": "梦中庭",
+      "description": "迷梦一场，魂归庭前槐杨。生长，生长。撰者阴阳，今躺平译此徽章。好长，好长。",
+      "condition": "调查（或抵达） Mountain Ruins 的树木、Blood Cell Sea（及其赤状态）、Graffiti Maze、Shinto Shrine、Azure Garden、Scenic Outlook 及 Evergreen Woods。"
+    },
+    "infinite_library_mirror": {
+      "name": "迷失自我",
+      "description": "自视于无限之镜，迷失在喧嚣之地。",
+      "condition": "从无限图书馆的镜子处抵达赤黑迷宫。"
+    },
+    "rainbow_tiles_glitch": {
+      "name": "锟斤拷",
+      "description": "在九格迷宫中触发bug",
+      "condition": "抵达反向 Rainbow Tiles Maze"
+    },
+    "nightshade_corridor_creature": {
+      "name": "\"咔嚓，咔嚓？\"",
+      "condition": "通过 Nightshade Corridor 遇见剪刀怪"
+    },
+    "gutter_secret": {
+      "name": "她心里没我",
+      "description": "偷走了我的心，只为将其撕碎",
+      "condition": "窥探 ???-tsuki 隐藏在下水道中的创痛"
+    },
+    "deluxe_mask_shop_purchase": {
+      "name": "丝绸缎带",
+      "description": "闻起来像甘草",
+      "condition": "在 Deluxe Mask Shop 购买一个面具"
+    },
+    "japan_town_bath": {
+      "name": "旅店怪谈",
+      "description": "在不详的旅馆泡个澡",
+      "condition": "在昭和路地的旅馆内泡个澡"
+    },
+    "viridescent_brooch": {
+      "name": "碧绿胸针",
+      "description": "那边的草看上去更绿",
+      "condition": "拜访 Viridescent Temple 并入室参观"
+    },
+    "shadowy_caves_puzzle": {
+      "name": "招财噗呢",
+      "description": "闪闪金币",
+      "condition": "解开 Shadowy Caves 的谜题"
+    },
+    "abyss_of_farewells_exit": {
+      "name": "地底飞行",
+      "description": "从忘恩之地吹来的风",
+      "condition": "在找到小守卫者后，回到梦想公园"
+    },
+    "sixth_terminal_entrances": {
+      "name": "互联网络",
+      "condition": "激活六层终端的全部4个连接"
+    },
+    "foliage_estate_satellite_dish": {
+      "name": "繁星之间",
+      "description": "小心迷失在夜空中",
+      "condition": "抵达森徊的卫星天线区域"
+    },
+    "shallows_of_deceit_rooftop": {
+      "name": "夜幕星天",
+      "description": "有多少星星？",
+      "condition": "抵达谎言浅滩的屋顶"
+    },
+    "shadow_cat": {
+      "name": "追猫捕影",
+      "condition": "在 科技公寓 及 自贩机工厂 的所有可能位置找到黑猫"
+    },
+    "sculpture_park_monolith": {
+      "name": "滑腻方碑",
+      "condition": "抵达雕塑公园的石碑圈"
+    },
+    "ancient_mural": {
+      "name": "远古壁画",
+      "condition": "找到 Viridescent Temple 的壁画"
+    },
+    "tesla_garden_noah": {
+      "name": "不再孤独",
+      "description": "给 Noah 一些陪伴",
+      "condition": "坐在 Tesla Garden 水城的 Noah 旁边"
+    },
+    "shell_lake_giant_snail": {
+      "name": "黏黏过客",
+      "description": "找到 Shell Lake 的大蜗牛",
+      "condition": "进入 Shell Lake 的蜗壳内"
+    },
+    "overgrown_condominium_ticket": {
+      "name": "好运门票",
+      "condition": "在 Overgrown Condominium 的售票机处获得神奇条状物"
+    },
+    "blob_desert_blood": {
+      "name": "一口老血",
+      "condition": "在蓝色生物嘴里流血时进入 Blob Desert"
+    },
+    "snowy_village_creature": {
+      "name": "泥嚎！",
+      "condition": "与 Snowy Village 的紫色生物互动"
+    },
+    "cloning_room": {
+      "name": "复制品",
+      "description": "\"分区检测中: 克隆平台已启用 \n检测到严重漏洞\n灾害级别：末世级\"",
+      "condition": "触发红砖迷宫内的克隆房间事件"
+    },
+    "rainbow_towers_ufo": {
+      "name": "不明飞行物",
+      "description": "刚刚那个，拍到了吗？",
+      "condition": "在 Rainbow Towers 被 UFO 掠过身旁"
+    },
+    "vending_machine_factory_balcony": {
+      "name": "日出，帕拉贝伦",
+      "description": "货真价实的 *牛仔*",
+      "condition": "站在自贩机工厂的高处眺望"
+    },
+    "solo_concert_hall": {
+      "name": "一人乐厅",
+      "description": "清澈的交响乐章，隐藏于贫民窟的屋檐下",
+      "condition": "坠入 Tricolor Room 的洞中，抵达有钢琴声的深谷"
+    },
+    "mirror_lake_patient": {
+      "name": "镜湖候诊",
+      "condition": "在 青仙人掌岛 的镜湖遇见 Lavender"
+    },
+    "master_crow": {
+      "name": "老树昏鸦",
+      "description": "……打量着美丽的晚霞",
+      "condition": "拜访三角岩世界的日暮天台"
+    },
+    "rotten_truth": {
+      "name": "腐烂的真实",
+      "description": "我们都做了什么？",
+      "condition": "抵达 结局 -1"
+    },
+    "the_watcher": {
+      "name": "观望者",
+      "description": "呼吸着",
+      "condition": "调查呕吐迷宫的长脖子生物，直到——"
+    },
+    "heishi_kun": {
+      "name": "伤兵",
+      "condition": "对士兵君使用电锯"
+    },
+    "luminous_lake_fish": {
+      "name": "黄昏水镜",
+      "description": "天上的那个是条翻车鱼吗",
+      "condition": "抵达黄昏水镜并目击飞鱼"
+    },
+    "forest_of_reflections": {
+      "name": "幻镜魔术",
+      "condition": "拜访镜之森"
+    },
+    "blue_house_road": {
+      "name": "青蓝徽章",
+      "description": "就这徽章？就这？",
+      "condition": "拜访青蓝街道"
+    },
+    "the_tiger": {
+      "name": "Tiger",
+      "description": "你摸了摸猫咪",
+      "condition": "进入黑魔女的宅邸，抚摸名叫Tiger的猫"
+    },
+    "mar_marina": {
+      "name": "Mar Marina",
+      "description": "她搬家了",
+      "condition": "分别进入Marina熄灯与亮灯的房间"
+    },
+    "libra_palace": {
+      "name": "星金天秤",
+      "description": "驻足于秋日的美丽宫殿中",
+      "condition": "拜访秋天的 Libra Palace"
+    },
+    "tree_muncher": {
+      "name": "吃树不忘种树人",
+      "description": "*噶嘣噶嘣噶嘣*",
+      "condition": "在 Container Forest 遇见吃树的NPC"
+    },
+    "rainbow_fish": {
+      "name": "彩虹鱼",
+      "condition": "使用多边形和彩虹效果看见电子之海的鱼"
+    },
+    "maple_symphony": {
+      "name": "枫之歌",
+      "description": "灿烂的旋律",
+      "condition": "在枫神社聆听橙色球状生物的歌声"
+    },
+    "jiangshi": {
+      "name": "僵尸！",
+      "condition": "抵达里怀古之馆"
+    },
+    "awoo_monster_jaw": {
+      "name": "嗷呜——",
+      "description": "你嗷他也嗷",
+      "condition": "在 Monster's Jaw 上使用狼效果并观看短动画"
+    },
+    "call_for_help": {
+      "name": "求救电话",
+      "condition": "找到 Snowy Forest 的遇难者，用电话效果与之互动"
+    },
+    "chaser_party": {
+      "name": "追捕大队",
+      "description": "团结就是力量，速速给我起床",
+      "condition": "在调查电视时被追逐者们偷袭"
+    },
+    "cyber_prison": {
+      "name": "避财猫",
+      "condition": "前往 Cyber Prison"
+    },
+    "get_out_meeting": {
+      "name": "滚！出！去！",
+      "description": "\"保安，控制住她！\"",
+      "condition": "在会议室使用电锯效果并受监禁"
+    },
+    "mask_shop_ring": {
+      "name": "住手",
+      "description": "当个熊孩子",
+      "condition": "玩弄铃铛，气坏店长。"
+    },
+    "myriad_blossoms": {
+      "name": "繁花似锦",
+      "condition": "从 Shinto Shrine 抵达 Sakura Path"
+    },
+    "urotsuki_pendant": {
+      "name": "记忆吊坠",
+      "description": "\"我\" 在这里",
+      "condition": "遇见流浪子，或在Atlantis，Tapir-San's Place，Giant Cloning Room，Urotsuki's Dream Apartments，Closet Pinwheel Path，Red Sky Cliff，Despair Road，Head World，Static Noise Hell，Colorless Valley 与 Spear Tribe World 中找到流浪子的类似物"
+    },
+    "blossoming_brooch": {
+      "name": "繁花胸针",
+      "condition": "抵达 Adabana Gardens"
+    },
+    "puni_snacks": {
+      "name": "噗尼零食",
+      "description": "没有噗尼在本品制作中受到伤害",
+      "condition": "在梦想公园购买每种与噗尼相关的零食，然后前往 Birthday Tower"
+    },
+    "rainy_day_residence": {
+      "name": "阴雨居所",
+      "description": "广厦虚景不再，唯有黯淡苍穹。遂合目，爆睡之。",
+      "condition": "初次抵达 Rainy Apartments"
+    },
+    "researcher_lover": {
+      "name": "爱之公式",
+      "description": "解开真相的密钥",
+      "condition": "与 Space Construction Site 的 NPC 互动"
+    },
+    "techno_karaoke": {
+      "name": "Techno Karaoke",
+      "description": "* 一场小狂欢 *",
+      "condition": "调查 Virtual City 卡拉OK包间中的粉色少女"
+    },
+    "tomato_world": {
+      "name": "红白蘸酱",
+      "condition": "拜访番茄世界"
+    },
+    "white_garden": {
+      "name": "苍庭白霞",
+      "description": "愿花儿改变世界",
+      "condition": "在白色世界浏览其庭院的两种版本"
+    },
+    "windswept_souls": {
+      "name": "大漠孤魂",
+      "description": "之后就一个人都没有了吗?",
+      "condition": "在高塔上眺望荒漠"
+    },
+    "starry_night": {
+      "name": "星月夜",
+      "description": "You look quite divine tonight, underneath these vibrant lights...",
+      "condition": "驻足于 Windswept Scarlet Sands 的星空"
+    },
+    "victorian_festival": {
+      "name": "缤纷庆典",
+      "condition": "造访 Victorian Drains 的 Carnival Town"
+    },
+    "rainbow_clock": {
+      "name": "昔日之乐",
+      "condition": "在 Rainbow Silhouette World 看一下时间"
+    },
+    "from_behind": {
+      "name": "霓虹之影",
+      "condition": "在 Neon City 观看 \"It Came From Behind\" 事件"
+    },
+    "star_planetarium": {
+      "name": "机械星尘",
+      "condition": "在 Planetarium 观赏 \"Starry Sky\" 事件"
+    },
+    "cosmic_daydream": {
+      "name": "白日梦",
+      "condition": "进入 Cosmic World 的 \"小黑屋\""
+    },
+    "lonely_garden": {
+      "name": "门可罗雀",
+      "description": "无人小巷，隐藏着怎样的秘密？",
+      "condition": "进入 Deserted Town 的秘密庭院"
+    },
+    "serene_waters": {
+      "name": "碧水青砖",
+      "condition": "登上洋馆的阳台"
+    },
+    "dancing_queen": {
+      "name": "Dancing Queen",
+      "description": "Night is young & the music's high!",
+      "condition": "在 Forest Pier 看眼珠跳舞"
+    },
+    "fishy_friends": {
+      "name": "游者相乐",
+      "description": "水母时间！",
+      "condition": "进入 Overgrown City 的水族馆"
+    },
+    "sunbeam_industrial": {
+      "name": "日光",
+      "description": "在荒凉的迷宫中觅寻温度",
+      "condition": "进入 Industrial Maze 的小道"
+    },
+    "lustrous_memory": {
+      "name": "光辉记忆",
+      "condition": "进入 Radiant Ruins"
+    },
+    "hide_kotatsu": {
+      "name": "暖会身子",
+      "description": "糟了，出不去了！",
+      "condition": "钻到 Transmission Tower World 中绿色生物的暖桌下"
+    },
+    "music_bottom": {
+      "name": "小夜曲",
+      "description": "留声机的暖巢",
+      "condition": "进入 Bottom Garden 中的留声机房间"
+    },
+    "falling_up": {
+      "name": "上坠",
+      "description": "试着掉下来。",
+      "condition": "进入 Chaotic Buildings"
+    },
+    "familiar_figure": {
+      "name": "老熟人",
+      "description": "多喝热水",
+      "condition": "在 Pillars World 找到温泉君"
+    },
+    "lucent_world": {
+      "name": "荧光水境",
+      "description": "鱼之迷梦",
+      "condition": "抵达 Bioluminescent Cavern 的梦幻水境"
+    },
+    "gold_statue": {
+      "name": "金色雕塑",
+      "description": "这是……金拱门！",
+      "condition": "造访 Overgrown City 中的金色雕塑"
+    },
+    "hurt_blob": {
+      "name": "痛痛痛!",
+      "description": "秘密的守门人",
+      "condition": "让 Deserted Town 的球状NPC痛中尖叫"
+    },
+    "mystery_hideaway": {
+      "name": "神秘浅身地",
+      "description": "熟悉又陌生……",
+      "condition": "驻足浅滩"
+    },
+    "decadent_sunfish": {
+      "name": "乐欲翻车鱼",
+      "condition": "在 Rainbow Silhouette World 触碰翻车鱼"
+    },
+    "blind_cosmo": {
+      "name": "致盲天象",
+      "description": "狗眼已瞎",
+      "condition": "进入 Cosmic World."
+    },
+    "bent_screw": {
+      "name": "弯曲螺钉",
+      "description": "它经历了什么……",
+      "condition": "调查弯曲的螺钉"
+    },
+    "well_creature": {
+      "name": "井中住客",
+      "description": "我是井之神～",
+      "condition": "在 Abandoned Apartments 的第一区域找到水井内的生物"
+    },
+    "lonely_cottage": {
+      "name": "孤岛别墅",
+      "description": "诡异...",
+      "condition": "找到 Abandoned Factory 孤岛上的小屋"
+    },
+    "reflect_one": {
+      "name": "只身独影",
+      "description": "一人的遥远回忆",
+      "condition": "在 Mirror Room 的沙滩上远望双峰山"
+    },
+    "tulip_lamp": {
+      "name": "垂蕊微光",
+      "description": "泪珠暗逐灯花落",
+      "condition": "进入 Tulip Lamp World"
+    },
+    "industrial_garden": {
+      "name": "蒸汽花园",
+      "description": "混凝土丛中的一点生机",
+      "condition": "进入 Industrial Maze 的花园区域"
+    },
+    "radiant_leaf": {
+      "name": "灿烂叶荫",
+      "description": "水叶相衬，绿下稍息",
+      "condition": "坐在 Radiant Ruins 巨大植物的绿叶上"
+    },
+    "strange_presence": {
+      "name": "异样登场",
+      "description": "下水道里究竟隐藏着怎样的秘密……？",
+      "condition": "进入 Old Train Station 下水道后的密室"
+    },
+    "purple_flowers": {
+      "name": "紫花",
+      "description": "紫城，紫花。",
+      "condition": "进入 Petal Hotel."
+    },
+    "omurice_rooms": {
+      "name": "大胃王之证",
+      "description": "已经吃不下了",
+      "condition": "抵达蛋包饭迷宫的隐藏房间"
+    },
+    "hands_abyss": {
+      "name": "深渊之手",
+      "description": "向光而去，无果而殆",
+      "condition": "找到 Azure Gardens，Forbidden Swamp，Foliage Estate，Dark Nexus 和 Garden of Treachery 中的手"
+    },
+    "virtual_mapper": {
+      "name": "虚像制图仪",
+      "description": "数字科技日益进步中",
+      "condition": "进入 Virtual City 的地图室，调查NPC"
+    },
+    "amusement_secret": {
+      "name": "你不应该来这的",
+      "description": "彻夜难忘的密室光景",
+      "condition": "穿过水道区的密道，进入 Underwater Amusement Park 的密室"
+    },
+    "bike_crash": {
+      "name": "快处易赔",
+      "description": "快闪开，你左我右！",
+      "condition": "在 Highway 撞上骑手流浪子"
+    },
+    "tranquil_crescent": {
+      "name": "宁静新月",
+      "description": "暗水明月人鱼跃",
+      "condition": "进入 Jigsaw Puzzle World 的新月房间"
+    },
+    "glitch_butterfly": {
+      "name": "化蝶",
+      "description": "本我蜕变",
+      "condition": "初次进入 Glitched Butterfly Sector"
+    },
+    "puppet_show": {
+      "name": "碎裂小剧场",
+      "description": "悲痛已沉入海底",
+      "condition": "在 Ocean Floor 观赏人偶戏"
+    },
+    "floral_interlude": {
+      "name": "繁花插曲",
+      "description": "乱花渐欲迷人眼",
+      "condition": "进入连接 Adabana Gardens，Field of Cosmos 和 Lamplit Stones 的全部四个花朵通道"
+    },
+    "2kki_gold": {
+      "name": "黄金会员",
+      "description": "2记黄金VIP",
+      "condition": "爬上金字塔，打倒法老，成为梦2记黄金会员™。"
+    },
+    "gb_memories": {
+      "name": "GB Memories",
+      "description": "Remember this?",
+      "condition": "Witness every secret in the Monochrome GB World and sit on the bench at the end of NES Glitch Tunnel."
+    },
+    "bunny_cocktail": {
+      "name": "Bunny Cocktail",
+      "description": "Bnuuy!",
+      "condition": "Reveal the hidden bunny in Cocktail Lounge using the Bunny Ears."
+    },
+    "sweet_poison": {
+      "name": "Sweet Poison",
+      "condition": "Interact with the scientists while using the Drum effect in the Toxic Chemical World."
+    },
+    "celestial_garden": {
+      "name": "Transcendental Island",
+      "description": "High up in the clouds, where spirits can roam freely.",
+      "condition": "Enter Celestial Garden."
+    },
+    "conway": {
+      "name": "Digital Glider",
+      "condition": "Visit the Conway area in Symbolon."
+    },
+    "say_my_name": {
+      "name": "Say My Name",
+      "condition": "Spell \"UROTSUKI\" in the Spelling Room"
+    },
+    "water_lantern": {
+      "name": "Divine Water Lanterns",
+      "description": "The lights that illuminate the sanctuary...",
+      "condition": "Reach the Water Lantern World"
+    },
+    "reflecting_electron": {
+      "name": "Subatomic Matrix",
+      "condition": "Enter the Reflecting Electron Zone"
+    }
+  },
+  "flow": {
+    "rust": {
+      "name": "锈",
+      "condition": "生锈"
+    },
+    "cake": {
+      "name": "巧克力蛋糕",
+      "condition": "在Sugar Hole里食用至少20块蛋糕"
+    },
+    "sewer": {
+      "name": "管道淤泥",
+      "description": "不该喝那个的……",
+      "condition": "触发 「血、脓、锈」 事件"
+    },
+    "rotten_smile": {
+      "name": "腐朽笑颜",
+      "condition": "抵达笑颜与鬼"
+    },
+    "empty_boxes": {
+      "name": "□□□",
+      "condition": "获得三个「    」"
+    },
+    "rainbow_sweeper": {
+      "name": "彩虹扫帚",
+      "condition": "在彩虹迷宫触发魔女飞行事件"
+    },
+    "orange_experiments": {
+      "name": "橙色试验",
+      "condition": "造访橙色迷宫、橙色走廊、橙色研究所内含试管的房间"
+    },
+    "dark_city": {
+      "name": "暗之都",
+      "condition": "与迷幻小镇的外星人互动。"
+    },
+    "red_eye": {
+      "name": "红眼",
+      "condition": "在与公寓墙壁的瞪眼比赛中获胜"
+    },
+    "other_worlds": {
+      "name": "他世",
+      "description": "钢琴的和弦好像指向了...某个地方...",
+      "condition": "进入年轻通道和微生物世界"
+    },
+    "attack_smile": {
+      "name": "Why So Serious?",
+      "description": "\"You're a sick girl, but I'll see you again.\"",
+      "condition": "迫使Smile保护他的妹妹"
+    },
+    "kill_smile": {
+      "name": "一转攻势",
+      "description": "完成报复",
+      "condition": "生锈之后，冷血地杀死Smile"
+    },
+    "smile_channel": {
+      "name": "微笑频道",
+      "description": "脸上来点儿笑吧!",
+      "condition": "反复与铁锈子房间中的电视互动，直到屏幕上出现一个微笑"
+    },
+    "orange": {
+      "name": "永远的好朋友",
+      "description": "最后的温柔",
+      "condition": "解锁橙色菜单主题。若已解锁，请前往获取它的位置。"
+    },
+    "moonlight_flower": {
+      "name": "月前花",
+      "description": "彩虹花蹦迪！",
+      "condition": "调查迷幻街道的花并观影事件。"
+    },
+    "oreko": {
+      "name": "潜水子",
+      "condition": "获得潜水头盔效果。"
+    },
+    "onigo_childbirth": {
+      "name": "分娩",
+      "description": "旁观分娩",
+      "condition": "触发分娩事件"
+    },
+    "sugar_float_days": {
+      "name": "糖茶",
+      "condition": "观影 sugar float days 事件"
+    },
+    "bar_kaibutsu": {
+      "name": "吧台怪物",
+      "description": "反应再快点！",
+      "condition": "攻击 Sugar Hole 里的 怪物"
+    },
+    "smile_bathtub": {
+      "name": "熟悉的面容",
+      "description": "\"你不该来这的\"",
+      "condition": "在处置使用手枪后，调查 Smile 旁的浴缸"
+    },
+    "metal_tan": {
+      "name": "义足子",
+      "description": "哔哔。",
+      "condition": "拜访义足子"
+    },
+    "entrance": {
+      "name": "锈梦之扉",
+      "condition": "看见入口的所有形态"
+    },
+    "smile_happy": {
+      "name": "他真的会笑！",
+      "description": "你果然，还是笑起来，最棒了",
+      "condition": "让Smile欣慰于你的铁管"
+    },
+    "submit_erosion": {
+      "name": "锈迹斑驳",
+      "condition": "锈值达到 250 以上"
+    }
+  },
+  "prayers": {
+    "broken_clock": {
+      "name": "诡变的钟",
+      "description": "几点了来着？",
+      "condition": "抵达时钟世界的独眼怪兽房间"
+    },
+    "koraiyn": {
+      "name": "Koraiyn",
+      "description": "Koraiyn 到底是个啥子？"
+    },
+    "missingno": {
+      "name": "蓝屏",
+      "condition": "找到并调查 MissingNo."
+    },
+    "halo": {
+      "name": "逝者的光环",
+      "condition": "进入冰封街道的事故巴士"
+    },
+    "confused_arrows": {
+      "name": "迷惑箭头",
+      "condition": "抵达绿色世界的隐藏区域"
+    },
+    "chroma_cat": {
+      "name": "色键猫",
+      "condition": "抵达故障世界的深处"
+    },
+    "sunflower": {
+      "name": "向阳丽色",
+      "condition": "抵达森林世界的向日葵花田"
+    },
+    "monochrome_nightmare": {
+      "name": "黑白噩梦",
+      "condition": "完成杀死灰度世界NPC之后触发的事件"
+    },
+    "musical_pin": {
+      "name": "音乐别针",
+      "condition": "抵达公寓内的吉他效果房间"
+    },
+    "all_prayers": {
+      "name": "悬念",
+      "condition": "获得所有效果后进入门世界"
+    },
+    "food_room": {
+      "name": "好胃口",
+      "condition": "进入食物效果所在的房间"
+    },
+    "submarine_cat_eyes": {
+      "name": "深海恐惧症",
+      "description": "凝视深渊过久，深渊将回以凝视。",
+      "condition": "观影潜水艇中的猫眼事件"
+    },
+    "lookout_point": {
+      "name": "瞭望点",
+      "description": "没有游戏机，生灵不安息。",
+      "condition": "通过 Symbol Maze 抵达 Sihouette World 的第二个岛屿"
+    },
+    "phantom_symbols": {
+      "name": "幻影符文",
+      "description": "见证自己的幻影",
+      "condition": "调查 Symbols Maze 中的幽灵 Fluorette"
+    }
+  },
+  "deepdreams": {
+    "carousel": {
+      "name": "旋转木马",
+      "description": "返璞归真",
+      "condition": "在雾之森乘坐旋转木马"
+    },
+    "koi": {
+      "name": "空游无依",
+      "condition": "抵达水之庭"
+    },
+    "planetarium": {
+      "name": "繁星之上",
+      "condition": "进入天文馆内取得天体效果的房间"
+    },
+    "hospital_event": {
+      "name": "患者 001",
+      "description": "我的老伙计Eric也是这样的",
+      "condition": "触发医院事件"
+    },
+    "escher": {
+      "name": "矛盾空间",
+      "description": "别想太多",
+      "condition": "进入埃舍尔花园"
+    },
+    "moonrise": {
+      "name": "明月初升",
+      "description": "把酒问青天",
+      "condition": "抵达木卫"
+    },
+    "flo": {
+      "name": "随波逐流",
+      "condition": "在澡堂购买浴袍"
+    },
+    "warm_embrace": {
+      "name": "暖流环绕",
+      "description": "拥抱 Tetsuko",
+      "condition": "在 Subnexus 的 Tetsuko 房间内触发其事件"
+    },
+    "apparition_creature": {
+      "name": "粉彩魅影",
+      "description": "被粉饰的历史",
+      "condition": "在使用 Pastel alter 后，进入 Apparition alter 的房间"
+    },
+    "pink_bathing_creature": {
+      "name": "肥皂泡",
+      "description": "一起泡个澡放松一下吧~",
+      "condition": "在 Bath House 中找到泡澡的粉色生物"
+    },
+    "spa_day": {
+      "name": "水时间",
+      "description": "歇了。",
+      "condition": "在 Bath House 的水疗浴缸里躺平"
+    },
+    "bat_girl_verdant": {
+      "name": "粉花，粉心",
+      "description": "花花？多可爱啊！",
+      "condition": "在 Lily Field 内吸引蝙蝠少女的注意"
+    },
+    "angel_nurse": {
+      "name": "滋养血液",
+      "description": "必须要做出牺牲",
+      "condition": "找到医院的天使护士，并在房间内使用 伤害 和 剧毒 祭坛"
+    },
+    "flying_mermaid": {
+      "name": "天使人鱼",
+      "description": "天空的守护者",
+      "condition": "抵达 Green Field 的边缘并看向上空"
+    },
+    "rainbow_theme": {
+      "name": "六十分热度",
+      "description": "埋藏在了时间的洪流中。",
+      "condition": "在 Rainbow Scratch Park 获得彩虹菜单样式。若已获得，前往获得它的位置。"
+    },
+    "docks_aquarium": {
+      "name": "生命足迹",
+      "description": "风眼中的宁静",
+      "condition": "拜访 the Docks 的水族馆"
+    },
+    "pastel_girl": {
+      "name": "粉彩少女",
+      "condition": "前往 Pastel House"
+    },
+    "hell_flower": {
+      "name": "地狱花",
+      "condition": "找到 the Red River 的 Hellflower 并与之互动"
+    },
+    "crystalline_system": {
+      "name": "Ophelia",
+      "description": "Simmerin' crystal can't keep her cool",
+      "condition": "Get the System Crystalline from Crystal Cavern. If you have already obtained it, go the place where you found it."
+    }
+  },
+  "someday": {
+    "alien": {
+      "name": "太空趴踢",
+      "condition": "拜访外星巨人"
+    },
+    "dance_flood": {
+      "name": "水中舞",
+      "condition": "在水中舞厅拨动水下开关"
+    },
+    "party": {
+      "name": "绝赞校园日",
+      "condition": "和你的朋友们来一场party"
+    },
+    "fox": {
+      "name": "动物爱好者",
+      "condition": "在好结局中rua狐狸"
+    },
+    "hollow_head": {
+      "name": "头脑空空",
+      "description": "\"you gotta go to the sospital and get the heeh raura effef so you can heal the glilg in the suswew\" - Jojogape",
+      "condition": "从 Subway 抵达 The Void"
+    },
+    "zapnef_all_clear": {
+      "name": "ZapNeF",
+      "condition": "完成 ZApNeF 的全部关卡"
+    },
+    "zapnef_high_score": {
+      "name": "zaP-Rank",
+      "description": "It's over 8000!",
+      "condition": "在 Zapnef 的第 7 关内获得 8000 分以上"
+    },
+    "mystery_boxes_flooded": {
+      "name": "格拉汉姆",
+      "description": "Where are those speakers?",
+      "condition": "摧毁 Dance Flood 的 ？ 箱"
+    },
+    "mystery_boxes_grassland": {
+      "name": "斐波那契",
+      "description": "Fuzzy, Not Fuzzy, Fuzzy, Not Fuzzy,...",
+      "condition": "摧毁 Grassland World 的 ？ 箱"
+    },
+    "mystery_boxes_neon": {
+      "name": "威廉 & 莫里斯",
+      "description": "PEACE LOVE UNITY RESPECT: THE RAVER'S CODE",
+      "condition": "摧毁 Neon World 的 ？ 箱"
+    },
+    "mystery_boxes_question": {
+      "name": "薛定谔",
+      "description": "¿?QUELQUIÉNWHEREDŌSHITEКОГДА¿?",
+      "condition": "摧毁 Question World 的 ？ 箱"
+    },
+    "hexxed": {
+      "name": "Hexxed",
+      "condition": "Find yourself in Hexagon Realm."
+    }
+  },
+  "unevendream": {
+    "cookies": {
+      "name": "曲奇饼干",
+      "description": "烤焦了就没那么好吃了...",
+      "condition": "在变异向日葵世界里完成烤焦曲奇饼事件"
+    },
+    "el_bebe": {
+      "name": "宝赑儿",
+      "description": "☢ミ絀貹溂灬✾",
+      "condition": "触发 el bebe 事件"
+    },
+    "clay": {
+      "name": "泥塑",
+      "description": "画风有些眼熟……",
+      "condition": "抵达岩石荒地的隐藏房间"
+    },
+    "fantasy_crystal": {
+      "name": "幻象结晶",
+      "description": "01001110 01000101 01010011",
+      "condition": "抵达NES世界的屋顶"
+    },
+    "inkblot_test": {
+      "name": "墨迹测验",
+      "condition": "在狰狞面世界触发治疗师事件"
+    },
+    "blockgirl": {
+      "name": "方块女孩",
+      "description": "绝赞蹦跶中",
+      "condition": "使用八音盒与方块女孩互动"
+    },
+    "deer": {
+      "name": "鹿已收容",
+      "description": "谁把它带到这儿的？",
+      "condition": "调查装有鹿头的容器"
+    },
+    "dream_flower": {
+      "name": "梦之花",
+      "description": "于灵魂深处绽放",
+      "condition": "进入潜意识花园的房子"
+    },
+    "dude": {
+      "name": "老铁",
+      "description": "老铁",
+      "condition": "结识老铁"
+    },
+    "pc98": {
+      "name": "古董电脑",
+      "description": "还能用诶！",
+      "condition": "进入PC98世界"
+    },
+    "sun_flower": {
+      "name": "鲜花送太阳",
+      "description": "值得吗？",
+      "condition": "激怒太阳王爷"
+    },
+    "turbine": {
+      "name": "扇叶",
+      "condition": "抵达扇叶大楼的最深处"
+    },
+    "braille_angel": {
+      "name": "盲文天使",
+      "description": "再见，附凸",
+      "condition": "接到方块天使的送别"
+    },
+    "shiny_crystal": {
+      "name": "闪亮水晶",
+      "description": "似曾相识",
+      "condition": "在水晶洞窟中，抵达星辰之河彼岸的岛屿"
+    },
+    "dessert_house": {
+      "name": "甜点屋",
+      "description": "姐，房子不错",
+      "condition": "参观崔克茜在甜点世界的房子并无视落地灯"
+    },
+    "eye_flower": {
+      "name": "眼之花",
+      "condition": "在外星植物世界中，于某朵花旁边使用先知效果使其发芽"
+    },
+    "arcade": {
+      "name": "幻光街机",
+      "condition": "在混凝土树屋里查看所有开着的街机"
+    },
+    "paper_boat": {
+      "name": "纸船",
+      "condition": "在灯笼之湖里乘坐纸船"
+    },
+    "static": {
+      "name": "纯噪点",
+      "condition": "观看侵蚀之梦事件"
+    },
+    "pinball_machine": {
+      "name": "进入发射坡道",
+      "description": "来玩弹珠机吧！",
+      "condition": "拜访弹珠机"
+    },
+    "hermit_crab": {
+      "name": "寄居蟹",
+      "condition": "从自贩机内买到寄居蟹"
+    },
+    "mimic": {
+      "name": "模拟工程师",
+      "description": "此乃 Dreamy Mime 之道",
+      "condition": "抵达颠倒世界事件的区域"
+    },
+    "cube_racing": {
+      "name": "方程式",
+      "condition": "在 Cube Road 目击 78 Skidoo"
+    },
+    "cube_road_cat": {
+      "name": "梦狸",
+      "description": "口苗——",
+      "condition": "与 Cube Road 的猫互动"
+    },
+    "rainy_garden_powerline": {
+      "name": "美丽电力线",
+      "description": "愉悦的溜达！",
+      "condition": "从 Rainy Garden 抵达输电线区域"
+    },
+    "seriri": {
+      "name": "人鱼之歌",
+      "description": "唯有一首哀歌能唤醒这遗忘之地……",
+      "condition": "在 Mermaid Mansion 取得人鱼效果"
+    },
+    "shimmering_girl": {
+      "name": "Shimmering Girl",
+      "description": "Gazing into the cosmos.",
+      "condition": "Use the Seer effect to see the sparkly-haired girl in Starlit Road."
+    }
+  },
+  "braingirl": {
+    "lotus_cluster": {
+      "name": "一簇睡莲",
+      "description": "在水中放松一下",
+      "condition": "进入温泉"
+    },
+    "fried_soap_bars": {
+      "name": "油炸肥皂",
+      "description": "油炸肥皂",
+      "condition": "在貉之林，穿着鸭鸭服装调查电视机"
+    },
+    "labyrinth_boombox": {
+      "name": "迷宫曳步",
+      "condition": "在草原迷宫开启手提音箱"
+    },
+    "shrine_garden": {
+      "name": "憩所白花",
+      "condition": "触发灵魂神庙的事件"
+    },
+    "vista": {
+      "name": "远景长存",
+      "description": "无时无刻不在欣赏风景",
+      "condition": "在所有的状态下分别前往阳台 (早晨, 白天, 傍晚, 夜晚, 暴风雨)"
+    },
+    "broken_bridge_monster": {
+      "name": "黑水傲游",
+      "description": "孤独地游着",
+      "condition": "在 Psychedelic Farm 上锁的房间中发现游泳的怪物"
+    },
+    "cubic_ruins": {
+      "name": "水没遗迹",
+      "description": "一失足成落汤鸡",
+      "condition": "进入 Cubic Ruins"
+    },
+    "industrial_impact": {
+      "name": "工业撞击",
+      "description": "从噩梦中华丽逃脱",
+      "condition": "抵达 Industrial Tunnels 的出口"
+    },
+    "museum_takeoff": {
+      "name": "起飞",
+      "condition": "在 Museum Tunnel 看飞机起飞"
+    },
+    "midnight_band": {
+      "name": "Midnight Band",
+      "condition": "See the stage in the Midnight Saloon"
+    }
+  },
+  "amillusion": {
+    "calendar": {
+      "name": "四季",
+      "condition": "拜访四个季节下的扉部屋"
+    },
+    "syncopation": {
+      "name": "切分音",
+      "condition": "拜访 Le Jazzy Train Bleu"
+    },
+    "epacse": {
+      "name": "SUDOXE",
+      "condition": "拜访EPACSE发射岛，并把你的船停靠在一座码头处"
+    },
+    "guitar": {
+      "name": "头发金属乐",
+      "condition": "在 Danae's Bad Hair Day 中，找到并演奏吉他"
+    },
+    "rainbow_screw": {
+      "name": "同类! 同类!",
+      "condition": "在彩虹螺丝地板中使用螺丝效果钻入地面"
+    },
+    "sequoia_wheel_loss": {
+      "name": "庄家不赔",
+      "description": "支付赌筹吧",
+      "condition": "在 Sequoia Lucky Forest wheels 摇出最低奖，并被抓住"
+    },
+    "residential_corridor_balcony": {
+      "name": "工业时代的黎明",
+      "description": "风光甚好，咳。",
+      "condition": "站在 Residential Corridor World 的屋顶眺望"
+    },
+    "pouleine_ride": {
+      "name": "高鸡动性载具",
+      "description": "骑着小鸡去沙滩！",
+      "condition": "触发 Pouleine Ride 事件"
+    },
+    "midnight_mall_haircut": {
+      "name": "洗！剪！吹！",
+      "description": "跟上潮流！",
+      "condition": "用 Cougar key 在 Midnight Mall Hairdresser 剪个头"
+    }
+  },
+  "muma": {
+    "unicorn_slayer": {
+      "name": "独角兽猎人",
+      "description": "听说在大风天这么做有几率获得风筝",
+      "condition": "击败 Unicorn World 中的所有独角兽"
+    },
+    "depressed_meal": {
+      "name": "不快之餐",
+      "description": "它需要一个拥抱……",
+      "condition": "与悲伤的姜饼人对话"
+    },
+    "magic_trick": {
+      "name": "变戏法",
+      "description": "Voilà!",
+      "condition": "追上 Magic Box，看看里面有什么"
+    },
+    "platform_pro": {
+      "name": "跑酷达人",
+      "description": "Quote 表示肯定",
+      "condition": "无伤通过 Cave area"
+    },
+    "moon_bunny": {
+      "name": "来时兔满月",
+      "description": "A bunch of baby bunnies, send 'em to the moon.",
+      "condition": "让 The Moon 兔口膨胀"
+    },
+    "puzzle_coin": {
+      "name": "解谜者",
+      "condition": "在 Puzzle 中获得 Puzzle Coin"
+    },
+    "escape_chicago": {
+      "name": "逃离城市",
+      "description": "Follow me, set me free, trust me and we will escape from the city.",
+      "condition": "通过 the Basement，成功逃离 Chicago"
+    },
+    "empty_museum": {
+      "name": "博物馆",
+      "description": "就差展品了",
+      "condition": "进入 Empty Museum"
+    },
+    "crystal_reflection": {
+      "name": "反射",
+      "description": "凝视水晶，水晶给予回应。",
+      "condition": "在 Blue Flow 观看Muma的倒影"
+    },
+    "new_enemy": {
+      "name": "遭遇战",
+      "description": "新的挑战者出现了！ ",
+      "condition": "在 Orb 激怒 Black Rabbit"
+    },
+    "worst_thief": {
+      "name": "该转行了",
+      "condition": "在监狱里将 \"Caught\" 指数满点"
+    },
+    "true_sunset": {
+      "name": "真日出",
+      "description": "再也不信这个世界了",
+      "condition": "在 Sunset 见证 True Sunset"
+    },
+    "erased_muma": {
+      "name": "新徽章",
+      "description": "帮Muma画上圆满的句号。",
+      "condition": "帮Muma画上圆满的句号。"
+    },
+    "experiment_tubes": {
+      "name": "实验",
+      "description": "都是谁啊？",
+      "condition": "为实验室的所有试管注满水"
+    },
+    "satiated_rabbit": {
+      "name": "Om nom nom",
+      "description": "Not a carrot in the world!",
+      "condition": "Feed the rabbit in the Isle of Seasons"
+    },
+    "sleep_paralysis_mare": {
+      "name": "Mare",
+      "description": "\"Sleep paralysis is a state, during waking up or falling asleep, in which one is conscious but is unable to move or speak.\"",
+      "condition": "Sit on the boy’s chest in his bedroom."
+    },
+    "rainbow_maze": {
+      "name": "Maze Maestro",
+      "condition": "Reach the final floor of the Rainbow Labyrinth."
+    }
+  }
+}

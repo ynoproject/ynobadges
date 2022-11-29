@@ -1,0 +1,2351 @@
+{
+  "ynoproject": {
+    "badge_amulet": {
+      "name": "Амулет Собирателя значков",
+      "description": "Он меняется в соответствие с вашей темой.",
+      "condition": "Соберите не менее 100 значков (Скрытые не учитываются)."
+    },
+    "badge_amulet_2": {
+      "name": "Амулет Собирателя значков EX",
+      "description": "Он меняется в соответствие с вашей темой.",
+      "condition": "Соберите не менее 500 значков (Скрытые не учитываются)."
+    },
+    "medal_bronze": {
+      "name": "Бронзовая медаль",
+      "condition": "Наберите 100-е место или выше в рейтинге любой категории."
+    },
+    "medal_silver": {
+      "name": "Серебряная медаль",
+      "condition": "Achieve 30-е место или выше в рейтинге любой категории."
+    },
+    "medal_gold": {
+      "name": "Золотая медаль",
+      "condition": "Achieve 10-е место или выше в рейтинге любой категории."
+    },
+    "medal_platinum": {
+      "name": "Платиновая медаль",
+      "condition": "Наберите 3-е место или выше в рейтинге любой категории."
+    },
+    "medal_diamond": {
+      "name": "Алмазная медаль",
+      "condition": "Наберите 1-е место в рейтинге любой категории."
+    },
+    "translator": {
+      "name": "Переводчик",
+      "condition": "Внесите значительный вклад в перевод YNOproject."
+    },
+    "compuss": {
+      "name": "Compuss",
+      "description": "Система навигации нового поколения.",
+      "condition": "Будьте Catmat."
+    },
+    "miau": {
+      "name": "Значок Miau",
+      "condition": "Будьте Miau."
+    },
+    "cookie": {
+      "name": "Куки",
+      "description": "Это - Чихуахуа Куки.",
+      "condition": "Будьте Sam."
+    },
+    "ynfg_dev": {
+      "name": "Разработчик Фан-игры",
+      "description": "Зарезервированно для разработчиков фан-игр, что размещены на YNOproject.",
+      "condition": "Разработать фан-игру или добавить карту для таковой, что хостится на YNOproject."
+    },
+    "2kki_dev": {
+      "name": "Разработчик Yume 2kki",
+      "description": "Зарезервированно для Разработчиков Yume 2kki.",
+      "condition": "Добавьте карту в Yume 2kki."
+    },
+    "zolotl": {
+      "name": "O Réquiem",
+      "description": "No final que sobrou foi você, sua propria sombra e um infinito deserto com um ardente sol, do pó ao pó\n\n- O Número 12 \"Réquiem\" do codinome Xolotl",
+      "condition": "Будьте Zolotl."
+    },
+    "novaflow": {
+      "name": "NovAflow",
+      "condition": "Be NovAflow"
+    }
+  },
+  "yume": {
+    "kalimba": {
+      "name": "КАЛИМБА",
+      "condition": "Включите телеканал КАЛИМБА."
+    },
+    "a_r_m": {
+      "name": "Древние пляски",
+      "condition": "Посмотрите на Вечеринку Ацтекской обезьяны."
+    },
+    "boombox": {
+      "name": "Бумбокс",
+      "condition": "Пронаблюдайте за вечеринкой Торингенов."
+    },
+    "takofuusen": {
+      "name": "Такофуусен",
+      "condition": "Встретьтесь с Такофуусеном в Белой пустыне."
+    },
+    "uboa": {
+      "name": "Убоа",
+      "condition": "Попадитесь в ловушку Убоа."
+    },
+    "blackcat": {
+      "name": "Чёрный кот",
+      "condition": "Полетайте на метле с крыши здания."
+    },
+    "face": {
+      "name": "КьюуКьюу-кун",
+      "description": "Не хотите-ли Массаж?",
+      "condition": "Спровоцируйте событие c ЛИЦОМ."
+    },
+    "glitch": {
+      "name": "�� �������",
+      "description": "R̵̫̣͎͊̉ķ̶͓̺̓̃̚M̷̧̜̮̒̿͂g̴̺̏͘Ŗ̵̝̲͛̉̎̄Ḫ̶̲̣̤̾V̴̢͚͔̘́u̵̳̽͆̑͝Z̷͇̈́̿̇Ẇ̵̬̼͉̪̓͊9̸̧̟̈̔̆ṳ̶̞̑̒",
+      "condition": "Спровоцируйте глюк в Подземелье FC."
+    },
+    "mars": {
+      "name": "Марс-сан",
+      "condition": "Посетите Марс-сана."
+    },
+    "organoid": {
+      "name": "Не убежишь",
+      "condition": "Убейте Органоида."
+    },
+    "seahorse": {
+      "name": "Морской Конёк",
+      "description": "Это не очень-то хорошо...",
+      "condition": "Убейте Морского конька в Барачном селе."
+    },
+    "melt": {
+      "name": "Лужо-цуки",
+      "condition": "Посмотрите как Мадоцуки тает в огне, будучи снеговиком."
+    },
+    "cube_guru": {
+      "name": "Куб Гуру",
+      "description": "Оно знает...",
+      "condition": "Дотроньтесь до Куба-гуру в Мире Мельниц."
+    },
+    "nekoin": {
+      "name": "Некоин",
+      "condition": "Дотроньтесь до Некоина и имейте 10000 Йен или более."
+    },
+    "nekoin_gold": {
+      "name": "Золотой Некоин",
+      "condition": "Дотроньтесь до Некоина и имейте 50000 Йен или более."
+    },
+    "henkei": {
+      "name": "Хенкей Шита",
+      "condition": "Попадите на Тропу следов через красную Хенкей Шита, что находится в Аду."
+    },
+    "tokuto": {
+      "name": "Токуто-кун",
+      "description": "Опрокиньте Токуто-куна",
+      "condition": "Дотроньтесь до Токуто-куна в его комнате в ТРЦ."
+    },
+    "closet": {
+      "name": "Твой шкаф",
+      "description": "Секрет, что может быть раскрыт лишь силой...",
+      "condition": "Попадите в Малый ад из Мира чисел."
+    },
+    "nasu": {
+      "name": "NASU",
+      "condition": "Наберите 1000 очков в NASU."
+    },
+    "nasu_pink": {
+      "name": "Розовый NASU",
+      "condition": "Наберите 2000 очков в NASU."
+    },
+    "nasu_gold": {
+      "name": "Золотой NASU",
+      "condition": "Наберите 3000 очков в NASU."
+    },
+    "fc_demon": {
+      "name": "Демон FC",
+      "description": "*Чмок*",
+      "condition": "Дотроньтесь до Демона FC в Мире FC Б."
+    },
+    "eye_box": {
+      "name": "Коробка глаз",
+      "condition": "Бейте ножом Коробку с глазом, пока вас не перенесёт в другую локацию."
+    },
+    "monoko": {
+      "name": "Моноко из Белой пустыни",
+      "condition": "Дотроньтесь до Моноко с эффектом Светофора."
+    },
+    "a": {
+      "name": "Крик пойманого",
+      "condition": "Встаньте на あ в Мире чисел."
+    },
+    "eye": {
+      "name": "Глаз пойманого",
+      "condition": "Встаньте на глаз в Мире чисел."
+    },
+    "bottles": {
+      "name": "Напитки для здоровья",
+      "condition": "Найдите все 3 Торговых автомата и купите в каждом из них напитки."
+    },
+    "mado": {
+      "name": "Окно",
+      "condition": "Посмотрите Концовку."
+    },
+    "monoe": {
+      "name": "Моноэ из Белой пустыни",
+      "description": "Вот ты её видишь, а вот уже нет.",
+      "condition": "Потеряйте Моноэ из виду в Белой пустыне."
+    },
+    "teleport_bros": {
+      "name": "Варпо и Лупи",
+      "condition": "Используйте эффект Кошки рядом и с Варпи, и с Лупи в Лабиринте телепортов."
+    },
+    "poniko_cat": {
+      "name": "Сигнялизирование",
+      "description": "Ааа!! Так мило!!",
+      "condition": "Используйте эффект Кошки рядом с Понико."
+    },
+    "white_tulip": {
+      "name": "Белый тюльпан",
+      "description": "Простой, выпуклый.",
+      "condition": "Войдите мимо белых цветов между Небесным садом и Миром призраков."
+    },
+    "spaceship_crash_event": {
+      "name": "Н-Л-Ой-Ёй",
+      "description": "Масада, у нас проблемы!",
+      "condition": "Посмотрите событие падения в Шаттле Масады."
+    },
+    "cube_guru_seat": {
+      "name": "Занято",
+      "description": "Украдите сидение у Куба-гуру в Мире Мельниц.",
+      "condition": "Сдвиньте Куб-гуру с его сидения, а потом сядьте туда сами."
+    },
+    "meow_ufo": {
+      "name": "Они похожи на Ме-Ня~!",
+      "description": "Пр-р-рекрасняя встреча!",
+      "condition": "Призовите НЛО на Марсе при помощи эффекта Кошки."
+    }
+  },
+  "2kki": {
+    "mono": {
+      "name": "Медаль туриста",
+      "condition": "Достигните продвинутого ранга в Походах."
+    },
+    "bronze": {
+      "name": "Бронзовая медаль туриста",
+      "condition": "Достигните бронзового ранга в Походах."
+    },
+    "silver": {
+      "name": "Серебряная медаль туриста",
+      "condition": "Достигните серебрянного ранга в Походах."
+    },
+    "gold": {
+      "name": "Золотая медаль туриста",
+      "condition": "Достигните золотого ранга в Походах."
+    },
+    "platinum": {
+      "name": "Платиновая медаль туриста",
+      "condition": "Достигните платинового ранга в Походах."
+    },
+    "diamond": {
+      "name": "Алмазная медаль туриста",
+      "condition": "Достигните алмазного ранга в Походах."
+    },
+    "compass": {
+      "name": "Медаль путешественника",
+      "condition": "Совершите походы в 30% доступных локаций."
+    },
+    "compass_bronze": {
+      "name": "Бронзовая медаль путешественника",
+      "condition": "Совершите походы в 50% доступных локаций."
+    },
+    "compass_silver": {
+      "name": "Серебряная медаль путешественника",
+      "condition": "Совершите походы в 70% доступных локаций."
+    },
+    "compass_gold": {
+      "name": "Золотая медаль путешественника",
+      "condition": "Совершите походы в 80% доступных локаций."
+    },
+    "compass_platinum": {
+      "name": "Платиновая медаль путешественника",
+      "condition": "Совершите походы в 90% доступных локаций."
+    },
+    "compass_diamond": {
+      "name": "Алмазная медаль путешественника",
+      "condition": "Совершите походы в 95% доступных локаций."
+    },
+    "vm": {
+      "name": "Искатель торговых автоматов",
+      "condition": "Завершите 5 походов Искателя торговых автоматов."
+    },
+    "vm_bronze": {
+      "name": "Бронзовый искатель торговых автоматов",
+      "condition": "Завершите 10 походов Искателя торговых автоматов."
+    },
+    "vm_silver": {
+      "name": "Серебряный искатель торговых автоматов",
+      "condition": "Завершите 25 походов Искателя торговых автоматов."
+    },
+    "vm_gold": {
+      "name": "Золотой искатель торговых автоматов",
+      "condition": "Завершите 50 походов Искателя торговых автоматов."
+    },
+    "vm_platinum": {
+      "name": "Платиновый искатель торговых автоматов",
+      "condition": "Завершите 100 походов Искателя торговых автоматов."
+    },
+    "vm_diamond": {
+      "name": "Алмазный Искатель Торговых Автоматов",
+      "condition": "Завершите 200 походов Искателя торговых автоматов."
+    },
+    "exp_amulet": {
+      "name": "Амулет путешественника",
+      "description": "Он адаптируется к вашему окружению.",
+      "condition": "Совершите в общей сложности 250 походов."
+    },
+    "exp_amulet_2": {
+      "name": "Амулет путешественника EX",
+      "description": "Он адаптируется к вашему окружению.",
+      "condition": "Совершите в общей сложности 1000 походов."
+    },
+    "crushed": {
+      "name": "Пресс",
+      "condition": "Посмотрите, как расплющит Уроцуки."
+    },
+    "dogboa": {
+      "name": "Собоака",
+      "condition": "Увидьте хотя-бы мельком Собоаку в Sky Kingdom."
+    },
+    "haunted_mirror": {
+      "name": "Проклятое зеркало",
+      "condition": "Просмотрите событие 'Женщина в зеркале' в Ocean Storehouse."
+    },
+    "neon_highway": {
+      "name": "Неоновый сувенир",
+      "condition": "Доберитесь до Neon Highway."
+    },
+    "crying_eyes": {
+      "name": "100 Слёз",
+      "description": "Они всё видели.",
+      "condition": "Используйте Глаз-Бомбу в Crying Eyes Cave в Cloudy World."
+    },
+    "black_king": {
+      "name": "Чёрный король",
+      "condition": "Взойдите на шахматную доску в Chess World."
+    },
+    "silver_whale": {
+      "name": "Серебряный океан",
+      "condition": "Найдите кита в Silver Mansion."
+    },
+    "obentou": {
+      "name": "Обенто",
+      "description": "おべんとう",
+      "condition": "Попадите в Obentou World."
+    },
+    "rainbow_paint": {
+      "name": "Дорога к радуге",
+      "condition": "Завершите картину в Pencil World."
+    },
+    "rainbow_picture": {
+      "name": "Радужная картинка",
+      "condition": "Войдите в разноцветные Private Rooms."
+    },
+    "compass_28": {
+      "name": "28",
+      "description": "２８"
+    },
+    "blue_orb": {
+      "name": "Синий шар",
+      "condition": "Побывайте в Neon Candle World."
+    },
+    "aojiru": {
+      "name": "Аодзиру",
+      "condition": "Навестите Аодзиру в Hospital."
+    },
+    "zalgo": {
+      "name": "Горе Залго",
+      "condition": "Доберитесь до комнаты, доступной из события Залго в Magnet Room."
+    },
+    "lotus_girl": {
+      "name": "Лотосовая девочка",
+      "condition": "Используя эффект Хвостиков, найдите и дотроньтесь до девочки, что отправляет вас в Lotus Park."
+    },
+    "aooh": {
+      "name": "Взор Аооха",
+      "description": ";-82)77C%33,C)1)6+)C*631C&)=32(C-2C%,3+)/37C,397)",
+      "condition": "Спровоцируйте событие Аооха в Ahogeko's House"
+    },
+    "snow_fairy": {
+      "name": "Снежная фея",
+      "description": "Улыбающаяся фея.",
+      "condition": "Дотроньтесь до определённой феи."
+    },
+    "parasite": {
+      "name": "Паразитический",
+      "condition": "Распилите тестовую трубу в Parasite Laboratory."
+    },
+    "operator_cyborg": {
+      "name": "Ржавая память",
+      "condition": "Поговорите с Киборгом-Оператором в Rusty Urban Complex."
+    },
+    "mushroom": {
+      "name": "Переливающийся гриб",
+      "condition": "Освободите Грибную девочку из каменной тюрьмы."
+    },
+    "hakoko": {
+      "name": "Хакоко",
+      "condition": "Поговорите с Хакоко в Eye Shop"
+    },
+    "hakoko_prime": {
+      "name": "Хакоко прайм",
+      "condition": "Доберитесь и поговорите с Хакоко за {TIME} или быстрее в Режиме на Время."
+    },
+    "lotus_waters_lesser": {
+      "name": "Водяные цветы",
+      "description": "Цветы в уединённых водах.",
+      "condition": "Доберитесь до Lotus Waters."
+    },
+    "lotus_waters": {
+      "name": "Расцвет водяных цветов",
+      "description": "Водяные цветы во всей своей красе.",
+      "condition": "Доберитесь до Lotus Waters за {TIME} или быстрее в Режиме на Время."
+    },
+    "fabric_planet": {
+      "name": "Лоскутная планета",
+      "condition": "Доберитесь до Лоскутной планеты, что находится на Moonview Lane."
+    },
+    "fabric_galaxy": {
+      "name": "Лоскутная вселенная",
+      "condition": "Доберитесь до Лоскутной планеты на Moonview Lane за {TIME} или быстрее в Режиме на Время."
+    },
+    "monochrome_stairs_lesser": {
+      "name": "Бесцветные ступени",
+      "condition": "Доберитесь до Static Labyrinth."
+    },
+    "monochrome_stairs": {
+      "name": "Б̸е̴с̴ц̵в̵е̵т̸н̵ы̶е̵ ̵ст̸у̵п̶е̵н̴и̷",
+      "condition": "Доберитесь до Static Labyrinth за {TIME} или быстрее в Режиме на Время."
+    },
+    "lavender_lesser": {
+      "name": "Фиолетовый камень",
+      "condition": "Доберитесь до Lavender Waters."
+    },
+    "lavender": {
+      "name": "Сиреневый камень",
+      "condition": "Доберитесь до Lavender Waters за {TIME} или быстрее в Режиме на Время."
+    },
+    "butterfly_lesser": {
+      "name": "Брошь закатной бабочки",
+      "condition": "Доберитесь до Lunar Sanctuary."
+    },
+    "butterfly": {
+      "name": "Брошь сумеречной бабочки",
+      "condition": "Доберитесь до Lunar Sanctuary за {TIME} или быстрее в Режиме на Время."
+    },
+    "streetlight": {
+      "name": "Мрачный фонарь",
+      "condition": "Доберитесь до Streetlight Garden."
+    },
+    "magical_lesser": {
+      "name": "Кики",
+      "condition": "Доберитесь до Magical Passage."
+    },
+    "magical": {
+      "name": "Мерлин",
+      "condition": "Доберитесь до Magical Passage за {TIME} или быстрее в Режиме на Время."
+    },
+    "voxels": {
+      "name": "Волшебные воксели",
+      "condition": "Освойте правила мира снов и доберитесь до Voxel Island."
+    },
+    "digital_rose": {
+      "name": "Цифровая роза",
+      "condition": "Заставьте цвести все серые розы в Neon Caves."
+    },
+    "roku": {
+      "name": "Психоделический народ",
+      "condition": "Посетите Underground Lake, Cliffside Woods и Radiant Stones Pathway."
+    },
+    "singularity": {
+      "name": "Маленькая сингулярность",
+      "condition": "Дотроньтесь до Всех 5 Девочек-чёрных дыр в мирах Río. Если вы это уже делали, просто посетите все места, где они должны быть."
+    },
+    "circus_lesser": {
+      "name": "Побег с выступления",
+      "condition": "Завершите событие Верховной жрицы."
+    },
+    "circus": {
+      "name": "Величайшее выступление",
+      "condition": "Завершите событие Верховной жрицы, полностью избежав поимки."
+    },
+    "snow_queen": {
+      "name": "Снежная королева",
+      "condition": "Соберите 50 снежинок."
+    },
+    "portrait": {
+      "name": "Портрет",
+      "condition": "Завершите портрет в Lorn Tower."
+    },
+    "vending_machine": {
+      "name": "Торговый автомат",
+      "condition": "Посетите и завершите Snack Gallery."
+    },
+    "piggy_bank": {
+      "name": "Серебряный участник",
+      "description": "Богатство.",
+      "condition": "Внесите 10000夢 в Dream Bank."
+    },
+    "piggy_bank_gold": {
+      "name": "Золотой участник",
+      "description": "Огромное богатство.",
+      "condition": "Внесите 100000夢 в Dream Bank."
+    },
+    "piggy_bank_vip": {
+      "name": "Миллионер",
+      "description": "V.I.P.",
+      "condition": "Внесите 999999夢 в Dream Bank."
+    },
+    "clover": {
+      "name": "Розово-красный клевер",
+      "condition": "Феноменальное везение..."
+    },
+    "pacifist": {
+      "name": "Пацифист",
+      "description": "Никто не должен погибнуть.",
+      "condition": "Доберитесь до Концовки ?, никого не убив."
+    },
+    "ticket": {
+      "name": "Билетик",
+      "description": "За горизонт!",
+      "condition": "Доберитесь до Концовки №4."
+    },
+    "graffiti": {
+      "name": "Удалённейшая",
+      "description": "Она спит по сей день...",
+      "condition": "Просмотрите все концовки и доберитесь до самой дальней комнаты мира снов Уроцуки."
+    },
+    "rby": {
+      "name": "R.B.Y.",
+      "condition": "Наберите не менее 500 очков в Mini Game B (Оригинальная Версия)"
+    },
+    "chocolate_tower": {
+      "name": "Сладкий монолит",
+      "condition": "Войдите в Chocolate Tower."
+    },
+    "vomiting": {
+      "name": "Выташнивающие",
+      "condition": "Доберитесь до Flesh Paths World."
+    },
+    "hanako": {
+      "name": "Ханако",
+      "condition": "Встретьте Ханако в Комнате лотосовой лампы на Misty Bridges."
+    },
+    "oni_musume": {
+      "name": "Они Мусуме",
+      "description": "Небольшая недвижимая библиотека.",
+      "condition": "Дотроньтесь до Они Мусуме в Dark Room, пока она читает."
+    },
+    "deserted_space": {
+      "name": "Опустевшее место",
+      "description": "Неплохое место чтобы передохнуть.",
+      "condition": "Найдите секретную комнату в Ruined Garden."
+    },
+    "moai_bro": {
+      "name": "Братан Моай",
+      "condition": "Войдите в Тюрьму братана Моая в Sea of Clouds."
+    },
+    "hebiko": {
+      "name": "Змеедевочка",
+      "condition": "Дотроньтесь до Хебико в Blue Forest."
+    },
+    "book": {
+      "name": "Настоящий книжный червь",
+      "condition": "Посетите Library, Infinite Library и Mystery Library."
+    },
+    "cosmic_cube": {
+      "name": "Космический куб",
+      "condition": "Доберитесь до Cosmic Cube World."
+    },
+    "firehead": {
+      "name": "Огнеголовый",
+      "description": "Пламя вечеринки не затухнет даже в глубинах моря.",
+      "condition": "Спровоцируйте событие Морского диско в Aquatic Cube City."
+    },
+    "peak": {
+      "name": "Облегчение",
+      "description": "Средь теней и ужасов леса, синева вновь расцветает.",
+      "condition": "Посмотрите событие На вершине в Twisted Thickets."
+    },
+    "rusted_factory_lesser": {
+      "name": "Грязные шестерни",
+      "description": "Узнайте секреты Rusted Factory.",
+      "condition": "Доберитесь до последней комнаты Rusted Factory."
+    },
+    "rusted_factory": {
+      "name": "Испорченные механизмы",
+      "condition": "Доберитесь до последний комнаты Rusted Factory за {TIME} или быстрее в Режиме на Время."
+    },
+    "sea_lily": {
+      "name": "Радужная лилия",
+      "condition": "Доберитесь до Sea Lily World."
+    },
+    "noranyan": {
+      "name": "Норанян",
+      "description": "Нянямэ нянядзююняня-до но няраби де някуняку иняняку няняан нянядай няняку нярабете няганягаме.",
+      "condition": "Поговорите с Нораняном в Sofa Room."
+    },
+    "cheese": {
+      "name": "Обитатели сырного дома",
+      "condition": "Посетите Сырный дом в Toy World."
+    },
+    "heart_jar": {
+      "name": "Хрупкая любовь",
+      "condition": "Спровоцируйте безвременную кончину доктора в Shop Ruins."
+    },
+    "flooded_garden": {
+      "name": "Затопленный сад",
+      "condition": "Доберитесь до Цветочной воронки в Flooded Dungeon."
+    },
+    "biplane": {
+      "name": "Биплан",
+      "description": "Взлетаем!",
+      "condition": "Спровоцируйте событие Полёта в Urotsuki's Dream Apartments."
+    },
+    "rainy_docks_girl": {
+      "name": "Обитатель острова снов",
+      "condition": "С эффектом Хвостиков, найдите зелёноволосую девочку в Rainy Docks."
+    },
+    "grass_world": {
+      "name": "Мир травы",
+      "condition": "Доберитесь до Grass World."
+    },
+    "flame_of_faith": {
+      "name": "Пламя веры",
+      "condition": "Ослабьте огонь в Tribe Settlement."
+    },
+    "dark_nexus": {
+      "name": "Тёмный Фронтир",
+      "description": "Глубочайший нексус...",
+      "condition": "Войдите в Dark Nexus."
+    },
+    "white_creature": {
+      "name": "Деление на ноль",
+      "condition": "Дотроньтесь до белого слюнявого существа в Apartments."
+    },
+    "data_stream": {
+      "name": "Цифровой двойник",
+      "description": "Выглядит знакомо...",
+      "condition": "Посетите Data Stream."
+    },
+    "evil_jihanki": {
+      "name": "Машинное воровство",
+      "description": "Никаких закусок тебе.",
+      "condition": "Будьте обмануты Торговым автоматом в Mushroom World."
+    },
+    "crown_of_spirits": {
+      "name": "Корона духов",
+      "condition": "Войдите в комнату в конце шоссе в Spirit Capital."
+    },
+    "drunk": {
+      "name": "Масута",
+      "description": "Вам не кажется, что вы малость перебрали?",
+      "condition": "Напейтесь до отключки в Подземном баре в Japan Town."
+    },
+    "paradise": {
+      "name": "Рай",
+      "description": "Привет, кит.",
+      "condition": "Войдите в Paradise."
+    },
+    "effects_speedrun": {
+      "name": "Мне через час на работу, но мне надо пройти 2kki!",
+      "condition": "Проснитесь со всеми эффектами сброшенными за {TIME} или быстрее в Режиме на Время."
+    },
+    "sweets_musume": {
+      "name": "Сладости?!",
+      "condition": "Взаимодействуйте со Сладкой Мусуме используя эффект Торта."
+    },
+    "smile": {
+      "name": "Улыбающийся мир",
+      "description": "Улыбнитесь!",
+      "condition": "Войдите в дом в Smiling Trees World."
+    },
+    "glitch_road": {
+      "name": "Битая дорога",
+      "condition": "Доберитесь до конца NES Glitch Tunnel."
+    },
+    "freezer": {
+      "name": "Морозный ожог",
+      "condition": "Войдите в Морозильник в Refrigerator Tower."
+    },
+    "hydrangea_skull": {
+      "name": "Череп с гортензией",
+      "condition": "Используйте Очки или Надгробие, чтобы увидеть обитателей Ancient Hydrangea City."
+    },
+    "originator_garden": {
+      "name": "Мифы и истоки",
+      "condition": "Войдите в основную зону Originator Garden."
+    },
+    "bsides": {
+      "name": "Изнанки",
+      "condition": "Посетите Downfall Garden B, Sparkling Dimension B, Opal Ruins B и Fuchsia Suburbs B."
+    },
+    "survivor": {
+      "name": "Выживший",
+      "condition": "Найдите и дотроньтесь до единственного не-Токаге в Evergreen Woods."
+    },
+    "medic_bag": {
+      "name": "Сумка врача",
+      "condition": "С эффектом Гипса, дайте доктору в Shop Ruins вылечить вас."
+    },
+    "popula_toru": {
+      "name": "Попула-Тору",
+      "condition": "Дотроньтесь до Попула-Тору в 3-х разных состояниях (проснулось, спит, смотрит вниз, лежит)."
+    },
+    "glitch_sushi": {
+      "name": "Глючащие cуши",
+      "condition": "Войдите в постройку с неоновой вывеской на Highway."
+    },
+    "red_blob": {
+      "name": "Это ловушка!",
+      "description": "Вас обманули.",
+      "condition": "Дотроньтесь до красного сгустка на Despair Road."
+    },
+    "puni": {
+      "name": "Пять Пуни",
+      "description": "О, как мило.",
+      "condition": "Превратитесь в Пуни в Dream Park."
+    },
+    "mechanical_heart": {
+      "name": "Конец",
+      "condition": "Посмотрите на Выступление механического сердца в Chainlink Lees."
+    },
+    "eye_window": {
+      "name": "Глаза видят тебя",
+      "description": "Доберитесь до Visine World долгим путём.",
+      "condition": "Попадите в Visine World из Garden of Treachery."
+    },
+    "scenery": {
+      "name": "Далёкий вид",
+      "description": "Заслуженная награда после долгого путешествия.",
+      "condition": "Узрите далёкий вид в Foliage Estate."
+    },
+    "sunken_city": {
+      "name": "Затонувшая постройка",
+      "condition": "Доберитесь до Sunken City."
+    },
+    "crocodile_dog": {
+      "name": "Вечеринка в саду",
+      "description": "Вечеринка собак-крокодилов!",
+      "condition": "Попадите на Вечеринку монстров в Garden World."
+    },
+    "celestial": {
+      "name": "Небесный",
+      "condition": "Войдите в Star Building в Constellation World."
+    },
+    "planet": {
+      "name": "Межпланетарное путешествие",
+      "condition": "Посетите Dream Mars и Dream Venus."
+    },
+    "opal_archives": {
+      "name": "Блестящая академия",
+      "condition": "Доберитесь до Opal Archives."
+    },
+    "unamused": {
+      "name": "Невесёлое",
+      "description": "Никаких мальчиков.",
+      "condition": "Раздражайте фиолетовое существо с Fantasy Isle эффектами Мальчика или Гакурана."
+    },
+    "undersea_artifact": {
+      "name": "Подводный артефакт",
+      "condition": "Войдите в Undersea Temple."
+    },
+    "acrophobia": {
+      "name": "Акрофобия",
+      "description": "01001000 01100101 01101100 01101100 01101111",
+      "condition": "Переключите время на ночь в Industrial Towers, провзаимодействовав с Человеком-Глюком, надев кроличьи уши."
+    },
+    "dream_fishing": {
+      "name": "Рыбалка во сне",
+      "description": "Это выглядит необычно.",
+      "condition": "Посетите Ocean Subsurface, Rotten Fish Lake, Fish World, Tuna Desert и Sushi World."
+    },
+    "decrepit_smile": {
+      "name": "Вялая улыбка",
+      "condition": "Дотроньтесь с эффектом Надгробия до Теневой леди в Decrepit Village."
+    },
+    "tv_room": {
+      "name": "Экран телевизора",
+      "description": "Какой канал вы сегодня будете смотреть?",
+      "condition": "Войдите в TV Room на Highway."
+    },
+    "nostalgic_house": {
+      "name": "Дом спящей",
+      "condition": "Войдите в Nostalgic House."
+    },
+    "wind_turbine_plateau": {
+      "name": "Память ветрянного плато",
+      "condition": "Найдите башню на Wind Turbine Plateau."
+    },
+    "strange_being": {
+      "name": "Странное существо",
+      "condition": "Напугайте странное металлическое существо Бензопилой на Polluted Swamp."
+    },
+    "01": {
+      "name": "01-Кун",
+      "condition": "Поговорите с 01-Куном в Digital Forest, Bright Forest, Fluorescent Halls, Winter Valley и Corrupted Love World."
+    },
+    "tetrapod": {
+      "name": "Тетрапод",
+      "condition": "Посетите все зоны Realistic Beach."
+    },
+    "stellar_graveyard": {
+      "name": "Звёздная гробница",
+      "description": "Кладбище, затерянное в космосе.",
+      "condition": "Доберитесь до Stellar Mausoleum."
+    },
+    "cat_cemetary": {
+      "name": "Вечная любовь",
+      "description": "Настоящей любви никогда не суждено погибнуть.",
+      "condition": "Используйте Очки возле Серого кота на скамейке в Cat Cemetary."
+    },
+    "huyure": {
+      "name": "Хьюре-чан",
+      "condition": "Посетите Хьюре-чан на Dream Beach."
+    },
+    "lobster": {
+      "name": "Дружелюбный лобстер",
+      "condition": "Войдите в бассейн в Flooded Baths."
+    },
+    "chandelier": {
+      "name": "Старомодный канделябр",
+      "condition": "Доберитесь до Travel Hotel."
+    },
+    "red_rock_caves": {
+      "name": "Сны роз",
+      "condition": "Завершите событие Сна роз в Red Rock Caves."
+    },
+    "rainbow_bird": {
+      "name": "Птица водопада",
+      "condition": "Используйте эффект Радуги на Lost Creek, чтобы вызвать птицу из Nocturnal Grove и взглянуть на неё."
+    },
+    "paint": {
+      "name": "Вихрь красок",
+      "condition": "Завершите событие комнаты со скульптурой в Graveyard World."
+    },
+    "odorika": {
+      "name": "Танец фонарей",
+      "description": "Её ритм неплох!",
+      "condition": "Спровоцируйте полноэкранное событие танца Одорики эффектом Жрицы."
+    },
+    "akama": {
+      "name": "Дуэль ведьм",
+      "description": "Маленькая ведьма, огромная сила.",
+      "condition": "Победите Акаму в Jigsaw Puzzle World."
+    },
+    "snow": {
+      "name": "Снежный шар на праздник",
+      "condition": "Пройдите под структурой в Riverside Waste Facility, пока там идёт снег."
+    },
+    "streetlight_scenery": {
+      "name": "Пейзаж с фонарями",
+      "condition": "Доберитесь до конца Submerged Communications Area."
+    },
+    "akako": {
+      "name": "Красно-белая Акако",
+      "condition": "Покажите Акако из White Scarlet Exhibition все эффекты, что ей понравятся."
+    },
+    "isometry": {
+      "name": "Изометрия",
+      "condition": "Посетите все зоны Isometry World."
+    },
+    "bowling": {
+      "name": "Страйк!",
+      "condition": "Увернитесь ото всех Боулинговых Парней в Bowling Zone и доберитесь до Bowling World."
+    },
+    "jade": {
+      "name": "Нефритовое небо",
+      "description": "Нефритовые жители и нефритовые постройки.",
+      "condition": "Доберитесь до Jade Sky Hamlet."
+    },
+    "sea_star": {
+      "name": "Морская звезда",
+      "description": "Веселье в солнце?",
+      "condition": "Затопите Calcarina Sea."
+    },
+    "alien_cellar": {
+      "name": "Кластер",
+      "condition": "Доберитесь до Alien Cellar."
+    },
+    "sea_monster": {
+      "name": "Властелин 20.180",
+      "condition": "Встретьте морское чудовище в Neon Sea."
+    },
+    "mosenite": {
+      "name": "Деревня Хэйан",
+      "condition": "Доберитесь до Heian Era Village."
+    },
+    "heart": {
+      "name": "Сердце здоровья",
+      "condition": "Наберите 100 Очков-сердец из Торговых автоматов (Выдаётся после пробуждения)."
+    },
+    "heart_2": {
+      "name": "Сердце надежды",
+      "condition": "Наберите 500 Очков-сердец из Торговых автоматов (Выдаётся после пробуждения)."
+    },
+    "heart_3": {
+      "name": "Сердце жизни",
+      "condition": "Наберите 999 Очков-сердец из Торговых автоматов (Выдаётся после пробуждения)."
+    },
+    "square_ruins": {
+      "name": "Память старых руин",
+      "condition": "Найдите старые руины, ведущие в Viridian Wetlands."
+    },
+    "egg": {
+      "name": "Память хроматического гнезда",
+      "condition": "Соберите темы с 8-й по 15-ю, а так-же 25-ю. Если какие-то уже были собраны ранее, вернитесь туда где вы их изначально нашли."
+    },
+    "scared_octopus": {
+      "name": "Напуганный осьминог",
+      "condition": "Используйте эффект Феи, чтобы напугать Тако Отоко в Atlantis."
+    },
+    "mini_town": {
+      "name": "Гигант",
+      "condition": "Войдите в Mini-Town."
+    },
+    "gakuran": {
+      "name": "Странствующий мальчик",
+      "condition": "Поговорите с Гакуран-куном, будучи под эффектом."
+    },
+    "block_person": {
+      "name": "Ходячий блок",
+      "description": "Теперь я - Ходячий блок?!",
+      "condition": "Превратитесь в ходячий блок в Red Brick Maze."
+    },
+    "madotsukis_room": {
+      "name": "Схожесть с оригиналом",
+      "description": "Определённо напоминает какое-то место.",
+      "condition": "Доберитесь до определённой комнаты в Never-Ending Hallway."
+    },
+    "haniwa": {
+      "name": "Танец Ханивы",
+      "description": "Взгляни на неё!",
+      "condition": "Посмотрите событие Танца Ханив в Haniwa Temple."
+    },
+    "snowflake": {
+      "name": "Снежное путешествие",
+      "condition": "Посетите Snowy Village."
+    },
+    "tartaric_abyss_uro": {
+      "name": "Кто-то знакомый",
+      "condition": "Найдите клона Уроцуки в Tartaric Abyss."
+    },
+    "butterfly_lady": {
+      "name": "Леди-бабочка",
+      "description": "Смотри сюда!",
+      "condition": "Войдите в комнату бабочек в Twilight Park."
+    },
+    "ice_cream": {
+      "name": "Три шарика мороженного",
+      "description": "Словно на небесах~",
+      "condition": "Прибудьте в Ice Cream Dream."
+    },
+    "five_guardians": {
+      "name": "Пять стражей",
+      "description": "Её сон продолжается.",
+      "condition": "Посетите всех 5 стражей Dream Park и войдите в Guardians' Temple."
+    },
+    "evil_cube": {
+      "name": "Абсолютное зло",
+      "condition": "Доберитесь до Evil Cube Zone."
+    },
+    "candy": {
+      "name": "Сахар, сахар",
+      "description": "Плохо для зубов.",
+      "condition": "Посетите следующие локации, связанные со сладостями: Chocolate World, Cutlery World, Sugar World (в т.ч. Sugary Depths), Candy Cane Fields, Ice Cream Dream, Cube of Sweets, Chocolate Tower и Dessert Fields (главная зона)."
+    },
+    "sunrise_drink": {
+      "name": "Напиток цвета рассвета",
+      "description": "Смесь тёплого цвета, напоминающего утреннее небо.",
+      "condition": "Посетите все бары в игре в следующих локациях: Japan Town, The Baddies Bar, Eyeball Archives, Cyber Bar, Cocktail Lounge, Aquamarine Cave, Spaceship, Oriental Pub и Water Reclamation Facility."
+    },
+    "wavyup": {
+      "name": "Лицом к лицу со Смертью",
+      "description": "Она была полна РЕШИМОСТИ.",
+      "condition": "Пройдите миниигру ↑V↑."
+    },
+    "rune": {
+      "name": "Руна с маной",
+      "description": "Руна, что соединяет миры снов.",
+      "condition": "Посетите следующие локации: Intestines Maze, Stone World, Urban Street Area, The Docks, Magnet Room (Zalgo's Room?), Mushroom World (White Mushroom Field), Crimson Labyrinth (Red Mountains), Color Cubes World, Octagonal Grid Hub (Broken Passage), Obentou World, Entropy Dungeon и Rainbow Towers."
+    },
+    "poker": {
+      "name": "Азартная зона",
+      "description": "В таких играх можно только проигрывать.",
+      "condition": "Войдите в Зону Покера на Despair Road."
+    },
+    "rainbow_ruins": {
+      "name": "Радужная брошь",
+      "condition": "Доберитесь до Радужных руин в Bright Forest."
+    },
+    "yukata": {
+      "name": "Юката",
+      "condition": "Пытайтесь убить Юкату в Invisible Maze, пока он не отправит вас в локацию без выхода."
+    },
+    "blood_ghosts": {
+      "name": "Кровавые призраки",
+      "description": "Не стоило тебе этого делать.",
+      "condition": "Активируйте событие Кровавого жертвоприношения в Blood World."
+    },
+    "scourge_of_guilt": {
+      "name": "Бич вины",
+      "description": "Ты чудовище...",
+      "condition": "Распилите Бензопилой Призрака бутылки парфюма в Shop Ruins."
+    },
+    "pink_bow": {
+      "name": "Розовый лук",
+      "description": "Романтичная девочка.",
+      "condition": "Попробуйте все костюмы в Shop Ruins."
+    },
+    "pien": {
+      "name": "Пьен",
+      "condition": "Доберитесь до Lovesick World."
+    },
+    "lemon": {
+      "name": "Если жизнь вам дарит лимоны",
+      "description": "...Выжимайте их другим прямо в глаза!",
+      "condition": "Распилите лимон в Red Monastery."
+    },
+    "balloon": {
+      "name": "Полёт шаров",
+      "condition": "Войдите в Hot Air Balloon World."
+    },
+    "tea_party": {
+      "name": "Закрытая вечеринка",
+      "description": "Тебя не учили, что пялиться - невежливо?",
+      "condition": "Найдите двух теневых леди, наслаждающихся чаем вместе в Twilight Park."
+    },
+    "flying_fish_world": {
+      "name": "Us and Them",
+      "description": "'And in the end it's only round and round, and round.'",
+      "condition": "Посетите все зоны в Flying Fish World."
+    },
+    "sacred_crypt": {
+      "name": "Истоки снов",
+      "description": "Где рождаются сны.",
+      "condition": "Найдите теневого Уроцуки-ребёнка в самой глубокой части Sacred Crypt."
+    },
+    "red_sun": {
+      "name": "Красное солнце",
+      "condition": "Попробуйте использовать Бензопилу возле леди под Красным солнцем."
+    },
+    "kigaru": {
+      "name": "Девочка с ключом",
+      "description": "Сидят в море хлопка и сахарной ваты.",
+      "condition": "Возьмите ключ у Кигару в Cotton Candy Haven."
+    },
+    "smile_san": {
+      "name": "Громкий смех",
+      "description": "АхaХaХaХaХaХaХaХaХaХaХaХa.",
+      "condition": "Используйте Телефон рядом со Смайл-саном."
+    },
+    "classified": {
+      "name": "Засекречено",
+      "description": "Однажды дерево зацвело...",
+      "condition": "Войдите в Clandestine Research Laboratory."
+    },
+    "mysterious_maid": {
+      "name": "Загадочная горничная",
+      "description": "Она подозрительно похожа на кого-то...",
+      "condition": "Найдите и Дотроньтесь до Загадочной горничной в каждой из локаций: Hospital, Sky Kingdom, Train Tracks и Construction Frame Building."
+    },
+    "clock_pole": {
+      "name": "Пунктуальность",
+      "description": "Всегда будьте пункуальны!",
+      "condition": "Найдите и приблизьтесь к часам в Garden World (ночь), Blue Forest, Botanical Garden (2), Twilight Park и Monochrome School."
+    },
+    "coffee_cup": {
+      "name": "Аромат дня",
+      "description": "Чуть мощнее, чем пощипывание.",
+      "condition": "Купите что-нибудь в Торговом автомате в Coffee Cup World с любым эффектом на себе."
+    },
+    "lamplighter": {
+      "name": "Угасший",
+      "description": "Мир потемнел...",
+      "condition": "Почувствуйте последствия от убийства зажигателя ламп."
+    },
+    "fairy_hole": {
+      "name": "Дом феи",
+      "description": "Скрыто глубоко в замёрзшем мире.",
+      "condition": "Войдите в Пещеру феи в Snowy Forest."
+    },
+    "provost": {
+      "name": "Перекур",
+      "condition": "Встретьте Коммандо и Провост-сана вне их субмарины в The Docks."
+    },
+    "plaza": {
+      "name": "Гидроплощадь",
+      "description": "Это не город, Это площадь.",
+      "condition": "Обследуйте Poseidon Plaza."
+    },
+    "robot": {
+      "name": "Хранилище",
+      "description": "01100110 01110010 01101001 01100101 01101110 01100100",
+      "condition": "Встретьте робота в Tesla Garden."
+    },
+    "green_prince": {
+      "name": "Добравшись до тебя",
+      "condition": "Доберитесь и поговорите с Зелёным принцем в City Limits."
+    },
+    "phone": {
+      "name": "СВА",
+      "description": "Самый Важный Аппарат",
+      "condition": "Используйте телефон к Urotsuki's Dream Apartments во всех 7 локациях: Aquatic Cube City, Fossil Lake, Sugar Road, Underground Garage, Water Reclamation Facility, Dark Museum и Dark Warehouse."
+    },
+    "butterfly_passage": {
+      "name": "Трёхцветная бабочка",
+      "condition": "Побывайте в Butterfly Passage."
+    },
+    "forest_interlude": {
+      "name": "Одинокая лилия",
+      "condition": "Посетите Forest Interlude."
+    },
+    "pink_flower": {
+      "name": "Танцующий розовый цветок",
+      "condition": "Найдите розовые цветы на Rapeseed Fields."
+    },
+    "banana": {
+      "name": "Ооо, банан!",
+      "condition": "Найдите банан, что спрятан в NES Glitch Tunnel."
+    },
+    "tv_channels": {
+      "name": "Телефилия",
+      "description": "Всё-ещё смотришь?",
+      "condition": "Посмотрите все каналы в TV room."
+    },
+    "toilet": {
+      "name": "Передышка в санузле",
+      "condition": "Найдите туалет в Eyeball Cherry Fields."
+    },
+    "toxic_sea": {
+      "name": "Токсичное море",
+      "condition": "Доберитесь до Toxic Sea."
+    },
+    "traffic_lights": {
+      "name": "На старт, внимание, марш!",
+      "condition": "Доберитесь до Techno Condominium через Gray Road."
+    },
+    "blurry": {
+      "name": "Мутное",
+      "condition": "Загляните в мутное отсверствие в Landolt Ring World с особым эффектом."
+    },
+    "guillotine": {
+      "name": "Гильотина",
+      "condition": "Узрите казнь Уроцуки."
+    },
+    "wifi": {
+      "name": "Беспроводная точность",
+      "condition": "Уйдите от преследования в Electromagnetic Terminal и попадите на парковку."
+    },
+    "bat_flight": {
+      "name": "Полёт летучей мыши",
+      "condition": "Отправьтесь в полёт с крыши Techno Condominium."
+    },
+    "amoeba": {
+      "name": "Разбитая",
+      "condition": "Заставьте Амёбу в Apartment разбиться."
+    },
+    "nocturnal_trees": {
+      "name": "Ночные деревья",
+      "condition": "Доберитесь до Nocturnal Grove."
+    },
+    "seishonen": {
+      "name": "Двуличный фарс",
+      "condition": "Войдите в испорченную комнату Сейсёнена в Urotsuki's Dream Apartments."
+    },
+    "dojo": {
+      "name": "Воспоминания",
+      "condition": "Сожгите космос в Dojo."
+    },
+    "voxed": {
+      "name": "Завокселено",
+      "description": "Убей это! Сейчас-же!",
+      "condition": "Распилите обитателя Voxel Island."
+    },
+    "green_tea_cake": {
+      "name": "Торт с зелёным чаем",
+      "condition": "Купите Торт с зелёным чаем в Shop Ruins."
+    },
+    "principal": {
+      "name": "Не кататься по коридорам!",
+      "condition": "Будьте пойманы и отруганы воспитателем за использование Мотоцикла в School."
+    },
+    "car_crash": {
+      "name": "Травма от ремня",
+      "description": "Это больно!",
+      "condition": "Разбейте машину в Hidden Garage."
+    },
+    "wedding_cake": {
+      "name": "Трёхэтажный торт",
+      "description": "Ты собираешься съесть всё?",
+      "condition": "Получите свадебный торт из Торгового автомата."
+    },
+    "green_monster": {
+      "name": "Зелёный монстр",
+      "condition": "Дотроньтесь до Зелёного монстра в Foliage Estate."
+    },
+    "nail_lady": {
+      "name": "Выскочивший гвоздь",
+      "description": "Забейте выскочивший гвоздь.",
+      "condition": "Дотроньтесь до Гвоздевой леди среди круга из гвоздей."
+    },
+    "cmyk": {
+      "name": "Комбо чернильных катриджей",
+      "description": "Не хватает чернил.",
+      "condition": "Купите что-нибудь во всех 3 Торговых автоматах в CMYK Tiles World."
+    },
+    "muertitos": {
+      "name": "Muertitos",
+      "condition": "Почтите мёртвых в Dream Mexico."
+    },
+    "crown_of_sorrow": {
+      "name": "Венец печали",
+      "condition": "Войдите в комнату в конце шоссе Spirit Capital за {TIME} или быстрее в Режиме на Время."
+    },
+    "the_liar": {
+      "name": "Лжец, лжец",
+      "description": "Я знаю, Что ты такое.",
+      "condition": "Выключите свет в спальне Лжеца."
+    },
+    "the_assistant": {
+      "name": "Помощник",
+      "description": "Не трожь!",
+      "condition": "Сделайте покрытие Субмарины прозрачным."
+    },
+    "surimuki": {
+      "name": "Суримуки",
+      "description": "\"Меня скоблили.\"",
+      "condition": "Найдите Суримуки везде, где она появляется в мире снов (Broken Faces Area, Книга в Library, и Крыша Monochrome School)."
+    },
+    "helmet_girl": {
+      "name": "Блести",
+      "description": "Встретимся на тёмной стороне луны.",
+      "condition": "Найдите Девочку со шлемом в Square-Square World, Её квартире, и на Moonlit Purple Balcony."
+    },
+    "garden_of_dreams": {
+      "name": "Сад Снов",
+      "description": "На просторах мира снов, подобно вечно растущему саду.",
+      "condition": "Дотроньтесь до (или войдите в комнату, содержащую) деревьев из Mountaintop Ruins, Blood Cell Sea (в т.ч. в Клипотичном состоянии), Graffiti Maze, Shinto Shrine, Azure Garden, Scenic Outlook, и Evergreen Woods."
+    },
+    "infinite_library_mirror": {
+      "name": "Потеряй себя",
+      "description": "Узрите своё отражение в зеркале за пределами того, что кажется бесконечным.",
+      "condition": "Столкнитесь со своим отражением и войдите в Static Noise Hell через Infinite Library."
+    },
+    "rainbow_tiles_glitch": {
+      "name": "Друзья ждут меня!",
+      "description": "Забагуйтесь в Rainbow Tiles Maze",
+      "condition": "Попадите в обратную сторону Rainbow Tiles Maze."
+    },
+    "nightshade_corridor_creature": {
+      "name": "\"Швак, швак?\"",
+      "condition": "Обнаружьте Ножничного монстра в Nightshade Corridor."
+    },
+    "gutter_secret": {
+      "name": "Не любит",
+      "description": "Бери сердце, разорви его.",
+      "condition": "Узрите агонию ???-цуки, что спрятана в Gutter."
+    },
+    "deluxe_mask_shop_purchase": {
+      "name": "Шёлковая лента",
+      "description": "Пахнет лакрицей.",
+      "condition": "Купите маску в Deluxe Mask Shop."
+    },
+    "japan_town_bath": {
+      "name": "Чудовища, что выходят по ночам",
+      "description": "Попробуйте отмокнуть в недобросовестном отеле.",
+      "condition": "Превратитесь в Белое существо в отеле Japan Town-а."
+    },
+    "viridescent_brooch": {
+      "name": "Переливающаяся брошь",
+      "description": "Даже трава здесь словно зеленее.",
+      "condition": "Посетите Viridescent Temple и осмотритесь в нём."
+    },
+    "shadowy_caves_puzzle": {
+      "name": "Денежные Пуни",
+      "description": "Блестящие монетки",
+      "condition": "Решите головоломку в Shadowy Caves."
+    },
+    "abyss_of_farewells_exit": {
+      "name": "Подземный перелёт",
+      "description": "Побег из Подземелья",
+      "condition": "Вернитесь в Dream Park после нахождения Малого стража в глубинах парка."
+    },
+    "sixth_terminal_entrances": {
+      "name": "Объединённая сеть",
+      "condition": "Откройте все четыре соединения с Sixth Terminal."
+    },
+    "foliage_estate_satellite_dish": {
+      "name": "Спутник звёзд",
+      "description": "Не заблудитесь среди звёзд!",
+      "condition": "Доберитесь до Спутниковой тарелки в Foliage Estate."
+    },
+    "shallows_of_deceit_rooftop": {
+      "name": "Крыша в сумерках",
+      "description": "Прекрасный вид!",
+      "condition": "Заберитесь на крышу Shallows of Deceit."
+    },
+    "shadow_cat": {
+      "name": "Теневой кот",
+      "condition": "Посмотрите на Кота в Techno Condominium и в Vending Machine Factory, во всех местах где он появляется."
+    },
+    "sculpture_park_monolith": {
+      "name": "Липкий монолит",
+      "condition": "Найдите круг из монолитов в Sculpture Park."
+    },
+    "ancient_mural": {
+      "name": "Древняя фреска",
+      "condition": "Найдите рисунок в Viridescent Temple."
+    },
+    "tesla_garden_noah": {
+      "name": "Ное один",
+      "description": "Составьте компанию Ною.",
+      "condition": "Посидите на скамейке рядом с Ноем на Промышленной набережной Tesla Garden. "
+    },
+    "shell_lake_giant_snail": {
+      "name": "Слизкий прохожий",
+      "description": "Найдите гигантскую улитку в Shell Lake.",
+      "condition": "Войдите к Улитке в Shell Lake."
+    },
+    "overgrown_condominium_ticket": {
+      "name": "Билетик на удачу",
+      "condition": "Получите билетик из билетной машины в Overgrown Condominium."
+    },
+    "blob_desert_blood": {
+      "name": "Окровавленый синий пузырь",
+      "condition": "Войдите в Blob Desert, пока рот у синего существа окровавлен."
+    },
+    "snowy_village_creature": {
+      "name": "Хлад встрече!",
+      "condition": "Дотроньтесь до светло-фиолетового существа в Snowy Village."
+    },
+    "cloning_room": {
+      "name": "Репликация",
+      "description": "\"Оценка сектора: Клонирующая платформа Активированна. \nПрорыв Клонирующей платформы.\nСостояние: Катастрофическое.\"",
+      "condition": "Активируйте событие Комнаты Клонов в Red Brick Maze."
+    },
+    "rainbow_towers_ufo": {
+      "name": "Неопознанный летающий обьект",
+      "description": "На радаре!",
+      "condition": "Увидьте, как мимо вас пролетает НЛО в Rainbow Towers."
+    },
+    "vending_machine_factory_balcony": {
+      "name": "С добрым утром, Парабеллум",
+      "description": "Настоящий *Боядейро*.",
+      "condition": "Посмотрите на горизонт с балкона Vending Machine Factory."
+    },
+    "solo_concert_hall": {
+      "name": "Сольный концертный зал",
+      "description": "Самый большой секрет трущоб: Безмятежная симфония.",
+      "condition": "Упадите в дыру в Tricolor Room и доберитесь до аллеи с успокаивающей мелодией пианино."
+    },
+    "mirror_lake_patient": {
+      "name": "Пациент зеркального озера",
+      "condition": "Встретьтесь с Лавандой в Зеркальном озере Blue Cactus Islands."
+    },
+    "master_crow": {
+      "name": "Ворон на заборе",
+      "description": "...очарован звёздным небом.",
+      "condition": "Доберитесь до Sunset Rooftops в Rock World."
+    },
+    "rotten_truth": {
+      "name": "Гнилая правда",
+      "description": "Что мы наделали?",
+      "condition": "Получите Концовку -1."
+    },
+    "the_watcher": {
+      "name": "Наблюдатель",
+      "description": "Оно дышит.",
+      "condition": "Взаимодействуйте с Длинношеим существом в Flesh Paths World, пока кое-что не случится."
+    },
+    "heishi_kun": {
+      "name": "Раненный солдат",
+      "condition": "Узнайте, что произойдёт, если использовать Бензопилу на Хейши-куне."
+    },
+    "luminous_lake_fish": {
+      "name": "Блестящее озеро",
+      "description": "Это рыба-луна в небесах?",
+      "condition": "Доберитесь до Luminous Lake и посмотрите на полёт рыбы-луны."
+    },
+    "forest_of_reflections": {
+      "name": "Магия зеркал",
+      "condition": "Доберитесь до Forest Of Reflections."
+    },
+    "blue_house_road": {
+      "name": "Значок из голубой стали.",
+      "description": "И всё? И за это - значок?",
+      "condition": "Доберитесь до Blue House Road."
+    },
+    "the_tiger": {
+      "name": "Тигр",
+      "description": "Погладь кошечку.",
+      "condition": "Попадите в Shadow Lady Mansion и погладьте Тигра."
+    },
+    "mar_marina": {
+      "name": "Морская Марина",
+      "description": "Раньше она жила на скрытом мелководье, теперь - На затерянной мели.",
+      "condition": "Войдите в дом Марины со включённым и выключенным светом."
+    },
+    "libra_palace": {
+      "name": "Дворец весов",
+      "description": "Ступите в прекрасный дворец осени.",
+      "condition": "Visit Libra Palace in autumn"
+    },
+    "tree_muncher": {
+      "name": "Жеватель деревьев",
+      "description": "*хрум хрум хрусть хрусть*",
+      "condition": "Встретьте Розовое существо, поедающее деревья, в Container Forest."
+    },
+    "rainbow_fish": {
+      "name": "Рыба-радуга",
+      "condition": "Посмотрите на рыб в Binary World после использования эффектов Полигона и Радуги."
+    },
+    "maple_symphony": {
+      "name": "Симфония клёна",
+      "description": "Хорошая мелодия.",
+      "condition": "Послушайте песню оранжевых шаровидных существ в Maple Shrine."
+    },
+    "jiangshi": {
+      "name": "Цзянши!",
+      "condition": "Доберитесь до Nightmare Inn."
+    },
+    "awoo_monster_jaw": {
+      "name": "Аву-у-у!",
+      "description": "Если ты воешь, то оно тоже воет!",
+      "condition": "Используйте эффект Волка на Monster's Jaw и просмотрите катсцену."
+    },
+    "call_for_help": {
+      "name": "Зов помощи",
+      "condition": "Спасите того, кто нуждается в помощи в Snowy Forest, найдя его живым и дотронувшись до него с Телефоном."
+    },
+    "chaser_party": {
+      "name": "Вечеринка преследователей",
+      "description": "Командная работа - ключ к успеху.",
+      "condition": "Подвергнитесь нападению группы преследователей после взаимодействия с Телевизором в Urotsuki's Dream Apartments."
+    },
+    "cyber_prison": {
+      "name": "Невезучий Неко",
+      "condition": "Доберитесь до Cyber Prison."
+    },
+    "get_out_meeting": {
+      "name": "БЕГИ!!!",
+      "description": "\"СТРАЖА, ВЗЯТЬ ЕЁ!\"",
+      "condition": "Используйте Бензопилу в Зале встреч и будьте отправлены за решётку."
+    },
+    "mask_shop_ring": {
+      "name": "Остановись!",
+      "description": "Причиняйте значительный дискомфорт.",
+      "condition": "Выбесите продавца масок звоном колокольчика."
+    },
+    "myriad_blossoms": {
+      "name": "Мириады цветов",
+      "condition": "Доберитесь до Sakura Path через Shinto Shrine."
+    },
+    "urotsuki_pendant": {
+      "name": "Кулон на память",
+      "description": "\"Я\" здесь.",
+      "condition": "Встретьесь с Уроцуки или найдите элементы местности похожие на неё в Atlantis, Tapir-San's Place, Giant Cloning Room, Urotsuki's Dream Apartments, Closet Pinwheel Path, Red Sky Cliff, Despair Road, Head World, Static Noise Hell, Colorless Valley, и Spear Tribe World."
+    },
+    "blossoming_brooch": {
+      "name": "Цветущая брошь",
+      "condition": "Попадите в Adabana Gardens."
+    },
+    "puni_snacks": {
+      "name": "Закуска Пуни",
+      "description": "Будем надеяться, что они сделаны не из самих Пуни...",
+      "condition": "Купите все связанные с Пуни закуски в Dream Park, после чего загляните в Birthday Tower."
+    },
+    "rainy_day_residence": {
+      "name": "Дом под дождём",
+      "description": "Вот, юная девочка просыпается, и стоит ей только открыть глаза, как её взору открывается не огромный виртуальный город, а холостяцкая берлога и серые будни.",
+      "condition": "Войдите в Rainy Apartments в первый раз."
+    },
+    "researcher_lover": {
+      "name": "Поклонник исследований",
+      "description": "Правда будет раскрыта.",
+      "condition": "Дотроньтесь до NPC на Space Construction Site."
+    },
+    "techno_karaoke": {
+      "name": "Техно караоке",
+      "description": "* Можно немного разгуляться *",
+      "condition": "Дотроньтесь до Розовой девушки в Комнате караоке в Virtual City."
+    },
+    "tomato_world": {
+      "name": "Кетчуп и майонез",
+      "condition": "Доберитесь до Tomato World."
+    },
+    "white_garden": {
+      "name": "Небо белого сада",
+      "description": "Цветок, что может изменить мир.",
+      "condition": "Побывайте в обеих версиях Белого сада в Pure White Lands."
+    },
+    "windswept_souls": {
+      "name": "Души ветром унесённые",
+      "description": "Что пролегает там?",
+      "condition": "Узрите пустошь с одной из башен."
+    },
+    "starry_night": {
+      "name": "Звёздная ночь",
+      "description": "Ты выглядишь превосходно в этой ночи, в трепете этих лучей...",
+      "condition": "Войдите в картину Звёздной ночи в Windswept Scarlet Sands."
+    },
+    "victorian_festival": {
+      "name": "Фестиваль цветов",
+      "condition": "Войдите в Carnival Town через Victorian Drains."
+    },
+    "rainbow_clock": {
+      "name": "Счастливые времена",
+      "condition": "Посмотрите на Гигантские часы в Rainbow Silhouette World."
+    },
+    "from_behind": {
+      "name": "Тени Неона",
+      "condition": "Увидьте \"То, что приходит со спины\" в Neon City."
+    },
+    "star_planetarium": {
+      "name": "Небосвод и механизмы",
+      "condition": "Просмотрите событие \"Звёздного неба\" в Planetarium."
+    },
+    "cosmic_daydream": {
+      "name": "Мечта",
+      "condition": "Войдите в Тёмную комнату в Cosmic World."
+    },
+    "lonely_garden": {
+      "name": "Забытый мад среди пустынных улиц",
+      "description": "Какой секрет скрывают в себе эти неприветливые ветренные улицы?",
+      "condition": "Доберитесь до Скрытого сада в Deserted Town."
+    },
+    "serene_waters": {
+      "name": "Безмятежные воды близь холодной кирпичной кладки",
+      "condition": "Взойдите на балкон в Mansion."
+    },
+    "dancing_queen": {
+      "name": "Королевский танец",
+      "description": "Опускается ночь, музыка играет во всю!",
+      "condition": "Увидьте Огромный танцующий глаз в Forest Pier."
+    },
+    "fishy_friends": {
+      "name": "Подводные дружки",
+      "description": "Время медуз!",
+      "condition": "Доберитесь до Аквариума в Overgrown City."
+    },
+    "sunbeam_industrial": {
+      "name": "Лучи солнца",
+      "description": "То немногое тепло, что доступно в недрах лабиринта.",
+      "condition": "Доберитесь до Прохода в Industrial Maze."
+    },
+    "lustrous_memory": {
+      "name": "Яркие воспоминания",
+      "condition": "Доберитесь до Radiant Ruins."
+    },
+    "hide_kotatsu": {
+      "name": "Разогрев",
+      "description": "М-м-м, тепло и уютно.",
+      "condition": "Заберитесь под котацу в Комнате зелёного сущеста в Transmission Tower World."
+    },
+    "music_bottom": {
+      "name": "Проигрыватель на дне",
+      "description": "Дом милый дом Большого проигрывателя.",
+      "condition": "Войдите в дом Существа-музыкальной коробки в Bottom Garden."
+    },
+    "falling_up": {
+      "name": "Падение",
+      "description": "Попробуй спуститься.",
+      "condition": "Доберитесь до Chaotic Buildings."
+    },
+    "familiar_figure": {
+      "name": "Знакомая фигура",
+      "description": "Стакан воды в день - залог здоровья.",
+      "condition": "Найдите Онсен-сана в Pillars World."
+    },
+    "lucent_world": {
+      "name": "Светящийся мир",
+      "description": "Сон спящей рыбы.",
+      "condition": "Доберитесь до волшебных вод Bioluminescent Cavern."
+    },
+    "gold_statue": {
+      "name": "Золотая статуя",
+      "description": "Золотая арка.",
+      "condition": "Доберитесь до Комнаты с золотой статуей в Overgrown City."
+    },
+    "hurt_blob": {
+      "name": "Больно!",
+      "description": "Страж тайны.",
+      "condition": "Заставьте Шарик в Deserted Town кричать от боли."
+    },
+    "mystery_hideaway": {
+      "name": "Таинственное укрытие",
+      "description": "Скрытое место, такое знакомое, и всё-же уже другое...",
+      "condition": "Доберитесь до Hidden Shoal."
+    },
+    "decadent_sunfish": {
+      "name": "Упадник рыба-солнце",
+      "condition": "Дотроньтесь до Рыбы-солнца в Rainbow Silhouette World."
+    },
+    "blind_cosmo": {
+      "name": "Ослепляющий космос",
+      "description": "Мне нравится, когда всё мерцает!",
+      "condition": "Доберитесь до Cosmic World."
+    },
+    "bent_screw": {
+      "name": "Изогнутый винт",
+      "description": "Интересно, что ему довелось пережить...",
+      "condition": "Дотроньтесь до Изогнутого Винта."
+    },
+    "well_creature": {
+      "name": "Обитатель колодца",
+      "description": "ВЛАСТЕЛИН КОЛОДЦА",
+      "condition": "Найдите существо в колодце в первой зоне Abandoned Apartments."
+    },
+    "lonely_cottage": {
+      "name": "Одинокий особняк",
+      "description": "Зловеще...",
+      "condition": "Найдите странный особняк на острове, окружённом белыми цветами в Abandoned Factory."
+    },
+    "reflect_one": {
+      "name": "Однинокое отражение",
+      "description": "Далёкая память о чём-то одном.",
+      "condition": "Доберитесь до пляжа с Горами-близнецами в Mirror Room."
+    },
+    "tulip_lamp": {
+      "name": "Нависая",
+      "description": "Тюльпаны + Лампы = Тюлампы.",
+      "condition": "Доберитесь до Tulip Lamp World."
+    },
+    "industrial_garden": {
+      "name": "Сад в промзоне",
+      "description": "Природа всегда сможет проложить себе путь там, где её не ждёшь.",
+      "condition": "Войдите в Сад Industrial Maze."
+    },
+    "radiant_leaf": {
+      "name": "Блеск листьев",
+      "description": "Блеск воды ещё сильнее позволяет выделиться растениям.",
+      "condition": "Отдохните на гигантском листе растения в Radiant Ruins."
+    },
+    "strange_presence": {
+      "name": "Странное присутствие",
+      "description": "Что скрывается в стоках?",
+      "condition": "Найдите скрытую комнату в сливе Old Train Station."
+    },
+    "purple_flowers": {
+      "name": "Пурпурные цветы",
+      "description": "Пурпурные цветы, пурпурные замки.",
+      "condition": "Доберитесь до Petal Hotel."
+    },
+    "omurice_rooms": {
+      "name": "Эмблема Борца за пищу",
+      "description": "Прекрасные яства!",
+      "condition": "Попадите в скрытые комнаты Omurice Labyrinth."
+    },
+    "hands_abyss": {
+      "name": "Руки из бездны",
+      "description": "Отчаянные души, что тянутся к свету, но обречены лишь падать всё глубже и глубже.",
+      "condition": "Найдите руки в Azure Gardens, Forbidden Swamp, Foliage Estate, Dark Nexus, и Garden of Treachery"
+    },
+    "virtual_mapper": {
+      "name": "Виртуальный картограф",
+      "description": "Виртуальные технологии постоянно эволюционируют...",
+      "condition": "Войдите в Комнату с картой в Virtual City и поговорите с её обитателем."
+    },
+    "amusement_secret": {
+      "name": "Кажется, тебя здесь быть не должно...",
+      "description": "Какие ужасы скрывает тайная комната?",
+      "condition": "Проплывите через секретный проход и войдите в Тайную комнату Underwater Amusement Park."
+    },
+    "bike_crash": {
+      "name": "Случайности случаются",
+      "description": "Надо было налепить ещё фонарей...",
+      "condition": "Разбейтесь об Байкера Уроцуки на Highway."
+    },
+    "tranquil_crescent": {
+      "name": "Спокойный полумесяц",
+      "description": "Блестящая луна хорошо видна на тёмном небе.",
+      "condition": "Попадите в Лунную зону Jigsaw Puzzle World."
+    },
+    "glitch_butterfly": {
+      "name": "Магическое превращение",
+      "description": "Чистая мощь недр воображения.",
+      "condition": "Доберитесь до Glitched Butterfly Sector в первый раз."
+    },
+    "puppet_show": {
+      "name": "Разрушенный театр",
+      "description": "Печальный секрет недр моря, что ждёт раскрытия.",
+      "condition": "Посмотрите на выступление кукол в Ocean Floor."
+    },
+    "floral_interlude": {
+      "name": "Цветочный Антракт",
+      "description": "Мириады цветов, завораживающих взор...",
+      "condition": "Посетите все 4 цветочных перехода, соединяющих Adabana Gardens, Field of Cosmos, и Lamplit Stones."
+    },
+    "2kki_gold": {
+      "name": "Yume 2kki Gold",
+      "description": "Почётный член 2kki Gold.",
+      "condition": "Залезьте на пирамиду, победите фараона, станьте Почётным членом Yume 2kki Gold™."
+    },
+    "gb_memories": {
+      "name": "GB Memories",
+      "description": "Remember this?",
+      "condition": "Witness every secret in the Monochrome GB World and sit on the bench at the end of NES Glitch Tunnel."
+    },
+    "bunny_cocktail": {
+      "name": "Bunny Cocktail",
+      "description": "Bnuuy!",
+      "condition": "Reveal the hidden bunny in Cocktail Lounge using the Bunny Ears."
+    },
+    "sweet_poison": {
+      "name": "Sweet Poison",
+      "condition": "Interact with the scientists while using the Drum effect in the Toxic Chemical World."
+    },
+    "celestial_garden": {
+      "name": "Transcendental Island",
+      "description": "High up in the clouds, where spirits can roam freely.",
+      "condition": "Enter Celestial Garden."
+    },
+    "conway": {
+      "name": "Digital Glider",
+      "condition": "Visit the Conway area in Symbolon."
+    },
+    "say_my_name": {
+      "name": "Say My Name",
+      "condition": "Spell \"UROTSUKI\" in the Spelling Room"
+    },
+    "water_lantern": {
+      "name": "Divine Water Lanterns",
+      "description": "The lights that illuminate the sanctuary...",
+      "condition": "Reach the Water Lantern World"
+    },
+    "reflecting_electron": {
+      "name": "Subatomic Matrix",
+      "condition": "Enter the Reflecting Electron Zone"
+    }
+  },
+  "flow": {
+    "rust": {
+      "name": "Саби",
+      "condition": "Станьте Саби."
+    },
+    "cake": {
+      "name": "Шоколадный торт",
+      "condition": "Съешьте не менее 20 кусков торта в Сахарной норе."
+    },
+    "sewer": {
+      "name": "Слизь канализации",
+      "description": "Наверное, не стоило пить это...",
+      "condition": "Посмотрите событие 'Кровь, гной, ржавчина'."
+    },
+    "rotten_smile": {
+      "name": "Гнилая улыбка",
+      "condition": "Войдите в комнату Смайла и Демона в Утробном лабиринте."
+    },
+    "empty_boxes": {
+      "name": "□□□",
+      "condition": "Соберите 3 Пустые коробки."
+    },
+    "rainbow_sweeper": {
+      "name": "Уборка радуги",
+      "condition": "Спровоцируйте событие полёта в Радужном лабиринте."
+    },
+    "orange_experiments": {
+      "name": "Оранжевые эксперименты",
+      "condition": "Посетите комнаты с тестовыми трубами в Оранжевом лабиринте, Оранжевом проходе и Оранжевой лаборатории."
+    },
+    "dark_city": {
+      "name": "Тёмный город",
+      "condition": "Дотроньтесь до пришельца в Психоделическом городе."
+    },
+    "red_eye": {
+      "name": "Красный глаз",
+      "condition": "Найдите красный глаз на стене в Квартирах и заставьте его моргнуть."
+    },
+    "other_worlds": {
+      "name": "Другие миры",
+      "description": "Аккорды пианино нас ведут... Куда-то...",
+      "condition": "Доберитесь до Белого лабиринта и Мира микроорганизмов."
+    },
+    "attack_smile": {
+      "name": "Что с лицом?",
+      "description": "\"Ты больна, но всё-таки мы ещё встретимся.\"",
+      "condition": "Заставьте Смайла защищать свою сестру."
+    },
+    "kill_smile": {
+      "name": "Зацени прикол",
+      "description": "Ожидание отомщения.",
+      "condition": "Будучи Саби, убейте Смайла."
+    },
+    "smile_channel": {
+      "name": "Телеканал улыбка",
+      "description": "Давайте наведём улыбку на это лицо!",
+      "condition": "Взаимодействуйте с телевизором в Комнате Сабицуки, пока на экране не появится улыбка."
+    },
+    "orange": {
+      "name": "Лучшие друзья на все времена",
+      "description": "Может, в этом мире и есть что-то хорошее.",
+      "condition": "Разблокируйте Оранжевое оформление меню. Если вы это уже сделали, вернитесь в локацию, где вы её получили."
+    },
+    "moonlight_flower": {
+      "name": "Цветок лунного света",
+      "description": "Вечеринка радужных цветов!",
+      "condition": "Дотроньтесь до цветка в Психоделическом городе и посмотрите событие Радужных цветов."
+    },
+    "oreko": {
+      "name": "Ореко",
+      "condition": "Получите эффект шлема."
+    },
+    "onigo_childbirth": {
+      "name": "Роды Ониго",
+      "description": "Посмотрите событие Родов.",
+      "condition": "Спровоцируйте событие Родов в Утробном мире."
+    },
+    "sugar_float_days": {
+      "name": "Сладкий чай",
+      "condition": "Посмотрите событие Сахарных дней."
+    },
+    "bar_kaibutsu": {
+      "name": "Барный Кайбуцу",
+      "description": "Быстро!",
+      "condition": "Атакуйте Кайбуцу в Сахарной норе."
+    },
+    "smile_bathtub": {
+      "name": "Знакомое лицо",
+      "description": "\"Тебя здесь быть не должно.\"",
+      "condition": "Дотроньтесь до ванной рядом со Смайлом после использования Пистолета на Свалке."
+    },
+    "metal_tan": {
+      "name": "Метал-тян",
+      "description": "Бип буп.",
+      "condition": "Посетите Метал-тян."
+    },
+    "entrance": {
+      "name": "Врата во ржавые сны",
+      "condition": "Увидьте все возможные вариации Нексуса."
+    },
+    "smile_happy": {
+      "name": "Он так счастлив!",
+      "description": "Что за прелестная улыбка у тебя.",
+      "condition": "Заставьте Смайла улыбаться, показав ему свою Арматуру."
+    },
+    "submit_erosion": {
+      "name": "Подношение эрозии",
+      "condition": "Наберите не менее 250 очков эрозии."
+    }
+  },
+  "prayers": {
+    "broken_clock": {
+      "name": "Сломанные Часы",
+      "description": "Напомни, сколько время?",
+      "condition": "Найдите циклопа в Мире часов."
+    },
+    "koraiyn": {
+      "name": "Кораин",
+      "description": "Что ещё за Кораин?"
+    },
+    "missingno": {
+      "name": "Заглючено",
+      "condition": "Найдите MissingNo."
+    },
+    "halo": {
+      "name": "Нимб усопших",
+      "condition": "Войдите в разбившийся автобус в Ледяном мире."
+    },
+    "confused_arrows": {
+      "name": "Запутавшиеся стрелки",
+      "condition": "Войдите в секретную зону Зелёного мира."
+    },
+    "chroma_cat": {
+      "name": "Кот с хромакеем",
+      "condition": "Доберитесь до глубин Мира глюков."
+    },
+    "sunflower": {
+      "name": "Блестящий подсолнух",
+      "condition": "Доберитесь до поля подсолнухов в Лесном мире."
+    },
+    "monochrome_nightmare": {
+      "name": "Монохромный кошмар",
+      "condition": "Закончите событие, что происходит после убийства в Чёрно-белом мире."
+    },
+    "musical_pin": {
+      "name": "Музыкальная булавка",
+      "condition": "Доберитесь до комнаты молящегося гитариста в Многожилом доме."
+    },
+    "all_prayers": {
+      "name": "Клиффхэнгер",
+      "condition": "Войдите в Нексус, имея при себе все Мольбы."
+    },
+    "food_room": {
+      "name": "Приятного аппетита",
+      "condition": "Войдите в комнату, где лежит Мольба Еды."
+    },
+    "submarine_cat_eyes": {
+      "name": "Талассофобия",
+      "description": "Если слишком долго смотришь в бездну, бездна тоже начнёт смотреть в тебя.",
+      "condition": "Просмотрите событие Глаз Кота с подводного корабля в Подводном корабле."
+    },
+    "lookout_point": {
+      "name": "Точка обзора",
+      "description": "Никакого геймбойства, просто духи наслаждаются жизнью.",
+      "condition": "Доберитесь до второго острова Игровой площадки через Лабиринт символов."
+    },
+    "phantom_symbols": {
+      "name": "Фантомные знаки",
+      "description": "Увидьте призрака себя.",
+      "condition": "Дотроньтесь до призрака Флюоретты в Лабиринте символов."
+    }
+  },
+  "deepdreams": {
+    "carousel": {
+      "name": "Карусель",
+      "description": "Вернитесь во времена, когда всё было проще.",
+      "condition": "Начните полноэкранное событие Карусели в Туманном лесу."
+    },
+    "koi": {
+      "name": "Безмятежные воды в тени",
+      "condition": "Доберитесь до Водяного сада."
+    },
+    "planetarium": {
+      "name": "За звёздами",
+      "condition": "Войдите в комнату Планетария, где находится альтер Небосвода."
+    },
+    "hospital_event": {
+      "name": "Нулевой пациент",
+      "description": "Вот что случилось с моим другом Эриком.",
+      "condition": "Просмотрите событие в Госпитале."
+    },
+    "escher": {
+      "name": "Умопомрачение",
+      "description": "Не стоит об этом особо задумываться.",
+      "condition": "Войдите в Сады Эшера."
+    },
+    "moonrise": {
+      "name": "Восход луны",
+      "description": "Что за вид!",
+      "condition": "Доберитесь до Луны Юпитера."
+    },
+    "flo": {
+      "name": "Следуй течению",
+      "condition": "Приобретите купальный костюм в Купальне"
+    },
+    "warm_embrace": {
+      "name": "Тёплые обьятия",
+      "description": "Обнимитесь с Тецуко.",
+      "condition": "Посмотрите событие Тецуко в её комнате в Субнексусе."
+    },
+    "apparition_creature": {
+      "name": "Светлый фантом",
+      "description": "Прошлое Пастели.",
+      "condition": "Войдите в комнату с альтером Видения используя альтер Пастели."
+    },
+    "pink_bathing_creature": {
+      "name": "Пузыри в ванной",
+      "description": "Насладитесь успокаивающей компанией~",
+      "condition": "Найдите розовое умывающееся существо в Умывальной."
+    },
+    "spa_day": {
+      "name": "День спа",
+      "description": "Пора отдохнуть!",
+      "condition": "Расслабьтесь в джакузи в Умывальной."
+    },
+    "bat_girl_verdant": {
+      "name": "Сердечки, цветочки",
+      "description": "Цветы? Миленько!",
+      "condition": "Привлеките внимание Девочки-летучей мыши в Лилейных полях."
+    },
+    "angel_nurse": {
+      "name": "Питание кровью",
+      "description": "Жертва должна быть принесена.",
+      "condition": "Найдите Медсестру-ангела в госпитале и используйте Альтеры Травм и Токсичности в комнате."
+    },
+    "flying_mermaid": {
+      "name": "Небесная Русалка-ангел",
+      "description": "Страж неба.",
+      "condition": "Доберитесь до края Зелёного сада и посмотрите на небо."
+    },
+    "rainbow_theme": {
+      "name": "Новинка на час",
+      "description": "Время глубоко её захоронило.",
+      "condition": "Получите тему Rainbow из Парка радужных насечек. Если эта тема у вас уже есть, вернитесь туда, где вы её подобрали."
+    },
+    "docks_aquarium": {
+      "name": "Ход жизни",
+      "description": "Око бури.",
+      "condition": "Доберитесь до Аквариума в Доках."
+    },
+    "pastel_girl": {
+      "name": "Девочка с побережья",
+      "condition": "Доберитесь до Пастельного дома."
+    },
+    "hell_flower": {
+      "name": "Адоцвет",
+      "condition": "Найдите Адоцвет в Красной реке и поговорите с ней."
+    },
+    "crystalline_system": {
+      "name": "Ophelia",
+      "description": "Simmerin' crystal can't keep her cool",
+      "condition": "Get the System Crystalline from Crystal Cavern. If you have already obtained it, go the place where you found it."
+    }
+  },
+  "someday": {
+    "alien": {
+      "name": "Космическая вечеринка!",
+      "condition": "Доберитесь до Гигантского пришельца."
+    },
+    "dance_flood": {
+      "name": "Танц-пул",
+      "condition": "Переключите подводный выключатель в Танц-пуле."
+    },
+    "party": {
+      "name": "Прекрасный день в Школе",
+      "condition": "Отпразднуйте вечеринку с друзьями."
+    },
+    "fox": {
+      "name": "Друг животных",
+      "condition": "Погладьте лису в хорошей концовке."
+    },
+    "hollow_head": {
+      "name": "Пустая голова",
+      "description": "\"идёшь в гошпиталь и полушаешь ффехт шелительной ауры штоб шцелить жверь в мешро\" - Jojogape",
+      "condition": "Доберитесь до Пустоты через Метро."
+    },
+    "zapnef_all_clear": {
+      "name": "ЗАпНеФ",
+      "condition": "Пройдите все уровни ЗАпНеФ."
+    },
+    "zapnef_high_score": {
+      "name": "ЗАп-Ранг",
+      "description": "Свыше 8000!",
+      "condition": "Получите 8000 или больше очков на 7-м Уровне ЗапНеФ."
+    },
+    "mystery_boxes_flooded": {
+      "name": "Грэм",
+      "description": "Где эти динамики?",
+      "condition": "Разбейте Ящик ? на Танц-пуле."
+    },
+    "mystery_boxes_grassland": {
+      "name": "Фибоначчи",
+      "description": "Чёткий, Не чёткий, Чёткий, Не чёткий,...",
+      "condition": "Разбейте Ящик ? в Равнинном мире."
+    },
+    "mystery_boxes_neon": {
+      "name": "Уильям и Моррис",
+      "description": "МИР ЛЮБОВЬ ЕДИНСТВО УВАЖЕНИЕ: ПУТЬ БРЕДУЩЕГО",
+      "condition": "Разбейте Ящик ? в Неоновом мире."
+    },
+    "mystery_boxes_question": {
+      "name": "Шрёдингер",
+      "description": "¿?QUELQUIÉNГДЕDŌSHITEWHEN¿?",
+      "condition": "Разбейте Ящик ? в Мире вопросов."
+    },
+    "hexxed": {
+      "name": "Hexxed",
+      "condition": "Find yourself in Hexagon Realm."
+    }
+  },
+  "unevendream": {
+    "cookies": {
+      "name": "Печеньки",
+      "description": "Когда они подгоревшие, то не так уж хороши...",
+      "condition": "Просмотрите событие Горелого печенья в Мире мутировавших подсолнухов."
+    },
+    "el_bebe": {
+      "name": "эль бебе",
+      "description": "оно родилось.",
+      "condition": "Спровоцируйте событие эль бебе."
+    },
+    "clay": {
+      "name": "Сокрытое глиняное",
+      "description": "Оно определённо здесь откуда-то ещё...",
+      "condition": "Доберитесь до скрытой комнаты в Каменной пустоши."
+    },
+    "fantasy_crystal": {
+      "name": "Кристал фантазии",
+      "description": "01001110 01000101 01010011",
+      "condition": "Доберитесь до крыши в Мире NES."
+    },
+    "inkblot_test": {
+      "name": "Тест чернильных пятен",
+      "condition": "Спровоцируйте событие Терапии в Зоне безумных лиц."
+    },
+    "blockgirl": {
+      "name": "Блокодевочка",
+      "description": "Живёт во всей своей красе.",
+      "condition": "Дотроньтесь до Блокодевочки эффектом Музыкальной шкатулки."
+    },
+    "deer": {
+      "name": "Олень на содержании",
+      "description": "Как оно сюда попало?",
+      "condition": "Дотроньтесь до водяного бака с оленьей головой в нём."
+    },
+    "dream_flower": {
+      "name": "Цветок сновидений",
+      "description": "Растение из глубин твоего разума.",
+      "condition": "Войдите в дом в Саду подсознательного."
+    },
+    "dude": {
+      "name": "ЧУВАК",
+      "description": "ЧУВАК",
+      "condition": "Закончите событие ЧУВАКА."
+    },
+    "pc98": {
+      "name": "Старый компьютер",
+      "description": "Всё-ещё работает!",
+      "condition": "Войдите в Мир PC98."
+    },
+    "sun_flower": {
+      "name": "Цветок для солнца",
+      "description": "Стоило-ли оно того?",
+      "condition": "Спровоцируйте событие Гнева повелителя солнца."
+    },
+    "turbine": {
+      "name": "Лопасти",
+      "condition": "Доберитесь до конца Турбинного предприятия."
+    },
+    "braille_angel": {
+      "name": "Ангел брайля",
+      "description": "Прощай, Тоцу.",
+      "condition": "Просмотрите событие Кубического ангела."
+    },
+    "shiny_crystal": {
+      "name": "Блестящий кристал",
+      "description": "Дежа Вю.",
+      "condition": "Доберитесь до острова в конце Звёздного озера в Кристальных пещерах."
+    },
+    "dessert_house": {
+      "name": "Дом из десертов",
+      "description": "Это ведь просто классный домик.",
+      "condition": "Войдите в Дом Трикси в Мире галет."
+    },
+    "eye_flower": {
+      "name": "Цветок-глаз",
+      "condition": "Используйте эффект Провидца возле определённого цветка в Мире неземных растений, чтобы он распустился."
+    },
+    "arcade": {
+      "name": "Свет автоматов",
+      "condition": "Осмотрите все работающие аркадные машины в Бетонном домике."
+    },
+    "paper_boat": {
+      "name": "Бумажная лодочка",
+      "condition": "Прокатитесь на бумажной лодочке по Озеру фонарей."
+    },
+    "static": {
+      "name": "Чистый шум",
+      "condition": "Посмотрите событие Корродировавшего сна."
+    },
+    "pinball_machine": {
+      "name": "Катясь вниз",
+      "description": "Давайте сыграем в пинболл!",
+      "condition": "Посетите Пинбольную машину."
+    },
+    "hermit_crab": {
+      "name": "Рак-отшельник",
+      "condition": "Получите рака-отшельника из Торгового автомата."
+    },
+    "mimic": {
+      "name": "Мимик-инженер",
+      "description": "Таков путь Мимика из снов.",
+      "condition": "Попадите в зону события Вверх-ногами."
+    },
+    "cube_racing": {
+      "name": "Гонка кубов",
+      "condition": "Узрите событие 78 Skidoo на Кубической дороге."
+    },
+    "cube_road_cat": {
+      "name": "Кот из глубин снов",
+      "description": "МЯЯЯЯУУУУУУ.",
+      "condition": "Дотроньтесь до кота на Кубической дороге."
+    },
+    "rainy_garden_powerline": {
+      "name": "Красивые электрокоммуникации",
+      "description": "Ну и прогулка!",
+      "condition": "Доберитесь до линий электропередач из Дождливого сада."
+    },
+    "seriri": {
+      "name": "Песнь русалки в море",
+      "description": "Лишь стенания придают жизни этим заброшенным стенам...",
+      "condition": "Получите эффект Русалки в Русальичем особняке."
+    },
+    "shimmering_girl": {
+      "name": "Shimmering Girl",
+      "description": "Gazing into the cosmos.",
+      "condition": "Use the Seer effect to see the sparkly-haired girl in Starlit Road."
+    }
+  },
+  "braingirl": {
+    "lotus_cluster": {
+      "name": "Лотосы",
+      "description": "Расслабьтесь в водичке.",
+      "condition": "Попадите на Горячие источники."
+    },
+    "fried_soap_bars": {
+      "name": "FRIED SOAP BARS",
+      "description": "FRIED SOAP BARS",
+      "condition": "Дотроньтесь до Телевизора в Лесу тануки, пока на вас Костюм утёнка."
+    },
+    "labyrinth_boombox": {
+      "name": "Шум в лабиринте",
+      "condition": "Включите колонку в Лабиринте на лугах."
+    },
+    "shrine_garden": {
+      "name": "Место отдыха; Белые цветы",
+      "condition": "Спровоцируйте событие в Святилище духов."
+    },
+    "vista": {
+      "name": "Прекрасный вид!",
+      "description": "Наслаждайтесь видом вне зависимости от условий.",
+      "condition": "Побывайте на балконе во всех его состояниях (Утро, день, вечер, ночь, шторм)."
+    },
+    "broken_bridge_monster": {
+      "name": "Плавая во тьме",
+      "description": "Заперт в одиноком плавании.",
+      "condition": "Посмотрите на плавающего монстра в закрытой комнате Психоделической фермы."
+    },
+    "cubic_ruins": {
+      "name": "Затопленные руины",
+      "description": "Стоит лишь раз подскользнуться, и ты улетишь прямо в воду.",
+      "condition": "Доберитесь до Кубических руин."
+    },
+    "industrial_impact": {
+      "name": "Влияние индустриализации",
+      "description": "Хороший конец твоих кошмаров.",
+      "condition": "Доберитесь до Выхода из Индустриальных тоннелей."
+    },
+    "museum_takeoff": {
+      "name": "Отлёт",
+      "condition": "Пронаблюдайте за взлётом самолёта в Тоннеле музея."
+    },
+    "midnight_band": {
+      "name": "Midnight Band",
+      "condition": "See the stage in the Midnight Saloon"
+    }
+  },
+  "amillusion": {
+    "calendar": {
+      "name": "Четыре сезона",
+      "condition": "Увидьте Нексус во всех 4-х сезонах."
+    },
+    "syncopation": {
+      "name": "Синкопа",
+      "condition": "Посетите Le Jazzy Train Bleu."
+    },
+    "epacse": {
+      "name": "SUDOXE",
+      "condition": "Пришвартуйтесь у одного из пирсов EPACSE Launch Islands."
+    },
+    "guitar": {
+      "name": "Причёска рокера",
+      "condition": "Найдите и сыграйте на гитаре в Danae's Bad Hair Day."
+    },
+    "rainbow_screw": {
+      "name": "Одна из нас! Одна из нас!",
+      "condition": "Используйте ключ Болта, чтобы уйти в землю в Rainbow Screw Floor."
+    },
+    "sequoia_wheel_loss": {
+      "name": "Дом всегда побеждает",
+      "description": "Столкнитесь с последствиями своих поражений.",
+      "condition": "Получите худший результат в колесе фортуны Sequoia Lucky Forest и окажитесь пойманы."
+    },
+    "residential_corridor_balcony": {
+      "name": "Индустриальное общество и его будущее",
+      "description": "Какой грязный вид...",
+      "condition": "Насладитесь видом с балкона в Residential Corridor World."
+    },
+    "pouleine_ride": {
+      "name": "Пряйкрасное упряйкжнение",
+      "description": "Прокатитесь на куре до пляжа!",
+      "condition": "Спровоцируйте событие Верховой езды."
+    },
+    "midnight_mall_haircut": {
+      "name": "Стильно!",
+      "description": "Следуйте за модой!",
+      "condition": "Подстригитесь в Midnight Mall Hairdresser (с Ключом Пумы)."
+    }
+  },
+  "muma": {
+    "unicorn_slayer": {
+      "name": "Убийца единорогов",
+      "description": "Do it on a windy day and you might get a kite.",
+      "condition": "Победите всех Единорогов в Мире единорогов."
+    },
+    "depressed_meal": {
+      "name": "Depressed Meal",
+      "description": "Этого надо-бы обнять....",
+      "condition": "Поговорите с грустным пряничным человеком."
+    },
+    "magic_trick": {
+      "name": "Фокус",
+      "description": "Вуаля!",
+      "condition": "Догоните волшебную шкатулку и выясните, что внутри."
+    },
+    "platform_pro": {
+      "name": "Мастер платформинга",
+      "description": "Гордость всея платформеров.",
+      "condition": "Пройдите Пещерную зону, не получив урона."
+    },
+    "moon_bunny": {
+      "name": "Луняне",
+      "description": "Отправь несколько крольчат на Луну.",
+      "condition": "Заселите Луну кроликами."
+    },
+    "puzzle_coin": {
+      "name": "Специалист по головоломкам",
+      "condition": "Заберите монету из Головоломки."
+    },
+    "escape_chicago": {
+      "name": "Побег из города",
+      "description": "Follow me, set me free, trust me and we will escape from the city.",
+      "condition": "Сбегите из Чикаго, войдя в Подвал."
+    },
+    "empty_museum": {
+      "name": "Музей",
+      "description": "Осталось только заполнить его.",
+      "condition": "Доберитесь до Пустого музея."
+    },
+    "crystal_reflection": {
+      "name": "Отражение",
+      "description": "Кристал смотрит на вас в ответ.",
+      "condition": "Посмотрите на Отражение Мумы в Синем кристале."
+    },
+    "new_enemy": {
+      "name": "Новый враг",
+      "description": "Появился новый претендент.",
+      "condition": "Запечатайте гнев Чёрного кролика в Сфере."
+    },
+    "worst_thief": {
+      "name": "ХУДШИЙ вор.",
+      "condition": "Переполните счётчик \"Поимок\" в Тюрьме."
+    },
+    "true_sunset": {
+      "name": "Настоящий закат",
+      "description": "Кому мне теперь верить?",
+      "condition": "Узрите Настоящий закат."
+    },
+    "erased_muma": {
+      "name": "Убей и сотри Муму",
+      "description": "Вы помогли Муме обрести свой конец.",
+      "condition": "Вы помогли Муме обрести свой конец."
+    },
+    "experiment_tubes": {
+      "name": "Эксперимент",
+      "description": "Кто они?",
+      "condition": "Заполните все Сосуды с подопытными в Лаборатории."
+    },
+    "satiated_rabbit": {
+      "name": "Om nom nom",
+      "description": "Not a carrot in the world!",
+      "condition": "Feed the rabbit in the Isle of Seasons"
+    },
+    "sleep_paralysis_mare": {
+      "name": "Mare",
+      "description": "\"Sleep paralysis is a state, during waking up or falling asleep, in which one is conscious but is unable to move or speak.\"",
+      "condition": "Sit on the boy’s chest in his bedroom."
+    },
+    "rainbow_maze": {
+      "name": "Maze Maestro",
+      "condition": "Reach the final floor of the Rainbow Labyrinth."
+    }
+  }
+}
