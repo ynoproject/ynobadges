@@ -1710,6 +1710,19 @@
     "conway": {
       "name": "Digital Glider",
       "condition": "Visit the Conway area in Symbolon."
+    },
+    "say_my_name": {
+      "name": "Say My Name",
+      "condition": "Spell \"UROTSUKI\" in the Spelling Room"
+    },
+    "water_lantern": {
+      "name": "Divine Water Lanterns",
+      "description": "The lights that illuminate the sanctuary...",
+      "condition": "Reach the Water Lantern World"
+    },
+    "reflecting_electron": {
+      "name": "Subatomic Matrix",
+      "condition": "Enter the Reflecting Electron Zone"
     }
   },
   "flow": {
@@ -1969,6 +1982,11 @@
     "hell_flower": {
       "name": "地狱花",
       "condition": "找到 the Red River 的 Hellflower 并与之互动"
+    },
+    "crystalline_system": {
+      "name": "Ophelia",
+      "description": "Simmerin' crystal can't keep her cool",
+      "condition": "Get the System Crystalline from Crystal Cavern. If you have already obtained it, go the place where you found it."
     }
   },
   "someday": {
@@ -2021,6 +2039,10 @@
       "name": "薛定谔",
       "description": "¿?QUELQUIÉNWHEREDŌSHITEКОГДА¿?",
       "condition": "摧毁 Question World 的 ？ 箱"
+    },
+    "hexxed": {
+      "name": "Hexxed",
+      "condition": "Find yourself in Hexagon Realm."
     }
   },
   "unevendream": {
@@ -2320,6 +2342,10 @@
       "name": "Mare",
       "description": "\"Sleep paralysis is a state, during waking up or falling asleep, in which one is conscious but is unable to move or speak.\"",
       "condition": "Sit on the boy’s chest in his bedroom."
+    },
+    "rainbow_maze": {
+      "name": "Maze Maestro",
+      "condition": "Reach the final floor of the Rainbow Labyrinth."
     }
   }
 }
