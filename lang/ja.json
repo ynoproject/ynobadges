@@ -1710,6 +1710,19 @@
     "conway": {
       "name": "デジタルグライダー",
       "condition": "LIFEに到達する"
+    },
+    "say_my_name": {
+      "name": "Say My Name",
+      "condition": "Spell \"UROTSUKI\" in the Spelling Room"
+    },
+    "water_lantern": {
+      "name": "Divine Water Lanterns",
+      "description": "The lights that illuminate the sanctuary...",
+      "condition": "Reach the Water Lantern World"
+    },
+    "reflecting_electron": {
+      "name": "Subatomic Matrix",
+      "condition": "Enter the Reflecting Electron Zone"
     }
   },
   "flow": {
@@ -1969,6 +1982,11 @@
     "hell_flower": {
       "name": "Hellflower",
       "condition": "Red RiverでHellflowerを見つけ、話しかける"
+    },
+    "crystalline_system": {
+      "name": "Ophelia",
+      "description": "Simmerin' crystal can't keep her cool",
+      "condition": "Get the System Crystalline from Crystal Cavern. If you have already obtained it, go the place where you found it."
     }
   },
   "someday": {
@@ -2021,6 +2039,10 @@
       "name": "Schrödinger",
       "description": "¿?QUELQUIÉNWHEREDŌSHITEКОГДА¿?",
       "condition": "Break the ? box in Question World."
+    },
+    "hexxed": {
+      "name": "Hexxed",
+      "condition": "Find yourself in Hexagon Realm."
     }
   },
   "unevendream": {
@@ -2320,6 +2342,10 @@
       "name": "Mare",
       "description": "「金縛りとは、起床時や入眠時に、意識はあるのに動くことも話すこともできない状態のことです。」",
       "condition": "寝室の男の子の胸に座る"
+    },
+    "rainbow_maze": {
+      "name": "Maze Maestro",
+      "condition": "Reach the final floor of the Rainbow Labyrinth."
     }
   }
 }
