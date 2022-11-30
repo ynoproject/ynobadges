@@ -1712,17 +1712,17 @@
       "condition": "LIFEに到達する"
     },
     "say_my_name": {
-      "name": "Say My Name",
-      "condition": "Spell \"UROTSUKI\" in the Spelling Room"
+      "name": "名前を呼んで",
+      "condition": "スペルームで「UROTSUKI」と入力する"
     },
     "water_lantern": {
-      "name": "Divine Water Lanterns",
-      "description": "The lights that illuminate the sanctuary...",
-      "condition": "Reach the Water Lantern World"
+      "name": "神々しい灯篭流し",
+      "description": "聖域を照らす光は...",
+      "condition": "灯篭流しに到達する"
     },
     "reflecting_electron": {
       "name": "Subatomic Matrix",
-      "condition": "Enter the Reflecting Electron Zone"
+      "condition": "Electronに到達する"
     }
   },
   "flow": {
@@ -1984,9 +1984,9 @@
       "condition": "Red RiverでHellflowerを見つけ、話しかける"
     },
     "crystalline_system": {
-      "name": "Ophelia",
-      "description": "Simmerin' crystal can't keep her cool",
-      "condition": "Get the System Crystalline from Crystal Cavern. If you have already obtained it, go the place where you found it."
+      "name": "オフィーリア",
+      "description": "煮えたぎる水晶は冷静さを保てない",
+      "condition": "Crystal CavernでSystem Crystallineを入手する、すでに入手している場合は見つけた場所に行く"
     }
   },
   "someday": {
@@ -2007,42 +2007,42 @@
       "condition": "good endingでキツネを撫でる"
     },
     "hollow_head": {
-      "name": "Hollow Head",
+      "name": "からっぽの頭",
       "description": "\"you gotta go to the sospital and get the heeh raura effef so you can heal the glilg in the suswew\" - Jojogape",
-      "condition": "Reach The Void from the Subway."
+      "condition": "SubwayのVoidに到達する"
     },
     "zapnef_all_clear": {
       "name": "ZapNeF",
-      "condition": "Beat all ZApNeF levels"
+      "condition": "ZApNeFの全レベルを完了する"
     },
     "zapnef_high_score": {
       "name": "zaP-Rank",
-      "description": "It's over 8000!",
-      "condition": "Achieve a score of 8000 or more on Level 7 of ZapNeF"
+      "description": "8000オーバー！",
+      "condition": "ZapNeFのレベル７で8000以上のスコアに達する"
     },
     "mystery_boxes_flooded": {
-      "name": "Graham",
+      "name": "グラハム",
       "description": "Where are those speakers?",
-      "condition": "Break the ? box in the Dance Flood."
+      "condition": "Dance Floodにある？の箱を破壊する"
     },
     "mystery_boxes_grassland": {
-      "name": "Fibonacci",
+      "name": "フィボナッチ",
       "description": "Fuzzy, Not Fuzzy, Fuzzy, Not Fuzzy,...",
-      "condition": "Break the ? box in Grassland World."
+      "condition": "Grassland Worldにある？の箱を破壊する"
     },
     "mystery_boxes_neon": {
-      "name": "William and Morris",
+      "name": "ウィリアム・モリス",
       "description": "PEACE LOVE UNITY RESPECT: THE RAVER'S CODE",
-      "condition": "Break the ? box in Neon World."
+      "condition": "Neon Worldにある？の箱を破壊する"
     },
     "mystery_boxes_question": {
-      "name": "Schrödinger",
+      "name": "シュレディンガー",
       "description": "¿?QUELQUIÉNWHEREDŌSHITEКОГДА¿?",
-      "condition": "Break the ? box in Question World."
+      "condition": "Question Worldにある？の箱を破壊する"
     },
     "hexxed": {
       "name": "Hexxed",
-      "condition": "Find yourself in Hexagon Realm."
+      "condition": "Hexagon Realmで自分自身を見つける"
     }
   },
   "unevendream": {
@@ -2344,8 +2344,8 @@
       "condition": "寝室の男の子の胸に座る"
     },
     "rainbow_maze": {
-      "name": "Maze Maestro",
-      "condition": "Reach the final floor of the Rainbow Labyrinth."
+      "name": "迷路マエストロ",
+      "condition": "Rainbow Labyrinthの最後のフロアに到達する"
     }
   }
 }
