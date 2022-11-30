@@ -62,6 +62,10 @@
       "name": "O Réquiem",
       "description": "No final que sobrou foi você, sua propria sombra e um infinito deserto com um ardente sol, do pó ao pó\n\n- O Número 12 \"Réquiem\" do codinome Xolotl",
       "condition": "Zolotl 是也"
+    },
+    "novaflow": {
+      "name": "NovAflow",
+      "condition": "Be NovAflow"
     }
   },
   "yume": {
@@ -1685,27 +1689,40 @@
       "condition": "爬上金字塔，打倒法老，成为梦2记黄金会员™。"
     },
     "gb_memories": {
-      "name": "GB Memories",
-      "description": "Remember this?",
-      "condition": "Witness every secret in the Monochrome GB World and sit on the bench at the end of NES Glitch Tunnel."
+      "name": "GB记忆",
+      "description": "还记得这个吗？",
+      "condition": "见证 Monochrome GB World 全部的秘密后，坐在NES隧道尽头的长凳上。"
     },
     "bunny_cocktail": {
-      "name": "Bunny Cocktail",
-      "description": "Bnuuy!",
-      "condition": "Reveal the hidden bunny in Cocktail Lounge using the Bunny Ears."
+      "name": "小兔鸡尾酒",
+      "description": "兔砸！",
+      "condition": "使用兔耳，让 Cocktail Lounge 中的小兔现形"
     },
     "sweet_poison": {
-      "name": "Sweet Poison",
-      "condition": "Interact with the scientists while using the Drum effect in the Toxic Chemical World."
+      "name": "甜蜜毒药",
+      "condition": "使用铁桶效果时与 Toxic Chemical World 的科学家互动"
     },
     "celestial_garden": {
-      "name": "Transcendental Island",
-      "description": "High up in the clouds, where spirits can roam freely.",
-      "condition": "Enter Celestial Garden."
+      "name": "天上花园",
+      "description": "扶摇直上九万里，此间绝世入梦中",
+      "condition": "进入 Celestial Garden."
     },
     "conway": {
-      "name": "Digital Glider",
-      "condition": "Visit the Conway area in Symbolon."
+      "name": "数字滑翔机",
+      "condition": "拜访 Symbolon 中的康威区域"
+    },
+    "say_my_name": {
+      "name": "Say My Name",
+      "condition": "Spell \"UROTSUKI\" in the Spelling Room"
+    },
+    "water_lantern": {
+      "name": "Divine Water Lanterns",
+      "description": "The lights that illuminate the sanctuary...",
+      "condition": "Reach the Water Lantern World"
+    },
+    "reflecting_electron": {
+      "name": "Subatomic Matrix",
+      "condition": "Enter the Reflecting Electron Zone"
     }
   },
   "flow": {
@@ -1965,6 +1982,11 @@
     "hell_flower": {
       "name": "地狱花",
       "condition": "找到 the Red River 的 Hellflower 并与之互动"
+    },
+    "crystalline_system": {
+      "name": "Ophelia",
+      "description": "Simmerin' crystal can't keep her cool",
+      "condition": "Get the System Crystalline from Crystal Cavern. If you have already obtained it, go the place where you found it."
     }
   },
   "someday": {
@@ -2017,6 +2039,10 @@
       "name": "薛定谔",
       "description": "¿?QUELQUIÉNWHEREDŌSHITEКОГДА¿?",
       "condition": "摧毁 Question World 的 ？ 箱"
+    },
+    "hexxed": {
+      "name": "Hexxed",
+      "condition": "Find yourself in Hexagon Realm."
     }
   },
   "unevendream": {
@@ -2143,9 +2169,9 @@
       "condition": "在 Mermaid Mansion 取得人鱼效果"
     },
     "shimmering_girl": {
-      "name": "Shimmering Girl",
-      "description": "Gazing into the cosmos.",
-      "condition": "Use the Seer effect to see the sparkly-haired girl in Starlit Road."
+      "name": "璀璨少女",
+      "description": "远望宇宙星辰",
+      "condition": "使用 Seer 效果，看见 Starlit Road 中闪烁的女孩。"
     }
   },
   "braingirl": {
@@ -2192,8 +2218,8 @@
       "condition": "在 Museum Tunnel 看飞机起飞"
     },
     "midnight_band": {
-      "name": "Midnight Band",
-      "condition": "See the stage in the Midnight Saloon"
+      "name": "午夜专场",
+      "condition": "在 Midnight Saloon 观看舞台"
     }
   },
   "amillusion": {
@@ -2309,13 +2335,17 @@
     },
     "satiated_rabbit": {
       "name": "Om nom nom",
-      "description": "Not a carrot in the world!",
-      "condition": "Feed the rabbit in the Isle of Seasons"
+      "description": "吃饭乃兔生头等大事",
+      "condition": "喂食 Isle of Seasons 的兔子"
     },
     "sleep_paralysis_mare": {
-      "name": "Mare",
-      "description": "\"Sleep paralysis is a state, during waking up or falling asleep, in which one is conscious but is unable to move or speak.\"",
-      "condition": "Sit on the boy’s chest in his bedroom."
+      "name": "压床鬼",
+      "description": "\"睡眠瘫痪症是在苏醒或入睡时，在意识清醒的情况下无法活动肢体的症状。\"",
+      "condition": "坐在睡梦中男孩的胸口上"
+    },
+    "rainbow_maze": {
+      "name": "Maze Maestro",
+      "condition": "Reach the final floor of the Rainbow Labyrinth."
     }
   }
 }
