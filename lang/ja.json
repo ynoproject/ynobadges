@@ -1723,6 +1723,34 @@
     "reflecting_electron": {
       "name": "Subatomic Matrix",
       "condition": "Electronに到達する"
+    },
+    "aquarius_prison": {
+      "name": "Aquarius Prison",
+      "description": "You have to be more careful where you step!",
+      "condition": "Make the event Creatures of the Power Plant in Power Plant"
+    },
+    "misty_bridges_transmission": {
+      "name": "Transmission from an Old Dream",
+      "condition": "Find an old transmission tower in the Misty Bridges"
+    },
+    "garden_tulamps": {
+      "name": "Garden Tul-amps",
+      "description": "Strangely familiar!",
+      "condition": "See the streetlights in Garden of Treachery and Azure Garden."
+    },
+    "lonely_refrigerator": {
+      "name": "Lonely Refrigerator",
+      "description": "Wonder who left this thing out.",
+      "condition": "Enter the hallway containing the lone refrigerator."
+    },
+    "ahogeko_house": {
+      "name": "Ahogeko",
+      "description": "Just a cute silent girl",
+      "condition": "Go to Ahogeko's House."
+    },
+    "ghostly_interiors": {
+      "name": "Ghostly Interiors",
+      "condition": "Enter the spirit mansion in the Haunted Forest Town"
     }
   },
   "flow": {
@@ -1833,6 +1861,11 @@
     "submit_erosion": {
       "name": "侵食に屈する",
       "condition": "「侵食」が250以上になる"
+    },
+    "deterioration_dark_door": {
+      "name": "Hello?",
+      "description": "What was in there?",
+      "condition": "Interact with the 4th door in the Deterioration Apartment"
     }
   },
   "prayers": {
@@ -2043,6 +2076,11 @@
     "hexxed": {
       "name": "Hexxed",
       "condition": "Hexagon Realmで自分自身を見つける"
+    },
+    "kondo": {
+      "name": "Kondo",
+      "description": "Yes, it's him.",
+      "condition": "See Kondo in all places she appears."
     }
   },
   "unevendream": {
@@ -2172,6 +2210,21 @@
       "name": "煌めく少女",
       "description": "宇宙を見つめる。",
       "condition": "Starlit RoadでSeerを使い、sparkly-haired girlを見る"
+    },
+    "windmill_lake_docks": {
+      "name": "Windmill For The Land",
+      "description": "Windmill windmill for the land...",
+      "condition": "Reach the docks area of Windmill Lake"
+    },
+    "cheese_congregation_island": {
+      "name": "Swiss Scare",
+      "description": "Something that is both normal to want and completely possible to achieve.",
+      "condition": "Escape the cheese chaser area in Congregation Island."
+    },
+    "neon_village_snack_cafe": {
+      "name": "Sugary Sweet",
+      "description": "Which one to pick?",
+      "condition": "Purchase a snack at the café in Neon Village"
     }
   },
   "braingirl": {
@@ -2220,6 +2273,10 @@
     "midnight_band": {
       "name": "真夜中バンド",
       "condition": "Midnight Saloonのステージを見る"
+    },
+    "cowboy_npc_midnight_saloon": {
+      "name": "Expression Celebration",
+      "condition": "Interact with the face-changing NPC found in the Midnight Saloon."
     }
   },
   "amillusion": {

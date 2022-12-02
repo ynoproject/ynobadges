@@ -1723,6 +1723,34 @@
     "reflecting_electron": {
       "name": "Matrice subatomique",
       "condition": "Entrer dans la Reflecting Electron Zone"
+    },
+    "aquarius_prison": {
+      "name": "Prison aqueuse",
+      "description": "Tu dois être plus attentive quand tu marches !",
+      "condition": "Faire l'événement des Creatures of the Power Plant dans la Power Plant."
+    },
+    "misty_bridges_transmission": {
+      "name": "Transmission d'un ancien rêve",
+      "condition": "Trouver la vieille tour de transmission dans les Misty Bridges"
+    },
+    "garden_tulamps": {
+      "name": "Tul-ampes du jardin",
+      "description": "Êtrangement familières !",
+      "condition": "Voir les réverbères dans le Garden of Treachery et dans l'Azure Garden."
+    },
+    "lonely_refrigerator": {
+      "name": "Réfrigérateur isolé",
+      "description": "Je me demande bien qui a laissé ce truc là.",
+      "condition": "Entrer dans le couloir contenant le réfrigérateur isolé."
+    },
+    "ahogeko_house": {
+      "name": "Ahogeko",
+      "description": "Juste une mignonne fille silencieuse",
+      "condition": "Aller dans l'Ahogeko's House."
+    },
+    "ghostly_interiors": {
+      "name": "Intérieurs fantomatiques",
+      "condition": "Entrer dans le Manoir des Âmes dans l'Haunted Forest Town"
     }
   },
   "flow": {
@@ -1833,6 +1861,11 @@
     "submit_erosion": {
       "name": "Subir l'érosion",
       "condition": "Avoir 250 d'\"Érosion\" ou plus."
+    },
+    "deterioration_dark_door": {
+      "name": "Bonjour ?",
+      "description": "Qu'est-ce qu'il y avait là-dedans ?",
+      "condition": "Interagir avec la 4ème porte dans les Deterioration Apartment"
     }
   },
   "prayers": {
@@ -2043,6 +2076,11 @@
     "hexxed": {
       "name": "Hexxé",
       "condition": "Retrouve-toi dans l'Hexagon Realm."
+    },
+    "kondo": {
+      "name": "Kondo",
+      "description": "Oui, c'est lui.",
+      "condition": "Voir Kondo dans tous les lieux où elle apparaît."
     }
   },
   "unevendream": {
@@ -2172,6 +2210,21 @@
       "name": "Fille chatoyante",
       "description": "Contemplant le cosmos.",
       "condition": "Utiliser l'effet Voyant pour voir la fille aux cheveux scintillants dans la Starlit Road."
+    },
+    "windmill_lake_docks": {
+      "name": "Windmill For The Land",
+      "description": "Windmill windmill for the land...",
+      "condition": "Atteindre la zone des docks au Windmill Lake"
+    },
+    "cheese_congregation_island": {
+      "name": "Peur du fromage suisse",
+      "description": "Quelque chose qui est à la fois normaly de vouloir et qui est entièrement possible de compléter.",
+      "condition": "S'échapper de la zone des chasseurs fromage dans la Congregation Island."
+    },
+    "neon_village_snack_cafe": {
+      "name": "Sucreries sucrées",
+      "description": "Laquelle vais-je prendre ?",
+      "condition": "Acheter un goûter au café du Neon Village"
     }
   },
   "braingirl": {
@@ -2220,6 +2273,10 @@
     "midnight_band": {
       "name": "Concert nocturne",
       "condition": "Voir la scène dans le Midnight Saloon"
+    },
+    "cowboy_npc_midnight_saloon": {
+      "name": "Célébration expressive",
+      "condition": "Interagir avec le PNJ à l'expression faciale variable trouvable dans le Midnight Saloon."
     }
   },
   "amillusion": {
