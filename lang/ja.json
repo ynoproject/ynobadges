@@ -1802,6 +1802,29 @@
       "name": "いちご.exe",
       "description": "薬をいちごミルクで流し込む",
       "condition": "いちごミルクに到達する"
+<<<<<<< Updated upstream
+=======
+    },
+    "migraine_pin": {
+      "name": "Migraine Pin",
+      "description": "My head is throbbing...",
+      "condition": "Enter the room containing the Pink Headache Creature in Ecstacy World."
+    },
+    "robot_friend": {
+      "name": "New Badge",
+      "description": "Which screen did you get?",
+      "condition": "Enter the Alley Robot's room in Dark Alleys."
+    },
+    "frozen_disco": {
+      "name": "Frozen Disco",
+      "description": "You're at the party, and it's a place you've seen before.",
+      "condition": "Pan the camera up to view the Corrupted Lamplighter at the end of Frozen Disco."
+    },
+    "thrice_chocolate": {
+      "name": "New Badge",
+      "description": "White or milk? Maybe both?",
+      "condition": "Interact with the 3 different flavored Chocolate Bars in Chocolate World."
+>>>>>>> Stashed changes
     }
   },
   "flow": {
@@ -2464,6 +2487,16 @@
       "name": "柔らかな夕焼け",
       "description": "暖かな日差しに包まれ、長居していると眠りに落ちてしまいそう。",
       "condition": "Sunset Cliffに到達する"
+    },
+    "blossoming_view": {
+      "name": "Blossoming View",
+      "description": "What a beautiful wedding!",
+      "condition": "Encounter the Bunny Wedding in Yin Yang Lake."
+    },
+    "fake_rainbow": {
+      "name": "Fake Rainbow",
+      "description": "There isn't any sunshine near this rainbow.",
+      "condition": "Interact with a Fake Memory in Cloud."
     }
   },
   "genie": {
