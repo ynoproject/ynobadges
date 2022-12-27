@@ -1,13 +1,26 @@
 {
   "bp": 35,
   "reqType": "tags",
-  "reqStrings": [
-    "glitch_world_kondo",
-    "tubes_kondo",
-    "purple_crystal",
-    "corrupted_art_gallery_sh_e",
-    "lsd_world",
-    "kondo_ending_room"
+  "reqStringArrays": [
+    [
+      "glitch_world_kondo"
+    ],
+    [
+      "tubes_kondo"
+    ],
+    [
+      "purple_crystal"
+    ],
+    [
+      "corrupted_art_gallery_sh_e"
+    ],
+    [
+      "lsd_world"
+    ],
+    [
+      "kondo_ending_room",
+      "kondo_ending_room_2"
+    ]
   ],
   "map": 248,
   "secretMap": true,
