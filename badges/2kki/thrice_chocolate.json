@@ -1,13 +1,20 @@
 {
   "group": "2_el",
   "bp": 20,
-  "reqType": "tags",
-  "reqStrings": [
-    "thrice_chocolate_milk",
-    "thrice_chocolate_white",
-    "thrice_chocolate_mix"
+    "reqStringArrays": [
+    [
+      "thrice_chocolate_milk",
+      "thrice_chocolate_milk_2"
+    ],
+    [
+      "thrice_chocolate_white",
+      "thrice_chocolate_white_2"
+    ],
+    [
+      "thrice_chocolate_mix",
+      "thrice_chocolate_mix_2"
+    ]
   ],
-  "reqCount": 3,
   "map": 12,
   "art": "Tamarindo",
   "batch": 37
