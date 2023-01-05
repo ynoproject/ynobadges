@@ -223,9 +223,9 @@
       "condition": "火星でねこを使用しUFOを呼び寄せる"
     },
     "girl_closet": {
-      "name": "Girl in the Closet",
-      "description": "\"Who are you?\"",
-      "condition": "Open the closet containing Madotsuki in the Checkered Tile Path"
+      "name": "クローゼットの中の少女",
+      "description": "\"あなたは誰？\"",
+      "condition": "タイル通路の窓付きが入っているクローゼットを開ける"
     }
   },
   "2kki": {
@@ -1857,18 +1857,22 @@
       "condition": "さんかく遺跡のつるがある場所に行く"
     },
     "2kki_chainsaw500": {
-      "name": "Nightmare on Simple Street",
-      "description": "She'll cut you in two!",
-      "condition": "Have a body count of 500 or more."
+      "name": "無限廊下の悪夢",
+      "description": "彼女はあなたを真っ二つにするだろう！",
+      "condition": "殺傷数を500以上にする."
     },
     "2kki_chainsaw1000": {
-      "name": "Japan Chainsaw Massacre",
-      "description": "Dreamscape's most wanted!",
-      "condition": "Have a body count of 1000 or more."
+      "name": "斬殺魔のいけにえ",
+      "description": "無限の夢の指名手配犯！",
+      "condition": "殺傷数を1000以上にする"
     },
     "cinder_heaven": {
-      "name": "Cinder Statue Heaven",
-      "condition": "Enter Cinder Statue Heaven."
+      "name": "天空",
+      "condition": "天空に到達する"
+    },
+    "fossilized_haven": {
+      "name": "Fossilized Haven",
+      "condition": "Enter the glowing mushroom cavern in Floating Catacombs without scaring it's inhabitants."
     }
   },
   "flow": {
@@ -1986,9 +1990,9 @@
       "condition": "退廃アパートの4つ目の部屋に入ろうとする"
     },
     "flow_hello": {
-      "name": "Hello?",
-      "description": "What was in there?",
-      "condition": "Interact with the 4th door in the Deterioration Department."
+      "name": "こんにちは？",
+      "description": "何があったんだ？",
+      "condition": "退廃アパートの4つ目の部屋に入ろうとする"
     }
   },
   "prayers": {
