@@ -226,6 +226,11 @@
       "name": "クローゼットの中の少女",
       "description": "\"あなたは誰？\"",
       "condition": "タイル通路の窓付きが入っているクローゼットを開ける"
+    },
+    "quivering_jaw": {
+      "name": "The One Grinding Its Teeth",
+      "description": "Is it cold in here, or is it just me?",
+      "condition": "Find The Thing with the Quivering Jaw"
     }
   },
   "2kki": {
@@ -1873,6 +1878,34 @@
     "fossilized_haven": {
       "name": "化石化した楽園",
       "condition": "絞め殺しの木のキノコエリアの住民が驚かないように近づく"
+    },
+    "bread_world": {
+      "name": "The Best Thing Since Sliced Bread!",
+      "condition": "Go to Bread World"
+    },
+    "queen_bee_eyes": {
+      "name": "Eyes of the Queen Bee",
+      "condition": "Stare into Queen Bee's eyes with the Bug effect active"
+    },
+    "aurous_gear": {
+      "name": "Aurous Gear",
+      "description": "Makin' clocks and watches work",
+      "condition": "Visit Aureate Clockworks"
+    },
+    "bittersweet_love": {
+      "name": "Bittersweet Love",
+      "description": "Sugar coated lies.",
+      "condition": "Reach the end of Celestial Night"
+    },
+    "flower_queen": {
+      "name": "Flower Queen",
+      "description": "My dream bouquet!",
+      "condition": "Visit Flower Scent World, Field of Cosmos, Rapeseed Fields, Floral Crossroads and House Over the Rainbow's rose field"
+    },
+    "takoyaki_dance": {
+      "name": "Takoyaki Dance",
+      "description": "Spiiiiin~",
+      "condition": "Use the School Boy effect to make the Takoyaki spin"
     }
   },
   "flow": {
@@ -1988,11 +2021,6 @@
       "name": "こんにちは？",
       "description": "何があったんだ？",
       "condition": "退廃アパートの4つ目の部屋に入ろうとする"
-    },
-    "flow_hello": {
-      "name": "こんにちは？",
-      "description": "何があったんだ？",
-      "condition": "退廃アパートの4つ目の部屋に入ろうとする"
     }
   },
   "prayers": {
@@ -2055,6 +2083,10 @@
       "name": "幻影のシンボル",
       "description": "自分自身の霊の目撃者になる",
       "condition": "Symbols Mazeで幽霊のFluoretteに話しかける"
+    },
+    "all_seeing_graffiti": {
+      "name": "All-Seeing Graffiti",
+      "condition": "Enter the eye mural map in the GB Forest"
     }
   },
   "deepdreams": {
@@ -2208,6 +2240,15 @@
       "name": "Kondo",
       "description": "そう、彼だ",
       "condition": "彼女が現れるすべての場所でKondoを見つける"
+    },
+    "rusty_bubble": {
+      "name": "Rusty Bubble",
+      "condition": "Hit Bubbly with the Wrench effect"
+    },
+    "bioluminescence": {
+      "name": "Bioluminescence",
+      "description": "I've named it Miru.",
+      "condition": "Enter the Overgrown Caves"
     }
   },
   "unevendream": {
@@ -2550,6 +2591,16 @@
       "name": "ニセモノの虹",
       "description": "虹はあるのに太陽はない",
       "condition": "Above the Cloudsで偽物のメモリーを手に入れる"
+    },
+    "owl_chorus": {
+      "name": "The Owl Chorus",
+      "description": "Let's sing! Let's sing! ",
+      "condition": "Let all the owls of the Owl Swamp sing"
+    },
+    "pool_penguin": {
+      "name": "Pool Penguin",
+      "description": "A little penguin happily moistening in the Pool... Noot!",
+      "condition": "Interact with the penguin in the floater in Swimming Pool"
     }
   },
   "genie": {
@@ -2562,11 +2613,6 @@
       "name": "かくれんぼ",
       "description": "捕まらないように...",
       "condition": "Hiding PlaceのStealth Sectionをクリアする"
-    },
-    "damn_over": {
-      "name": "Damn Over",
-      "description": "予想だにしなかった、そうだろう？",
-      "condition": "ゲームオーバーを経験する"
     },
     "hello_there": {
       "name": "こんにちは！",
