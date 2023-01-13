@@ -226,6 +226,11 @@
       "name": "Girl in the Closet",
       "description": "\"Who are you?\"",
       "condition": "Open the closet containing Madotsuki in the Checkered Tile Path"
+    },
+    "quivering_jaw": {
+      "name": "The One Grinding Its Teeth",
+      "description": "Is it cold in here, or is it just me?",
+      "condition": "Find The Thing with the Quivering Jaw"
     }
   },
   "2kki": {
@@ -1869,6 +1874,38 @@
     "cinder_heaven": {
       "name": "O Paraíso das Estatuas Cinzas",
       "condition": "Enter Cinder Statue Heaven."
+    },
+    "fossilized_haven": {
+      "name": "Fossilized Haven",
+      "condition": "Enter the glowing mushroom cavern in Floating Catacombs without scaring it's inhabitants."
+    },
+    "bread_world": {
+      "name": "The Best Thing Since Sliced Bread!",
+      "condition": "Go to Bread World"
+    },
+    "queen_bee_eyes": {
+      "name": "Eyes of the Queen Bee",
+      "condition": "Stare into Queen Bee's eyes with the Bug effect active"
+    },
+    "aurous_gear": {
+      "name": "Aurous Gear",
+      "description": "Makin' clocks and watches work",
+      "condition": "Visit Aureate Clockworks"
+    },
+    "bittersweet_love": {
+      "name": "Bittersweet Love",
+      "description": "Sugar coated lies.",
+      "condition": "Reach the end of Celestial Night"
+    },
+    "flower_queen": {
+      "name": "Flower Queen",
+      "description": "My dream bouquet!",
+      "condition": "Visit Flower Scent World, Field of Cosmos, Rapeseed Fields, Floral Crossroads and House Over the Rainbow's rose field"
+    },
+    "takoyaki_dance": {
+      "name": "Takoyaki Dance",
+      "description": "Spiiiiin~",
+      "condition": "Use the School Boy effect to make the Takoyaki spin"
     }
   },
   "flow": {
@@ -1984,11 +2021,6 @@
       "name": "Hello?",
       "description": "What was in there?",
       "condition": "Interact with the 4th door in the Deterioration Apartment"
-    },
-    "flow_hello": {
-      "name": "Hello?",
-      "description": "What was in there?",
-      "condition": "Interact with the 4th door in the Deterioration Department."
     }
   },
   "prayers": {
@@ -2051,6 +2083,10 @@
       "name": "Fantasma do Símbolos",
       "description": "Seja testemunha de seu próprio fantasma.",
       "condition": "Interaja com o Fluorette Fantasma no Symbols Maze."
+    },
+    "all_seeing_graffiti": {
+      "name": "All-Seeing Graffiti",
+      "condition": "Enter the eye mural map in the GB Forest"
     }
   },
   "deepdreams": {
@@ -2204,6 +2240,15 @@
       "name": "Kondo",
       "description": "Yes, it's him.",
       "condition": "See Kondo in all places she appears."
+    },
+    "rusty_bubble": {
+      "name": "Rusty Bubble",
+      "condition": "Hit Bubbly with the Wrench effect"
+    },
+    "bioluminescence": {
+      "name": "Bioluminescence",
+      "description": "I've named it Miru.",
+      "condition": "Enter the Overgrown Caves"
     }
   },
   "unevendream": {
@@ -2546,6 +2591,16 @@
       "name": "Fake Rainbow",
       "description": "There isn't any sunshine near this rainbow.",
       "condition": "Interact with a Fake Memory in Above the Clouds."
+    },
+    "owl_chorus": {
+      "name": "The Owl Chorus",
+      "description": "Let's sing! Let's sing! ",
+      "condition": "Let all the owls of the Owl Swamp sing"
+    },
+    "pool_penguin": {
+      "name": "Pool Penguin",
+      "description": "A little penguin happily moistening in the Pool... Noot!",
+      "condition": "Interact with the penguin in the floater in Swimming Pool"
     }
   },
   "genie": {
@@ -2558,11 +2613,6 @@
       "name": "Hide-and-Seek",
       "description": "Try not to get caught...",
       "condition": "Successfully clear the Stealth Section in Hiding Place."
-    },
-    "damn_over": {
-      "name": "Damn Over",
-      "description": "Didn't expect THAT, did you?",
-      "condition": "Experience a Game Over."
     },
     "hello_there": {
       "name": "Hello There",

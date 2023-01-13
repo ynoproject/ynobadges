@@ -224,8 +224,13 @@
     },
     "girl_closet": {
       "name": "La fille du placard",
-      "description": "\"Qui es-tu ?\"",
+      "description": "« Qui es-tu ? »",
       "condition": "Ouvrir le placard contenant Madotsuki dans le Checkered Tile Path"
+    },
+    "quivering_jaw": {
+      "name": "Celui qui fait grincer ses dents",
+      "description": "Il fait froid ici ou c'est juste moi ?",
+      "condition": "Trouver La Chose avec la Mâchoire Tremblante"
     }
   },
   "2kki": {
@@ -1873,6 +1878,34 @@
     "fossilized_haven": {
       "name": "Havre fossilisé",
       "condition": "Entrer dans la caverne aux champignons luminescents dans les Floating Catacombs sans effrayer ses habitants"
+    },
+    "bread_world": {
+      "name": "La meilleure chose depuis le pain tranché !",
+      "condition": "Aller au Bread World"
+    },
+    "queen_bee_eyes": {
+      "name": "Yeux de la Reine des Abeilles",
+      "condition": "Fixer les yeux de la Reine des Abeilles alors que l'effet Insecte est actif"
+    },
+    "aurous_gear": {
+      "name": "Roue dentée dorée",
+      "description": "J'fais marcher les horloges et les montres",
+      "condition": "Visiter l'Aureate Clockworks"
+    },
+    "bittersweet_love": {
+      "name": "Amour doux-amer",
+      "description": "Une bonne pincée de sucre enrobée de mensonges.",
+      "condition": "Atteindre la fin de Celestial Night"
+    },
+    "flower_queen": {
+      "name": "Reine fleurie",
+      "description": "Mon bouquet de rêve !",
+      "condition": "Visiter Flower Scent World, Field of Cosmos, Rapeseed Fields, Floral Crossroads et le champ de roses d'House Over the Rainbow"
+    },
+    "takoyaki_dance": {
+      "name": "Danse du takoyaki",
+      "description": "Spiiiiin~",
+      "condition": "Utiliser l'effet Gakuran pour faire tourner le takoyaki"
     }
   },
   "flow": {
@@ -1988,11 +2021,6 @@
       "name": "Bonjour ?",
       "description": "Qu'est-ce qu'il y avait là-dedans ?",
       "condition": "Interagir avec la 4ème porte dans les Deterioration Apartment"
-    },
-    "flow_hello": {
-      "name": "Hello?",
-      "description": "What was in there?",
-      "condition": "Interact with the 4th door in the Deterioration Department."
     }
   },
   "prayers": {
@@ -2055,6 +2083,10 @@
       "name": "Symboles fantomatiques",
       "description": "Porte ressemblance à ton propre fantôme.",
       "condition": "Interagir avec la Fluorette Fantomatique dans le Symbols Maze"
+    },
+    "all_seeing_graffiti": {
+      "name": "Graffiti qui voit tout",
+      "condition": "Entrer dans la zone du graffiti œil dans la GB Forest"
     }
   },
   "deepdreams": {
@@ -2208,6 +2240,15 @@
       "name": "Kondo",
       "description": "Oui, c'est lui.",
       "condition": "Voir Kondo dans tous les lieux où elle apparaît"
+    },
+    "rusty_bubble": {
+      "name": "Bulle rouillée",
+      "condition": "Frapper Bubbly avec l'effet Clé anglaise"
+    },
+    "bioluminescence": {
+      "name": "Bioluminescence",
+      "description": "Je l'ai nommé Miru.",
+      "condition": "Entrer dans les Overgrown Caves"
     }
   },
   "unevendream": {
@@ -2550,6 +2591,16 @@
       "name": "Faux arc-en-ciel",
       "description": "Il n'y a aucun rayon de soleil à côté de cet arc-en-ciel.",
       "condition": "Interagir avec un Faux Souvenir dans Above the Clouds"
+    },
+    "owl_chorus": {
+      "name": "La chorale des hiboux",
+      "description": "Chantons ! Chantons !",
+      "condition": "Faire chanter tous les hiboux de l'Owl Swamp"
+    },
+    "pool_penguin": {
+      "name": "Pingouin de la piscine",
+      "description": "Un petit pingouin s'humidifiant joyeusement dans la piscine... Noot !",
+      "condition": "Interagir avec le pingouin dans sa bouée dans la Swimming Pool"
     }
   },
   "genie": {
@@ -2562,11 +2613,6 @@
       "name": "Cache-cache",
       "description": "Essaie de ne pas te faire attraper...",
       "condition": "Traverser avec succès la section de furtivité dans l'Hiding Place"
-    },
-    "damn_over": {
-      "name": "Damn Over",
-      "description": "Tu ne t'attendais pas à ÇA, n'est-ce-pas ?",
-      "condition": "Subir un Game Over"
     },
     "hello_there": {
       "name": "Bonjour toi",
