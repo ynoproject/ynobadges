@@ -10,6 +10,64 @@
       "description": "현재 장착된 메뉴 타입에 알맞게 조정됩니다",
       "condition": "총 500개의 배지를 수집하기 (숨겨진 배지는 제외)"
     },
+    "mono": {
+      "name": "탐험가 뱃지",
+      "condition": "탐험 랭크 <중급>에 도달"
+    },
+    "bronze": {
+      "name": "브론즈 탐험가 뱃지",
+      "condition": "탐험 랭크 <브론즈>에 도달"
+    },
+    "silver": {
+      "name": "실버 탐험가 뱃지",
+      "condition": "탐험 랭크 <실버>에 도달"
+    },
+    "gold": {
+      "name": "골드 탐험가 뱃지",
+      "condition": "탐험 랭크 <골드>에 도달"
+    },
+    "platinum": {
+      "name": "플래티넘 탐험가 뱃지",
+      "condition": "탐험 랭크 <플래티넘>에 도달"
+    },
+    "diamond": {
+      "name": "다이아몬드 탐험가 뱃지",
+      "condition": "탐험 랭크 <다이아몬드>에 도달"
+    },
+    "vm": {
+      "name": "자판기 사냥꾼 뱃지",
+      "condition": "5개의 자판기를 발견하기"
+    },
+    "vm_bronze": {
+      "name": "브론즈 자판기 사냥꾼 뱃지",
+      "condition": "10개의 자판기를 발견하기"
+    },
+    "vm_silver": {
+      "name": "실버 자판기 사냥꾼 뱃지",
+      "condition": "25개의 자판기를 발견하기"
+    },
+    "vm_gold": {
+      "name": "골드 자판기 사냥꾼 뱃지",
+      "condition": "50개의 자판기를 발견하기"
+    },
+    "vm_platinum": {
+      "name": "플래티넘 자판기 사냥꾼 뱃지",
+      "condition": "100개의 자판기를 발견하기"
+    },
+    "vm_diamond": {
+      "name": "다이아몬드 자판기 사냥꾼 뱃지",
+      "condition": "200개의 자판기를 발견하기"
+    },
+    "exp_amulet": {
+      "name": "여행가 뱃지",
+      "description": "당신에게 어울리네요",
+      "condition": "종합 250 탐험을 완료하기"
+    },
+    "exp_amulet_2": {
+      "name": "울트라 여행가 뱃지",
+      "description": "당신에게 정말로 어울리네요!",
+      "condition": "종합 1000 탐험을 완료하기"
+    },
     "medal_bronze": {
       "name": "브론즈 메달",
       "condition": "랭킹에 있는 카테고리들 중 어느 곳에서든 100위 안에 들기"
@@ -234,30 +292,6 @@
     }
   },
   "2kki": {
-    "mono": {
-      "name": "탐험가 뱃지",
-      "condition": "탐험 랭크 <중급>에 도달"
-    },
-    "bronze": {
-      "name": "브론즈 탐험가 뱃지",
-      "condition": "탐험 랭크 <브론즈>에 도달"
-    },
-    "silver": {
-      "name": "실버 탐험가 뱃지",
-      "condition": "탐험 랭크 <실버>에 도달"
-    },
-    "gold": {
-      "name": "골드 탐험가 뱃지",
-      "condition": "탐험 랭크 <골드>에 도달"
-    },
-    "platinum": {
-      "name": "플래티넘 탐험가 뱃지",
-      "condition": "탐험 랭크 <플래티넘>에 도달"
-    },
-    "diamond": {
-      "name": "다이아몬드 탐험가 뱃지",
-      "condition": "탐험 랭크 <다이아몬드>에 도달"
-    },
     "compass": {
       "name": "모험가 뱃지",
       "condition": "방문 가능한 30%의 장소들을 탐험하기"
@@ -281,40 +315,6 @@
     "compass_diamond": {
       "name": "다이아몬드 모험가 뱃지",
       "condition": "방문 가능한 95%의 장소들을 탐험하기"
-    },
-    "vm": {
-      "name": "자판기 사냥꾼 뱃지",
-      "condition": "5개의 자판기를 발견하기"
-    },
-    "vm_bronze": {
-      "name": "브론즈 자판기 사냥꾼 뱃지",
-      "condition": "10개의 자판기를 발견하기"
-    },
-    "vm_silver": {
-      "name": "실버 자판기 사냥꾼 뱃지",
-      "condition": "25개의 자판기를 발견하기"
-    },
-    "vm_gold": {
-      "name": "골드 자판기 사냥꾼 뱃지",
-      "condition": "50개의 자판기를 발견하기"
-    },
-    "vm_platinum": {
-      "name": "플래티넘 자판기 사냥꾼 뱃지",
-      "condition": "100개의 자판기를 발견하기"
-    },
-    "vm_diamond": {
-      "name": "다이아몬드 자판기 사냥꾼 뱃지",
-      "condition": "200개의 자판기를 발견하기"
-    },
-    "exp_amulet": {
-      "name": "여행가 뱃지",
-      "description": "당신에게 어울리네요",
-      "condition": "종합 250 탐험을 완료하기"
-    },
-    "exp_amulet_2": {
-      "name": "울트라 여행가 뱃지",
-      "description": "당신에게 정말로 어울리네요!",
-      "condition": "종합 1000 탐험을 완료하기"
     },
     "crushed": {
       "name": "쥐포 뱃지",

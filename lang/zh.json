@@ -10,6 +10,64 @@
       "description": "会根据您的菜单主题改变颜色",
       "condition": "收集 500 枚徽章 (不含隐藏徽章)"
     },
+    "mono": {
+      "name": "梦境远征队",
+      "condition": "在梦远征中达到进阶等级"
+    },
+    "bronze": {
+      "name": "青铜远征队",
+      "condition": "在梦远征中达到青铜等级"
+    },
+    "silver": {
+      "name": "白银远征队",
+      "condition": "在梦远征中达到白银等级"
+    },
+    "gold": {
+      "name": "黄金远征队",
+      "condition": "在梦远征中达到黄金等级"
+    },
+    "platinum": {
+      "name": "铂金远征队",
+      "condition": "在梦远征中达到铂金等级"
+    },
+    "diamond": {
+      "name": "钻石远征队",
+      "condition": "在梦远征中达到钻石等级"
+    },
+    "vm": {
+      "name": "自贩机猎人",
+      "condition": "完成 5 次自贩机远征"
+    },
+    "vm_bronze": {
+      "name": "青铜自贩机猎人",
+      "condition": "完成 10 次自贩机远征"
+    },
+    "vm_silver": {
+      "name": "白银自贩机猎人",
+      "condition": "完成 25 次自贩机远征"
+    },
+    "vm_gold": {
+      "name": "黄金自贩机猎人",
+      "condition": "完成 50 次自贩机远征"
+    },
+    "vm_platinum": {
+      "name": "铂金自贩机猎人",
+      "condition": "完成 100 次自贩机远征"
+    },
+    "vm_diamond": {
+      "name": "钻石自贩机猎人",
+      "condition": "完成 200 次自贩机远征"
+    },
+    "exp_amulet": {
+      "name": "远征护身符",
+      "description": "会根据您的所处位置改变颜色",
+      "condition": "完成 250 次梦远征"
+    },
+    "exp_amulet_2": {
+      "name": "远征护身符 EX",
+      "description": "会根据您的所处位置改变颜色",
+      "condition": "完成 1000 次梦远征"
+    },
     "medal_bronze": {
       "name": "青铜奖章",
       "condition": "在任意排行榜上名列前百"
@@ -234,30 +292,6 @@
     }
   },
   "2kki": {
-    "mono": {
-      "name": "梦境远征队",
-      "condition": "在梦远征中达到进阶等级"
-    },
-    "bronze": {
-      "name": "青铜远征队",
-      "condition": "在梦远征中达到青铜等级"
-    },
-    "silver": {
-      "name": "白银远征队",
-      "condition": "在梦远征中达到白银等级"
-    },
-    "gold": {
-      "name": "黄金远征队",
-      "condition": "在梦远征中达到黄金等级"
-    },
-    "platinum": {
-      "name": "铂金远征队",
-      "condition": "在梦远征中达到铂金等级"
-    },
-    "diamond": {
-      "name": "钻石远征队",
-      "condition": "在梦远征中达到钻石等级"
-    },
     "compass": {
       "name": "梦境探索者",
       "condition": "在梦远征及无尽流浪中踏遍 30% 的地图"
@@ -281,40 +315,6 @@
     "compass_diamond": {
       "name": "钻石探梦者",
       "condition": "在梦远征及无尽流浪中踏遍 95% 的地图"
-    },
-    "vm": {
-      "name": "自贩机猎人",
-      "condition": "完成 5 次自贩机远征"
-    },
-    "vm_bronze": {
-      "name": "青铜自贩机猎人",
-      "condition": "完成 10 次自贩机远征"
-    },
-    "vm_silver": {
-      "name": "白银自贩机猎人",
-      "condition": "完成 25 次自贩机远征"
-    },
-    "vm_gold": {
-      "name": "黄金自贩机猎人",
-      "condition": "完成 50 次自贩机远征"
-    },
-    "vm_platinum": {
-      "name": "铂金自贩机猎人",
-      "condition": "完成 100 次自贩机远征"
-    },
-    "vm_diamond": {
-      "name": "钻石自贩机猎人",
-      "condition": "完成 200 次自贩机远征"
-    },
-    "exp_amulet": {
-      "name": "远征护身符",
-      "description": "会根据您的所处位置改变颜色",
-      "condition": "完成 250 次梦远征"
-    },
-    "exp_amulet_2": {
-      "name": "远征护身符 EX",
-      "description": "会根据您的所处位置改变颜色",
-      "condition": "完成 1000 次梦远征"
     },
     "crushed": {
       "name": "钢印",

@@ -10,6 +10,64 @@
       "description": "It adapts to match your game theme",
       "condition": "Collect a total of 500 badges (hidden badges excluded)"
     },
+    "mono": {
+      "name": "Expeditionist",
+      "condition": "Reach Intermediate rank in expeditions"
+    },
+    "bronze": {
+      "name": "Bronze Expeditionist",
+      "condition": "Reach Bronze rank in expeditions"
+    },
+    "silver": {
+      "name": "Silver Expeditionist",
+      "condition": "Reach Silver rank in expeditions"
+    },
+    "gold": {
+      "name": "Gold Expeditionist",
+      "condition": "Reach Gold rank in expeditions"
+    },
+    "platinum": {
+      "name": "Platinum Expeditionist",
+      "condition": "Reach Platinum rank in expeditions"
+    },
+    "diamond": {
+      "name": "Diamond Expeditionist",
+      "condition": "Reach Diamond rank in expeditions"
+    },
+    "vm": {
+      "name": "Vending Machine Finder",
+      "condition": "Complete 5 Vending Machine Finder expeditions"
+    },
+    "vm_bronze": {
+      "name": "Bronze Vending Machine Finder",
+      "condition": "Complete 10 Vending Machine Finder expeditions"
+    },
+    "vm_silver": {
+      "name": "Silver Vending Machine Finder",
+      "condition": "Complete 25 Vending Machine Finder expeditions"
+    },
+    "vm_gold": {
+      "name": "Gold Vending Machine Finder",
+      "condition": "Complete 50 Vending Machine Finder expeditions"
+    },
+    "vm_platinum": {
+      "name": "Platinum Vending Machine Finder",
+      "condition": "Complete 100 Vending Machine Finder expeditions"
+    },
+    "vm_diamond": {
+      "name": "Diamond Vending Machine Finder",
+      "condition": "Complete 200 Vending Machine Finder expeditions"
+    },
+    "exp_amulet": {
+      "name": "Expeditionist Amulet",
+      "description": "It adapts to match your surroundings",
+      "condition": "Complete a total of 250 expeditions"
+    },
+    "exp_amulet_2": {
+      "name": "Expeditionist Amulet EX",
+      "description": "It adapts to match your surroundings",
+      "condition": "Complete a total of 1000 expeditions"
+    },
     "medal_bronze": {
       "name": "Bronze Medal",
       "condition": "Achieve 100th place or better on the rankings in any category"
@@ -234,30 +292,6 @@
     }
   },
   "2kki": {
-    "mono": {
-      "name": "Expeditionist",
-      "condition": "Reach Intermediate rank in expeditions"
-    },
-    "bronze": {
-      "name": "Bronze Expeditionist",
-      "condition": "Reach Bronze rank in expeditions"
-    },
-    "silver": {
-      "name": "Silver Expeditionist",
-      "condition": "Reach Silver rank in expeditions"
-    },
-    "gold": {
-      "name": "Gold Expeditionist",
-      "condition": "Reach Gold rank in expeditions"
-    },
-    "platinum": {
-      "name": "Platinum Expeditionist",
-      "condition": "Reach Platinum rank in expeditions"
-    },
-    "diamond": {
-      "name": "Diamond Expeditionist",
-      "condition": "Reach Diamond rank in expeditions"
-    },
     "compass": {
       "name": "Expedition Completionist",
       "condition": "Complete expeditions in 30% of available locations"
@@ -281,40 +315,6 @@
     "compass_diamond": {
       "name": "Diamond Expedition Completionist",
       "condition": "Complete expeditions in 95% of available locations"
-    },
-    "vm": {
-      "name": "Vending Machine Finder",
-      "condition": "Complete 5 Vending Machine Finder expeditions"
-    },
-    "vm_bronze": {
-      "name": "Bronze Vending Machine Finder",
-      "condition": "Complete 10 Vending Machine Finder expeditions"
-    },
-    "vm_silver": {
-      "name": "Silver Vending Machine Finder",
-      "condition": "Complete 25 Vending Machine Finder expeditions"
-    },
-    "vm_gold": {
-      "name": "Gold Vending Machine Finder",
-      "condition": "Complete 50 Vending Machine Finder expeditions"
-    },
-    "vm_platinum": {
-      "name": "Platinum Vending Machine Finder",
-      "condition": "Complete 100 Vending Machine Finder expeditions"
-    },
-    "vm_diamond": {
-      "name": "Diamond Vending Machine Finder",
-      "condition": "Complete 200 Vending Machine Finder expeditions"
-    },
-    "exp_amulet": {
-      "name": "Expeditionist Amulet",
-      "description": "It adapts to match your surroundings",
-      "condition": "Complete a total of 250 expeditions"
-    },
-    "exp_amulet_2": {
-      "name": "Expeditionist Amulet EX",
-      "description": "It adapts to match your surroundings",
-      "condition": "Complete a total of 1000 expeditions"
     },
     "crushed": {
       "name": "Crush",

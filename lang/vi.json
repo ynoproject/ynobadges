@@ -10,6 +10,64 @@
       "description": "Màu huy hiệu sẽ thay đổi theo kiểu menu của bạn",
       "condition": "Sưu tầm tổng cộng 500 huy hiệu (không bao gồm huy hiệu ẩn)"
     },
+    "mono": {
+      "name": "Expeditionist",
+      "condition": "Reach Intermediate rank in expeditions"
+    },
+    "bronze": {
+      "name": "Bronze Expeditionist",
+      "condition": "Reach Bronze rank in expeditions"
+    },
+    "silver": {
+      "name": "Silver Expeditionist",
+      "condition": "Reach Silver rank in expeditions"
+    },
+    "gold": {
+      "name": "Gold Expeditionist",
+      "condition": "Reach Gold rank in expeditions"
+    },
+    "platinum": {
+      "name": "Platinum Expeditionist",
+      "condition": "Reach Platinum rank in expeditions"
+    },
+    "diamond": {
+      "name": "Diamond Expeditionist",
+      "condition": "Reach Diamond rank in expeditions"
+    },
+    "vm": {
+      "name": "Vending Machine Finder",
+      "condition": "Complete 5 Vending Machine Finder expeditions"
+    },
+    "vm_bronze": {
+      "name": "Bronze Vending Machine Finder",
+      "condition": "Complete 10 Vending Machine Finder expeditions"
+    },
+    "vm_silver": {
+      "name": "Silver Vending Machine Finder",
+      "condition": "Complete 25 Vending Machine Finder expeditions"
+    },
+    "vm_gold": {
+      "name": "Gold Vending Machine Finder",
+      "condition": "Complete 50 Vending Machine Finder expeditions"
+    },
+    "vm_platinum": {
+      "name": "Platinum Vending Machine Finder",
+      "condition": "Complete 100 Vending Machine Finder expeditions"
+    },
+    "vm_diamond": {
+      "name": "Diamond Vending Machine Finder",
+      "condition": "Complete 200 Vending Machine Finder expeditions"
+    },
+    "exp_amulet": {
+      "name": "Bùa Hộ mệnh Tham quan",
+      "description": "Màu huy hiệu thay đổi theo môi trường",
+      "condition": "Hoàn thành tổng cộng 250 chuyến tham quan"
+    },
+    "exp_amulet_2": {
+      "name": "Bùa Hộ mệnh Tham quan EX",
+      "description": "Màu huy hiệu thay đổi theo môi trường",
+      "condition": "Hoàn thành tổng cộng 1000 chuyến tham quan"
+    },
     "medal_bronze": {
       "name": "Huy chương Đồng",
       "condition": "Xếp hạng thứ 100 hoặc cao hơn trong hạng mục bất kỳ"
@@ -234,30 +292,6 @@
     }
   },
   "2kki": {
-    "mono": {
-      "name": "Expeditionist",
-      "condition": "Reach Intermediate rank in expeditions"
-    },
-    "bronze": {
-      "name": "Bronze Expeditionist",
-      "condition": "Reach Bronze rank in expeditions"
-    },
-    "silver": {
-      "name": "Silver Expeditionist",
-      "condition": "Reach Silver rank in expeditions"
-    },
-    "gold": {
-      "name": "Gold Expeditionist",
-      "condition": "Reach Gold rank in expeditions"
-    },
-    "platinum": {
-      "name": "Platinum Expeditionist",
-      "condition": "Reach Platinum rank in expeditions"
-    },
-    "diamond": {
-      "name": "Diamond Expeditionist",
-      "condition": "Reach Diamond rank in expeditions"
-    },
     "compass": {
       "name": "Expedition Completionist",
       "condition": "Complete expeditions in 30% of available locations"
@@ -281,40 +315,6 @@
     "compass_diamond": {
       "name": "Diamond Expedition Completionist",
       "condition": "Complete expeditions in 95% of available locations"
-    },
-    "vm": {
-      "name": "Vending Machine Finder",
-      "condition": "Complete 5 Vending Machine Finder expeditions"
-    },
-    "vm_bronze": {
-      "name": "Bronze Vending Machine Finder",
-      "condition": "Complete 10 Vending Machine Finder expeditions"
-    },
-    "vm_silver": {
-      "name": "Silver Vending Machine Finder",
-      "condition": "Complete 25 Vending Machine Finder expeditions"
-    },
-    "vm_gold": {
-      "name": "Gold Vending Machine Finder",
-      "condition": "Complete 50 Vending Machine Finder expeditions"
-    },
-    "vm_platinum": {
-      "name": "Platinum Vending Machine Finder",
-      "condition": "Complete 100 Vending Machine Finder expeditions"
-    },
-    "vm_diamond": {
-      "name": "Diamond Vending Machine Finder",
-      "condition": "Complete 200 Vending Machine Finder expeditions"
-    },
-    "exp_amulet": {
-      "name": "Bùa Hộ mệnh Tham quan",
-      "description": "Màu huy hiệu thay đổi theo môi trường",
-      "condition": "Hoàn thành tổng cộng 250 chuyến tham quan"
-    },
-    "exp_amulet_2": {
-      "name": "Bùa Hộ mệnh Tham quan EX",
-      "description": "Màu huy hiệu thay đổi theo môi trường",
-      "condition": "Hoàn thành tổng cộng 1000 chuyến tham quan"
     },
     "crushed": {
       "name": "Crush",

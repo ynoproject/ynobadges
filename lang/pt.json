@@ -10,6 +10,64 @@
       "description": "Esse emblema muda de acordo com o tema do seu jogo",
       "condition": "Colete um total de 500 emblemas (excluídas os emblemas ocultos)"
     },
+    "mono": {
+      "name": "Expedicionista",
+      "condition": "Alcance o rank Intermediário nas expedições"
+    },
+    "bronze": {
+      "name": "Expedicionista de Bronze",
+      "condition": "Alcance o rank Bronze nas expedições"
+    },
+    "silver": {
+      "name": "Expedicionista de Prata",
+      "condition": "Alcance o rank Prata nas expedições"
+    },
+    "gold": {
+      "name": "Expedicionista de Ouro",
+      "condition": "Alcance o rank Ouro nas expedições"
+    },
+    "platinum": {
+      "name": "Expedicionista de Platina",
+      "condition": "Alcance o rank Platina nas expedições"
+    },
+    "diamond": {
+      "name": "Expedicionista de Diamante",
+      "condition": "Alcance o rank Diamante nas expedições"
+    },
+    "vm": {
+      "name": "Achador de Máquinas de Venda",
+      "condition": "Complete 5 Expedições de Buscas de Maquina de Vendas"
+    },
+    "vm_bronze": {
+      "name": "Achador de Máquinas de Venda Bronze",
+      "condition": "Complete 10 Expedições de Buscas de Maquina de Vendas"
+    },
+    "vm_silver": {
+      "name": "Achador de Máquinas de Venda Prata",
+      "condition": "Complete 25 Expedições de Buscas de Maquina de Vendas"
+    },
+    "vm_gold": {
+      "name": "Achador de Máquinas de Venda Ouro",
+      "condition": "Complete 50 Expedições de Buscas de Maquina de Vendas"
+    },
+    "vm_platinum": {
+      "name": "Achador de Máquinas de Venda Platina",
+      "condition": "Complete 100 Expedições de Buscas de Maquina de Vendas"
+    },
+    "vm_diamond": {
+      "name": "Achador de Máquinas de Venda Diamante",
+      "condition": "Complete 200 Expedições de Buscas de Maquina de Vendas"
+    },
+    "exp_amulet": {
+      "name": "Amuleto do Expedicionista",
+      "description": "Ele se adapta conforme os seus arredores",
+      "condition": "Complete um total de 250 expedições"
+    },
+    "exp_amulet_2": {
+      "name": "Amuleto do Expedicionista EX",
+      "description": "Ele se adapta conforme os seus arredores",
+      "condition": "Complete um total de 1000 expedições"
+    },
     "medal_bronze": {
       "name": "Medalha de Bronze",
       "condition": "Consiga 100° lugar ou melho nos rankings de qualquer categoria"
@@ -234,30 +292,6 @@
     }
   },
   "2kki": {
-    "mono": {
-      "name": "Expedicionista",
-      "condition": "Alcance o rank Intermediário nas expedições"
-    },
-    "bronze": {
-      "name": "Expedicionista de Bronze",
-      "condition": "Alcance o rank Bronze nas expedições"
-    },
-    "silver": {
-      "name": "Expedicionista de Prata",
-      "condition": "Alcance o rank Prata nas expedições"
-    },
-    "gold": {
-      "name": "Expedicionista de Ouro",
-      "condition": "Alcance o rank Ouro nas expedições"
-    },
-    "platinum": {
-      "name": "Expedicionista de Platina",
-      "condition": "Alcance o rank Platina nas expedições"
-    },
-    "diamond": {
-      "name": "Expedicionista de Diamante",
-      "condition": "Alcance o rank Diamante nas expedições"
-    },
     "compass": {
       "name": "Complecionista de Expedição",
       "condition": "Conclua expedições de 30% dos locais disponíveis"
@@ -281,40 +315,6 @@
     "compass_diamond": {
       "name": "Complecionista de Expidição Diamante",
       "condition": "Conclua expedições de 95% dos locais disponíveis"
-    },
-    "vm": {
-      "name": "Achador de Máquinas de Venda",
-      "condition": "Complete 5 Expedições de Buscas de Maquina de Vendas"
-    },
-    "vm_bronze": {
-      "name": "Achador de Máquinas de Venda Bronze",
-      "condition": "Complete 10 Expedições de Buscas de Maquina de Vendas"
-    },
-    "vm_silver": {
-      "name": "Achador de Máquinas de Venda Prata",
-      "condition": "Complete 25 Expedições de Buscas de Maquina de Vendas"
-    },
-    "vm_gold": {
-      "name": "Achador de Máquinas de Venda Ouro",
-      "condition": "Complete 50 Expedições de Buscas de Maquina de Vendas"
-    },
-    "vm_platinum": {
-      "name": "Achador de Máquinas de Venda Platina",
-      "condition": "Complete 100 Expedições de Buscas de Maquina de Vendas"
-    },
-    "vm_diamond": {
-      "name": "Achador de Máquinas de Venda Diamante",
-      "condition": "Complete 200 Expedições de Buscas de Maquina de Vendas"
-    },
-    "exp_amulet": {
-      "name": "Amuleto do Expedicionista",
-      "description": "Ele se adapta conforme os seus arredores",
-      "condition": "Complete um total de 250 expedições"
-    },
-    "exp_amulet_2": {
-      "name": "Amuleto do Expedicionista EX",
-      "description": "Ele se adapta conforme os seus arredores",
-      "condition": "Complete um total de 1000 expedições"
     },
     "crushed": {
       "name": "Esmagada",
