@@ -1936,6 +1936,16 @@
       "name": "Sweetest Berry",
       "description": "Would you like a dessert?",
       "condition": "Reach Strawberry Fields and interact with the chocolate fountain"
+    },
+    "depths_fall": {
+      "name": "Nocturnal Abyssal Jellyfish",
+      "description": "A friendly jellyfish that crosses the abyssal sea",
+      "condition": "Fall into the final part of the Depths"
+    },
+    "depths_fall_trial": {
+      "name": "Penumbral Abyssal Jellyfish",
+      "description": "A friendly jellyfish that cuts through the darkness of the abyssal sea",
+      "condition": "Fall into the final part of the Depths in {TIME} or less in Time Trial Mode"
     }
   },
   "flow": {

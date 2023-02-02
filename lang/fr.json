@@ -1936,6 +1936,16 @@
       "name": "Baie la plus sucrée",
       "description": "Aimeriez-vous un dessert ?",
       "condition": "Atteindre les Strawberry Fields et interagir avec la fontaine au chocolat"
+    },
+    "depths_fall": {
+      "name": "Méduse nocturne des abysses",
+      "description": "Une méduse amicale traversant la mer abyssale",
+      "condition": "Tomber dans la salle finale des Depths"
+    },
+    "depths_fall_trial": {
+      "name": "Méduse des abysses tapie dans la pénombre",
+      "description": "Une méduse amicale passant à travers les ténèbres de la mer abyssale",
+      "condition": "Tomber dans la salle finale des Depths en {TIME} ou moins en course contre-la-montre"
     }
   },
   "flow": {
