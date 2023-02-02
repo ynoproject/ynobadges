@@ -137,7 +137,7 @@
     },
     "boombox": {
       "name": "Boombox",
-      "condition": "Regarder la fête des Toriningen de loin"
+      "condition": "Regarder la fête des Toriningens de loin"
     },
     "takofuusen": {
       "name": "Takofuusen",
@@ -149,7 +149,7 @@
     },
     "blackcat": {
       "name": "Chat Noir",
-      "condition": "S'envoler en tant que sorcière sur le toit du Centre Commercial"
+      "condition": "S'envoler en tant que Sorcière sur le toit du Centre Commercial"
     },
     "face": {
       "name": "KyuuKyuu-kun",
@@ -203,7 +203,7 @@
     "closet": {
       "name": "Ton propre placard",
       "description": "Les secrets que certains peuvent trouver en étant violent...",
-      "condition": "Atteindre Mini Hell depuis Number World"
+      "condition": "Atteindre Mini Hell depuis le Number World"
     },
     "nasu": {
       "name": "NASU",
@@ -268,11 +268,11 @@
     "spaceship_crash_event": {
       "name": "Oh-V-N-hIii",
       "description": "Masada, on a un problème !",
-      "condition": "Déclencher l'événement du crash dans le Vaisseau Spatial de Masada."
+      "condition": "Déclencher l'événement du crash dans le Vaisseau Spatial de Masada"
     },
     "cube_guru_seat": {
       "name": "Siège pris",
-      "description": "Voler le siège du Cube Guru dans le Windmill World.",
+      "description": "Voler le siège du Cube Guru dans le Windmill World",
       "condition": "Bouger le Cube Guru de son siège et s'asseoir dessus"
     },
     "meow_ufo": {
@@ -289,6 +289,16 @@
       "name": "Celui qui fait grincer ses dents",
       "description": "Il fait froid ici ou c'est juste moi ?",
       "condition": "Trouver La Chose avec la Mâchoire Tremblante"
+    },
+    "candle_world_toriningen": {
+      "name": "Fast and Furious",
+      "description": "*VROOOooooooOoom*",
+      "condition": "Se faire attraper par la Toriningen dans le Candle World"
+    },
+    "falling_men": {
+      "name": "Chute libre",
+      "description": "Bonté divine...",
+      "condition": "Déclencher l'événement du falling men"
     }
   },
   "2kki": {
@@ -1906,6 +1916,36 @@
       "name": "Danse du takoyaki",
       "description": "Spiiiiin~",
       "condition": "Utiliser l'effet Gakuran pour faire tourner le takoyaki"
+    },
+    "rain_cloud": {
+      "name": "Nuage pluvieux",
+      "description": "Des fois, c'est compliqué de se contrôler.",
+      "condition": "Faire pleurer les nuages de la Rainbow Road en utilisant l'effet Teru Teru Bōzu"
+    },
+    "unstable_parking_zone": {
+      "name": "Zone de stationnement instable",
+      "description": "Si tu vois un bazar corrompu au beau milieu d'une zone de stationnement... Touche-le, et une corruption buguée prendra le dessus sur tes alentours...",
+      "condition": "Interagir avec l'objet bugué dans la Parking Zone"
+    },
+    "hatred_palace_painting": {
+      "name": "Amour et chocolat",
+      "description": "Reste à mes côtés s'il te plaît...",
+      "condition": "Atteindre la zone avec le tableau dans l'Hatred Palace"
+    },
+    "strawberry_fields_choco": {
+      "name": "Baie la plus sucrée",
+      "description": "Aimeriez-vous un dessert ?",
+      "condition": "Atteindre les Strawberry Fields et interagir avec la fontaine au chocolat"
+    },
+    "depths_fall": {
+      "name": "Méduse nocturne des abysses",
+      "description": "Une méduse amicale traversant la mer abyssale",
+      "condition": "Tomber dans la salle finale des Depths"
+    },
+    "depths_fall_trial": {
+      "name": "Méduse des abysses tapie dans la pénombre",
+      "description": "Une méduse amicale passant à travers les ténèbres de la mer abyssale",
+      "condition": "Tomber dans la salle finale des Depths en {TIME} ou moins en course contre-la-montre"
     }
   },
   "flow": {
@@ -2517,12 +2557,22 @@
       "name": "Stylé' !",
       "description": "Suivre les dernières tendances !",
       "condition": "Obtenir une coiffure au Coiffeur du Midnight Mall (avec la clé Cougar)"
+    },
+    "sibilant_signs": {
+      "name": "Signes sifflants",
+      "description": "Un remue-méninge torrentiel.",
+      "condition": "Visiter le Sylphides' Playground"
+    },
+    "science_museum": {
+      "name": "Évolution",
+      "description": "Pourquoi est-ce mal de croire les atomes ? Car ils inventent tout !",
+      "condition": "Explorer chaque hall du Science Museum"
     }
   },
   "muma": {
     "unicorn_slayer": {
       "name": "Assassin de licornes",
-      "description": "Fais le sur un jour venteux et tu auras peut-être un cerf-volant.",
+      "description": "Fais-le sur un jour venteux et tu auras peut-être un cerf-volant.",
       "condition": "Vaincre toutes les licornes dans les Unicorn Woods"
     },
     "depressed_meal": {
@@ -2542,7 +2592,7 @@
     },
     "moon_bunny": {
       "name": "Mooninites",
-      "description": "Une flopée de bébés lapins, envoie les donc sur la lune.",
+      "description": "Une flopée de bébés lapins, envoie-les donc sur la lune.",
       "condition": "Surpeupler la Lune avec des lapins"
     },
     "puzzle_coin": {
@@ -2590,7 +2640,7 @@
     },
     "satiated_rabbit": {
       "name": "Om nom nom",
-      "description": "Pas une carotte dans le monde !",
+      "description": "Pas une carotte ne me résiste !",
       "condition": "Nourrir le lapin dans l'Isle of Seasons"
     },
     "sleep_paralysis_mare": {
@@ -2626,6 +2676,16 @@
       "name": "Pingouin de la piscine",
       "description": "Un petit pingouin s'humidifiant joyeusement dans la piscine... Noot !",
       "condition": "Interagir avec le pingouin dans sa bouée dans la Swimming Pool"
+    },
+    "flower_field": {
+      "name": "Pétales dorés",
+      "description": "Toujours voir le bon côté des choses.",
+      "condition": "Visiter le Flower Field"
+    },
+    "ok_drinks": {
+      "name": "Meilleures boissons",
+      "description": "Tu veux boire quelque chose ? OK te fournira les meilleures boissons gazeuses",
+      "condition": "Aller voir les deux publicités dans les rues de Chicago"
     }
   },
   "genie": {
@@ -2708,6 +2768,11 @@
       "name": "S'il te plaît, sois silencieuse.",
       "description": "Qu'importe qui tu es.",
       "condition": "Obtenir l'illusion Amulette scellée. Si vous l'avez déjà fait, interagissez avec la créature qui vous l'a donné."
+    },
+    "ancient_heavenly_sky": {
+      "name": "Fleurs roses et pierres bleues",
+      "description": "On flotte carrément au-dessus de l'atmosphère, wow !",
+      "condition": "Entrer dans l'Ancient Heavenly Sky"
     }
   }
 }
