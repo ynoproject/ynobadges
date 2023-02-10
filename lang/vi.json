@@ -299,6 +299,10 @@
       "name": "Free Falling",
       "description": "Oh dear...",
       "condition": "Witness the falling men event"
+    },
+    "chop_chop": {
+      "name": "Chop Chop!",
+      "condition": "Visit Big Guillotine World."
     }
   },
   "2kki": {
@@ -1655,7 +1659,6 @@
     },
     "purple_flowers": {
       "name": "Purple Flowers",
-      "description": "Purple flowers, Purple castles.",
       "condition": "Enter the Petal Hotel."
     },
     "omurice_rooms": {
@@ -1946,6 +1949,34 @@
       "name": "Penumbral Abyssal Jellyfish",
       "description": "A friendly jellyfish that cuts through the darkness of the abyssal sea",
       "condition": "Fall into the final part of the Depths in {TIME} or less in Time Trial Mode"
+    },
+    "glass_church": {
+      "name": "Stained Glass Memories",
+      "description": "Where it all began.",
+      "condition": "Enter the main room of Rose Church."
+    },
+    "shadow_forest": {
+      "name": "Shadow Forest",
+      "description": "Why did you come back?",
+      "condition": "Enter the Shadow Woman Forest."
+    },
+    "2kki_pleiades": {
+      "name": "The Pleiades",
+      "condition": "Flip the light switch in the Observatory Room in Grand Scientific Museum."
+    },
+    "spring_breeze": {
+      "name": "Early Spring Breeze",
+      "condition": "Visit Windswept Fields."
+    },
+    "dull_scissors": {
+      "name": "Dull Scissors",
+      "description": "Rusted and dulled away.",
+      "condition": "Visit Surgical Scissors World."
+    },
+    "debug_badge": {
+      "name": "SUPER EPIC HIDDEN OMURICE",
+      "description": "ynoproject.net/mikan",
+      "condition": "ynoproject.net/mikan"
     }
   },
   "flow": {
@@ -2515,6 +2546,11 @@
     "cowboy_npc_midnight_saloon": {
       "name": "Expression Celebration",
       "condition": "Interact with the face-changing NPC found in the Midnight Saloon."
+    },
+    "bg_hamantha": {
+      "name": "Hamantha",
+      "description": "Meaty face and a lovely eye.",
+      "condition": "Find Hamantha in Museum."
     }
   },
   "amillusion": {
@@ -2773,6 +2809,67 @@
       "name": "Pink Flowers, Blue Stones",
       "description": "Floating above the atmosphere, wow!",
       "condition": "Enter Ancient Heavenly Sky"
+    }
+  },
+  "mikan": {
+    "fatal_glitch": {
+      "name": "Fatal Glitch",
+      "description": "Literally unplayable...",
+      "condition": "Trigger the Glitching the Dream event in FC World."
+    },
+    "sewer_monster": {
+      "name": "Sewer Monster",
+      "description": "What even are you?",
+      "condition": "Interact with the resident of the Toxic Sewers."
+    },
+    "hide_squeak": {
+      "name": "Hide & Squeak",
+      "description": "rats, rats, we're the rats...",
+      "condition": "Attract and scare off the rats in Abandoned Rooftop."
+    },
+    "sparkling_duckling": {
+      "name": "Sparkling Duckling",
+      "condition": "Enter the Swaying Bird Passage."
+    },
+    "memories_past": {
+      "name": "Memories of a Distant Pass",
+      "description": "It's just a bad dream...",
+      "condition": "See the White Building event."
+    },
+    "sticky_situation": {
+      "name": "Sticky Situation",
+      "description": "Can't escape, wrapped in red tape...",
+      "condition": "Obtain the Tape Effect in Bloodied Cross Corridor"
+    },
+    "hazy_call": {
+      "name": "Hazy Call",
+      "description": "What an eerie phonecall. You weren't supposed to see that, were you?",
+      "condition": "Wait in Soutarou's Dream Room for a mysterious phonecall. "
+    },
+    "charming_chaser": {
+      "name": "Charming Chaser",
+      "description": "Chasers can be kind sometimes. No need to pay back! ",
+      "condition": "Interact with the vending machine in Serene Hill's seating area with less than 100 Yen."
+    },
+    "mono_nightmare": {
+      "name": "Monochromatic Nightmare",
+      "description": "They're fast, aren't they? Enjoy the view. ",
+      "condition": "Get caught by a chaser in Red Hand Labyrinth."
+    },
+    "shifty_gal": {
+      "name": "Shifty Gal",
+      "description": "She's so talented!",
+      "condition": "Get caught by the chaser in Inorganic Building to see the Shapeshifter, and show her your Hands + Black Cat effects. "
+    },
+    "mask_shyness": {
+      "name": "Mask of Shyness",
+      "description": "What a lovely smile! Or is it?",
+      "condition": "Interact with Himemi in Gray Wasteland."
+    },
+    "chain_grief": {
+      "name": "Chains of Grief",
+      "description": "Could this effect symbolize being chained to your past? ",
+      "condition": "Get the Chains effect in Snow World. "
     }
   }
 }
