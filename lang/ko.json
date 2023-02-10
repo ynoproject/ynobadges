@@ -301,8 +301,8 @@
       "condition": "떨어지는 사람 이벤트를 보기"
     },
     "chop_chop": {
-      "name": "Chop Chop!",
-      "condition": "Visit Big Guillotine World."
+      "name": "댕강 댕강!",
+      "condition": "숫자의 세계에서 피를 토하고 있는 벽을 조사하기"
     }
   },
   "2kki": {
@@ -1658,8 +1658,8 @@
       "condition": "Old Train Station의 배수로 뒤쪽에 숨겨진 방을 찾아내기"
     },
     "purple_flowers": {
-      "name": "Purple Flowers",
-      "condition": "Enter the Petal Hotel."
+      "name": "보라빛 꽃들 뱃지",
+      "condition": "Petal Hotel 에 입장하기"
     },
     "omurice_rooms": {
       "name": "푸드 파이터 엠블럼",
@@ -1927,7 +1927,7 @@
     },
     "unstable_parking_zone": {
       "name": "불안정한 주차장 뱃지",
-      "description": "만일 주차장 한가운데에 작은 결함이 보인다면... 건드려서 주변을 결함로 가득 메워라...",
+      "description": "만일 주차장 한가운데에 작은 결함이 보인다면... 건드려서 주변을 결함으로 가득 메워라...",
       "condition": "Parking Zone 에서 결함 처리가 된 부분과 상호작용 하기"
     },
     "hatred_palace_painting": {
@@ -1951,27 +1951,32 @@
       "condition": "Time Trial Mode 를 키고 {TIME} 이내로 Depths 의 최종 구역으로 떨어지기"
     },
     "glass_church": {
-      "name": "Stained Glass Memories",
-      "description": "Where it all began.",
-      "condition": "Enter the main room of Rose Church."
+      "name": "스테인글라스 기억들 뱃지",
+      "description": "모든 것이 시작된 곳",
+      "condition": "Rose Church 의 메인 구역에 도달하기"
     },
     "shadow_forest": {
-      "name": "Shadow Forest",
-      "description": "Why did you come back?",
-      "condition": "Enter the Shadow Woman Forest."
+      "name": "그늘진 숲 뱃지",
+      "description": "왜 다시 돌아온거야?",
+      "condition": "Shadow Woman Forest 이벤트를 보기"
     },
     "2kki_pleiades": {
-      "name": "The Pleiades",
-      "condition": "Flip the light switch in the Observatory Room in Grand Scientific Museum."
+      "name": "플레이아데스 성단 뱃지",
+      "condition": "Grand Scientific Museum 의 별자리 관측실에 있는 조명 스위치를 끄기"
     },
     "spring_breeze": {
-      "name": "Early Spring Breeze",
-      "condition": "Visit Windswept Fields."
+      "name": "이른 봄바람 뱃지",
+      "condition": "Windswept Fields 을 방문하기"
     },
     "dull_scissors": {
-      "name": "Dull Scissors",
-      "description": "Rusted and dulled away.",
-      "condition": "Visit Surgical Scissors World."
+      "name": "무딘 가위들 뱃지",
+      "description": "녹슬고 무뎌졌다",
+      "condition": "Surgical Scissors World 을 방문하기"
+    },
+    "debug_badge": {
+      "name": "개쩌는 히든 오므라이스 뱃지",
+      "description": "소타로와 미완몽상 많이 사랑해주세요오오옷",
+      "condition": "ynoproject.net/mikan"
     }
   },
   "flow": {
@@ -2543,9 +2548,9 @@
       "condition": "Midnight Saloon에서 얼굴이 바뀌는 NPC와 상호작용하기"
     },
     "bg_hamantha": {
-      "name": "Hamantha",
-      "description": "Meaty face and a lovely eye.",
-      "condition": "Find Hamantha in Museum."
+      "name": "하만타 뱃지",
+      "description": "통통한 얼굴과 사랑스러운 눈",
+      "condition": "Museum 에서 하만타(Hamantha)를 발견하기"
     }
   },
   "amillusion": {
@@ -2808,63 +2813,63 @@
   },
   "mikan": {
     "fatal_glitch": {
-      "name": "Fatal Glitch",
-      "description": "Literally unplayable...",
-      "condition": "Trigger the Glitching the Dream event in FC World."
+      "name": "치명적인 결함 뱃지",
+      "description": "말 그대로 플레이가 불가능한...",
+      "condition": "FC World 에서 Glitching the Dream 이벤트를 보기"
     },
     "sewer_monster": {
-      "name": "Sewer Monster",
-      "description": "What even are you?",
-      "condition": "Interact with the resident of the Toxic Sewers."
+      "name": "하수구 괴물 뱃지",
+      "description": "넌 대체 뭐야?",
+      "condition": "Toxic Sewers 의 거주민 NPC와 상호작용 하기"
     },
     "hide_squeak": {
-      "name": "Hide & Squeak",
-      "description": "rats, rats, we're the rats...",
-      "condition": "Attract and scare off the rats in Abandoned Rooftop."
+      "name": "숨바꼭찍 뱃지",
+      "description": "쥐가 한 마리... 쥐가 두 마리... 쥐가 세 마리, 네 마리, 다섯 마리가...",
+      "condition": "Abandoned Rooftop 에서 쥐들을 끌어 모으고 내쫓아 내기"
     },
     "sparkling_duckling": {
-      "name": "Sparkling Duckling",
-      "condition": "Enter the Swaying Bird Passage."
+      "name": "반짝이는 새끼 오리 뱃지",
+      "condition": "Swaying Bird Passage 에 입장하기"
     },
     "memories_past": {
-      "name": "Memories of a Distant Past",
-      "description": "It's just a bad dream...",
-      "condition": "See the White Building event."
+      "name": "옛 추억들 뱃지",
+      "description": "이건 그저 악몽일 뿐이야...",
+      "condition": "White Building 이벤트를 보기"
     },
     "sticky_situation": {
-      "name": "Sticky Situation",
-      "description": "Can't escape, wrapped in red tape...",
-      "condition": "Obtain the Tape Effect in Bloodied Cross Corridor"
+      "name": "고립무원 뱃지",
+      "description": "빠져나갈 수가 없어, 빨간 테이프로 싸여버려서...",
+      "condition": "Bloodied Cross Corridor 에서 Tape 이펙트를 얻기"
     },
     "hazy_call": {
-      "name": "Hazy Call",
-      "description": "What an eerie phonecall. You weren't supposed to see that, were you?",
-      "condition": "Wait in Soutarou's Dream Room for a mysterious phonecall."
+      "name": "흐릿한 벨소리 뱃지",
+      "description": "정말 기괴한 전화 벨소리네. 네가 저걸 듣지 말았어야 했는데, 그치?",
+      "condition": "소타로의 꿈 속의 방에서 수상한 전화벨 소리가 날 때까지 기다리기"
     },
     "charming_chaser": {
-      "name": "Charming Chaser",
-      "description": "Chasers can be kind sometimes. No need to pay back!",
-      "condition": "Interact with the vending machine in Serene Hill's seating area with less than 100 Yen."
+      "name": "매력적인 체이서 뱃지",
+      "description": "체이서들도 가끔 친절해질 때가 있다구. 갚을 필요는 없어! ",
+      "condition": "Serene Hill 의 휴식공간에서 100엔 미만인 상태로 자판기와 상호작용하기"
     },
     "mono_nightmare": {
-      "name": "Monochromatic Nightmare",
-      "description": "They're fast, aren't they? Enjoy the view.",
-      "condition": "Get caught by a chaser in Red Hand Labyrinth."
+      "name": "흑백의 나이트메어 뱃지",
+      "description": "저것들 정말로 빠르지, 안 그래? 경치나 즐기라구.",
+      "condition": "Red Hand Labyrinth 에서 체이서에게 붙잡히기"
     },
     "shifty_gal": {
-      "name": "Shifty Gal",
-      "description": "She's so talented!",
-      "condition": "Get caught by the chaser in Inorganic Building to see the Shapeshifter, and show her your Hands + Black Cat effects."
+      "name": "팔방미인 뱃지",
+      "description": "이 여자 좀 치는데!",
+      "condition": "Inorganic Building 에서 체이서에게 붙잡힌 후 형태 변환자(Shapeshifter) NPC를 만나고, 그녀에게 Hands 와 Black Cat 이펙트를 보여주기"
     },
     "mask_shyness": {
-      "name": "Mask of Shyness",
-      "description": "What a lovely smile! Or is it?",
-      "condition": "Interact with Himemi in Gray Wasteland."
+      "name": "수줍음의 가면 뱃지",
+      "description": "정말 사랑스런 미소를 하는구나! 아님 원래 그런건가?",
+      "condition": "Gray Wasteland 에서 히메미(Himemi) NPC와 상호작용하기"
     },
     "chain_grief": {
-      "name": "Chains of Grief",
-      "description": "Could this effect symbolize being chained to your past?",
-      "condition": "Get the Chains effect in Snow World."
+      "name": "탐욕의 사슬 뱃지",
+      "description": "이 이펙트가 너의 과거를 얽메고 있다는 것을 상징하는 걸까?",
+      "condition": "Snow World 에서 Chains 이펙트를 얻기"
     }
   }
 }
