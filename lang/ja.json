@@ -1975,18 +1975,18 @@
     },
     "2kki_bluescreen": {
       "name": ":(",
-      "description": "Your dream ran into a problem and needs to restart as soon as we're finished collecting some error info.",
-      "condition": "Enter the Blue Screen Void."
+      "description": "あなたの夢に問題が発生しました。修正し再起動します。",
+      "condition": "error404に到達する"
     },
     "2kki_afterglow": {
-      "name": "Afterglow",
-      "description": "Standing on the horizon, Looking at the twilight.",
-      "condition": "Enter Sunset Hill."
+      "name": "黄昏",
+      "description": "地平線と夕焼けを眺める。",
+      "condition": "夕日の丘に到達する"
     },
     "space_battleship": {
-      "name": "Space Battleship Yume-to",
-      "description": "This Gallery is outta this world!",
-      "condition": "Enter Astronomical Gallery."
+      "name": "天体模型",
+      "description": "この世のものとは思えない美術館",
+      "condition": "天体美術館に到達する"
     }
   },
   "flow": {
@@ -2882,18 +2882,18 @@
       "condition": "Snow Worldでくさりを入手する"
     },
     "enigmatic_maid": {
-      "name": "Enigmatic Maid",
-      "description": "Can you keep a secret?",
-      "condition": "Discover the Maid Mansion's secret and see the Bloody Scenery."
+      "name": "謎のメイド",
+      "description": "秘密にして頂けますか?",
+      "condition": "メイド屋敷の秘密を探り、血塗られた風景を見る"
     },
     "girl_xx": {
-      "name": "Girl who says XX",
-      "description": "Damn kid, you live like this?",
-      "condition": "Interact with the girl in the Abandoned Rooftop."
+      "name": "XXと言う少女",
+      "description": "こんなところに住んでるのか",
+      "condition": "廃墟の屋上で少女と会う"
     },
     "jelly_exhibition": {
-      "name": "Jellyfish at an Exhibition",
-      "condition": "Visit every area of the Jellyfish Exhibition."
+      "name": "クラゲ展",
+      "condition": "Jellyfish Exhibitionの各エリアを見学する"
     }
   }
 }
