@@ -301,8 +301,8 @@
       "condition": "Déclencher l'événement du falling men"
     },
     "chop_chop": {
-      "name": "Chop Chop!",
-      "condition": "Visit Big Guillotine World."
+      "name": "Chop Chop !",
+      "condition": "Visiter la Grande version du Guillotine World"
     }
   },
   "2kki": {
@@ -1951,42 +1951,81 @@
       "condition": "Tomber dans la salle finale des Depths en {TIME} ou moins en course contre-la-montre"
     },
     "glass_church": {
-      "name": "Stained Glass Memories",
-      "description": "Where it all began.",
-      "condition": "Enter the main room of Rose Church."
+      "name": "Souvenirs du vitrail",
+      "description": "Là où tout a commencé.",
+      "condition": "Entrer dans la salle principale de la Rose Church"
     },
     "shadow_forest": {
       "name": "Shadow Forest",
-      "description": "Why did you come back?",
-      "condition": "Enter the Shadow Woman Forest."
+      "description": "Pourquoi es-tu revenue ?",
+      "condition": "Entrer dans la Shadow Woman Forest"
     },
     "2kki_pleiades": {
-      "name": "The Pleiades",
-      "condition": "Flip the light switch in the Observatory Room in Grand Scientific Museum."
+      "name": "Les Pléiades",
+      "condition": "Actionner l'interrupteur pour la lumière dans la Salle de l'Observatoire du Grand Scientific Museum"
     },
     "spring_breeze": {
-      "name": "Early Spring Breeze",
-      "condition": "Visit Windswept Fields."
+      "name": "Brise printanière précoce",
+      "condition": "Visiter les Windswept Fields"
     },
     "dull_scissors": {
-      "name": "Dull Scissors",
-      "description": "Rusted and dulled away.",
-      "condition": "Visit Surgical Scissors World."
+      "name": "Ciseaux usés",
+      "description": "Rouillés et mal aiguisés.",
+      "condition": "Visiter le Surgical Scissors World"
     },
     "2kki_bluescreen": {
       "name": ":(",
-      "description": "Your dream ran into a problem and needs to restart as soon as we're finished collecting some error info.",
-      "condition": "Enter the Blue Screen Void."
+      "description": "Votre rêve a rencontré un problème et doit redémarrer une fois que nous avons fini de récolter quelques informations sur l'erreur.",
+      "condition": "Entrer dans le Blue Screen Void"
     },
     "2kki_afterglow": {
-      "name": "Afterglow",
-      "description": "Standing on the horizon, Looking at the twilight.",
-      "condition": "Enter Sunset Hill."
+      "name": "Dernières lueurs",
+      "description": "Se tenant à l'horizon, regardant le crépuscule.",
+      "condition": "Entrer dans la Sunset Hill"
     },
     "space_battleship": {
       "name": "Space Battleship Yume-to",
       "description": "This Gallery is outta this world!",
       "condition": "Enter Astronomical Gallery."
+    },
+    "cube_tsuki": {
+      "name": "Urotsuki polygonale",
+      "description": "C'est branché d'être carrée !",
+      "condition": "Obtenir l'effet Polygone dans la Warehouse"
+    },
+    "twintail_maid": {
+      "name": "Twintail ni Narimasu",
+      "description": "wanna be more lovable",
+      "condition": "Utiliser l'effet Couettes dans la Dressing Room pour porter le costume de femme de ménage"
+    },
+    "capybara_opal": {
+      "name": "Soin",
+      "description": "Oh, qu'est-ce que j'aimerais être un capybara qui ne fait que se reposer...",
+      "condition": "Entrer dans la salle avec les capybaras dans les Opal Archives"
+    },
+    "cheese_tactics": {
+      "name": "Tactiques fromagères",
+      "description": "Tu pensais qu'il y aurait une blague au *fromage* ici, n'est-ce pas ?",
+      "condition": "Utiliser l'effet Gâteau ou Fée pour se faire attraper par l'une des Froma-raignées dans le Dark Cheese Hell"
+    },
+    "march_of_progress": {
+      "name": "Visage du Progrès",
+      "description": "Rejetez l'humanité, retournez au singe",
+      "condition": "Faire l'événement de la Marche vers le Progrès"
+    },
+    "peaceful_pond": {
+      "name": "Étang paisible",
+      "condition": "Entrer dans la version de l'étang du bâtiment bleu dans le Grass World"
+    },
+    "clown_chaser": {
+      "name": "Clowning Around",
+      "description": "\"Tu n'es pas un clown. Tu es le cirque entier.\"",
+      "condition": "Faire apparaître le groupe de Chasseurs Clown dans la zone principale de The Circus"
+    },
+    "polycube_icy_garden": {
+      "name": "Jardin gelé",
+      "description": "Tu veux faire du skate ici ?",
+      "condition": "Entrer dans le jardin en dessous des Wooden Polycube Ruins"
     }
   },
   "flow": {
@@ -2102,6 +2141,10 @@
       "name": "Bonjour ?",
       "description": "Qu'est-ce qu'il y avait là-dedans ?",
       "condition": "Interagir avec la 4ème porte dans les Deterioration Apartment"
+    },
+    "rust_menu": {
+      "name": "Chambre de la malade",
+      "condition": "Recevoir le thème de menu Rust de la part de la petite Sabitsuki dans le Back Ward"
     }
   },
   "prayers": {
@@ -2168,6 +2211,11 @@
     "all_seeing_graffiti": {
       "name": "Graffiti qui voit tout",
       "condition": "Entrer dans la zone du graffiti œil dans la GB Forest"
+    },
+    "marching_snow_girls": {
+      "name": "Marche de la Générale Hiver",
+      "description": "It’s then I hear a voice,\na crystal shining icicle clear voice,\ncold water but made of sound,\ntells me, keep my connection to the spirits strong",
+      "condition": "Voir l'Armée de Filles Neige au Frozen Lake"
     }
   },
   "deepdreams": {
@@ -2559,8 +2607,8 @@
     },
     "bg_hamantha": {
       "name": "Hamantha",
-      "description": "Meaty face and a lovely eye.",
-      "condition": "Find Hamantha in Museum."
+      "description": "Tête de viande et un œil aimable.",
+      "condition": "Trouver Hamantha dans le Museum"
     }
   },
   "amillusion": {
@@ -2666,7 +2714,7 @@
       "condition": "S'attirer les foudres du Lapin Noir dans Realm of the Orb"
     },
     "worst_thief": {
-      "name": "Pire voleur de TOUT LES TEMPS.",
+      "name": "Pire voleuse de TOUT LES TEMPS.",
       "condition": "Faire déborder le compteur de « Capture » dans Jail"
     },
     "true_sunset": {
@@ -2732,6 +2780,11 @@
       "name": "Meilleures boissons",
       "description": "Tu veux boire quelque chose ? OK te fournira les meilleures boissons gazeuses",
       "condition": "Aller voir les deux publicités dans les rues de Chicago"
+    },
+    "best_thief": {
+      "name": "Meilleure voleuse DE TOUT LES TEMPS !",
+      "description": "Il est toujours bon de rappeler quand on organise un grand braquage !",
+      "condition": "Avoir le souvenir Diamant de débloqué et aller sur la Carte de Chicago"
     }
   },
   "genie": {
@@ -2823,77 +2876,82 @@
   },
   "mikan": {
     "fatal_glitch": {
-      "name": "Fatal Glitch",
-      "description": "Literally unplayable...",
-      "condition": "Trigger the Glitching the Dream event in FC World."
+      "name": "Bug fatal",
+      "description": "Littéralement injouable...",
+      "condition": "Déclencher l'événement Corruption du Rêve dans le FC World"
     },
     "sewer_monster": {
-      "name": "Sewer Monster",
-      "description": "What even are you?",
-      "condition": "Interact with the resident of the Toxic Sewers."
+      "name": "Monstre des égoûts",
+      "description": "Mais qu'est-ce que tu es en fait ?",
+      "condition": "Interagir avec le résident des Toxic Sewers"
     },
     "hide_squeak": {
-      "name": "Hide & Squeak",
-      "description": "rats, rats, we're the rats...",
-      "condition": "Attract and scare off the rats in Abandoned Rooftop."
+      "name": "Cache-rat",
+      "description": "rats, rats, on est les rats...",
+      "condition": "Attirer et effrayer les rats dans l'Abandoned Rooftop"
     },
     "sparkling_duckling": {
-      "name": "Sparkling Duckling",
-      "condition": "Enter the Swaying Bird Passage."
+      "name": "Caneton éclatant",
+      "condition": "Entrer dans le Swaying Bird Passage"
     },
     "memories_past": {
-      "name": "Memories of a Distant Past",
-      "description": "It's just a bad dream...",
-      "condition": "See the White Building event."
+      "name": "Souvenirs d'un passé lointain",
+      "description": "C'est juste un mauvais rêve...",
+      "condition": "Voir l'événement du Bâtiment Blanc"
     },
     "sticky_situation": {
-      "name": "Sticky Situation",
-      "description": "Can't escape, wrapped in red tape...",
-      "condition": "Obtain the Tape Effect in Bloodied Cross Corridor"
+      "name": "Problème collant",
+      "description": "Je ne peux pas m'échapper, emballé avec du ruban adhésif rouge...",
+      "condition": "Obtenir l'effet Tape dans le Bloodied Cross Corridor"
     },
     "hazy_call": {
-      "name": "Hazy Call",
-      "description": "What an eerie phonecall. You weren't supposed to see that, were you?",
-      "condition": "Wait in Soutarou's Dream Room for a mysterious phonecall."
+      "name": "Appel vague",
+      "description": "Quel appel inquiétant. Tu n'étais pas supposé voir ça, n'est-ce pas ?",
+      "condition": "Attendre un appel téléphonique mystérieux dans la Soutarou's Dream Room"
     },
     "charming_chaser": {
-      "name": "Charming Chaser",
-      "description": "Chasers can be kind sometimes. No need to pay back!",
-      "condition": "Interact with the vending machine in Serene Hill's seating area with less than 100 Yen."
+      "name": "Charmant chasseur",
+      "description": "Les chasseurs peuvent être gentils des fois. Pas besoin de le rembourser !",
+      "condition": "Interagir avec le distributeur automatique de la zone des bancs de la Serene Hill avec moins de 100 Yen"
     },
     "mono_nightmare": {
-      "name": "Monochromatic Nightmare",
-      "description": "They're fast, aren't they? Enjoy the view.",
-      "condition": "Get caught by a chaser in Red Hand Labyrinth."
+      "name": "Cauchemar monochromatique",
+      "description": "Ils sont rapides pas vrai ? Profite de la vue en tout cas.",
+      "condition": "Se faire attraper par un chasseur dans le Red Hand Labyrinth"
     },
     "shifty_gal": {
-      "name": "Shifty Gal",
-      "description": "She's so talented!",
-      "condition": "Get caught by the chaser in Inorganic Building to see the Shapeshifter, and show her your Hands + Black Cat effects."
+      "name": "Nana louche",
+      "description": "Elle est tellement talentueuse !",
+      "condition": "Se faire attraper par le chasseur dans l'Inorganic Building pour voir la Métamorphe, et montrez-lui les effets Pair of Hands + Black Cat"
     },
     "mask_shyness": {
-      "name": "Mask of Shyness",
-      "description": "What a lovely smile! Or is it?",
-      "condition": "Interact with Himemi in Gray Wasteland."
+      "name": "Masque de la timidité",
+      "description": "Quel aimable sourire ! Ou en est-ce un ?",
+      "condition": "Interagir avec Himemi dans le Gray Wasteland"
     },
     "chain_grief": {
-      "name": "Chains of Grief",
-      "description": "Could this effect symbolize being chained to your past?",
-      "condition": "Get the Chains effect in Snow World."
+      "name": "Chaînes de chagrin",
+      "description": "Est-ce que cet effet pourrait symboliser le fait que tu es enchaîné à ton passé ?",
+      "condition": "Obtenir l'effet Chains dans le Snow World"
     },
     "enigmatic_maid": {
-      "name": "Enigmatic Maid",
-      "description": "Can you keep a secret?",
-      "condition": "Discover the Maid Mansion's secret and see the Bloody Scenery."
+      "name": "Énigmatique femme de ménage",
+      "description": "Peux-tu garder un secret ?",
+      "condition": "Découvrir le secret du Maid Mansionet voir le Paysage Ensanglanté"
     },
     "girl_xx": {
-      "name": "Girl who says XX",
-      "description": "Damn kid, you live like this?",
-      "condition": "Interact with the girl in the Abandoned Rooftop."
+      "name": "La fille qui disait XX",
+      "description": "Putain gamine, tu vis vraiment comme ça ?",
+      "condition": "Interagir avec la fille dans l'Abandoned Rooftop"
     },
     "jelly_exhibition": {
-      "name": "Jellyfish at an Exhibition",
-      "condition": "Visit every area of the Jellyfish Exhibition."
+      "name": "Méduse à une exposition",
+      "condition": "Visiter chaque zone de la Jellyfish Exhibition"
+    },
+    "frame_maid_mansion": {
+      "name": "Tu es un chef-d'œuvre !",
+      "description": "Oups...",
+      "condition": "Briser en morceaux le grand cadre dans le Maid Mansion"
     }
   }
 }
