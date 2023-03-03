@@ -1658,8 +1658,8 @@
       "condition": "Trouver la salle cachée derrière le caniveau dans l'Old Train Station"
     },
     "purple_flowers": {
-      "name": "Purple Flowers",
-      "condition": "Enter the Petal Hotel."
+      "name": "Fleurs violettes",
+      "condition": "Entrer dans le Petal Hotel"
     },
     "omurice_rooms": {
       "name": "Emblème du combattant nourriture",
@@ -1984,9 +1984,9 @@
       "condition": "Entrer dans la Sunset Hill"
     },
     "space_battleship": {
-      "name": "Space Battleship Yume-to",
-      "description": "This Gallery is outta this world!",
-      "condition": "Enter Astronomical Gallery."
+      "name": "Vaisseau spatial de combat Yume-to",
+      "description": "Cette galerie est hors de ce monde !",
+      "condition": "Entrer dans l'Astronomical Gallery"
     },
     "cube_tsuki": {
       "name": "Urotsuki polygonale",
@@ -2019,13 +2019,27 @@
     },
     "clown_chaser": {
       "name": "Faire le pitre",
-      "description": "\"Tu n'es pas un clown. Tu es le cirque entier.\"",
+      "description": "« Tu n'es pas un clown. Tu es le cirque entier. »",
       "condition": "Faire apparaître le groupe de Chasseurs Clown dans la zone principale de The Circus"
     },
     "polycube_icy_garden": {
       "name": "Jardin gelé",
       "description": "Tu veux faire du skate ici ?",
       "condition": "Entrer dans le jardin en dessous des Wooden Polycube Ruins"
+    },
+    "ninja_town": {
+      "name": "Faux ninja",
+      "description": "Fais-moi peur ! Utilise un ninjutsu !",
+      "condition": "Après avoir interagi avec l'unique feu de circulation aux feux blancs, retourner dans la sous-zone du cercle ninja pour déclencher leur mort"
+    },
+    "claus_tsuki": {
+      "name": "Mère-tsuki",
+      "description": "Joyeux noël !",
+      "condition": "Entrer dans la Maison du Bonhomme Bâton dans le Christmas World"
+    },
+    "pancake_girl": {
+      "name": "Pas de dessert !",
+      "condition": "Forcer la fille dans le Pancake World à avoir un air de dégoût"
     }
   },
   "flow": {
@@ -2552,6 +2566,11 @@
       "name": "Chassie",
       "description": "Faites entrer le Marchand de Sable.",
       "condition": "Visiter l'Eye Dust"
+    },
+    "snoozing_rodent": {
+      "name": "Rongeur somnolant",
+      "description": "'=w= zzz...",
+      "condition": "Interagir avec la Souris dans la Cabin"
     }
   },
   "braingirl": {
@@ -2607,7 +2626,7 @@
     },
     "bg_hamantha": {
       "name": "Hamantha",
-      "description": "Tête de viande et un œil aimable.",
+      "description": "Tête de viande et œil aimable.",
       "condition": "Trouver Hamantha dans le Museum"
     }
   },
@@ -2785,6 +2804,11 @@
       "name": "Meilleure voleuse DE TOUT LES TEMPS !",
       "description": "Il est toujours bon de rappeler quand on organise un grand braquage !",
       "condition": "Avoir le souvenir Diamant de débloqué et aller sur la Carte de Chicago"
+    },
+    "rockin_settlement": {
+      "name": "Rockin'",
+      "description": "Je n'essaierai pas de la rendre folle si j'étais toi",
+      "condition": "Réentrer dans la maison de Kema après avoir obtenu son souvenir"
     }
   },
   "genie": {
@@ -2887,7 +2911,7 @@
     },
     "hide_squeak": {
       "name": "Cache-rat",
-      "description": "rats, rats, on est les rats...",
+      "description": "c'est les rats, c'est les rats...",
       "condition": "Attirer et effrayer les rats dans l'Abandoned Rooftop"
     },
     "sparkling_duckling": {
@@ -2937,7 +2961,7 @@
     "enigmatic_maid": {
       "name": "Énigmatique femme de ménage",
       "description": "Peux-tu garder un secret ?",
-      "condition": "Découvrir le secret du Maid Mansionet voir le Paysage Ensanglanté"
+      "condition": "Découvrir le secret du Maid Mansion et voir le Paysage Ensanglanté"
     },
     "girl_xx": {
       "name": "La fille qui disait XX",
@@ -2952,6 +2976,21 @@
       "name": "Tu es un chef-d'œuvre !",
       "description": "Oups...",
       "condition": "Briser en morceaux le grand cadre dans le Maid Mansion"
+    },
+    "splitting_headache": {
+      "name": "Mal de crâne horrible",
+      "description": "D'affreux maux de tête, vomissements et une terrible nausée persistent et font vasciller mon esprit.",
+      "condition": "Déclencher l'événement caché dans les Migraine Hallways"
+    },
+    "indulgence_muzou": {
+      "name": "Indulgence",
+      "description": "J'AI BESOIN DE PLUS",
+      "condition": "Entrer dans la zone secrète du Maid Mansion et examiner ce qui se trouve en face de vous avec un niveau de Santé Mentale suffisamment élevé"
+    },
+    "maids_wrath": {
+      "name": "Courroux des femmes de ménage",
+      "description": "Vous n'êtes pas chez vous, invité.",
+      "condition": "Utiliser l'effet Brass Knuckles dans l'entrée du Maid Mansion"
     }
   }
 }
