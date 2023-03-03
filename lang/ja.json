@@ -2026,6 +2026,20 @@
       "name": "氷庭",
       "description": "ここで滑りたい？",
       "condition": "氷庭に到達する"
+    },
+    "ninja_town": {
+      "name": "Fake Ninja",
+      "description": "Scare me! Use ninjutsu!",
+      "condition": "After interacting with the unique stoplight with white lights, return to the ninja circle sub-area to witness their death"
+    },
+    "claus_tsuki": {
+      "name": "Urotsuki Claus",
+      "description": "Merry Christmas!",
+      "condition": "Go to the Stickman House in the Christmas World"
+    },
+    "pancake_girl": {
+      "name": "No dessert!",
+      "condition": "Make the girl in Pancake World do a mean gaze"
     }
   },
   "flow": {
@@ -2552,6 +2566,11 @@
       "name": "目やに",
       "description": "サンドマン登場",
       "condition": "Eye Dustに到達する"
+    },
+    "snoozing_rodent": {
+      "name": "Snoozing Rodent",
+      "description": "'=w= zzz...",
+      "condition": "Interact with the Mouse in the Cabin"
     }
   },
   "braingirl": {
@@ -2785,6 +2804,11 @@
       "name": "最優秀泥棒賞",
       "description": "ビッグな強盗には、いつも素晴らしい見せ場が必要だ！",
       "condition": "ダイヤモンドのメモリーを入手して、Chicagoへ行く"
+    },
+    "rockin_settlement": {
+      "name": "Rockin'",
+      "description": "I wouldn't make her mad if I were you",
+      "condition": "Re-enter Kema's house after getting the memory"
     }
   },
   "genie": {
@@ -2952,6 +2976,21 @@
       "name": "あなたは芸術品だ！",
       "description": "おっと...",
       "condition": "Maid Mansionにある大きな額縁を砕く"
+    },
+    "splitting_headache": {
+      "name": "Splitting Headache",
+      "description": "Headache, nausea and vomiting are lingering in my mind.",
+      "condition": "Trigger the Migraine Hallways hidden event"
+    },
+    "indulgence_muzou": {
+      "name": "Indulgence",
+      "description": "I NEED MORE",
+      "condition": "Enter the Maid Mansion's secret area and investigate what is in front of you with a sufficiently high Mental State"
+    },
+    "maids_wrath": {
+      "name": "Maid's Wrath",
+      "description": "This is not your home, guest.",
+      "condition": "Use the Brass Knuckles effect in the Maid Mansion entrance"
     }
   }
 }
