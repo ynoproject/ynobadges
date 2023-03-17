@@ -2069,6 +2069,20 @@
       "name": "Fille du lampadaire",
       "description": "Seul un lampadaire est sur le chemin",
       "condition": "Interagir avec Hiboushi dans les Apartments"
+    },
+    "ripple_passage": {
+      "name": "Amulette d'ondulation",
+      "description": "C'est la goutte d'eau de trop...",
+      "condition": "Entrer dans le Ripple Passage du Static Noise Hell"
+    },
+    "ghostly_exhibit": {
+      "name": "Photosynthèse",
+      "condition": "Visiter le Ghostly Exhibit"
+    },
+    "witch_duo": {
+      "name": "Duo de jumelles colorées",
+      "description": "On est jamais mieux accompagné qu'avec sa jumelle !",
+      "condition": "Visiter la Maison de la Sorcière dans Love Lodge, le lieu où la Sorcière de la Charitée gelée se trouve et trouver la peinture dans l'Hatred Palace"
     }
   },
   "flow": {
@@ -2355,6 +2369,10 @@
       "name": "Ophelia",
       "description": "Un cristal mijotant ne peut pas la garder au frais",
       "condition": "Obtenir le Système Cristallin dans la Crystal Cavern. Si vous l'avez déjà obtenu, retournez là où vous l'avez trouvé."
+    },
+    "visiting_lady": {
+      "name": "Dame de passage",
+      "condition": "Débloquer le raccourci reliant la Train Station et le Lily Field"
     }
   },
   "someday": {
@@ -2425,6 +2443,11 @@
       "name": "Bioluminescence",
       "description": "Je l'ai nommé Miru.",
       "condition": "Entrer dans les Overgrown Caves"
+    },
+    "spaceship_flight": {
+      "name": "Chasseur de primes galactique",
+      "description": "Des richesses inimaginables vous attendent",
+      "condition": "Voir l'événement de Vol Spatial sur Moon 2"
     }
   },
   "unevendream": {
@@ -2713,6 +2736,20 @@
       "name": "Évolution",
       "description": "Pourquoi est-ce mal de croire les atomes ? Car ils inventent tout !",
       "condition": "Explorer chaque hall du Science Museum"
+    },
+    "residential_prison": {
+      "name": "Planètes d'exil",
+      "description": "Juste moi, moi-même et ce truc bizarre dans le ciel",
+      "condition": "Se faire attraper par le personnel de sécurité du Residential Corridor World"
+    },
+    "infinite_rooms_end": {
+      "name": "Boucle de rencontres inattendues",
+      "condition": "Atteindre la fin de The Infinite Rooms"
+    },
+    "believer_alexandra": {
+      "name": "Endoctrinement",
+      "description": "Aie une sévère conversation avec la Grande Prêtresse.",
+      "condition": "Trouver Alexandra dans le Believer's Temple et essayer de la tuer"
     }
   },
   "muma": {
