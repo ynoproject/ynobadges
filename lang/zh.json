@@ -2042,33 +2042,47 @@
       "condition": "让 Pancake World 的女孩露出想杀人般的眼神"
     },
     "blood_monster": {
-      "name": "Blood Monster",
+      "name": "面带血色",
       "description": "The scrunkly!",
-      "condition": "Visit the creature in Blood Chamber"
+      "condition": "拜访 Blood Chamber 中的生物"
     },
     "ether_cube": {
-      "name": "Ether Cube",
-      "description": "Not an orb, but something to ponder nonetheless.",
-      "condition": "Enter Ether Caverns"
+      "name": "以太块",
+      "description": "虽然不是以太珠，但反正也是你解释不通的玩意儿",
+      "condition": "进入 Ether Caverns"
     },
     "snowy_village_dancers": {
-      "name": "Dance No More!",
-      "description": "This show mustn't go on!",
-      "condition": "Equip the Marginal effect and go see the dancers in Snowy Village"
+      "name": "别再跳了！",
+      "description": "这戏不能播了！",
+      "condition": "装备 Marginal 效果并打量 Snowy Village 的舞者"
     },
     "cure_curse": {
-      "name": "Curse Healer",
-      "condition": "Equip the Marginal effect and let Kankoshi heal you"
+      "name": "祛咒术士",
+      "condition": "装备 Marginal effect 并让 Kankoshi 治疗你"
     },
     "delete_urotsuki": {
-      "name": "Delete Myself",
-      "description": "Welcome to my brain!",
-      "condition": "Face the consequences of your actions in the Head World"
+      "name": "删除自己",
+      "description": "欢迎来到我的脑内！",
+      "condition": "在 Head World 遭到自己行为的报应"
     },
     "hiboushi": {
-      "name": "Lamppost Girl",
-      "description": "Only one pole in the way",
-      "condition": "Interact with Hiboushi in Apartments"
+      "name": "立灯少女",
+      "description": "一杆独立",
+      "condition": "在 Apartments 与 Hiboushi 互动"
+    },
+    "ripple_passage": {
+      "name": "Ripple Amulet",
+      "description": "Didn't know you got drip like that...",
+      "condition": "Enter Ripple Passage in Static Noise Hell"
+    },
+    "ghostly_exhibit": {
+      "name": "Photosynthesis",
+      "condition": "Visit the Ghostly Exhibit"
+    },
+    "witch_duo": {
+      "name": "Twin-Colored Duo",
+      "description": "Two is better than one!",
+      "condition": "Visit the Witch's House in Love Lodge, the place where the frozen Witch of Charity is, and find the painting in Hatred Palace"
     }
   },
   "flow": {
@@ -2190,8 +2204,8 @@
       "condition": "从小铁锈子处获得生锈菜单样式"
     },
     "flower_adorned_hat": {
-      "name": "Flower Adorned Hat",
-      "condition": "Meet Flower Girl in the Plant and Illusionary Corridors"
+      "name": "花帽子",
+      "condition": "拜访 the Plant 和 Illusionary Corridors 的花朵少女"
     }
   },
   "prayers": {
@@ -2355,6 +2369,10 @@
       "name": "欧菲利亚",
       "description": "闪烁的水晶已经满足不了她了",
       "condition": "获得 Crystal Cavern 的 System Crystalline 。若已获得，前往其原位置。"
+    },
+    "visiting_lady": {
+      "name": "Visiting Lady",
+      "condition": "Unlock the shortcut to Train Station through Lily Field"
     }
   },
   "someday": {
@@ -2425,6 +2443,11 @@
       "name": "生物发光",
       "description": "我给它取名 Miru",
       "condition": "进入 Overgrown Caves"
+    },
+    "spaceship_flight": {
+      "name": "Space Bounty Hunter",
+      "description": "Unbelievable riches await you",
+      "condition": "Go to the Spaceship Flight Event in Moon 2"
     }
   },
   "unevendream": {
@@ -2713,6 +2736,20 @@
       "name": "进化",
       "description": "干嘛不相信原子呢？万物可都是由它们组成的呢!",
       "condition": "参观 Science Museum 的每个展厅"
+    },
+    "residential_prison": {
+      "name": "Exile Planets",
+      "description": "Just me, myself, and that weird thing in the sky",
+      "condition": "Get caught by the security staff in Residential Corridor World"
+    },
+    "infinite_rooms_end": {
+      "name": "Loophole of Sudden Encounters",
+      "condition": "Reach the end of The Infinite Rooms"
+    },
+    "believer_alexandra": {
+      "name": "Indoctrination",
+      "description": "Have a stern chat with the High Priestess.",
+      "condition": "Find Alexandra in the Believer's Temple and try to kill her"
     }
   },
   "muma": {
@@ -2931,9 +2968,9 @@
       "condition": "登上 Ancient Heavenly Sky"
     },
     "crimson_lights": {
-      "name": "Crimson Lights",
+      "name": "绯红灯火",
       "description": "The sun goes down, I feel the light betray me",
-      "condition": "Reach the Distant Red Horizon"
+      "condition": "抵达 Distant Red Horizon"
     }
   },
   "mikan": {
