@@ -317,6 +317,10 @@
       "name": "Moonwalk",
       "description": "S'il te plaît éloigne-moi ce couteau de là !",
       "condition": "Faire reculer Seccom Masada-sensei avec l'effet Couteau"
+    },
+    "submarine_fish_yn": {
+      "name": "Submergé",
+      "condition": "Voir le Poisson Sous-marin émerger de l'eau"
     }
   },
   "2kki": {
@@ -2143,6 +2147,28 @@
     "lamplit_stones": {
       "name": "Peace and Tranquility",
       "condition": "Visiter les Lamplit Stones"
+    },
+    "monochrome_depression": {
+      "name": "Dépression",
+      "condition": "Atteindre la section monochrome du Wind Turbine Plateau"
+    },
+    "duckling_bathhouse": {
+      "name": "Couac-couac !",
+      "condition": "Placer un caneton sur votre tête dans les Bathhouse"
+    },
+    "terrarium_corridor": {
+      "name": "Terrarium",
+      "description": "Une paix momentanée entre d'anciennes ères révolues et une réalité inversée.",
+      "condition": "Entrer dans le couloir au terrarium entre The Ceiling et l'Heian Era Village"
+    },
+    "shallows_of_deceit": {
+      "name": "Royaume du cramoisi",
+      "description": "Vagues écarlates et bon gros sourires !",
+      "condition": "Atteindre les Shallows of Deceit"
+    },
+    "cryptic_cubes": {
+      "name": "Cubes cryptiques",
+      "condition": "Attirer les habitants de l'Enigmatic World"
     }
   },
   "flow": {
@@ -2437,6 +2463,11 @@
     "visiting_lady": {
       "name": "Dame de passage",
       "condition": "Débloquer le raccourci reliant la Train Station et le Lily Field"
+    },
+    "monochromatic_alter": {
+      "name": "Femme de ménage monochrome",
+      "description": "Monoko en moins important",
+      "condition": "Obtenir l'alter Monochromatique dans Black Lace"
     }
   },
   "someday": {
@@ -2492,7 +2523,7 @@
     },
     "hexxed": {
       "name": "Hexxé",
-      "condition": "Retrouve-toi dans l'Hexagon Realm"
+      "condition": "Se retrouver dans l'Hexagon Realm"
     },
     "kondo": {
       "name": "Kondo",
@@ -2517,6 +2548,11 @@
       "name": "Îles de la jeunesse",
       "description": "Elle ne s'en souvient pas",
       "condition": "Atteindre l'îlot secret du Playground"
+    },
+    "red_crystal": {
+      "name": "Sutures",
+      "description": "Le temps ne peut pas tout guérir.",
+      "condition": "Atteindre la fin du Thread World"
     }
   },
   "unevendream": {
@@ -2844,7 +2880,7 @@
     },
     "platform_pro": {
       "name": "Professionnelle des plateformes",
-      "description": "Citation serait fière.",
+      "description": "Quote serait fier.",
       "condition": "Traverser le Cave Game sans se faire toucher"
     },
     "moon_bunny": {
