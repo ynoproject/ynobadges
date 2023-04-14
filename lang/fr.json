@@ -2,12 +2,12 @@
   "ynoproject": {
     "badge_amulet": {
       "name": "Amulette du collectionneur de badges",
-      "description": "Elle s'adapte pour correspondre à votre thème de jeu",
+      "description": "S'adapte pour correspondre à votre thème de jeu",
       "condition": "Obtenir un total de 100 badges (sans compter les badges cachés)"
     },
     "badge_amulet_2": {
       "name": "Amulette EX du collectionneur de badges",
-      "description": "Elle s'adapte pour correspondre à votre thème de jeu",
+      "description": "S'adapte pour correspondre à votre thème de jeu",
       "condition": "Obtenir un total de 500 badges (sans compter les badges cachés)"
     },
     "mono": {
@@ -321,6 +321,10 @@
     "submarine_fish_yn": {
       "name": "Submergé",
       "condition": "Voir le Poisson Sous-marin émerger de l'eau"
+    },
+    "manhole_sama_red": {
+      "name": "Rouge comme une tomate",
+      "condition": "Voir la variante rouge de Manhole-sama"
     }
   },
   "2kki": {
@@ -1516,7 +1520,7 @@
     },
     "techno_karaoke": {
       "name": "Karaoké techno",
-      "description": "* Une petite émeute *",
+      "description": "Qu'est-ce que tu dis ? J'entends rien avec tout ce bruit !",
       "condition": "Interagir avec la Fille Rose dans la salle de Karaoké de la Virtual City"
     },
     "tomato_world": {
@@ -2169,6 +2173,25 @@
     "cryptic_cubes": {
       "name": "Cubes cryptiques",
       "condition": "Attirer les habitants de l'Enigmatic World"
+    },
+    "bane_jack": {
+      "name": "Jack hors de la boîte",
+      "description": "Un ami sauteur, rebondissant partout gaiement !",
+      "condition": "Interagir avec Bane Jack dans les Urotsuki's Dream Apartments"
+    },
+    "hooked_fisherman": {
+      "name": "Mordu à l'hameçon",
+      "description": "Ce seau n'est pas très confortable...",
+      "condition": "Se faire attraper par le pêcheur à la Dream Beach"
+    },
+    "home_within_nowhere": {
+      "name": "Home Within Nowhere",
+      "description": "Une maison au milieu de nulle part peinte sur une toile blanche.",
+      "condition": "Entrer dans l'Home Within Nowhere"
+    },
+    "ab_factory_eyes": {
+      "name": "Qui vous regarde ?",
+      "condition": "Voir la paire d'yeux rouges dans l'Abandoned Factory grâce à l'effet Lunettes"
     }
   },
   "flow": {
@@ -2468,6 +2491,11 @@
       "name": "Femme de ménage monochrome",
       "description": "Monoko en moins important",
       "condition": "Obtenir l'alter Monochromatique dans Black Lace"
+    },
+    "manager_deep_dreams": {
+      "name": "Excusez-moi monsieur... ?",
+      "description": "T'amuses pas avec ma jukebox.",
+      "condition": "Déclencher l'événement du Manager"
     }
   },
   "someday": {
@@ -2860,6 +2888,10 @@
       "name": "Pluie de flocons de neige",
       "description": "À cette vitesse, on neige voit plus rien !",
       "condition": "Compléter l'événement de la Piste de Ski"
+    },
+    "versailles_abysses": {
+      "name": "Cœur de l'océan",
+      "condition": "Jeter un froid en utilisant la Clé Radiateur à côté de la fontaine"
     }
   },
   "muma": {
@@ -3176,6 +3208,10 @@
       "name": "Courroux des femmes de ménage",
       "description": "Vous n'êtes pas chez vous, invité.",
       "condition": "Utiliser l'effet Brass Knuckles dans l'entrée du Maid Mansion"
+    },
+    "shining_zone_muzou": {
+      "name": "Zone brillante",
+      "condition": "Entrer dans la zone accessible par chance dans le Hand Sector"
     }
   }
 }
