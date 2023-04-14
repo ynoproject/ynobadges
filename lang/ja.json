@@ -323,8 +323,8 @@
       "condition": "水面から現れた黒い目玉を見る"
     },
     "manhole_sama_red": {
-      "name": "Flushed",
-      "condition": "See the red variant of Manhole-sama"
+      "name": "紅潮",
+      "condition": "触手と目の通路の赤いバージョンを見る"
     }
   },
   "2kki": {
@@ -2175,23 +2175,23 @@
       "condition": "エニグマの住民を引き寄せる"
     },
     "bane_jack": {
-      "name": "Jack Out of the Box",
-      "description": "A springy friend, happily bouncing everywhere!",
-      "condition": "Interact with Bane Jack in Urotsuki's Dream Apartments"
+      "name": "ジャックリ箱",
+      "description": "どこでも楽しそうに弾む、ばねの友達！",
+      "condition": "うろつき邸のジャックに話しかける"
     },
     "hooked_fisherman": {
-      "name": "Hooked",
-      "description": "That bucket can't be comfortable...",
-      "condition": "Get caught by the fisherman at Dream Beach"
+      "name": "引っかかった",
+      "description": "あのバケツが快適なわけがない...",
+      "condition": "夢海岸の釣り人に釣られる"
     },
     "home_within_nowhere": {
-      "name": "Home Within Nowhere",
-      "description": "An isolated home painted on a blank canvas.",
-      "condition": "Enter Home Within Nowhere"
+      "name": "home",
+      "description": "真っ白なキャンバスに描かれた孤独な家",
+      "condition": "homeに到達する"
     },
     "ab_factory_eyes": {
-      "name": "Who is Watching You?",
-      "condition": "See the pair of red eyes with the Glasses effect in the Abandoned Factory"
+      "name": "誰があなたを見ている？",
+      "condition": "めがねで廃工場の赤い両目を見る"
     }
   },
   "flow": {
@@ -2404,7 +2404,7 @@
     },
     "planetarium": {
       "name": "星の彼方",
-      "condition": "プラネタリウムでCelestialのalterがある部屋に入る"
+      "condition": "プラネタリウムできらぼしのアルターがある部屋に入る"
     },
     "hospital_event": {
       "name": "患者番号001",
@@ -2433,7 +2433,7 @@
     "apparition_creature": {
       "name": "パステルカラーの幻",
       "description": "パステル色の過去",
-      "condition": "Pastelのalterを使ってApparitionのalterがある部屋に入る"
+      "condition": "パステルのアルターを使ってゆうれいのアルターがある部屋に入る"
     },
     "pink_bathing_creature": {
       "name": "浴場の泡",
@@ -2453,7 +2453,7 @@
     "angel_nurse": {
       "name": "血液に栄養を",
       "description": "必要な犠牲だった",
-      "condition": "hospitalで天使のナースを見つけ、部屋の中でDamageとToxicのalterを使う"
+      "condition": "hospitalで天使のナースを見つけ、部屋の中でダメージとどくのアルターを使う"
     },
     "flying_mermaid": {
       "name": "空の人魚天使",
@@ -2463,7 +2463,7 @@
     "rainbow_theme": {
       "name": "Hour-Long Novelty",
       "description": "時はそれを深く埋葬した",
-      "condition": "Rainbow Scratch ParkでRainbow Systemを入手する、すでに入手している場合は見つけた場所に行く"
+      "condition": "Rainbow Scratch Parkでシステム　虹を入手する、すでに入手している場合は見つけた場所に行く"
     },
     "docks_aquarium": {
       "name": "人生の歩み",
@@ -2481,7 +2481,7 @@
     "crystalline_system": {
       "name": "オフィーリア",
       "description": "煮えたぎる水晶は冷静さを保てない",
-      "condition": "Crystal CavernでSystem Crystallineを入手する、すでに入手している場合は見つけた場所に行く"
+      "condition": "Crystal Cavernでシステム　クリスタルを入手する、すでに入手している場合は見つけた場所に行く"
     },
     "visiting_lady": {
       "name": "Visiting Lady",
@@ -2490,12 +2490,12 @@
     "monochromatic_alter": {
       "name": "Monomaiden",
       "description": "Less important Monoko",
-      "condition": "Black LaceでMonochromaticのalterを手に入れる"
+      "condition": "Black Laceでモノクロのアルターを手に入れる"
     },
     "manager_deep_dreams": {
-      "name": "Excuse me sir...?",
-      "description": "Don't mess with the jukebox.",
-      "condition": "See the Manager Event"
+      "name": "失礼します...？",
+      "description": "ジュークボックスには手を出すな。",
+      "condition": "Manager Eventを見る"
     }
   },
   "someday": {
@@ -2556,7 +2556,7 @@
     "kondo": {
       "name": "Kondo",
       "description": "そう、彼だ",
-      "condition": "彼女が現れるすべての場所でKondoを見つける"
+      "condition": "彼女が現れるすべての場所でコンドを見つける"
     },
     "rusty_bubble": {
       "name": "錆びた泡",
@@ -2570,7 +2570,7 @@
     "spaceship_flight": {
       "name": "宇宙賞金稼ぎ",
       "description": "信じられないほどの富があなたを待っている",
-      "condition": "Spaceship Flight Event in Moon 2でSpaceship Flight Eventを行う"
+      "condition": "Moon 2でSpaceship Flight Eventを行う"
     },
     "woodenblocks_toys": {
       "name": "若者の島",
@@ -2838,7 +2838,7 @@
     },
     "rainbow_screw": {
       "name": "One of Us! One of Us!",
-      "condition": "Rainbow Screw Floorでスパナを使って地面にねじ込む"
+      "condition": "Rainbow Screw Floorでねじを使って地面にねじ込む"
     },
     "sequoia_wheel_loss": {
       "name": "賭け事に勝つのは主",
@@ -2873,7 +2873,7 @@
     "residential_prison": {
       "name": "追放惑星",
       "description": "自分自身、そして空に浮かぶ奇妙な物だけ",
-      "condition": "Get caught by the security staff in Residential Corridor Worldで警備員に捕まる"
+      "condition": "Residential Corridor Worldで警備員に捕まる"
     },
     "infinite_rooms_end": {
       "name": "Loophole of Sudden Encounters",
@@ -2890,8 +2890,8 @@
       "condition": "Ski Hillイベントを見る"
     },
     "versailles_abysses": {
-      "name": "Heart of the Ocean",
-      "condition": "Emit cold air using the Radiator Key near the fountain"
+      "name": "海洋の心",
+      "condition": "噴水の近くでラジエーターのキーを使って冷気を放出する"
     }
   },
   "muma": {
@@ -3211,7 +3211,7 @@
     },
     "shining_zone_muzou": {
       "name": "Shining Zone",
-      "condition": "Enter the zone accessible by chance from the Hand Sector"
+      "condition": "Hand Sectorから確率で行くことのできるゾーンに到達する"
     }
   }
 }
