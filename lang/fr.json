@@ -60,12 +60,12 @@
     },
     "exp_amulet": {
       "name": "Amulette d'expéditionniste",
-      "description": "Elle s'adapte pour correspondre au thème",
+      "description": "S'adapte pour correspondre au thème",
       "condition": "Compléter un total de 250 expéditions"
     },
     "exp_amulet_2": {
       "name": "Amulette EX d'expéditionniste",
-      "description": "Elle s'adapte pour correspondre au thème",
+      "description": "S'adapte pour correspondre au thème",
       "condition": "Compléter un total de 1000 expéditions"
     },
     "medal_bronze": {
@@ -329,6 +329,11 @@
     "onsen_stab": {
       "name": "Coup de poignard dans le noir",
       "condition": "Poignarder Onsen-san"
+    },
+    "fc_moai": {
+      "name": "Tombe du Moaï",
+      "description": "Quelle belle statue !",
+      "condition": "Entrer dans la salle de la statue de moaï dans le FC Dungeon"
     }
   },
   "2kki": {
@@ -2219,6 +2224,30 @@
       "name": "Sang rouge de la malchance",
       "description": "255 raisons pour ne pas le faire...",
       "condition": "Déclencher l'événement de la Blood Red House en tronçonnant la créature rouge"
+    },
+    "midoriko": {
+      "name": "Résidence damier",
+      "description": "La résidence certifiée du club de jeu",
+      "condition": "Voir le visage de Midoriko de près"
+    },
+    "witch_embrace": {
+      "name": "Étreinte de sorcière",
+      "description": "Tu dois être fatiguée après avoir autant marché... Viens te reposer dans mes bras, tiens",
+      "condition": "Rétrécir et se faire attraper par la Shadow Lady du Toy World"
+    },
+    "eschaton": {
+      "name": "Eschaton",
+      "condition": "View the World's End event in Domino Constructions."
+    },
+    "chromatic_limbo": {
+      "name": "Detection",
+      "description": "Was it always like this?",
+      "condition": "Enter the Chromatic Limbo."
+    },
+    "ribbon_pistol": {
+      "name": "Secret in the Cabinet",
+      "description": "You just witnessed what you shouldn't have seen.",
+      "condition": "Interact with the cabinet in the Shop Ruins and see the pistol with ribbons."
     }
   },
   "flow": {
@@ -2532,6 +2561,11 @@
       "name": "Excusez-moi monsieur... ?",
       "description": "T'amuses pas avec ma jukebox.",
       "condition": "Déclencher l'événement du Manager"
+    },
+    "cave_rave": {
+      "name": "Cave Rave",
+      "description": "Woo!",
+      "condition": "View the Rave event in Stone Ruins."
     }
   },
   "someday": {
@@ -2796,6 +2830,10 @@
       "name": "Rongeur somnolant",
       "description": "'=w= zzz...",
       "condition": "Interagir avec la Souris dans la Cabin"
+    },
+    "underwater_balcony": {
+      "name": "Songes sous-marines",
+      "condition": "Visiter le balcon du Manoir Sirène dans Sea"
     }
   },
   "braingirl": {
@@ -2928,6 +2966,14 @@
     "versailles_abysses": {
       "name": "Cœur de l'océan",
       "condition": "Jeter un froid en utilisant la Clé Radiateur à côté de la fontaine"
+    },
+    "mountain_peak": {
+      "name": "Sightseer",
+      "condition": "View the frosty peak in Icy River Mountain."
+    },
+    "distant_lights": {
+      "name": "Beyond the Sea",
+      "condition": "Reach and view the Distant Lights."
     }
   },
   "muma": {
@@ -3073,7 +3119,7 @@
     "hello_there": {
       "name": "Bonjour toi",
       "description": "Bonjour mon p'tit gars, d'où viens-tu ?",
-      "condition": "Rencontrer Nabu"
+      "condition": "Rencontrer Zabu"
     },
     "moment_clarity": {
       "name": "Un moment de clarté",
@@ -3248,85 +3294,112 @@
     "shining_zone_muzou": {
       "name": "Zone brillante",
       "condition": "Entrer dans la zone accessible par chance dans le Hand Sector"
+    },
+    "sepieye": {
+      "name": "Œil pour œil",
+      "condition": "Frapper la goutte œil sur la Sepia Island jusqu'à entrer dans le couloir qui boucle"
     }
   },
   "ultraviolet": {
     "magicians_secret": {
-      "name": "Magician's Secret",
-      "description": "The ritual has been completed!",
-      "condition": "Obtain the hexe menu theme."
+      "name": "Secret de magicien",
+      "description": "Rituel complet !",
+      "condition": "Obtenir le thème de fenêtre hexe"
     },
     "stars_pastels": {
-      "name": "Stars and Pastels",
-      "condition": "Enter the mobile room in Pastel Blocks world."
+      "name": "Étoiles et pastels",
+      "condition": "Entrer dans la salle du berceau dans le Pastel Blocks world"
     },
     "instant_gratification": {
-      "name": "Instant Gratification",
-      "description": "Was it worth it?",
-      "condition": "Pick up and spend the coin next to the vending machine in Pastel World."
+      "name": "Gratification instantanée",
+      "description": "Est-ce que ça valait le coup ?",
+      "condition": "Prendre et dépenser la pièce se trouvant à côté du distributeur automatique dans le Pastel World"
     },
     "uv_snipped": {
-      "name": "Snipped",
-      "description": "Having a bad hair day?",
-      "condition": "Obtain the Short Hair effect in the Bloody Water Dungeon."
+      "name": "Mauvaise coupe",
+      "description": "Alors, ça va pas la tête aujourd'hui ?",
+      "condition": "Obtenir l'effet Short Hair dans le Bloody Water Dungeon"
     },
     "little_rabbit": {
-      "name": "Little Rabbit",
-      "condition": "Visit the Rabbit's House in Pastel World."
+      "name": "Petit lapin",
+      "condition": "Visiter la Maison du Lapin in Pastel World"
     },
     "seasons_go": {
-      "name": "Seasons Come and Go",
-      "condition": "Obtain the Stained Glass effect in ."
+      "name": "Changement de saison précoce",
+      "condition": "Obtenir l'effet Stained Glass dans le Stained Glass World"
     },
     "seas_green": {
-      "name": "Seas of Green",
-      "description": "Did I dream of being a butterfly, or did a butterfly dream it was me?",
-      "condition": "Use the green flower to teleport to the water-filled part of Fantasy Badlands."
+      "name": "Mers de vert",
+      "description": "Ai-je rêvé d'être un papillon, ou est-ce qu'un papillon a réveilé d'être moi ?",
+      "condition": "Utiliser la fleur verte pour se téléporter vers la partie gorgée d'eau des Fantasy Badlands"
     },
     "self_destruction": {
-      "name": "Self-Destruction",
-      "description": "If all you have is a hammer, everything looks like a nail.",
-      "condition": "Hit Sometsuki's clone with the hammer."
+      "name": "Auto-destruction",
+      "description": "Si tout ce que t'as c'est un marteau, alors tout ressemble à un marteau.",
+      "condition": "Frapper le clone de Sometsuki avec le marteau"
     },
     "uv_repose": {
-      "name": "Repose",
-      "description": "A home away from home.",
-      "condition": "Find the isolated island of Countryside accessed from Streetlamp World."
+      "name": "Repos",
+      "description": "Une maison à la dérive de chez elle.",
+      "condition": "Trouver l'île isolée de la Countryside accessible par le Streetlamp World"
     },
     "vibe_check": {
       "name": "Vibe Check",
-      "description": "I mean, it's not like it's NOT your fault.",
-      "condition": "Watch the Decapitating Fall event."
+      "description": "Je veux dire, c'est pas comme si ce n'était PAS de ta faute.",
+      "condition": "Regarder l'événement de la Chute Décapitante"
     },
     "committed_memory": {
-      "name": "Committed to Memory",
-      "description": "HE RUINED MY DREAM JOURNAL! It's a good thing I downloaded a backup save.",
-      "condition": "Buy the save book from the Pastel World shop."
+      "name": "Envoyé en mémoire",
+      "description": "IL A RUINÉ MON JOURNAL DE SAUVEGARDE ! Heureusement que j'ai fait une copie.",
+      "condition": "Acheter le journal de sauvegarde de la boutique du Pastel World"
     },
     "pane_master": {
-      "name": "PANE Master",
-      "condition": "Reach level 10 in the PANERabbit Minigame."
+      "name": "Maître PANE",
+      "condition": "Atteindre le niveau 10 dans le mini-jeu PANERabbit"
     },
     "little_witch": {
-      "name": "Little Witch",
-      "description": "Heading to a town with an ocean view.",
-      "condition": "Trigger the flight event."
+      "name": "Petite sorcière",
+      "description": "En route vers une ville avec vue sur le Blue Sea !",
+      "condition": "Déclencher l'événement d'envol"
     },
     "secret_journal": {
-      "name": "Secret Journal",
-      "condition": "Trigger the Journal Event in Schoolgirl's Room."
+      "name": "Journal secret",
+      "condition": "Déclencher l'événement du Journal dans la Salle de l'Écolière"
     },
     "tako_miko": {
-      "name": "New Badge",
-      "condition": "Donate 1000 yen to the Miko to obtain the Miko effect in Miko Shrine."
+      "name": "Honorable donateur",
+      "condition": "Faire une offrande de 1000 yen au Miko pour obtenir l'effet Miko dans le Miko Shrine"
     },
     "rabbit_sea": {
-      "name": "Rabbit of the Sea",
-      "condition": "Obtain the Sea Hare effect in Seabed."
+      "name": "Lièvre de mer",
+      "condition": "Obtenir l'effet Sea Hare dans la Seabed"
     },
     "summertime_shrine": {
-      "name": "Summertime Shrine",
-      "condition": "Find the Shrine in Countryside."
+      "name": "Sanctuaire ensoleillé",
+      "condition": "Trouver le Sanctuaire dans la Countryside"
+    },
+    "ribbon_effect": {
+      "name": "Soyeux rubans nostalgiques",
+      "description": "Garde le sourire ma belle, tu es à croquer !",
+      "condition": "Obtenir l'effet Ribbon dans le FC Dungeon"
+    },
+    "cake_effect": {
+      "name": "Gâteau à la fraise",
+      "description": "Tu es un délice !",
+      "condition": "Obtenir l'effet Cake dans le Dessert World"
+    },
+    "cookie_window": {
+      "name": "Risk It for the Biscuit",
+      "condition": "Recevoir le thème de fenêtre Cookie du Gars Cookie dans les Vast Plains"
+    },
+    "cliff_of_memories": {
+      "name": "Interdependent",
+      "description": "A sketch of beauty hidden deep inside.",
+      "condition": "Sit beside the blue-shirted person in the Cliff of Memories."
+    },
+    "shikkenken": {
+      "name": "A Little Sister!",
+      "condition": "Interact with the Shikkenken with the Coat & Muffler effect on."
     }
   }
 }
