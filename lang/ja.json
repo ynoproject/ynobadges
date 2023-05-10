@@ -2234,6 +2234,20 @@
       "name": "魔女の抱擁",
       "description": "遠くまで歩いてきて疲れたでしょう...私の腕の中で休んでください",
       "condition": "滑る世界の巨大な黒魔女に捕まり、縮む"
+    },
+    "eschaton": {
+      "name": "Eschaton",
+      "condition": "View the World's End event in Domino Constructions."
+    },
+    "chromatic_limbo": {
+      "name": "Detection",
+      "description": "Was it always like this?",
+      "condition": "Enter the Chromatic Limbo."
+    },
+    "ribbon_pistol": {
+      "name": "Secret in the Cabinet",
+      "description": "You just witnessed what you shouldn't have seen.",
+      "condition": "Interact with the cabinet in the Shop Ruins and see the pistol with ribbons."
     }
   },
   "flow": {
@@ -2547,6 +2561,11 @@
       "name": "失礼します...？",
       "description": "ジュークボックスには手を出すな。",
       "condition": "Manager Eventを見る"
+    },
+    "cave_rave": {
+      "name": "Cave Rave",
+      "description": "Woo!",
+      "condition": "View the Rave event in Stone Ruins."
     }
   },
   "someday": {
@@ -2947,6 +2966,14 @@
     "versailles_abysses": {
       "name": "海洋の心",
       "condition": "噴水の近くでラジエーターのキーを使って冷気を放出する"
+    },
+    "mountain_peak": {
+      "name": "Sightseer",
+      "condition": "View the frosty peak in Icy River Mountain."
+    },
+    "distant_lights": {
+      "name": "Beyond the Sea",
+      "condition": "Reach and view the Distant Lights."
     }
   },
   "muma": {
@@ -3324,7 +3351,7 @@
     "committed_memory": {
       "name": "記憶した",
       "description": "記録が消えてしまった！バックアップを保存しておいてよかった。",
-      "condition": "Pastel World shopで夢日記帳を購入する"
+      "condition": "黄色い店で夢日記帳を購入する"
     },
     "pane_master": {
       "name": "PANEマスター",
@@ -3337,19 +3364,19 @@
     },
     "secret_journal": {
       "name": "秘密の日記",
-      "condition": "Schoolgirl's RoomでJournalイベントを見る"
+      "condition": "部屋でJournalイベントを見る"
     },
     "tako_miko": {
       "name": "New Badge",
-      "condition": "Miko Shrineで、賽銭箱に1000円入れてみこを入手する"
+      "condition": "神社最深部で、賽銭箱に1000円入れてみこを入手する"
     },
     "rabbit_sea": {
       "name": "海のウサギ",
-      "condition": "Seabedでアメフラシを入手する"
+      "condition": "海底でアメフラシを入手する"
     },
     "summertime_shrine": {
       "name": "夏場の神社",
-      "condition": "Countrysideで神社を見つける"
+      "condition": "田園で神社を見つける"
     },
     "ribbon_effect": {
       "name": "レトロなかわいいリボン",
@@ -3364,6 +3391,15 @@
     "cookie_window": {
       "name": "ビスケットイズベスト",
       "condition": "茶色洞窟　外　1Fのクッキー頭の人からウィンドウ「cookie」を入手する"
+    },
+    "cliff_of_memories": {
+      "name": "Interdependent",
+      "description": "A sketch of beauty hidden deep inside.",
+      "condition": "Sit beside the blue-shirted person in the Cliff of Memories."
+    },
+    "shikkenken": {
+      "name": "A Little Sister!",
+      "condition": "Interact with the Shikkenken with the Coat & Muffler effect on."
     }
   }
 }
