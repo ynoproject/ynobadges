@@ -334,6 +334,10 @@
       "name": "モアイの墓",
       "description": "なんて素敵な像なんだ！",
       "condition": "ＦＣ地下遺跡のモアイ像(顔岩石)がある部屋に入る"
+    },
+    "isee_path": {
+      "name": "Isee Stare",
+      "condition": "Get to Mural World via the Isee Path"
     }
   },
   "2kki": {
@@ -2247,7 +2251,26 @@
     "ribbon_pistol": {
       "name": "クローゼットの中の秘密",
       "description": "あなたは見てはいけないものを見てしまったのです。",
-      "condition": "廃墟商店のクローゼットと対話し、リボンのついたピストルを見る。."
+      "condition": "廃墟商店のクローゼットと対話し、リボンのついたピストルを見る"
+    },
+    "school_boy_shoujo": {
+      "name": "Dramatic Shoujo Wind",
+      "condition": "Use the School boy effect near the girl in the School"
+    },
+    "coral_seahorses": {
+      "name": "Seasick",
+      "description": "Maybe the real treasure was the seahorses we met along the way...",
+      "condition": "Enter Coral Shoal for the first time"
+    },
+    "twin_mountains": {
+      "name": "Dream of the Twin Mountains",
+      "description": "You've come so far from where you started.",
+      "condition": "Visit the following areas with the Twin Mountains seen in the distance: Foliage Estate (Overlook), Flying Fish World (Dream Scene), Mirror Room (Beach), Bleak Future, Saturated Eyeball Zone, Rainy Apartments, Red Sky Cliff (Splash Streetway), Wind Turbine Plateau, Bathhouse"
+    },
+    "turntable_fairy": {
+      "name": "Turntable Fairy",
+      "description": "You gotta try this!",
+      "condition": "Trigger the Japanese Turntables event in Urban Street Area"
     }
   },
   "flow": {
@@ -2566,6 +2589,15 @@
       "name": "Cave Rave",
       "description": "イェ～イ！",
       "condition": "Stone RuinsでRave eventを見る"
+    },
+    "black_lace": {
+      "name": "Black Lace",
+      "description": "Welcome back.",
+      "condition": "Enter Black Lace from the Nexus"
+    },
+    "serene_flowers": {
+      "name": "Serene Flowers",
+      "condition": "Make your way to the balcony of the Dark Town"
     }
   },
   "someday": {
@@ -2969,6 +3001,7 @@
     },
     "mountain_peak": {
       "name": "観光客",
+	  "description": "A ray of sunshine to warm frigid hearts",
       "condition": "Icy River Mountainのfrosty peakを見る"
     },
     "distant_lights": {
@@ -3395,11 +3428,16 @@
     "cliff_of_memories": {
       "name": "相互依存",
       "description": "心の奥に秘められた美しいスケッチ",
-      "condition": "思い出のクリフで青シャツの人の横に座る."
+      "condition": "思い出のクリフで青シャツの人の横に座る"
     },
     "shikkenken": {
       "name": "小さな妹！",
       "condition": "コートとマフラーでしっけんけんに話しかける"
+    },
+    "distorted_cyber_world": {
+      "name": "Violent Distortion",
+      "description": "Your violence will only lead to corruption...",
+      "condition": "Enter the Distorted Cyber World"
     }
   }
 }
