@@ -334,6 +334,10 @@
       "name": "Tombe du Moaï",
       "description": "Quelle belle statue !",
       "condition": "Entrer dans la salle de la statue de moaï dans le FC Dungeon"
+    },
+    "isee_path": {
+      "name": "Regard Kivoit",
+      "condition": "Se rendre au Mural World depuis le Passage Kivoit"
     }
   },
   "2kki": {
@@ -2237,17 +2241,36 @@
     },
     "eschaton": {
       "name": "Eschaton",
-      "condition": "View the World's End event in Domino Constructions."
+      "condition": "Voir l'événement de la Fin du Monde dans les Domino Constructions"
     },
     "chromatic_limbo": {
-      "name": "Detection",
-      "description": "Was it always like this?",
-      "condition": "Enter the Chromatic Limbo."
+      "name": "Détection",
+      "description": "Était-ce toujours comme ça ?",
+      "condition": "Entrer dans le Chromatic Limbo"
     },
     "ribbon_pistol": {
-      "name": "Secret in the Cabinet",
-      "description": "You just witnessed what you shouldn't have seen.",
-      "condition": "Interact with the cabinet in the Shop Ruins and see the pistol with ribbons."
+      "name": "Secret du placard",
+      "description": "Tu viens de déclencher quelque chose que tu n'aurais pas dû voir.",
+      "condition": "Interagir avec le placard dans les Shop Ruins et voir le pistolet avec les rubans"
+    },
+    "school_boy_shoujo": {
+      "name": "Tempête florale dramatique de shōjo",
+      "condition": "Utiliser l'effet Gakuran à proximité de l'écolière dans la School"
+    },
+    "coral_seahorses": {
+      "name": "Mal de mer",
+      "description": "Peut-être que le vrai trésor était les hippocampes rencontrés sur le chemin...",
+      "condition": "Entrer dans le Coral Shoal pour la première fois"
+    },
+    "twin_mountains": {
+      "name": "Rêve des Montagnes Jumelles",
+      "description": "Tu es partie si loin depuis là où tu viens.",
+      "condition": "Visiter les lieux suivants où les Montagnes Jumelles peuvent être vues au loin : Foliage Estate (Panorama), Flying Fish World (Campagne Onirique), Mirror Room (Plage), Bleak Future, Saturated Eyeball Zone, Rainy Apartments, Red Sky Cliff (Carrefour Éclaboussure), Wind Turbine Plateau, Bathhouse"
+    },
+    "turntable_fairy": {
+      "name": "Fée sur platine",
+      "description": "Tu dois essayer ça !",
+      "condition": "Déclencher l'événement des Platines Japonaises dans l'Urban Street Area"
     }
   },
   "flow": {
@@ -2563,9 +2586,18 @@
       "condition": "Déclencher l'événement du Manager"
     },
     "cave_rave": {
-      "name": "Cave Rave",
-      "description": "Woo!",
-      "condition": "View the Rave event in Stone Ruins."
+      "name": "Rave caverneuse",
+      "description": "Waouh !",
+      "condition": "Voir l'événement de la Rave dans les Stone Ruins"
+    },
+    "black_lace": {
+      "name": "Black Lace",
+      "description": "Bon retour parmi nous.",
+      "condition": "Visiter Black Lace depuis le Nexus"
+    },
+    "serene_flowers": {
+      "name": "Gracieuses fleurs",
+      "condition": "Se rendre sur le balcon de la Dark Town"
     }
   },
   "someday": {
@@ -2968,12 +3000,13 @@
       "condition": "Jeter un froid en utilisant la Clé Radiateur à côté de la fontaine"
     },
     "mountain_peak": {
-      "name": "Sightseer",
-      "condition": "View the frosty peak in Icy River Mountain."
+      "name": "Vue prophétique",
+      "description": "Un rayon de soleil pour réchauffer les cœurs glacés",
+      "condition": "Voir le pic glacé dans l'Icy River Mountain"
     },
     "distant_lights": {
-      "name": "Beyond the Sea",
-      "condition": "Reach and view the Distant Lights."
+      "name": "De l'autre côté de la mer",
+      "condition": "Atteindre et voir les Lumières au Loin"
     }
   },
   "muma": {
@@ -3359,7 +3392,7 @@
     },
     "little_witch": {
       "name": "Petite sorcière",
-      "description": "En route vers une ville avec vue sur le Blue Sea !",
+      "description": "En route vers une ville avec vue sur la Mer Bleue !",
       "condition": "Déclencher l'événement d'envol"
     },
     "secret_journal": {
@@ -3389,17 +3422,22 @@
       "condition": "Obtenir l'effet Cake dans le Dessert World"
     },
     "cookie_window": {
-      "name": "Risk It for the Biscuit",
+      "name": "Fait le pour le biscuit !",
       "condition": "Recevoir le thème de fenêtre Cookie du Gars Cookie dans les Vast Plains"
     },
     "cliff_of_memories": {
-      "name": "Interdependent",
-      "description": "A sketch of beauty hidden deep inside.",
-      "condition": "Sit beside the blue-shirted person in the Cliff of Memories."
+      "name": "Interdépendant",
+      "description": "Une magnifique esquisse cachée profondément à l'intérieur.",
+      "condition": "S'asseoir à coté de la personne au chemisier bleu dans la Cliff of Memories"
     },
     "shikkenken": {
-      "name": "A Little Sister!",
-      "condition": "Interact with the Shikkenken with the Coat & Muffler effect on."
+      "name": "Une petite sœur !",
+      "condition": "Interagir avec le Shikkenken en utilisant l'effet Coat & Muffler"
+    },
+    "distorted_cyber_world": {
+      "name": "Violente distortion",
+      "description": "Ta violence n'amènera que désespoir et corruption...",
+      "condition": "Entrer dans la version distordue du Cyber World"
     }
   }
 }
