@@ -338,6 +338,10 @@
     "isee_path": {
       "name": "Isee Stare",
       "condition": "Get to Mural World via the Isee Path"
+    },
+    "mall_shoppers": {
+      "name": "Shop 'til You Drop",
+      "condition": "Interact with all of the Mall Shopper NPCs"
     }
   },
   "2kki": {
@@ -2008,11 +2012,6 @@
       "description": "Rusted and dulled away.",
       "condition": "Visit Surgical Scissors World."
     },
-    "debug_badge": {
-      "name": "SUPER EPIC HIDDEN OMURICE",
-      "description": "ynoproject.net/mikan",
-      "condition": "ynoproject.net/mikan"
-    },
     "2kki_bluescreen": {
       "name": ":(",
       "description": "Your dream ran into a problem and needs to restart as soon as we're finished collecting some error info.",
@@ -2276,6 +2275,25 @@
       "name": "Turntable Fairy",
       "description": "You gotta try this!",
       "condition": "Trigger the Japanese Turntables event in Urban Street Area"
+    },
+    "blue_planet_gallery": {
+      "name": "Glittering Planets",
+      "condition": "See the Blue Planet on the second floor of Astronomical Gallery"
+    },
+    "insect_effect": {
+      "name": "Insect Urotsuki",
+      "description": "Pesky bee!",
+      "condition": "Obtain the Insect effect at the altar in Scenic Outlook"
+    },
+    "king_fuun": {
+      "name": "Merry Dice",
+      "description": "Isnt this fuun?",
+      "condition": "Talk to King Fuun in Board Game Islands"
+    },
+    "nice_list_christmas": {
+      "name": "Nice List",
+      "description": "All is forgiven! Just don't do it again...",
+      "condition": "Be forgiven by the Shadow Lady in Snowman World after attacking her"
     }
   },
   "flow": {
@@ -2688,6 +2706,11 @@
       "name": "Sutures",
       "description": "Time can't heal everything.",
       "condition": "Get to the end of Thread World"
+    },
+    "tangday_drink": {
+      "name": "TANGDAY",
+      "description": "Now with extra fish oil to help your mental health! [Disclaimer: Does not cure parental issues and trauma that comes from such]",
+      "condition": "Get a drink at the Bar"
     }
   },
   "unevendream": {
@@ -3006,7 +3029,7 @@
     },
     "mountain_peak": {
       "name": "Sightseer",
-	  "description": "A ray of sunshine to warm frigid hearts",
+      "description": "A ray of sunshine to warm frigid hearts",
       "condition": "View the frosty peak in Icy River Mountain."
     },
     "distant_lights": {
@@ -3443,6 +3466,15 @@
       "name": "Violent Distortion",
       "description": "Your violence will only lead to corruption...",
       "condition": "Enter the Distorted Cyber World"
+    },
+    "uv_retrospective": {
+      "name": "Retrospective",
+      "description": "Hello? My friend, and bye...",
+      "condition": "In the Schoolgirl's Room, see the girl sitting on the chair"
+    },
+    "headless_station": {
+      "name": "Death of the Individual",
+      "condition": "Make the Sometsuki in the screen of the Space Station become headless"
     }
   }
 }

@@ -338,6 +338,10 @@
     "isee_path": {
       "name": "凝視",
       "condition": "闇と目の家通路から壁画の世界に行く"
+    },
+    "mall_shoppers": {
+      "name": "Shop 'til You Drop",
+      "condition": "Interact with all of the Mall Shopper NPCs"
     }
   },
   "2kki": {
@@ -2271,6 +2275,25 @@
       "name": "ターンテーブルフェアリー",
       "description": "早速試してみてください！",
       "condition": "市街地でリズムにノッてハジける"
+    },
+    "blue_planet_gallery": {
+      "name": "Glittering Planets",
+      "condition": "See the Blue Planet on the second floor of Astronomical Gallery"
+    },
+    "insect_effect": {
+      "name": "Insect Urotsuki",
+      "description": "Pesky bee!",
+      "condition": "Obtain the Insect effect at the altar in Scenic Outlook"
+    },
+    "king_fuun": {
+      "name": "Merry Dice",
+      "description": "Isnt this fuun?",
+      "condition": "Talk to King Fuun in Board Game Islands"
+    },
+    "nice_list_christmas": {
+      "name": "Nice List",
+      "description": "All is forgiven! Just don't do it again...",
+      "condition": "Be forgiven by the Shadow Lady in Snowman World after attacking her"
     }
   },
   "flow": {
@@ -2683,6 +2706,11 @@
       "name": "縫合糸",
       "description": "時が全てを癒すことはできない",
       "condition": "Thread Worldの最奥に到達する"
+    },
+    "tangday_drink": {
+      "name": "TANGDAY",
+      "description": "Now with extra fish oil to help your mental health! [Disclaimer: Does not cure parental issues and trauma that comes from such]",
+      "condition": "Get a drink at the Bar"
     }
   },
   "unevendream": {
@@ -3001,7 +3029,7 @@
     },
     "mountain_peak": {
       "name": "観光客",
-	  "description": "凍てつく心を温める一筋の陽の光",
+      "description": "凍てつく心を温める一筋の陽の光",
       "condition": "Icy River Mountainのfrosty peakを見る"
     },
     "distant_lights": {
@@ -3438,6 +3466,15 @@
       "name": "暴力的な歪み",
       "description": "あなたの暴力は、腐敗を招くだけ...",
       "condition": "歪んだ電子に到達する"
+    },
+    "uv_retrospective": {
+      "name": "Retrospective",
+      "description": "Hello? My friend, and bye...",
+      "condition": "In the Schoolgirl's Room, see the girl sitting on the chair"
+    },
+    "headless_station": {
+      "name": "Death of the Individual",
+      "condition": "Make the Sometsuki in the screen of the Space Station become headless"
     }
   }
 }
