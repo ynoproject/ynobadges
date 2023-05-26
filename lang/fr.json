@@ -149,7 +149,7 @@
     },
     "blackcat": {
       "name": "Chat Noir",
-      "condition": "S'envoler en tant que Sorcière sur le toit du Centre Commercial"
+      "condition": "S'envoler en tant que Sorcière sur le toit du Mall"
     },
     "face": {
       "name": "KyuuKyuu-kun",
@@ -198,7 +198,7 @@
     "tokuto": {
       "name": "Tokuto-kun",
       "description": "Faire basculer Tokuto-kun",
-      "condition": "Interagir avec Tokuto-kun dans sa salle au Centre Commercial"
+      "condition": "Interagir avec Tokuto-kun dans sa salle au Mall"
     },
     "closet": {
       "name": "Ton propre placard",
@@ -338,6 +338,10 @@
     "isee_path": {
       "name": "Regard Kivoit",
       "condition": "Se rendre au Mural World depuis le Passage Kivoit"
+    },
+    "mall_shoppers": {
+      "name": "Achète jusqu'à en mourir !",
+      "condition": "Interagir avec tous les clients du Mall"
     }
   },
   "2kki": {
@@ -2271,6 +2275,25 @@
       "name": "Fée sur platine",
       "description": "Tu dois essayer ça !",
       "condition": "Déclencher l'événement des Platines Japonaises dans l'Urban Street Area"
+    },
+    "blue_planet_gallery": {
+      "name": "Planètes brillantes",
+      "condition": "Voir la Planète Bleue au second étage de l'Astronomical Gallery"
+    },
+    "insect_effect": {
+      "name": "Urotsuki Insecte",
+      "description": "Fichue abeille !",
+      "condition": "Obtenir l'effet Insecte à l'autel du Scenic Outlook"
+    },
+    "king_fuun": {
+      "name": "Dé éméché",
+      "description": "N'est-ce pas amusanntt ?",
+      "condition": "Parler au Roi Amusanntt au Board Game Islands"
+    },
+    "nice_list_christmas": {
+      "name": "Jolie liste",
+      "description": "Tout est pardonné ! Mais que je ne t'y reprenne plus...",
+      "condition": "Se faire pardonner par la Shadow Lady dans le Snowman World après l'avoir attaquée"
     }
   },
   "flow": {
@@ -2683,6 +2706,11 @@
       "name": "Sutures",
       "description": "Le temps ne peut pas tout guérir.",
       "condition": "Atteindre la fin du Thread World"
+    },
+    "tangday_drink": {
+      "name": "TANGDAY",
+      "description": "Désormais avec de l'huile de poisson supplémentaire pour t'aider à améliorer ta mémoire ! [Avertissement : Ne soigne pas les problèmes parentaux et potentiels traumatismes pouvant provenir de ces effets]",
+      "condition": "Obtenir une boisson au Bar"
     }
   },
   "unevendream": {
@@ -3438,6 +3466,15 @@
       "name": "Violente distortion",
       "description": "Ta violence n'amènera que désespoir et corruption...",
       "condition": "Entrer dans la version distordue du Cyber World"
+    },
+    "uv_retrospective": {
+      "name": "Rétrospective",
+      "description": "Salut ! Comment ça v... bon bah au revoir...",
+      "condition": "Dans la Schoolgirl's Room, voir la fille assise sur sa chaise"
+    },
+    "headless_station": {
+      "name": "Sans rien d'unique",
+      "condition": "Faire perdre la tête à la Sometsuki présente sur l'écran de la Space Station"
     }
   }
 }
