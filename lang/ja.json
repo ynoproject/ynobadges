@@ -2294,6 +2294,28 @@
       "name": "良い子リスト",
       "description": "全部許そう！二度目はないよ...",
       "condition": "スノーマンワールドで黒魔女に攻撃してから許される"
+    },
+    "bishop_checkmate": {
+      "name": "Checkmate!",
+      "description": "Dethrone the monarch.",
+      "condition": "Kill the king in Bishop Church"
+    },
+    "grave_chesspiece": {
+      "name": "Rest in Chesspieces",
+      "condition": "Equip the Grave effect in Bishop Church"
+    },
+    "jimbo_love": {
+      "name": "Jimbo Loves You",
+      "description": "We all love Jimbo, too.",
+      "condition": "Visit Jimbo in the Giant Desktop and view the fourth peephole in Holiday Hell"
+    },
+    "lone_penguin": {
+      "name": "Lone Penguin",
+      "condition": "Go to the isolated island in Paradise"
+    },
+    "eyeball_bartender": {
+      "name": "Eyeball Bartender",
+      "condition": "Use the Telephone effect to startle the eyeball bartender in Domino Constructions"
     }
   },
   "flow": {
@@ -2621,6 +2643,10 @@
     "serene_flowers": {
       "name": "静穏の花々",
       "condition": "Dark Townのバルコニーに到達する"
+    },
+    "marina_bathhouse": {
+      "name": "Marina",
+      "condition": "See Marina in the Bath House and pick up the money near the glasses"
     }
   },
   "someday": {
@@ -2710,7 +2736,7 @@
     "tangday_drink": {
       "name": "TANGDAY",
       "description": "心の健康をサポートする魚油を追加しました！ [免責事項:親の問題やそこからくるトラウマを治すものではありません]",
-      "condition": "Barで一杯飲む"
+      "condition": "Nice Barで一杯飲む"
     }
   },
   "unevendream": {
@@ -2894,6 +2920,11 @@
     "underwater_balcony": {
       "name": "海底の不思議",
       "condition": "SeaにあるMermaid Mansionのバルコニーに到達する"
+    },
+    "fast_food_toys": {
+      "name": "Toys!",
+      "description": "Try and collect them all!",
+      "condition": "Find all of the toys in Fast Food World and unlock the Shoe Rack"
     }
   },
   "braingirl": {
@@ -3035,6 +3066,11 @@
     "distant_lights": {
       "name": "海の彼方",
       "condition": "Distant Lightsに到達し、眺める"
+    },
+    "chicken_revenge": {
+      "name": "Cluck cluck",
+      "description": "Yolk’s on you!",
+      "condition": "Trigger the Chicken Revenge event with the Mad Key"
     }
   },
   "muma": {

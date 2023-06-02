@@ -2294,6 +2294,28 @@
       "name": "Jolie liste",
       "description": "Tout est pardonné ! Mais que je ne t'y reprenne plus...",
       "condition": "Se faire pardonner par la Shadow Lady dans le Snowman World après l'avoir attaquée"
+    },
+    "bishop_checkmate": {
+      "name": "Échec et mat !",
+      "description": "Détrôner le monarque.",
+      "condition": "Tuer le roi dans la Bishop Church"
+    },
+    "grave_chesspiece": {
+      "name": "Repose en échec",
+      "condition": "Équiper l'effet Tombe dans la Bishop Church"
+    },
+    "jimbo_love": {
+      "name": "Jimbo vous aime",
+      "description": "Nous aussi, nous aimons tous Jimbo.",
+      "condition": "Rendre visite à Jimbo au Giant Desktop et voir le quatrième judas à Holiday Hell"
+    },
+    "lone_penguin": {
+      "name": "Pingouin solitaire",
+      "condition": "Aller sur l'île isolée à Paradise"
+    },
+    "eyeball_bartender": {
+      "name": "Barman Blanc d'Œil",
+      "condition": "Utiliser l'effet Téléphone pour faire sursauter le barman au globe oculaire dans les Domino Constructions"
     }
   },
   "flow": {
@@ -2621,6 +2643,10 @@
     "serene_flowers": {
       "name": "Gracieuses fleurs",
       "condition": "Se rendre sur le balcon de la Dark Town"
+    },
+    "marina_bathhouse": {
+      "name": "Marina",
+      "condition": "Voir Marina dans la Bath House et prendre l'argent à côté des lunettes"
     }
   },
   "someday": {
@@ -2710,7 +2736,7 @@
     "tangday_drink": {
       "name": "TANGDAY",
       "description": "Désormais avec de l'huile de poisson supplémentaire pour t'aider à améliorer ta mémoire ! [Avertissement : Ne soigne pas les problèmes parentaux et potentiels traumatismes pouvant provenir de ces effets]",
-      "condition": "Obtenir une boisson au Bar"
+      "condition": "Obtenir une boisson au Nice Bar"
     }
   },
   "unevendream": {
@@ -2894,6 +2920,11 @@
     "underwater_balcony": {
       "name": "Songes sous-marines",
       "condition": "Visiter le balcon du Manoir Sirène dans Sea"
+    },
+    "fast_food_toys": {
+      "name": "Avec des jouets par milliers",
+      "description": "Essaye de tous les attraper !",
+      "condition": "Trouver tous les jouets dans le Fast Food World et débloquer le Shoe Rack"
     }
   },
   "braingirl": {
@@ -3035,6 +3066,11 @@
     "distant_lights": {
       "name": "De l'autre côté de la mer",
       "condition": "Atteindre et voir les Lumières au Loin"
+    },
+    "chicken_revenge": {
+      "name": "Prise de becs",
+      "description": "Tu vas y laisser des plumes !",
+      "condition": "Déclencher l'événement de la Revanche des Poulets avec la clé Fou"
     }
   },
   "muma": {
