@@ -2373,6 +2373,36 @@
     "phonograph_galaxy": {
       "name": "Mélodies magiques",
       "condition": "Interagir avec la sorcière au phonographe dans la GALAXY town"
+    },
+    "port_city_maiko": {
+      "name": "Collection respectable",
+      "condition": "Utiliser l'effet Maiko dans la Salle des Kokeshis de Port City"
+    },
+    "staring_contest": {
+      "name": "Concours de regard",
+      "condition": "Interagir avec les cyclopes dans les lieux suivants : Petal Hotel, Dream Pool, Silent Sewers, Teddy Bear Land, Red Streetlight World, Acerola World, Mini-Maze"
+    },
+    "party_colored": {
+      "name": "Fête colorée",
+      "condition": "Interagir avec la créature jouant de la musique dans la Salle de Fête des Neon Suburbs"
+    },
+    "pale_luminescence": {
+      "name": "Pâle luminescence",
+      "description": "Une sereine zone rocailleuse où pend un lumineux chandelier avec de vifs vitrails.",
+      "condition": "Visiter la Marble Room des Marble Ruins"
+    },
+    "twilit_savanna": {
+      "name": "Coucher sur la Savanne",
+      "description": "Les étoiles commencent à se poser dans le ciel au-dessus de la canopée d'arbres tandis que le soleil commence à se coucher sur la savanne.",
+      "condition": "Atteindre la sous-zone de Coucher sur la Savanne dans la Gemstone Cave"
+    },
+    "restrained_love": {
+      "name": "Amour modéré",
+      "condition": "Visiter le sous-sol de la Lonely Home"
+    },
+    "alice_dreamland": {
+      "name": "Alice au Pays des Rêves",
+      "condition": "Équiper l'effet Chaperon rouge dans la salle avec la fille bougie dans le Snowy Village"
     }
   },
   "flow": {
@@ -2803,6 +2833,11 @@
       "name": "TANGDAY",
       "description": "Désormais avec de l'huile de poisson supplémentaire pour t'aider à améliorer ta mémoire ! [Avertissement : Ne soigne pas les problèmes parentaux et potentiels traumatismes pouvant provenir de ces effets]",
       "condition": "Obtenir une boisson au Nice Bar"
+    },
+    "lil_tsuki": {
+      "name": "P'tit Tsuki",
+      "description": "Le passé forge le futur.",
+      "condition": "Voir la version jeune d'Itsuki dans tous les lieux où il se trouve"
     }
   },
   "unevendream": {
@@ -3491,15 +3526,15 @@
     "uv_snipped": {
       "name": "Mauvaise coupe",
       "description": "Alors, ça va pas la tête aujourd'hui ?",
-      "condition": "Obtenir l'effet Short Hair dans le Bloody Water Dungeon"
+      "condition": "Obtenir l'effet Cheveux courts dans le Bloody Water Dungeon"
     },
     "little_rabbit": {
       "name": "Petit lapin",
-      "condition": "Visiter la Maison du Lapin in Pastel World"
+      "condition": "Visiter la Maison du Lapin dans le Pastel World"
     },
     "seasons_go": {
       "name": "Changement de saison précoce",
-      "condition": "Obtenir l'effet Stained Glass dans le Stained Glass World"
+      "condition": "Obtenir l'effet Vitrail dans le Stained Glass World"
     },
     "seas_green": {
       "name": "Mers de vert",
@@ -3524,7 +3559,7 @@
     "committed_memory": {
       "name": "Envoyé en mémoire",
       "description": "IL A RUINÉ MON JOURNAL DE SAUVEGARDE ! Heureusement que j'ai fait une copie.",
-      "condition": "Acheter le journal de sauvegarde de la boutique du Pastel World"
+      "condition": "Acheter le journal des rêves de la boutique du Pastel World"
     },
     "pane_master": {
       "name": "Maître PANE",
@@ -3541,11 +3576,11 @@
     },
     "tako_miko": {
       "name": "Honorable donateur",
-      "condition": "Faire une offrande de 1000 yen au Miko pour obtenir l'effet Miko dans le Miko Shrine"
+      "condition": "Faire une offrande de 1000 yen à la Miko pour obtenir l'effet Miko dans le Miko Shrine"
     },
     "rabbit_sea": {
       "name": "Lièvre de mer",
-      "condition": "Obtenir l'effet Sea Hare dans la Seabed"
+      "condition": "Obtenir l'effet Lièvre de mer dans la Seabed"
     },
     "summertime_shrine": {
       "name": "Sanctuaire ensoleillé",
@@ -3554,12 +3589,12 @@
     "ribbon_effect": {
       "name": "Soyeux rubans nostalgiques",
       "description": "Garde le sourire ma belle, tu es à croquer !",
-      "condition": "Obtenir l'effet Ribbon dans le FC Dungeon"
+      "condition": "Obtenir l'effet Rubans dans le FC Dungeon"
     },
     "cake_effect": {
       "name": "Gâteau à la fraise",
       "description": "Tu es un délice !",
-      "condition": "Obtenir l'effet Cake dans le Dessert World"
+      "condition": "Obtenir l'effet Gâteau dans le Dessert World"
     },
     "cookie_window": {
       "name": "Fait le pour le biscuit !",
@@ -3572,7 +3607,7 @@
     },
     "shikkenken": {
       "name": "Une petite sœur !",
-      "condition": "Interagir avec le Shikkenken en utilisant l'effet Coat & Muffler"
+      "condition": "Interagir avec le Shikkenken en utilisant l'effet Manteau et écharpe"
     },
     "distorted_cyber_world": {
       "name": "Violente distortion",
