@@ -1203,7 +1203,7 @@
     },
     "traffic_lights": {
       "name": "Prêt, Feu, Partez !",
-      "condition": "Entrer dans le Techno Condominium depuis la Gray Road"
+      "condition": "Entrer dans la Gray Road depuis le Techno Condominium"
     },
     "blurry": {
       "name": "Flou",
@@ -2403,6 +2403,44 @@
     "alice_dreamland": {
       "name": "Alice au Pays des Rêves",
       "condition": "Équiper l'effet Chaperon rouge dans la salle avec la fille bougie dans le Snowy Village"
+    },
+    "azure_flowers": {
+      "name": "Fleurs azurées",
+      "description": "Tandis que les fleurs bleues se lèvent au gré du vent, les fleurs oranges restent debout. Le tréfond de vos rêves impactant vos pensées, flottant au-dessus du crépuscule sur la vallée.",
+      "condition": "Utiliser l'effet Insecte à proximité des fleurs dans Snowy Forest, Cotton Candy Haven (Dans la Maison de Kigaru), Nocturnal Grove, Cloaked Pillar World, Lavender Waters"
+    },
+    "flower_vision": {
+      "name": "Vue florale",
+      "condition": "Utiliser l'effet Insecte à proximité des fleurs dans Flooded Dungeon (Vortex floral), Travel Hotel, Lost Creek, Snowy Forest (Trou Féerique), Wooden Polycube Ruins"
+    },
+    "pudding_world_secrets": {
+      "name": "Flan flamboyant",
+      "description": "Attends une minute, ne serait-ce pas une crème brûlée vu qu'il a été flambé ?",
+      "condition": "Apprécier le Pudding World dans toute sa gloire et découvrir tous ses secrets"
+    },
+    "eternal_dreamer": {
+      "name": "Est-ce l'heure de se réveiller, ou de dormir encore plus profondément ?",
+      "description": "Lorsque je me réveille, je ne sais même plus si je suis encore en train de rêver...",
+      "condition": "Visiter les mondes suivants et déclencher leur événement de sommeil : Static Noise Hell, Snowy Forest, \nLavender Waters, Aquatic Cube City, Home Within Nowhere, Rainy Apartments, Infinite Library"
+    },
+    "buzzing_bee": {
+      "name": "Buzz buzz",
+      "condition": "Voir toutes les expressions de la Reine des Abeilles en utilisant différents effets"
+    },
+    "urotsuki_rainbow_bridge": {
+      "name": "Pont arc-en-ciel",
+      "description": "Des pouvoirs colorés.",
+      "condition": "Utiliser les effets Teru Teru Bōzu et Arc-En-Ciel pour faire apparaître un pont arc-en-ciel au Tribe Settlement"
+    },
+    "marble_penumbra": {
+      "name": "Pénombre",
+      "description": "Le monde doit avancer sans toi.",
+      "condition": "Voir l'Horloge Soleil et Lune dans les Marble Ruins"
+    },
+    "unicorn_marble": {
+      "name": "Yeux vides",
+      "description": "Quel est le problème avec tes yeux ? Pourquoi ne puis-je pas me voir dans tes yeux ?",
+      "condition": "Interagir avec la créature licorne dans les Marble Ruins"
     }
   },
   "flow": {
