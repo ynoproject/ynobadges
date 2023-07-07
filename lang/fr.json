@@ -1457,9 +1457,9 @@
       "condition": "Visiter la Blue House Road"
     },
     "the_tiger": {
-      "name": "Le Tiger",
-      "description": "Tu as caressé le minou.",
-      "condition": "Aller dans le Shadow Lady Mansion et caresser le Tiger"
+      "name": "Des chats ! Des chats !!!",
+      "description": "Tu as pu caressé deux minous ?!",
+      "condition": "Voir les deux chats dans le Shadow Lady Estate"
     },
     "mar_marina": {
       "name": "Mar Marina",
@@ -2441,6 +2441,40 @@
       "name": "Yeux vides",
       "description": "Quel est le problème avec tes yeux ? Pourquoi ne puis-je pas me voir dans tes yeux ?",
       "condition": "Interagir avec la créature licorne dans les Marble Ruins"
+    },
+    "yume_telephone": {
+      "name": "Yume",
+      "description": "\"...\"",
+      "condition": "Utiliser l'effet Téléphone à proximité de Yume"
+    },
+    "golden_sky_whale": {
+      "name": "Les cieux dorés de la baleine",
+      "description": "Dans la mer des nuages d'or, la baleine outrepasse toutes les lois pour offrir à tous un émerveillement assuré.",
+      "condition": "Voir la baleine au Golden Sky Bridge"
+    },
+    "glowing_stars_world": {
+      "name": "Ami étoilé brillant",
+      "description": "Qui se ressemble se rassemble !",
+      "condition": "Visiter le Glowing Stars World"
+    },
+    "valentine_gaming": {
+      "name": "Mon sucre d'orge",
+      "description": "Jouons ensemble !!!",
+      "condition": "Jouer à un jeu vidéo avec la fille du Valentine's Sector"
+    },
+    "mono_schoolgirl_trap": {
+      "name": "Terre de cris",
+      "description": "あああ",
+      "condition": "Tronçonner l'Écolière Monochrome dans les Monochrome Fields et se faire piéger dans une zone isolée"
+    },
+    "blizzard_fish_trap": {
+      "name": "Ne marche pas sur la glace",
+      "description": "Tu sais, la loi s'applique aussi aux pingouins.",
+      "condition": "Déclencher l'événement du poisson dans les Blizzard Plains"
+    },
+    "appururi_mask": {
+      "name": "La grande pomme et la petite chauve-soufruit",
+      "condition": "Équiper le masque Appururi dans l'un des Mask Shops"
     }
   },
   "flow": {
@@ -3220,6 +3254,10 @@
       "name": "Je l'adore à la choco-folie !",
       "description": "Réveille-moi, avant que tu ne tombes dans le cacao",
       "condition": "Obtenir du chocolat dans la Sequoia Lucky Forest"
+    },
+    "blanche_revenge": {
+      "name": "CRÈVE !!!",
+      "condition": "Se faire électrocuter par Blanche dans Space"
     }
   },
   "muma": {
