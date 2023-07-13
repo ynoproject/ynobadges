@@ -2475,6 +2475,30 @@
     "appururi_mask": {
       "name": "La grande pomme et la petite chauve-soufruit",
       "condition": "Équiper le masque Appururi dans l'un des Mask Shops"
+    },
+    "celestial_moth": {
+      "name": "Papillon de nuit céleste",
+      "condition": "Visiter Entomophobia Realm, Butterfly Passage, Nocturnal Grove et Cosmic Cube World"
+    },
+    "green_pattern_world": {
+      "name": "Motifs de vert",
+      "description": "Et des pyramides aussi...",
+      "condition": "Entrer dans le Green Pattern World"
+    },
+    "azure_steam_creature": {
+      "name": "Créature azurée fumante",
+      "description": "Une créature dissimulée dans une petite salle remplie de fumée...",
+      "condition": "Trouver la créature fumante dans sa baignoire dans l'Azure Garden"
+    },
+    "vaporwave_mall": {
+      "name": "L e   c e n t r e   c o m m e r c i a l",
+      "description": "≋ B i e n v e n u e ! Donnez une chance à notre boutique florale, obtenez une coupe de cheveux pour homme - ou femme -, faites une rencontre à l'hypermarché, visitez la salle d'arcade pour avoir un arrière-goût de vie digitale, ou profitez d'une agréable plongée dans l'un de nos bassins. P r o f i t e z de ce voyage aux frontières vagues, r ê v e u r . ≋",
+      "condition": "Visiter le Vaporwave Mall"
+    },
+    "pyramid_dance": {
+      "name": "Représentation de danse",
+      "description": "Tu ne devrais pas être sur scène !",
+      "condition": "Sauter sur la scène des danseurs dans l'Underwater Amusement Park"
     }
   },
   "flow": {
@@ -2611,6 +2635,10 @@
       "name": "Chaleureux foyer",
       "description": "Ohhh... il me gardait si bien au chaud...",
       "condition": "Éteindre le feu de camp de Tabiki-san en utilisant l'effet Arrosoir"
+    },
+    "flow_sabi_all_effects": {
+      "name": "Flow de pensée",
+      "condition": "Déclencher l'événement du bug déguisé"
     }
   },
   "prayers": {
@@ -3387,6 +3415,10 @@
       "name": "Rockin'",
       "description": "Je n'essaierai pas de la rendre folle si j'étais toi",
       "condition": "Réentrer dans la maison de Kema après avoir obtenu son souvenir"
+    },
+    "faraway_place_return": {
+      "name": "Lieu familier",
+      "condition": "Utiliser la porte menant à la Salle des Souvenirs de la Faraway Place"
     }
   },
   "genie": {
@@ -3509,7 +3541,7 @@
     "sticky_situation": {
       "name": "Problème collant",
       "description": "Je ne peux pas m'échapper, emballé avec du ruban adhésif rouge...",
-      "condition": "Obtenir l'effet Tape dans le Bloodied Cross Corridor"
+      "condition": "Obtenir l'effet Ruban adhésif dans le Bloodied Cross Corridor"
     },
     "hazy_call": {
       "name": "Appel vague",
@@ -3529,7 +3561,7 @@
     "shifty_gal": {
       "name": "Nana louche",
       "description": "Elle est tellement talentueuse !",
-      "condition": "Se faire attraper par le chasseur dans l'Inorganic Building pour voir la Métamorphe, et montrez-lui les effets Pair of Hands + Black Cat"
+      "condition": "Se faire attraper par le chasseur dans l'Inorganic Building pour voir la Métamorphe, et montrez-lui les effets Paire de mains et Chat noir"
     },
     "mask_shyness": {
       "name": "Masque de la timidité",
@@ -3539,7 +3571,7 @@
     "chain_grief": {
       "name": "Chaînes de chagrin",
       "description": "Est-ce que cet effet pourrait symboliser le fait que tu es enchaîné à ton passé ?",
-      "condition": "Obtenir l'effet Chains dans le Snow World"
+      "condition": "Obtenir l'effet Chaînes dans le Snow World"
     },
     "enigmatic_maid": {
       "name": "Énigmatique femme de ménage",
@@ -3573,7 +3605,7 @@
     "maids_wrath": {
       "name": "Courroux des femmes de ménage",
       "description": "Vous n'êtes pas chez vous, invité.",
-      "condition": "Utiliser l'effet Brass Knuckles dans l'entrée du Maid Mansion"
+      "condition": "Utiliser l'effet Poings américains dans l'entrée du Maid Mansion"
     },
     "shining_zone_muzou": {
       "name": "Zone brillante",
@@ -3582,6 +3614,10 @@
     "sepieye": {
       "name": "Œil pour œil",
       "condition": "Frapper la goutte œil sur la Sepia Island jusqu'à entrer dans le couloir qui boucle"
+    },
+    "maid_mansion_sofa": {
+      "name": "Maid Mansion",
+      "condition": "S'asseoir sur le seul canapé du Maid Mansion"
     }
   },
   "ultraviolet": {
