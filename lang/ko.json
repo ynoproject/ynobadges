@@ -352,6 +352,11 @@
       "name": "Compulsive Sinner",
       "description": "You just keep coming here, sheesh!",
       "condition": "Access Hell from Face Carpet Plaza, The Neon Tile Path, The Checkered Tile Path and The Footprint Path"
+    },
+    "train_cattention": {
+      "name": "Ailurophobia",
+      "description": "Not even monsters are safe from the cat supremacy :3",
+      "condition": "Catch the Train Passenger A's attention with the Cat effect"
     }
   },
   "2kki": {
@@ -1079,7 +1084,7 @@
     },
     "pien": {
       "name": "후에엥",
-      "condition": "Lovesick World에 도달학기"
+      "condition": "Lovesick World에 도달하기"
     },
     "lemon": {
       "name": "삶이 많이 시어졌을 때",
@@ -1457,9 +1462,9 @@
       "condition": "Blue House Road 에 입장하기"
     },
     "the_tiger": {
-      "name": "Cats! Cats!!!",
-      "description": "You got to pet TWO kitties?!",
-      "condition": "See the two cats in the bedroom of the Shadow Lady Estate"
+      "name": "고양이! 고양이!!!",
+      "description": "고양이 두 마리를 쓰다듬을 수 있다고?!",
+      "condition": "Shadow Lady Estate의 침실에서 고양이 두 마리를 보기"
     },
     "mar_marina": {
       "name": "마리아나 뱃지",
@@ -2024,151 +2029,151 @@
     },
     "2kki_bluescreen": {
       "name": ":(",
-      "description": "Your dream ran into a problem and needs to restart as soon as we're finished collecting some error info.",
-      "condition": "Enter the Blue Screen Void."
+      "description": "꿈에 문제가 발생하여 일부 오류 정보를 수집한 다음 다시 시작해야 합니다.",
+      "condition": "Blue Screen Void에 입장하기"
     },
     "2kki_afterglow": {
-      "name": "Afterglow",
-      "description": "Standing on the horizon, looking at the twilight.",
-      "condition": "Enter Sunset Hill."
+      "name": "석양",
+      "description": "지평선에서 황혼을 바라보다",
+      "condition": "Sunset Hill에 입장하기"
     },
     "space_battleship": {
-      "name": "Space Battleship Yume-to",
-      "description": "This Gallery is outta this world!",
-      "condition": "Enter Astronomical Gallery."
+      "name": "우주전함 유메토",
+      "description": "이 세상의 갤러리가 아니다!",
+      "condition": "Astronomical Gallery에 입장하기"
     },
     "cube_tsuki": {
-      "name": "Polygon Urotsuki",
-      "description": "It's Hip to be Square!",
-      "condition": "Obtain the Polygon effect in the Warehouse"
+      "name": "폴리곤 우로츠키",
+      "description": "네모도 힙하지!",
+      "condition": "Warehouse에서 폴리곤 이펙트를 입수하기"
     },
     "twintail_maid": {
-      "name": "Twintail ni Narimasu",
-      "description": "Wanna be more lovable",
-      "condition": "Use the Twintail effect in the Dressing Room to wear a maid outfit"
+      "name": "트윈테일이 됩니다",
+      "description": "더 사랑스러워지고 싶어",
+      "condition": "Dressing Room에서 트윈테일 이펙트를 장착하고 메이드복을 입기"
     },
     "capybara_opal": {
-      "name": "Healing",
-      "description": "Oh, to be a capybara just chilling...",
-      "condition": "Enter the room with the capybaras in the Opal Archives"
+      "name": "힐링",
+      "description": "카피바라처럼 그냥 느긋하게 지내 봐...",
+      "condition": "Opal Archives에서 카피바라의 방에 입장하기"
     },
     "cheese_tactics": {
-      "name": "Cheese Tactics",
-      "description": "You thought there was gonna be some *cheesy* pun here, didn't you?",
-      "condition": "Use Cake/Fairy to get caught by one of the Cheese Spiders in Dark Cheese Hell"
+      "name": "치즈 전술",
+      "description": "*느끼한* 말장난이 나올 줄 알았지?",
+      "condition": "Dark Cheese Hell에서 케이크 혹은 요정 이펙트를 사용하여 치즈 거미에게 붙잡히기"
     },
     "march_of_progress": {
-      "name": "Face of the Progress",
-      "description": "Reject humanity, return to monkey",
-      "condition": "Experience the March of Progress event"
+      "name": "진화를 직면하다",
+      "description": "인간성을 거부하라, 원숭이로 돌아가라",
+      "condition": "March of Progress 이벤트를 경험하기"
     },
     "peaceful_pond": {
-      "name": "Peaceful Pond",
-      "condition": "Enter the pond version of the blue building in Grass World"
+      "name": "평화로운 연못",
+      "condition": "Grass World의 파란 빌딩에서 연못을 보기"
     },
     "clown_chaser": {
-      "name": "Clowning Around",
-      "description": "\"You are not a clown. You are the entire circus.\"",
-      "condition": "Make the group of Clown Chasers appear in the main area of The Circus"
+      "name": "광대 노릇",
+      "description": "\"넌 광대가 아니야. 서커스 그 자체지.\"",
+      "condition": "The Circus의 메인 구역에 광대 체이서 무리가 나타나게 하기"
     },
     "polycube_icy_garden": {
-      "name": "Icy Garden",
-      "description": "Wanna skate here?",
-      "condition": "Enter the bottom garden of the Wooden Polycube Ruins"
+      "name": "얼음정원",
+      "description": "스케이트 탈래?",
+      "condition": "Wooden Polycube Ruins 하단의 정원에 입장하기"
     },
     "ninja_town": {
-      "name": "Fake Ninja",
-      "description": "Scare me! Use ninjutsu!",
-      "condition": "After interacting with the unique stoplight with white lights, return to the ninja circle sub-area to witness their death"
+      "name": "가짜 닌자",
+      "description": "날 놀래켜 봐! 닌자술 써 봐!",
+      "condition": "흰 색 정지등과 상호작용한 뒤 ninja circle 서브 지역으로 돌아가 그들의 죽음을 마주하기"
     },
     "claus_tsuki": {
-      "name": "Urotsuki Claus",
-      "description": "Merry Christmas!",
-      "condition": "Go to the Stickman House in the Christmas World"
+      "name": "우로츠키클로스",
+      "description": "메리 크리스마스!",
+      "condition": "Christmas World의 Stickman House에 입장하기"
     },
     "pancake_girl": {
-      "name": "No Dessert!",
-      "condition": "Make the girl in Pancake World do a mean gaze"
+      "name": "디저트 금지!",
+      "condition": "Pancake World의 소녀를 기분 상하게 만들기"
     },
     "blood_monster": {
-      "name": "Blood Monster",
-      "description": "The scrunkly!",
-      "condition": "Visit the creature in Blood Chamber"
+      "name": "피의 괴물",
+      "description": "귀요미!",
+      "condition": "Blood Chamber의 생물체를 만나기"
     },
     "ether_cube": {
-      "name": "Ether Cube",
-      "description": "Not an orb, but something to ponder nonetheless.",
-      "condition": "Enter Ether Caverns"
+      "name": "에테르 큐브",
+      "description": "오브는 아니지만 충분히 고려할 만한 것",
+      "condition": "Ether Caverns에 입장하기"
     },
     "snowy_village_dancers": {
-      "name": "Dance No More!",
-      "description": "This show mustn't go on!",
-      "condition": "Equip the Marginal effect and go see the dancers in Snowy Village"
+      "name": "댄스 금지!",
+      "description": "이 쇼는 계속되지 말아야 해!",
+      "condition": "마지널 이펙트를 장착하고 Snowy Village의 댄서들을 보러 가기"
     },
     "cure_curse": {
-      "name": "Curse Healer",
-      "condition": "Equip the Marginal effect and let Kankoshi heal you"
+      "name": "저주 치료자",
+      "condition": "마지널 이펙트를 장착하고 간호사에게 치료받기"
     },
     "delete_urotsuki": {
-      "name": "Delete Myself",
-      "description": "Welcome to my brain!",
-      "condition": "Face the consequences of your actions in the Head World"
+      "name": "자기삭제",
+      "description": "내 뇌에 온 걸 환영해!",
+      "condition": "Head World에서 당신의 행동이 초래한 결과를 마주하기"
     },
     "hiboushi": {
-      "name": "Lamppost Girl",
-      "description": "Only one pole in the way",
-      "condition": "Interact with Hiboushi in Apartments"
+      "name": "가로등 소녀",
+      "description": "길 위의 기둥 하나",
+      "condition": "Apartments의 Hiboushi와 상호작용하기"
     },
     "ripple_passage": {
-      "name": "Ripple Amulet",
-      "description": "Didn't know you got drip like that...",
-      "condition": "Enter Ripple Passage in Static Noise Hell"
+      "name": "잔물결 애뮬릿",
+      "description": "네가 그렇게 물 올랐을 줄은 몰랐는데...",
+      "condition": "Static Noise Hell의 Ripple Passage에 입장하기"
     },
     "ghostly_exhibit": {
-      "name": "Photosynthesis",
-      "condition": "Visit the Ghostly Exhibit"
+      "name": "광합성",
+      "condition": "Ghostly Exhibit에 입장하기"
     },
     "witch_duo": {
-      "name": "Twin-Colored Duo",
-      "description": "Two is better than one!",
-      "condition": "Visit the Witch's House in Love Lodge, the place where the frozen Witch of Charity is, and find the painting in Hatred Palace"
+      "name": "이색 듀오",
+      "description": "하나보다 둘이 낫지!",
+      "condition": "Love Lodge의 마녀의 집에서 얼어붙은 자선의 마녀를 만나고 Hatred Palace에서 그림을 발견하기"
     },
     "sanctuary_2kki": {
-      "name": "Peace and Love",
-      "condition": "Visit the Sanctuary"
+      "name": "평화와 사랑",
+      "condition": "Sanctuary에 입장하기"
     },
     "lost_mutual": {
-      "name": "Lost Mutual",
-      "description": "...have I seen you before?",
-      "condition": "Visit the room of the Grey Hoodie Boy in Bleak Future"
+      "name": "잃어버린 관계",
+      "description": "...전에 본 적 있던가?",
+      "condition": "Bleak Future의 방에서 회색 후드 소년을 만나기"
     },
     "digital_heart_space": {
-      "name": "Frostbit Hexahedron",
-      "condition": "Visit Digital Heart Space"
+      "name": "서리내린 육면체",
+      "condition": "Digital Heart Space에 입장하기"
     },
     "angel_starfield_garden": {
-      "name": "Golden Angel",
-      "description": "The Angel's Descent",
-      "condition": "See the golden angel in the Starfield Garden"
+      "name": "금빛 천사",
+      "description": "천사의 강림",
+      "condition": "Starfield Garden의 금빛 천사를 보기"
     },
     "carnivorous_pit_well": {
-      "name": "Well this isn't good...",
-      "condition": "Find the entrance to Carnivorous Pit in Decrepit Village"
+      "name": "이거 영 좋지 않네...",
+      "condition": "Decrepit Village에서 Carnivorous Pit로 통하는 입구를 발견하기"
     },
     "duet_elvis": {
-      "name": "Elvis Approved!",
-      "description": "Elvis likes your style~",
-      "condition": "Trigger the Duet with Elvis Masada event in Elvis Masada's Place"
+      "name": "엘비스가 인정함!",
+      "description": "엘비스가 당신의 스타일을 마음에 들어하네요~",
+      "condition": "Elvis Masada's Place에서 Duet with Elvis Masada 이벤트를 보기"
     },
     "sibling_forever": {
-      "name": "Sibling Forever",
-      "description": "We will be together forever.",
-      "condition": "Enter room #3 of the Blue Restaurant"
+      "name": "영원한 자매",
+      "description": "우리는 영원히 함께할 거야.",
+      "condition": "Blue Restaurant의 #3 방에 입장하기"
     },
     "ug_lake_singer": {
-      "name": "A Friendly Conversation",
-      "description": "He wants to have some company...",
-      "condition": "Talk to the green creature on both sides in the 1st person sub-area of Underground Lake"
+      "name": "친근한 대화",
+      "description": "그는 회사를 만들고 싶어 한다...",
+      "condition": "Underground Lake의 1인칭 시점 서브 구역에서 양쪽의 초록 생물체와 대화하기"
     },
     "appururi_bat": {
       "name": "Just Like Me!",
@@ -2499,6 +2504,15 @@
       "name": "Dance Party",
       "description": "You shouldn't be up here!",
       "condition": "Jump onto the dancer's stage in Underwater Amusement Park"
+    },
+    "tapir_san_tapir": {
+      "name": "Dream Eater",
+      "description": "Pay a visit to Tapir-San",
+      "condition": "See Tapir-San in Tapir-San's Place"
+    },
+    "fossil_lake_creature": {
+      "name": "Reflecting in Water Passively",
+      "condition": "Enter the room in the Fossil Lake with the creature"
     }
   },
   "flow": {
@@ -3511,6 +3525,24 @@
       "name": "Crimson Lights",
       "description": "The sun goes down, I feel the light betray me",
       "condition": "Reach the Distant Red Horizon"
+    },
+    "norvay_cat_shop": {
+      "name": "Cat Doctor",
+      "condition": "Go into Cat Shop and interact with Norvey"
+    },
+    "snow_world_creature": {
+      "name": "Snowy Greeting",
+      "description": "\"Hello?\"",
+      "condition": "Visit the waving creature in Snow World"
+    },
+    "colly_maid_cafe": {
+      "name": "Welcome!",
+      "condition": "Visit Colly Maid Cafe"
+    },
+    "shrine_staircase_maze": {
+      "name": "Twilight Shrine",
+      "description": "Only the chosen one can enter",
+      "condition": "Find the shrine in the Staircase Maze"
     }
   },
   "mikan": {
@@ -3734,6 +3766,10 @@
     "headless_station": {
       "name": "개인의 죽음",
       "condition": "Space Station의 스크린에 있는 소메츠키의 머리를 사라지게 만들기"
+    },
+    "bookstore_view": {
+      "name": "City Limits",
+      "condition": "Visit the Outside of Bookstore"
     }
   }
 }
