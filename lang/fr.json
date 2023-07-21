@@ -352,6 +352,11 @@
       "name": "Pécheresse compulsive",
       "description": "Tu n'arrêtes pas de venir ici gamine, aurais-tu perdu foi ?",
       "condition": "Entrer dans Hell depuis Face Carpet Plaza, The Neon Tile Path, The Checkered Tile Path et The Footprint Path"
+    },
+    "train_cattention": {
+      "name": "Ailurophobie",
+      "description": "Même les monstres ne peuvent pas résister aux ronronnements des chats :3",
+      "condition": "Attirer l'attention du Passager du Train A avec l'effet Chat"
     }
   },
   "2kki": {
@@ -2499,6 +2504,15 @@
       "name": "Représentation de danse",
       "description": "Tu ne devrais pas être sur scène !",
       "condition": "Sauter sur la scène des danseurs dans l'Underwater Amusement Park"
+    },
+    "tapir_san_tapir": {
+      "name": "Mangeur de rêves",
+      "description": "Rendre visite à Tapir-San",
+      "condition": "Voir Tapir-San dans Tapir-San's Place"
+    },
+    "fossil_lake_creature": {
+      "name": "Se reflétant paisiblement dans l'eau",
+      "condition": "Entrer dans la salle avec la créature dans le Fossil Lake"
     }
   },
   "flow": {
@@ -3511,6 +3525,24 @@
       "name": "Lumières pourpres",
       "description": "Le soleil se couche, je sens qu'une lumière me trahit",
       "condition": "Atteindre le Distant Red Horizon"
+    },
+    "norvay_cat_shop": {
+      "name": "Docteur Minou",
+      "condition": "Entrer dans la Boutique du Chat et interagir avec Norvey"
+    },
+    "snow_world_creature": {
+      "name": "Salutations enneigées",
+      "description": "« Coucou ? »",
+      "condition": "Rendre visite à la créature faisant un signe dans le Snow World"
+    },
+    "colly_maid_cafe": {
+      "name": "Bienvenue !",
+      "condition": "Visiter le Colly Maid Cafe"
+    },
+    "shrine_staircase_maze": {
+      "name": "Sanctuaire crépusculaire",
+      "description": "Seul l'élu peut entrer en ces lieux",
+      "condition": "Trouver le sanctuaire dans le Staircase Maze"
     }
   },
   "mikan": {
@@ -3734,6 +3766,10 @@
     "headless_station": {
       "name": "Sans rien d'unique",
       "condition": "Faire perdre la tête à la Sometsuki présente sur l'écran de la Space Station"
+    },
+    "bookstore_view": {
+      "name": "Routine monotone",
+      "condition": "Admirer la vue depuis le toit du Bookstore"
     }
   }
 }
