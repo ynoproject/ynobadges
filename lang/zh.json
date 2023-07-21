@@ -352,6 +352,11 @@
       "name": "Compulsive Sinner",
       "description": "You just keep coming here, sheesh!",
       "condition": "Access Hell from Face Carpet Plaza, The Neon Tile Path, The Checkered Tile Path and The Footprint Path"
+    },
+    "train_cattention": {
+      "name": "Ailurophobia",
+      "description": "Not even monsters are safe from the cat supremacy :3",
+      "condition": "Catch the Train Passenger A's attention with the Cat effect"
     }
   },
   "2kki": {
@@ -2499,6 +2504,15 @@
       "name": "Dance Party",
       "description": "You shouldn't be up here!",
       "condition": "Jump onto the dancer's stage in Underwater Amusement Park"
+    },
+    "tapir_san_tapir": {
+      "name": "Dream Eater",
+      "description": "Pay a visit to Tapir-San",
+      "condition": "See Tapir-San in Tapir-San's Place"
+    },
+    "fossil_lake_creature": {
+      "name": "Reflecting in Water Passively",
+      "condition": "Enter the room in the Fossil Lake with the creature"
     }
   },
   "flow": {
@@ -3511,6 +3525,24 @@
       "name": "绯红灯火",
       "description": "The sun goes down, I feel the light betray me",
       "condition": "抵达 Distant Red Horizon"
+    },
+    "norvay_cat_shop": {
+      "name": "Cat Doctor",
+      "condition": "Go into Cat Shop and interact with Norvey"
+    },
+    "snow_world_creature": {
+      "name": "Snowy Greeting",
+      "description": "\"Hello?\"",
+      "condition": "Visit the waving creature in Snow World"
+    },
+    "colly_maid_cafe": {
+      "name": "Welcome!",
+      "condition": "Visit Colly Maid Cafe"
+    },
+    "shrine_staircase_maze": {
+      "name": "Twilight Shrine",
+      "description": "Only the chosen one can enter",
+      "condition": "Find the shrine in the Staircase Maze"
     }
   },
   "mikan": {
@@ -3734,6 +3766,10 @@
     "headless_station": {
       "name": "Death of the Individual",
       "condition": "Make the Sometsuki in the screen of the Space Station become headless"
+    },
+    "bookstore_view": {
+      "name": "City Limits",
+      "condition": "Visit the Outside of Bookstore"
     }
   }
 }

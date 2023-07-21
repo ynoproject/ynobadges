@@ -352,6 +352,11 @@
       "name": "強制罪人",
       "description": "どんどん来やがれ",
       "condition": "顔絨毯広場、ネオン通路、タイル通路、足跡通路から地獄に行く"
+    },
+    "train_cattention": {
+      "name": "Ailurophobia",
+      "description": "Not even monsters are safe from the cat supremacy :3",
+      "condition": "Catch the Train Passenger A's attention with the Cat effect"
     }
   },
   "2kki": {
@@ -2499,6 +2504,15 @@
       "name": "ダンスパーティー",
       "description": "ここに登るべきじゃない！!",
       "condition": "カーニバルナイトのダンスステージに飛び乗る"
+    },
+    "tapir_san_tapir": {
+      "name": "Dream Eater",
+      "description": "Pay a visit to Tapir-San",
+      "condition": "See Tapir-San in Tapir-San's Place"
+    },
+    "fossil_lake_creature": {
+      "name": "Reflecting in Water Passively",
+      "condition": "Enter the room in the Fossil Lake with the creature"
     }
   },
   "flow": {
@@ -3511,6 +3525,24 @@
       "name": "深紅の光",
       "description": "日が落ちると、光が私を裏切るのを感じる",
       "condition": "Distant Red Horizonに到達する"
+    },
+    "norvay_cat_shop": {
+      "name": "Cat Doctor",
+      "condition": "Go into Cat Shop and interact with Norvey"
+    },
+    "snow_world_creature": {
+      "name": "Snowy Greeting",
+      "description": "\"Hello?\"",
+      "condition": "Visit the waving creature in Snow World"
+    },
+    "colly_maid_cafe": {
+      "name": "Welcome!",
+      "condition": "Visit Colly Maid Cafe"
+    },
+    "shrine_staircase_maze": {
+      "name": "Twilight Shrine",
+      "description": "Only the chosen one can enter",
+      "condition": "Find the shrine in the Staircase Maze"
     }
   },
   "mikan": {
@@ -3734,6 +3766,10 @@
     "headless_station": {
       "name": "個体の死",
       "condition": "宇宙船　内部のスクリーンに映るそめつきをくびなしにする"
+    },
+    "bookstore_view": {
+      "name": "City Limits",
+      "condition": "Visit the Outside of Bookstore"
     }
   }
 }
