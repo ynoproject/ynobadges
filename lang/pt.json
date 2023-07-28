@@ -2513,6 +2513,21 @@
     "fossil_lake_creature": {
       "name": "Reflecting in Water Passively",
       "condition": "Enter the room in the Fossil Lake with the creature"
+    },
+    "mask_collection": {
+      "name": "Expert of Disguise",
+      "description": "Who will you be today?",
+      "condition": "Unlock and view every non-effect mask in one of the Mask Shops (outside of Twintail Girl and Ahogeko)"
+    },
+    "retro_cartridge_game": {
+      "name": "Like it's 1977!",
+      "description": "> Downloading ROM directly into your brain . . .",
+      "condition": "Visit Retro Cartridge Game"
+    },
+    "haniwa_rave": {
+      "name": "Haniwow!",
+      "description": "Dance with your terracotta friends!",
+      "condition": "Witness the Haniwa Rave event in Underground Burial Site"
     }
   },
   "flow": {
@@ -2724,6 +2739,11 @@
       "name": "Marcha do General Inverno",
       "description": "É então que ouço uma voz, uma voz cristalina que brilha como um pingente de gelo, água fria, mas feita de som, que me diz para manter forte minha conexão com os espíritos",
       "condition": "Veja o Exército de Garota de Neve no Frozen Lake"
+    },
+    "blip_arrow_lane": {
+      "name": "Blip",
+      "description": "will you let me go to heaven",
+      "condition": "Find and interact with Blip in Arrow Lane"
     }
   },
   "deepdreams": {
@@ -3543,6 +3563,20 @@
       "name": "Twilight Shrine",
       "description": "Only the chosen one can enter",
       "condition": "Find the shrine in the Staircase Maze"
+    },
+    "big_one_structure": {
+      "name": "Weird Structure",
+      "description": "What the heck is this...",
+      "condition": "Interact with the Big One in the room accessible from Deserted Town"
+    },
+    "bloody_red_maw": {
+      "name": "Bloody Red Maw",
+      "condition": "Encounter the giant red piranha monster in the Train"
+    },
+    "robot_mecha_path": {
+      "name": "ROT",
+      "description": "Destroyer of cities",
+      "condition": "View the robot in 3D Mecha Path"
     }
   },
   "mikan": {
@@ -3770,6 +3804,11 @@
     "bookstore_view": {
       "name": "City Limits",
       "condition": "Visit the Outside of Bookstore"
+    },
+    "judging_eyes": {
+      "name": "Judging Eyes",
+      "description": "You shouldn't have broken the violin...",
+      "condition": "Visit the secret room of the Banquet Hall"
     }
   }
 }

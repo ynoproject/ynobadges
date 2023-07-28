@@ -2449,7 +2449,7 @@
     },
     "yume_telephone": {
       "name": "Yume",
-      "description": "\"...\"",
+      "description": "« ... »",
       "condition": "Utiliser l'effet Téléphone à proximité de Yume"
     },
     "golden_sky_whale": {
@@ -2513,6 +2513,21 @@
     "fossil_lake_creature": {
       "name": "Se reflétant paisiblement dans l'eau",
       "condition": "Entrer dans la salle avec la créature dans le Fossil Lake"
+    },
+    "mask_collection": {
+      "name": "Experte du déguisement",
+      "description": "Qui seras-tu ?",
+      "condition": "Débloquer et voir tous les masques sans effet dans l'un des Mask Shops (En dehors de la Fille aux Couettes et Ahogeko)"
+    },
+    "retro_cartridge_game": {
+      "name": "Comme en 1981 !",
+      "description": "> Téléversement de la ROM dans votre cerveau . . .",
+      "condition": "Visiter Retro Cartridge Game"
+    },
+    "haniwa_rave": {
+      "name": "Haniwow !",
+      "description": "Danse avec tes amis faits de terre cuite !",
+      "condition": "Déclencher l'événement de la Rave Haniwa dans l'Underground Burial Site"
     }
   },
   "flow": {
@@ -2724,6 +2739,11 @@
       "name": "Marche de la Générale Hiver",
       "description": "It's then I hear a voice,\na crystal shining icicle clear voice,\ncold water but made of sound,\ntells me, keep my connection to the spirits strong",
       "condition": "Voir l'Armée de Filles Neige au Frozen Lake"
+    },
+    "blip_arrow_lane": {
+      "name": "Blip",
+      "description": "est-ce que tu me laisseras aller aux cieux",
+      "condition": "Trouver et interagir avec Blip dans l'Arrow Lane"
     }
   },
   "deepdreams": {
@@ -3543,6 +3563,20 @@
       "name": "Sanctuaire crépusculaire",
       "description": "Seul l'élu peut entrer en ces lieux",
       "condition": "Trouver le sanctuaire dans le Staircase Maze"
+    },
+    "big_one_structure": {
+      "name": "Amalgame d'un autre monde",
+      "description": "Qu'est-ce que c'est que cette chose...",
+      "condition": "Interagir avec le Big One dans la salle accessible depuis la Deserted Town"
+    },
+    "bloody_red_maw": {
+      "name": "Gueule rouge sanglante",
+      "condition": "Rencontrer le monstre piranha géant dans le Train"
+    },
+    "robot_mecha_path": {
+      "name": "Pourroboture",
+      "description": "Le destructeur de villes",
+      "condition": "Voir le robot dans le 3D Mecha Path"
     }
   },
   "mikan": {
@@ -3770,6 +3804,11 @@
     "bookstore_view": {
       "name": "Routine monotone",
       "condition": "Admirer la vue depuis le toit du Bookstore"
+    },
+    "judging_eyes": {
+      "name": "Yeux jugeants",
+      "description": "Tu n'aurais pas dû casser le violon...",
+      "condition": "Visiter la salle secrète du Banquet Hall"
     }
   }
 }
