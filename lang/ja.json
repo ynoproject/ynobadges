@@ -2513,6 +2513,21 @@
     "fossil_lake_creature": {
       "name": "水面に映る影",
       "condition": "化石湖の生物がいる部屋に入る"
+    },
+    "mask_collection": {
+      "name": "Expert of Disguise",
+      "description": "Who will you be today?",
+      "condition": "Unlock and view every non-effect mask in one of the Mask Shops (outside of Twintail Girl and Ahogeko)"
+    },
+    "retro_cartridge_game": {
+      "name": "Like it's 1977!",
+      "description": "> Downloading ROM directly into your brain . . .",
+      "condition": "Visit Retro Cartridge Game"
+    },
+    "haniwa_rave": {
+      "name": "Haniwow!",
+      "description": "Dance with your terracotta friends!",
+      "condition": "Witness the Haniwa Rave event in Underground Burial Site"
     }
   },
   "flow": {
@@ -2724,6 +2739,11 @@
       "name": "冬のマーチ",
       "description": "It’s then I hear a voice,\na crystal shining icicle clear voice,\ncold water but made of sound,\ntells me, keep my connection to the spirits strong",
       "condition": "Frozen LakeでSnow Girl Armyを見る"
+    },
+    "blip_arrow_lane": {
+      "name": "Blip",
+      "description": "will you let me go to heaven",
+      "condition": "Find and interact with Blip in Arrow Lane"
     }
   },
   "deepdreams": {
@@ -3543,6 +3563,20 @@
       "name": "宵闇の神社",
       "description": "選ばれた者のみ入ることが許される",
       "condition": "Staircase Mazeで神社を見つける"
+    },
+    "big_one_structure": {
+      "name": "Weird Structure",
+      "description": "What the heck is this...",
+      "condition": "Interact with the Big One in the room accessible from Deserted Town"
+    },
+    "bloody_red_maw": {
+      "name": "Bloody Red Maw",
+      "condition": "Encounter the giant red piranha monster in the Train"
+    },
+    "robot_mecha_path": {
+      "name": "ROT",
+      "description": "Destroyer of cities",
+      "condition": "View the robot in 3D Mecha Path"
     }
   },
   "mikan": {
@@ -3770,6 +3804,11 @@
     "bookstore_view": {
       "name": "市域",
       "condition": "書店外に到達する"
+    },
+    "judging_eyes": {
+      "name": "Judging Eyes",
+      "description": "You shouldn't have broken the violin...",
+      "condition": "Visit the secret room of the Banquet Hall"
     }
   }
 }
