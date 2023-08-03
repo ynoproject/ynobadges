@@ -3,12 +3,12 @@
     "badge_amulet": {
       "name": "뱃지 수집가 부적",
       "description": "현재 장착된 메뉴 타입에 알맞게 조정됩니다",
-      "condition": "총 100개의 배지를 수집하기 (숨겨진 배지는 제외)"
+      "condition": "총 100개의 뱃지를 수집하기 (숨겨진 뱃지는 제외)"
     },
     "badge_amulet_2": {
       "name": "울트라 뱃지 수집가 부적",
       "description": "현재 장착된 메뉴 타입에 알맞게 조정됩니다",
-      "condition": "총 500개의 배지를 수집하기 (숨겨진 배지는 제외)"
+      "condition": "총 500개의 뱃지를 수집하기 (숨겨진 뱃지는 제외)"
     },
     "mono": {
       "name": "탐험가 뱃지",
@@ -117,9 +117,9 @@
       "condition": "유메2키 관련으로 개발에 참여하기"
     },
     "zolotl": {
-      "name": "진혼곡",
-      "description": "결국 잔재하는 것은 너와 너의 그림자, 그리고 태양이 작열하고 먼지가 휘날리는 끝없는 사막뿐이니라, 코드네임 솔로틀의 숫자는 12...",
-      "condition": "Zolotl(개발자 이름)이 되기"
+      "name": "Zolotl",
+      "description": "A dark blade of an oneirophobic sharpening.",
+      "condition": "From Zolotl to Aztec"
     },
     "novaflow": {
       "name": "노바플로우 뱃지",
@@ -357,6 +357,10 @@
       "name": "Ailurophobia",
       "description": "Not even monsters are safe from the cat supremacy :3",
       "condition": "Catch the Train Passenger A's attention with the Cat effect"
+    },
+    "docks_yume": {
+      "name": "Docks",
+      "condition": "Visit the two parts of the Docks"
     }
   },
   "2kki": {
@@ -385,24 +389,24 @@
       "condition": "방문 가능한 95%의 장소들을 탐험하기"
     },
     "uro_trophy_bronze": {
-      "name": "Bronze Urotsuki Trophy",
-      "condition": "Visit 30% of locations (excluding secret locations)"
+      "name": "브론즈 우로츠키 트로피",
+      "condition": "30%의 장소들을 방문하기 (비밀 장소 제외)"
     },
     "uro_trophy_silver": {
-      "name": "Silver Urotsuki Trophy",
-      "condition": "Visit 50% of locations (excluding secret locations)"
+      "name": "실버 우로츠키 트로피",
+      "condition": "50%의 장소들을 방문하기 (비밀 장소 제외)"
     },
     "uro_trophy_gold": {
-      "name": "Gold Urotsuki Trophy",
-      "condition": "Visit 70% of locations (excluding secret locations)"
+      "name": "골드 우로츠키 트로피",
+      "condition": "70%의 장소들을 방문하기 (비밀 장소 제외)"
     },
     "uro_trophy_platinum": {
-      "name": "Platinum Urotsuki Trophy",
-      "condition": "Visit 90% of locations (excluding secret locations)"
+      "name": "플래티넘 우로츠키 트로피",
+      "condition": "90%의 장소들을 방문하기 (비밀 장소 제외)"
     },
     "uro_trophy_diamond": {
-      "name": "Diamond Urotsuki Trophy",
-      "condition": "Visit 100% of locations (excluding secret locations)"
+      "name": "다이아몬드 우로츠키 트로피",
+      "condition": "100%의 장소들을 방문하기 (비밀 장소 제외)"
     },
     "crushed": {
       "name": "쥐포 뱃지",
@@ -2548,6 +2552,25 @@
       "name": "Haniwow!",
       "description": "Dance with your terracotta friends!",
       "condition": "Witness the Haniwa Rave event in Underground Burial Site"
+    },
+    "virtual_techno_cube": {
+      "name": "Techno Cube",
+      "description": "* a greater disorder *",
+      "condition": "Interact with the cube head creature in Virtual City"
+    },
+    "virtual_techno_bar": {
+      "name": "Sisters of the Techno Bar",
+      "description": "They'll ensure you'll have a nice melodic experience at their place~",
+      "condition": "Visit the Bar subarea in Virtual City"
+    },
+    "pollywog_pal": {
+      "name": "Pollywog Pal",
+      "condition": "Interact with the Frog in Wooded Lakeside"
+    },
+    "lakeside_grovetop": {
+      "name": "Dream Rooftop",
+      "description": "Where am I now...",
+      "condition": "Enter the roof from Lakeside Grove"
     }
   },
   "flow": {
@@ -2688,6 +2711,10 @@
     "flow_sabi_all_effects": {
       "name": "Flawless",
       "condition": "Trigger the Disguised Bug event"
+    },
+    "razor_head": {
+      "name": "Razor Head",
+      "condition": "See the razor head creature in Disposal"
     }
   },
   "prayers": {
@@ -2897,6 +2924,11 @@
       "name": "Anatomy Lessons",
       "description": "It's probably a bad lesson, but it's free!",
       "condition": "Use the Apparition alter near the girl in Abandoned Lab"
+    },
+    "tree_ashy_desert": {
+      "name": "Flourish and Bloom",
+      "description": "After the frigid winter has passed, spring is finally starting to awaken",
+      "condition": "Visit the room with the pink blossom tree in Ashy Desert"
     }
   },
   "someday": {
@@ -3398,7 +3430,7 @@
     },
     "true_sunset": {
       "name": "진정한 일몰 뱃지",
-      "description": "난 이제 누굴 믿어야 하는거지?",
+      "description": "난 이제 누굴 믿어야 하는 거지?",
       "condition": "Sunset Cliff 에서 진정한 일몰 (True Sunset) 이벤트를 보기"
     },
     "erased_muma": {
@@ -3442,12 +3474,12 @@
     },
     "owl_chorus": {
       "name": "부엉이 합창 뱃지",
-      "description": "노래부르자! 노래부르자!",
+      "description": "노래 부르자! 노래 부르자!",
       "condition": "Owl Swamp에서 모든 부엉이가 노래부르게 하기"
     },
     "pool_penguin": {
       "name": "수영장의 펭귄 뱃지",
-      "description": "자그마한 펭귄 한마리가 수영장에서 행복하게 몸을 적시고 있다... 눟눟!",
+      "description": "자그마한 펭귄 한 마리가 수영장에서 행복하게 몸을 적시고 있다... 눟눟!",
       "condition": "Swimming Pool에서 튜브 안에 있는 펭귄과 상호작용하기"
     },
     "flower_field": {
@@ -3472,7 +3504,7 @@
     },
     "faraway_place_return": {
       "name": "익숙한 장소",
-      "condition": "Faraway Place를 통해 Memory Room에 입장하기"
+      "condition": "Faraway Place에서 Memory Room에 입장하기"
     }
   },
   "genie": {
@@ -3597,6 +3629,11 @@
       "name": "ROT",
       "description": "Destroyer of cities",
       "condition": "View the robot in 3D Mecha Path"
+    },
+    "leviathan_genie": {
+      "name": "Leviathan",
+      "description": "It must be so lonely in this empty pool...",
+      "condition": "Interact with the underwater monster in Pool Facilities"
     }
   },
   "mikan": {
@@ -3689,12 +3726,12 @@
       "condition": "스트레스 수치가 충분히 높은 상태에서 Maid Masion의 숨겨진 구역에 입장하여 당신의 앞에 무엇이 있는지 조사하기"
     },
     "maids_wrath": {
-      "name": "하녀의 분노",
-      "description": "여긴 그쪽 집이 아닙니다, 손님",
+      "name": "메이드의 분노",
+      "description": "여긴 당신 집이 아닙니다, 손님",
       "condition": "Maid Mansion 입구에서 Brass Knuckles 이펙트를 사용하기"
     },
     "shining_zone_muzou": {
-      "name": "샤이닝 존",
+      "name": "빛나는 구역",
       "condition": "Hand Sector에서 확률적으로 접근할 수 있는 구역에 입장하기"
     },
     "sepieye": {
@@ -3722,12 +3759,12 @@
       "condition": "Pastel World에서 자판기 옆에 있는 코인을 얻고 사용하기"
     },
     "uv_snipped": {
-      "name": "싹둑",
+      "name": "절단",
       "description": "오늘따라 재수가 없니?",
       "condition": "Bloody Water Dungeon에서 Short Hair 이펙트를 얻기"
     },
     "little_rabbit": {
-      "name": "아기 토끼",
+      "name": "작은 토끼",
       "condition": "Pastel World의 Rabbit's House 서브 에리어에 방문하기"
     },
     "seasons_go": {
@@ -3741,17 +3778,17 @@
     },
     "self_destruction": {
       "name": "자멸",
-      "description": "망치를 들었다고 해서 다 못은 아니다",
+      "description": "네가 가진 것이 망치 뿐이라면, 모든 것이 못처럼 보일 거야",
       "condition": "소메츠키의 클론을 망치로 때리기"
     },
     "uv_repose": {
-      "name": "휴식",
+      "name": "휴양",
       "description": "집 같은 편안함",
       "condition": "Streetlamp World를 통해 Countryside에 있는 고립된 섬을 찾기"
     },
     "vibe_check": {
       "name": "상황파악",
-      "description": "내 말은, 네 잘못이 아닌 게 아니야",
+      "description": "내 말은, 네 잘못이 아닌 것도 아니잖아",
       "condition": "Decapitating Fall 이벤트를 보기"
     },
     "committed_memory": {
@@ -3781,7 +3818,7 @@
       "condition": "Seabed에서 Sea Hare 이펙트를 얻기"
     },
     "summertime_shrine": {
-      "name": "서머타임 신사",
+      "name": "여름철 신사",
       "condition": "Countryside에서 신사를 찾기"
     },
     "ribbon_effect": {
@@ -3808,7 +3845,7 @@
       "condition": "Coat and Muffler 이펙트를 착용하고 싯켄켄(Shikkenken) NPC와 상호작용 하기"
     },
     "distorted_cyber_world": {
-      "name": "폭력적 왜곡",
+      "name": "폭력적 일그러짐",
       "description": "너의 폭력은 타락으로 이어질 뿐이야...",
       "condition": "Distorted Cyber World에 입장하기"
     },
@@ -3822,13 +3859,13 @@
       "condition": "Space Station의 스크린에 있는 소메츠키의 머리를 사라지게 만들기"
     },
     "bookstore_view": {
-      "name": "City Limits",
-      "condition": "Visit the Outside of Bookstore"
+      "name": "도시의 경계",
+      "condition": "서점의 밖을 방문하기"
     },
     "judging_eyes": {
-      "name": "Judging Eyes",
-      "description": "You shouldn't have broken the violin...",
-      "condition": "Visit the secret room of the Banquet Hall"
+      "name": "심판의 눈",
+      "description": "바이올린을 부시지 말았어야지...",
+      "condition": "Banquet Hall의 숨겨진 방을 방문하기"
     }
   }
 }
