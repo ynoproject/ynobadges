@@ -117,9 +117,9 @@
       "condition": "Contribuer à des maps pour Yume 2kki"
     },
     "zolotl": {
-      "name": "O Réquiem",
-      "description": "No final que sobrou foi você, sua propria sombra e um infinito deserto com um ardente sol, do pó ao pó\n\n- O Número 12 « Réquiem » do codinome Xolotl",
-      "condition": "Être Zolotl"
+      "name": "Zolotl",
+      "description": "Une lame obscure d'un tranchant onirophobique.",
+      "condition": "De Zolotl à Aztec"
     },
     "novaflow": {
       "name": "NovAflow",
@@ -357,6 +357,10 @@
       "name": "Ailurophobie",
       "description": "Même les monstres ne peuvent pas résister aux ronronnements des chats :3",
       "condition": "Attirer l'attention du Passager du Train A avec l'effet Chat"
+    },
+    "docks_yume": {
+      "name": "Docks",
+      "condition": "Visiter les deux parties des Docks"
     }
   },
   "2kki": {
@@ -385,24 +389,24 @@
       "condition": "Compléter des expéditions dans 95% des lieux disponibles"
     },
     "uro_trophy_bronze": {
-      "name": "Bronze Urotsuki Trophy",
-      "condition": "Visit 30% of locations (excluding secret locations)"
+      "name": "Trophée Urotsuki de bronze",
+      "condition": "Visiter 30% des lieux (sans compter les lieux secrets)"
     },
     "uro_trophy_silver": {
-      "name": "Silver Urotsuki Trophy",
-      "condition": "Visit 50% of locations (excluding secret locations)"
+      "name": "Trophée Urotsuki d'argent",
+      "condition": "Visiter 50% des lieux (sans compter les lieux secrets)"
     },
     "uro_trophy_gold": {
-      "name": "Gold Urotsuki Trophy",
-      "condition": "Visit 70% of locations (excluding secret locations)"
+      "name": "Trophée Urotsuki d'or",
+      "condition": "Visiter 70% des lieux (sans compter les lieux secrets)"
     },
     "uro_trophy_platinum": {
-      "name": "Platinum Urotsuki Trophy",
-      "condition": "Visit 90% of locations (excluding secret locations)"
+      "name": "Trophée Urotsuki de platine",
+      "condition": "Visiter 90% des lieux (sans compter les lieux secrets)"
     },
     "uro_trophy_diamond": {
-      "name": "Diamond Urotsuki Trophy",
-      "condition": "Visit 100% of locations (excluding secret locations)"
+      "name": "Trophée Urotsuki de diamant",
+      "condition": "Visiter 100% des lieux (sans compter les lieux secrets)"
     },
     "crushed": {
       "name": "Écrasement",
@@ -2548,6 +2552,25 @@
       "name": "Haniwow !",
       "description": "Danse avec tes amis faits de terre cuite !",
       "condition": "Déclencher l'événement de la Rave Haniwa dans l'Underground Burial Site"
+    },
+    "virtual_techno_cube": {
+      "name": "Cube techno",
+      "description": "Un désordre musical ET visuel.",
+      "condition": "Interagir avec la tête de cube dans Virtual City"
+    },
+    "virtual_techno_bar": {
+      "name": "Sœurettes du bar techno",
+      "description": "Elles vont s'assurer que vous ayez une jolie expérience mélodique chez elles~",
+      "condition": "Visitier la sous-zone du Bar de la Virtual City"
+    },
+    "pollywog_pal": {
+      "name": "Crôamarde têtard",
+      "condition": "Interagir avec la Grenouille dans le Wooded Lakeside"
+    },
+    "lakeside_grovetop": {
+      "name": "Toit onirique",
+      "description": "Où suis-je désormais...",
+      "condition": "Admirer la vue depuis le toit du Lakeside Grove"
     }
   },
   "flow": {
@@ -2688,6 +2711,10 @@
     "flow_sabi_all_effects": {
       "name": "Flow de pensée",
       "condition": "Déclencher l'événement du bug déguisé"
+    },
+    "razor_head": {
+      "name": "Tête de rasoir",
+      "condition": "Voir la créature à la tête de rasoir dans Disposal"
     }
   },
   "prayers": {
@@ -2897,6 +2924,11 @@
       "name": "Leçons d'anatomie",
       "description": "C'est probablement une leçon piteuse, mais au moins c'est gratuit !",
       "condition": "Utiliser l'alter Apparition à proximité de la fille dans l'Abandoned Lab"
+    },
+    "tree_ashy_desert": {
+      "name": "Développement floral",
+      "description": "Après que le frigide hiver est passé, le printemps a finalement commencé à se réveiller",
+      "condition": "Visiter la salle avec l'arbre aux fleurs roses dans l'Ashy Desert"
     }
   },
   "someday": {
@@ -3597,6 +3629,11 @@
       "name": "Pourroboture",
       "description": "Le destructeur de villes",
       "condition": "Voir le robot dans le 3D Mecha Path"
+    },
+    "leviathan_genie": {
+      "name": "Léviathan",
+      "description": "Il doit se sentir si seul dans ce bassin abandonné...",
+      "condition": "Interagir avec le monstre aquatique dans les Pool Facilities"
     }
   },
   "mikan": {
