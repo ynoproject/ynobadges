@@ -853,7 +853,7 @@
     },
     "opal_archives": {
       "name": "ラストラスアカダミア",
-      "condition": "浮遊書庫に到達する"
+      "condition": "Trigger the ballroom dance event in Opal Archives"
     },
     "unamused": {
       "name": "面白くない",
@@ -2596,6 +2596,25 @@
       "name": "酒豪鼻",
       "description": "You used to call me on my smell phone...",
       "condition": "湖のほとりの巨大な赤い顔を訪れる"
+    },
+    "bar_aqua_cave": {
+      "name": "Aqua Barkeep",
+      "description": "\"What'll it be?\"",
+      "condition": "Enter the Bar in Aquamarine Cave"
+    },
+    "cyclops_dreamers": {
+      "name": "Sleepyheads",
+      "description": "...Wait, do dreams have dreams?",
+      "condition": "See the two sleeping creatures in the Ghostly Inn"
+    },
+    "deserted_center": {
+      "name": "Expired Bottle",
+      "description": "Left to rot in a decaying structure.",
+      "condition": "Visit the Deserted Center"
+    },
+    "dripping_ceiling": {
+      "name": "Drip Drip... Drip Drip Plop",
+      "description": "\"Where's that dripping coming from?\"",
     }
   },
   "flow": {
@@ -3237,6 +3256,16 @@
       "name": "おもちゃ！!",
       "description": "全部集めてみよう！",
       "condition": "Fast Food Worldにあるおもちゃをすべて探し出し、Shoe Rackを解禁する"
+    },
+    "roadside_diner": {
+      "name": "Roadside Diner",
+      "description": "It's never been open.",
+      "condition": "Visit the Rainy Street in Pink Desert"
+    },
+    "totsu_x_ray": {
+      "name": "Roentgen",
+      "description": "Anything can be seen.",
+      "condition": "Take X-rays in the Kaomoji Mall"
     }
   },
   "braingirl": {
@@ -3673,6 +3702,11 @@
       "name": "孤独な煉獄",
       "description": "あなたのためだけの特別なアトラクション",
       "condition": "Hellish Parkのブランコに座る"
+    },
+    "old_dream_dragon": {
+      "name": "Dream Dragon",
+      "description": "Life, old age and death, this is a person's life.",
+      "condition": "Enter Chamber of a Life Cycle"
     }
   },
   "mikan": {
@@ -3905,6 +3939,10 @@
       "name": "審判の目",
       "description": "バイオリンを壊すんじゃなかった...",
       "condition": "パーティ会場の隠された部屋に到達する"
+    },
+    "comfy_rave": {
+      "name": "A Comfy Rave",
+      "condition": "See the Cushion Rave event"
     }
   }
 }
