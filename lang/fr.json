@@ -351,7 +351,7 @@
     "hell_teleporters": {
       "name": "Pécheresse compulsive",
       "description": "Tu n'arrêtes pas de venir ici gamine, aurais-tu perdu foi ?",
-      "condition": "Entrer dans Hell depuis Face Carpet Plaza, The Neon Tile Path, The Checkered Tile Path et The Footprint Path"
+      "condition": "Entrer dans Hell depuis Face Carpet Plaza, Neon Tile Path, Checkered Tile Path et Footprint Path"
     },
     "train_cattention": {
       "name": "Ailurophobie",
@@ -853,7 +853,7 @@
     },
     "opal_archives": {
       "name": "Chatoyante académie",
-      "condition": "Atteindre les Opal Archives"
+      "condition": "Déclencher l'événement de danse de bal dans les Opal Archives"
     },
     "unamused": {
       "name": "Indifférente",
@@ -2546,7 +2546,7 @@
     "mask_collection": {
       "name": "Experte du déguisement",
       "description": "Qui seras-tu ?",
-      "condition": "Débloquer et voir tous les masques sans effet dans l'un des Mask Shops (En dehors de la Fille aux Couettes et Ahogeko)"
+      "condition": "Débloquer et voir tous les masques sans effet dans l'un des Mask Shops (En dehors de la Fille aux Couettes, Ahogeko, Moisobscure, Kīgāru, Souris Blanche, Souris Noire, Créature Takoyaki et du Cône de signalisation)"
     },
     "retro_cartridge_game": {
       "name": "Comme en 1981 !",
@@ -2596,6 +2596,26 @@
       "name": "Buveur narines",
       "description": "Plus qu'à devenir célèbre et je pourrais enfin obtenir le tout dernier balodeur...",
       "condition": "Rendre visite à Soif-Narines au Wooded Lakeside A"
+    },
+    "bar_aqua_cave": {
+      "name": "Barmaid aquatique",
+      "description": "« Qu'est-ce qu'vous faudra ? »",
+      "condition": "Enter dans le Bar de l'Aquamarine Cave"
+    },
+    "cyclops_dreamers": {
+      "name": "Dormeurs oniriques",
+      "description": "...mais du coup, est-ce que les rêves... ont des rêves ?",
+      "condition": "Voir les deux créatures dormant dans le Ghostly Inn"
+    },
+    "deserted_center": {
+      "name": "Bouteille expirée",
+      "description": "Laissée à l'abandon pour pourrir dans un bâtiment abandonné.",
+      "condition": "Visiter le Deserted Center"
+    },
+    "dripping_ceiling": {
+      "name": "Ploup ploup... ploup ploup schplaf",
+      "description": "« D'où ces gouttes proviennent-elles ? »",
+      "condition": "Voir la créature accrochée au plafond dans les Marshmallow Shallows"
     }
   },
   "flow": {
@@ -3237,6 +3257,16 @@
       "name": "Avec des jouets par milliers",
       "description": "Essaye de tous les attraper !",
       "condition": "Trouver tous les jouets dans le Fast Food World et débloquer le Shoe Rack"
+    },
+    "roadside_diner": {
+      "name": "Le Diner de la route pluvieuse",
+      "description": "Plus qu'à attendre son ouverture...",
+      "condition": "Visiter la route pluvieuse du Pink Desert"
+    },
+    "totsu_x_ray": {
+      "name": "Röntgen",
+      "description": "Tout peut être vu.",
+      "condition": "Se prendre des rayons X dans le Kaomoji Mall"
     }
   },
   "braingirl": {
@@ -3673,6 +3703,11 @@
       "name": "Confinement solitaire",
       "description": "Une attraction spéciale rien que pour toi",
       "condition": "S'asseoir sur l'une des balançoires dans l'Hellish Park"
+    },
+    "old_dream_dragon": {
+      "name": "Dragon onirique",
+      "description": "Vie, vieillesse et mort. Ceci est la vie d'une personne.",
+      "condition": "Entrer dans Chamber of a Life Cycle"
     }
   },
   "mikan": {
@@ -3905,6 +3940,10 @@
       "name": "Yeux jugeants",
       "description": "Tu n'aurais pas dû casser le violon...",
       "condition": "Visiter la salle secrète du Banquet Hall"
+    },
+    "comfy_rave": {
+      "name": "Une rave confortable",
+      "condition": "Voir l'événement de la Rave du Coussin"
     }
   }
 }

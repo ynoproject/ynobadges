@@ -853,7 +853,7 @@
     },
     "opal_archives": {
       "name": "ラストラスアカダミア",
-      "condition": "浮遊書庫に到達する"
+      "condition": "浮遊書庫でダンスイベントを見る"
     },
     "unamused": {
       "name": "面白くない",
@@ -2546,7 +2546,7 @@
     "mask_collection": {
       "name": "変装の達人",
       "description": "今日は誰になる？",
-      "condition": "お面屋で、全てのお面(ツインテールの女の子、偽浅瀬の家の女の子を除く)を解禁する"
+      "condition": "どこかのお面屋で、すっぴんで見られる全てのお面を解禁して見る(ツインテールの女の子、偽浅瀬の家の女の子、ふらんねる、ぜんまい少女、白ネズミ、黒ネズミ、たこやき、パイロンを除く)"
     },
     "retro_cartridge_game": {
       "name": "１９７７年みたい！",
@@ -2596,6 +2596,25 @@
       "name": "酒豪鼻",
       "description": "You used to call me on my smell phone...",
       "condition": "湖のほとりの巨大な赤い顔を訪れる"
+    },
+    "bar_aqua_cave": {
+      "name": "アクアマリン・バーテンダー",
+      "description": "「ご注文は？」",
+      "condition": "砂地と地下のバーに到達する"
+    },
+    "cyclops_dreamers": {
+      "name": "寝ぼけまなこ",
+      "description": "...待って、夢の中で夢をみるの？",
+      "condition": "転寝庵で一つ目の双子生物を見る"
+    },
+    "deserted_center": {
+      "name": "期限切れボトル",
+      "description": "朽ち果てた建造物に放置された",
+      "condition": "子供屋敷に到達する"
+    },
+    "dripping_ceiling": {
+      "name": "ポタリ、ポタ、ポタポタ",
+      "description": "「どこから垂れてるんだ？」",
     }
   },
   "flow": {
@@ -3237,6 +3256,16 @@
       "name": "おもちゃ！!",
       "description": "全部集めてみよう！",
       "condition": "Fast Food Worldにあるおもちゃをすべて探し出し、Shoe Rackを解禁する"
+    },
+    "roadside_diner": {
+      "name": "道路沿いのレストラン",
+      "description": "開店したことはない",
+      "condition": "Pink Desertの雨が降る街に到達する"
+    },
+    "totsu_x_ray": {
+      "name": "レントゲン",
+      "description": "なんでも見える",
+      "condition": "Kaomoji Mallでレントゲンを撮る"
     }
   },
   "braingirl": {
@@ -3673,6 +3702,11 @@
       "name": "孤独な煉獄",
       "description": "あなたのためだけの特別なアトラクション",
       "condition": "Hellish Parkのブランコに座る"
+    },
+    "old_dream_dragon": {
+      "name": "夢見ドラゴン",
+      "description": "Life, old age and death, this is a person's life.",
+      "condition": "Chamber of a Life Cycleに到達する"
     }
   },
   "mikan": {
@@ -3905,6 +3939,10 @@
       "name": "審判の目",
       "description": "バイオリンを壊すんじゃなかった...",
       "condition": "パーティ会場の隠された部屋に到達する"
+    },
+    "comfy_rave": {
+      "name": "快適な狂乱",
+      "condition": "Cushion Raveイベントを見る"
     }
   }
 }

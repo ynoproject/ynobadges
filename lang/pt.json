@@ -198,7 +198,7 @@
     "tokuto": {
       "name": "Tokuto-kun",
       "description": "Empurre o Tokuto-kun",
-      "condition": "Interaja com Tokuto-kun em seu quarto em The Mall"
+      "condition": "Interaja com Tokuto-kun em seu quarto em Mall"
     },
     "closet": {
       "name": "Seu próprio armário",
@@ -853,7 +853,7 @@
     },
     "opal_archives": {
       "name": "Academia Lustrosa",
-      "condition": "Chegue em Opal Archives"
+      "condition": "Trigger the ballroom dance event in Opal Archives"
     },
     "unamused": {
       "name": "Não me Interessa",
@@ -2546,7 +2546,7 @@
     "mask_collection": {
       "name": "Especialista em Disfarces",
       "description": "Quem você será hoje?",
-      "condition": "Desbloqueie e veja todas as máscaras sem efeito em uma das Mask Shops (exceto Twintail Girl e Ahogeko)"
+      "condition": "Desbloqueie e veja todas as máscaras sem efeito em uma das Mask Shops (exceto Twintail Girl, Ahogeko, Shadow Mold, Kīgāru, White Mouse, Black Mouse, Takoyaki Creature e Traffic Cone)"
     },
     "retro_cartridge_game": {
       "name": "Como se fosse 1977!",
@@ -2596,6 +2596,26 @@
       "name": "Bebedor de Nariz",
       "description": "Você costumava me ligar no meu telefone de cheiro...",
       "condition": "Visite o bebedor de nariz em Wooded Lakeside A"
+    },
+    "bar_aqua_cave": {
+      "name": "Aqua Barkeep",
+      "description": "\"What'll it be?\"",
+      "condition": "Enter the Bar in Aquamarine Cave"
+    },
+    "cyclops_dreamers": {
+      "name": "Sleepyheads",
+      "description": "...Wait, do dreams have dreams?",
+      "condition": "See the two sleeping creatures in the Ghostly Inn"
+    },
+    "deserted_center": {
+      "name": "Expired Bottle",
+      "description": "Left to rot in a decaying structure.",
+      "condition": "Visit the Deserted Center"
+    },
+    "dripping_ceiling": {
+      "name": "Drip Drip... Drip Drip Plop",
+      "description": "\"Where's that dripping coming from?\"",
+      "condition": "See the hanging creature in Marshmallow Shallows"
     }
   },
   "flow": {
@@ -3237,6 +3257,16 @@
       "name": "Brinquedos!",
       "description": "Tente coletar todos eles!",
       "condition": "Encontre todos os brinquedos no Fast Food World e desbloqueie o Shoe Rack"
+    },
+    "roadside_diner": {
+      "name": "Roadside Diner",
+      "description": "It's never been open.",
+      "condition": "Visit the Rainy Street in Pink Desert"
+    },
+    "totsu_x_ray": {
+      "name": "Roentgen",
+      "description": "Anything can be seen.",
+      "condition": "Take X-rays in the Kaomoji Mall"
     }
   },
   "braingirl": {
@@ -3673,6 +3703,11 @@
       "name": "Purgatório Solitário",
       "description": "Uma atração especial apenas para você",
       "condition": "Sente-se em um dos balanços no Hellish Park"
+    },
+    "old_dream_dragon": {
+      "name": "Dream Dragon",
+      "description": "Life, old age and death, this is a person's life.",
+      "condition": "Enter Chamber of a Life Cycle"
     }
   },
   "mikan": {
@@ -3905,6 +3940,10 @@
       "name": "Judging Eyes",
       "description": "You shouldn't have broken the violin...",
       "condition": "Visit the secret room of the Banquet Hall"
+    },
+    "comfy_rave": {
+      "name": "A Comfy Rave",
+      "condition": "See the Cushion Rave event"
     }
   }
 }

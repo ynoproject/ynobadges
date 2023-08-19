@@ -351,7 +351,7 @@
     "hell_teleporters": {
       "name": "Compulsive Sinner",
       "description": "You just keep coming here, sheesh!",
-      "condition": "Access Hell from Face Carpet Plaza, The Neon Tile Path, The Checkered Tile Path and The Footprint Path"
+      "condition": "Access Hell from Face Carpet Plaza, Neon Tile Path, Checkered Tile Path and Footprint Path"
     },
     "train_cattention": {
       "name": "Ailurophobia",
@@ -853,7 +853,7 @@
     },
     "opal_archives": {
       "name": "辉光学院",
-      "condition": "拜访浮游书库"
+      "condition": "Trigger the ballroom dance event in Opal Archives"
     },
     "unamused": {
       "name": "不爽",
@@ -2546,7 +2546,7 @@
     "mask_collection": {
       "name": "Expert of Disguise",
       "description": "Who will you be today?",
-      "condition": "Unlock and view every non-effect mask in one of the Mask Shops (outside of Twintail Girl and Ahogeko)"
+      "condition": "Unlock and view every non-effect mask in one of the Mask Shops (outside of Twintail Girl, Ahogeko, Shadow Mold, Kīgāru, White Mouse, Black Mouse, Takoyaki Creature and Traffic Cone)"
     },
     "retro_cartridge_game": {
       "name": "Like it's 1977!",
@@ -2596,6 +2596,26 @@
       "name": "Nose Drinker",
       "description": "You used to call me on my smell phone...",
       "condition": "Visit the nose drinker in Wooded Lakeside A"
+    },
+    "bar_aqua_cave": {
+      "name": "Aqua Barkeep",
+      "description": "\"What'll it be?\"",
+      "condition": "Enter the Bar in Aquamarine Cave"
+    },
+    "cyclops_dreamers": {
+      "name": "Sleepyheads",
+      "description": "...Wait, do dreams have dreams?",
+      "condition": "See the two sleeping creatures in the Ghostly Inn"
+    },
+    "deserted_center": {
+      "name": "Expired Bottle",
+      "description": "Left to rot in a decaying structure.",
+      "condition": "Visit the Deserted Center"
+    },
+    "dripping_ceiling": {
+      "name": "Drip Drip... Drip Drip Plop",
+      "description": "\"Where's that dripping coming from?\"",
+      "condition": "See the hanging creature in Marshmallow Shallows"
     }
   },
   "flow": {
@@ -3238,20 +3258,15 @@
       "description": "Try and collect them all!",
       "condition": "Find all of the toys in Fast Food World and unlock the Shoe Rack"
     },
-    "chicken_revenge": {
-      "name": "Cluck cluck",
-      "description": "Yolk’s on you!",
-      "condition": "Trigger the Chicken Revenge event with the Mad Key"
+    "roadside_diner": {
+      "name": "Roadside Diner",
+      "description": "It's never been open.",
+      "condition": "Visit the Rainy Street in Pink Desert"
     },
-    "believer_key": {
-      "name": "Open your Mind",
-      "description": "You are stronger than you know.",
-      "condition": "Equip the Believer Key in the Believer's Temple"
-    },
-    "choco_lot": {
-      "name": "I Love it a Choco-lot",
-      "description": "Wake me up, before you cocoa",
-      "condition": "Get chocolate in Sequoia Lucky Forest"
+    "totsu_x_ray": {
+      "name": "Roentgen",
+      "description": "Anything can be seen.",
+      "condition": "Take X-rays in the Kaomoji Mall"
     }
   },
   "braingirl": {
@@ -3393,6 +3408,21 @@
     "distant_lights": {
       "name": "Beyond the Sea",
       "condition": "Reach and view the Distant Lights."
+    },
+    "chicken_revenge": {
+      "name": "Cluck cluck",
+      "description": "Yolk’s on you!",
+      "condition": "Trigger the Chicken Revenge event with the Mad Key"
+    },
+    "believer_key": {
+      "name": "Open your Mind",
+      "description": "You are stronger than you know.",
+      "condition": "Equip the Believer Key in the Believer's Temple"
+    },
+    "choco_lot": {
+      "name": "I Love it a Choco-lot",
+      "description": "Wake me up, before you cocoa",
+      "condition": "Get chocolate in Sequoia Lucky Forest"
     },
     "blanche_revenge": {
       "name": "DIE!!!",
@@ -3673,6 +3703,11 @@
       "name": "Solitary Purgatory",
       "description": "A special attraction only for you",
       "condition": "Sit on one of the swings in Hellish Park"
+    },
+    "old_dream_dragon": {
+      "name": "Dream Dragon",
+      "description": "Life, old age and death, this is a person's life.",
+      "condition": "Enter Chamber of a Life Cycle"
     }
   },
   "mikan": {
@@ -3905,6 +3940,10 @@
       "name": "Judging Eyes",
       "description": "You shouldn't have broken the violin...",
       "condition": "Visit the secret room of the Banquet Hall"
+    },
+    "comfy_rave": {
+      "name": "A Comfy Rave",
+      "condition": "See the Cushion Rave event"
     }
   }
 }
