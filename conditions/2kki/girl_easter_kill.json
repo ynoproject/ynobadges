@@ -1,12 +1,16 @@
 {
   "map": 1445,
+  "mapX1": 305,
+  "mapY1": 432,
+  "mapX2": 305,
+  "mapY2": 432,
   "varIds": [
     4795,
     4786,
     4788
   ],
   "varValues": [
-    -10,
+    10,
     297,
     474
   ],
@@ -16,6 +20,6 @@
     "="
   ],
   "varDelay": true,
-  "trigger": "eventAction",
+  "trigger": "coords",
   "value": "1953"
 }
