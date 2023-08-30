@@ -368,9 +368,9 @@
       "condition": "Provoquer la foudre en utilisant l'effet Oni dans les Dense Woods A"
     },
     "ghostly_assembly": {
-      "name": "Ghostly Assembly",
-      "description": "Three of a kind.",
-      "condition": "Interact with Nopperabou Ghost and Fleebie while using the Spirit Headband effect and stab Follony with the Kitchen Knife effect"
+      "name": "Assemblée fantomatique",
+      "description": "Trois âmes errantes dans un monde infini.",
+      "condition": "Interagir avec le Fantôme Nopperabou et Fleebie en utilisant l'effet Bandeau spirituel et poignarder Follony avec l'effet Couteau"
     }
   },
   "2kki": {
@@ -877,7 +877,7 @@
     "dream_fishing": {
       "name": "Prise onirique",
       "description": "Celui-là a l'air spécial",
-      "condition": "Visiter l'Ocean Subsurface, le Rotten Fish Lake, le Fish World, le Tuna Desert et le Sushi World"
+      "condition": "Visiter l'Ocean Subsurface, le Rotten Fish Lake, le Fish World, le Tuna Desert, le Sushi World, le Flying Fish World, les Lamplit Stones, les Streetlight Docks, les Depths et les Bioluminescent Caverns"
     },
     "decrepit_smile": {
       "name": "Sourire délabré",
@@ -2623,29 +2623,48 @@
       "condition": "Voir la créature accrochée au plafond dans les Marshmallow Shallows"
     },
     "suspicious_sign": {
-      "name": "Suspicious Looking Sign",
-      "description": "\"These signs aren't stopping me!\"",
-      "condition": "Kick the unusual-looking construction sign in Overgrown Condominium"
+      "name": "Panneau suspect",
+      "description": "« Ces panneaux ne m'arrêteront pas ! »",
+      "condition": "Frapper le panneau de construction inhabituel dans l'Overgrown Condominium"
     },
     "depths_gorge": {
-      "name": "Depths Gorge",
-      "description": "Drown in the Depths. Or rise",
-      "condition": "See the entrance to Depths in Square Ruins"
+      "name": "Gorge des Depths",
+      "description": "Noie-toi dans les Depths. Ou élève-toi...",
+      "condition": "Voir l'entrée menant aux Depths dans les Square Ruins"
     },
     "evil_quatuor": {
-      "name": "Evil Laughs from Innocent Girls",
-      "description": "Some girls just wanna have fun",
-      "condition": "Kill each of Holiday Hell Girls"
+      "name": "Rires machiavéliques d'innocentes filles",
+      "description": "Certaines filles veulent juste s'amuser",
+      "condition": "Tuer chacune des Filles de l'Holiday Hell"
     },
     "never_ending_roadway": {
-      "name": "Never-ending Roadway",
-      "description": "It's a long way road...",
-      "condition": "Visit the infinite roadway subarea in Worksite"
+      "name": "Chaussée sans fin",
+      "description": "C'est un très longue route...",
+      "condition": "Visiter la sous-zone de chaussée sans fin dans Worksite"
     },
     "hudson_ceiling": {
-      "name": "Hudson in the Ceiling",
-      "description": "...Shall we play tag?",
-      "condition": "End up trapped in the Crazed Faces Maze and wake up Hudson near the lava river"
+      "name": "Hudson du plafond",
+      "description": "...Tu veux jouer à chat ?",
+      "condition": "Se faire piéger dans le Crazed Faces Maze et réveiller Hudson à proximité de la rivière de lave"
+    },
+    "spacecraft_visine": {
+      "name": "Champs étoilés cosmiques",
+      "description": "Nous ne sommes pas seuls après tout.",
+      "condition": "Visiter les quatre champs étoilés dans Visine Spacecraft"
+    },
+    "wardrobe_face": {
+      "name": "Derrière le masque",
+      "description": "La curiosité est un vilain défaut, j'espère que tu en retiendras la leçon...",
+      "condition": "Déclencher l'événement du Visage de la Penderie dans les Board Game Islands"
+    },
+    "olhuda_dream_pool": {
+      "name": "Olhuda",
+      "description": "Est-ce que tu vas libérer le passage ou vas-tu juste continuer de me dévisager ?",
+      "condition": "Tuer Aiko dans la Dream Pool"
+    },
+    "oriental_lake": {
+      "name": "Monument lacustre",
+      "condition": "Entrer dans l'Oriental Lake"
     }
   },
   "flow": {
@@ -3006,9 +3025,13 @@
       "condition": "Visiter la salle avec l'arbre aux fleurs roses dans l'Ashy Desert"
     },
     "subaquatic_creature": {
-      "name": "Otherworldly Subaquatic Creatures",
-      "description": "We will need to study these creatures!",
-      "condition": "In Alien Ocean, reach the spot with the big fish"
+      "name": "Créatures subaquatiques d'un autre monde",
+      "description": "Nous devrions en profiter pour étudier ces créatures !",
+      "condition": "Dans l'Alien Ocean, atteindre l'emplacement du gros poisson"
+    },
+    "ufo_watching": {
+      "name": "Regard vers le ciel",
+      "condition": "Partir à l'observation d'OVNIs dans les Apartments"
     }
   },
   "someday": {
@@ -3472,6 +3495,11 @@
       "name": "Jamais seule !",
       "description": "Tu ne peux pas être seule si tu t'accompagnes toujours !",
       "condition": "Acheter une deuxième tête dans la boutique d'organes"
+    },
+    "smuggler_bustin": {
+      "name": "Mix de Jamrock",
+      "description": "Eeeettttt... voici une jeunette s'éclatant à la manière des contrebandiers ! Saura-t-elle mettre le feu à la salle ?",
+      "condition": "Danser sur le tapis de danse du Smugglers' Hideout"
     }
   },
   "muma": {
@@ -3605,6 +3633,11 @@
     "faraway_place_return": {
       "name": "Lieu familier",
       "condition": "Utiliser la porte menant à la Salle des Souvenirs de la Faraway Place"
+    },
+    "glitch_area_proj": {
+      "name": "ERREUR 404",
+      "description": "Votre ordinateur doit redémarrer, veuillez maintenir Maj pour retourner",
+      "condition": "Aller à Glitch"
     }
   },
   "genie": {
@@ -3748,6 +3781,10 @@
       "name": "Dragon onirique",
       "description": "Vie, vieillesse et mort. Ceci est la vie d'une personne.",
       "condition": "Entrer dans Chamber of a Life Cycle"
+    },
+    "smiling_stranger": {
+      "name": "Bonjour :)",
+      "condition": "Trouver l'alien souriant caché dans la Space Station"
     }
   },
   "mikan": {
