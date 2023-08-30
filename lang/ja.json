@@ -877,7 +877,7 @@
     "dream_fishing": {
       "name": "ゆめつっり",
       "description": "魚祭り",
-      "condition": "地下の海、骨魚、ぶりぶり、鯖砂漠、サケに到達する"
+      "condition": "Visit Ocean Subsurface, Rotten Fish Lake, Fish World, Tuna Desert, Sushi World, Flying Fish World, Lamplit Stones, Streetlight Docks, Depths, and Bioluminescent Caverns"
     },
     "decrepit_smile": {
       "name": "魔女の微笑み",
@@ -2645,6 +2645,25 @@
       "name": "Hudson in the Ceiling",
       "description": "...おいかけっこでもする？",
       "condition": "顔迷路のトラップにかかり、溶岩の川にいる生物を目覚めさせる"
+    },
+    "spacecraft_visine": {
+      "name": "Starfields of Visine",
+      "description": "We aren't alone after all.",
+      "condition": "Visit all four colored starfields in Visine Spacecraft"
+    },
+    "wardrobe_face": {
+      "name": "Behind the Mask",
+      "description": "Knowing Every Particular Object",
+      "condition": "Trigger the Wardrobe Face Event in Board Game Islands"
+    },
+    "olhuda_dream_pool": {
+      "name": "Olhuda",
+      "description": "Are you going to move out of the way or are you going to stare at me?",
+      "condition": "Kill Aiko in the Dream Pool"
+    },
+    "oriental_lake": {
+      "name": "Lakeside Monument",
+      "condition": "Enter Oriental Lake"
     }
   },
   "flow": {
@@ -3008,6 +3027,10 @@
       "name": "Otherworldly Subaquatic Creatures",
       "description": "We will need to study these creatures!",
       "condition": "In Alien Ocean, reach the spot with the big fish"
+    },
+    "ufo_watching": {
+      "name": "Sky Watching",
+      "condition": "Go UFO-watching in the Apartments"
     }
   },
   "someday": {
@@ -3471,6 +3494,11 @@
       "name": "ひとりぼっちじゃない！",
       "description": "いつも自分と一緒なら、一人になることはない！",
       "condition": "Organ Storeで二つ目の頭を買う"
+    },
+    "smuggler_bustin": {
+      "name": "Jamrock Shuffle",
+      "description": "French girl bustin' it down smuggler style. Is she goated with the sauce?",
+      "condition": "Dance on the dance floor in Smugglers' Hideout"
     }
   },
   "muma": {
@@ -3604,6 +3632,11 @@
     "faraway_place_return": {
       "name": "見慣れた場所",
       "condition": "Faraway PlaceからMemory Roomへ行くドアに入る"
+    },
+    "glitch_area_proj": {
+      "name": "ERROR404",
+      "description": "Your pc needs to restart; please hold shift to return.",
+      "condition": "Go to Glitch"
     }
   },
   "genie": {
@@ -3747,6 +3780,10 @@
       "name": "夢見ドラゴン",
       "description": "Life, old age and death, this is a person's life.",
       "condition": "Chamber of a Life Cycleに到達する"
+    },
+    "smiling_stranger": {
+      "name": "Hello There :)",
+      "condition": "Find the smiling alien hidden in the Space Station"
     }
   },
   "mikan": {
