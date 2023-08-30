@@ -366,6 +366,11 @@
       "name": "비야 비야 오지 마",
       "description": "다른 날 다시 오렴!",
       "condition": "수해 A(Dense Woods A)에서 도깨비 이펙트를 사용하여 천둥번개를 치게 하기"
+    },
+    "ghostly_assembly": {
+      "name": "Ghostly Assembly",
+      "description": "Three of a kind.",
+      "condition": "Interact with Nopperabou Ghost and Fleebie while using the Spirit Headband effect and stab Follony with the Kitchen Knife effect"
     }
   },
   "2kki": {
@@ -872,7 +877,7 @@
     "dream_fishing": {
       "name": "꿈낚시",
       "description": "이건 좀 독특하게 생겼네",
-      "condition": "Ocean Subsurface, Rotten Fish Lake, Fish World, Tuna Desert, Sushi World를 방문하기"
+      "condition": "Ocean Subsurface, Rotten Fish Lake, Fish World, Tuna Desert, Sushi World, Flying Fish World, Lamplit Stones, Streetlight Docks, Depths, Bioluminescent Caverns를 방문하기"
     },
     "decrepit_smile": {
       "name": "망가진 미소",
@@ -2092,7 +2097,7 @@
       "condition": "Dark Cheese Hell에서 케이크 혹은 요정 이펙트를 사용하여 치즈 거미에게 붙잡히기"
     },
     "march_of_progress": {
-      "name": "진보의 얼굴굴",
+      "name": "진보의 얼굴",
       "description": "인간성을 거부하라, 원숭이로 돌아가라",
       "condition": "March of Progress 이벤트를 경험하기"
     },
@@ -2177,7 +2182,7 @@
       "condition": "Bleak Future의 방에서 회색 후드 소년을 만나기"
     },
     "digital_heart_space": {
-      "name": "서리조각각 육면체",
+      "name": "서리조각 육면체",
       "condition": "Digital Heart Space에 입장하기"
     },
     "angel_starfield_garden": {
@@ -2195,7 +2200,7 @@
       "condition": "Elvis Masada's Place에서 Duet with Elvis Masada 이벤트를 보기"
     },
     "sibling_forever": {
-      "name": "영원한 형제제자매",
+      "name": "영원한 형제자매",
       "description": "우리는 영원히 함께할 거야.",
       "condition": "Blue Restaurant의 #3 방에 입장하기"
     },
@@ -2386,9 +2391,9 @@
       "condition": "Dark Nexus, Second Nexus, Mini Nexus를 방문하기"
     },
     "spacesthetic": {
-      "name": "Aesthetics in Space",
-      "description": "\"~Do you understand? It's all in your hands~\"",
-      "condition": "View the Vaporwave Event in Virtual City while using the Spacesuit effect"
+      "name": "우주 속의 미학",
+      "description": "\"~이해했어? 전부 네 손에 달려있는 거야~\"",
+      "condition": "Virtual City에서 우주복 이펙트를 장착한 채로 Vaporwave 이벤트를 감상하기"
     },
     "red_wilds_sandstorm": {
       "name": "Sandstorm!",
@@ -2616,6 +2621,50 @@
       "name": "Drip Drip... Drip Drip Plop",
       "description": "\"Where's that dripping coming from?\"",
       "condition": "See the hanging creature in Marshmallow Shallows"
+    },
+    "suspicious_sign": {
+      "name": "Suspicious Looking Sign",
+      "description": "\"These signs aren't stopping me!\"",
+      "condition": "Kick the unusual-looking construction sign in Overgrown Condominium"
+    },
+    "depths_gorge": {
+      "name": "Depths Gorge",
+      "description": "Drown in the Depths. Or rise",
+      "condition": "See the entrance to Depths in Square Ruins"
+    },
+    "evil_quatuor": {
+      "name": "Evil Laughs from Innocent Girls",
+      "description": "Some girls just wanna have fun",
+      "condition": "Kill each of Holiday Hell Girls"
+    },
+    "never_ending_roadway": {
+      "name": "Never-ending Roadway",
+      "description": "It's a long way road...",
+      "condition": "Visit the infinite roadway subarea in Worksite"
+    },
+    "hudson_ceiling": {
+      "name": "Hudson in the Ceiling",
+      "description": "...Shall we play tag?",
+      "condition": "End up trapped in the Crazed Faces Maze and wake up Hudson near the lava river"
+    },
+    "spacecraft_visine": {
+      "name": "Starfields of Visine",
+      "description": "We aren't alone after all.",
+      "condition": "Visit all four colored starfields in Visine Spacecraft"
+    },
+    "wardrobe_face": {
+      "name": "Behind the Mask",
+      "description": "Knowing Every Particular Object",
+      "condition": "Trigger the Wardrobe Face Event in Board Game Islands"
+    },
+    "olhuda_dream_pool": {
+      "name": "Olhuda",
+      "description": "Are you going to move out of the way or are you going to stare at me?",
+      "condition": "Kill Aiko in the Dream Pool"
+    },
+    "oriental_lake": {
+      "name": "Lakeside Monument",
+      "condition": "Enter Oriental Lake"
     }
   },
   "flow": {
@@ -2974,6 +3023,15 @@
       "name": "무성하게 피어나다",
       "description": "차디찬 겨울이 가면 마침내 봄이 눈을 뜨기 시작한다",
       "condition": "재의 사막에서 분홍빛 꽃이 핀 나무가 있는 방을 방문하기"
+    },
+    "subaquatic_creature": {
+      "name": "Otherworldly Subaquatic Creatures",
+      "description": "We will need to study these creatures!",
+      "condition": "In Alien Ocean, reach the spot with the big fish"
+    },
+    "ufo_watching": {
+      "name": "Sky Watching",
+      "condition": "Go UFO-watching in the Apartments"
     }
   },
   "someday": {
@@ -3267,6 +3325,11 @@
       "name": "Roentgen",
       "description": "Anything can be seen.",
       "condition": "Take X-rays in the Kaomoji Mall"
+    },
+    "enamored_yellow": {
+      "name": "Enamored",
+      "description": "Even beyond the sky and stars, love persists.",
+      "condition": "See the embracing figures beyond the Bumblebee Lounge's balcony"
     }
   },
   "braingirl": {
@@ -3432,6 +3495,11 @@
       "name": "Never Alone!",
       "description": "Can't be alone if you're always with yourself!",
       "condition": "Purchase a second head in the Organ Store"
+    },
+    "smuggler_bustin": {
+      "name": "Jamrock Shuffle",
+      "description": "French girl bustin' it down smuggler style. Is she goated with the sauce?",
+      "condition": "Dance on the dance floor in Smugglers' Hideout"
     }
   },
   "muma": {
@@ -3565,6 +3633,11 @@
     "faraway_place_return": {
       "name": "익숙한 장소",
       "condition": "Faraway Place에서 Memory Room에 입장하기"
+    },
+    "glitch_area_proj": {
+      "name": "ERROR404",
+      "description": "Your pc needs to restart; please hold shift to return.",
+      "condition": "Go to Glitch"
     }
   },
   "genie": {
@@ -3708,6 +3781,10 @@
       "name": "Dream Dragon",
       "description": "Life, old age and death, this is a person's life.",
       "condition": "Enter Chamber of a Life Cycle"
+    },
+    "smiling_stranger": {
+      "name": "Hello There :)",
+      "condition": "Find the smiling alien hidden in the Space Station"
     }
   },
   "mikan": {
