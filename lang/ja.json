@@ -368,9 +368,9 @@
       "condition": "道路沿いの樹海でおにをつかって雷を落とす"
     },
     "ghostly_assembly": {
-      "name": "Ghostly Assembly",
-      "description": "Three of a kind.",
-      "condition": "Interact with Nopperabou Ghost and Fleebie while using the Spirit Headband effect and stab Follony with the Kitchen Knife effect"
+      "name": "幽霊集会",
+      "description": "スリーカード",
+      "condition": "のっぺら幽霊、赤幽霊に△ずきんを使った状態で話しかけ、青幽霊をほうちょうで刺す"
     }
   },
   "2kki": {
@@ -877,7 +877,7 @@
     "dream_fishing": {
       "name": "ゆめつっり",
       "description": "魚祭り",
-      "condition": "地下の海、骨魚、ぶりぶり、鯖砂漠、サケに到達する"
+      "condition": "Visit Ocean Subsurface, Rotten Fish Lake, Fish World, Tuna Desert, Sushi World, Flying Fish World, Lamplit Stones, Streetlight Docks, Depths, and Bioluminescent Caverns"
     },
     "decrepit_smile": {
       "name": "魔女の微笑み",
@@ -2622,29 +2622,48 @@
       "description": "「どこから垂れてるんだ？」"
     },
     "suspicious_sign": {
-      "name": "Suspicious Looking Sign",
-      "description": "\"These signs aren't stopping me!\"",
-      "condition": "Kick the unusual-looking construction sign in Overgrown Condominium"
+      "name": "怪しげな看板",
+      "description": "「この看板は私を止めない！」",
+      "condition": "繫栄巣の変わった工事中看板を蹴る"
     },
     "depths_gorge": {
-      "name": "Depths Gorge",
-      "description": "Drown in the Depths. Or rise",
-      "condition": "See the entrance to Depths in Square Ruins"
+      "name": "深淵への峡谷",
+      "description": "深淵へと溺れるか、浮かび上がるか",
+      "condition": "石の遺跡のみなぞこへの入口を見る"
     },
     "evil_quatuor": {
-      "name": "Evil Laughs from Innocent Girls",
-      "description": "Some girls just wanna have fun",
-      "condition": "Kill each of Holiday Hell Girls"
+      "name": "無垢な少女たちの邪悪な笑い",
+      "description": "楽しみたいだけの少女たち",
+      "condition": "雪恋墓卵の少女たちをそれぞれ殺す"
     },
     "never_ending_roadway": {
-      "name": "Never-ending Roadway",
-      "description": "It's a long way road...",
-      "condition": "Visit the infinite roadway subarea in Worksite"
+      "name": "無限道路",
+      "description": "長い道のりだ...",
+      "condition": "現場道路の無限に道路が続くエリアに行く"
     },
     "hudson_ceiling": {
       "name": "Hudson in the Ceiling",
       "description": "...おいかけっこでもする？",
-      "condition": "顔迷路のトラップにかかり、溶岩の川にいる生物を目覚めさせる"
+      "condition": "顔迷路のトラップにかかり、熔岩湖にいる生物を目覚めさせる"
+    },
+    "spacecraft_visine": {
+      "name": "Starfields of Visine",
+      "description": "We aren't alone after all.",
+      "condition": "Visit all four colored starfields in Visine Spacecraft"
+    },
+    "wardrobe_face": {
+      "name": "Behind the Mask",
+      "description": "Knowing Every Particular Object",
+      "condition": "Trigger the Wardrobe Face Event in Board Game Islands"
+    },
+    "olhuda_dream_pool": {
+      "name": "Olhuda",
+      "description": "Are you going to move out of the way or are you going to stare at me?",
+      "condition": "Kill Aiko in the Dream Pool"
+    },
+    "oriental_lake": {
+      "name": "Lakeside Monument",
+      "condition": "Enter Oriental Lake"
     }
   },
   "flow": {
@@ -3005,9 +3024,13 @@
       "condition": "Ashy Desertの桜の木がある部屋に到達する"
     },
     "subaquatic_creature": {
-      "name": "Otherworldly Subaquatic Creatures",
-      "description": "We will need to study these creatures!",
-      "condition": "In Alien Ocean, reach the spot with the big fish"
+      "name": "異世界の水中生物たち",
+      "description": "これらの生物について研究しなくてはならない！",
+      "condition": "Alien Oceanの、大きな魚がいる場所に到達する"
+    },
+    "ufo_watching": {
+      "name": "Sky Watching",
+      "condition": "Go UFO-watching in the Apartments"
     }
   },
   "someday": {
@@ -3303,9 +3326,9 @@
       "condition": "Kaomoji Mallでレントゲンを撮る"
     },
     "enamored_yellow": {
-      "name": "Enamored",
-      "description": "Even beyond the sky and stars, love persists.",
-      "condition": "See the embracing figures beyond the Bumblebee Lounge's balcony"
+      "name": "ムチュウ",
+      "description": "空や星を越えても、愛は続く",
+      "condition": "Bumblebee Loungeのバルコニーの向こうで抱き合う人影を見る"
     }
   },
   "braingirl": {
@@ -3471,6 +3494,11 @@
       "name": "ひとりぼっちじゃない！",
       "description": "いつも自分と一緒なら、一人になることはない！",
       "condition": "Organ Storeで二つ目の頭を買う"
+    },
+    "smuggler_bustin": {
+      "name": "Jamrock Shuffle",
+      "description": "French girl bustin' it down smuggler style. Is she goated with the sauce?",
+      "condition": "Dance on the dance floor in Smugglers' Hideout"
     }
   },
   "muma": {
@@ -3604,6 +3632,11 @@
     "faraway_place_return": {
       "name": "見慣れた場所",
       "condition": "Faraway PlaceからMemory Roomへ行くドアに入る"
+    },
+    "glitch_area_proj": {
+      "name": "ERROR404",
+      "description": "Your pc needs to restart; please hold shift to return.",
+      "condition": "Go to Glitch"
     }
   },
   "genie": {
@@ -3747,6 +3780,10 @@
       "name": "夢見ドラゴン",
       "description": "Life, old age and death, this is a person's life.",
       "condition": "Chamber of a Life Cycleに到達する"
+    },
+    "smiling_stranger": {
+      "name": "Hello There :)",
+      "condition": "Find the smiling alien hidden in the Space Station"
     }
   },
   "mikan": {

@@ -877,7 +877,7 @@
     "dream_fishing": {
       "name": "Рыбалка во сне",
       "description": "Это выглядит необычно.",
-      "condition": "Посетите Ocean Subsurface, Rotten Fish Lake, Fish World, Tuna Desert и Sushi World."
+      "condition": "Посетите Ocean Subsurface, Rotten Fish Lake, Fish World, Tuna Desert, Sushi World, Flying Fish World, Lamplit Stones, Streetlight Docks, Depths и Bioluminescent Caverns."
     },
     "decrepit_smile": {
       "name": "Вялая улыбка",
@@ -2646,6 +2646,25 @@
       "name": "Hudson in the Ceiling",
       "description": "...Shall we play tag?",
       "condition": "End up trapped in the Crazed Faces Maze and wake up Hudson near the lava river"
+    },
+    "spacecraft_visine": {
+      "name": "Starfields of Visine",
+      "description": "We aren't alone after all.",
+      "condition": "Visit all four colored starfields in Visine Spacecraft"
+    },
+    "wardrobe_face": {
+      "name": "Behind the Mask",
+      "description": "Knowing Every Particular Object",
+      "condition": "Trigger the Wardrobe Face Event in Board Game Islands"
+    },
+    "olhuda_dream_pool": {
+      "name": "Olhuda",
+      "description": "Are you going to move out of the way or are you going to stare at me?",
+      "condition": "Kill Aiko in the Dream Pool"
+    },
+    "oriental_lake": {
+      "name": "Lakeside Monument",
+      "condition": "Enter Oriental Lake"
     }
   },
   "flow": {
@@ -3009,6 +3028,10 @@
       "name": "Otherworldly Subaquatic Creatures",
       "description": "We will need to study these creatures!",
       "condition": "In Alien Ocean, reach the spot with the big fish"
+    },
+    "ufo_watching": {
+      "name": "Sky Watching",
+      "condition": "Go UFO-watching in the Apartments"
     }
   },
   "someday": {
@@ -3472,6 +3495,11 @@
       "name": "Never Alone!",
       "description": "Can't be alone if you're always with yourself!",
       "condition": "Purchase a second head in the Organ Store"
+    },
+    "smuggler_bustin": {
+      "name": "Jamrock Shuffle",
+      "description": "French girl bustin' it down smuggler style. Is she goated with the sauce?",
+      "condition": "Dance on the dance floor in Smugglers' Hideout"
     }
   },
   "muma": {
@@ -3605,6 +3633,11 @@
     "faraway_place_return": {
       "name": "Familiar Place",
       "condition": "Enter the Memory Room door in Faraway Place"
+    },
+    "glitch_area_proj": {
+      "name": "ERROR404",
+      "description": "Your pc needs to restart; please hold shift to return.",
+      "condition": "Go to Glitch"
     }
   },
   "genie": {
@@ -3748,6 +3781,10 @@
       "name": "Dream Dragon",
       "description": "Life, old age and death, this is a person's life.",
       "condition": "Enter Chamber of a Life Cycle"
+    },
+    "smiling_stranger": {
+      "name": "Hello There :)",
+      "condition": "Find the smiling alien hidden in the Space Station"
     }
   },
   "mikan": {
