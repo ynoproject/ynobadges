@@ -371,6 +371,10 @@
       "name": "유령 집회",
       "description": "쓰리 오브 어 카인드(Three of a Kind)",
       "condition": "삼각 두건 이펙트를 착용한 채로 달걀 귀신 유령(Nopperabou ghost), 빨간 유령(Fleebie)과 상호작용하고 식칼 이펙트로 파란 유령(Follony)을 찌르기"
+    },
+    "wilderness_fan": {
+      "name": "Desert Explorer",
+      "condition": "Visit every area in the Wilderness"
     }
   },
   "2kki": {
@@ -2665,6 +2669,38 @@
     "oriental_lake": {
       "name": "Lakeside Monument",
       "condition": "Enter Oriental Lake"
+    },
+    "manekineko": {
+      "name": "~Maneko~",
+      "condition": "Find the Maneki-neko in Basement of Oddities"
+    },
+    "his_house_creature": {
+      "name": "Party's Over",
+      "description": "Well, that really killed the mood.",
+      "condition": "Interact with the bluish-grey creature in His House in the Lost Forest"
+    },
+    "purple_jelly": {
+      "name": "Purple Jelly",
+      "condition": "Encounter the purple gelatinous creature in the Purple Forest Path of Sculpture Park"
+    },
+    "building_love": {
+      "name": "Building a Bond",
+      "description": "Loving you brick by brick 💕",
+      "condition": "View the hugging buildings in the Purple Forest Path of Sculpture Park"
+    },
+    "marshmallow_shallows": {
+      "name": "Sweet Dream",
+      "description": "MY EYES!!!",
+      "condition": "Visit Marshmallow Shallows"
+    },
+    "abandoned_swan": {
+      "name": "Swans",
+      "condition": "Make it to the Lower Apartments of the Abandoned Apartments"
+    },
+    "sculpture_rage": {
+      "name": "Sculpture Rage",
+      "description": "Don't make trouble for no reason",
+      "condition": "Use the Drum or Telephone effect to provoke the chaser sculptures and get caught"
     }
   },
   "flow": {
@@ -2794,11 +2830,11 @@
       "condition": "발자국 통로에서 카이부츠에게 잡혀 이동되는 고립된 장소에서 큐브를 활성화하기"
     },
     "flower_world_flow": {
-     "name": "개화",
+      "name": "개화",
       "condition": "꽃의 세계를 방문하기"
     },
     "tabiki_san": {
-       "name": "모닥불",
+      "name": "모닥불",
       "description": "이런... 따뜻했었는데...",
       "condition": "물뿌리개 이펙트를 사용하여 타비키 씨(Tabiki-san)의 모닥불을 꺼트리기"
     },
@@ -3030,7 +3066,7 @@
       "condition": "외계의 해양에서 큰 물고기가 위치한 장소에 도달하기"
     },
     "ufo_watching": {
-       "name": "하늘 관찰",
+      "name": "하늘 관찰",
       "condition": "아파트에서 UFO를 볼 수 있는 장소로 가기"
     }
   },
@@ -3635,7 +3671,7 @@
       "condition": "Faraway Place에서 Memory Room에 입장하기"
     },
     "glitch_area_proj": {
-       "name": "404 오류",
+      "name": "404 오류",
       "description": "PC를 재시작해야 합니다. 돌아가기 위해 Shift 키를 길게 누르세요.",
       "condition": "Glitch에 도달하기"
     }
