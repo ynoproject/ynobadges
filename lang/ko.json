@@ -2422,30 +2422,30 @@
       "condition": "Port City의 Kokeshi Room에서 마이코 이펙트를 사용하기"
     },
     "staring_contest": {
-      "name": "Staring Contest",
-      "condition": "Interact with the cyclops NPCs in the following locations: Petal Hotel, Dream Pool, Silent Sewers, Teddy Bear Land, Red Streetlight World, Acerola World, Mini-Maze"
+      "name": "눈싸움",
+      "condition": "다음의 장소들에서 외눈박이 NPC와 상호작용하기: Petal Hotel, Dream Pool, Silent Sewers, Teddy Bear Land, Red Streetlight World, Acerola World, Mini-Maze"
     },
     "party_colored": {
-      "name": "Party-colored",
-      "condition": "Interact with the music playing NPC in the Party Room of the Neon Suburbs"
+      "name": "축제의 빛깔",
+      "condition": "Neon Suburbs의 Party Room에서 음악을 틀고 있는 NPC와 상호작용하기"
     },
     "pale_luminescence": {
-      "name": "Pale Luminescence",
-      "description": "A serene stony area that lies a hanging, illuminating chandelier with vibrant stained windows.",
-      "condition": "Visit the Marble Room in the Marble Ruins"
+      "name": "창백하고 차가운 빛",
+      "description": "선명한 스테인드글라스 창과 빛나는 샹들리에가 걸린, 고요하고 차가운 장소",
+      "condition": "Marble Ruins의 Marble Room에 방문하기"
     },
     "twilit_savanna": {
-      "name": "Twilit Savanna",
-      "description": "Stars begin to peek through the trees' canopies as twilight falls on the savanna.",
-      "condition": "Reach the Sunset Savanna sub-area in Gemstone Cave"
+      "name": "황혼의 대초원",
+      "description": "황혼이 드넓은 초원을 뒤덮자 별들이 나무 사이로 눈을 빛내기 시작했다.",
+      "condition": "Gemstone Cave의 Sunset Savanna 서브 구역에 도달하기"
     },
     "restrained_love": {
-      "name": "Restrained Love",
-      "condition": "Visit the downstairs part of Lonely Home"
+      "name": "구속된 사랑",
+      "condition": "Lonely Home의 아래층을 방문하기"
     },
     "alice_dreamland": {
-      "name": "Alice in Dreamland",
-      "condition": "Equip the Red Riding Hood effect in the room with the candle girl in Snowy Village"
+      "name": "꿈나라의 앨리스",
+      "condition": "Snowy Village의 candle girl이 있는 방에서 빨간 망토 이펙트를 장착하기"
     },
     "azure_flowers": {
       "name": "Azure Flowers",
@@ -2739,6 +2739,31 @@
       "name": "Mysterious Beauty",
       "description": "Don't run too fast or you might end up drowning yourself.",
       "condition": "See the Shimako's Deluge event in the Wooded Lakeside B"
+    },
+    "blob_scared": {
+      "name": "EEEEEK!!!",
+      "description": "Got you good.",
+      "condition": "Scare off the while blob creature by using the Marginal effect"
+    },
+    "eyeberry_orchard": {
+      "name": "Cyan Orchard",
+      "description": "Do you feel watched?",
+      "condition": "Visit Eyeberry Orchard"
+    },
+    "moonlit_street": {
+      "name": "Lavender Moon",
+      "description": "The full moon is nice, isn’t it?",
+      "condition": "Visit Moonlit Street"
+    },
+    "tv_primary_estate": {
+      "name": "Primary Colors",
+      "description": "Pretty colors...",
+      "condition": "Interact with the TV in Primary Estate to alter the area"
+    },
+    "welcome_home": {
+      "name": "Welcome Home :)",
+      "description": "This feels nostalgic...",
+      "condition": "Interact with the TV in Primary Estate by using the Glasses effect"
     }
   },
   "flow": {
@@ -3859,6 +3884,11 @@
     "smiling_stranger": {
       "name": "Hello There :)",
       "condition": "Find the smiling alien hidden in the Space Station"
+    },
+    "reality_dream_speed": {
+      "name": "At the Speed of Sound",
+      "description": "It's time to turn the music up and start drifting",
+      "condition": "See the event in Reality Dream"
     }
   },
   "mikan": {
@@ -3966,6 +3996,16 @@
     "maid_mansion_sofa": {
       "name": "메이드 맨션",
       "condition": "Maid Mansion에 있는 유일한 소파 위에 앉기"
+    },
+    "cat_archaic": {
+      "name": "Haven of Fluffballs",
+      "description": "A cuddle a day keeps the vet away!",
+      "condition": "Interact with the white cat in Archaic Temple by using the Black Cat effect"
+    },
+    "muzou_sunset": {
+      "name": "Setting Sun",
+      "description": "Taking a moment to appreciate the little things.",
+      "condition": "Watch the sunset in Toxic Sewers"
     }
   },
   "ultraviolet": {
