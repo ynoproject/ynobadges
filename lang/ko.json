@@ -2739,6 +2739,31 @@
       "name": "Mysterious Beauty",
       "description": "Don't run too fast or you might end up drowning yourself.",
       "condition": "See the Shimako's Deluge event in the Wooded Lakeside B"
+    },
+    "blob_scared": {
+      "name": "EEEEEK!!!",
+      "description": "Got you good.",
+      "condition": "Scare off the while blob creature by using the Marginal effect"
+    },
+    "eyeberry_orchard": {
+      "name": "Cyan Orchard",
+      "description": "Do you feel watched?",
+      "condition": "Visit Eyeberry Orchard"
+    },
+    "moonlit_street": {
+      "name": "Lavender Moon",
+      "description": "The full moon is nice, isn’t it?",
+      "condition": "Visit Moonlit Street"
+    },
+    "tv_primary_estate": {
+      "name": "Primary Colors",
+      "description": "Pretty colors...",
+      "condition": "Interact with the TV in Primary Estate to alter the area"
+    },
+    "welcome_home": {
+      "name": "Welcome Home :)",
+      "description": "This feels nostalgic...",
+      "condition": "Interact with the TV in Primary Estate by using the Glasses effect"
     }
   },
   "flow": {
@@ -3859,6 +3884,11 @@
     "smiling_stranger": {
       "name": "Hello There :)",
       "condition": "Find the smiling alien hidden in the Space Station"
+    },
+    "reality_dream_speed": {
+      "name": "At the Speed of Sound",
+      "description": "It's time to turn the music up and start drifting",
+      "condition": "See the event in Reality Dream"
     }
   },
   "mikan": {
@@ -3966,6 +3996,16 @@
     "maid_mansion_sofa": {
       "name": "메이드 맨션",
       "condition": "Maid Mansion에 있는 유일한 소파 위에 앉기"
+    },
+    "cat_archaic": {
+      "name": "Haven of Fluffballs",
+      "description": "A cuddle a day keeps the vet away!",
+      "condition": "Interact with the white cat in Archaic Temple by using the Black Cat effect"
+    },
+    "muzou_sunset": {
+      "name": "Setting Sun",
+      "description": "Taking a moment to appreciate the little things.",
+      "condition": "Watch the sunset in Toxic Sewers"
     }
   },
   "ultraviolet": {

@@ -2739,6 +2739,31 @@
       "name": "Beauté mystérieuse",
       "description": "Ne cours pas trop vite ou tu risquerais de te noyer par ta faute.",
       "condition": "Voir l'événement du Déluge de Shimako dans le Wooded Lakeside B"
+    },
+    "blob_scared": {
+      "name": "EEEEEK !!!",
+      "description": "Je t'ai eu !",
+      "condition": "Effrayer le blob blanc en utilisant l'effet Marginal"
+    },
+    "eyeberry_orchard": {
+      "name": "Verger cyan",
+      "description": "Te sens-tu épiée ?",
+      "condition": "Visit Eyeberry Orchard"
+    },
+    "moonlit_street": {
+      "name": "Lune lavende",
+      "description": "La pleine lune est belle, n'est-ce pas ?",
+      "condition": "Visiter Moonlit Street"
+    },
+    "tv_primary_estate": {
+      "name": "Couleurs primaires",
+      "description": "Qu'elles sont belles...",
+      "condition": "Interagir avec la télévision dans le Primary Estate pour modifier la zone"
+    },
+    "welcome_home": {
+      "name": "Bienvenue à la maison :)",
+      "description": "C'est si nostalgique...",
+      "condition": "Interagir avec la télévision dans le Primary Estate en utilisant l'effet Lunettes"
     }
   },
   "flow": {
@@ -3859,6 +3884,11 @@
     "smiling_stranger": {
       "name": "Bonjour :)",
       "condition": "Trouver l'alien souriant caché dans la Space Station"
+    },
+    "reality_dream_speed": {
+      "name": "À la vitesse du son",
+      "description": "C'est l'heure de mettre la musique à fond et de déraper !",
+      "condition": "Voir l'événement dans Reality Dream"
     }
   },
   "mikan": {
@@ -3966,6 +3996,16 @@
     "maid_mansion_sofa": {
       "name": "Maid Mansion",
       "condition": "S'asseoir sur le seul canapé du Maid Mansion"
+    },
+    "cat_archaic": {
+      "name": "Havre de boule de poils",
+      "description": "Un câlin par jour pour garder la pêche !",
+      "condition": "Interagir avec le chat blanc dans Archaic Temple en utilisant l'effet Chat noir"
+    },
+    "muzou_sunset": {
+      "name": "Cadre solaire",
+      "description": "Prenez un moment pour apprécier les petites choses.",
+      "condition": "Voir le coucher de soleil dans Toxic Sewers"
     }
   },
   "ultraviolet": {
