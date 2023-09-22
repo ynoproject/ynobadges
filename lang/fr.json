@@ -2764,6 +2764,39 @@
       "name": "Bienvenue à la maison :)",
       "description": "C'est si nostalgique...",
       "condition": "Interagir avec la télévision dans le Primary Estate en utilisant l'effet Lunettes"
+    },
+    "pufferfish_girl": {
+      "name": "Globe-pêcheur",
+      "description": "A-t-elle réussi à attraper un poisson ?",
+      "condition": "Interagir avec l'écolière pêchant à Pufferfish Extraction Funland"
+    },
+    "big_uro_thrift_shop": {
+      "name": "Reine onirique",
+      "description": "Je suis la rêveuse géante qui dirige le pays des rêves !",
+      "condition": "Voir la grande Urotsuki au Thrift Shop"
+    },
+    "small_uro_thrift_shop": {
+      "name": "Merchandising onirique",
+      "description": "Achetez notre toute dernière figurine à taille réelle*, Urotsuki ! Seulement 9999999夢 ! \n*Comparé au standard de la machine attrape-peluche se trouvant dans toutes les arcades.",
+      "condition": "Se transformer en figurine au Thrift Shop"
+    },
+    "marginal_herbarium": {
+      "name": "Ouvre ton troisième œil",
+      "condition": "Utiliser l'effet Marginal dans l'Herbarium"
+    },
+    "blue_palm_eyes": {
+      "name": "Palmiers zyeu-tées",
+      "description": "Ils t'observent depuis là-haut...",
+      "condition": "Utiliser l'effet Marginal, Bombe-Œil, Arc-En-Ciel ou Dé (face avec l'œil) pour faire apparaître des yeux sur la Blue Palm Road"
+    },
+    "computer_red_screen": {
+      "name": "Noyade",
+      "description": "Quelle image bizarre...",
+      "condition": "Interagir avec l'ordinateur dans l'Urotsuki's Dream Room alors que l'écran est rouge"
+    },
+    "baddies_coffee": {
+      "name": "Café et insectes",
+      "condition": "Commander un café au Baddies Bar"
     }
   },
   "flow": {
@@ -3599,6 +3632,10 @@
       "name": "Mix de Jamrock",
       "description": "Eeeettttt... voici une jeunette s'éclatant à la manière des contrebandiers ! Saura-t-elle mettre le feu à la salle ?",
       "condition": "Danser sur le tapis de danse du Smugglers' Hideout"
+    },
+    "roxane_attack": {
+      "name": "Arrête de te frapper !",
+      "condition": "Attaquer Roxane à Beach et voir l'événement de métamorphose"
     }
   },
   "muma": {
