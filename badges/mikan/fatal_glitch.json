@@ -1,7 +1,12 @@
 {
   "bp": 15,
-  "reqType": "tag",
-  "reqString": "fatal_glitch",
+  "reqType": "tags",
+  "reqStrings": [
+    "fatal_glitch",
+    "fatal_glitch_b",
+    "fatal_glitch_c",
+    "fatal_glitch_d"
+  ],
   "reqCount": 1,
   "map": 186,
   "secretCondition": true,
