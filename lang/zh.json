@@ -2460,7 +2460,7 @@
       "name": "法式焦糖布丁",
       "description": "我去，蜡烛布丁！",
       "condition": "见证布丁世界最后的辉煌。"
-    }, 
+    },
     "eternal_dreamer": {
       "name": "梦终，梦中？",
       "description": "是真是梦，无从知晓。",
@@ -2562,7 +2562,7 @@
       "description": ">将你的神经网络与计算机连接起来. . .",
       "condition": "抵达 Retro Cartridge Game。"
     },
-    "haniwa_rave": { 
+    "haniwa_rave": {
       "name": "Haniwow!",
       "description": "和你的陶俑朋友尽情摇摆吧!",
       "condition": "观看 遗迹 的植轮事件。"
@@ -2830,6 +2830,39 @@
       "name": "一人嬉戏",
       "description": "追尾巴转圈跑",
       "condition": "玩 Sculpture Park 的滑梯"
+    },
+    "scorched_ashes": {
+      "name": "Ashes to Ashes",
+      "description": "Cinders coat the scorched Earth in a melancholy blanket.",
+      "condition": "Touch the plant in Scorched Wasteland to trigger ash falling from the sky"
+    },
+    "pin_cushion_vineyard": {
+      "name": "Tomatoes Made of Clothes",
+      "condition": "Visit Pin Cushion Vineyard"
+    },
+    "donut_kaleidoscope": {
+      "name": "Colorful Flavors",
+      "condition": "Enter the room with the broken donuts in Kaleidoscope World"
+    },
+    "flower_ug_mall": {
+      "name": "Grievances and Dead Malls",
+      "description": "A lie temporarily becomes the truth",
+      "condition": "Place the flowers into the vase in the Underground Mall"
+    },
+    "spider_attack_cavern": {
+      "name": "Instant Regret",
+      "description": "You can’t escape... The spiders around the cave...",
+      "condition": "Chainsaw the Moth Queen and trigger the Spider Rampage event in Forest Cavern"
+    },
+    "sunset_sky_slums": {
+      "name": "Fallen UFOs in a Sunset Sky",
+      "description": "I hear sirens in the distance...",
+      "condition": "Visit Sunset Sky Slums"
+    },
+    "uzasu_graveyard": {
+      "name": "Not Fast Enough",
+      "description": "Now he has a reason to be in Graveyard World",
+      "condition": "Chainsaw Uzasu in Graveyard World"
     }
   },
   "flow": {
@@ -2974,6 +3007,11 @@
     "razor_head": {
       "name": "Razor Head",
       "condition": "See the razor head creature in Disposal"
+    },
+    "hole_in_girl": {
+      "name": "Sweet Statue",
+      "description": "A secret place through a hole in a face.",
+      "condition": "Reach hole in girl"
     }
   },
   "prayers": {
