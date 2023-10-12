@@ -2831,37 +2831,67 @@
       "condition": "彫刻庭園の滑り台で滑る"
     },
     "scorched_ashes": {
-      "name": "Ashes to Ashes",
-      "description": "Cinders coat the scorched Earth in a melancholy blanket.",
-      "condition": "Touch the plant in Scorched Wasteland to trigger ash falling from the sky"
+      "name": "灰は灰に",
+      "description": "焦土と化した大地を、燃え殻が憂鬱な毛布で覆っている。",
+      "condition": "赤土の赤い花に触れ、空から灰を降らせる"
     },
     "pin_cushion_vineyard": {
-      "name": "Tomatoes Made of Clothes",
-      "condition": "Visit Pin Cushion Vineyard"
+      "name": "布製トマト",
+      "condition": "裁縫トマトに到達する"
     },
     "donut_kaleidoscope": {
-      "name": "Colorful Flavors",
-      "condition": "Enter the room with the broken donuts in Kaleidoscope World"
+      "name": "カラフルフレーバー",
+      "condition": "万華鏡の世界のドーナツ小部屋に到達する"
     },
     "flower_ug_mall": {
       "name": "Grievances and Dead Malls",
       "description": "A lie temporarily becomes the truth",
-      "condition": "Place the flowers into the vase in the Underground Mall"
+      "condition": "モータープールの紫のデパートにある素花瓶に花を生ける"
     },
     "spider_attack_cavern": {
       "name": "Instant Regret",
-      "description": "You can’t escape... The spiders around the cave...",
-      "condition": "Chainsaw the Moth Queen and trigger the Spider Rampage event in Forest Cavern"
+      "description": "あなたは逃れられない... 蜘蛛は洞窟中にいる...",
+      "condition": "植生獄の大蟲を斬りイベントを発生させる"
     },
     "sunset_sky_slums": {
-      "name": "Fallen UFOs in a Sunset Sky",
-      "description": "I hear sirens in the distance...",
-      "condition": "Visit Sunset Sky Slums"
+      "name": "夕焼け空に墜落したUFO",
+      "description": "遠くからサイレンが聞こえる...",
+      "condition": "電柱街に到達する"
     },
     "uzasu_graveyard": {
-      "name": "Not Fast Enough",
-      "description": "Now he has a reason to be in Graveyard World",
-      "condition": "Chainsaw Uzasu in Graveyard World"
+      "name": "スピード不足",
+      "description": "今、彼には墓地世界にいる理由がある。",
+      "condition": "墓地世界のはぐれウザスを斬る"
+    },
+    "abyss_watcher": {
+      "name": "Abyss Watcher",
+      "description": "Memento Mori...",
+      "condition": "Interact with the old demon upon a smile in Netherworld"
+    },
+    "abyss_gazer": {
+      "name": "Abyss Gazer",
+      "description": "Staring into the darkness",
+      "condition": "Witness the three-eyed creature in the Rooftops"
+    },
+    "tiniest_uro": {
+      "name": "Tiniest Uro",
+      "description": "She's so small... I can't protect her",
+      "condition": "Transform into the smallest Urotsuki in the Red Brick Maze"
+    },
+    "junk_from_anywhere": {
+      "name": "Junk From Anywhere",
+      "description": "Where did all of this come from?",
+      "condition": "Visit Junk From Anywhere"
+    },
+    "pierside_massacre": {
+      "name": "Vengeful",
+      "description": "You may not rest now, there are monsters nearby",
+      "condition": "Go to sleep in the Pierside Residence after killing the house's resting inhabitants"
+    },
+    "streetlight_monster": {
+      "name": "World Treader",
+      "description": "Light the way.",
+      "condition": "Chainsaw the giant, mobile streetlight creature in Eldritch Streetlight Zone"
     }
   },
   "flow": {
@@ -3008,9 +3038,9 @@
       "condition": "浴室の浴槽に入った鋸頭を見る"
     },
     "hole_in_girl": {
-      "name": "Sweet Statue",
+      "name": "甘い像",
       "description": "A secret place through a hole in a face.",
-      "condition": "Reach hole in girl"
+      "condition": "hole in girlに到達する"
     }
   },
   "prayers": {
@@ -3537,6 +3567,11 @@
       "name": "ムチュウ",
       "description": "空や星を越えても、愛は続く",
       "condition": "Bumblebee Loungeのバルコニーの向こうで抱き合う人影を見る"
+    },
+    "ud_trypophobia": {
+      "name": "Trypophobia",
+      "description": "I know you see that light switch. You know what to do...",
+      "condition": "Enter the looping field in the Trixboa event"
     }
   },
   "braingirl": {
@@ -3711,6 +3746,10 @@
     "roxane_attack": {
       "name": "自分自身を殴るのをやめて",
       "condition": "BeachでRoxaneを攻撃して、Metamorphosisイベントを見る"
+    },
+    "rubys_mad_plan": {
+      "name": "Mad Scientist",
+      "condition": "Interact with Ruby while using the Brambles Key"
     }
   },
   "muma": {

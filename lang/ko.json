@@ -2863,6 +2863,36 @@
       "name": "니드 포 스피드",
       "description": "지금 그는 묘지세계에 있어야 할 이유가 생겼다",
       "condition": "Graveyard World 에서 전기톱을 장착한 상태에서 귀차니(Uzasu) NPC와 상호작용하기"
+    },
+    "abyss_watcher": {
+      "name": "Abyss Watcher",
+      "description": "Memento Mori...",
+      "condition": "Interact with the old demon upon a smile in Netherworld"
+    },
+    "abyss_gazer": {
+      "name": "Abyss Gazer",
+      "description": "Staring into the darkness",
+      "condition": "Witness the three-eyed creature in the Rooftops"
+    },
+    "tiniest_uro": {
+      "name": "Tiniest Uro",
+      "description": "She's so small... I can't protect her",
+      "condition": "Transform into the smallest Urotsuki in the Red Brick Maze"
+    },
+    "junk_from_anywhere": {
+      "name": "Junk From Anywhere",
+      "description": "Where did all of this come from?",
+      "condition": "Visit Junk From Anywhere"
+    },
+    "pierside_massacre": {
+      "name": "Vengeful",
+      "description": "You may not rest now, there are monsters nearby",
+      "condition": "Go to sleep in the Pierside Residence after killing the house's resting inhabitants"
+    },
+    "streetlight_monster": {
+      "name": "World Treader",
+      "description": "Light the way.",
+      "condition": "Chainsaw the giant, mobile streetlight creature in Eldritch Streetlight Zone"
     }
   },
   "flow": {
@@ -3538,6 +3568,11 @@
       "name": "사랑에 빠지다",
       "description": "하늘과 별을 넘어서까지, 사랑은 지속된다.",
       "condition": "Bumblebee Lounge의 베란다 너머에 포옹하고 있는 석상을 발견하기"
+    },
+    "ud_trypophobia": {
+      "name": "Trypophobia",
+      "description": "I know you see that light switch. You know what to do...",
+      "condition": "Enter the looping field in the Trixboa event"
     }
   },
   "braingirl": {
@@ -3712,6 +3747,10 @@
     "roxane_attack": {
       "name": "자학은 그만둬",
       "condition": "Beach에서 Roxane NPC를 공격하고 Metamorphosis 이벤트를 보기"
+    },
+    "rubys_mad_plan": {
+      "name": "Mad Scientist",
+      "condition": "Interact with Ruby while using the Brambles Key"
     }
   },
   "muma": {
