@@ -1031,8 +1031,8 @@
       "condition": "Interagir avec Gakuran-kun en utilisant un certain effet"
     },
     "block_person": {
-      "name": "Bloc sur patte",
-      "description": "Je me suis transformé en un bloc sur patte ?!",
+      "name": "Bloc sur pattes",
+      "description": "Je me suis transformé en un bloc sur pattes ?!",
       "condition": "Se transformer en bloc sur patte dans le Red Brick Maze"
     },
     "madotsukis_room": {
@@ -2863,6 +2863,36 @@
       "name": "Il aurait dû prendre ses jambes à son cou...",
       "description": "Je crois savoir pourquoi il y a des tombes ici maintenant...",
       "condition": "Tronçonner Uzasu dans le Graveyard World"
+    },
+    "abyss_watcher": {
+      "name": "Observatrice des abysses",
+      "description": "Memento Mori...",
+      "condition": "Interagir avec le vieille démone fumant dans le Netherworld"
+    },
+    "abyss_gazer": {
+      "name": "L'orbe qui voit tout",
+      "description": "Observant le monde depuis les ténèbres",
+      "condition": "Voir la créature aux trois yeux à Rooftops"
+    },
+    "tiniest_uro": {
+      "name": "La plus petite Urotsuki",
+      "description": "Elle est si petite... je ne peux pas la protéger...",
+      "condition": "Se transformer en la plus petite Urotsuki dans le Red Brick Maze"
+    },
+    "junk_from_anywhere": {
+      "name": "Junk From Anywhere",
+      "description": "Où est-ce que tous ces déchets viennent ?",
+      "condition": "Visiter Junk From Anywhere"
+    },
+    "pierside_massacre": {
+      "name": "Esprits vengeurs",
+      "description": "Vous ne pouvez pas dormir maintenant, il y a des monstres à proximité",
+      "condition": "S'endormir dans la Pierside Residence après avoir tué les habitants de la maison"
+    },
+    "streetlight_monster": {
+      "name": "Marcheur intemporel",
+      "description": "Éclaire la voie.",
+      "condition": "Tronçonner la créature lampadaire géante se déplaçant dans l'Eldritch Streetlight Zone"
     }
   },
   "flow": {
@@ -3538,6 +3568,11 @@
       "name": "Épris",
       "description": "Même au delà du ciel et des étoiles, l'amour persiste.",
       "condition": "Voir les silhouettes s'embrassant derrière le balcon du Bumblebee Lounge"
+    },
+    "ud_trypophobia": {
+      "name": "Trypophobie",
+      "description": "Je sais que tu vois très bien ce joli interrupeur. Il ne te reste plus qu'une chose à faire~ ♪",
+      "condition": "Entrer dans la zone bouclante de l'événement Trixboa"
     }
   },
   "braingirl": {
@@ -3712,6 +3747,10 @@
     "roxane_attack": {
       "name": "Arrête de te frapper !",
       "condition": "Attaquer Roxane à Beach et voir l'événement de métamorphose"
+    },
+    "rubys_mad_plan": {
+      "name": "Le plan fou de Ruby",
+      "condition": "Interagir avec Ruby avec la clé Ronces équippée"
     }
   },
   "muma": {
