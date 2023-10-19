@@ -2893,6 +2893,34 @@
       "name": "Marcheur intemporel",
       "description": "Éclaire la voie.",
       "condition": "Tronçonner la créature lampadaire géante se déplaçant dans l'Eldritch Streetlight Zone"
+    },
+    "nightshade_corridor": {
+      "name": "Gyazo",
+      "description": "Aujourd'hui, je voulais manger un gyoza.",
+      "condition": "Visiter le Nightshade Corridor"
+    },
+    "sugar_road": {
+      "name": "Téléporteurs à gogo",
+      "condition": "Visiter la Sugar Road"
+    },
+    "violet_room_light": {
+      "name": "Fille de velours",
+      "condition": "Déclencher l'événement de l'interrupteur dans la Violet's Room du Glacier Maze"
+    },
+    "butcher_gluttony": {
+      "name": "La bouchère et la fleur",
+      "description": "La bouchère se repose désormais au pied de la fleur tachée de sang. Que s'est-il passé ici ?",
+      "condition": "Trouver la bouchère dans Realm of Gluttony"
+    },
+    "realm_of_gluttony": {
+      "name": "Festin pour un glouton",
+      "description": "Un burger d'une saveur indescriptible décrit comme étant tout simplement fabuleux ! Que cela soit vrai ou faux, c'est à vous de le découvrir !",
+      "condition": "Entrer dans Realm of Gluttony"
+    },
+    "sepia_clouds_creatures": {
+      "name": "Nuages nostalgiques",
+      "description": "D'étranges créatures dans des nuages sépia.",
+      "condition": "Interagir avec chaque type de créature dans le Sepia Clouds World"
     }
   },
   "flow": {
@@ -3266,6 +3294,10 @@
     "ufo_watching": {
       "name": "Regard vers le ciel",
       "condition": "Partir à l'observation d'OVNIs dans les Apartments"
+    },
+    "tw_valley_smile": {
+      "name": "Éclairage radieux",
+      "condition": "Faire sourire la créature sur l'îlot isolé en utilisant l'alter Verdoyant dans la Twilight Valley"
     }
   },
   "someday": {
@@ -3572,7 +3604,7 @@
     },
     "ud_trypophobia": {
       "name": "Trypophobie",
-      "description": "Je sais que tu vois très bien ce joli interrupeur. Il ne te reste plus qu'une chose à faire~ ♪",
+      "description": "Je sais que tu vois très bien ce joli interrupteur. Il ne te reste plus qu'une chose à faire~ ♪",
       "condition": "Entrer dans la zone bouclante de l'événement Trixboa"
     }
   },
@@ -3631,6 +3663,11 @@
       "name": "Hamantha",
       "description": "Tête de viande et œil aimable.",
       "condition": "Trouver Hamantha dans le Museum"
+    },
+    "red_barn_loser": {
+      "name": "Prodige malchanceux",
+      "description": "Celui-là est une vraie petite flèche !",
+      "condition": "Se faire bannir à vie de la Red Barn en perdant trois courses de chevaux"
     }
   },
   "amillusion": {
