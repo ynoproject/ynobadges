@@ -2921,6 +2921,31 @@
       "name": "Nuages nostalgiques",
       "description": "D'étranges créatures dans des nuages sépia.",
       "condition": "Interagir avec chaque type de créature dans le Sepia Clouds World"
+    },
+    "inu_san_psyche": {
+      "name": "Inu-san",
+      "description": "Constamment dans un tourbillon sans fin",
+      "condition": "Entrer dans Inu-san's Psyche"
+    },
+    "seaside_road_basket": {
+      "name": "Vues océaniques",
+      "description": "Je me demande bien, qui aurait pu laisser ça là...?",
+      "condition": "Se rendre sur la Seaside Road de l'Electromagnetic Terminal et voir le panier oublié"
+    },
+    "galactica_honeymoon": {
+      "name": "Lune de miel galactique",
+      "description": "Menant ton cœur à la dérive...!",
+      "condition": "Visiter Space, Spaceship, Visine Spacecraft, Astral World et Spacey Retreat"
+    },
+    "animal_heaven": {
+      "name": "Bienvenue au paradis",
+      "description": "Et les animaux vécurent heureux et en paix au paradis pour toujours.",
+      "condition": "Visiter l'Animal Heaven et voir le ciel dans ses deux couleurs distinctes"
+    },
+    "duck_crystal_waters": {
+      "name": "Statue du canard lunaire",
+      "description": "Le canard s'asseya silencieusement sur l'eau...",
+      "condition": "Trouver la statue de canard dans les Crystal Waters"
     }
   },
   "flow": {
@@ -3398,6 +3423,10 @@
       "name": "𝐍𝐨𝐭",
       "description": "Personne n'est avec toi.",
       "condition": "Faire l'événement du rire silencieux"
+    },
+    "computer_maze_void": {
+      "name": "Vide du deepweb",
+      "condition": "Atteindre la fin du Computer Maze"
     }
   },
   "unevendream": {
@@ -4329,41 +4358,51 @@
   },
   "sheawaits": {
     "chapel_statue": {
-      "name": "Hallowed Icon",
-      "description": "A preserved statue in front of stained windows, venerated by many.",
-      "condition": "See the statue in the Chapel's teleport maze."
+      "name": "Icône sainte",
+      "description": "Une statue préservée devant des vitraux, vénérée par beaucoup.",
+      "condition": "Voir la statue dans le labyrinthe de téléporteurs de la Chapel"
     },
     "magicians_room": {
-      "name": "Magician’s Hideout",
-      "condition": "Enter the Magician’s Room."
+      "name": "Cachette du Bateleur",
+      "condition": "Entrer dans la Magician’s Room"
     },
     "lovers_confessional": {
-      "name": "Lover's Confessional",
-      "description": "May you be cleansed of your sins...",
-      "condition": "Trigger the Confessional event in the Chapel with the Lovers card."
+      "name": "Confession de l'amante",
+      "description": "Puisses-tu être lavée de tes péchés...",
+      "condition": "Déclencher l'événement de confession dans la Chapel avec la carte Les Amants"
     },
     "mushroom_caves": {
-      "name": "Dimly-lit Fungi",
-      "condition": "Visit the Mushroom Cave."
+      "name": "Champis mal éclairés",
+      "condition": "Visiter la Mushroom Cave"
     },
     "rave_devil": {
-      "name": "Devil's Call in Your Heart",
-      "description": "The night has just begun.",
-      "condition": "Terrify the partygoers in the Rave Hall with the Devil card."
+      "name": "Le Diable t'appelle dans ton cœur",
+      "description": "La nuit vient tout juste de commencer.",
+      "condition": "Terrifier les fêtards du Rave Hall avec la carte Le Diable"
     },
     "rave_rooftop_lovers": {
-      "name": "Stained Glass Rave Pin",
-      "condition": "Snatch a kiss from Alesandre in the Rave Hall's rooftop."
+      "name": "Broche vitrail de la rave",
+      "condition": "Voler un baiser d'Alesandre sur le toit du Rave Hall"
     },
     "ethereal_waterfall": {
-      "name": "Heavenly Cascade",
-      "description": "A view of the calming cascades of the ethereal realm's waters.",
-      "condition": "Visit and take a close look at the waterfalls of the Ethereal Plane."
+      "name": "Cascade angélique",
+      "description": "Une vue sur de calmes cascades des eaux du royaume céleste.",
+      "condition": "Visiter et regarder de près les cascades de l'Ethereal Plane"
     },
     "eternal_love": {
-      "name": "Eternal Love",
-      "description": "\"I will follow you to the ends of the earth,\nAnd there I will give you a kiss of rebirth.\"",
-      "condition": "Go on a date with Alesandre in the places where you meet him."
+      "name": "Amour éternel",
+      "description": "« Je te suivrai jusqu'aux tréfonds de la terre,\nEt je t'y donnerai un baiser de renaissance. »",
+      "condition": "Sortir avec Alesandre dans les lieux où vous pouvez le rencontrer"
+    },
+    "lantern_piers": {
+      "name": "Lanternes au coucher de soleil",
+      "description": "Une lumière douce sur des eaux calmes aux côtés d'un soleil partant se coucher",
+      "condition": "Visiter les Lantern Piers"
+    },
+    "pentacle_field_secret": {
+      "name": "Pétales d'ambre",
+      "description": "Que pourrait-il se cacher sous cette vaste sérénité ?",
+      "condition": "Découvrir et utiliser le pentacle caché du Pentacle Field"
     }
   }
 }
