@@ -1,13 +1,24 @@
 {
   "group": "4_ch",
   "bp": 25,
-  "reqType": "tags",
-  "reqStrings": [
-    "galactic_space",
-    "galactic_spaceship",
-    "galactic_visine",
-    "galactic_astral",
-    "galactic_retreat"
+  "reqType": "tagArrays",
+  "reqStringArrays": [
+    [
+      "galactic_spaceship",
+      "galactic_spaceship_b"
+    ],
+    [
+      "galactic_space"
+    ],
+    [
+      "galactic_visine"
+    ],
+    [
+      "galactic_astral"
+    ],
+    [
+      "galactic_retreat"
+    ]
   ],
   "map": 2057,
   "secretMap": true,
