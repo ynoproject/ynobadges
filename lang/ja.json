@@ -2945,6 +2945,30 @@
       "name": "宇宙アヒルの像",
       "description": "アヒルは静かに水面に座っている",
       "condition": "玻璃の水鏡の海岸にたたずんでいるアヒルを探す"
+    },
+    "crystal_waters_beach": {
+      "name": "Distant Beach",
+      "condition": "Visit the beach area in Crystal Waters"
+    },
+    "gentle_meadows_rocks": {
+      "name": "Peaceful Stagnation",
+      "description": "Enjoy the tranquility",
+      "condition": "Pass through the stones of the Gentle Meadows"
+    },
+    "halloween_urotsuki": {
+      "name": "Halloween Outfit",
+      "description": "It fits well.",
+      "condition": "Interact with the pumpkin in Halloween Forest"
+    },
+    "green_shirt_man": {
+      "name": "I'm just reading books, and you?",
+      "description": "Have you already done your homework?",
+      "condition": "Find the mysterious creature with the green shirt by using the Spring or Bat effect"
+    },
+    "aquatic_cafe": {
+      "name": "Step Into a Pig",
+      "description": "Am I in a pool of vegetable soup?",
+      "condition": "Visit Aquatic Cafe"
     }
   },
   "flow": {
@@ -3171,6 +3195,11 @@
       "name": "Blip",
       "description": "天国に行かせて",
       "condition": "Arrow LaneにいるBlipを見つけて話しかける"
+    },
+    "corrupt_beach": {
+      "name": "Damaged Shores",
+      "description": "A husk of its' prior existence.",
+      "condition": "Visit Corrupt Beach"
     }
   },
   "deepdreams": {
@@ -4402,6 +4431,15 @@
       "name": "琥珀色のPetals",
       "description": "この静かな場所に一体何が隠されているだろうか?",
       "condition": "Pentacle Fieldで隠されたペンタゴンを見つけて利用する"
+    },
+    "anatomical_desert": {
+      "name": "Fallen Paradise",
+      "condition": "Visit Anatomical Desert"
+    },
+    "cycle_palace": {
+      "name": "Celestial Siblings",
+      "description": "The sun and moon; an iconic duo, the \"Yin Yang of the Galaxy\"",
+      "condition": "Visit the Night Palace and the Day Palace"
     }
   }
 }

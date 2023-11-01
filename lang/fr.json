@@ -2946,6 +2946,30 @@
       "name": "Statue du canard lunaire",
       "description": "Le canard s'asseya silencieusement sur l'eau à jamais...",
       "condition": "Trouver la statue de canard dans les Crystal Waters"
+    },
+    "crystal_waters_beach": {
+      "name": "Plage distante",
+      "condition": "Visiter la plage dans les Crystal Waters"
+    },
+    "gentle_meadows_rocks": {
+      "name": "Stagnation pacifique",
+      "description": "Profite de la tranquillité",
+      "condition": "Passer entre les pierres des Gentle Meadows"
+    },
+    "halloween_urotsuki": {
+      "name": "Tenue d'halloween",
+      "description": "Ça me va bien.",
+      "condition": "Interagir avec la citrouille dans l'Halloween Forest"
+    },
+    "green_shirt_man": {
+      "name": "Je lis des livres et toi ?",
+      "description": "As-tu déjà fini tes devoirs ?",
+      "condition": "Rencontrer la mystérieuse créature au T-shirt vert en utilisant l'effet Ressort ou Chauve-souris"
+    },
+    "aquatic_cafe": {
+      "name": "Rencontre animale",
+      "description": "Suis-je dans un bassin de soupe végétale ?",
+      "condition": "Visiter l'Aquatic Cafe"
     }
   },
   "flow": {
@@ -3172,6 +3196,11 @@
       "name": "Blip",
       "description": "est-ce que tu me laisseras aller aux cieux",
       "condition": "Trouver et interagir avec Blip dans l'Arrow Lane"
+    },
+    "corrupt_beach": {
+      "name": "Littoral endommagé",
+      "description": "Ce n'est plus qu'une coquille vide rappelant son passé.",
+      "condition": "Visiter la Corrupt Beach"
     }
   },
   "deepdreams": {
@@ -4403,6 +4432,15 @@
       "name": "Pétales d'ambre",
       "description": "Que pourrait-il se cacher sous cette vaste sérénité ?",
       "condition": "Découvrir et utiliser le pentacle caché du Pentacle Field"
+    },
+    "anatomical_desert": {
+      "name": "Paradis déchu",
+      "condition": "Visiter l'Anatomical Desert"
+    },
+    "cycle_palace": {
+      "name": "Jumeaux célestes",
+      "description": "Le soleil et la lune ; un duo iconique,  le « Yin et le Yang de la galaxie »",
+      "condition": "Visiter le Night Palace et le Day Palace"
     }
   }
 }
