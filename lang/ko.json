@@ -2946,6 +2946,30 @@
       "name": "달오리 조각상",
       "description": "오리는 조용히 수면 위에 앉아있다...",
       "condition": "Crystal Waters 에서 오리 조각상을 발견하기"
+    },
+    "crystal_waters_beach": {
+      "name": "Distant Beach",
+      "condition": "Visit the beach area in Crystal Waters"
+    },
+    "gentle_meadows_rocks": {
+      "name": "Peaceful Stagnation",
+      "description": "Enjoy the tranquility",
+      "condition": "Pass through the stones of the Gentle Meadows"
+    },
+    "halloween_urotsuki": {
+      "name": "Halloween Outfit",
+      "description": "It fits well.",
+      "condition": "Interact with the pumpkin in Halloween Forest"
+    },
+    "green_shirt_man": {
+      "name": "Just reading books and you?",
+      "description": "Have you already done your homework?",
+      "condition": "Find the mysterious creature with the green shirt by using the Spring or Bat effect"
+    },
+    "aquatic_cafe": {
+      "name": "Step Into a Pig",
+      "description": "Am I in a pool of vegetable soup?",
+      "condition": "Visit Aquatic Cafe"
     }
   },
   "flow": {
@@ -3172,6 +3196,11 @@
       "name": "블립",
       "description": "저를 천국으로 보내주시겠어요",
       "condition": "화살표의 통로에서 Blip(블립) NPC를 찾고 상호작용하기"
+    },
+    "corrupt_beach": {
+      "name": "Damaged Shores",
+      "description": "A husk of its' prior existence.",
+      "condition": "Visit Corrupt Beach"
     }
   },
   "deepdreams": {
@@ -4403,6 +4432,15 @@
       "name": "호박색 꽃잎들",
       "description": "이 거대한 고요 속에 무엇이 숨겨져 있을까?",
       "condition": "Pentacle Field의 숨겨진 오망성을 발견하고 사용하기"
+    },
+    "anatomical_desert": {
+      "name": "Fallen Paradise",
+      "condition": "Visit Anatomical Desert"
+    },
+    "cycle_palace": {
+      "name": "Celestial Siblings",
+      "description": "The sun and moon; an iconic duo, the \"Yin Yang of the Galaxy\"",
+      "condition": "Visit the Night Palace and the Day Palace"
     }
   }
 }
