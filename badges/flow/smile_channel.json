@@ -1,7 +1,11 @@
 {
   "bp": 10,
-  "reqType": "tag",
-  "reqString": "smile_channel",
+  "reqType": "tags",
+  "reqStrings": [
+    "smile_channel",
+    "smile_channel_rust"
+  ],
+  "reqCount": 1,
   "map": 6,
   "secretCondition": true,
   "art": "Autumn",
