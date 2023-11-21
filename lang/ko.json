@@ -1,14 +1,14 @@
 {
   "ynoproject": {
     "badge_amulet": {
-      "name": "뱃지 수집가 부적",
+      "name": "배지 수집가 부적",
       "description": "현재 장착된 메뉴 타입에 알맞게 조정됩니다",
-      "condition": "총 100개의 뱃지를 수집하기 (숨겨진 뱃지는 제외)"
+      "condition": "총 100개의 배지를 수집하기 (숨겨진 배지는 제외)"
     },
     "badge_amulet_2": {
-      "name": "울트라 뱃지 수집가 부적",
+      "name": "울트라 배지 수집가 부적",
       "description": "현재 장착된 메뉴 타입에 알맞게 조정됩니다",
-      "condition": "총 500개의 뱃지를 수집하기 (숨겨진 뱃지는 제외)"
+      "condition": "총 500개의 배지를 수집하기 (숨겨진 배지는 제외)"
     },
     "mono": {
       "name": "탐험가",
@@ -90,11 +90,11 @@
     },
     "translator": {
       "name": "번역가",
-      "condition": "YNOproject의 번역 활동에 기여한 인물에게 수여하는 뱃지"
+      "condition": "YNOproject의 번역 활동에 기여한 인물에게 수여하는 배지"
     },
     "compuss": {
       "name": "콤파스",
-      "description": "차세대 네비게이션 시스템",
+      "description": "차세대 내비게이션 시스템",
       "condition": "CatMat(개발자 이름)이 되기"
     },
     "miau": {
@@ -108,12 +108,12 @@
     },
     "ynfg_dev": {
       "name": "파생게임 개발자",
-      "description": "YNOproject에서 호스팅되는 파생게임 개발자들에게 수여하는 뱃지입니다",
+      "description": "YNOproject에서 호스팅되는 파생게임 개발자들에게 수여하는 배지입니다",
       "condition": "YNOproject에서 호스팅되는 파생게임 개발에 참여하기"
     },
     "2kki_dev": {
       "name": "유메2키 개발자",
-      "description": "유메2키 개발자에게 수여하는 뱃지입니다",
+      "description": "유메2키 개발자에게 수여하는 배지입니다",
       "condition": "유메2키 관련으로 개발에 참여하기"
     },
     "zolotl": {
@@ -377,12 +377,12 @@
       "condition": "고비사막의 모든 장소를 방문하기"
     },
     "dave_death": {
-      "name": "Dave-y Jones Locker",
-      "condition": "Stab Dave Specter in the White Desert"
+      "name": "데이비 존스의 보관함",
+      "condition": "White Desert의 데이브 스펙터(Dave Specter) NPC를 칼로 찌르기"
     },
     "forest_namekuji": {
-      "name": "Boo and Goo",
-      "condition": "Interact with the two types of Namekuji in Forest World"
+      "name": "부와 구",
+      "condition": "Forest World에서 두 가지 종류의 유령과 상호작용하기"
     }
   },
   "2kki": {
@@ -647,7 +647,7 @@
       "condition": "모든 엔딩을 본 후에 열쇠를 사용해 꿈의 가장 머나먼 곳에 도달하기"
     },
     "rby": {
-      "name": "빨.파.노. 뱃지",
+      "name": "빨.파.노. 배지",
       "condition": "미니게임 B(오리지널 버전)을 500점 이상으로 클리어하기"
     },
     "chocolate_tower": {
@@ -1504,7 +1504,7 @@
     },
     "blue_house_road": {
       "name": "블루스틸",
-      "description": "이게 다야? 이게 뱃지라고?",
+      "description": "이게 다야? 이게 배지라고?",
       "condition": "Blue House Road에 입장하기"
     },
     "the_tiger": {
@@ -2731,7 +2731,7 @@
     },
     "garbage_myst_library": {
       "name": "와, 도서관이 이렇게나 더러울 줄은 몰랐네!",
-      "description": "이 뱃지가 세련된 것이라고 생각하지 말아주셨으면 좋겠네요",
+      "description": "이 배지가 세련된 것이라고 생각하지 말아주셨으면 좋겠네요",
       "condition": "Mystery Library의 Garbage Area 서브 에리어에 방문하기"
     },
     "coffee_cup_boy": {
@@ -2960,12 +2960,12 @@
       "condition": "Crystal Waters의 해변 구역을 방문하기"
     },
     "gentle_meadows_rocks": {
-      "name": "고요한 침체",
-      "description": "평화를 즐기세요",
-      "condition": "Gentle Meadows의 돌들 사이를 지나가기"
+      "name": "태평한 침체",
+      "description": "평온을 즐기세요",
+      "condition": "Gentle Meadows의 돌 사이를 지나가기"
     },
     "halloween_urotsuki": {
-      "name": "할로윈 코스튬",
+      "name": "할로윈 의상",
       "description": "잘 어울리네요",
       "condition": "Halloween Forest의 호박과 상호작용하기"
     },
@@ -2980,41 +2980,41 @@
       "condition": "Aquatic Cafe를 방문하기"
     },
     "icy_garden_trombone": {
-      "name": "Sapphire Ice",
-      "condition": "Use the Trombone effect in the Icy Garden"
+      "name": "사파이어 아이스",
+      "condition": "Icy Garden에서 트럼본 이펙트를 사용하기"
     },
     "donut_hole_world": {
-      "name": "Donut Hole",
-      "description": "When was it that I got these memories?",
-      "condition": "Visit Donut Hole World"
+      "name": "도넛 홀",
+      "description": "언제부터 이 기억이 있었던 걸까",
+      "condition": "Donut Hole World를 방문하기"
     },
     "budding_life_cliff": {
-      "name": "Looking for a cliff?",
-      "description": "Are you lost? Perhaps you were looking for something? Well, lost traveler. Now you're trapped here, so, enjoy the view.",
-      "condition": "Reach the cliff in Budding Life World"
+      "name": "절벽을 찾고 있니?",
+      "description": "길을 잃었니? 아마 뭔가를 찾고 있는 것 같은데, 뭐, 길 잃은 여행자. 이제 넌 여기 갇혔으니, 경치나 즐기라구.",
+      "condition": "Budding Life World의 절벽에 도달하기"
     },
     "autumn_sky": {
-      "name": "Fall Wind",
-      "description": "The sky spirals in color.",
-      "condition": "Visit Autumn Sky"
+      "name": "가을 바람",
+      "description": "나선형 빛깔의 하늘",
+      "condition": "Autumn Sky를 방문하기"
     },
     "cotton_candy_haven": {
-      "name": "Sweet Haven",
-      "description": "A heaven of clouds and cupcakes. I want to make my home here.",
-      "condition": "Visit Cotton Candy Haven"
+      "name": "달콤한 안식처",
+      "description": "구름과 컵케이크의 천국이야. 여기서 살고 싶어.",
+      "condition": "Cotton Candy Haven을 방문하기"
     },
     "sunset_sanctum_ramen": {
-      "name": "Ramen Shop at the End of the World",
-      "description": "Lovely view, huh?",
-      "condition": "Buy some ramen at Sunset Sanctem"
+      "name": "세상 끝의 라멘 가게",
+      "description": "멋진 풍경이지, 응?",
+      "condition": "Sunset Sanctem에서 라멘을 구매하기"
     },
     "creature_solstice_forest": {
-      "name": "Swimming Eye",
-      "condition": "Encounter the swimming eye creature in Solstice Forest"
+      "name": "헤엄치는 눈",
+      "condition": "Solstice Forest에서 헤엄치는 눈 생명체와 마주치기"
     },
     "antiquated_bathhouse": {
-      "name": "Antiquated Mirror",
-      "condition": "Enter the Antiquated Bathhouse in Oblique Hell"
+      "name": "구식 거울",
+      "condition": "Oblique Hell의 Antiquated Bathhouse 서브 에리어에 입장하기"
     }
   },
   "flow": {
@@ -3173,9 +3173,9 @@
       "condition": "고장난 시계의 공원에 있는 방에서 외눈박이 NPC를 찾아내기"
     },
     "koraiyn": {
-      "name": "코라인",
-      "description": "코라인이 대체 뭐야?",
-      "condition": "Reach the top of the GB Tower"
+      "name": "코레인",
+      "description": "코레인이 대체 뭐야?",
+      "condition": "GB 탑의 꼭대기에 도달하기"
     },
     "missingno": {
       "name": "글리치",
@@ -3240,12 +3240,12 @@
     "blip_arrow_lane": {
       "name": "블립",
       "description": "저를 천국으로 보내주시겠어요",
-      "condition": "화살표의 통로에서 Blip(블립) NPC를 찾고 상호작용하기"
+      "condition": "화살표의 통로에서 블립(Blip) NPC를 찾고 상호작용하기"
     },
     "corrupt_beach": {
       "name": "손상된 해안",
-      "description": "지나간 존재의 껍데기",
-      "condition": "Corrupt Beach를 방문하기"
+      "description": "지나간 삶의 껍데기",
+      "condition": "손상된 해변을 방문하기"
     }
   },
   "deepdreams": {
@@ -3399,13 +3399,13 @@
       "condition": "황혼의 계곡에서 심록빛 변환을 사용하여 외딴 섬에 위치한 생명체의 기운을 북돋아주기"
     },
     "cathedral_butterfly": {
-      "name": "Prismatic Butterfly",
-      "description": "Reach the room with the stained glass butterfly in Cathedral"
+      "name": "무지갯빛 나비",
+      "description": "대성당에서 스테인드 글라스 나비가 있는 방에 도달하기"
     },
     "misty_forest_dogs": {
-      "name": "Doggies",
-      "description": "Doggies always wait for you at home.",
-      "condition": "See two dogs at the same time in the house of Misty Forest"
+      "name": "강아지",
+      "description": "강아지는 항상 집에서 당신을 기다리고 있다",
+      "condition": "안개낀 숲의 집 안에서 강아지 두 마리를 동시에 보기"
     }
   },
   "someday": {
@@ -3716,7 +3716,7 @@
     },
     "ud_trypophobia": {
       "name": "환공포증",
-      "description": "저기 있는 전등 스위치 보고 있는거 알고 있어요. 뭘 해야할 지는 아시겠죠...",
+      "description": "저기 있는 전등 스위치 보고 있는 거 알고 있어요. 뭘 해야 할지는 아시겠죠...",
       "condition": "Trixboa 이벤트에서 루프되는 공간에 들어가기"
     }
   },
@@ -3782,13 +3782,13 @@
       "condition": "Red Barn 에서 세번의 경마에서 패배한 후 영구 정지를 먹기"
     },
     "hamlet_alien": {
-      "name": "Please, Get Away...",
-      "condition": "Interact with the teleporting creature found in Hamlet"
+      "name": "제발 저리 좀 가...",
+      "condition": "Hamlet에서 순간이동 하는 생명체와 상호작용하기"
     },
     "tanuki_woods_fox": {
-      "name": "Rest in the Woods",
-      "description": "\"Woof! Woof!\"",
-      "condition": "Interact with the fox in Tanuki Woods"
+      "name": "숲 속의 휴식",
+      "description": "\"멍! 멍!\"",
+      "condition": "Tanuki Woods에서 여우와 상호작용하기"
     }
   },
   "amillusion": {
@@ -4506,11 +4506,11 @@
       "condition": "Pentacle Field의 숨겨진 오망성을 발견하고 사용하기"
     },
     "anatomical_desert": {
-      "name": "실낙원",
+      "name": "추락한 낙원",
       "condition": "Anatomical Desert를 방문하기"
     },
     "cycle_palace": {
-      "name": "천상의 형",
+      "name": "천상의 형제",
       "description": "하늘의 상징인 태양과 달, \"우주의 음양\"",
       "condition": "Night Palace와 Day Palace를 방문하기"
     }
