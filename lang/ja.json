@@ -378,6 +378,10 @@
     "forest_namekuji": {
       "name": "おばけだぞぉー",
       "condition": "森の世界にいる2匹のおばけに話しかける"
+    },
+    "white_tulip": {
+      "name": "Rain and Flowers",
+      "condition": "Visit the white tulip passage between Sky Garden and Ghost World"
     }
   },
   "2kki": {
@@ -2964,6 +2968,70 @@
     "owl_astronomy_hall": {
       "name": "ホーホー！",
       "condition": "天体美術館でおおかみを使ってフクロウを怖がらせる"
+    },
+    "hourglass_desert": {
+      "name": "The Hourglass Desert Scale",
+      "description": "A wanderer in a desert of hourglass",
+      "condition": "Enter Hourglass Desert"
+    },
+    "holiday_hell_fish": {
+      "name": "Gone Fishing",
+      "description": "Fish love me, dreams fear me...",
+      "condition": "See the night scenery with the fishing boat in Holiday Hell"
+    },
+    "doppelganger_room": {
+      "name": "Static Look-alike",
+      "description": "A slight change of perspective.",
+      "condition": "Enter the Doppelgänger Room in the Static Labyrinth"
+    },
+    "hallucination_laboratory": {
+      "name": "Little Stumbling Dreamer",
+      "condition": "Complete the Hallucination event"
+    },
+    "hall_of_memories_hug": {
+      "name": "Happy Ending",
+      "description": "What a heartwarming reunion...",
+      "condition": "Complete the event in Hall of Memories"
+    },
+    "candy": {
+      "name": "Visit to the Dentist",
+      "description": "Yummy sugar...",
+      "condition": "お菓子がテーマの世界を到達する:チョコレートの通路、スイーツ、シュガー（うらも含む）、キャンディ、アイスクリー夢、スイートキューブ、チョコレー塔、スイーツホール（ストロベリーエリア）"
+    },
+    "kigaru": {
+      "name": "Heavenly Haven's Key",
+      "description": "In the haven of fluffy pink cotton sits a dressed girl with a shimmering key as her headwear.",
+      "condition": "Take Kīgāru's key in Cotton Candy Haven"
+    },
+    "foliage_estate_satellite_dish": {
+      "name": "Eternal Night",
+      "description": "A stardust reverie.",
+      "condition": "Visit the Satellite Dish in Foliage Estate"
+    },
+    "shallows_of_deceit_rooftop": {
+      "name": "Starry Rooftop",
+      "description": "A beautiful view on a dark night",
+      "condition": "嘘つきの街の屋上に到達する"
+    },
+    "tranquil_crescent": {
+      "name": "Moonlight",
+      "description": "The light that can give us the sanity we need",
+      "condition": "Visit the Moonlit Lake in Jigsaw Puzzle World"
+    },
+    "puppet_show": {
+      "name": "Broken Inside",
+      "description": "There are many traces buried amongst the depth, including fragmented memories",
+      "condition": "湖底の一軒家でイベントを見る"
+    },
+    "streetlights_azure_garden": {
+      "name": "Night Garden",
+      "description": "Flowers glow softly in the garden of night",
+      "condition": "Stand under the flower lamp in Azure Garden"
+    },
+    "celestial_garden_bluz": {
+      "name": "Dream's Edge",
+      "description": "A tranquil, quiet corner of the dream world.",
+      "condition": "Use the Railroad Crossing effect between the blue creatures in Celestial Garden"
     }
   },
   "flow": {
@@ -3355,6 +3423,11 @@
       "name": "招かれざる客",
       "description": "今日はあまり社交的じゃなさそうだ……",
       "condition": "Mirror Roomのドアをノックする"
+    },
+    "eye_stalk_toxic": {
+      "name": "You're Toxic!",
+      "description": "I'm getting the hell away from you!",
+      "condition": "Freak out the eye-stalk creature in Neon Sewers by using the Toxic alter"
     }
   },
   "someday": {
@@ -3662,6 +3735,16 @@
       "name": "集合体恐怖症",
       "description": "電気のスイッチが見えますね。ほら、どうすればいいのかお判りでしょう...",
       "condition": "Trixboa eventを見てthe looping fieldに到達する"
+    },
+    "dog_alphabet": {
+      "name": "D for Dog",
+      "description": "How cute~ Nice to meet you!",
+      "condition": "Interact with the dog in Alphabet Tower"
+    },
+    "flesh_trees_mound": {
+      "name": "Flesh Tree Rave",
+      "description": "Seems like they're talking to you. Who knows what they're saying?",
+      "condition": "Trigger the Flesh Trees event in Metal Mounds"
     }
   },
   "braingirl": {
@@ -3733,6 +3816,11 @@
       "name": "死の門",
       "description": "荒涼とした霊廟",
       "condition": "Graveyardに到達する"
+    },
+    "cubic_ruins": {
+      "name": "Cubes Lost to Time",
+      "description": "An ancient wonder built since time immemorial, awaiting its discovery.",
+      "condition": "Cubic Ruinsに到達する"
     }
   },
   "amillusion": {
@@ -3986,6 +4074,11 @@
       "name": "ERROR404",
       "description": "PCを再起動する必要があります。シフトを長押ししてもどってください。",
       "condition": "Glitchに行く"
+    },
+    "flower_field": {
+      "name": "Happy!",
+      "description": "Movement speed increased and monster spawns- ...sorry, wrong game.",
+      "condition": "Flower Fieldに到達する"
     }
   },
   "genie": {
@@ -4317,10 +4410,6 @@
     "secret_journal": {
       "name": "秘密の日記",
       "condition": "部屋でJournalイベントを見る"
-    },
-    "tako_miko": {
-      "name": "New Badge",
-      "condition": "神社最深部で、賽銭箱に1000円入れてみこを入手する"
     },
     "rabbit_sea": {
       "name": "海のウサギ",

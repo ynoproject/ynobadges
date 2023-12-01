@@ -378,6 +378,10 @@
     "forest_namekuji": {
       "name": "Bou et Gou",
       "condition": "Interagir avec les deux types de Namekuji dans le Forest World"
+    },
+    "white_tulip": {
+      "name": "Pluie et fleurs",
+      "condition": "Visiter le passage aux tulipes blanches reliant le Sky Garden et le Ghost World"
     }
   },
   "2kki": {
@@ -2965,6 +2969,70 @@
     "owl_astronomy_hall": {
       "name": "Hout Hout !",
       "condition": "Utiliser l'effet Loup pour effrayer l'hibou dans l'Astronomical Gallery"
+    },
+    "hourglass_desert": {
+      "name": "L'écoulement du temps de l'Hourglass Desert",
+      "description": "Un nomade dans un désert de sabliers",
+      "condition": "Entrer dans l'Hourglass Desert"
+    },
+    "holiday_hell_fish": {
+      "name": "Partie pêcher",
+      "description": "Les poissons m'aiment, mais mes rêves me craignent...",
+      "condition": "Voir le paysage nocturne avec le bateau de pêche dans l'Holiday Hell"
+    },
+    "doppelganger_room": {
+      "name": "Copie statique",
+      "description": "Un léger changement de perspective.",
+      "condition": "Entrer dans la Chambre du Sosie dans le Static Labyrinth"
+    },
+    "hallucination_laboratory": {
+      "name": "Petite rêveuse trébuchante",
+      "condition": "Compléter l'événement d'Hallucination"
+    },
+    "hall_of_memories_hug": {
+      "name": "Happy Ending",
+      "description": "Quelle réunion chaleureuse...",
+      "condition": "Compléter l'événement dans le Hall of Memories"
+    },
+    "candy": {
+      "name": "Visite chez le dentiste",
+      "description": "Le sucre c'est mauvais pour la santé ! Mais c'est tellement bon...",
+      "condition": "Visiter les lieux basés sur le thème de la confection suivants : Chocolate World, Cutlery World, Sugar World (comprend les Sugary Depths), Candy Cane Fields, Ice Cream Dream, Cube of Sweets, Chocolate Tower, Dessert Fields (zone principale)"
+    },
+    "kigaru": {
+      "name": "Clé du havre céleste",
+      "description": "Dans le havre de coton rose duveteux se trouve une fille affublée d'une clé chatoyante en tant que couvre-chef.",
+      "condition": "Prendre la clé de Kīgāru dans le Cotton Candy Haven"
+    },
+    "foliage_estate_satellite_dish": {
+      "name": "Nuit sans fin",
+      "description": "Une rêverie de poussières d'étoiles.",
+      "condition": "Se rendre dans la zone de l'antenne satellite se trouvant dans le Foliage Estate"
+    },
+    "shallows_of_deceit_rooftop": {
+      "name": "Toit étoilé",
+      "description": "Une vue magnifique au cours d'une nuit noire",
+      "condition": "Aller sur le toit des Shallows of Deceit"
+    },
+    "tranquil_crescent": {
+      "name": "Clair de lune",
+      "description": "La lumière qu'émet ce lac permet de soigner votre santé mentale",
+      "condition": "Visiter le Lac au Clair de Lune dans le Jigsaw Puzzle World"
+    },
+    "puppet_show": {
+      "name": "Brisée de l'intérieur",
+      "description": "Il y a beaucoup de traces enfouies dans les profondeurs, dont des souvenirs fragmentés",
+      "condition": "Voir le show de marionnettes dans l'Ocean Floor"
+    },
+    "streetlights_azure_garden": {
+      "name": "Jardin nocturne",
+      "description": "Les fleurs brillent doucement dans le jardin de la nuit",
+      "condition": "Se tenir sous la tul-ampe de l'Azure Garden"
+    },
+    "celestial_garden_bluz": {
+      "name": "Bordure du rêve",
+      "description": "Un coin silencieux et tranquille du monde onirique.",
+      "condition": "Utiliser l'effet Croisement entre les créatures bleues dans le Celestial Garden"
     }
   },
   "flow": {
@@ -3356,6 +3424,11 @@
       "name": "Invitée indésirable",
       "description": "Ils n'ont pas l'air très amicaux aujourd'hui...",
       "condition": "Toquer à la porte de la Mirror Room"
+    },
+    "eye_stalk_toxic": {
+      "name": "T'es toxique !",
+      "description": "N'ose pas t'approcher de moi, monstre !",
+      "condition": "Effrayer la créature tigœil dans les Neon Sewers en utilisant l'alter Toxique"
     }
   },
   "someday": {
@@ -3663,6 +3736,16 @@
       "name": "Trypophobie",
       "description": "Je sais que tu vois très bien ce joli interrupteur. Il ne te reste plus qu'une chose à faire~ ♪",
       "condition": "Entrer dans la zone bouclante de l'événement Trixboa"
+    },
+    "dog_alphabet": {
+      "name": "D pour dogue",
+      "description": "Comme il est trop choupiii~ Je suis heureux de te rencontrer !",
+      "condition": "Interagir avec le chien dans l'Alphabet Tower"
+    },
+    "flesh_trees_mound": {
+      "name": "Rave des arbres chairs",
+      "description": "On dirait qu'ils essayent de te parler. Qui sait ce qu'ils peuvent bien raconter ?",
+      "condition": "Déclencher l'événement des arbres chairs dans Metal Mounds"
     }
   },
   "braingirl": {
@@ -3734,6 +3817,11 @@
       "name": "Aux portes de la mort",
       "description": "Mausolée désolée",
       "condition": "Visiter le Graveyard"
+    },
+    "cubic_ruins": {
+      "name": "Cubes figés dans le temps",
+      "description": "Une ancienne merveille construite en des temps immémoriaux, n'attendant plus qu'à être découverte.",
+      "condition": "Entrer dans les Cubic Ruins"
     }
   },
   "amillusion": {
@@ -3987,6 +4075,11 @@
       "name": "ERREUR 404",
       "description": "Votre ordinateur doit redémarrer : veuillez maintenir Maj pour retourner.",
       "condition": "Aller à Glitch"
+    },
+    "flower_field": {
+      "name": "Heureux !",
+      "description": "Vitesse de déplacement augmentée et apparition de monstres ré- ...désolé, c'était pas le bon script.",
+      "condition": "Visiter le Flower Field"
     }
   },
   "genie": {
@@ -4318,10 +4411,6 @@
     "secret_journal": {
       "name": "Journal secret",
       "condition": "Déclencher l'événement du Journal dans la Salle de l'Écolière"
-    },
-    "tako_miko": {
-      "name": "Honorable donateur",
-      "condition": "Faire une offrande de 1000 yen à la Miko pour obtenir l'effet Miko dans le Miko Shrine"
     },
     "rabbit_sea": {
       "name": "Lièvre de mer",

@@ -378,6 +378,10 @@
     "forest_namekuji": {
       "name": "Boo and Goo",
       "condition": "Interact with the two types of Namekuji in Forest World"
+    },
+    "white_tulip": {
+      "name": "Rain and Flowers",
+      "condition": "Visit the white tulip passage between Sky Garden and Ghost World"
     }
   },
   "2kki": {
@@ -2965,6 +2969,70 @@
     "owl_astronomy_hall": {
       "name": "Hoot Hoot!",
       "condition": "Use the Wolf effect to scare the owl in Astronomical Gallery"
+    },
+    "hourglass_desert": {
+      "name": "The Hourglass Desert Scale",
+      "description": "A wanderer in a desert of hourglass",
+      "condition": "Enter Hourglass Desert"
+    },
+    "holiday_hell_fish": {
+      "name": "Gone Fishing",
+      "description": "Fish love me, dreams fear me...",
+      "condition": "See the night scenery with the fishing boat in Holiday Hell"
+    },
+    "doppelganger_room": {
+      "name": "Static Look-alike",
+      "description": "A slight change of perspective.",
+      "condition": "Enter the Doppelgänger Room in the Static Labyrinth"
+    },
+    "hallucination_laboratory": {
+      "name": "Little Stumbling Dreamer",
+      "condition": "Complete the Hallucination event"
+    },
+    "hall_of_memories_hug": {
+      "name": "Happy Ending",
+      "description": "What a heartwarming reunion...",
+      "condition": "Complete the event in Hall of Memories"
+    },
+    "candy": {
+      "name": "Visit to the Dentist",
+      "description": "Yummy sugar...",
+      "condition": "抵达下列以甜点为主题的地点: 巧克力世界, 餐具世界, 砂糖世界（包括砂糖深渊）, 拐杖糖平原, 冰淇淋梦, 甜点方块, 巧克力塔, 甜点平原（主区域）"
+    },
+    "kigaru": {
+      "name": "Heavenly Haven's Key",
+      "description": "In the haven of fluffy pink cotton sits a dressed girl with a shimmering key as her headwear.",
+      "condition": "Take Kīgāru's key in Cotton Candy Haven"
+    },
+    "foliage_estate_satellite_dish": {
+      "name": "Eternal Night",
+      "description": "A stardust reverie.",
+      "condition": "Visit the Satellite Dish in Foliage Estate"
+    },
+    "shallows_of_deceit_rooftop": {
+      "name": "Starry Rooftop",
+      "description": "A beautiful view on a dark night",
+      "condition": "抵达谎言浅滩的屋顶"
+    },
+    "tranquil_crescent": {
+      "name": "Moonlight",
+      "description": "The light that can give us the sanity we need",
+      "condition": "Visit the Moonlit Lake in Jigsaw Puzzle World"
+    },
+    "puppet_show": {
+      "name": "Broken Inside",
+      "description": "There are many traces buried amongst the depth, including fragmented memories",
+      "condition": "在 Ocean Floor 观赏人偶戏"
+    },
+    "streetlights_azure_garden": {
+      "name": "Night Garden",
+      "description": "Flowers glow softly in the garden of night",
+      "condition": "Stand under the flower lamp in Azure Garden"
+    },
+    "celestial_garden_bluz": {
+      "name": "Dream's Edge",
+      "description": "A tranquil, quiet corner of the dream world.",
+      "condition": "Use the Railroad Crossing effect between the blue creatures in Celestial Garden"
     }
   },
   "flow": {
@@ -3356,6 +3424,11 @@
       "name": "Uninvited Guest",
       "description": "They don't sound very sociable today...",
       "condition": "Knock on the door in the Mirror Room"
+    },
+    "eye_stalk_toxic": {
+      "name": "You're Toxic!",
+      "description": "I'm getting the hell away from you!",
+      "condition": "Freak out the eye-stalk creature in Neon Sewers by using the Toxic alter"
     }
   },
   "someday": {
@@ -3663,6 +3736,16 @@
       "name": "密集恐惧症",
       "description": "你找到开关了吧，那你应该知道下一步怎么做...",
       "condition": "抵达位于 Trixboa event 的 looping field。"
+    },
+    "dog_alphabet": {
+      "name": "D for Dog",
+      "description": "How cute~ Nice to meet you!",
+      "condition": "Interact with the dog in Alphabet Tower"
+    },
+    "flesh_trees_mound": {
+      "name": "Flesh Tree Rave",
+      "description": "Seems like they're talking to you. Who knows what they're saying?",
+      "condition": "Trigger the Flesh Trees event in Metal Mounds"
     }
   },
   "braingirl": {
@@ -3734,6 +3817,11 @@
       "name": "Gate of Death",
       "description": "Bleak mausoleum",
       "condition": "Visit Graveyard"
+    },
+    "cubic_ruins": {
+      "name": "Cubes Lost to Time",
+      "description": "An ancient wonder built since time immemorial, awaiting its discovery.",
+      "condition": "进入 Cubic Ruins。"
     }
   },
   "amillusion": {
@@ -3987,6 +4075,11 @@
       "name": "ERROR404",
       "description": "这台计算机需要重新启动；请按住shift返回。",
       "condition": "抵达 Glitch 世界。"
+    },
+    "flower_field": {
+      "name": "Happy!",
+      "description": "Movement speed increased and monster spawns- ...sorry, wrong game.",
+      "condition": "抵达 Flower Field。"
     }
   },
   "genie": {
@@ -4318,10 +4411,6 @@
     "secret_journal": {
       "name": "秘密日记",
       "condition": "触发 Schoolgirl's Room 的秘密日记事件。"
-    },
-    "tako_miko": {
-      "name": "没想到吧，你又得到了一个新徽章！",
-      "condition": "奉献1000元后获得位于 Miko Shrine 的巫女效果。"
     },
     "rabbit_sea": {
       "name": "海兔",

@@ -378,6 +378,10 @@
     "forest_namekuji": {
       "name": "부와 구",
       "condition": "Forest World에서 두 가지 종류의 유령과 상호작용하기"
+    },
+    "white_tulip": {
+      "name": "Rain and Flowers",
+      "condition": "Visit the white tulip passage between Sky Garden and Ghost World"
     }
   },
   "2kki": {
@@ -2965,6 +2969,70 @@
     "owl_astronomy_hall": {
       "name": "부엉 부엉!",
       "condition": "Astronomical Gallery에서 늑대 이펙트를 사용해 부엉이를 겁 주기"
+    },
+    "hourglass_desert": {
+      "name": "The Hourglass Desert Scale",
+      "description": "A wanderer in a desert of hourglass",
+      "condition": "Enter Hourglass Desert"
+    },
+    "holiday_hell_fish": {
+      "name": "Gone Fishing",
+      "description": "Fish love me, dreams fear me...",
+      "condition": "See the night scenery with the fishing boat in Holiday Hell"
+    },
+    "doppelganger_room": {
+      "name": "Static Look-alike",
+      "description": "A slight change of perspective.",
+      "condition": "Enter the Doppelgänger Room in the Static Labyrinth"
+    },
+    "hallucination_laboratory": {
+      "name": "Little Stumbling Dreamer",
+      "condition": "Complete the Hallucination event"
+    },
+    "hall_of_memories_hug": {
+      "name": "Happy Ending",
+      "description": "What a heartwarming reunion...",
+      "condition": "Complete the event in Hall of Memories"
+    },
+    "candy": {
+      "name": "Visit to the Dentist",
+      "description": "Yummy sugar...",
+      "condition": "과자 테마인 Chocolate World, Cutlery World, Suagr World (Sugary Depths 포함), Candy Cane Fields, Ice Cream Dream, Cube of Sweets, Chocolate Tower, Dessert Fields (메인 지역)를 모두 방문하기"
+    },
+    "kigaru": {
+      "name": "Heavenly Haven's Key",
+      "description": "In the haven of fluffy pink cotton sits a dressed girl with a shimmering key as her headwear.",
+      "condition": "Take Kīgāru's key in Cotton Candy Haven"
+    },
+    "foliage_estate_satellite_dish": {
+      "name": "Eternal Night",
+      "description": "A stardust reverie.",
+      "condition": "Visit the Satellite Dish in Foliage Estate"
+    },
+    "shallows_of_deceit_rooftop": {
+      "name": "Starry Rooftop",
+      "description": "A beautiful view on a dark night",
+      "condition": "Shallows of Deceit의 옥상 서브 에리어를 방문하기"
+    },
+    "tranquil_crescent": {
+      "name": "Moonlight",
+      "description": "The light that can give us the sanity we need",
+      "condition": "Visit the Moonlit Lake in Jigsaw Puzzle World"
+    },
+    "puppet_show": {
+      "name": "Broken Inside",
+      "description": "There are many traces buried amongst the depth, including fragmented memories",
+      "condition": "Ocean Floor에서 인형극을 관람하기"
+    },
+    "streetlights_azure_garden": {
+      "name": "Night Garden",
+      "description": "Flowers glow softly in the garden of night",
+      "condition": "Stand under the flower lamp in Azure Garden"
+    },
+    "celestial_garden_bluz": {
+      "name": "Dream's Edge",
+      "description": "A tranquil, quiet corner of the dream world.",
+      "condition": "Use the Railroad Crossing effect between the blue creatures in Celestial Garden"
     }
   },
   "flow": {
@@ -3356,6 +3424,11 @@
       "name": "초대되지 않은 손님",
       "description": "오늘은 별로 사람을 만나고 싶어 하지 않는 것 같네...",
       "condition": "거울의 방(Mirror room)에서 문을 두드리기"
+    },
+    "eye_stalk_toxic": {
+      "name": "You're Toxic!",
+      "description": "I'm getting the hell away from you!",
+      "condition": "Freak out the eye-stalk creature in Neon Sewers by using the Toxic alter"
     }
   },
   "someday": {
@@ -3663,6 +3736,16 @@
       "name": "환공포증",
       "description": "저기 있는 전등 스위치 보고 있는 거 알고 있어요. 뭘 해야 할지는 아시겠죠...",
       "condition": "Trixboa 이벤트에서 루프되는 공간에 들어가기"
+    },
+    "dog_alphabet": {
+      "name": "D for Dog",
+      "description": "How cute~ Nice to meet you!",
+      "condition": "Interact with the dog in Alphabet Tower"
+    },
+    "flesh_trees_mound": {
+      "name": "Flesh Tree Rave",
+      "description": "Seems like they're talking to you. Who knows what they're saying?",
+      "condition": "Trigger the Flesh Trees event in Metal Mounds"
     }
   },
   "braingirl": {
@@ -3734,6 +3817,11 @@
       "name": "죽음의 문",
       "description": "황량한 마우솔레움",
       "condition": "Graveyard를 방문하기"
+    },
+    "cubic_ruins": {
+      "name": "Cubes Lost to Time",
+      "description": "An ancient wonder built since time immemorial, awaiting its discovery.",
+      "condition": "Cubic Ruins 을 방문하기"
     }
   },
   "amillusion": {
@@ -3987,6 +4075,11 @@
       "name": "404 오류",
       "description": "PC를 재시작해야 합니다. 돌아가기 위해 Shift 키를 길게 누르세요.",
       "condition": "Glitch에 도달하기"
+    },
+    "flower_field": {
+      "name": "Happy!",
+      "description": "Movement speed increased and monster spawns- ...sorry, wrong game.",
+      "condition": "Flower Field 에 도달하기"
     }
   },
   "genie": {
@@ -4318,10 +4411,6 @@
     "secret_journal": {
       "name": "비밀 일기",
       "condition": "Schoolgirl's Room에서 Journal 이벤트를 감상하기"
-    },
-    "tako_miko": {
-      "name": "New Badge",
-      "condition": "Miko Shrine에서 무녀에게 1000엔을 기부하고 Miko 이펙트를 얻기"
     },
     "rabbit_sea": {
       "name": "바다 토끼",
