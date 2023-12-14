@@ -3071,6 +3071,35 @@
       "name": "Pastel Grassy Town",
       "description": "A nice place to sit and contemplate the Pastel Grass",
       "condition": "Visit the Pastel Grassland"
+    },
+    "cat_school": {
+      "name": "Hey, little guy...",
+      "description": "That's mean...",
+      "condition": "Use the Wolf effect to scare the cat in School"
+    },
+    "big_cat_school": {
+      "name": "Beloved Dreamer",
+      "description": "It won't be as lonely as it once was",
+      "condition": "See the big cat at the School"
+    },
+    "doll_house": {
+      "name": "Delicate Doll",
+      "description": "Porcelain hearts; delicate and precious",
+      "condition": "Visit the Doll House"
+    },
+    "the_ceiling": {
+      "name": "When the floor is the ceiling",
+      "condition": "Visit The Ceiling"
+    },
+    "board_game_islands": {
+      "name": "Poing Poing",
+      "description": "Let's jump~~!",
+      "condition": "Visit Board Game Islands"
+    },
+    "aquatic_cafe_creature": {
+      "name": "Huh Wuh",
+      "description": "You found me?",
+      "condition": "Interact with the flashing creature on the lone ledge of Aquatic Cafe"
     }
   },
   "flow": {
@@ -3784,6 +3813,11 @@
       "name": "Flesh Tree Rave",
       "description": "Seems like they're talking to you. Who knows what they're saying?",
       "condition": "Trigger the Flesh Trees event in Metal Mounds"
+    },
+    "shimmering_girl": {
+      "name": "Shimmer",
+      "description": "She's gone insubstantial!",
+      "condition": "Starlit Road에서 Seer 이펙트를 사용하여 머리가 빛나는 소녀 NPC를 보기"
     }
   },
   "braingirl": {
@@ -3985,6 +4019,11 @@
     "well_chief": {
       "name": "우물의 지배자",
       "condition": "Mosquies' Village에서 목이 긴 사람을 보고 Dark Lands의 우물 안에 들어가기"
+    },
+    "cartoonboy": {
+      "name": "Color Theory",
+      "description": "I like it, Picasso!",
+      "condition": "Score 100 points in Cartoon Boy"
     }
   },
   "muma": {
@@ -4118,6 +4157,11 @@
       "name": "Happy!",
       "description": "Movement speed increased and monster spawns- ...sorry, wrong game.",
       "condition": "Flower Field 에 도달하기"
+    },
+    "rabbit_proj": {
+      "name": "Electric Shock!!",
+      "description": "The cables of the projector tingled us!",
+      "condition": "Electrify the rabbit in the Projector Room"
     }
   },
   "genie": {
@@ -4382,6 +4426,11 @@
       "name": "지는 해",
       "description": "사소한 것에도 감사히 여기는 순간을 즐겨보자",
       "condition": "Toxic Sewers에서 일몰을 감상하기"
+    },
+    "scarecrow_doll_void": {
+      "name": "Alienation",
+      "description": "You don’t belong here.",
+      "condition": "Reach Scarecrow Doll Void"
     }
   },
   "ultraviolet": {
@@ -4512,6 +4561,10 @@
       "name": "작은 불명예",
       "description": "이게 다 뭐니? 무슨 짓을 한 거야?",
       "condition": "모든 어린 소메츠키를 마주치기"
+    },
+    "creature_dark_forest": {
+      "name": "Lake Dwellers",
+      "condition": "Attract the lake creatures in Dark Forest"
     }
   },
   "sheawaits": {

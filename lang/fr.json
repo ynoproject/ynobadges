@@ -3071,6 +3071,35 @@
       "name": "Village à l'herbe pastel",
       "description": "Un lieu reposant pour s'asseoir et contempler l'herbe pastel",
       "condition": "Visiter les Pastel Grassland"
+    },
+    "cat_school": {
+      "name": "Salut p'tit gars...",
+      "description": "C'est pas très gentil ça...",
+      "condition": "Utiliser l'effet Loup pour effrayer le chat dans la School"
+    },
+    "big_cat_school": {
+      "name": "Rêveur adoré",
+      "description": "Il ne sera plus aussi seul qu'il ne l'était auparavant...",
+      "condition": "Voir l'énorme chat dans la School"
+    },
+    "doll_house": {
+      "name": "Poupée délicate",
+      "description": "Cœurs de porcelaine, délicats et précieux",
+      "condition": "Visiter la Doll House"
+    },
+    "the_ceiling": {
+      "name": "Quand le sol c'est le plafond !",
+      "condition": "Visiter The Ceiling"
+    },
+    "board_game_islands": {
+      "name": "Poing Poing",
+      "description": "Sautons ensemble~~ !",
+      "condition": "Visiter les Board Game Islands"
+    },
+    "aquatic_cafe_creature": {
+      "name": "Huh wuh",
+      "description": "Tu m'as trouvé ?",
+      "condition": "Interagir avec la créature clignotante sur le rebord isolé de l'Aquatic Cafe"
     }
   },
   "flow": {
@@ -3784,6 +3813,11 @@
       "name": "Rave des arbres chairs",
       "description": "On dirait qu'ils essayent de te parler. Qui sait ce qu'ils peuvent bien raconter ?",
       "condition": "Déclencher l'événement des arbres chairs dans Metal Mounds"
+    },
+    "shimmering_girl": {
+      "name": "Étincelante",
+      "description": "Elle a quitté notre plan de l'existence !",
+      "condition": "Utiliser l'effet Voyant pour voir la fille aux cheveux scintillants dans la Starlit Road"
     }
   },
   "braingirl": {
@@ -3985,6 +4019,11 @@
     "well_chief": {
       "name": "Cheffe du puits",
       "condition": "Voir la personne au long cou dans le Mosquies' Village et rentrer dans le puits des Dark Lands"
+    },
+    "cartoonboy": {
+      "name": "Théorie de la couleur",
+      "description": "J'adore ça, Picasso !",
+      "condition": "Marquer 100 points à Cartoon Boy"
     }
   },
   "muma": {
@@ -4118,6 +4157,11 @@
       "name": "Heureux !",
       "description": "Vitesse de déplacement augmentée et apparition de monstres ré- ...désolé, c'était pas le bon script.",
       "condition": "Visiter le Flower Field"
+    },
+    "rabbit_proj": {
+      "name": "Choc électrique !!",
+      "description": "Les câbles du projecteur nous causent des picotements ! Brrrr !",
+      "condition": "Électriser le lapin dans la Projector Room"
     }
   },
   "genie": {
@@ -4382,6 +4426,11 @@
       "name": "Cadre solaire",
       "description": "Prenez un moment pour apprécier les petites choses.",
       "condition": "Voir le coucher de soleil dans Toxic Sewers"
+    },
+    "scarecrow_doll_void": {
+      "name": "Aliénation",
+      "description": "Tu ne devrais pas être là.",
+      "condition": "Atteindre le Scarecrow Doll Void"
     }
   },
   "ultraviolet": {
@@ -4512,6 +4561,10 @@
       "name": "Déshonneur d'antan",
       "description": "Qu'est-ce donc ? Qu'est-ce donc que tu as encore fait ?",
       "condition": "Rencontrer toutes les jeunes Sometsuki"
+    },
+    "creature_dark_forest": {
+      "name": "Habitants du lac",
+      "condition": "Attirer les créatures du lac de la Dark Forest"
     }
   },
   "sheawaits": {
