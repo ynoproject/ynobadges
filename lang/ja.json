@@ -3070,6 +3070,35 @@
       "name": "パステルカラーの大草原",
       "description": "腰を下ろして淡い色を眺めるのに最適な地",
       "condition": "パステル集落に到達する"
+    },
+    "cat_school": {
+      "name": "Hey, little guy...",
+      "description": "That's mean...",
+      "condition": "校内の通路でおおかみを使ってクロネコを怖がらせる"
+    },
+    "big_cat_school": {
+      "name": "Beloved Dreamer",
+      "description": "It won't be as lonely as it once was",
+      "condition": "See the big cat at the School"
+    },
+    "doll_house": {
+      "name": "Delicate Doll",
+      "description": "Porcelain hearts; delicate and precious",
+      "condition": "Visit the Doll House"
+    },
+    "the_ceiling": {
+      "name": "When the Floor is the Ceiling",
+      "condition": "Visit The Ceiling"
+    },
+    "board_game_islands": {
+      "name": "Poing Poing",
+      "description": "Let's jump~~!",
+      "condition": "Visit Board Game Islands"
+    },
+    "aquatic_cafe_creature": {
+      "name": "Huh Wuh",
+      "description": "You found me?",
+      "condition": "Interact with the flashing creature on the lone ledge of Aquatic Cafe"
     }
   },
   "flow": {
@@ -3783,6 +3812,11 @@
       "name": "Flesh Tree Rave",
       "description": "彼らはあなたに話しかけているみたいだ。彼らが何を言ってるのか、誰が知ってる？",
       "condition": "Metal MoundsでFlesh Treesイベントを見る"
+    },
+    "shimmering_girl": {
+      "name": "Shimmer",
+      "description": "She's gone insubstantial!",
+      "condition": "Starlit RoadでSeerエフェクトを使い、sparkly-haired girlを見る"
     }
   },
   "braingirl": {
@@ -3984,6 +4018,11 @@
     "well_chief": {
       "name": "井戸の中から",
       "condition": "Mosquies' Villageで首の長い人を見て、Dark Landsの井戸の中に入る"
+    },
+    "cartoonboy": {
+      "name": "Color Theory",
+      "description": "I like it, Picasso!",
+      "condition": "Score 100 points in Cartoon Boy"
     }
   },
   "muma": {
@@ -4117,6 +4156,11 @@
       "name": "Happy!",
       "description": "Movement speed increased and monster spawns- ...sorry, wrong game.",
       "condition": "Flower Fieldに到達する"
+    },
+    "rabbit_proj": {
+      "name": "Electric Shock!!",
+      "description": "The cables of the projector tingled us!",
+      "condition": "Electrify the rabbit in the Projector Room"
     }
   },
   "genie": {
@@ -4381,6 +4425,11 @@
       "name": "西日",
       "description": "小さなことに感謝する時間を持つ",
       "condition": "Toxic Sewersの日没を見る"
+    },
+    "scarecrow_doll_void": {
+      "name": "Alienation",
+      "description": "You don’t belong here.",
+      "condition": "Reach Scarecrow Doll Void"
     }
   },
   "ultraviolet": {
@@ -4511,6 +4560,10 @@
       "name": "小さな不名誉",
       "description": "それは何？あなたは何をしたの？",
       "condition": "全ての若いそめつきに遭遇する"
+    },
+    "creature_dark_forest": {
+      "name": "Lake Dwellers",
+      "condition": "Attract the lake creatures in Dark Forest"
     }
   },
   "sheawaits": {
