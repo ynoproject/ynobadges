@@ -2995,7 +2995,7 @@
       "condition": "Compléter l'événement dans le Hall of Memories"
     },
     "candy": {
-      "name": "Visite chez le dentiste",
+      "name": "Succulentes sucreries sucrées",
       "description": "Le sucre c'est mauvais pour la santé ! Mais c'est tellement bon...",
       "condition": "Visiter les lieux basés sur le thème de la confection suivants : Chocolate World, Cutlery World, Sugar World (comprend les Sugary Depths), Candy Cane Fields, Ice Cream Dream, Cube of Sweets, Chocolate Tower, Dessert Fields (zone principale)"
     },
@@ -3100,6 +3100,45 @@
       "name": "Huh wuh",
       "description": "Tu m'as trouvé ?",
       "condition": "Interagir avec la créature clignotante sur le rebord isolé de l'Aquatic Cafe"
+    },
+    "gakuran": {
+      "name": "Béguin du garçon itinérant",
+      "condition": "Interagir avec Gakuran-kun en utilisant l'effet Maiko"
+    },
+    "starry_lake_grove": {
+      "name": "Lac étoilé",
+      "description": "Flâner sous une belle nuit étoilée...",
+      "condition": "Révéler le ciel étoilé sur le lac en forme de croissant de lune à Nocturnal Grove"
+    },
+    "blue_steak": {
+      "name": "Steak bleuté",
+      "description": "Tu sais, un « Bien joué ! » aurait suffit...",
+      "condition": "Commander un repas au Blue Restaurant"
+    },
+    "lamplighter_rainy_town": {
+      "name": "L'Allumeur de réverbères",
+      "description": "Je me demande bien quel genre de musique il aime...",
+      "condition": "Voir l'Allumeur de réverbères écoutant de la musique chez lui"
+    },
+    "sunset_school": {
+      "name": "Cours au coucher",
+      "description": "Le soleil se couche à l'horizon, mais la journée n'est pas encore finie pour ces étudiants.",
+      "condition": "Visiter la Sunset School"
+    },
+    "streetlight_thief_pool": {
+      "name": "Pris la main dans le sac !",
+      "description": "Pourquoi as-tu besoin d'autant de réverbères ?",
+      "condition": "Visiter l'antre du Voleur de réverbères dans la Dream Pool"
+    },
+    "bat_jigsaw_puzzle": {
+      "name": "Rencontre aérienne",
+      "description": ">w< salut, camarade volant !",
+      "condition": "Utiliser l'effet Chauve-souris dans le Jigsaw Puzzle World à proximité des créatures volantes"
+    },
+    "fashion_vaporwave_mall": {
+      "name": "Fashionista fuschia",
+      "description": "Magnifique ! Quelle grâce ! Quel style !",
+      "condition": "Voir toutes les tenues de Purple Haze dans le Vaporwave Mall en utilisant vos effets"
     }
   },
   "flow": {
@@ -3249,6 +3288,11 @@
       "name": "Jolie statue",
       "description": "Un lieu secret à travers un trou dans un visage.",
       "condition": "Atteindre hole in girl"
+    },
+    "hole_in_sugar_girl": {
+      "name": "Une étrange femme",
+      "description": "C'est un bien bel endroit...",
+      "condition": "Se rendre aux limites de hole in girl et rencontrer quelqu'un de spécial"
     }
   },
   "prayers": {

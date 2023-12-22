@@ -2995,7 +2995,7 @@
       "condition": "Conclua o evento em Hall of Memories"
     },
     "candy": {
-      "name": "Visita ao Dentista",
+      "name": "Sugary Candies",
       "description": "Açúcar gostoso...",
       "condition": "Visite os seguintes locais temáticos de confeitaria: Chocolate World, Cutlery World, Sugar World (incluindo o Sugary Depths), Candy Cane Fields, Ice Cream Dream, Cube of Sweets, Chocolate Tower e Dessert Fields (área principal)"
     },
@@ -3100,6 +3100,45 @@
       "name": "Huh Wuh",
       "description": "You found me?",
       "condition": "Interact with the flashing creature on the lone ledge of Aquatic Cafe"
+    },
+    "gakuran": {
+      "name": "Crush of the Wandering Boy",
+      "condition": "Interact with Gakuran-kun while using the Maiko effect"
+    },
+    "starry_lake_grove": {
+      "name": "Starry Lake",
+      "description": "Taking a stroll during a beautiful night...",
+      "condition": "Reveal the starry sky on the the crescent moon-shaped lake in Nocturnal Grove"
+    },
+    "blue_steak": {
+      "name": "Blue Steak",
+      "description": "You know, a \"Well Done\" would have sufficed.",
+      "condition": "Buy a meal at the Blue Restaurant"
+    },
+    "lamplighter_rainy_town": {
+      "name": "The Lamplighter",
+      "description": "I wonder what he's listening to?",
+      "condition": "See the Lamplighter listening to music in his room"
+    },
+    "sunset_school": {
+      "name": "Study by Sunset",
+      "description": "The sun sets by the horizon, yet the afternoon students continue their day.",
+      "condition": "Visit Sunset School"
+    },
+    "streetlight_thief_pool": {
+      "name": "Caught in The Act",
+      "description": "What do you need all of those for?",
+      "condition": "Visit the Streetlight Thief's lair in the Dream Pool"
+    },
+    "bat_jigsaw_puzzle": {
+      "name": "Flight Encounter",
+      "description": ">w< hello my flying friend!",
+      "condition": "Use the Bat effect in Jigsaw Puzzle World around the flying creatures"
+    },
+    "fashion_vaporwave_mall": {
+      "name": "Fuschia Fashionista",
+      "description": "Such impeccable style!",
+      "condition": "View all of Purple Haze's outfits in the Vaporwave Mall using your effects"
     }
   },
   "flow": {
@@ -3249,6 +3288,11 @@
       "name": "Estátua Doce",
       "description": "Um lugar secreto através de um buraco em um rosto.",
       "condition": "Alcançar o buraco na garota"
+    },
+    "hole_in_sugar_girl": {
+      "name": "A Strange Woman",
+      "description": "This is a nice spot...",
+      "condition": "Navigate to the end of hole in girl and see a specific someone"
     }
   },
   "prayers": {
