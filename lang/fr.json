@@ -1163,7 +1163,7 @@
     "coffee_cup": {
       "name": "Saveur du jour",
       "description": "Un peu plus efficace qu'une pincée.",
-      "condition": "Acheter quelque chose au distributeur automatique dans le Coffee Cup World avec n'importe quel effet équippé"
+      "condition": "Acheter quelque chose au distributeur automatique dans le Coffee Cup World avec n'importe quel effet équipé"
     },
     "lamplighter": {
       "name": "Éteint",
@@ -3117,8 +3117,8 @@
     },
     "lamplighter_rainy_town": {
       "name": "L'Allumeur de réverbères",
-      "description": "Je me demande bien quel genre de musique il aime...",
-      "condition": "Voir l'Allumeur de réverbères écoutant de la musique chez lui"
+      "description": "Je me demande bien quel est son genre de musique préféré...",
+      "condition": "Voir l'Allumeur de réverbères écoutant de la musique dans sa maison"
     },
     "sunset_school": {
       "name": "Cours au coucher",
@@ -3136,7 +3136,7 @@
       "condition": "Utiliser l'effet Chauve-souris dans le Jigsaw Puzzle World à proximité des créatures volantes"
     },
     "fashion_vaporwave_mall": {
-      "name": "Fashionista fuschia",
+      "name": "Fashionista fuchsia",
       "description": "Magnifique ! Quelle grâce ! Quel style !",
       "condition": "Voir toutes les tenues de Purple Haze dans le Vaporwave Mall en utilisant vos effets"
     },
@@ -3168,6 +3168,39 @@
       "name": "Œil enflammé des ombres",
       "description": "Un œil non prévu d'être vu par des yeux rêveurs.",
       "condition": "Tronçonner la Fille Insecte et atteindre la fin du Passage Vide"
+    },
+    "christmas_world_fairy": {
+      "name": "Fée de Noël",
+      "description": "Et voilà un cadeau de la part de la petite fée !",
+      "condition": "Utiliser l'effet Fée pour examiner le bonnet de Noël dans le Christmas World"
+    },
+    "bird_dream_mexico": {
+      "name": "¡Buenas noches Urotsuki!",
+      "condition": "Rendre visite à l'oiseau rouge à Dream Mexico"
+    },
+    "city_subtractive_color": {
+      "name": "Soustractive !",
+      "description": "Une ville remplie de couleurs éblouissantes...",
+      "condition": "Atteindre la partie de ville dans Subtractive Color City"
+    },
+    "shogi_board_bingo": {
+      "name": "Jeu d'argent de société",
+      "description": "Tous ces effets m'ont coûté cher, mais l'aventure n'a pas de prix !",
+      "condition": "Obtenir le montant maximum de 夢 de la case pion en ayant tous les effets obtenus lors de l'interaction"
+    },
+    "carousel_chalkboard": {
+      "name": "Manège en craie",
+      "description": "Ça ne tourne pas ? Plus qu'à l'imaginer tourner alors !",
+      "condition": "Monter sur le manège à Chalkboard Playground"
+    },
+    "moon_t_condominium": {
+      "name": "Pleine lune",
+      "description": "Quel magnifique ciel étoilé...",
+      "condition": "Regarder le ciel sur le toit du Techno Condominium avec l'effet Loup ou Oreilles de lapin équipé"
+    },
+    "luminous_lake_statue": {
+      "name": "Pic du Dragon",
+      "condition": "Visiter le Pic du Dragon au Luminous Lake et voir le dragon à travers le télescope"
     }
   },
   "flow": {
@@ -3322,6 +3355,10 @@
       "name": "Une étrange femme",
       "description": "C'est un bien bel endroit...",
       "condition": "Se rendre aux limites de hole in girl et rencontrer quelqu'un de spécial"
+    },
+    "wastewater_eye": {
+      "name": "Vue rouge de l'œil",
+      "condition": "Voir le Cyclope Rouge lorsque son œil est fermé et lorsqu'il est ouvert"
     }
   },
   "prayers": {
@@ -4087,7 +4124,7 @@
     },
     "rubys_mad_plan": {
       "name": "Le plan fou de Ruby",
-      "condition": "Interagir avec Ruby avec la clé Ronces équippée"
+      "condition": "Interagir avec Ruby avec la clé Ronces équipée"
     },
     "greek_maze_dog": {
       "name": "Chien de garde",
