@@ -3200,6 +3200,43 @@
     "luminous_lake_statue": {
       "name": "頂の龍",
       "condition": "夢徨龍リオドリムスを訪れ、望遠鏡で龍を見る"
+    },
+    "evergreen_woods_vm": {
+      "name": "Why Would You Ever Go Here!?",
+      "description": "You walked all that way for a soda...?",
+      "condition": "Interact with the vending machine in Evergreen Woods"
+    },
+    "2kki_warzone": {
+      "name": "2000 Dream Stare",
+      "description": "Looks like she's been through a lot.",
+      "condition": "Enter Warzone"
+    },
+    "execution_hallway": {
+      "name": "Unusual Passage",
+      "description": "Violence only tends to complicate things",
+      "condition": "Complete the cursed hallway event in Execution Ground"
+    },
+    "shadow_ninetails": {
+      "name": "My New Self",
+      "condition": "Complete the flashback event in Fox Temple and interact with Shadow Ninetails"
+    },
+    "library_coloring_book": {
+      "name": "Reading Rainbow",
+      "description": "Don't worry about staying within the lines.",
+      "condition": "Unlock the coloring book and color in all of the pages"
+    },
+    "urotsuki_bedrooms": {
+      "name": "Urotsuki's Syndrome",
+      "condition": "Visit Urotsuki's room in Urotsuki's Dream Apartments, Drowsy Forest, Mirror Room and Static Labyrinth, and see the Bleak Future and Vertigo Room events"
+    },
+    "2kki_canvas": {
+      "name": "Creative Exercise",
+      "condition": "Visit the Canvas"
+    },
+    "fc_caverns": {
+      "name": "FC Fanatic",
+      "description": "Yume 2kki, my favorite platformer.",
+      "condition": "Visit the three parts of the FC Caverns"
     }
   },
   "flow": {
@@ -3358,6 +3395,11 @@
     "wastewater_eye": {
       "name": "赤い視線",
       "condition": "目が開いているときと閉じているとき両方の赤い目を見る"
+    },
+    "sugar_mirror_rust": {
+      "name": "Eisoptrophobia",
+      "description": "You don't look like you.",
+      "condition": "Gaze into the Sweet Sugar's mirror as Rust"
     }
   },
   "prayers": {
