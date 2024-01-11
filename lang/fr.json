@@ -3201,6 +3201,43 @@
     "luminous_lake_statue": {
       "name": "Pic du Dragon",
       "condition": "Visiter le Pic du Dragon au Luminous Lake et voir le dragon à travers le télescope"
+    },
+    "evergreen_woods_vm": {
+      "name": "Pourquoi es-tu venue ici !?",
+      "description": "Tu as fait tout ce chemin juste pour un soda...?",
+      "condition": "Interagir avec le distributeur automatique dans les Evergreen Woods"
+    },
+    "2kki_warzone": {
+      "name": "Casse-pipe onirique",
+      "description": "Et bien, on dirait qu'elle en a vécu des choses.",
+      "condition": "Entrer dans la Warzone"
+    },
+    "execution_hallway": {
+      "name": "Passage inhabituel",
+      "description": "La violence ne mène qu'à des choses plus compliquées",
+      "condition": "Compléter l'événement du couloir maudit à Execution Ground"
+    },
+    "shadow_ninetails": {
+      "name": "Mon nouveau moi",
+      "condition": "Compléter l'événement de souvenir au Fox Temple et interagir avec la Ninetails Obscure"
+    },
+    "library_coloring_book": {
+      "name": "Lecture arc-en-ciel",
+      "description": "Ne t'en fait pas, ce n'est pas grave si tu dépasses des lignes.",
+      "condition": "Débloquer le livre de coloriage et colorier dans toutes les pages"
+    },
+    "urotsuki_bedrooms": {
+      "name": "Syndrome d'Urotsuki",
+      "condition": "Visiter la chambre d'Urotsuki dans Urotsuki's Dream Apartments, Drowsy Forest, Mirror Room et Static Labyrinth, et voir les événements du Bleak Future et de la Chambre Vertigo"
+    },
+    "2kki_canvas": {
+      "name": "Pause artistique",
+      "condition": "Visiter le Canvas"
+    },
+    "fc_caverns": {
+      "name": "Fanatique FC",
+      "description": "Ah, Yume 2kki, mon jeu de plateformes favori.",
+      "condition": "Visiter les trois parties des FC Caverns"
     }
   },
   "flow": {
@@ -3359,6 +3396,11 @@
     "wastewater_eye": {
       "name": "Vue rouge de l'œil",
       "condition": "Voir le Cyclope Rouge lorsque son œil est fermé et lorsqu'il est ouvert"
+    },
+    "sugar_mirror_rust": {
+      "name": "Spectrophobie",
+      "description": "Tu ne te ressembles pas.",
+      "condition": "Se fixer dans le miroir présent à Sweet Sugar en tant que Rust"
     }
   },
   "prayers": {
