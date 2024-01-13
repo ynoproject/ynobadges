@@ -364,7 +364,7 @@
     },
     "ghostly_assembly": {
       "name": "유령 집회",
-      "description": "쓰리 오브 어 카인드(Three of a Kind)",
+      "description": "트리플",
       "condition": "삼각 두건 이펙트를 착용한 채로 달걀 귀신 유령(Nopperabou ghost), 빨간 유령(Fleebie)과 상호작용하고 식칼 이펙트로 파란 유령(Follony)을 찌르기"
     },
     "wilderness_fan": {
@@ -373,15 +373,15 @@
     },
     "dave_death": {
       "name": "데이비 존스의 보관함",
-      "condition": "White Desert의 데이브 스펙터(Dave Specter) NPC를 칼로 찌르기"
+      "condition": "흑백 세계의 데이브 스펙터(Dave Specter) NPC를 칼로 찌르기"
     },
     "forest_namekuji": {
       "name": "부와 구",
-      "condition": "Forest World에서 두 가지 종류의 유령과 상호작용하기"
+      "condition": "숲의 세계에서 두 가지 종류의 유령과 상호작용하기"
     },
     "white_tulip": {
       "name": "비와 꽃",
-      "condition": "공중정원(Sky Garden)과 콘크리트 폐허(Ghost World) 사이의 하얀 튤립이 핀 길을 방문하기"
+      "condition": "공중정원과 콘크리트 폐허 사이의 하얀 튤립이 핀 길을 방문하기"
     }
   },
   "2kki": {
@@ -1598,7 +1598,7 @@
     },
     "cosmic_daydream": {
       "name": "백일몽",
-      "condition": "Cosmic World내에 위치한 \"어두운 방\"(Dark Room)을 찾아내기"
+      "condition": "Cosmic World 내에 위치한 \"어두운 방\"(Dark Room)을 찾아내기"
     },
     "lonely_garden": {
       "name": "적막한 골목 속의 외로운 정원",
@@ -2971,7 +2971,7 @@
       "condition": "Astronomical Gallery에서 늑대 이펙트를 사용해 부엉이를 겁 주기"
     },
     "hourglass_desert": {
-      "name": "모래시계 사막 저울",
+      "name": "모래시계 사막 천칭",
       "description": "모래시계 사막의 방랑자",
       "condition": "Hourglass Desert에 입장하기"
     },
@@ -2981,7 +2981,7 @@
       "condition": "Holiday Hell에서 낚시 보트와 함께하는 밤 풍경을 보기"
     },
     "doppelganger_room": {
-      "name": "움직이지 않는 닮은 이",
+      "name": "노이즈가 덮인 닮은 이",
       "description": "약간의 관점의 변화",
       "condition": "Static Labyrinth에서 도플갱어 방 서브 에리어에 입장하기"
     },
@@ -2995,9 +2995,9 @@
       "condition": "Hall of Memories에서 이벤트를 완료하기"
     },
     "candy": {
-      "name": "설탕 사탕",
+      "name": "달콤한 사탕",
       "description": "맛있는 설탕...",
-      "condition": "과자 테마인 Chocolate World, Cutlery World, Suagr World (Sugary Depths 포함), Candy Cane Fields, Ice Cream Dream, Cube of Sweets, Chocolate Tower, Dessert Fields (메인 지역)를 모두 방문하기"
+      "condition": "과자 테마인 Chocolate World, Cutlery World, Suagr World(Sugary Depths 포함), Candy Cane Fields, Ice Cream Dream, Cube of Sweets, Chocolate Tower, Dessert Fields(메인 지역)를 모두 방문하기"
     },
     "kigaru": {
       "name": "천국 같은 안식처의 열쇠",
@@ -3020,7 +3020,7 @@
       "condition": "Jigsaw Puzzle World의 Moonlit Lake 서브 에리어를 방문하기"
     },
     "puppet_show": {
-      "name": "망가진 내부",
+      "name": "망가져버린 마음",
       "description": "조각난 기억들과 함께 깊은 곳에 묻힌 많은 흔적들",
       "condition": "Ocean Floor에서 인형극을 관람하기"
     },
@@ -3035,8 +3035,8 @@
       "condition": "Celestial Garden의 푸른 생명체 사이에서 건널목 이펙트를 사용하기"
     },
     "green_neon_world": {
-      "name": "빛나는 수확",
-      "description": "밝고 빛나는 빛의 들판",
+      "name": "빛나는 수확철",
+      "description": "빛의 들판, 반짝이는 발광체들",
       "condition": "Green Neon World를 방문하기"
     },
     "mountain_range_scenery": {
@@ -3045,7 +3045,7 @@
     },
     "victorian_drains_scenery": {
       "name": "금빛의 밤",
-      "description": "먼빛, 그리운 밤",
+      "description": "머나먼 빛, 그리운 밤",
       "condition": "Victorian Drains에서 먼 곳의 도시와 UFO를 보기"
     },
     "fox_temple": {
@@ -3054,7 +3054,7 @@
       "condition": "Fox Temple에 도달하기"
     },
     "gentle_meadows_picnic": {
-      "name": "고요한 잔치",
+      "name": "평온한 모임",
       "description": "가장 예상치 못한 장소에서 새 친구를 사귀다",
       "condition": "Gentle Meadows의 두 번째 구역에서 소풍 나온 무리를 보기"
     },
@@ -3064,11 +3064,11 @@
       "condition": "Grand Beach에서 통조림 상어(Can-dwelling Shark) NPC를 만나기"
     },
     "fabric_world": {
-      "name": "스크랩된 작업물",
+      "name": "폐기된 작업물",
       "condition": "Fabric World를 방문하기"
     },
     "pastel_grassland": {
-      "name": "파스텔 잔디 마을",
+      "name": "파스텔 잔디가 우거진 마을",
       "description": "앉아서 명상하기 좋은 파스텔 잔디밭",
       "condition": "Pastel Grassland를 방문하기"
     },
@@ -3079,12 +3079,12 @@
     },
     "big_cat_school": {
       "name": "사랑받는 몽상가",
-      "description": "한 때처럼 외롭지는 않을 것이다",
+      "description": "이전처럼 외롭지는 않을 것이다",
       "condition": "School에서 커다란 고양이를 보기"
     },
     "doll_house": {
       "name": "섬세한 인형",
-      "description": "섬세하고 귀중한 도자기 심장",
+      "description": "깨지기 쉬운 섬세하고 귀중한 감정",
       "condition": "Doll House를 방문하기"
     },
     "the_ceiling": {
@@ -3126,7 +3126,7 @@
       "condition": "Sunset School을 방문하기"
     },
     "streetlight_thief_pool": {
-      "name": "법에 걸려들다",
+      "name": "현장에서 붙잡히다",
       "description": "그거 다 어디에 쓰실 거죠?",
       "condition": "Dream Pool에서 가로등 도둑의 은신처 서브 에리어를 방문하기"
     },
@@ -3136,7 +3136,7 @@
       "condition": "Jigsaw Puzzle World의 날아다니는 생명체 근처에서 박쥐 이펙트를 사용하기"
     },
     "fashion_vaporwave_mall": {
-      "name": "푸시아 패셔니스타",
+      "name": "자홍색 패셔니스타",
       "description": "흠잡을 데 없는 스타일인데!",
       "condition": "Vaporwave Mall에서 가지고 있는 이펙트를 사용하여 보랏빛 아지랑이(Purple Haze) NPC의 모든 의상을 보기"
     },
@@ -3147,17 +3147,17 @@
     },
     "head_wasteland": {
       "name": "푸른 하늘 아래 붉은 머리",
-      "description": "정말 놀라워...",
+      "description": "정말 인상적이야...",
       "condition": "Head Wasteland에서 여성의 머리를 보기"
     },
     "japan_town_secrets": {
-      "name": "오래된 시간",
-      "description": "와인처럼 오래된",
+      "name": "옛 시대의",
+      "description": "와인처럼 숙성된",
       "condition": "Japan Town에서 유령 마이코 NPC를 찾고, 안경 이펙트를 사용해 고립된 방에 있는 숨겨진 생명체들을 찾고, 화살표 간판 NPC, 신문을 읽는 NPC와 상호작용하기"
     },
     "himalayan_lighthouse": {
       "name": "소금 등대",
-      "description": "여기 와서 건강에 뭐가 좋은지 전혀 모르겠어...",
+      "description": "여기 와서 건강에 뭐가 좋은 건지 전혀 모르겠어...",
       "condition": "Himalayan Salt Shoal에서 등대에 입장하기"
     },
     "disco_digital_alley": {
@@ -3165,8 +3165,8 @@
       "condition": "Digital Alley에서 디스코 무대 위에 발을 들이기"
     },
     "scenic_blank_path_end": {
-      "name": "어둠의 불타는 눈",
-      "description": "꿈 꾸는 듯한 눈으로 볼 수 없는 눈",
+      "name": "그림자의 불타는 눈",
+      "description": "꿈꾸는 듯한 눈으로 볼 수 없는 눈",
       "condition": "벌레 소녀(Bug Girl) NPC를 전기톱 이펙트로 공격하고 Blank Path의 끝에 도달하기"
     },
     "christmas_world_fairy": {
@@ -3179,7 +3179,7 @@
       "condition": "Dream Mexico의 붉은 새를 방문하기"
     },
     "city_subtractive_color": {
-      "name": "감산!",
+      "name": "감색!",
       "description": "번쩍이는 빛으로 가득한 도시",
       "condition": "Subtractive Color City에서 도시 구역에 도달하기"
     },
@@ -3199,45 +3199,45 @@
       "condition": "Techno Condominium의 옥상에서 늑대 또는 토끼귀 이펙트를 착용하고 하늘을 올려다 보기"
     },
     "luminous_lake_statue": {
-      "name": "용의 정점",
+      "name": "우뚝 솟은 용",
       "condition": "Luminous Lake의 Dragon's Peak 서브 에리어를 방문하고 망원경을 통해 용을 보기"
     },
     "evergreen_woods_vm": {
-      "name": "Why Would You Ever Go Here!?",
-      "description": "You walked all that way for a soda...?",
-      "condition": "Interact with the vending machine in Evergreen Woods"
+      "name": "여길 왜 가는 거야!?",
+      "description": "탄산음료 마시려고 그 길을 걸어왔다고...?",
+      "condition": "Evergreen Woods에서 자판기와 상호작용하기"
     },
     "2kki_warzone": {
-      "name": "2000 Dream Stare",
-      "description": "Looks like she's been through a lot.",
-      "condition": "Enter Warzone"
+      "name": "2000 꿈 응시",
+      "description": "그녀는 많은 일을 겪은 것처럼 보인다",
+      "condition": "Warzone에 입장하기"
     },
     "execution_hallway": {
-      "name": "Unusual Passage",
-      "description": "Violence only tends to complicate things",
-      "condition": "Complete the cursed hallway event in Execution Ground"
+      "name": "비일상적 통로",
+      "description": "폭력은 일을 복잡하게 만들 뿐이다",
+      "condition": "Execution Ground에서 cursed hallway 이벤트를 완료하기"
     },
     "shadow_ninetails": {
-      "name": "My New Self",
-      "condition": "Complete the flashback event in Fox Temple and interact with Shadow Ninetails"
+      "name": "새로운 나",
+      "condition": "Fox Temple에서 flashback 이벤트를 완료하고 그림자 구미호 NPC와 상호작용하기"
     },
     "library_coloring_book": {
-      "name": "Reading Rainbow",
-      "description": "Don't worry about staying within the lines.",
-      "condition": "Unlock the coloring book and color in all of the pages"
+      "name": "무지개를 읽다",
+      "description": "선 안에 머무르는 것에 대해 걱정하지 마.",
+      "condition": "컬러링 북을 해금하고 모든 페이지의 색을 채우기"
     },
     "urotsuki_bedrooms": {
-      "name": "Urotsuki's Syndrome",
-      "condition": "Visit Urotsuki's room in Urotsuki's Dream Apartments, Drowsy Forest, Mirror Room and Static Labyrinth, and see the Bleak Future and Vertigo Room events"
+      "name": "우로츠키 증후군",
+      "condition": "Urotsuki's Dream Apartments의 우로츠키의 방, Drowsy Forest, Mirror Room, Static Labyrinth를 방문하고, Bleak Future와 Vertigo 이벤트를 보기"
     },
     "2kki_canvas": {
-      "name": "Creative Exercise",
-      "condition": "Visit the Canvas"
+      "name": "창조적인 연습",
+      "condition": "Canvas를 방문하기"
     },
     "fc_caverns": {
-      "name": "FC Fanatic",
-      "description": "Yume 2kki, my favorite platformer.",
-      "condition": "Visit the three parts of the FC Caverns"
+      "name": "FC 광신도",
+      "description": "내가 제일 좋아하는 플랫폼 게임, 유메2키.",
+      "condition": "FC Caverns의 세 구역을 방문하기"
     }
   },
   "flow": {
@@ -3389,7 +3389,7 @@
       "condition": "소녀 안 구멍에 들어가기"
     },
     "hole_in_sugar_girl": {
-      "name": "낯선 여자",
+      "name": "낯선 여성",
       "description": "여긴 좋은 곳이네...",
       "condition": "소녀 안 구멍의 끝을 탐색하고 특정 인물을 목격하기"
     },
@@ -3398,9 +3398,9 @@
       "condition": "붉은 외눈이 떠있을 때와 감겨있을 때를 모두 보기"
     },
     "sugar_mirror_rust": {
-      "name": "Eisoptrophobia",
-      "description": "You don't look like you.",
-      "condition": "Gaze into the Sweet Sugar's mirror as Rust"
+      "name": "거울공포증",
+      "description": "네가 네가 아닌 것 같아.",
+      "condition": "러스트가 된 상태에서 스윗 슈가 호텔의 거울을 응시하기"
     }
   },
   "prayers": {
@@ -3645,7 +3645,7 @@
       "condition": "거울의 방(Mirror room)에서 문을 두드리기"
     },
     "eye_stalk_toxic": {
-      "name": "치명적인 녀석!",
+      "name": "독한 녀석!",
       "description": "너한테서 떨어져야겠어!",
       "condition": "네온 하수구에서 유독성 변환을 사용하여 눈이 달린 생명체를 놀라게 하기"
     }
@@ -3933,7 +3933,7 @@
     },
     "fast_food_toys": {
       "name": "장난감들!",
-      "description": "장난감, 넌 내꺼야!",
+      "description": "장난감, 넌 내 거야!",
       "condition": "Fast Food World에 위치한 모든 장난감을 얻고 Shoe Rack 장소를 해금하기"
     },
     "roadside_diner": {
