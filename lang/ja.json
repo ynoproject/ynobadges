@@ -3202,41 +3202,41 @@
       "condition": "夢徨龍リオドリムスを訪れ、望遠鏡で龍を見る"
     },
     "evergreen_woods_vm": {
-      "name": "なぜこんなところに行くのですか?",
-      "description": "ソーダを飲みにここまで来たのかい...?",
-      "condition": "夢森の自動販売機を使う"
+      "name": "Why Would You Ever Go Here!?",
+      "description": "You walked all that way for a soda...?",
+      "condition": "Interact with the vending machine in Evergreen Woods"
     },
     "2kki_warzone": {
       "name": "2000 Dream Stare",
-      "description": "この顔つきから察するに多くの戦線を生き延びたようだ",
-      "condition": "武器世界に到達する"
+      "description": "Looks like she's been through a lot.",
+      "condition": "Enter Warzone"
     },
     "execution_hallway": {
-      "name": "奇怪な通り道",
-      "description": "暴力は物事をこじらせるだけに過ぎない",
-      "condition": "アトリエのブロンドの女の子を切った後に見ることができる落書き通路のイベントを見る"
+      "name": "Unusual Passage",
+      "description": "Violence only tends to complicate things",
+      "condition": "Complete the cursed hallway event in Execution Ground"
     },
     "shadow_ninetails": {
-      "name": "新たな自分",
-      "condition": "祈願のイベントを終わらせて、叶捧で黒い九尾の狐と対話する"
+      "name": "My New Self",
+      "condition": "Complete the flashback event in Fox Temple and interact with Shadow Ninetails"
     },
     "library_coloring_book": {
       "name": "Reading Rainbow",
-      "description": "上手く塗れなくても大丈夫",
-      "condition": "塗り絵　色の本を解禁してすべてのページを塗る"
+      "description": "Don't worry about staying within the lines.",
+      "condition": "Unlock the coloring book and color in all of the pages"
     },
     "urotsuki_bedrooms": {
-      "name": "うろつきシンドローム",
-      "condition": "うろつき邸、部屋、心象、鏡の夢部屋、夢の夢部屋、うつろにあるうろつきの部屋を見る"
+      "name": "Urotsuki's Syndrome",
+      "condition": "Visit Urotsuki's room in Urotsuki's Dream Apartments, Drowsy Forest, Mirror Room and Static Labyrinth, and see the Bleak Future and Vertigo Room events"
     },
     "2kki_canvas": {
       "name": "Creative Exercise",
-      "condition": "ペイントツールに到達する"
+      "condition": "Visit the Canvas"
     },
     "fc_caverns": {
-      "name": "FC信者",
-      "description": "私が好きなアクションゲームは「ゆめ２っき」",
-      "condition": "3種類のFCバグステージに到達する"
+      "name": "FC Fanatic",
+      "description": "Yume 2kki, my favorite platformer.",
+      "condition": "Visit the three parts of the FC Caverns"
     }
   },
   "flow": {
@@ -3397,9 +3397,9 @@
       "condition": "目が開いているときと閉じているとき両方の赤い目を見る"
     },
     "sugar_mirror_rust": {
-      "name": "鏡面恐怖症",
-      "description": "あなたには似ていない",
-      "condition": "Sweet Sugarの鏡を錆状態で見る"
+      "name": "Eisoptrophobia",
+      "description": "You don't look like you.",
+      "condition": "Gaze into the Sweet Sugar's mirror as Rust"
     }
   },
   "prayers": {
@@ -4787,89 +4787,89 @@
   },
   "oversomnia": {
     "aeroplane_world": {
-      "name": "To The Skies!",
-      "description": "It's a bird? it's a plane? No, it's both of them! In the same sky!",
-      "condition": "Enter the Aeroplane World"
+      "name": "空高く！",
+      "description": "鳥か？飛行機か？いや、両方だ！同じ空にいる！",
+      "condition": "Aeroplane Worldに到達する"
     },
     "fishing_hole": {
-      "name": "Book of Fish",
-      "description": "Every great game has a fishing minigame!",
-      "condition": "Complete the fish record in the Fishing Hole by acquiring all fish types there"
+      "name": "魚図鑑",
+      "description": "素晴らしいゲームには必ず釣りのミニゲームがある！",
+      "condition": "Fishing Holeですべての種類の魚を獲得し、魚の記録を完成させる。"
     },
     "shrimpland": {
-      "name": "Shrimple as that!",
-      "description": "It's an all-you-can-eat buffet!",
-      "condition": "Turn Emerald Shrubland into Emerald Shrimpland"
+      "name": "実にシュリンプル！",
+      "description": "食べ放題バイキング！",
+      "condition": "Emerald Shrublandをエビまみれにする"
     },
     "deepest_vision": {
-      "name": "The Vision",
+      "name": "ビジョン",
       "description": "...",
-      "condition": "Interact with the hole in Lowest Point and trigger the event"
+      "condition": "Lowest Pointの穴を調べ、イベントを発生させる"
     },
     "swamp_world": {
-      "name": "Abandoned Docks",
-      "description": "Fishing Alone.",
-      "condition": "Visit Swamp World for the first time"
+      "name": "放棄された釣り場",
+      "description": "一人釣り。",
+      "condition": "初めてSwamp Worldに到達する"
     },
     "vampires_house": {
-      "name": "Welcome to my home!",
-      "description": "Hah, flying fish? Nothing weird about that......",
-      "condition": "Enter the Vampire's House"
+      "name": "わが家へようこそ！",
+      "description": "え、魚が飛んでる？ なにも変なことじゃないよ......",
+      "condition": "Vampire's Houseに入る"
     },
     "neptune": {
-      "name": "Poseidon",
-      "description": "The ice planet that held the key to everything, The Veil.",
-      "condition": "Visit Neptune"
+      "name": "ポセイドン",
+      "description": "すべての鍵を握る氷の惑星、ヴェール。",
+      "condition": "Neptuneに到達する"
     },
     "clock_cat": {
-      "name": "Chrono's Pet",
-      "description": "Tired of counting time...",
-      "condition": "Visit the white cat in the Cloud Cuckoo World"
+      "name": "時の使い",
+      "description": "時を刻むのは疲れた...",
+      "condition": "Cloud Cuckoo Worldの白い猫を訪れる"
     },
     "dust_bunny": {
-      "name": "Be Cute!",
-      "description": "That's pretty cute!",
-      "condition": "Find the Dust Bunny effect and interact with Lucky in the Nexus"
+      "name": "可愛くなあれ！",
+      "description": "かわいいね！",
+      "condition": "エフェクトを見つけ、扉部屋にいるLuckyに話しかける"
     },
     "hoarder_colors": {
-      "name": "Nostradamus Firefly",
-      "description": "He looks beyond this dream.",
-      "condition": "See all of Hoarder's colors with the effects in Hoarder's Room"
+      "name": "ノストラダムスの蛍",
+      "description": "彼はこの夢の先を見据えている。",
+      "condition": "Hoarder's RoomでHoarderの色をエフェクトを使って全て見る"
     },
     "eclipse": {
-      "name": "Hail the Nightmare",
+      "name": "悪夢にバンザイ",
       "description": "\"Si discite tibi vis sacramentum\nErit præmium Atramentum Sanctum\"",
-      "condition": "Watch the Eclipse event in the Moth Temple"
+      "condition": "Moth TempleでEclipseイベントを見る"
     },
     "spinning_cat": {
-      "name": "Meow Invader",
-      "description": "He went off the rails so much that he entered his badge gallery!",
-      "condition": "Break the glass containing the spinning cat in Curtain Den"
+      "name": "ニャンベーダー",
+      "description": "彼はバッジ画面に入るぐらいまで暴走した！",
+      "condition": "Curtain Denで回転する猫が入ったガラスを割る"
     },
     "giant_bunny": {
       "name": "OH, BUNNY",
-      "description": "Wonder how this RABBIT got here...",
-      "condition": "Find Gigantic Bunny in the Cold Storage"
+      "description": "どうやってここに来たんだろう...",
+      "condition": "Cold Storageで巨大ウサギを見つける"
     },
     "green_river": {
-      "name": "Oneiric Ouroboros",
-      "description": "End or Beginning of a Cycle?",
-      "condition": "Dive into the Green River and see the ending"
+      "name": "夢幻のウロボロス",
+      "description": "流転の終わり？それとも始まり？",
+      "condition": "Green Riverに飛び込み、エンディングを見る"
     },
     "boiling_water_orchard": {
-      "name": "Intruder Alert",
-      "description": "How did you get there?",
-      "condition": "Reach the orchard in Boiling Water World"
+      "name": "侵入者警報",
+      "description": "どうやってたどり着いたの？",
+      "condition": "Boiling Water Worldの果樹園に到達する"
     },
     "junction_space": {
       "name": "Penumbra Phantasm",
-      "description": "Where our paths cross.",
-      "condition": "Enter the Junction Space"
+      "description": "私達の道が交わる場所",
+      "condition": "Junction Spaceに到達する"
     },
     "ventilation_void": {
-      "name": "Welcome to the Void",
-      "description": "Hope you enjoy your stay here!",
-      "condition": "Enter the Ventilation Void"
+      "name": "虚無へようこそ",
+      "description": "ここでの滞在を楽しんでほしい！",
+      "condition": "Ventilation Voidに到達する"
     }
   }
 }
