@@ -382,6 +382,10 @@
     "white_tulip": {
       "name": "Pluie et fleurs",
       "condition": "Visiter le passage aux tulipes blanches reliant le Sky Garden et le Ghost World"
+    },
+    "barracks_settlement_pirori": {
+      "name": "L'étrange voyage de M. Pirori",
+      "condition": "Interagir avec le Pirori menant au FC World B"
     }
   },
   "2kki": {
@@ -3238,6 +3242,25 @@
       "name": "Fanatique FC",
       "description": "Ah, Yume 2kki, mon jeu de plateformes favori.",
       "condition": "Visiter les trois parties des FC Caverns"
+    },
+    "gutter_heart_creature": {
+      "name": "L'amour se trouve à chaque coin de caniveau",
+      "description": "Plus rien ne nous sépare désormais.",
+      "condition": "Voir la créature en forme de cœur près de l'entrée de The Gutter"
+    },
+    "silent_forest_red_silhouette": {
+      "name": "Clifford le gros... chat rouge ?",
+      "condition": "Trouver le grand chat rouge à la queue en forme de crochet dans la Silent Forest"
+    },
+    "victorian_drains_horse": {
+      "name": "Hue-dada !",
+      "description": "Il a l'air de toujours tenir. Plus qu'à s'amuser et à voyager !",
+      "condition": "Monter sur le cheval à ressort aux Victorian Drains"
+    },
+    "gutter_bright_room": {
+      "name": "Égouts pluviaux",
+      "description": "L'eau coule à travers les canalisations de la ville, des ruines et des bas-fonds. Mais d'où vient-elle ? Quelle tempête peut bien remplir The Gutter avec tout ce sang ? Que peuvent donc bien boire ces têtes aiguisées ?",
+      "condition": "Visiter la salle éclairée dans The Gutter juste avant le Lavender Park"
     }
   },
   "flow": {
@@ -3669,7 +3692,7 @@
     },
     "hollow_head": {
       "name": "Tête creuse",
-      "description": "« tu dois aller au sospital et obtenir l'effef raura pour que tu soignes ce twou dans ta caboshee » - Jojogape",
+      "description": "« tu dois aller au sospital et obtenir l'effef raura de guéuég pour que tu soignes le buub dans le mémror » - Jojogape",
       "condition": "Atteindre la Void depuis le Subway"
     },
     "zapnef_all_clear": {
@@ -4788,89 +4811,104 @@
   },
   "oversomnia": {
     "aeroplane_world": {
-      "name": "To The Skies!",
-      "description": "It's a bird? it's a plane? No, it's both of them! In the same sky!",
-      "condition": "Enter the Aeroplane World"
+      "name": "Au septième ciel",
+      "description": "Est-ce un oiseau ? Est-ce un avion ? Non, c'est les deux à la fois ! Et dans le même ciel !",
+      "condition": "Entrer dans l'Aeroplane World"
     },
     "fishing_hole": {
-      "name": "Book of Fish",
-      "description": "Every great game has a fishing minigame!",
-      "condition": "Complete the fish record in the Fishing Hole by acquiring all fish types there"
+      "name": "Livre des poissons",
+      "description": "Tout bon jeu doit avoir son mini-jeu de pêche !",
+      "condition": "Compléter l'index des poissons au Fishing Hole en pêchant toutes les espèces de poissons là-bas"
     },
     "shrimpland": {
-      "name": "Shrimple as that!",
-      "description": "It's an all-you-can-eat buffet!",
-      "condition": "Turn Emerald Shrubland into Emerald Shrimpland"
+      "name": "À en crevette de joie",
+      "description": "C'est un véritable buffet à volonté !",
+      "condition": "Transformer Emerald Shrubland en Emerald Shrimpland"
     },
     "deepest_vision": {
-      "name": "The Vision",
+      "name": "La vision",
       "description": "...",
-      "condition": "Interact with the hole in Lowest Point and trigger the event"
+      "condition": "Interagir avec le trou à Lowest Point et déclencher l'événement"
     },
     "swamp_world": {
-      "name": "Abandoned Docks",
-      "description": "Fishing Alone.",
-      "condition": "Visit Swamp World for the first time"
+      "name": "Quais abandonnés",
+      "description": "Petite partie de pêche en paix.",
+      "condition": "Visiter le Swamp World"
     },
     "vampires_house": {
-      "name": "Welcome to my home!",
-      "description": "Hah, flying fish? Nothing weird about that......",
-      "condition": "Enter the Vampire's House"
+      "name": "Bienvenue chez moi !",
+      "description": "Quoi, un poisson qui vole ? Et c'est bizarre ? Tu n'as pas l'air d'aller souvent chez des vampires, toi...",
+      "condition": "Entrer dans la Vampire's House"
     },
     "neptune": {
-      "name": "Poseidon",
-      "description": "The ice planet that held the key to everything, The Veil.",
-      "condition": "Visit Neptune"
+      "name": "Poséidon",
+      "description": "La planète de glace qui est la clé de tout, le Voile.",
+      "condition": "Visiter Neptune"
     },
     "clock_cat": {
-      "name": "Chrono's Pet",
-      "description": "Tired of counting time...",
-      "condition": "Visit the white cat in the Cloud Cuckoo World"
+      "name": "L'animal de Chrono",
+      "description": "Il en a marre de compter le temps qui passe en attendant que la pluie s'arrête...",
+      "condition": "Rendre visite au chat blanc de Cloud Cuckoo World"
     },
     "dust_bunny": {
-      "name": "Be Cute!",
-      "description": "That's pretty cute!",
-      "condition": "Find the Dust Bunny effect and interact with Lucky in the Nexus"
+      "name": "Sois choupi !",
+      "description": "C'est plutôt mignon.",
+      "condition": "Trouver l'effet Dust Bunny et interagir avec Lucky au Nexus"
     },
     "hoarder_colors": {
-      "name": "Nostradamus Firefly",
-      "description": "He looks beyond this dream.",
-      "condition": "See all of Hoarder's colors with the effects in Hoarder's Room"
+      "name": "Luciole Nostradamus",
+      "description": "Tel un astre éclairant le monde entier par-delà l'espace, cette luciole nous éclaire au-delà de ce rêve.",
+      "condition": "Voir toute les couleurs du Collectionneur Invétéré en utilisant des effets dans la Hoarder's Room"
     },
     "eclipse": {
-      "name": "Hail the Nightmare",
+      "name": "Cauchemar, je te salue",
       "description": "\"Si discite tibi vis sacramentum\nErit præmium Atramentum Sanctum\"",
-      "condition": "Watch the Eclipse event in the Moth Temple"
+      "condition": "Voir l'événement d'éclipse au Moth Temple"
     },
     "spinning_cat": {
-      "name": "Meow Invader",
-      "description": "He went off the rails so much that he entered his badge gallery!",
-      "condition": "Break the glass containing the spinning cat in Curtain Den"
+      "name": "Le miaou-vahisseur",
+      "description": "Il est tellement parti en sucette qu'il a fini dans ta galerie des badges !",
+      "condition": "Casser la vitre contenant le chat qui tourne à Curtain Den"
     },
     "giant_bunny": {
-      "name": "OH, BUNNY",
-      "description": "Wonder how this RABBIT got here...",
-      "condition": "Find Gigantic Bunny in the Cold Storage"
+      "name": "OH, UN LAPINOU !!!",
+      "description": "Je me demande bien comment ce LAPIN est arrivé ici...",
+      "condition": "Trouver l'énorme lapin au Cold Storage"
     },
     "green_river": {
-      "name": "Oneiric Ouroboros",
-      "description": "End or Beginning of a Cycle?",
-      "condition": "Dive into the Green River and see the ending"
+      "name": "Ouroboros onirique",
+      "description": "Est-ce la fin, ou le début d'un nouveau cycle ?",
+      "condition": "Plonger dans la Green River et voir la fin"
     },
     "boiling_water_orchard": {
-      "name": "Intruder Alert",
-      "description": "How did you get there?",
-      "condition": "Reach the orchard in Boiling Water World"
+      "name": "Sus à l'intrus",
+      "description": "Comment es-tu arrivé ici ?",
+      "condition": "Atteindre le verger au Boiling Water World"
     },
     "junction_space": {
-      "name": "Penumbra Phantasm",
-      "description": "Where our paths cross.",
-      "condition": "Enter the Junction Space"
+      "name": "Phantasme dans la pénombre",
+      "description": "Là où nos chemins se rejoignent.",
+      "condition": "Entrer dans Junction Space"
     },
     "ventilation_void": {
-      "name": "Welcome to the Void",
-      "description": "Hope you enjoy your stay here!",
-      "condition": "Enter the Ventilation Void"
+      "name": "Bienvenue à la Void",
+      "description": "Nous espérons que vous profiterez de votre séjour ici !",
+      "condition": "Entrer dans Ventilation Void"
+    },
+    "magic_8_ball_room": {
+      "name": "Certitude",
+      "description": "Bille 8 Magique, aurai-je un cauchemar ce soir ?",
+      "condition": "Entrer dans la Magic 8-Ball Room"
+    },
+    "museum_vending_machine": {
+      "name": "Démasqué !",
+      "description": "Je ne veux pas vraiment te blesser...",
+      "condition": "Se faire prendre en flagrant délit dans le Museum en tentant de voler l'une de leurs propriétés"
+    },
+    "ramparts_stargazing": {
+      "name": "Scruter l'intérieur de l'abysse",
+      "description": "Je ne me souviens pas de celui-là !",
+      "condition": "Compléter l'événement d'observation des étoiles aux Ramparts"
     }
   }
 }
