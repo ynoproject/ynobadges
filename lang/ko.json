@@ -369,7 +369,7 @@
     },
     "wilderness_fan": {
       "name": "사막 탐험가",
-      "condition": "고비사막의 모든 장소를 방문하기"
+      "condition": "고비 사막의 모든 장소를 방문하기"
     },
     "dave_death": {
       "name": "데이비 존스의 보관함",
@@ -384,8 +384,8 @@
       "condition": "공중정원과 콘크리트 폐허 사이의 하얀 튤립이 핀 길을 방문하기"
     },
     "barracks_settlement_pirori": {
-      "name": "Travelin' with Pirori",
-      "condition": "Interact with the Pirori that takes you to FC World B"
+      "name": "피로리와의 여행",
+      "condition": "FC 유적 B로 이동하는 피로리(Pirori) NPC와 상호작용하기"
     }
   },
   "2kki": {
@@ -481,7 +481,7 @@
     },
     "blue_orb": {
       "name": "파란 구슬",
-      "condition": "Neon Candle World 방문하기"
+      "condition": "Neon Candle World를 방문하기"
     },
     "aojiru": {
       "name": "아오지루",
@@ -553,7 +553,7 @@
     },
     "lavender_lesser": {
       "name": "보라색 잼",
-      "condition": "Lavender Waters 맵 방문하기"
+      "condition": "Lavender Waters를 방문하기"
     },
     "lavender": {
       "name": "라벤더 잼",
@@ -2699,7 +2699,7 @@
     },
     "eyeberry_orchard": {
       "name": "청록색 과수원",
-      "description": "감시당하고 있는 느낌, 안 들어?",
+      "description": "감시 당하고 있는 느낌, 안 들어?",
       "condition": "Eyeberry Orchard를 방문하기"
     },
     "moonlit_street": {
@@ -2719,7 +2719,7 @@
     },
     "pufferfish_girl": {
       "name": "가망없는 복어잡이",
-      "description": "저 여자 아직도 못 잡은거야?",
+      "description": "저 여자 아직도 못 잡은 거야?",
       "condition": "Pufferfish Extraction Funland에서 고기를 잡는 여학생 NPC와 상호작용하기"
     },
     "big_uro_thrift_shop": {
@@ -2729,7 +2729,7 @@
     },
     "small_uro_thrift_shop": {
       "name": "잘 팔리는 액션 몽상가",
-      "description": "애기, 어린 아기, 어린 애기, 어린 아기같은 어린 애기, 어린 아기! 애기!",
+      "description": "애기, 어린 아기, 어린 애기, 어린 아기 같은 어린 애기, 어린 아기! 애기!",
       "condition": "Thrift Shop에서 액션 피규어 스프라이트를 장착하기"
     },
     "marginal_herbarium": {
@@ -2827,7 +2827,7 @@
       "condition": "Red Brick Maze에서 가장 작은 우로츠키로 변신하기"
     },
     "junk_from_anywhere": {
-      "name": "어디에선가 온 고물",
+      "name": "어디선가 온 고물",
       "description": "이것들이 다 어디서 난거야?",
       "condition": "Junk From Anywhere에 도달하기"
     },
@@ -2870,7 +2870,7 @@
       "condition": "Sepia Clouds World에 있는 각 종류별 생명체 NPC들과 상호작용하기"
     },
     "inu_san_psyche": {
-      "name": "멍멍이씨",
+      "name": "멍멍이 씨",
       "description": "다이나믹 로동의 소용돌이에 휘말리다",
       "condition": "Inu-san's Psyche에 입장하기"
     },
@@ -3244,23 +3244,23 @@
       "condition": "FC Caverns의 세 구역을 방문하기"
     },
     "gutter_heart_creature": {
-      "name": "Found Love in a Hopeless Place",
-      "description": "...now we're standing side by side.",
-      "condition": "View the heart-shaped creature near the entrance of The Gutter"
+      "name": "희망을 잃은 곳에서 사랑을 찾다",
+      "description": "...우리 이제 나란히 서있네.",
+      "condition": "The Gutter의 입구 근처에 있는 하트 모양 생명체를 보기"
     },
     "silent_forest_red_silhouette": {
-      "name": "Clifford the Big Red... Cat?",
-      "condition": "Find the Big Red Hook-tailed cat in Silent Forest"
+      "name": "클리포드 더 빅 레드... 캣?",
+      "condition": "Silent Forest에서 커다란 붉은 고양이를 찾기"
     },
     "victorian_drains_horse": {
-      "name": "Play with the Horse",
-      "description": "It still works. Have some fun during the long journey!",
-      "condition": "Ride on the horse in Victorian Drains"
+      "name": "말과 놀기",
+      "description": "아직 움직여. 긴 여행 동안 즐거운 시간 보내!",
+      "condition": "Victorian Drains에서 말 위에 올라타기"
     },
     "gutter_bright_room": {
-      "name": "Storm Drains",
-      "description": "Water rushes through the vessels of the City, the Ruins, and the Shallows. But where does it come from? What storm fills The Gutter with its blood? What do these sharp ones drink?",
-      "condition": "Visit the bright room in The Gutter shortly before the Lavender Park"
+      "name": "우수배수",
+      "description": "물은 도시와 유적, 여울에서 관을 타고 흘러간다. 하지만 그 물은 어디에서 온 것일까? 어떤 폭풍이 그 배수로(Gutter) 안을 피로 가득 채웠을까? 이 날카로운 생명체들은 무얼 마시며 살아가는 걸까?",
+      "condition": "Lavender Park 직전 The Gutter에 위치한 밝은 방을 방문하기"
     }
   },
   "flow": {
@@ -4811,104 +4811,104 @@
   },
   "oversomnia": {
     "aeroplane_world": {
-      "name": "To The Skies!",
-      "description": "It's a bird? it's a plane? No, it's both of them! In the same sky!",
-      "condition": "Enter the Aeroplane World"
+      "name": "하늘로!",
+      "description": "저건 새야, 비행기야? 아니, 둘 다야! 같은 하늘에 있잖아!",
+      "condition": "Aeroplane World에 입장하기"
     },
     "fishing_hole": {
-      "name": "Book of Fish",
-      "description": "Every great game has a fishing minigame!",
-      "condition": "Complete the fish record in the Fishing Hole by acquiring all fish types there"
+      "name": "물고기 서적",
+      "description": "훌륭한 게임에는 낚시하는 미니게임이 빠지지 않는다구!",
+      "condition": "Fishing Hole에서 모든 종류의 물고기를 획득하여 fish record를 완성하기"
     },
     "shrimpland": {
-      "name": "Shrimple as that!",
-      "description": "It's an all-you-can-eat buffet!",
-      "condition": "Turn Emerald Shrubland into Emerald Shrimpland"
+      "name": "아주 쉬림플한데!",
+      "description": "무한리필 뷔페입니다!",
+      "condition": "Emerald Shrimpland를 Emerald Shrubland로 바꾸기"
     },
     "deepest_vision": {
-      "name": "The Vision",
+      "name": "시야",
       "description": "...",
-      "condition": "Interact with the hole in Lowest Point and trigger the event"
+      "condition": "Lowest Point에서 구멍과 상호작용하고 이벤트를 보기"
     },
     "swamp_world": {
-      "name": "Abandoned Docks",
-      "description": "Fishing Alone.",
-      "condition": "Visit Swamp World for the first time"
+      "name": "버려진 부두",
+      "description": "나홀로 낚시",
+      "condition": "Swamp World를 처음으로 방문하기"
     },
     "vampires_house": {
-      "name": "Welcome to my home!",
-      "description": "Hah, flying fish? Nothing weird about that......",
-      "condition": "Enter the Vampire's House"
+      "name": "우리 집에 어서 와!",
+      "description": "뭐, 날아다니는 물고기? 뭐가 이상한 거지......",
+      "condition": "Vampire's House에 입장하기"
     },
     "neptune": {
-      "name": "Poseidon",
-      "description": "The ice planet that held the key to everything, The Veil.",
-      "condition": "Visit Neptune"
+      "name": "포세이돈",
+      "description": "모든 것의 열쇠를 쥔 얼음 행성, 베일.",
+      "condition": "Neptune을 방문하기"
     },
     "clock_cat": {
-      "name": "Chrono's Pet",
-      "description": "Tired of counting time...",
-      "condition": "Visit the white cat in the Cloud Cuckoo World"
+      "name": "크로노의 반려동물",
+      "description": "얼만큼의 시간이 지났는지 세는 것도 지쳤어...",
+      "condition": "Cloud Cuckoo World에서 흰 고양이에게 방문하기"
     },
     "dust_bunny": {
-      "name": "Be Cute!",
-      "description": "That's pretty cute!",
-      "condition": "Find the Dust Bunny effect and interact with Lucky in the Nexus"
+      "name": "귀여워져라!",
+      "description": "좀 귀여운데!",
+      "condition": "Dust Bunny 이펙트를 얻고 Nexus에서 Lucky와 상호작용하기"
     },
     "hoarder_colors": {
-      "name": "Nostradamus Firefly",
-      "description": "It looks beyond this dream.",
-      "condition": "See all of Hoarder's colors with the effects in Hoarder's Room"
+      "name": "노스트라다무스 반딧불이",
+      "description": "이 꿈 너머가 보여.",
+      "condition": "Hoarder's Room에서 이펙트를 사용하여 Hoarder의 모든 색을 보기"
     },
     "eclipse": {
-      "name": "Hail the Nightmare",
+      "name": "악몽에게 만세를",
       "description": "\"Si discite tibi vis sacramentum\nErit præmium Atramentum Sanctum\"",
-      "condition": "Watch the Eclipse event in the Moth Temple"
+      "condition": "Moth Temple에서 Eclipse 이벤트를 보기"
     },
     "spinning_cat": {
-      "name": "Meow Invader",
-      "description": "He went off the rails so much that he entered his badge gallery!",
-      "condition": "Break the glass containing the spinning cat in Curtain Den"
+      "name": "침입자냥",
+      "description": "360도 돌아서 뱃지 갤러리로 들어왔네!",
+      "condition": "Curtain Den에서 회전하는 고양이가 들어있는 유리를 깨기"
     },
     "giant_bunny": {
-      "name": "OH, BUNNY",
-      "description": "Wonder how this RABBIT got here...",
-      "condition": "Find Gigantic Bunny in the Cold Storage"
+      "name": "오, 토끼",
+      "description": "어떻게 여기로 들어왔을까...",
+      "condition": "Cold Storage에서 커다란 토끼를 발견하기"
     },
     "green_river": {
-      "name": "Oneiric Ouroboros",
-      "description": "End or Beginning of a Cycle?",
-      "condition": "Dive into the Green River and see the ending"
+      "name": "꿈 같은 우로보로스",
+      "description": "순환의 끝일까, 아니면 시작일까",
+      "condition": "Green River로 뛰어들어 그 끝을 보기"
     },
     "boiling_water_orchard": {
-      "name": "Intruder Alert",
-      "description": "How did you get there?",
-      "condition": "Reach the orchard in Boiling Water World"
+      "name": "침입자 경고",
+      "description": "거긴 어떻게 갔어?",
+      "condition": "Boiling Water World에서 과수원 서브 에리어에 도달하기"
     },
     "junction_space": {
-      "name": "Penumbra Phantasm",
-      "description": "Where our paths cross.",
-      "condition": "Enter the Junction Space"
+      "name": "반그림자 환상",
+      "description": "우리의 길이 만나는 곳에서.",
+      "condition": "Junction Space에 입장하기"
     },
     "ventilation_void": {
-      "name": "Welcome to the Void",
-      "description": "Hope you enjoy your stay here!",
-      "condition": "Enter the Ventilation Void"
+      "name": "공허에 어서오세요",
+      "description": "즐거운 시간 보내시길 바랍니다!",
+      "condition": "Ventilation Void에 입장하기"
     },
     "magic_8_ball_room": {
-      "name": "It Is Certain",
-      "description": "Magic 8-Ball, will I have a nightmare tonight?",
-      "condition": "Enter the Magic 8-Ball Room"
+      "name": "확실해",
+      "description": "매직 8볼 님, 제가 오늘 꾸는 꿈은 악몽인가요?",
+      "condition": "Magic 8-Ball Room에 입장하기"
     },
     "museum_vending_machine": {
-      "name": "Six-Letter Word",
-      "description": "I don't wanna put the hurt on you...",
-      "condition": "Get caught attempting to steal Museum property"
+      "name": "여섯 글자 단어",
+      "description": "널 상처 입히고 싶지 않아...",
+      "condition": "Museum에서 물건을 훔치려다 들키기"
     },
     "ramparts_stargazing": {
-      "name": "Stare Into the Abyss",
-      "description": "I don't recognize that one!",
-      "condition": "Complete the Stargazing event in the Ramparts"
+      "name": "심연을 들여다보다",
+      "description": "난 몰랐어!",
+      "condition": "Ramparts에서 Stargazing 이벤트를 완료하기"
     }
   }
 }
