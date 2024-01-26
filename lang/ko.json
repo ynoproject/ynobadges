@@ -3261,6 +3261,21 @@
       "name": "우수배수",
       "description": "물은 도시와 유적, 여울에서 관을 타고 흘러간다. 하지만 그 물은 어디에서 온 것일까? 어떤 폭풍이 그 배수로(Gutter) 안을 피로 가득 채웠을까? 이 날카로운 생명체들은 무얼 마시며 살아가는 걸까?",
       "condition": "Lavender Park 직전 The Gutter에 위치한 밝은 방을 방문하기"
+    },
+    "bleeding_mush_grd": {
+      "name": "Bleeding Mushroom",
+      "description": "It runs so fast!",
+      "condition": "Visit Bleeding Mushroom Garden"
+    },
+    "overgrown_cdm_storm": {
+      "name": "Overgrown Terraforming",
+      "description": "This place is alive.",
+      "condition": "Cause a thunderstorm to appear outside of Overgrown Condominium"
+    },
+    "wacky_worms": {
+      "name": "Wormy Wormers!",
+      "description": "Who's ready to embark on a worm odyssey?!",
+      "condition": "Enter Wacky Worms"
     }
   },
   "flow": {
@@ -3775,6 +3790,21 @@
     "computer_maze_void": {
       "name": "딥웹 공간",
       "condition": "Computer Maze의 마지막 맵에 도달하기"
+    },
+    "crystal_collection": {
+      "name": "Crystal Collection",
+      "description": "Piecing together the story",
+      "condition": "Collect all of the crystals and return in the Crystal Archive in Computer World"
+    },
+    "four_seasons_path": {
+      "name": "Perennial",
+      "description": "I'm used to being alone. I can live with that.",
+      "condition": "Reach the end of the Four Seasons Path and visit the following areas that match the seasons: Desert, Mountain World, Forest, Ice World"
+    },
+    "purple_crystal_room": {
+      "name": "Vapor and Broken Screams",
+      "description": "I have failed to protect you.",
+      "condition": "Enter the purple crystal room in Memory Graveyard"
     }
   },
   "unevendream": {
@@ -4909,6 +4939,31 @@
       "name": "심연을 들여다보다",
       "description": "난 몰랐어!",
       "condition": "Ramparts에서 Stargazing 이벤트를 완료하기"
+    },
+    "owl_radio_studio": {
+      "name": "Hoooot’s Listening?",
+      "description": "You're now listening to... Nightbird FM. Where we play nothing but hoot, hoot and more hoot.",
+      "condition": "Interact with the owl creature in Radio Studio"
+    },
+    "boiling_water_ufo": {
+      "name": "Nighttime Conspiracy",
+      "description": "These markings in the ground couldn't have been left by something of this world...",
+      "condition": "Get abducted by aliens in Boiling Water World"
+    },
+    "music_world_fall": {
+      "name": "Push of a ♫",
+      "description": "Accidents happen",
+      "condition": "Make the blue note creature fall off its platform in Music Symbol World"
+    },
+    "emergency_secret_doors": {
+      "name": "Melting Ghost",
+      "description": "They're trying to communicate, but I can't hear them...",
+      "condition": "Use the Tuning Fork effect in a certain part of the Emergency Room"
+    },
+    "bed_hair_girl_death": {
+      "name": "The Bear's Cage",
+      "description": "Calm before the storm taken literally.",
+      "condition": "Face the consequences of killing the Wind Vane Girl"
     }
   }
 }

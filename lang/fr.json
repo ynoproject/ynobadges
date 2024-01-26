@@ -1748,7 +1748,7 @@
     "bike_crash": {
       "name": "Les accidents arrivent",
       "description": "J'aurais dû ramener des feux pour ma moto...",
-      "condition": "Se crasher dans l'Urotsuki Bikeuse dans l'Highway"
+      "condition": "Se crasher contre l'Urotsuki à moto sur l'Highway"
     },
     "glitch_butterfly": {
       "name": "Morphose magique",
@@ -2600,7 +2600,7 @@
     },
     "hudson_ceiling": {
       "name": "Hudson du plafond",
-      "description": "...Tu veux jouer à chat ?",
+      "description": "...tu veux jouer à chat ?",
       "condition": "Se faire piéger dans le Crazed Faces Maze et réveiller Hudson à proximité de la rivière de lave"
     },
     "spacecraft_visine": {
@@ -2684,7 +2684,7 @@
     },
     "shimako_adabana": {
       "name": "Souvenirs d'antan",
-      "description": "Une fille qui a l'air familière...?",
+      "description": "Une fille qui a l'air familière... ?",
       "condition": "Atteindre la zone où Shimako peut être aperçue dans les Adabana Gardens"
     },
     "shimako_deluge": {
@@ -2876,12 +2876,12 @@
     },
     "seaside_road_basket": {
       "name": "Vues océaniques",
-      "description": "Je me demande bien, qui aurait pu laisser ça là...?",
+      "description": "Je me demande bien, qui aurait pu laisser ça là... ?",
       "condition": "Se rendre sur la Seaside Road de l'Electromagnetic Terminal et voir le panier oublié"
     },
     "galactica_honeymoon": {
       "name": "Lune de miel galactique",
-      "description": "Menant ton cœur à la dérive...!",
+      "description": "Menant ton cœur à la dérive... !",
       "condition": "Visiter Space, Spaceship, Visine Spacecraft, Astral World et Spacey Retreat"
     },
     "animal_heaven": {
@@ -3208,7 +3208,7 @@
     },
     "evergreen_woods_vm": {
       "name": "Pourquoi es-tu venue ici !?",
-      "description": "Tu as fait tout ce chemin juste pour un soda...?",
+      "description": "Tu as fait tout ce chemin juste pour un soda... ?",
       "condition": "Interagir avec le distributeur automatique dans les Evergreen Woods"
     },
     "2kki_warzone": {
@@ -3261,6 +3261,21 @@
       "name": "Égouts pluviaux",
       "description": "L'eau coule à travers les canalisations de la ville, des ruines et des bas-fonds. Mais d'où vient-elle ? Quelle tempête peut bien remplir The Gutter avec tout ce sang ? Que peuvent donc bien boire ces têtes aiguisées ?",
       "condition": "Visiter la salle éclairée dans The Gutter juste avant le Lavender Park"
+    },
+    "bleeding_mush_grd": {
+      "name": "Champignon saignant",
+      "description": "Il court si vite !",
+      "condition": "Visiter le Bleeding Mushroom Garden"
+    },
+    "overgrown_cdm_storm": {
+      "name": "Biosphérisation envahissante",
+      "description": "Ce lieu est vivant.",
+      "condition": "Faire apparaître une tempête à l'extérieur de l'Overgrown Condominium"
+    },
+    "wacky_worms": {
+      "name": "Vers verts et vers pas verts",
+      "description": "Entre des bocaux en verre et des vers qui n'en font qu'à leur tête, ce lieu me donne le vertige...",
+      "condition": "Entrer dans Wacky Worms"
     }
   },
   "flow": {
@@ -3711,7 +3726,7 @@
     },
     "mystery_boxes_grassland": {
       "name": "Fibonacci",
-      "description": "Flou, pas flou, flou, pas flou,...",
+      "description": "Flou, pas flou, flou, pas flou...",
       "condition": "Casser la boîte ? dans le Grassland World"
     },
     "mystery_boxes_neon": {
@@ -3775,6 +3790,21 @@
     "computer_maze_void": {
       "name": "Vide du deepweb",
       "condition": "Atteindre la fin du Computer Maze"
+    },
+    "crystal_collection": {
+      "name": "Collection de cristaux",
+      "description": "Raccommodant ensemble l'histoire",
+      "condition": "Obtenir tous les cristaux et retourner dans l'Archive aux Cristaux dans le Computer World"
+    },
+    "four_seasons_path": {
+      "name": "Plante vivace",
+      "description": "J'ai l'habitude de vivre seul. Je peux vivre sans personne de toute façon.",
+      "condition": "Atteindre la fin du Four Seasons Path et visiter les lieux suivants qui correspondent aux saisons : Desert, Mountain World, Forest, Ice World"
+    },
+    "purple_crystal_room": {
+      "name": "Vapeur et cris distordus",
+      "description": "Je n'ai pas réussi à te protéger.",
+      "condition": "Entrer dans la salle du cristal violet au Memory Graveyard"
     }
   },
   "unevendream": {
@@ -4909,6 +4939,31 @@
       "name": "Scruter l'intérieur de l'abysse",
       "description": "Je ne me souviens pas de celui-là !",
       "condition": "Compléter l'événement d'observation des étoiles aux Ramparts"
+    },
+    "owl_radio_studio": {
+      "name": "Station de haut vol",
+      "description": "Vous êtes bien en train d'écouuuter Radio Oiseau, là où les houuux se transforment en hiiits. Tout de suite, le dernier morceau de notre chère Bondorée, voici « Hou ! La Poule Mouillée ».",
+      "condition": "Interagir avec la créature hibou dans le Radio Studio"
+    },
+    "boiling_water_ufo": {
+      "name": "Complot nocturne",
+      "description": "Ces marques sur le sol ne peuvent pas avoir été laissées par quelque chose venant de ce monde...",
+      "condition": "Se faire enlever par des aliens dans le Boiling Water World"
+    },
+    "music_world_fall": {
+      "name": "D'une pression de ♫",
+      "description": "Ça arrive plus souvent qu'on ne le pense, les accidents.",
+      "condition": "Faire tomber la créature à la tête de note bleue de sa plateforme dans le Music Symbol World"
+    },
+    "emergency_secret_doors": {
+      "name": "Fantôme fondu",
+      "description": "Ils essayent de me communiquer quelque chose, mais je ne peux pas les entendre...",
+      "condition": "Utiliser l'effet Tuning Fork dans une certaine partie de l'Emergency Room"
+    },
+    "bed_hair_girl_death": {
+      "name": "Au cœur de l'ouragan",
+      "description": "Le calme avant la tempête, littéralement.",
+      "condition": "Subir les conséquences de vos actes après avoir tué la Fille Girouette"
     }
   }
 }
