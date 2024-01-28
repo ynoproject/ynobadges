@@ -2418,6 +2418,10 @@
       "description": "目覚めた時、夢か現実か私にはもうわからない。",
       "condition": "以下の場所に訪れ、睡眠に関連したイベントを見る:赤黒迷路、目覚めの森、紫湖、石切、home、rainyday、無限図書館"
     },
+    "buzzing_bee": {
+      "name": "ブンブン",
+      "condition": "エフェクトを使い分けて、女王蜂の表情を全て見る"
+    },
     "urotsuki_rainbow_bridge": {
       "name": "虹の橋",
       "description": "カラフルパワー",
@@ -3114,6 +3118,11 @@
       "description": "ね、「ウェルダン」でもう十分だろ？",
       "condition": "青い店で食事を買う"
     },
+    "lamplighter_rainy_town": {
+      "name": "ランプ点け男",
+      "description": "彼は何を聴いているんだろう？",
+      "condition": "ランプ点け男の部屋で曲を聴いている彼を目撃する"
+    },
     "sunset_school": {
       "name": "夕暮れの研究",
       "description": "地平線に太陽が沈んでも、午後の生徒たちは一日を続ける。",
@@ -3253,19 +3262,19 @@
       "condition": "雨降る小道の手前にある側溝の明るい場所に到達する"
     },
     "bleeding_mush_grd": {
-      "name": "Bleeding Mushroom",
-      "description": "It runs so fast!",
-      "condition": "Visit Bleeding Mushroom Garden"
+      "name": "出血キノコ",
+      "description": "とても速く走る！",
+      "condition": "出血キノコに到達する"
     },
     "overgrown_cdm_storm": {
-      "name": "Overgrown Terraforming",
-      "description": "This place is alive.",
-      "condition": "Cause a thunderstorm to appear outside of Overgrown Condominium"
+      "name": "過剰繁栄",
+      "description": "この場所は生きている。",
+      "condition": "繁栄巣の外で雷を起こす"
     },
     "wacky_worms": {
-      "name": "Wormy Wormers!",
-      "description": "Who's ready to embark on a worm odyssey?!",
-      "condition": "Enter Wacky Worms"
+      "name": "むしむし！",
+      "description": "ミミズの冒険に繰り出す準備はできてるかい？！",
+      "condition": "長蟲の通路に到達する"
     }
   },
   "flow": {
@@ -3782,19 +3791,19 @@
       "condition": "Computer Mazeの終着点に到達する"
     },
     "crystal_collection": {
-      "name": "Crystal Collection",
-      "description": "Piecing together the story",
-      "condition": "Collect all of the crystals and return to the Crystal Archive in Computer World"
+      "name": "クリスタルコレクション",
+      "description": "物語をつなぎ合わせる",
+      "condition": "すべてのクリスタルを集め、Computer Worldのクリスタルアーカイブに戻る。"
     },
     "four_seasons_path": {
-      "name": "Perennial",
-      "description": "I'm used to being alone. I can live with that.",
-      "condition": "Reach the end of the Four Seasons Path and visit the following areas that match the seasons: Desert, Mountain World, Forest, Ice World"
+      "name": "多年草",
+      "description": "一人でいることには慣れている。それで生きていける。",
+      "condition": "Four Seasons Pathの最奥に到達し、四季に対応する4つのエリア（Desert、Mountain World、Forest、Ice World）に訪れる"
     },
     "purple_crystal_room": {
-      "name": "Vapor and Broken Screams",
-      "description": "I have failed to protect you.",
-      "condition": "Enter the purple crystal room in Memory Graveyard"
+      "name": "蒸気と壊れた叫び",
+      "description": "私はあなたを守れなかった。",
+      "condition": "Memory GraveyardのPurple Crystal roomに到達する"
     }
   },
   "unevendream": {
@@ -4931,29 +4940,29 @@
       "condition": "RampartsでStargazingイベントを完了する"
     },
     "owl_radio_studio": {
-      "name": "Hoooot’s Listening?",
-      "description": "You're now listening to... Nightbird FM. Where we play nothing but hoot, hoot and more hoot.",
-      "condition": "Interact with the owl creature in Radio Studio"
+      "name": "ホーゥ、聞いてるかい？",
+      "description": "お聴きの番組はFMナイトバード、夜をホーローする皆様へ、ホーットな曲をお届けします！",
+      "condition": "Radio Studioでフクロウに話しかける"
     },
     "boiling_water_ufo": {
-      "name": "Nighttime Conspiracy",
-      "description": "These markings in the ground couldn't have been left by something of this world...",
-      "condition": "Get abducted by aliens in Boiling Water World"
+      "name": "真夜中の陰謀",
+      "description": "この地面の跡はこの世の何かが残せるものではない……",
+      "condition": "Boiling Water Worldで宇宙人に攫われる"
     },
     "music_world_fall": {
-      "name": "Push of a ♫",
-      "description": "Accidents happen",
-      "condition": "Make the blue note creature fall off its platform in Music Symbol World"
+      "name": "♫をプッシュ",
+      "description": "事故は起こるもの",
+      "condition": "Music Symbol Worldで青い音符生物を足場から落とす"
     },
     "emergency_secret_doors": {
-      "name": "Melting Ghost",
-      "description": "They're trying to communicate, but I can't hear them...",
-      "condition": "Use the Tuning Fork effect in a certain part of the Emergency Room"
+      "name": "溶ける幽霊",
+      "description": "彼らはコミュニケーションを試みているが、私には聞こえない……",
+      "condition": "Emergency Roomの特定の場所でTuning Forkエフェクトを使う"
     },
     "bed_hair_girl_death": {
-      "name": "The Bear's Cage",
-      "description": "Calm before the storm taken literally.",
-      "condition": "Face the consequences of killing the Wind Vane Girl"
+      "name": "熊の檻",
+      "description": "文字通り、嵐の前の静けさ。",
+      "condition": "Wind Vane Girlを殺した末路に直面する"
     }
   }
 }
