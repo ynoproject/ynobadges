@@ -2518,11 +2518,11 @@
     "virtual_techno_cube": {
       "name": "테크노 큐브",
       "description": "더 세게 흔들어!",
-      "condition": "Virtual City에서 큐브 머리 모양 NPC와 상호작굥하기"
+      "condition": "Virtual City에서 큐브 머리 모양 NPC와 상호작용하기"
     },
     "virtual_techno_bar": {
       "name": "테크노 바 속의 누님들",
-      "description": "저 분들이 계시는 곳이라면 저 사람들이 너의 귀를 확실히 정화시켜 줄거라구~",
+      "description": "저 분들이 계시는 곳이라면 저 사람들이 너의 귀를 확실히 정화시켜 줄 거라구~",
       "condition": "Virtual City에서 Bar 서브 에리어에 방문하기"
     },
     "pollywog_pal": {
@@ -3254,19 +3254,19 @@
       "condition": "Lavender Park 직전 The Gutter에 위치한 밝은 방을 방문하기"
     },
     "bleeding_mush_grd": {
-      "name": "Bleeding Mushroom",
-      "description": "It runs so fast!",
-      "condition": "Visit Bleeding Mushroom Garden"
+      "name": "피 흘리는 버섯",
+      "description": "엄청 빨리 달리잖아!",
+      "condition": "Bleeding Mushroom Garden을 방문하기"
     },
     "overgrown_cdm_storm": {
-      "name": "Overgrown Terraforming",
-      "description": "This place is alive.",
-      "condition": "Cause a thunderstorm to appear outside of Overgrown Condominium"
+      "name": "무성하게 우거진 테라포밍",
+      "description": "이 장소는 살아있어.",
+      "condition": "Overgrown Condominium의 밖에서 천둥번개를 일으키기"
     },
     "wacky_worms": {
-      "name": "Wormy Wormers!",
-      "description": "Who's ready to embark on a worm odyssey?!",
-      "condition": "Enter Wacky Worms"
+      "name": "벌레 먹은 벌레!",
+      "description": "벌레 오디세이를 시작할 준비 된 사람?!",
+      "condition": "Wacky Worms에 입장하기"
     }
   },
   "flow": {
@@ -3783,19 +3783,19 @@
       "condition": "Computer Maze의 마지막 맵에 도달하기"
     },
     "crystal_collection": {
-      "name": "Crystal Collection",
-      "description": "Piecing together the story",
-      "condition": "Collect all of the crystals and return to the Crystal Archive in Computer World"
+      "name": "보석 수집",
+      "description": "흩어진 이야기를 하나로 모으다",
+      "condition": "모든 보석을 모으고 Computer World의 보석 저장소에 돌려놓기"
     },
     "four_seasons_path": {
-      "name": "Perennial",
-      "description": "I'm used to being alone. I can live with that.",
-      "condition": "Reach the end of the Four Seasons Path and visit the following areas that match the seasons: Desert, Mountain World, Forest, Ice World"
+      "name": "여러해살이",
+      "description": "혼자는 익숙해. 그래도 살아갈 수 있어.",
+      "condition": "Four Seasons Path의 끝에 도달하고 계절과 어울리는 지역 Desert, Mountain World, Forest, Ice World를 방문하기"
     },
     "purple_crystal_room": {
-      "name": "Vapor and Broken Screams",
-      "description": "I have failed to protect you.",
-      "condition": "Enter the purple crystal room in Memory Graveyard"
+      "name": "연무와 부서진 비명소리",
+      "description": "널 지켜 주지 못 했구나.",
+      "condition": "Memory Graveyard에서 보라색 수정이 있는 방에 입장하기"
     }
   },
   "unevendream": {
@@ -4932,29 +4932,29 @@
       "condition": "Ramparts에서 Stargazing 이벤트를 완료하기"
     },
     "owl_radio_studio": {
-      "name": "Hoooot’s Listening?",
-      "description": "You're now listening to... Nightbird FM. Where we play nothing but hoot, hoot and more hoot.",
-      "condition": "Interact with the owl creature in Radio Studio"
+      "name": "부엉은 듣는 중?",
+      "description": "여러분은 지금... 밤새의 FM방송을 듣고 계십니다. 여기서 아무것도 들려 드리고 있진 않지만 대신 부엉, 부엉, 부엉 부엉",
+      "condition": "Radio Studio에서 부엉이 생명체와 상호작용하기"
     },
     "boiling_water_ufo": {
-      "name": "Nighttime Conspiracy",
-      "description": "These markings in the ground couldn't have been left by something of this world...",
-      "condition": "Get abducted by aliens in Boiling Water World"
+      "name": "밤의 음모",
+      "description": "이 세상의 무언가가 이 땅속의 표식을 남겼을 리가 없어...",
+      "condition": "Boiling Water World에서 외계인에게 납치당하기"
     },
     "music_world_fall": {
-      "name": "Push of a ♫",
-      "description": "Accidents happen",
-      "condition": "Make the blue note creature fall off its platform in Music Symbol World"
+      "name": "♫ 밀치기",
+      "description": "사고 발생",
+      "condition": "Music Symbol World에서 푸른 음표 생명체를 떨어뜨리기"
     },
     "emergency_secret_doors": {
-      "name": "Melting Ghost",
-      "description": "They're trying to communicate, but I can't hear them...",
-      "condition": "Use the Tuning Fork effect in a certain part of the Emergency Room"
+      "name": "녹아내리는 유령",
+      "description": "소통하려 하고 있지만 들리지 않아...",
+      "condition": "Emergency Room의 특정 장소에서 Tuning Fork 이펙트를 사용하기"
     },
     "bed_hair_girl_death": {
-      "name": "The Bear's Cage",
-      "description": "Calm before the storm taken literally.",
-      "condition": "Face the consequences of killing the Wind Vane Girl"
+      "name": "곰의 우리",
+      "description": "폭풍전야",
+      "condition": "바람개비 소녀(Wind Vane Girl) NPC를 죽인 결과를 직면하기"
     }
   }
 }
