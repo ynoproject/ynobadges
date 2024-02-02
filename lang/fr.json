@@ -3267,6 +3267,31 @@
       "name": "Vers verts et vers pas verts",
       "description": "Entre des bocaux en verre et des vers qui n'en font qu'à leur tête, ce lieu me donne le vertige...",
       "condition": "Entrer dans Wacky Worms"
+    },
+    "depths_aquarium": {
+      "name": "Aquarium d'Atlantis",
+      "description": "Radieux aquarium caché dans les profondeurs",
+      "condition": "Visiter l'aquarium dans les Depths"
+    },
+    "toy_desert_mushroom": {
+      "name": "Champis mimis",
+      "description": "Owww ! Est-ce que ce sont des chiens champignons ?",
+      "condition": "Trouver des champignons dans le Toy Desert"
+    },
+    "chaser_collision_world": {
+      "name": "FAIS ATTENTION",
+      "description": "UROTSUKI NE NOUS ENTEND PAS NOOOOOONNN",
+      "condition": "Se faire attraper par l'un des chasseurs courant dans le Collision World"
+    },
+    "spacey_retreat_moon": {
+      "name": "Emmène-moi sur la Lune",
+      "description": "Et laisse-moi jouer parmi les étoiles",
+      "condition": "Utiliser l'effet Ressort pour sauter sur la lune à Spacey Retreat"
+    },
+    "parking_garage": {
+      "name": "Sombre garage",
+      "description": "Ces véhicules sont en bon état !",
+      "condition": "Entrer dans le Parking Garage"
     }
   },
   "flow": {
@@ -4770,6 +4795,11 @@
     "creature_dark_forest": {
       "name": "Habitants du lac",
       "condition": "Attirer les créatures du lac de la Dark Forest"
+    },
+    "old_blue_fc_school": {
+      "name": "Vieux bleu",
+      "description": "Une amélioration d'une autre époque",
+      "condition": "Visiter l'école dans les FC Fields et y ouvrir le coffre. Si vous l'avez déjà ouvert, retournez dans la salle où vous l'avez trouvé."
     }
   },
   "sheawaits": {
@@ -4874,7 +4904,7 @@
     "dust_bunny": {
       "name": "Sois choupi !",
       "description": "C'est plutôt mignon.",
-      "condition": "Trouver l'effet Dust Bunny et interagir avec Lucky au Nexus"
+      "condition": "Trouver l'effet Lapin de poussière et interagir avec Lucky au Nexus"
     },
     "hoarder_colors": {
       "name": "Luciole Nostradamus",
@@ -4883,7 +4913,7 @@
     },
     "eclipse": {
       "name": "Cauchemar, je te salue",
-      "description": "\"Si discite tibi vis sacramentum\nErit præmium Atramentum Sanctum\"",
+      "description": "« Si discite tibi vis sacramentum\nErit præmium Atramentum Sanctum »",
       "condition": "Voir l'événement d'éclipse au Moth Temple"
     },
     "spinning_cat": {
@@ -4949,12 +4979,22 @@
     "emergency_secret_doors": {
       "name": "Fantôme fondu",
       "description": "Ils essayent de me communiquer quelque chose, mais je ne peux pas les entendre...",
-      "condition": "Utiliser l'effet Tuning Fork dans une certaine partie de l'Emergency Room"
+      "condition": "Utiliser l'effet Diapason dans une certaine partie de l'Emergency Room"
     },
     "bed_hair_girl_death": {
       "name": "Au cœur de l'ouragan",
       "description": "Le calme avant la tempête, littéralement.",
       "condition": "Subir les conséquences de vos actes après avoir tué la Fille Girouette"
+    },
+    "overlook_oil_world": {
+      "name": "Soleil de pétrole",
+      "description": "Une montagne surplombant le pétrole",
+      "condition": "Visiter l'Overlook dans l'Oil World"
+    },
+    "noise_room": {
+      "name": "Panique",
+      "description": "Il faut toujours se dire que tout ira bien",
+      "condition": "Entrer dans la Noise Room dans les Twilight Apartments"
     }
   }
 }
