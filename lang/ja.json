@@ -3275,6 +3275,31 @@
       "name": "むしむし！",
       "description": "ミミズの冒険に繰り出す準備はできてるかい？！",
       "condition": "長蟲の通路に到達する"
+    },
+    "depths_aquarium": {
+      "name": "Atlantis Aquarium",
+      "description": "Radiant aquarium hidden in the Depths",
+      "condition": "Visit the aquarium in Depths"
+    },
+    "toy_desert_mushroom": {
+      "name": "Cute Mushrooms",
+      "description": "Awwww! Are you mushroom dogs?",
+      "condition": "Find mushrooms in Toy Desert"
+    },
+    "chaser_collision_world": {
+      "name": "LOOK OUT",
+      "description": "UROTSUKI CAN’T HEAR US NOOO",
+      "condition": "Get caught by one of the running chasers in Collision World"
+    },
+    "spacey_retreat_moon": {
+      "name": "Fly Me to the Moon",
+      "description": "And let me play among the stars",
+      "condition": "Use the Spring effect to jump on the moon in Spacey Retreat"
+    },
+    "parking_garage": {
+      "name": "Dark Garage",
+      "description": "These vehicles are in great condition!",
+      "condition": "Enter Parking Garage"
     }
   },
   "flow": {
@@ -4778,6 +4803,11 @@
     "creature_dark_forest": {
       "name": "湖の住人",
       "condition": "暗森で湖の生き物を引き寄せる"
+    },
+    "old_blue_fc_school": {
+      "name": "Old Blue",
+      "description": "An old upgrade",
+      "condition": "Visit the school in FC Fields and open the chest there. If you have already opened it, return in the room where you found it."
     }
   },
   "sheawaits": {
@@ -4963,6 +4993,16 @@
       "name": "熊の檻",
       "description": "文字通り、嵐の前の静けさ。",
       "condition": "Wind Vane Girlを殺した末路に直面する"
+    },
+    "overlook_oil_world": {
+      "name": "Oil Sun",
+      "description": "A mountain over oil",
+      "condition": "Visit Overlook in Oil World"
+    },
+    "noise_room": {
+      "name": "Panic",
+      "description": "Keep telling yourself everything will be okay",
+      "condition": "Enter the Noise Room in Twilight Apartments"
     }
   }
 }
