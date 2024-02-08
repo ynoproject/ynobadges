@@ -3292,6 +3292,19 @@
       "name": "Dark Garage",
       "description": "These vehicles are in great condition!",
       "condition": "Enter Parking Garage"
+    },
+    "doctor_doors": {
+      "name": "Misplaced In Time",
+      "description": "By chance, an out of place door awaits...",
+      "condition": "Find the secret bedroom in Colorful Sphere World, Floating Window World, Gentle Meadows, and Low Tide Sands"
+    },
+    "snowy_theatre_lesser": {
+      "name": "Snowy Journey",
+      "condition": "Reach the seating places of the theater in Snowy Village"
+    },
+    "snowy_theatre": {
+      "name": "Colorful Brilliance",
+      "condition": "Reach the seating places of the theater in Snowy Village in {TIME} or less in Time Trial Mode"
     }
   },
   "flow": {
@@ -3537,6 +3550,11 @@
       "name": "被污染的海",
       "description": "时光一去不复返。",
       "condition": "抵达 Corrupt Beach。"
+    },
+    "ocean_floor_dragon": {
+      "name": "Sea Dragon",
+      "description": "What a pretty creature...",
+      "condition": "See the sea dragon in Ocean Floor"
     }
   },
   "deepdreams": {
@@ -4995,6 +5013,26 @@
       "name": "Panic",
       "description": "Keep telling yourself everything will be okay",
       "condition": "Enter the Noise Room in Twilight Apartments"
+    },
+    "lobster_dog": {
+      "name": "Lobster Dog",
+      "description": "Welcome! Do you want some souvenirs?",
+      "condition": "Find the lobster dog in Aquarium World"
+    },
+    "scarlet_world": {
+      "name": "Scarlet Forest",
+      "description": "Everything is scarlet.",
+      "condition": "Visit Scarlet World"
+    },
+    "death_row": {
+      "name": "Death Sentence",
+      "description": "Embrace of death",
+      "condition": "Visit Death Row"
+    },
+    "sun_weather_station": {
+      "name": "The light! It burns!",
+      "description": "Ya should've expected that to happen, in all honesty.",
+      "condition": "Try to use the Vampirism effect on the sun guy in the Weather Station"
     }
   }
 }

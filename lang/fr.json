@@ -3292,6 +3292,19 @@
       "name": "Sombre garage",
       "description": "Ces véhicules sont en bon état !",
       "condition": "Entrer dans le Parking Garage"
+    },
+    "doctor_doors": {
+      "name": "Égarée dans le temps",
+      "description": "Avec un peu de chance, peut-être qu'une porte au milieu de nulle part t'attends...",
+      "condition": "Trouver la chambre secrète dans Colorful Sphere World, Floating Window World, Gentle Meadows et Low Tide Sands"
+    },
+    "snowy_theatre_lesser": {
+      "name": "Voyage enneigé",
+      "condition": "Atteindre les places assises du théâtre du Snowy Village"
+    },
+    "snowy_theatre": {
+      "name": "Brillance colorée",
+      "condition": "Atteindre les places assises du théâtre du Snowy Village en {TIME} ou moins en course contre-la-montre"
     }
   },
   "flow": {
@@ -3537,6 +3550,11 @@
       "name": "Littoral endommagé",
       "description": "Ce n'est plus qu'une coquille vide rappelant son passé.",
       "condition": "Visiter la Corrupt Beach"
+    },
+    "ocean_floor_dragon": {
+      "name": "Dragon de mer",
+      "description": "Quelle belle créature...",
+      "condition": "Voir le dragon de mer à l'Ocean Floor"
     }
   },
   "deepdreams": {
@@ -4995,6 +5013,26 @@
       "name": "Panique",
       "description": "Il faut toujours se dire que tout ira bien",
       "condition": "Entrer dans la Noise Room dans les Twilight Apartments"
+    },
+    "lobster_dog": {
+      "name": "Lobster Dog",
+      "description": "Welcome! Do you want some souvenirs?",
+      "condition": "Find the lobster dog in Aquarium World"
+    },
+    "scarlet_world": {
+      "name": "Forêt écarlate",
+      "description": "Tout est écarlate.",
+      "condition": "Visiter le Scarlet World"
+    },
+    "death_row": {
+      "name": "Peine de mort",
+      "description": "Embrassement de la mort",
+      "condition": "Visiter la Death Row"
+    },
+    "sun_weather_station": {
+      "name": "La lumière ! Ça brûle !",
+      "description": "Tu aurais dû t'y attendre, honnêtement.",
+      "condition": "Essayer d'utiliser l'effet Vampirisme sur l'homme soleil à la Weather Station"
     }
   }
 }
