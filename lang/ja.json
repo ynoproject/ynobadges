@@ -386,6 +386,10 @@
     "barracks_settlement_pirori": {
       "name": "ピロリさんと冒険",
       "condition": "バラック集落の住人に触れて顔岩石のFC集落へワープする"
+    },
+    "jellyfishes_woods": {
+      "name": "In Your Dreams",
+      "condition": "Interact with the Jellyfishes in Dense Woods A and Dense Woods B"
     }
   },
   "2kki": {
@@ -3313,6 +3317,31 @@
     "snowy_theatre": {
       "name": "色彩の輝き",
       "condition": "Time Trial Modeで{TIME} 以内に冬の村の舞台に到達する"
+    },
+    "rainbow_snow_plateau": {
+      "name": "Rainbow Snowglobe",
+      "description": "Oh, how the colored snow flies.",
+      "condition": "Visit Rainbow Snow Plateau"
+    },
+    "stingray_skies": {
+      "name": "Last Rays of the Sun",
+      "description": "Catch the last rays of sunlight before they dive back into the horizon.",
+      "condition": "Visit Stingray Skies"
+    },
+    "exclamation_zone": {
+      "name": "SIGNS!!!!",
+      "description": "!!!!wow!!!!",
+      "condition": "Interact with one of the ! creatures in Exclamation Zone"
+    },
+    "vintage_town": {
+      "name": "Gloomy Town",
+      "description": "These flowers smell like... Grandma?",
+      "condition": "Visit Vintage Town"
+    },
+    "dreadful_docks_cat": {
+      "name": "Dreadful Noise",
+      "description": "You startled me!",
+      "condition": "Use the Wolf effect on the sea cat in Dreadful Docks"
     }
   },
   "flow": {
@@ -5041,6 +5070,16 @@
       "name": "光が！灼ける！",
       "description": "正直に言うとこうなることは分かっていたはずだ...",
       "condition": "Weather Stationにいるsun guyに対してVampirismを使う"
+    },
+    "stormy_towers_cone": {
+      "name": "Tempestuous Technical Assistance",
+      "description": "Bumper Cone",
+      "condition": "Meet the cone girl in Stormy Towers"
+    },
+    "foggy_road_shadow": {
+      "name": "Ancient Kingdom of Fog",
+      "description": "He is always here",
+      "condition": "Visit Foggy Road and see the shadow"
     }
   },
   "tsushin": {
