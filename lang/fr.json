@@ -386,6 +386,10 @@
     "barracks_settlement_pirori": {
       "name": "L'étrange voyage de M. Pirori",
       "condition": "Interagir avec le Pirori menant au FC World B"
+    },
+    "jellyfishes_woods": {
+      "name": "Bois océa-oniriques",
+      "condition": "Interagir avec les Méduses dans les Dense Woods A et Dense Woods B"
     }
   },
   "2kki": {
@@ -3305,6 +3309,31 @@
     "snowy_theatre": {
       "name": "Brillance colorée",
       "condition": "Atteindre les places assises du théâtre du Snowy Village en {TIME} ou moins en course contre-la-montre"
+    },
+    "rainbow_snow_plateau": {
+      "name": "Boule à neige arc-en-ciel",
+      "description": "Oh, cette neige colorée qui tombe est si jolie...",
+      "condition": "Visiter le Rainbow Snow Plateau"
+    },
+    "stingray_skies": {
+      "name": "Derniers rayons de soleil",
+      "description": "Attrape les derniers rayons de soleil avant qu'ils ne repartent à l'horizon.",
+      "condition": "Visiter les Stingray Skies"
+    },
+    "exclamation_zone": {
+      "name": "SIGNES !!!!",
+      "description": "!!!! Wow !!!!",
+      "condition": "Interagir avec l'une des créatures ! dans l'Exclamation Zone"
+    },
+    "vintage_town": {
+      "name": "Bourgade morose",
+      "description": "Ces fleurs sentent comme... grand-mère ?",
+      "condition": "Visiter le Vintage Town"
+    },
+    "dreadful_docks_cat": {
+      "name": "Son effroyable",
+      "description": "Tu m'as fait sursauté !",
+      "condition": "Utiliser l'effet Loup sur le chat de mer aux Dreadful Docks"
     }
   },
   "flow": {
@@ -5033,105 +5062,115 @@
       "name": "La lumière ! Ça brûle !",
       "description": "Tu aurais dû t'y attendre, honnêtement.",
       "condition": "Essayer d'utiliser l'effet Vampirisme sur l'homme soleil à la Weather Station"
+    },
+    "stormy_towers_cone": {
+      "name": "Assistance technique orageuse",
+      "description": "Un cône pare-chocs",
+      "condition": "Rencontrer la fille cône aux Stormy Towers"
+    },
+    "foggy_road_shadow": {
+      "name": "Royaume d'antan du brouillard",
+      "description": "Il est toujours là.",
+      "condition": "Visiter la Foggy Road et voir l'ombre"
     }
   },
   "tsushin": {
     "moon_flight": {
-      "name": "Exploding Humans",
-      "description": "I usually don't like the smell of fireworks, but something is EXTRA off about this.",
-      "condition": "Trigger the Human Fireworks flight event."
+      "name": "Humains explosifs",
+      "description": "D'habitude, je n'aime pas trop l'odeur des feux d'artifice, mais là, il y a quelque chose de VRAIMENT bizarre avec ceux-là.",
+      "condition": "Déclencher l'événement de vol parmi des feux d'artifice humains"
     },
     "rooftops_lights_off": {
-      "name": "Lights Off",
-      "description": "So beautiful...",
-      "condition": "Turn off the lights and view the Rooftops at night time."
+      "name": "Extinction des feux",
+      "description": "C'est tellement magnifique...",
+      "condition": "Éteindre les lumières et voir les Rooftops de nuit"
     },
     "meat_world_piggy_bank": {
-      "name": "Meat Inside a Pig Made of Meat Inside a Pig Made of Meat",
-      "description": "Pig-ception.",
-      "condition": "Enter the broken piggy bank in Meat World."
+      "name": "Viande dans un cochon fait de viande dans un cochon fait de viande",
+      "description": "Cochon-ception.",
+      "condition": "Entrer dans la tirelire cassée en forme de cochon dans le Meat World"
     },
     "giant_catgirl": {
-      "name": "Giant Cat Girl",
-      "description": "zzzzz......",
-      "condition": "Encounter the giant cat girl in the Zombie Apartment."
+      "name": "Fille chat géante",
+      "description": "zzz...",
+      "condition": "Rencontrer la fille chat géante dans le Zombie Apartment"
     },
     "cake_tower_maid": {
-      "name": "Catch a Glimpse of Beauty",
-      "description": "Let me see what you look like~",
-      "condition": "Reveal the transparent maid's true appearance in the Cake Tower."
+      "name": "Saisir un instant de ta beauté",
+      "description": "Laisse-moi voir à quoi tu ressembles~",
+      "condition": "Révéler la véritable apparence de la servante transparente dans la Cake Tower"
     },
     "factory_pink_boss": {
-      "name": "Pink Boss",
-      "condition": "Encounter the pink-haired maiden with a red ribbon in the Factory."
+      "name": "Patronne rose",
+      "condition": "Rencontrer la jeune fille aux cheveux roses avec un ruban rouge dans la Factory"
     },
     "detective_wormiko": {
-      "name": "Famous Detective Wormiko",
-      "description": "The investigation begins!",
-      "condition": "Trigger the Detective effect's action."
+      "name": "Wormiko, détective hors pair légendaire",
+      "description": "C'est le tout début d'une nouvelle enquête !",
+      "condition": "Déclencher l'action de l'effet Détective"
     },
     "abandoned_pool_mural": {
-      "name": "Abandoned Memory",
-      "description": "Things changed, you see. They don't sleep on the beach anymore...",
-      "condition": "Approach the mural on the wall in the Abandoned Swimming Pool."
+      "name": "Souvenir abandonné",
+      "description": "Les choses ont changé, vois-tu. Ils ne dorment plus sur la plage désormais...",
+      "condition": "S'approcher de la fresque murale à l'Abandoned Swimming Pool"
     },
     "chair_panic": {
-      "name": "Reclined Panic",
-      "description": "Chairs are watching you carefully...",
-      "condition": "Equip the Fire Axe effect in the Warehouse, making the chairs run away."
+      "name": "Panique sur pattes",
+      "description": "Les murs ont des oreilles, et les chaises ont des yeux.",
+      "condition": "Équiper l'effet Hache à incendie dans la Warehouse, faisant fuir les chaises"
     },
     "willow_docks": {
-      "name": "Tranquil Lake and the Willows",
-      "condition": "Visit the Docks."
+      "name": "Lac tranquille avec des saules",
+      "condition": "Visiter les Docks"
     },
     "nexus_favorites": {
-      "name": "Which Is Your Favourite?",
-      "condition": "Visit all the dream worlds accessible from the Nexus."
+      "name": "Lequel est ton préféré ?",
+      "condition": "Visiter tous les mondes oniriques accessibles depuis le Nexus"
     },
     "cheese_maze_slime_girl": {
-      "name": "Slime Girl",
-      "condition": "Swing the Fire Axe at the green-haired girl in the Cheese Maze."
+      "name": "Fille slime",
+      "condition": "Donner un coup d'Hache à incendie à la fille aux cheveux verts dans le Cheese Maze"
     },
     "slime_girl_ambush": {
-      "name": "Welcome to Reality",
-      "condition": "Leave Wormiko's room or save while the curtains are closed."
+      "name": "Bienvenue dans la réalité",
+      "condition": "Quitter la Wormiko's Room ou sauvegarder pendant que les rideaux sont fermés"
     },
     "snow_cat": {
-      "name": "Snowcat",
-      "condition": "Make a snow cat outside of Wormiko's apartment."
+      "name": "Bonchat de neige",
+      "condition": "Faire un chat en neige à l'extérieur de l'appartement de Wormiko"
     },
     "green_little_dog": {
-      "name": "Green Little Dog",
-      "description": "The little dog is greeting you~",
-      "condition": "See the green dog in the Cheese Maze."
+      "name": "Petit chien vert",
+      "description": "Le petit chien te salue~",
+      "condition": "Voir le chien vert dans le Cheese Maze"
     },
     "beach_free_pancake": {
-      "name": "Free Pancake!",
-      "description": "Watch me eat them all!!!",
-      "condition": "Check out the pancakes on the beach and eat them all."
+      "name": "Des pancakes gratuits !",
+      "description": "Je vais tous les dévorer un par un, et il n'en restera pas un seul !!!",
+      "condition": "Interagir avec les pancakes sur la plage et les dévorer tous"
     },
     "hothouse": {
-      "name": "Dimly Discernible",
-      "description": "Chasing butterflies, strolling through the morning.",
-      "condition": "Enter the Hothouse."
+      "name": "À peine perceptible",
+      "description": "Chassant les papillons, se baladant durant toute la matinée.",
+      "condition": "Entrer dans la Hothouse"
     },
     "swamp_world_bird": {
-      "name": "OMG, Surreal Bird!",
-      "description": "I saw a light, then the sun... Wait, is that a bird?",
-      "condition": "See the big weird bird in the Swamp World."
+      "name": "Oh la vache, un oiseau surréaliste !",
+      "description": "J'ai vu une lumière, puis le soleil... attends, est-ce un oiseau ?",
+      "condition": "Voir l'énorme étrange oiseau dans le Swamp World"
     },
     "moon_ornament": {
-      "name": "Moon Viewing Platform",
-      "condition": "Visit the top floor of Ornamental Moon."
+      "name": "Plateforme avec vue sur la lune",
+      "condition": "Visiter le dernier étage de l'Ornamental Moon"
     },
     "cat_hat": {
-      "name": "Cat Hat",
-      "description": "Why would you leave it in a place like this?",
-      "condition": "Visit the Throne of Entrails."
+      "name": "Chat-peau",
+      "description": "Pourquoi voudrais-tu le laisser dans un tel lieu ?",
+      "condition": "Visiter le Throne of Entrails"
     },
     "winking_ghost": {
-      "name": "Ghost Photography",
-      "condition": "Encounter the winking ghost in the Cheese Maze."
+      "name": "Photographie fantomatique",
+      "condition": "Rencontrer le fantôme faisant un clin d'œil dans le Cheese Maze"
     }
   }
 }
