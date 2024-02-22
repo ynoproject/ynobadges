@@ -390,6 +390,10 @@
     "jellyfishes_woods": {
       "name": "Bois océa-oniriques",
       "condition": "Interagir avec les Méduses dans les Dense Woods A et Dense Woods B"
+    },
+    "pink_sea_structures": {
+      "name": "Eaux douces roses",
+      "condition": "Aller à proximité des deux structures semblant être faites de corail dans le Pink Sea"
     }
   },
   "2kki": {
@@ -3334,6 +3338,21 @@
       "name": "Son effroyable",
       "description": "Tu m'as fait sursauté !",
       "condition": "Utiliser l'effet Loup sur le chat de mer aux Dreadful Docks"
+    },
+    "verdant_nexus": {
+      "name": "Connexions verdoyantes",
+      "description": "Eh bien, un autre Nexus... mais cette fois-ci, vert. Je me demande quel secret il pourrait cacher...",
+      "condition": "Visiter le Verdant Nexus"
+    },
+    "decrepit_dwg_statue": {
+      "name": "Femme géante",
+      "description": "Quelle paisible mélodie...",
+      "condition": "Se rendre dans la forêt cachée des Decrepit Dwellings et voir la statue géante d'une femme"
+    },
+    "rainbow_pipe_organ": {
+      "name": "Sonorités colorés",
+      "description": "Écoutez le doux son du pastel...",
+      "condition": "Créer un arc-en-ciel au Snowy Pipe Organ"
     }
   },
   "flow": {
@@ -5171,6 +5190,23 @@
     "winking_ghost": {
       "name": "Photographie fantomatique",
       "condition": "Rencontrer le fantôme faisant un clin d'œil dans le Cheese Maze"
+    },
+    "body_part_exhibition": {
+      "name": "Mains sous verre",
+      "condition": "Trouver la Body Part Exhibition"
+    },
+    "city_building": {
+      "name": "Nuit sur la ville",
+      "condition": "Visiter City Building et voir la ville au loin"
+    },
+    "port_tsushin": {
+      "name": "Bateaux de luxe",
+      "condition": "Visiter le Port"
+    },
+    "frog_hat": {
+      "name": "C'est une grenouille !",
+      "description": "avec un... chapeau ?",
+      "condition": "Voir la grenouille au chapeau dans l'Old Apartment Building et à la Beach"
     }
   }
 }
