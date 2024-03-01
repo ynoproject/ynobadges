@@ -3361,6 +3361,25 @@
       "name": "色彩の音色",
       "description": "パステルカラーで穏やかな音が鳴る",
       "condition": "オルガンでにじを使って虹を見る"
+    },
+    "cats_udg_subway": {
+      "name": "Catfish Corner",
+      "description": "Blub blub, meow meow",
+      "condition": "Find the pink cat-like creatures in Underground Subway"
+    },
+    "water_cactus_desert": {
+      "name": "Stay Hydrated!",
+      "description": "Don't forget to drink water!",
+      "condition": "Buy water from the cactus vendor in Cactus Desert"
+    },
+    "haniwa_lonely_home": {
+      "name": "Haniwa and the Girl",
+      "condition": "Equip the Haniwa effect and interact with the orange-haired girl in Lonely Home"
+    },
+    "legacy_nexus": {
+      "name": "Hidden Legacy",
+      "description": "Traditions bloom once more.",
+      "condition": "Enter the Legacy Nexus"
     }
   },
   "flow": {
@@ -4462,6 +4481,11 @@
       "name": "電気ショック！！",
       "description": "ビリビリする！",
       "condition": "Projector Roomでウサギを感電させる"
+    },
+    "pink_rabbit_galaxy_b": {
+      "name": "Schrödinger's Rabbit",
+      "description": "Maybe try a bug net next time.",
+      "condition": "Try to reach the pink rabbit in Block Galaxy B in both positions"
     }
   },
   "genie": {
@@ -5099,6 +5123,11 @@
       "name": "霧に隠れた古代王国",
       "description": "彼はここに来たようだ",
       "condition": "Foggy Roadで佇んでいる少年の影を見つける"
+    },
+    "garden_centre_creature": {
+      "name": "Wilting Love",
+      "description": "\"There, there... your petals can be fixed.\"",
+      "condition": "See the Garden Centre basement creature tending to the red flower"
     }
   },
   "tsushin": {
@@ -5215,6 +5244,14 @@
       "name": "ケロケロ！",
       "description": "帽子をかぶってる！",
       "condition": "Old Apartment BuildingとBeachにいるカエルに会う"
+    },
+    "planet_scream_maze": {
+      "name": "Monochromatic Void",
+      "condition": "Find the hidden planet in Dark Screaming Maze"
+    },
+    "deep_forest": {
+      "name": "Secrets and Branches",
+      "condition": "Visit the Deep Forest A, B, and C"
     }
   }
 }

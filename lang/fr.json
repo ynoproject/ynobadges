@@ -3353,6 +3353,25 @@
       "name": "Sonorités colorés",
       "description": "Écoutez le doux son du pastel...",
       "condition": "Créer un arc-en-ciel au Snowy Pipe Organ"
+    },
+    "cats_udg_subway": {
+      "name": "Quai des poissons-chats",
+      "description": "Bloup bloup, miaw miaw",
+      "condition": "Trouver les créatures semblables à des chats roses dans l'Underground Subway"
+    },
+    "water_cactus_desert": {
+      "name": "Reste hydratée !",
+      "description": "N'oublie pas de boire de l'eau !",
+      "condition": "Acheter une bouteille d'eau au vendeur cactus dans le Cactus Desert"
+    },
+    "haniwa_lonely_home": {
+      "name": "L'Haniwa et la fille",
+      "condition": "Équiper l'effet Haniwa et interagir avec la fille aux cheveux oranges dans la Lonely Home"
+    },
+    "legacy_nexus": {
+      "name": "Héritage caché",
+      "description": "Les traditions fleurissent une fois de plus.",
+      "condition": "Entrer dans le Legacy Nexus"
     }
   },
   "flow": {
@@ -4454,6 +4473,11 @@
       "name": "Choc électrique !!",
       "description": "Les câbles du projecteur nous causent des picotements ! Brrrr !",
       "condition": "Électriser le lapin dans la Projector Room"
+    },
+    "pink_rabbit_galaxy_b": {
+      "name": "Le lapin de Schrödinger",
+      "description": "Peut-être essaie avec un filet à papillon la prochaine fois.",
+      "condition": "Essayer d'atteindre le lapin rose dans la Block Galaxy B sur les deux plateformes"
     }
   },
   "genie": {
@@ -5091,6 +5115,11 @@
       "name": "Royaume d'antan du brouillard",
       "description": "Il est toujours là.",
       "condition": "Visiter la Foggy Road et voir l'ombre"
+    },
+    "garden_centre_creature": {
+      "name": "Amour fané",
+      "description": "« Ouh, ce n'est pas très joli à voir... je vais raccommoder tes pétales. »",
+      "condition": "Voir la créature du sous-sol du Garden Centre s'occupant de la fleur rouge"
     }
   },
   "tsushin": {
@@ -5207,6 +5236,14 @@
       "name": "C'est une grenouille !",
       "description": "avec un... chapeau ?",
       "condition": "Voir la grenouille au chapeau dans l'Old Apartment Building et à la Beach"
+    },
+    "planet_scream_maze": {
+      "name": "Vide monochrome",
+      "condition": "Trouver la planète cachée dans le Dark Screaming Maze"
+    },
+    "deep_forest": {
+      "name": "Secrets parmi les branches",
+      "condition": "Visiter la Deep Forest A, B et C"
     }
   }
 }
