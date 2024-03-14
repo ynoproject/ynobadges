@@ -154,7 +154,7 @@
     "face": {
       "name": "KyuuKyuu-kun",
       "description": "Envie d'un massage ?",
-      "condition": "Rencontrer l'événement de FACE"
+      "condition": "Déclencher l'événement de FACE"
     },
     "glitch": {
       "name": "�� �������",
@@ -3406,6 +3406,39 @@
     "jigsaw_tower": {
       "name": "Tour Puzzle",
       "condition": "Voir la vue depuis le sommet de la Tour Puzzle du Jigsaw Puzzle World"
+    },
+    "shinto_fortune": {
+      "name": "Chance ou malchance ?",
+      "description": "Tout peut arriver, que cela soit bon ou mauvais",
+      "condition": "Recevoir une bénédiction onrique au Shinto Shrine"
+    },
+    "big_red_factory": {
+      "name": "Dévoreur écarlate",
+      "description": "Je savais qu'avoir l'effet Gâteau sur moi ne serait pas une bonne idée...",
+      "condition": "Rencontrer le Grand Rouge dans l'Abandoned Factory"
+    },
+    "twintail_chan_marginal": {
+      "name": "Jeu de mains cauchemardesque",
+      "condition": "Équiper l'effet Marginal dans la maison de Twintail-chan et voir sa réaction"
+    },
+    "twintail_chan_twintail": {
+      "name": "Duo de couettes",
+      "condition": "Équiper l'effet Couettes dans la maison de Twintail-chan et voir sa réaction"
+    },
+    "sands_of_self": {
+      "name": "Suipelagic",
+      "description": "Dans un océan de moi-même.",
+      "condition": "Visiter les Sands of Self"
+    },
+    "mountaintop_ruins": {
+      "name": "Mountaintop Ruins",
+      "description": "Des structures intemporelles se tiennent parmi les montagnes accompagnées de verdures... et de globes oculaires.",
+      "condition": "Visiter les Moutaintop Ruins"
+    },
+    "valentine_meadow": {
+      "name": "Valentine Meadow",
+      "description": "Ces roses sentent si bonnes...",
+      "condition": "Visiter la Valentine Meadow"
     }
   },
   "flow": {
@@ -3940,6 +3973,11 @@
       "name": "Vapeur et cris distordus",
       "description": "Je n'ai pas réussi à te protéger.",
       "condition": "Entrer dans la salle du cristal violet au Memory Graveyard"
+    },
+    "blue_crystal_room": {
+      "name": "Thalassophobie",
+      "description": "Elle ne veut pas en parler...",
+      "condition": "Entrer dans la salle du cristal bleu au Dance Flood"
     }
   },
   "unevendream": {
