@@ -3416,37 +3416,66 @@
       "condition": "ぴーすふるのたわーのてっぺんまで到達する"
     },
     "shinto_fortune": {
-      "name": "What's Your Luck?",
-      "description": "Anything can happen, good or bad",
-      "condition": "Receive a dream fortune at Shinto Shrine"
+      "name": "今日の運勢は",
+      "description": "良いことも悪いことも何が起こるか分からない",
+      "condition": "味噌神社でおみくじを引く"
     },
     "big_red_factory": {
-      "name": "Scarlet Eater",
-      "description": "I knew having the Cake effect was a bad idea",
-      "condition": "Encounter Big Red at the Abandoned Factory"
+      "name": "深紅の捕食者",
+      "description": "ケーキのエフェクトになるのはよくないアイデアだったかもしれない",
+      "condition": "廃工場の赤口に食べられる"
     },
     "twintail_chan_marginal": {
-      "name": "Sprouting Hands",
-      "condition": "Equip the Marginal effect while in Twintail-chan's house and see her reaction"
+      "name": "ニョキニョキハンド",
+      "condition": "手の室内にいるツインテ少女にマージナルを使ってみる"
     },
     "twintail_chan_twintail": {
       "name": "We Love Ponytails!",
-      "condition": "Equip the Twintails effect while in Twintail-chan's house and see her reaction"
+      "condition": "手の室内にいるツインテ少女にツインテールを使ってみる"
     },
     "sands_of_self": {
       "name": "Suipelagic",
       "description": "In an ocean of one's self.",
-      "condition": "Visit Sands of Self"
+      "condition": "夢遊砂漠に到達する"
     },
     "mountaintop_ruins": {
-      "name": "Mountaintop Ruins",
-      "description": "Timeless structures among the mountains met with greenery, and eyeballs.",
-      "condition": "Visit Moutaintop Ruins"
+      "name": "ヒラヤマ遺跡",
+      "description": "山頂にある悠久の時を過ごした遺跡たちを、緑の目玉が踊りながら見ている",
+      "condition": "ヒラヤマに到達する"
     },
     "valentine_meadow": {
-      "name": "Valentine Meadow",
-      "description": "Smell the roses...",
-      "condition": "Visit Valentine Meadow"
+      "name": "バレンタインの草原",
+      "description": "薔薇の香りを嗅いで",
+      "condition": "バレンタイン草原に到達する"
+    },
+    "white_lands_bubble": {
+      "name": "Soap Bubbles",
+      "condition": "View Shimako blowing bubbles in Pure White Lands"
+    },
+    "angler_depths_docks": {
+      "name": "Shadowy Abyssal Anglerfish",
+      "description": "A friendly anglerfish that crosses and cuts through the abyssal sea",
+      "condition": "Enter the Angler's Depths sub-area of Streetlight Docks"
+    },
+    "axolotl_abode": {
+      "name": "Axolotl's Comfort",
+      "description": "Oh, welcome! Please do enjoy your stay~",
+      "condition": "Visit Axolotl Abode"
+    },
+    "bridge_medical_utopia": {
+      "name": "Chill Pill",
+      "description": "Make sure to relax after your hospital trip!",
+      "condition": "Visit the bridge sub-area in Sweet Medical Utopia"
+    },
+    "hex_factory_polygon": {
+      "name": "Simulated Nature",
+      "description": "Data giving fake life",
+      "condition": "Use the Polygon effect near the lone tree in the Hexagonal Tile Factory of Critter Village"
+    },
+    "moonlight_rose_manor": {
+      "name": "Roses and Moonlight",
+      "description": "A breathtaking view that brings you serenity... and thorns to your sides.",
+      "condition": "See the moonlight view outside of the Rose Manor"
     }
   },
   "flow": {
@@ -3862,6 +3891,11 @@
       "name": "あなたはどくだ！",
       "description": "あっちいって！",
       "condition": "Neon Sewersにいる目玉生物をどくのアルターで怖がらせる"
+    },
+    "raincoat_girl_docks": {
+      "name": "When it Rains",
+      "description": "It coats",
+      "condition": "See the raincoat girl at the Docks"
     }
   },
   "someday": {
@@ -3983,9 +4017,9 @@
       "condition": "Memory GraveyardのPurple Crystal roomに到達する"
     },
     "blue_crystal_room": {
-      "name": "Thalassophobia",
-      "description": "She doesn't want to talk about it...",
-      "condition": "Enter the blue crystal room in Dance Flood"
+      "name": "海洋恐怖症",
+      "description": "彼女は僕と話すことを望まない",
+      "condition": "Dance FloodのBlue Crystal roomに到達する"
     }
   },
   "unevendream": {
@@ -5205,6 +5239,11 @@
       "name": "枯れ行く愛",
       "description": "\"見てごらん...僕はしおれた花びらを咲かせることができるんだ...\"",
       "condition": "Garden Centre basementで緑色の生物が赤い花を世話しているところを見る"
+    },
+    "urchin_aquarium_world": {
+      "name": "Urchin's Eye",
+      "description": "Get the aquarium urchin's attention with a tune!",
+      "condition": "Use the Tuning Fork effect near the urchin person in Aquarium World to make them open their eye"
     }
   },
   "tsushin": {
