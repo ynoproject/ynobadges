@@ -3433,12 +3433,41 @@
     "mountaintop_ruins": {
       "name": "Mountaintop Ruins",
       "description": "Timeless structures among the mountains met with greenery, and eyeballs.",
-      "condition": "Visit Moutaintop Ruins"
+      "condition": "Visit Mountaintop Ruins"
     },
     "valentine_meadow": {
       "name": "Valentine Meadow",
       "description": "Smell the roses...",
       "condition": "Visit Valentine Meadow"
+    },
+    "white_lands_bubble": {
+      "name": "Soap Bubbles",
+      "condition": "View Shimako blowing bubbles in Pure White Lands"
+    },
+    "angler_depths_docks": {
+      "name": "Shadowy Abyssal Anglerfish",
+      "description": "A friendly anglerfish that crosses and cuts through the abyssal sea",
+      "condition": "Enter the Angler's Depths sub-area of Streetlight Docks"
+    },
+    "axolotl_abode": {
+      "name": "Axolotl's Comfort",
+      "description": "Oh, welcome! Please do enjoy your stay~",
+      "condition": "Visit Axolotl Abode"
+    },
+    "bridge_medical_utopia": {
+      "name": "Chill Pill",
+      "description": "Make sure to relax after your hospital trip!",
+      "condition": "Visit the bridge sub-area in Sweet Medical Utopia"
+    },
+    "hex_factory_polygon": {
+      "name": "Simulated Nature",
+      "description": "Data giving fake life",
+      "condition": "Use the Polygon effect near the lone tree in the Hexagonal Tile Factory of Critter Village"
+    },
+    "moonlight_rose_manor": {
+      "name": "Roses and Moonlight",
+      "description": "A breathtaking view that brings you serenity... and thorns to your sides.",
+      "condition": "See the moonlight view outside of the Rose Manor"
     }
   },
   "flow": {
@@ -3854,6 +3883,11 @@
       "name": "독한 녀석!",
       "description": "너한테서 떨어져야겠어!",
       "condition": "네온 하수구에서 유독성 변환을 사용하여 눈이 달린 생명체를 놀라게 하기"
+    },
+    "raincoat_girl_docks": {
+      "name": "When it Rains",
+      "description": "It coats",
+      "condition": "See the raincoat girl at the Docks"
     }
   },
   "someday": {
@@ -5197,6 +5231,11 @@
       "name": "시들어버린 사랑",
       "description": "\"옳지, 괜찮아... 네 꽃잎은 고칠 수 있어.\"",
       "condition": "Garden Centre의 지하실에서 붉은 꽃을 가꾸는 생명체를 보기"
+    },
+    "urchin_aquarium_world": {
+      "name": "Urchin's Eye",
+      "description": "Get the aquarium urchin's attention with a tune!",
+      "condition": "Use the Tuning Fork effect near the urchin person in Aquarium World to make them open their eye"
     }
   },
   "tsushin": {
