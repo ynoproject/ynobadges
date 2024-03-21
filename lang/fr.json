@@ -3433,12 +3433,41 @@
     "mountaintop_ruins": {
       "name": "Mountaintop Ruins",
       "description": "Des structures intemporelles se tiennent parmi les montagnes accompagnées de verdures... et de globes oculaires.",
-      "condition": "Visiter les Moutaintop Ruins"
+      "condition": "Visiter les Mountaintop Ruins"
     },
     "valentine_meadow": {
       "name": "Valentine Meadow",
       "description": "Ces roses sentent si bonnes...",
       "condition": "Visiter la Valentine Meadow"
+    },
+    "white_lands_bubble": {
+      "name": "Bulles de savon",
+      "condition": "Voir Shimako en train de souffler des bulles aux Pure White Lands"
+    },
+    "angler_depths_docks": {
+      "name": "Poissons-pêcheurs obscurs des abysses",
+      "description": "Un poisson pêcheur amical qui traverse et coupe à travers la mer abyssale",
+      "condition": "Entrer dans la sous-zone des Profondeurs des Pêcheurs aux Streetlight Docks"
+    },
+    "axolotl_abode": {
+      "name": "Confort des axolotls",
+      "description": "Oh, bienvenue ! Profite bien de ton séjour~",
+      "condition": "Visiter l'Axolotl Abode"
+    },
+    "bridge_medical_utopia": {
+      "name": "Pilule calme",
+      "description": "N'oublie pas de te relaxer après ton petit tour à l'hôpital !",
+      "condition": "Visiter la sous-zone de pont au Sweet Medical Utopia"
+    },
+    "hex_factory_polygon": {
+      "name": "Nature simulée",
+      "description": "Données générant une vie fictive",
+      "condition": "Utiliser l'effet Polygone à proximité de l'arbre solitaire dans l'Usine aux Tuiles Hexagonales du Critter Village"
+    },
+    "moonlight_rose_manor": {
+      "name": "Roses et lumière de la nuit",
+      "description": "Une vue épineuse à couper le souffle qui vous amène de la sérénité...",
+      "condition": "Voir les rayons de la lune à l'extérieur du Rose Manor"
     }
   },
   "flow": {
@@ -3854,6 +3883,11 @@
       "name": "T'es toxique !",
       "description": "N'ose pas t'approcher de moi, monstre !",
       "condition": "Effrayer la créature tigœil dans les Neon Sewers en utilisant l'alter Toxique"
+    },
+    "raincoat_girl_docks": {
+      "name": "Là où la pluie tombe...",
+      "description": "... la fille à l'imperméable est là !",
+      "condition": "Voir la fille à l'imperméable aux Docks"
     }
   },
   "someday": {
@@ -5197,6 +5231,11 @@
       "name": "Amour fané",
       "description": "« Ouh, ce n'est pas très joli à voir... je vais raccommoder tes pétales. »",
       "condition": "Voir la créature du sous-sol du Garden Centre s'occupant de la fleur rouge"
+    },
+    "urchin_aquarium_world": {
+      "name": "Œil de l'oursin",
+      "description": "Obtiens l'attention de l'oursin avec une douce mélodie !",
+      "condition": "Utiliser l'effet Diapason à proximité de la personne oursin dans l'Aquarium World pour lui faire ouvrir son œil"
     }
   },
   "tsushin": {
