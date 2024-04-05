@@ -3506,6 +3506,38 @@
       "name": "Géant omniscient",
       "description": "Je me demande si il vit ici sans se préoccuper du reste...",
       "condition": "Voir le géant au Monkey Mansion"
+    },
+    "graffiti_passage_a": {
+      "name": "Panique papier",
+      "description": "Une découverte teintée de rouge",
+      "condition": "Marcher sur la tuile あ rouge au Graffiti Passage"
+    },
+    "witch_heaven": {
+      "name": "Paradis magique",
+      "condition": "Visiter le Witch Heaven"
+    },
+    "lamps_house_vases": {
+      "name": "Rêves de céramique",
+      "description": "Morceaux de rêves et désirs de jours passés",
+      "condition": "Interagir avec les 3 lampes dans l'House of Vases"
+    },
+    "snake_maiden_pls_street": {
+      "name": "Domaine de la jeune fille serpent",
+      "description": "« Je n'ai jamais vu quelqu'un d'aussi magnifique... »",
+      "condition": "Utiliser l'effet Maiko à proximité de la jeune fille serpent à la Pleasure Street"
+    },
+    "rainy_woods_path": {
+      "name": "Parapluie à rayures",
+      "condition": "Visiter le Rainy Woods Path"
+    },
+    "vm_fancy_pillars": {
+      "name": "Danse fantaisiste des échéquistes",
+      "description": "Les ombres rebondissent joyeusement",
+      "condition": "Acheter une friandise dans le distributeur automatique de la Salle aux Pilliers Fantaisistes à Claustrophobia"
+    },
+    "pris_tent_clawtree_forest": {
+      "name": "Cube prismatique",
+      "condition": "Visiter la Prismatic Tent dans la Clawtree Forest"
     }
   },
   "flow": {
@@ -3756,6 +3788,11 @@
       "name": "Dragon de mer",
       "description": "Quelle belle créature...",
       "condition": "Voir le dragon de mer à l'Ocean Floor"
+    },
+    "repair_shop_town": {
+      "name": "Chauss' Miko",
+      "description": "« Des sandales ? Cela fait déjà depuis longtemps que l'on n'en vend plus ici... »",
+      "condition": "Rencontrer la Chimiko vendeuse de sandales dans l'Atelier de Réparation du Spirit Town"
     }
   },
   "deepdreams": {
