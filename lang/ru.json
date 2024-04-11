@@ -3538,6 +3538,62 @@
     "pris_tent_clawtree_forest": {
       "name": "Prismatic Cube",
       "condition": "Visit the Prismatic Tent in Clawtree Forest"
+    },
+    "pain_blot_puzzle": {
+      "name": "Paint Blot Pain",
+      "description": "Whoa, whoever painted this must have been going through a really tough time.",
+      "condition": "Solve the puzzle in Paint Blot Path"
+    },
+    "amorphous_uro_room": {
+      "name": "It Lurks",
+      "condition": "Get caught by a scribble-like creature in the silhouette room of Amorphous Maroon Space"
+    },
+    "horror_maze_end": {
+      "name": "Outer Planet",
+      "condition": "Successfully navigate through the Horror Maze"
+    },
+    "horror_maze_chainsaw": {
+      "name": "Wilted Rose",
+      "description": "Hush now child... Humphry can hurt you no more...",
+      "condition": "Use the Chainsaw effect on the monster in Horror Maze"
+    },
+    "heart_heart_world": {
+      "name": "Amplified Heartbeat",
+      "description": "Woah... that's one big heart!",
+      "condition": "Visit the Giant Heart room in the Panel Passage of the Heart World"
+    },
+    "bunny_stellar_park": {
+      "name": "Clown Bunny",
+      "description": "It seems happy to not be the only one around here...",
+      "condition": "Equip the Bunny Ears effect in the Stellar Park of Celestial Night near the bunny clown"
+    },
+    "stellar_park_tt": {
+      "name": "Race Under the Moonlit Sky",
+      "condition": "Visit the Stellar Park of Celestial Night in {TIME} or less in Time Trial Mode"
+    },
+    "2kki_wolf_effect": {
+      "name": "Sandcastles and Seabreeze",
+      "condition": "Interact with the wolf boy Ookami at the White Beach"
+    },
+    "2kki_marginal_effect": {
+      "name": "Lovable Abomination",
+      "description": "Third leg may or may not be included",
+      "condition": "Get the Marginal effect in the Broken Faces Area"
+    },
+    "2kki_cake_effect": {
+      "name": "Piece Of Cake!",
+      "description": "Tasty...",
+      "condition": "Get the Cake effect from Shimofuri-tan in Cutlery World"
+    },
+    "shimofuri_mask_sweets": {
+      "name": "Cake! Cake! Cake!",
+      "description": "Two are close friends...?",
+      "condition": "Put on Shimofuri-tan's mask and talk to Sweets Musume in Cutlery World"
+    },
+    "buzzing_bee": {
+      "name": "Bzzzweet",
+      "description": "This must bee a delicious cake",
+      "condition": "Equip the Cake effect near the Queen Bee in Honeybee Residence"
     }
   },
   "flow": {
@@ -3701,6 +3757,11 @@
       "name": "Eisoptrophobia",
       "description": "You don't look like you.",
       "condition": "Gaze into the Sweet Sugar's mirror as Rust"
+    },
+    "flow_machine_effect": {
+      "name": "Automaton",
+      "description": "A shocking turn of events...",
+      "condition": "Get the Machine effect in Star World"
     }
   },
   "prayers": {
@@ -3793,6 +3854,11 @@
       "name": "Shoe Miko",
       "description": "What a cool girl",
       "condition": "Encounter the Shoe Chimiko in the Repair Shop of Spirit Town"
+    },
+    "karakasa_prayer": {
+      "name": "Urameshiya!!",
+      "description": "A spooky friend resides in the shrine's corner...",
+      "condition": "Interact with the kasa-obake in the Miko Shrine"
     }
   },
   "deepdreams": {
@@ -3963,6 +4029,21 @@
       "name": "When it Rains",
       "description": "It coats",
       "condition": "See the raincoat girl at the Docks"
+    },
+    "mod_street": {
+      "name": "Mod Theatre",
+      "description": "It's hard to look at, and harder to enter.",
+      "condition": "Take a trip down Mod Street"
+    },
+    "toxic_alter": {
+      "name": "Toxic Buddy",
+      "description": "Plague nurses HATE her!",
+      "condition": "Get the Toxic alter in Neon Sewers"
+    },
+    "bat_girl_verdant": {
+      "name": "Bat Acquired Snuggles",
+      "description": "The pink flowers are her favorite!",
+      "condition": "Привлеките внимание Девочки-летучей мыши в Лилейных полях."
     }
   },
   "someday": {
@@ -4664,6 +4745,11 @@
       "name": "Red Ladder",
       "description": "YOU CAN DO THAT???",
       "condition": "Push down the red ladder in Block Galaxy B"
+    },
+    "soft_sunset": {
+      "name": "Midsummer Sinking Sun",
+      "description": "Watching the vast, summer skies with a bunny friend, different colors melting into each other as the sun sinks deeper...",
+      "condition": "Visit Sunset Cliff"
     }
   },
   "genie": {
@@ -4815,6 +4901,16 @@
     "pixelated_fish": {
       "name": "pxl.fish",
       "condition": "Visit Pixelated Fish"
+    },
+    "walker_delusion": {
+      "name": "Mechanical Duo",
+      "description": "A paranoid young girl who rides in an adequately sized walking robot, the mecha in one",
+      "condition": "Get the Walker delusion in the Gray Staircase"
+    },
+    "ancient_heavenly_sky": {
+      "name": "Overgrown Skies",
+      "description": "Delicate chains of pink flowers reclaim majestic ruins forgotten by time...",
+      "condition": "Доберитесь до Античных Небес."
     }
   },
   "mikan": {
@@ -5076,6 +5172,10 @@
       "name": "Old Blue",
       "description": "An old upgrade",
       "condition": "Visit the school in FC Fields and open the chest there. If you have already opened it, return in the room where you found it."
+    },
+    "uv_egg_effect": {
+      "name": "Green Eggs and...",
+      "condition": "Get the Egg effect in Pink Continent"
     }
   },
   "sheawaits": {
@@ -5435,6 +5535,11 @@
     "deep_forest": {
       "name": "Secrets and Branches",
       "condition": "Visit the Deep Forest A, B, and C"
+    },
+    "tsh_gothic_dress_effect": {
+      "name": "Gothic Beauty",
+      "description": "You have great taste!",
+      "condition": "Get the Goth Dress effect in White Desert"
     }
   }
 }
