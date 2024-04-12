@@ -3538,6 +3538,62 @@
     "pris_tent_clawtree_forest": {
       "name": "Cube prismatique",
       "condition": "Visiter la Prismatic Tent dans la Clawtree Forest"
+    },
+    "pain_blot_puzzle": {
+      "name": "Blocage artistique et peinture sèche",
+      "description": "Wouah, la personne qui a peint cela devait vraiment être au fond du trou.",
+      "condition": "Résoudre l'énigme dans le Paint Blot Path"
+    },
+    "amorphous_uro_room": {
+      "name": "L'ombre du rôdeur",
+      "condition": "Se faire attraper par une créature semblable à un gribouillage dans la salle aux silhouettes de l'Amorphous Maroon Space"
+    },
+    "horror_maze_end": {
+      "name": "Planète extérieure",
+      "condition": "Atteindre la fin de l'Horror Maze"
+    },
+    "horror_maze_chainsaw": {
+      "name": "Rose fânée",
+      "description": "Hâte-toi mon enfant... Humphry ne pourra plus te blesser...",
+      "condition": "Utiliser l'effet Tronçonneuse sur le monstre de l'Horror Maze"
+    },
+    "heart_heart_world": {
+      "name": "Battement de cœur amplifié",
+      "description": "Wouah... c'est un cœur de géant !",
+      "condition": "Visiter la salle du Cœur Géant dans le Panel Passage de l'Heart World"
+    },
+    "bunny_stellar_park": {
+      "name": "Lapin clown",
+      "description": "Il semble être heureux de ne pas être le seul aux alentours...",
+      "condition": "Équiper l'effet Oreilles de lapin dans le Stellar Park de la Celestial Night proche du lapin clown"
+    },
+    "stellar_park_tt": {
+      "name": "Course au clair de lune",
+      "condition": "Visiter le Stellar Park de la Celestial Night en {TIME} ou moins en course contre-la-montre"
+    },
+    "2kki_wolf_effect": {
+      "name": "Châteaux de sables et brise marine",
+      "condition": "Interagir avec le garçon loup Ookami sur la White Beach"
+    },
+    "2kki_marginal_effect": {
+      "name": "Abomination adorable",
+      "description": "La troisième jambe n'est pas incluse sur tous les modèles",
+      "condition": "Obtenir l'effet Marginal dans la Broken Faces Area"
+    },
+    "2kki_cake_effect": {
+      "name": "La gâtée du gâteau",
+      "description": "Trop bon...",
+      "condition": "Obtenir l'effet Gâteau de la part de Shimofuri-tan dans le Cutlery World"
+    },
+    "shimofuri_mask_sweets": {
+      "name": "Gâteau ! Gâteau ! Gâteau !",
+      "description": "Ces deux-là sont de bonnes amies... ?",
+      "condition": "Mettre le masque de Shimofuri-tan et parler à Sweets Musume dans le Cutlery World"
+    },
+    "buzzing_bee": {
+      "name": "Bzzzucre",
+      "description": "Ce gâteau doit être abeillissant",
+      "condition": "Équiper l'effet Gâteau à proximité de la Reine Abeille dans l'Honeybee Residence"
     }
   },
   "flow": {
@@ -3701,6 +3757,11 @@
       "name": "Spectrophobie",
       "description": "Tu ne te ressembles pas.",
       "condition": "Se fixer dans le miroir présent à Sweet Sugar en tant que Rust"
+    },
+    "flow_machine_effect": {
+      "name": "Automate",
+      "description": "Une choquante tournure d'événements...",
+      "condition": "Obtenir l'effet Machine dans le Star World"
     }
   },
   "prayers": {
@@ -3793,6 +3854,11 @@
       "name": "Chauss' Miko",
       "description": "« Des sandales ? Cela fait déjà depuis longtemps que l'on n'en vend plus ici... »",
       "condition": "Rencontrer la Chimiko vendeuse de sandales dans l'Atelier de Réparation du Spirit Town"
+    },
+    "karakasa_prayer": {
+      "name": "Urameshiya !!",
+      "description": "Un ami effrayant résidant dans un des coins du sanctuaire...",
+      "condition": "Interagir avec le kasa-obake dans le Miko Shrine"
     }
   },
   "deepdreams": {
@@ -3963,6 +4029,21 @@
       "name": "Là où la pluie tombe...",
       "description": "... la fille à l'imperméable est là !",
       "condition": "Voir la fille à l'imperméable aux Docks"
+    },
+    "mod_street": {
+      "name": "Théâtre de la mode",
+      "description": "C'est dur à regarder, et encore plus pour entrer.",
+      "condition": "Débarquer à la Mod Street"
+    },
+    "toxic_alter": {
+      "name": "Pote toxique",
+      "description": "Les infirmières de la peste la DÉTESTENT !",
+      "condition": "Obtenir l'alter Toxique dans les Neon Sewers"
+    },
+    "bat_girl_verdant": {
+      "name": "La chauve-souris qui aimait les câlins",
+      "description": "Les fleurs roses sont ses préférés !",
+      "condition": "Attirer l'attention de la fille chauve-souris dans le Lily Field"
     }
   },
   "someday": {
@@ -4664,6 +4745,11 @@
       "name": "Échelle rouge",
       "description": "TU PEUX FAIRE ÇA ???",
       "condition": "Faire tomber l'échelle rouge dans la Block Galaxy B"
+    },
+    "soft_sunset": {
+      "name": "Soleil couchant de la mi-été",
+      "description": "Regardant les vastes cieux d'été avec un ami lapinou, différentes couleurs se fondent les unes dans les autres tandis que le soleil se couche plus profondément...",
+      "condition": "Visiter la Sunset Cliff"
     }
   },
   "genie": {
@@ -4815,6 +4901,16 @@
     "pixelated_fish": {
       "name": "pxl.fish",
       "condition": "Visiter Pixelated Fish"
+    },
+    "walker_delusion": {
+      "name": "Duo méchanique",
+      "description": "Une jeune fille paranoïde conduisant un robot sur pattes d'une taille optimale, le mecha",
+      "condition": "Obtenir l'illusion Trotteur dans le Gray Staircase"
+    },
+    "ancient_heavenly_sky": {
+      "name": "Cieux envahies",
+      "description": "De délicates chaînes de fleurs roses réclament des ruines majestueuses oubliées par le temps...",
+      "condition": "Entrer dans l'Ancient Heavenly Sky"
     }
   },
   "mikan": {
@@ -5076,6 +5172,10 @@
       "name": "Vieux bleu",
       "description": "Une amélioration d'une autre époque",
       "condition": "Visiter l'école dans les FC Fields et y ouvrir le coffre. Si vous l'avez déjà ouvert, retournez dans la salle où vous l'avez trouvé."
+    },
+    "uv_egg_effect": {
+      "name": "Des œufs verts et...",
+      "condition": "Obtenir l'effet Œuf au Pink Continent"
     }
   },
   "sheawaits": {
@@ -5435,6 +5535,11 @@
     "deep_forest": {
       "name": "Secrets parmi les branches",
       "condition": "Visiter la Deep Forest A, B et C"
+    },
+    "tsh_gothic_dress_effect": {
+      "name": "Beauté gothique",
+      "description": "Tu as de bons goûts !",
+      "condition": "Obtenir l'effet Robe gothique dans le White Desert"
     }
   }
 }
