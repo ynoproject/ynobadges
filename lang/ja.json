@@ -3550,54 +3550,54 @@
     },
     "pain_blot_puzzle": {
       "name": "Paint Blot Pain",
-      "description": "Whoa, whoever painted this must have been going through a really tough time.",
-      "condition": "Solve the puzzle in Paint Blot Path"
+      "description": "おっと、これを描いた人はきっと大変な思いをしたに違いない",
+      "condition": "アートの染み迷路の謎を解く"
     },
     "amorphous_uro_room": {
-      "name": "It Lurks",
-      "condition": "Get caught by a scribble-like creature in the silhouette room of Amorphous Maroon Space"
+      "name": "赤黒の潜入者",
+      "condition": "赤タイル世界の逆光部屋で赤黒のノイズの塊に捕まる"
     },
     "horror_maze_end": {
-      "name": "Outer Planet",
-      "condition": "Successfully navigate through the Horror Maze"
+      "name": "外惑星",
+      "condition": "恐怖の迷宮のイベントを達成する"
     },
     "horror_maze_chainsaw": {
-      "name": "Wilted Rose",
-      "description": "Hush now child... Humphry can hurt you no more...",
-      "condition": "Use the Chainsaw effect on the monster in Horror Maze"
+      "name": "枯れた薔薇",
+      "description": "落ち着いてください。こいつはもう抵抗してきません......",
+      "condition": "恐怖の迷宮の緑の追跡者にチェーンソーを使う"
     },
     "heart_heart_world": {
-      "name": "Amplified Heartbeat",
-      "description": "Woah... that's one big heart!",
-      "condition": "Visit the Giant Heart room in the Panel Passage of the Heart World"
+      "name": "増幅された心拍数",
+      "description": "これはなんと超巨大な心臓なんだ",
+      "condition": "心臓に到達する"
     },
     "bunny_stellar_park": {
-      "name": "Clown Bunny",
-      "description": "It seems happy to not be the only one around here...",
-      "condition": "Equip the Bunny Ears effect in the Stellar Park of Celestial Night near the bunny clown"
+      "name": "サーカスウサギ",
+      "description": "ここに仲間がいることがとても幸せなようです",
+      "condition": "ゆめいろ天幕にいるゆめいろうさぎにうさみみを使って話しかける"
     },
     "stellar_park_tt": {
-      "name": "Race Under the Moonlit Sky",
-      "condition": "Visit the Stellar Park of Celestial Night in {TIME} or less in Time Trial Mode"
+      "name": "夜空のゆめかわレース",
+      "condition": "Time Trial Modeで {TIME} 以内にゆめいろ天幕の公園エリアに到達する"
     },
     "2kki_wolf_effect": {
-      "name": "Sandcastles and Seabreeze",
-      "condition": "Interact with the wolf boy Ookami at the White Beach"
+      "name": "潮風と砂の城",
+      "condition": "砂浜で狼少年に話しかけて、オオカミのエフェクトを取得する"
     },
     "2kki_marginal_effect": {
-      "name": "Lovable Abomination",
-      "description": "Third leg may or may not be included",
-      "condition": "Get the Marginal effect in the Broken Faces Area"
+      "name": "愛されし恐怖",
+      "description": "3本目の足がときどき見つかるという",
+      "condition": "顔と腕の通路でマージナルビビッドワーカーに話しかけて、マージナルのエフェクトを取得する"
     },
     "2kki_cake_effect": {
-      "name": "Piece Of Cake!",
-      "description": "Tasty...",
-      "condition": "Get the Cake effect from Shimofuri-tan in Cutlery World"
+      "name": "ケーキのかけら",
+      "description": "甘～い",
+      "condition": "スイーツでケーキ少女に話しかけてケーキのエフェクトを取得する"
     },
     "shimofuri_mask_sweets": {
-      "name": "Cake! Cake! Cake!",
-      "description": "Two are close friends...?",
-      "condition": "Put on Shimofuri-tan's mask and talk to Sweets Musume in Cutlery World"
+      "name": "ケーキ！ケーキ！ケーキ！",
+      "description": "2人は仲良し…？",
+      "condition": "ケーキ少女のお面をつけてスイーツ少女に話しかける"
     }
   },
   "flow": {
@@ -3763,9 +3763,9 @@
       "condition": "Sweet Sugarの鏡を錆状態で見る"
     },
     "flow_machine_effect": {
-      "name": "Automaton",
-      "description": "A shocking turn of events...",
-      "condition": "Get the Machine effect in Star World"
+      "name": "全自動メカニカル",
+      "description": "衝撃的な出来事が......",
+      "condition": "悲愴で.きかいを入手する"
     }
   },
   "prayers": {
@@ -3860,9 +3860,9 @@
       "condition": "Spirit TownのRepair ShopでShoe Chimikoに遭遇する"
     },
     "karakasa_prayer": {
-      "name": "Urameshiya!!",
-      "description": "A spooky friend resides in the shrine's corner...",
-      "condition": "Interact with the kasa-obake in the Miko Shrine"
+      "name": "うらめしや～",
+      "description": "神社の一角には不気味な友人が住んでます",
+      "condition": "Miko Shrineでからかさに話しかける"
     }
   },
   "deepdreams": {
@@ -4035,18 +4035,18 @@
       "condition": "Docksにいるレインコートを着た少女に会う"
     },
     "mod_street": {
-      "name": "Mod Theatre",
-      "description": "It's hard to look at, and harder to enter.",
-      "condition": "Take a trip down Mod Street"
+      "name": "モダンシアター",
+      "description": "見るのも難しいし入るのも難しい",
+      "condition": "Mod Streetに到達する"
     },
     "toxic_alter": {
-      "name": "Toxic Buddy",
-      "description": "Plague nurses HATE her!",
-      "condition": "Get the Toxic alter in Neon Sewers"
+      "name": "猛毒の相棒",
+      "description": "ペスト医師はこいつが嫌いだ",
+      "condition": "Neon Sewersでどくのアルターを入手する"
     },
     "bat_girl_verdant": {
-      "name": "Bat Acquired Snuggles",
-      "description": "The pink flowers are her favorite!",
+      "name": "ラブラブバット",
+      "description": "お気に入りはピンクのお花",
       "condition": "Lily Fieldのコウモリの女の子から注目を浴びる"
     }
   },
@@ -4751,9 +4751,9 @@
       "condition": "Block Galaxy Bに浮かんでいる梯子をBlock Galaxy側から落とす"
     },
     "soft_sunset": {
-      "name": "Midsummer Sinking Sun",
-      "description": "Watching the vast, summer skies with a bunny friend, different colors melting into each other as the sun sinks deeper...",
-      "condition": "Visit Sunset Cliff"
+      "name": "真夏の沈む太陽",
+      "description": "ウサギの友だちと広大な夏の空を眺めながら、太陽が深く沈むにつれて、さまざまな色が互いに溶け合っていく......。",
+      "condition": "Sunset Cliffに到達する"
     }
   },
   "genie": {
@@ -4907,9 +4907,9 @@
       "condition": "Pixelated Fishに到達する"
     },
     "walker_delusion": {
-      "name": "Mechanical Duo",
-      "description": "A paranoid young girl who rides in an adequately sized walking robot, the mecha in one",
-      "condition": "Get the Walker delusion in the Gray Staircase"
+      "name": "メカニカルデュオ",
+      "description": "ちょうどよいサイズ感のロボットに載っているパラノイドガール",
+      "condition": "Gray StaircaseでWalkerのdelusionを取得する"
     },
     "ancient_heavenly_sky": {
       "name": "Overgrown Skies",
@@ -5178,8 +5178,8 @@
       "condition": "FCフィールドの屋内にある宝箱を取る。取った場合は宝箱を見つけた部屋に到達する."
     },
     "uv_egg_effect": {
-      "name": "Green Eggs and...",
-      "condition": "Get the Egg effect in Pink Continent"
+      "name": "緑の卵と......",
+      "condition": "：ピンクっぽ大陸でたまごのエフェクトを取得する"
     }
   },
   "sheawaits": {
@@ -5541,9 +5541,9 @@
       "condition": "Deep ForestA、B、Cを巡る"
     },
     "tsh_gothic_dress_effect": {
-      "name": "Gothic Beauty",
-      "description": "You have great taste!",
-      "condition": "Get the Goth Dress effect in White Desert"
+      "name": "ゴシックビューティー",
+      "description": "いいセンスだ！",
+      "condition": "White DesertでGoth Dressのエフェクトを取得する"
     }
   }
 }
