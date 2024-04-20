@@ -1,7 +1,16 @@
 {
   "map": 1874,
-  "switchId": 124,
-  "switchValue": true,
+  "switchIds": [
+    "10",
+    "124"
+  ],
+  "switchValues": [
+    true,
+    true
+  ],
+  "varId": 4261,
+  "varValue": 2,
+  "varOp": ">=",
   "trigger": "eventAction",
-  "values": ["91", "92", "93", "94", "95"]
+  "values": ["31", "91", "92", "93", "94", "95"]
 }
