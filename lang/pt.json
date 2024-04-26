@@ -3672,6 +3672,63 @@
       "name": "Apagar as Luzes",
       "description": "O que você tomou?",
       "condition": "Visite a sala da Sniper-san na Sweet Medical Utopia enquanto as luzes estiverem apagadas"
+    },
+    "fantasy_dream": {
+      "name": "End of the Fantasy...",
+      "description": "... but the beginning of a new dream.",
+      "condition": "Reach Ending #1"
+    },
+    "dream_wanderer": {
+      "name": "Wanderer",
+      "description": "The one who walks through a thousand dreams",
+      "condition": "Reach Ending #2"
+    },
+    "dreaming_doll": {
+      "name": "Dreaming Doll",
+      "condition": "Reach Ending #3"
+    },
+    "glitch_ending": {
+      "name": "Corrupted Dream",
+      "condition": "Reach the Glitch Ending"
+    },
+    "cake_shop_repentance": {
+      "name": "Chocolate Cake Shop",
+      "description": "She has a cake on her head...!",
+      "condition": "Buy a cake while using the Cake effect at the Cake Shop in Graveyard of Repentance"
+    },
+    "funeral_prison_gravekeeper": {
+      "name": "Right Behind You",
+      "description": "I'll take you any day, chump.",
+      "condition": "Attempt to slay the Gravekeeper Warden in Funeral Prison"
+    },
+    "red_beach_sarah": {
+      "name": "Purple and Red",
+      "condition": "Enter Blood Red Beach through Legacy Nexus and cause Sarah to appear"
+    },
+    "mini_maze_mystery_tile": {
+      "name": "Breakout!",
+      "description": "You probably never hit this, just got the Eyeball Bomb and left, didn't you?",
+      "condition": "Step on the ? tile in Mini-Maze"
+    },
+    "fish_oil_crab_shore": {
+      "name": "Rest Ashored",
+      "description": "It's like heaven (if you're a crab)",
+      "condition": "Reach the Crab Shore of Fish Oil Swamp"
+    },
+    "fish_oil_swamp_angel": {
+      "name": "I Sea Angel",
+      "description": "\"Dang girl did it hurt...? When you fell from Fish Oil Swamp...?\"",
+      "condition": "Chainsaw the angel girl in Fish Oil Swamp"
+    },
+    "fish_oil_swamp_penguin": {
+      "name": "Penguin Prison",
+      "description": "You do have a point there...",
+      "condition": "Equip the Penguin effect in front of the pointy penguin in Fish Oil Swamp"
+    },
+    "violet_galaxy_collectible": {
+      "name": "Effect Not Found",
+      "description": "E.V.E.R.Y.T.H.I.N.G.S. H.A.P.P.Y.",
+      "condition": "Trigger the event in Violet Galaxy"
     }
   },
   "flow": {
@@ -5598,7 +5655,7 @@
       "condition": "Visite o City Building e veja a cidade de longe"
     },
     "port_tsushin": {
-      "name": "Barcos de Luxo",
+      "name": "S.S Tsushin",
       "condition": "Veja a vista do Port"
     },
     "frog_hat": {

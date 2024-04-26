@@ -465,7 +465,7 @@
     "crying_eyes": {
       "name": "100 pleurs",
       "description": "Ils ont tout vu.",
-      "condition": "Utiliser l'effet Bombe-œil dans la Cavernes aux Yeux en Pleurs dans le Cloudy World"
+      "condition": "Utiliser l'effet Bombe-Œil dans la Cavernes aux Yeux en Pleurs dans le Cloudy World"
     },
     "black_king": {
       "name": "Roi noir",
@@ -3672,6 +3672,63 @@
       "name": "Et la lumière ne fut pas",
       "description": "Qu'as-tu pris ?",
       "condition": "Visiter la Chambre de Sniper-san dans le Sweet Medical Utopia pendant que les lumières sont éteintes"
+    },
+    "fantasy_dream": {
+      "name": "La fin de la rêverie...",
+      "description": "... mais le commencement d'un nouveau rêve.",
+      "condition": "Atteindre la fin #1"
+    },
+    "dream_wanderer": {
+      "name": "Vagabonde",
+      "description": "Celle qui marchait à travers des milliers de rêves",
+      "condition": "Atteindre la fin #2"
+    },
+    "dreaming_doll": {
+      "name": "Poupée rêveuse",
+      "condition": "Atteindre la fin #3"
+    },
+    "glitch_ending": {
+      "name": "Rêve corrompu",
+      "condition": "Atteindre la fin buguée"
+    },
+    "cake_shop_repentance": {
+      "name": "Boutique de gâteaux au chocolat",
+      "description": "Elle a un gâteau sur sa tête... !",
+      "condition": "Acheter un gâteau en utilisant l'effet Gâteau à la Boutique de Gâteaux de la Graveyard of Repentance"
+    },
+    "funeral_prison_gravekeeper": {
+      "name": "Juste derrière toi",
+      "description": "Je te prends tous les jours, gamine.",
+      "condition": "Essayer de trancher la Directrice du Centre Funéraire dans la Funeral Prison"
+    },
+    "red_beach_sarah": {
+      "name": "Violette et Rouge",
+      "condition": "Visiter la Blood Red Beach depuis le Legacy Nexus pour faire apparaître Sarah"
+    },
+    "mini_maze_mystery_tile": {
+      "name": "Casse-briques labyrinthique",
+      "description": "Tu n'as probablement jamais appuyé dessus, étant partie juste après avoir pris la Bombe-Œil, n'est-ce pas ?",
+      "condition": "Marcher sur la tuile ? dans le Mini-Maze"
+    },
+    "fish_oil_crab_shore": {
+      "name": "Pas de sushi",
+      "description": "C'est comme le paradis (mais pour les crabes)",
+      "condition": "Atteindre le Rivage Crabe au Fish Oil Swamp"
+    },
+    "fish_oil_swamp_angel": {
+      "name": "Ange du Marais",
+      "description": "Descendue des cieux pour le Fish Oil Swamp, descendue des marais pour l'au-delà.",
+      "condition": "Tronçonner la fille ange au Fish Oil Swamp"
+    },
+    "fish_oil_swamp_penguin": {
+      "name": "Prison du pingouin",
+      "description": "Tu marques un point...",
+      "condition": "Équiper l'effet Pingouin en face du pingouin pointu au Fish Oil Swamp"
+    },
+    "violet_galaxy_collectible": {
+      "name": "Erreur 404 : Collectible Introuvable",
+      "description": "T.O.U.T. V.A. B.I.E.N.",
+      "condition": "Déclencher l'événement à la Violet Galaxy"
     }
   },
   "flow": {
@@ -5598,7 +5655,7 @@
       "condition": "Visiter City Building et voir la ville au loin"
     },
     "port_tsushin": {
-      "name": "Bateaux de luxe",
+      "name": "Le Wormi-paquebot",
       "condition": "Voir la vue depuis le Port"
     },
     "frog_hat": {
@@ -5622,44 +5679,44 @@
   },
   "nostalgic": {
     "painted_angel": {
-      "name": "Painted Angel",
-      "description": "Every color under the sky",
-      "condition": "Find the painted wings and halo near the bus stop"
+      "name": "Ange peint",
+      "description": "Toutes les couleurs sous le ciel",
+      "condition": "Trouver les ailes peintes et l'halo à proximité de l'arrêt de bus"
     },
     "beach_umbrella": {
-      "name": "A Day at the Beach",
-      "description": "A grain of sand for every memory",
-      "condition": "Find the umbrella in Full Moon Desert"
+      "name": "Journée à la plage",
+      "description": "Un grain de sable pour chaque souvenir",
+      "condition": "Trouver le parasol au Full Moon Desert"
     },
     "pink_dog_plush": {
-      "name": "Pink Dog Plush",
-      "description": "Hug me!",
-      "condition": "Give the pink stuffed dog in the Nursery Room a big hug"
+      "name": "Peluche de chien rose",
+      "description": "Câline-moi !",
+      "condition": "Donner un gros câlin au chien rose fourré dans la Nursery Room"
     },
     "cloud_cafe": {
-      "name": "Cafe in the Clouds",
-      "description": "Enjoy a sweet treat under the stars.",
-      "condition": "Enter the top of the Clock Tower Restaurant"
+      "name": "Café dans les nuages",
+      "description": "Profite d'une douce friandise sous les étoiles.",
+      "condition": "Visiter le sommet de la Clock Tower Restaurant"
     },
     "duality_of_mom": {
-      "name": "Mom...",
-      "description": "I love you, please don't hurt me.",
-      "condition": "Find both the sweet and scary versions of A's mom"
+      "name": "Maman...",
+      "description": "Je t'aime, ne me blesse pas s'il te plaît.",
+      "condition": "Trouver la versions douce et la version flippante de la mère de A"
     },
     "sacred_cats": {
-      "name": "Sacred Cats",
-      "description": "God bless you.",
+      "name": "Chats sacrés",
+      "description": "Dieu vous bénisse.",
       "condition": "Enter Four Cats Path"
     },
     "graffiti_girl": {
-      "name": "Graffiti Girl",
-      "description": "We'll never know what she was drawing...",
-      "condition": "Enter the room of the green graffiti girl in Paper Plane World"
+      "name": "Graffille",
+      "description": "Nous ne saurons jamais ce qu'elle dessinait...",
+      "condition": "Entrer dans la chambre de la fille graffiti verte au Paper Plane World"
     },
     "sugar_rush": {
-      "name": "Sugar Rush",
-      "description": "You have quite the sweet tooth!",
-      "condition": "Eat all the sweets and unlock the jelly jar in Confection World"
+      "name": "Surdose de sucre",
+      "description": "Eh bien, tu aimes les sucreries toi ! N'oublie pas de te brosser les dents...",
+      "condition": "Manger toutes les sucreries et débloquer le pot de confiture au Confection World"
     }
   }
 }
