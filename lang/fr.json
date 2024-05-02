@@ -3729,6 +3729,65 @@
       "name": "Erreur 404 : Collectible Introuvable",
       "description": "T.O.U.T. V.A. B.I.E.N.",
       "condition": "Déclencher l'événement à la Violet Galaxy"
+    },
+    "dragon_statue_world": {
+      "name": "Wouah, des dragons !!",
+      "condition": "Visiter le Dragon Statue World"
+    },
+    "karma_pleasure_street": {
+      "name": "Retour de fusil",
+      "description": "... C'était un peu mérité après.",
+      "condition": "Tronçonner la femme aux cheveux bleus dans l'une des maisons de la Pleasure Street"
+    },
+    "beach_challenge": {
+      "name": "Repos au bord de la plage",
+      "description": "Ils disent que l'eau de mer peut tout soigner",
+      "condition": "Visiter les lieux suivants : Mixed Beach, Dream Beach, Grand Beach, Realistic Beach, Blood Red Beach"
+    },
+    "wintry_attendant": {
+      "name": "Danse fanatique de la guide",
+      "description": "Une simple hôtesse qui peut voir au delà du spectre ordinaire de notre champ de vision",
+      "condition": "Voir toutes les formes de l'Hôtesse Hivernale aux Wintry Cliffs"
+    },
+    "industrial_waterfront_nurse": {
+      "name": "Coup de main",
+      "description": "Ne t'en fait pas, je vais te soigner !",
+      "condition": "Interagir avec l'infirmière de l'Industrial Waterfront avec l'effet Plâtre"
+    },
+    "cloud_sky_kingdom": {
+      "name": "Mou de nuage",
+      "description": "Si tu continues de les effrayer, ils vont se transformer en eau !",
+      "condition": "Utiliser l'effet Lanterne sur l'un des nuages clairs du Sky Kingdom pour les faire disparaître"
+    },
+    "banana_b_g_islands": {
+      "name": "L'ours qui avait perdu la banane",
+      "description": "Lui qui avait la banane, la perdit en face de cet être somnolent mais maléfique.",
+      "condition": "Récupérer la banane de Fru Fru Bear aux Board Game Islands"
+    },
+    "hopeful_road_light_lady": {
+      "name": "Where there is hope...",
+      "description": "Félicitations ! Félicitations ! Félicitations ! Félicitations !",
+      "condition": "Interagir avec la Light Lady sur la Route de l'Espoir du Pitch Black Plateau"
+    },
+    "lemonade_office_phone": {
+      "name": "Le téléphone citronné",
+      "description": "Pour une fois que c'est même pas la facture qui est acide...",
+      "condition": "Utiliser le téléphone de couleur jaune au Lemonade Edifice"
+    },
+    "paint_shop_pls_street": {
+      "name": "Tout est fait de lumière du soleil et d'arc-en-ciels",
+      "description": "Ramène un peu de couleurs dans ta vie !",
+      "condition": "Voir la cavité dans le visage du vendeur en utilisant l'effet Arc-En-Ciel dans le Magasin de Peinture de la Pleasure Street"
+    },
+    "sleeping_audiophile": {
+      "name": "Quel rythme endiablé !",
+      "description": "Je suis prête à écouter à tout, tu vois ?",
+      "condition": "Atteindre la fin #---"
+    },
+    "wanderer_audiophile": {
+      "name": "CAI06VPX.mp3",
+      "description": "J'ai la plus grande playlist de tous les temps !!",
+      "condition": "Atteindre la fin #..."
     }
   },
   "flow": {
@@ -5046,6 +5105,11 @@
       "name": "Cieux envahies",
       "description": "De délicates chaînes de fleurs roses réclament des ruines majestueuses oubliées par le temps...",
       "condition": "Entrer dans l'Ancient Heavenly Sky"
+    },
+    "cosmic_prison": {
+      "name": "Les prisonniers de l'espace",
+      "description": "Bienvenue dans la prison cosmique...",
+      "condition": "Atteindre la Cosmic Prison"
     }
   },
   "mikan": {
@@ -5168,6 +5232,11 @@
       "name": "Aliénation",
       "description": "Tu ne devrais pas être là.",
       "condition": "Atteindre le Scarecrow Doll Void"
+    },
+    "old_arcade_chaser": {
+      "name": "Hé ! C'est mon arcade !",
+      "description": "Ça c'est du geek.",
+      "condition": "Utiliser les Poings américains et interagir avec le chasseur de l'Old Arcade"
     }
   },
   "ultraviolet": {
@@ -5546,6 +5615,15 @@
       "name": "Œil de l'oursin",
       "description": "Obtiens l'attention de l'oursin avec une douce mélodie !",
       "condition": "Utiliser l'effet Diapason à proximité de la personne oursin dans l'Aquarium World pour lui faire ouvrir son œil"
+    },
+    "curtain_den_raccoon": {
+      "name": "Saisissant sosie",
+      "description": "Hein ?!?!",
+      "condition": "Interagir avec le raton-laveur humanoïde en utilisant l'effet Wendigo au Curtain Den"
+    },
+    "vent_ventilation_passage": {
+      "name": "Vision étrange",
+      "condition": "Trouver une certaine ventilation dans le Ventilation Passage"
     }
   },
   "tsushin": {
