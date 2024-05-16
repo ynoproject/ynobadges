@@ -490,7 +490,8 @@
     },
     "compass_28": {
       "name": "28",
-      "description": "２８"
+      "description": "２８",
+      "condition": "Step into the blood puddle in the Unknown Child's Room"
     },
     "blue_orb": {
       "name": "Синий шар",
@@ -3788,6 +3789,59 @@
       "name": "2kki.wav",
       "description": "I have the biggest playlist ever!!",
       "condition": "Reach Ending #..."
+    },
+    "moon_deserted_pier": {
+      "name": "Accursed Moon",
+      "description": "Somniator, praedator somnum exterreri in lunae\nSomniator, dominus honorabilium",
+      "condition": "Get close to the black moon in Deserted Pier"
+    },
+    "grand_museum": {
+      "name": "Great and Grand",
+      "condition": "Visit the Grand Scientific Museum"
+    },
+    "grand_museum_time_trial": {
+      "name": "Advancing Science",
+      "description": "Science is advancing quicker than expected.",
+      "condition": "Visit the Grand Scientific Museum in {TIME} or less in Time Trial Mode"
+    },
+    "sour_void": {
+      "name": "Easy Peasy, Lemon Squeezy",
+      "description": "Sour as the Sour Void!",
+      "condition": "Reach Sour Void"
+    },
+    "maiden_snowy_village": {
+      "name": "Maiden of the Frost",
+      "description": "This dim light helps not the unaided eye to see her...",
+      "condition": "Use the Glasses effect in the Maiden's Room in Snowy Village"
+    },
+    "planet_pollution_district": {
+      "name": "Saturn's Sibling",
+      "description": "A pure vessel resides in the sky.",
+      "condition": "See the giant planet in Pollution District"
+    },
+    "tcn_condominium_floors": {
+      "name": "Linear Equation Architecture",
+      "description": "A lonely nine-storey building in the middle of a snowy forest",
+      "condition": "Pass through the nine floors of the Techno Condominium"
+    },
+    "tch_condominium_ghost": {
+      "name": "Ghost Neon Gardener",
+      "description": "For the flowers on the fourth floor to look so beautiful, someone must be looking after them.",
+      "condition": "Interact with the ghost on the fourth floor of the Techno Condominium"
+    },
+    "b_w_challenge": {
+      "name": "Black and White",
+      "description": "And also red, sometimes...",
+      "condition": "Visit the following monochrome worlds: Monochrome School, Monochrome Wastelands, Monochrome Feudal Japan, Monochromatic Abyss, Fused Faces World, Sea of Clouds, Monochrome Ranch, Monochrome Street, Doll House"
+    },
+    "moon_fox_kitsune_res": {
+      "name": "Lunar Protector",
+      "condition": "View the fox sitting on the moon in Kitsune Residence"
+    },
+    "cookie_isle": {
+      "name": "Crispy Island",
+      "description": "Please accept my cookies!!!",
+      "condition": "Visit Cookie Isle"
     }
   },
   "flow": {
@@ -4595,6 +4649,11 @@
       "name": "Aerial Voyage",
       "description": "Take to the skies, and feel the breeze",
       "condition": "Take flight in Sky Islands"
+    },
+    "glass_case_hotel": {
+      "name": "Caged Beauty",
+      "description": "She's caught up in the colors",
+      "condition": "See the large woman encased in glass at the back of the Hotel"
     }
   },
   "braingirl": {
@@ -5634,6 +5693,11 @@
     "vent_ventilation_passage": {
       "name": "Weird Vision",
       "condition": "Find a certain vent in the Ventilation Passage"
+    },
+    "cat_oil_world": {
+      "name": "Meowwo There!",
+      "description": "I like your fork, little man!",
+      "condition": "Use the Tuning Fork effect to make the large cat wink in Oil World"
     }
   },
   "tsushin": {
@@ -5763,6 +5827,11 @@
       "name": "Gothic Beauty",
       "description": "You have great taste!",
       "condition": "Get the Goth Dress effect in White Desert"
+    },
+    "bar_ancient_civilization": {
+      "name": "Ancient Gear Drink",
+      "description": "A drink of high value!",
+      "condition": "Visit the bar in Ancient Civilization"
     }
   },
   "nostalgic": {
@@ -5834,6 +5903,16 @@
       "name": "In Bunderland",
       "description": "More tea, Sir Bunsalot?",
       "condition": "See the tea party with the rabbit plush in Confection World"
+    },
+    "man_peaceful_bus_stop": {
+      "name": "Waiting for Heaven's Stop",
+      "description": "You may not remember his face, but you remember that he loved you dearly.",
+      "condition": "Find the man at the Peaceful Bus Stop"
+    },
+    "carnation_scr_mirror_w": {
+      "name": "Mother's Bouquet",
+      "description": "Mother loves me. Mother loves me. Mother loves me.",
+      "condition": "Avoid Mother and find the Carnation in Scarred Mirror World"
     }
   }
 }
