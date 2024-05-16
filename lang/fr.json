@@ -490,7 +490,8 @@
     },
     "compass_28": {
       "name": "28",
-      "description": "２８"
+      "description": "２８",
+      "condition": "Marcher sur la flaque de sang dans l'Unknown Child's Room"
     },
     "blue_orb": {
       "name": "Orbe bleu",
@@ -3788,6 +3789,59 @@
       "name": "CAI06VPX.mp3",
       "description": "J'ai la plus grande playlist de tous les temps !!",
       "condition": "Atteindre la fin #..."
+    },
+    "moon_deserted_pier": {
+      "name": "Lune maudite",
+      "description": "Somniator, praedator somnum exterreri in lunae\nSomniator, dominus honorabilium",
+      "condition": "Trouver la lune noire au Deserted Pier"
+    },
+    "grand_museum": {
+      "name": "Génial et grand",
+      "condition": "Visiter le Grand Scientific Museum"
+    },
+    "grand_museum_time_trial": {
+      "name": "Progrès de la science",
+      "description": "La science avance plus vite que prévu.",
+      "condition": "Visiter le Grand Scientific Museum en {TIME} ou moins en course contre-la-montre"
+    },
+    "sour_void": {
+      "name": "Vide acide",
+      "description": "Comme quoi, il y a toujours plus acide que les citrons !",
+      "condition": "Atteindre le Sour Void"
+    },
+    "maiden_snowy_village": {
+      "name": "Jeune fille du froid",
+      "description": "Cette faible lueur à elle seule n'est pas suffisante pour voir les souvenirs d'une époque déchue",
+      "condition": "Utiliser l'effet Lunettes dans la salle de la jeune fille au Snowy Village"
+    },
+    "planet_pollution_district": {
+      "name": "La sœurette de Saturne",
+      "description": "Un astre unique réside dans le ciel.",
+      "condition": "Voir la géante planète au Pollution District"
+    },
+    "tcn_condominium_floors": {
+      "name": "Architecture en équation linéaire",
+      "description": "Une bâtisse à neuf étages isolée au milieu d'une forêt enneigée",
+      "condition": "Traverser les neuf étages du Techno Condominium"
+    },
+    "tch_condominium_ghost": {
+      "name": "Jardinier fantomatique néon",
+      "description": "Pour que les fleurs du quatrième étage soient si belles, quelqu'un doit bien devoir s'en préoccuper.",
+      "condition": "Interagir avec le fantôme du quatrième étage au Techno Condominium"
+    },
+    "b_w_challenge": {
+      "name": "Noir et blanc",
+      "description": "Et aussi rouge, des fois...",
+      "condition": "Visiter les mondes monochromes suivants : Monochrome School, Monochrome Wastelands, Monochrome Feudal Japan, Monochromatic Abyss, Fused Faces World, Sea of Clouds, Monochrome Ranch, Monochrome Street, Doll House"
+    },
+    "moon_fox_kitsune_res": {
+      "name": "Protecteur lunaire",
+      "condition": "Voir le renard assis sur la lune à la Kitsune Residence"
+    },
+    "cookie_isle": {
+      "name": "Île craquante",
+      "description": "Toi, accepte mes cookies !!!",
+      "condition": "Visiter la Cookie Isle"
     }
   },
   "flow": {
@@ -4595,6 +4649,11 @@
       "name": "Voyage aérien",
       "description": "Envole-toi aux cieux et ressent le souffle du vent",
       "condition": "Prendre son envol aux Sky Islands"
+    },
+    "glass_case_hotel": {
+      "name": "Beauté enfermée",
+      "description": "Piégée par les couleurs",
+      "condition": "Voir la femme géante sous verre à l'arrière de l'Hotel"
     }
   },
   "braingirl": {
@@ -5634,6 +5693,11 @@
     "vent_ventilation_passage": {
       "name": "Vision étrange",
       "condition": "Trouver une certaine ventilation dans le Ventilation Passage"
+    },
+    "cat_oil_world": {
+      "name": "Chalut la compagnie !",
+      "description": "J'aime ton Diapason, p'tit gars !",
+      "condition": "Utiliser l'effet Diapason pour que le grand chat fasse un clin d'œil dans l'Oil World"
     }
   },
   "tsushin": {
@@ -5763,6 +5827,11 @@
       "name": "Beauté gothique",
       "description": "Tu as de bons goûts !",
       "condition": "Obtenir l'effet Robe gothique dans le White Desert"
+    },
+    "bar_ancient_civilization": {
+      "name": "Boisson d'un autre temps",
+      "description": "Une boisson à haute valeur, énergétique et économique !",
+      "condition": "Visiter le bar dans l'Ancient Civilization"
     }
   },
   "nostalgic": {
@@ -5834,6 +5903,16 @@
       "name": "Alin au pays des sucreries",
       "description": "Une autre tasse de thé, M. Lasoif ?",
       "condition": "Voir la party de thé du lapin en peluche au Confection World"
+    },
+    "man_peaceful_bus_stop": {
+      "name": "Attente à l'arrêt du paradis",
+      "description": "Tu ne te souviens peut-être pas de son visage, mais tu te souviens qu'il t'aimait de tout son cœur.",
+      "condition": "Trouver l'homme à la Peaceful Bus Stop"
+    },
+    "carnation_scr_mirror_w": {
+      "name": "Bouquet maternel",
+      "description": "Mère m'aime. Mère m'aime. Mère m'aime.",
+      "condition": "Éviter Mère et trouver l'Œillet dans le Scarred Mirror World"
     }
   }
 }
