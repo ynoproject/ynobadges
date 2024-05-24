@@ -3842,6 +3842,41 @@
       "name": "Île craquante",
       "description": "Toi, accepte mes cookies !!!",
       "condition": "Visiter la Cookie Isle"
+    },
+    "slime_room_sea_of_trees": {
+      "name": "Suraimu et ses amis",
+      "description": "Un mignon slime accompagné de ses amis pour attendrir votre cœur~",
+      "condition": "Visiter la Chambre du Slime dans la Sea of Trees"
+    },
+    "pollution_district": {
+      "name": "Coucher de soleil pollué",
+      "description": "Même si ça reste une belle vue...",
+      "condition": "Visiter le Pollution District"
+    },
+    "clementine_jester": {
+      "name": "Changement de costume !",
+      "description": "Des vêtements qui se complémentent !",
+      "condition": "Voir Clémentine dans son costume de bouffonne aux Checkered Towers"
+    },
+    "eye_fake_apartments": {
+      "name": "Regard médusant",
+      "description": "Quelque chose te regarde...",
+      "condition": "Voir la créature d'orbe gouttant aux Fake Apartments"
+    },
+    "rat_king_pleasure_street": {
+      "name": "Roi Rat",
+      "description": "Nous sommes peut-être petits, mais nous faisons régner l'ordre.",
+      "condition": "Voir le Roi Rat à la Pleasure Street"
+    },
+    "diary_graveyard_repent": {
+      "name": "Journal de quelqu'un",
+      "description": "Tu me manques...",
+      "condition": "Lire le journal dans un lieu accessible depuis une petite salle du Graveyard of Repentance"
+    },
+    "cake_slime_village": {
+      "name": "Sucreries slimesques",
+      "description": "Du gâteau gratuit !! Wahou !! C'est l'heure d'aller chercher du gâteau gratuitement !!",
+      "condition": "Utiliser l'effet Gâteau dans le Slime Village"
     }
   },
   "flow": {
@@ -4860,6 +4895,10 @@
       "name": "Théorie de la couleur",
       "description": "J'adore ça, Picasso !",
       "condition": "Marquer 100 points à Cartoon Boy"
+    },
+    "mad_cow_flies_platform": {
+      "name": "Maladie de la vache folle",
+      "condition": "Déclencher l'événement des Vaches Folles à Flies Platform"
     }
   },
   "muma": {
