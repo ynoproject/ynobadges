@@ -3912,6 +3912,77 @@
       "name": "Vélocité colorée",
       "description": "Quel véhicule incroyable !!!",
       "condition": "Trouver la voiture dans le Rainbow Silhouette World"
+    },
+    "house_rainbow_black": {
+      "name": "Une rose bizarre",
+      "description": "Qui aurait cru que les roses pouvaient être si belles ?",
+      "condition": "Atteindre le Monde aux Roses Noirs de l'House Over the Rainbow"
+    },
+    "house_rainbow_black_tt": {
+      "name": "Rose polychrome",
+      "condition": "Atteindre le Monde aux Roses Noirs de l'House Over the Rainbow en {TIME} ou moins en course contre-la-montre"
+    },
+    "frozen_glade": {
+      "name": "Clairière Gla-Gla",
+      "description": "J'ai tellement envie de prendre une petite gorgée de cette rivière...",
+      "condition": "Visiter Frozen Glade"
+    },
+    "vm_kitsune_residence": {
+      "name": "Machine duveteuse",
+      "description": "Beurk ! Il y a un poil de renard dans ma boisson !",
+      "condition": "Interagir avec le distributeur automatique renard au Kitsune Residence"
+    },
+    "kitsune_residence": {
+      "name": "Paradis des renards",
+      "description": "Là où toutes les âmes des renards viennent se reposer",
+      "condition": "Atteindre la Kitsune Residence"
+    },
+    "light_stargazing_puddle": {
+      "name": "Flaques en forme d'étoile",
+      "description": "Une fois la pluie passée, attrape cette vue divine, reflété dans de simples miroirs de la terre",
+      "condition": "Voir l'énorme flaque aux Stargazing Puddles après avoir allumé toutes les créatures bougies"
+    },
+    "statue_silent_sewers": {
+      "name": "Statue des égouts",
+      "description": "Elle fait attention à toi en secret...",
+      "condition": "Équiper les effets Tronçonneuse et Marginal à proximité de la statue aux Silent Sewers"
+    },
+    "elevator_techno_cdm": {
+      "name": "Amitié de l'ascenseur",
+      "description": "Un profond lien d'amitié",
+      "condition": "Interagir avec l'une des filles dans l'ascenseur du Techno Condominium"
+    },
+    "mahouneko_domino_cst": {
+      "name": "Mahouneko !",
+      "condition": "Rencontrer Mahouneko aux Domino Constructions"
+    },
+    "mountain_range_h_vases": {
+      "name": "Dieu des montagnes",
+      "condition": "Voir la chaîne de montagnes dans l'House of Vases"
+    },
+    "techno_cdm_eight": {
+      "name": "888",
+      "description": "Un groupe de huit créatures en forme de huit au huitième étage",
+      "condition": "Voir les créatures en forme de huit changer de couleur en utilisant les effets Garçon et Marginal au huitième étage du Techno Condominium"
+    },
+    "guardian_forest_pier": {
+      "name": "Gardien des bancs de sable",
+      "description": "Toujours aux aguets, toujours sur le qui-vive",
+      "condition": "Voir le gardien au Forest Pier"
+    },
+    "town_maze": {
+      "name": "Brumes de souvenirs",
+      "description": "Ici, vous pouvez traverser la brume de fragments venant d'autres lieux",
+      "condition": "Visiter le Town Maze"
+    },
+    "view_blissful_clinic": {
+      "name": "Douce lune",
+      "condition": "Voir l'extérieur de la Blissful Clinic"
+    },
+    "eye_golden_pyramid_path": {
+      "name": "Œil doré",
+      "description": "Qui t'a donc blessé ?",
+      "condition": "Voir l'œil jaune au Golden Pyramid Path"
     }
   },
   "flow": {
@@ -5262,7 +5333,7 @@
       "condition": "Déclencher l'événement Corruption du Rêve dans le FC World"
     },
     "sewer_monster": {
-      "name": "Monstre des égoûts",
+      "name": "Monstre des égouts",
       "description": "Mais qu'est-ce que tu es en fait ?",
       "condition": "Interagir avec le résident des Toxic Sewers"
     },
@@ -5992,6 +6063,11 @@
       "name": "Chiot choupi",
       "description": "Un ami aimant~",
       "condition": "Voir le chien en peluche dans la Nursery Room"
+    },
+    "bloody_straw_juice_sea": {
+      "name": "Paille ensanglantée géante",
+      "description": "Y a-t-il des géants pour boire avec de telles pailles ?",
+      "condition": "Interagir avec la paille ensanglantée au Juice Sea"
     }
   }
 }
