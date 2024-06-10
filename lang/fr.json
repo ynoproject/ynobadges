@@ -108,13 +108,13 @@
     },
     "ynfg_dev": {
       "name": "Développeur de Fangame",
-      "description": "Réservé pour les développeurs de FGs de YN présents sur YNOproject",
-      "condition": "Développer ou contribuer à des maps à un FG de YN présent sur YNOproject"
+      "description": "Réservé pour les développeurs de fangames Yume Nikki présents sur YNOproject",
+      "condition": "Développer ou contribuer à des cartes à un fangame Yume Nikki présent sur YNOproject"
     },
     "2kki_dev": {
-      "name": "Développeur Yume 2kki",
+      "name": "Développeur de Yume 2kki",
       "description": "Réservé pour les développeurs de Yume 2kki",
-      "condition": "Contribuer à des maps pour Yume 2kki"
+      "condition": "Contribuer des cartes pour Yume 2kki"
     },
     "zolotl": {
       "name": "Zolotl",
@@ -124,6 +124,11 @@
     "novaflow": {
       "name": "NovAflow",
       "condition": "Être NovAflow"
+    },
+    "unconscious_dev": {
+      "name": "Développeur de Collective Unconscious",
+      "description": "Réservé pour les développeurs de Collective Unconscious",
+      "condition": "Contribuer des cartes ou des changements centraux pour Collective Unconscious"
     }
   },
   "yume": {
@@ -3983,6 +3988,100 @@
       "name": "Œil doré",
       "description": "Qui t'a donc blessé ?",
       "condition": "Voir l'œil jaune au Golden Pyramid Path"
+    }
+  },
+  "unconscious": {
+    "eye_lily_w_lotus_islands": {
+      "name": "Irréellement magnifique",
+      "description": "Un éveil divin",
+      "condition": "Trouver l'antre de l'Œilys et interagir avec aux White Lotus Islands"
+    },
+    "box_office_end": {
+      "name": "La technique du Sokoban",
+      "description": "Une minute de plus, et tu serais restée coincée comme tous les autres.",
+      "condition": "Compléter le puzzle de Box Office"
+    },
+    "music_lvg_room_doodles": {
+      "name": "Pièce chaleureuse",
+      "description": "Confortable et colorée",
+      "condition": "Faire jouer de la musique à la créature dans le salon de Doodles"
+    },
+    "boombox_burning_building": {
+      "name": "Rythmes enflammés",
+      "description": "Ne te brûle pas !",
+      "condition": "Activer la boombox à l'alcôve de Burning Building"
+    },
+    "blueprint_world_full": {
+      "name": "Plans de construction oniriques",
+      "description": "Une projection...",
+      "condition": "Visiter toutes les sections du Blueprint World"
+    },
+    "heart_forget_me_not": {
+      "name": "Souviens-toi de mon battement",
+      "description": "Puisse mes sentiments continuer de vivre dans ta mémoire",
+      "condition": "Interagir avec le cœur de la fille à Forget-Me-Not"
+    },
+    "internal_vista": {
+      "name": "Le confort de l'extérieur à l'intérieur",
+      "condition": "Visiter l'Internal Vista"
+    },
+    "wisteria_grove_bridge": {
+      "name": "Pont Glycine",
+      "condition": "Voir le temple de loin à Wisteria Grove"
+    },
+    "kmeleon_cst_themes": {
+      "name": "Métamorphose onirique",
+      "description": "Une expérience irréelle",
+      "condition": "Voir tous les thèmes des Chameleon Constructions"
+    },
+    "planetarium_garden": {
+      "name": "Observatoire blanc comme neige",
+      "description": "Un jardin blanc se trouvant parmi les étoiles.",
+      "condition": "Visiter le Planetarium Garden"
+    },
+    "mr_pivoine_train_station": {
+      "name": "Monsieur Pivoine",
+      "description": "Son obsession pour les fleurs était telle que nous avons dû l'enfermer dans une station de train.",
+      "condition": "Acheter un ticket à Monsieur Pivoine à la Train Station"
+    },
+    "people_palace_dungeon": {
+      "name": "Sourire capturé !",
+      "description": "Ouistiti !",
+      "condition": "Se faire capturer par les gardes à People Palace"
+    },
+    "tiger_resort": {
+      "name": "La tigresse",
+      "description": "C'est l'heure du déjeuner, miaou !",
+      "condition": "Interagir avec la tigresse rose à Resort"
+    },
+    "artist_chan_soapy_baths": {
+      "name": "Peinture murale savonneuse",
+      "description": "J'espère que le savon ne va pas la nettoyer !",
+      "condition": "Trouver Artiste-chan réalisant une peinture murale aux Soapy Baths"
+    },
+    "chelan_cheesecake_cmb": {
+      "name": "Minna petite souris",
+      "description": "Si petite...",
+      "condition": "Interagir avec Chelan dans la salle des Cheesecake Chambers en utilisant l'effet de l'eidolon Rodentia"
+    },
+    "psy_brt_warehouse": {
+      "name": "Poisson psychédélique",
+      "condition": "Déclencher l'événement de l'entrepôt psychédélique à la Brutalist Warehouse"
+    },
+    "kakkoii_lumen_resort": {
+      "name": "Hmm... j'aime ça !",
+      "description": "Rien que pour voir ton si grand sourire, ça valait bien le coup !",
+      "condition": "Utiliser l'eidolon Lumen pour faire sourire Kakkoii à Resort"
+    },
+    "dance_mural_passage": {
+      "name": "Danse du Kalimba",
+      "description": "Pendant combien de temps peut-elle danser ?",
+      "condition": "Faire danser Tusuq Warmi au Mural Passage"
+    },
+    "moon_harsh_light_road": {
+      "name": "Larme lunaire",
+      "description": "Même les astres sont sujets aux émotions.",
+      "condition": "Voir l'événement de la larme lunaire à Harsh Light Road"
     }
   },
   "flow": {
