@@ -124,6 +124,11 @@
     "novaflow": {
       "name": "NovAflow",
       "condition": "Bądź NovAflow"
+    },
+    "unconscious_dev": {
+      "name": "Collective Unconscious Developer",
+      "description": "Reserved for Collective Unconscious developers",
+      "condition": "Contribute maps or to the core system of Collective Unconscious"
     }
   },
   "yume": {
@@ -350,55 +355,55 @@
     },
     "train_cattention": {
       "name": "Ailurophobia",
-      "description": "Not even monsters are safe from the cat supremacy :3",
-      "condition": "Catch the Train Passenger A's attention with the Cat effect"
+      "description": "Nawet potwory nie są bezpieczne przed zwierzchnictwem kotów :3",
+      "condition": "Przykuj uwage Pasażera Pociągu za pomocą efektu Kota"
     },
     "docks_yume": {
-      "name": "Docks",
-      "condition": "Visit the two parts of the Docks"
+      "name": "Doki",
+      "condition": "Zwizytuj obie części Docks"
     },
     "thunder_oni": {
-      "name": "Rain, Rain, Go Away",
-      "description": "Come again another day!",
-      "condition": "Summon a clap of thunder and lightning using the Oni effect in the Dense Woods A"
+      "name": "Deszczu, przepadnij",
+      "description": "Powróc kiedy indziej.",
+      "condition": "Przyzwij piorun i grzmot za pomocą efektu Diabła w Dense Woods A"
     },
     "ghostly_assembly": {
-      "name": "Ghostly Assembly",
-      "description": "Three of a kind.",
-      "condition": "Interact with Nopperabou Ghost and Fleebie while using the Spirit Headband effect and stab Follony with the Kitchen Knife effect"
+      "name": "Zbiórka dusz",
+      "description": "Trójka.",
+      "condition": "Zainicjuj interakcje z Nopperabou Ghost i Fleebie podczas używania efektu Duchowej Opaski i dźgnij Follony Nożem Kuchennym"
     },
     "wilderness_fan": {
-      "name": "Desert Explorer",
-      "condition": "Visit every area in the Wilderness"
+      "name": "Eksplorer pustyń",
+      "condition": "Zwizytuj wszystkie części Wilderness"
     },
     "dave_death": {
-      "name": "Dave-y Jones Locker",
-      "condition": "Stab Dave Specter in the White Desert"
+      "name": "Skarbiec Dave-y Jones",
+      "condition": "Dźgnij Dave Specter nożem w White Desert"
     },
     "forest_namekuji": {
-      "name": "Boo and Goo",
-      "condition": "Interact with the two types of Namekuji in Forest World"
+      "name": "Boo i Goo",
+      "condition": "Zainicjuj interakcje z oboma typami Namekuji w Forest World"
     },
     "white_tulip": {
-      "name": "Rain and Flowers",
-      "condition": "Visit the white tulip passage between Sky Garden and Ghost World"
+      "name": "Deszcz i kwiaty",
+      "condition": "Zwizytuj obszar pomiędzy Sky Garden i Ghost World"
     },
     "barracks_settlement_pirori": {
-      "name": "Travelin' with Pirori",
-      "condition": "Interact with the Pirori that takes you to FC World B"
+      "name": "Podróżowanie z Pirori",
+      "condition": "Zainicjuj interakcje z tym Pirori, który przenosi cię do FC World B"
     },
     "jellyfishes_woods": {
-      "name": "In Your Dreams",
-      "condition": "Interact with the Jellyfishes in Dense Woods A and Dense Woods B"
+      "name": "W twoim śnie",
+      "condition": "Zainicjuj interakcje z Meduzami w Dense Woods A i Dense Woods B"
     },
     "pink_sea_structures": {
-      "name": "Sweet Pink Waters",
-      "condition": "Go near the two coral-like structures in the Pink Sea"
+      "name": "Słodkie Różowe wody",
+      "condition": "Podejdź do dwóch koralo-podobnych formacji w Pink Sea"
     },
     "tasei_kid_witch_island": {
-      "name": "Underwater Doppelgänger",
-      "description": "Does he look familiar?",
-      "condition": "Encounter Tasei's Kid on the Witch's Island"
+      "name": "Podwodny Doppelgänger",
+      "description": "Czy wygląda znajomo?",
+      "condition": "Spotkaj Tasei's Kid na Witch's Island"
     }
   },
   "2kki": {
@@ -3912,6 +3917,171 @@
       "name": "Light Velocity",
       "description": "What an incredible vehicle!!!",
       "condition": "Find the car in Rainbow Silhouette World"
+    },
+    "house_rainbow_black": {
+      "name": "A Peculiar Rose",
+      "description": "Who would have known roses could be this pretty?",
+      "condition": "Reach the Black Rose World of House Over the Rainbow"
+    },
+    "house_rainbow_black_tt": {
+      "name": "Polychrome Rose",
+      "condition": "Reach the Black Rose World of House Over the Rainbow in {TIME} or less in Time Trial Mode"
+    },
+    "frozen_glade": {
+      "name": "Cool Cool Glade",
+      "description": "I wanna take a drink from the river so much...",
+      "condition": "Visit Frozen Glade"
+    },
+    "vm_kitsune_residence": {
+      "name": "Fluffying Machine",
+      "description": "Yuck! There is fox hair in my drink!",
+      "condition": "Interact with the fox vending machine in Kitsune Residence"
+    },
+    "kitsune_residence": {
+      "name": "Fox Heaven",
+      "description": "Where all fox spirits come to rest",
+      "condition": "Reach Kitsune Residence"
+    },
+    "light_stargazing_puddle": {
+      "name": "Star Puddles",
+      "description": "After the rain, catch this heavenly view, reflected in the mere mirrors of the earth",
+      "condition": "See the big puddle in Stargazing Puddles after lighting all the candle creatures"
+    },
+    "statue_silent_sewers": {
+      "name": "Statue in the Sewers",
+      "description": "It pays attention to you...",
+      "condition": "Equip the Chainsaw and Marginal effects near the statue in Silent Sewers"
+    },
+    "elevator_techno_cdm": {
+      "name": "Elevator Friendship",
+      "description": "A firm bond of friendship",
+      "condition": "Interact with one of the girls in the elevator of the Techno Condominium"
+    },
+    "mahouneko_domino_cst": {
+      "name": "Mahouneko!",
+      "condition": "Meet Mahouneko in Domino Constructions"
+    },
+    "mountain_range_h_vases": {
+      "name": "God of the Mountains",
+      "condition": "See the mountain range in the House of Vases"
+    },
+    "techno_cdm_eight": {
+      "name": "888",
+      "description": "Group of eight shape-eight creatures on the eighth floor",
+      "condition": "See the creatures in shape of eight change their color by using the Boy and Marginal effects on the eight floor of the Techno Condominium"
+    },
+    "guardian_forest_pier": {
+      "name": "Keeper of Shoals",
+      "description": "Always on the lookout, always on guard",
+      "condition": "See the guardian in Forest Pier"
+    },
+    "town_maze": {
+      "name": "Mists of Memory",
+      "description": "Here you cross the mist of fragments from other places",
+      "condition": "Visit Town Maze"
+    },
+    "view_blissful_clinic": {
+      "name": "Sweet Moon",
+      "condition": "See the outside view of Blissful Clinic"
+    },
+    "eye_golden_pyramid_path": {
+      "name": "Golden Eye",
+      "description": "Who hurt you?",
+      "condition": "See the yellow eye in Golden Pyramid Path"
+    }
+  },
+  "unconscious": {
+    "eye_lily_w_lotus_islands": {
+      "name": "Surreally Beautiful",
+      "description": "A divine awakening",
+      "condition": "Find Eye-lily's lair and interact with it at the White Lotus Islands"
+    },
+    "box_office_end": {
+      "name": "The Sokoban Technique",
+      "description": "One minute longer, and you'd be stuck like the rest of them.",
+      "condition": "Beat the Box Office's puzzle"
+    },
+    "music_lvg_room_doodles": {
+      "name": "Lively Room",
+      "description": "Cozy and colorful",
+      "condition": "Make the creature play music in the living room of Doodles"
+    },
+    "boombox_burning_building": {
+      "name": "Flaming Beats",
+      "description": "Don't get burned!",
+      "condition": "Activate the boombox in Burning Building's alcove"
+    },
+    "blueprint_world_full": {
+      "name": "Dream Blueprint",
+      "description": "A projection...",
+      "condition": "Visit all sections of Blueprint World"
+    },
+    "heart_forget_me_not": {
+      "name": "Remember My Beat",
+      "description": "May my feelings live on within your memory",
+      "condition": "Interact with the girl's heart in Forget-Me-Not"
+    },
+    "internal_vista": {
+      "name": "Outside-In",
+      "condition": "Visit the Internal Vista"
+    },
+    "wisteria_grove_bridge": {
+      "name": "Wisteria Bridge",
+      "condition": "See the temple from afar in Wisteria Grove"
+    },
+    "kmeleon_cst_themes": {
+      "name": "Mimecry",
+      "description": "A surreal experience",
+      "condition": "See all the Chameleon Constructions themes"
+    },
+    "planetarium_garden": {
+      "name": "Snow White Observatory",
+      "description": "A white garden accompanied by the stars.",
+      "condition": "Visit Planetarium Garden"
+    },
+    "mr_pivoine_train_station": {
+      "name": "Monsieur Pivoine",
+      "description": "He loves flowers, but especially peonies!",
+      "condition": "Buy a ticket from Monsieur Pivoine in Train Station"
+    },
+    "people_palace_dungeon": {
+      "name": "Framed!",
+      "description": "Smile for your photo!",
+      "condition": "Get caught by the guards in People Palace"
+    },
+    "tiger_resort": {
+      "name": "Tiger Girl",
+      "description": "It's lunch time, meow!",
+      "condition": "Interact with the tiger in Resort"
+    },
+    "artist_chan_soapy_baths": {
+      "name": "Soapy Mural",
+      "description": "Hopefully the soap doesn't wash this away!",
+      "condition": "Find Artist-chan painting the mural in Soapy Baths"
+    },
+    "chelan_cheesecake_cmb": {
+      "name": "Little guy!",
+      "description": "So very little...",
+      "condition": "Interact with Chelan in the room of Cheesecake Chambers while using the effect of the Rodentia eidolon"
+    },
+    "psy_brt_warehouse": {
+      "name": "Psychedelic Fish",
+      "condition": "Trigger the Psychedelic Warehouse event in Brutalist Warehouse"
+    },
+    "kakkoii_lumen_resort": {
+      "name": "Hmm... I Like That!",
+      "description": "Just to earn your smile, so worth it!",
+      "condition": "Use the Lumen eidolon to make Kakkoii smile in Resort"
+    },
+    "dance_mural_passage": {
+      "name": "Kalimba Dance",
+      "description": "How long can she dance?",
+      "condition": "Make Tusuq Warmi dance in Mural Passage"
+    },
+    "moon_harsh_light_road": {
+      "name": "Moondrop",
+      "description": "Moon river, wider than a mile",
+      "condition": "View the event with the dripping moon in Harsh Light Road"
     }
   },
   "flow": {
@@ -5992,6 +6162,11 @@
       "name": "Baby Dog",
       "description": "A lovely friend",
       "condition": "See the toy dog in Nursery Room"
+    },
+    "bloody_straw_juice_sea": {
+      "name": "Overdose, You and Me Dearly~",
+      "description": "I wanna see clearly...",
+      "condition": "Interact with the bloody straw in Juice Sea"
     }
   }
 }
