@@ -3919,12 +3919,13 @@
       "condition": "Trouver la voiture dans le Rainbow Silhouette World"
     },
     "house_rainbow_black": {
-      "name": "Une rose bizarre",
+      "name": "Rose monochrome",
       "description": "Qui aurait cru que les roses pouvaient être si belles ?",
       "condition": "Atteindre le Monde aux Roses Noirs de l'House Over the Rainbow"
     },
     "house_rainbow_black_tt": {
       "name": "Rose polychrome",
+      "description": "Quelque part au dessus de l'arc-en-ciel",
       "condition": "Atteindre le Monde aux Roses Noirs de l'House Over the Rainbow en {TIME} ou moins en course contre-la-montre"
     },
     "frozen_glade": {
@@ -4061,7 +4062,7 @@
     },
     "chelan_cheesecake_cmb": {
       "name": "Minna petite souris",
-      "description": "Si petite...",
+      "description": "Minna petite souris on est maintenant copain copain !",
       "condition": "Interagir avec Chelan dans la salle des Cheesecake Chambers en utilisant l'effet de l'eidolon Rodentia"
     },
     "psy_brt_warehouse": {
@@ -4082,6 +4083,144 @@
       "name": "Larme lunaire",
       "description": "Même les astres sont sujets aux émotions.",
       "condition": "Voir l'événement de la larme lunaire à Harsh Light Road"
+    },
+    "star_pillar_world": {
+      "name": "Poisson rouge scintillant",
+      "description": "Nageant dans les cieux étoilés.",
+      "condition": "Visiter le Star Pillar World"
+    },
+    "constellation_dusk_world": {
+      "name": "Félins célestes",
+      "description": "Tu caresses la lune et tu caresses l'étoile !",
+      "condition": "Interagir avec Lune ou Étoile au Dusk World"
+    },
+    "pizza_parlor_plaza": {
+      "name": "C'est l'heure des pizzas !",
+      "description": "Mais d'où viennent ces pizzas si il n'y a pas de pizzeria ?",
+      "condition": "Visiter la Pizza Parlor Plaza"
+    },
+    "zorya_windswept_expanse": {
+      "name": "Entre le vent et les étoiles",
+      "description": "Des mots aussi vide que le vent sont mieux laissés en tant que non dits",
+      "condition": "Interagir avec Zorya à Windswept Expanse"
+    },
+    "duck_soapy_baths": {
+      "name": "Canounet !",
+      "description": "Coin !",
+      "condition": "Monter sur le canard aux Soapy Baths"
+    },
+    "bubble_siren_soapy_baths": {
+      "name": "Copine bulleuse",
+      "description": "Eh bah, elle BULLE pas celle-là !",
+      "condition": "Trouver la Sirène Bulleuse aux Soapy Baths"
+    },
+    "bubble_flight_soapy_baths": {
+      "name": "Dans ma bulle",
+      "description": "La seule tension que je ressent c'est... la tension de la surface !",
+      "condition": "Vivre l'événement d'Envol Bulleux aux Soapy Baths"
+    },
+    "anglerfish_human_mesa": {
+      "name": "Pêche inversée",
+      "description": "J'arrive pas à croire que tu sois tombée dans le panneau...",
+      "condition": "Se faire manger par le poisson-pêcheur à Human Mesa"
+    },
+    "indoors_wmw": {
+      "name": "Lis-le et pleure !",
+      "description": "Désespoir éternel.",
+      "condition": "Entrer dans la zone d'intérieur au Weeping Monsters World"
+    },
+    "formless_garden": {
+      "name": "Écoulement libre",
+      "description": "La beauté peut venir en différentes formes !",
+      "condition": "Visiter le Formless Garden"
+    },
+    "danny_uncanny_world": {
+      "name": "Je tombe...",
+      "description": "... mais je me relève !",
+      "condition": "Faire tomber par terre Danny et voir ensuite son portrait sur le mur à Uncanny World"
+    },
+    "neon_centipede_caverns": {
+      "name": "Mille-papattes",
+      "description": "Il doit bien faire une centaine de pattes !",
+      "condition": "Visiter les Neon Centipede Caverns"
+    },
+    "stickman_llpt_leaflitter": {
+      "name": "Yo.",
+      "description": "Seul une nuit collective ?",
+      "condition": "Voir le bonhomme bâton se reposant à Lilliputian Leaflitter en utilisant un eidolon altérant la vision"
+    },
+    "star_outer_hospital": {
+      "name": "Étoile inquiète",
+      "condition": "Trouver l'étoile dans l'Outer Hospital"
+    },
+    "bench_crimson_lake": {
+      "name": "Feuilles pliées",
+      "condition": "S'asseoir sur le banc au Crimson Lake"
+    },
+    "lake_ruminating_meadows": {
+      "name": "Lac ruminant",
+      "description": "Pas besoin de ruminer, pas ici en tout cas. Carpe diem.",
+      "condition": "Visiter le lac des Ruminating Meadows"
+    },
+    "board_surreal_zoo": {
+      "name": "Chats fruit",
+      "description": "Je suis un chananas ^w^",
+      "condition": "Se tenir derrière le panneau photo fruit au Surreal Zoo avec l'eidolon Jouvence"
+    },
+    "swan_crimson_lake_lumen": {
+      "name": "Lac du cygne",
+      "description": "Où est ta tête ?",
+      "condition": "Équiper l'eidolon Lumen au Lac du Cygne à Crimson Lake"
+    },
+    "mr_duck_mossy_tunnels": {
+      "name": "Couinements bizarres",
+      "description": "Faire couiner le canard en plastique !",
+      "condition": "Faire péter un câble à Mr Coin aux Mossy Tunnels"
+    },
+    "the_doppelganger_underneath": {
+      "name": "Minna.exe a arrêté de fonctionner",
+      "description": "Tout ce support technique et ça PLANTE TOUJOURS ?!",
+      "condition": "Compléter l'événement du Sosie à The Underneath"
+    },
+    "owl_mosaic_mud_brick_heights": {
+      "name": "Mosaïque indigo",
+      "description": "Que de jolis motifs !",
+      "condition": "Voir la mosaïque chouette à Mud Brick Heights"
+    },
+    "catwalk_derelict_catwalk": {
+      "name": "Rôdeur des ombres",
+      "description": "Il est timide...",
+      "condition": "Atteindre la fin de passerelle à Derelict Catwalk"
+    },
+    "death_field_buried_memory": {
+      "name": "Un destin repoussant",
+      "description": "Qui aurait pu te faire ça ?",
+      "condition": "Interagir avec le pylône électrique au Field of Buried Memory "
+    },
+    "bed_hometown": {
+      "name": "Une nuit nostalgique",
+      "description": "Zzz... je suis si... fatiguée...",
+      "condition": "Dormir dans le lit de l'Hometown"
+    },
+    "window_loading_zone": {
+      "name": "Ouverture de visions infinies",
+      "description": "Qu'importe là où je suis, Je me trouve toujours à regarder par-delà la fenêtre, espérant être quelqu'un d'autre.",
+      "condition": "Entrer dans la salle avec l'énorme fenêtre dans Loading Zone"
+    },
+    "menu_virtual_nightmare": {
+      "name": "Gemme cachée",
+      "description": "Je t'ai trouvé !",
+      "condition": "Trouver le thème de menu Virtuel à Virtual Nightmare"
+    },
+    "cocoon_spiral_purgatory": {
+      "name": "Uzumaki",
+      "description": "Des spirales se trouvant hors de contrôle...",
+      "condition": "Interagir avec la fille dans le cocon à Spiral Purgatory"
+    },
+    "caleb_portrait_forest": {
+      "name": "À la fin de la route",
+      "description": "Et à la fin de la route se trouvait un nouvel ami",
+      "condition": "Trouver Caleb dans la Portrait Forest"
     }
   },
   "flow": {
