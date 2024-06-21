@@ -651,7 +651,8 @@
     },
     "clover": {
       "name": "Trèfle cramoisi-pâle",
-      "condition": "Nous vous souhaitons le meilleur de votre chance..."
+      "description": "Nous vous souhaitons le meilleur de votre chance...",
+      "condition": "Atteindre la Gallery Of Me"
     },
     "pacifist": {
       "name": "Pacifiste",
@@ -1912,7 +1913,7 @@
     "sad_jellyfish": {
       "name": "Méduse Triste",
       "description": "Toujours hors de ta portée",
-      "condition": "Faire venir la méduse triste dans Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle et Monolith Jungle"
+      "condition": "Faire venir la méduse triste dans Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle et Moonlight Lantern Forest"
     },
     "monmon": {
       "name": "Monmon",
@@ -3989,6 +3990,35 @@
       "name": "Œil doré",
       "description": "Qui t'a donc blessé ?",
       "condition": "Voir l'œil jaune au Golden Pyramid Path"
+    },
+    "diner_bathhouse": {
+      "name": "Resto familial",
+      "description": "Régale-toi avant OU après avoir pris ton bain.",
+      "condition": "Entrer dans le réfectoire de la Bathhouse"
+    },
+    "telephone_virtual_city": {
+      "name": "Appel inattendu",
+      "description": "Je ne pense pas que la vache du River Complex comprend pourquoi les habitants de la Virtual City vivent dans un lieu rempli de nombres... ni même qu'elle ne comprenne ce qu'ils signifient.",
+      "condition": "Utiliser le téléphone à Virtual City pour atteindre le River Complex"
+    },
+    "red_haired_girl_thumbtack": {
+      "name": "Solitude interrompue",
+      "description": "À une punaise près...",
+      "condition": "Interagir avec la fille aux cheveux rouges dans la petite pièce noire du Thumbtack World"
+    },
+    "girl_colorful_rose_garden": {
+      "name": "Fille colorée",
+      "description": "Fondue féerique",
+      "condition": "Utiliser l'effet Arc-En-Ciel à proximité de la fille au Colorless Rose Garden"
+    },
+    "girl_cherry_willow_path": {
+      "name": "Fille saule-cerise",
+      "description": "Puis-je m'asseoir à côté de toi ? On pourra prendre du thé vert toutes les deux, si tu veux~",
+      "condition": "Voir la fille au Cherry Willow Path"
+    },
+    "girl_colorless_rose_garden": {
+      "name": "Fille décolorée",
+      "condition": "Débloquer le thème de menu 58. Si vous l'avez déjà débloqué, retournez là où vous l'avez trouvé."
     }
   },
   "unconscious": {
@@ -4221,6 +4251,48 @@
       "name": "À la fin de la route",
       "description": "Et à la fin de la route se trouvait un nouvel ami",
       "condition": "Trouver Caleb dans la Portrait Forest"
+    },
+    "wisteria_manor_seasons": {
+      "name": "Bénédiction des saisons",
+      "description": "Une par une, les quatre saisons passent et restent figées ensemble au sein d'un même lieu.",
+      "condition": "Visiter les quatre couloirs saisonniers au Wisteria Manor"
+    },
+    "krarav_arch_apartments": {
+      "name": "La main dans le sac",
+      "description": "Qui es-tu... et pourquoi tu me regardes, au juste !?",
+      "condition": "Se faire prendre par Krarav après avoir jeté un coup d'œil à sa chambre aux Arch Apartments"
+    },
+    "dopefish_uwat_pipes": {
+      "name": "Le poissot des poissons",
+      "description": "Tu dois avoir un œil perçant pour débusquer les créatures du monde aquatique...",
+      "condition": "Trouver le poissot aux Underwater Pipes"
+    },
+    "orchid_haven": {
+      "name": "Les orchidées",
+      "condition": "Voir les deux versions de l'Orchid Haven"
+    },
+    "porridge_colorful_village": {
+      "name": "Oh, tu nous as trouvé !",
+      "description": "Peux-tu danser comme les habitants du village coloré ?",
+      "condition": "Interagir avec le Porridge en face de la maison à Colorful Village"
+    },
+    "toolbar_terracities": {
+      "name": "Téléchargement gratuit",
+      "description": "barre des tâches grave stylé gratuite super trop oméga top cool (la classe)",
+      "condition": "Voir l'événement de la Surcharge de la Barre des Tâches à Terracities"
+    },
+    "gulless_polluted_shore": {
+      "name": "Protectrice du rivage",
+      "condition": "Parler à la déesse des mouettes à la Polluted Shore"
+    },
+    "blood_drive": {
+      "name": "Quel est ton type ?",
+      "description": "Ça fait du bien de donner.",
+      "condition": "Visiter Blood Drive"
+    },
+    "unconscious_heart_1": {
+      "name": "Cœur du totem",
+      "condition": "Atteindre 100 points de cœur grâce aux distributeurs automatiques (obtenu après s'être rendu en face du distributeur automatique géant au Nexus)"
     }
   },
   "flow": {
@@ -5071,7 +5143,7 @@
     },
     "museum_takeoff": {
       "name": "Décollage",
-      "condition": "Regarder l'avion prendre son envol dans le Museum Tunnel"
+      "condition": "Visiter le Museum Tunnel"
     },
     "midnight_band": {
       "name": "Concert nocturne",
@@ -6081,6 +6153,11 @@
       "name": "Chalut la compagnie !",
       "description": "J'aime ton Diapason, p'tit gars !",
       "condition": "Utiliser l'effet Diapason pour que le grand chat fasse un clin d'œil dans l'Oil World"
+    },
+    "snail_pool_world": {
+      "name": "Amis de la piscine",
+      "description": "Penses-tu que ces gastéropodes partent souvent en roue libre ?",
+      "condition": "Interagir avec l'un des escargots de la piscine au Pool World"
     }
   },
   "tsushin": {

@@ -651,7 +651,8 @@
     },
     "clover": {
       "name": "Trevo Pálido-Carmesim",
-      "condition": "Boa Sorte..."
+      "description": "Boa Sorte...",
+      "condition": "Reach Gallery Of Me"
     },
     "pacifist": {
       "name": "Pacifista",
@@ -1912,7 +1913,7 @@
     "sad_jellyfish": {
       "name": "A Triste Água Viva",
       "description": "Sempre longe de seu alcance.",
-      "condition": "Presencie a Água-Viva Triste no Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle e Monolith Jungle"
+      "condition": "Presencie a Água-Viva Triste no Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle e Moonlight Lantern Forest"
     },
     "monmon": {
       "name": "Monmon",
@@ -3989,6 +3990,35 @@
       "name": "Olho Dourado",
       "description": "Quem o feriu?",
       "condition": "Veja o olho amarelo em Golden Pyramid Path"
+    },
+    "diner_bathhouse": {
+      "name": "Family-Owned Diner",
+      "description": "Take a load off before OR after your bath.",
+      "condition": "Enter the dining hall of the Bathhouse"
+    },
+    "telephone_virtual_city": {
+      "name": "Unexpected Call",
+      "description": "I don't think the cow from River Complex understands why Virtual City's inhabitants live in a place full of numbers.",
+      "condition": "Use the phone in Virtual City to go to River Complex"
+    },
+    "red_haired_girl_thumbtack": {
+      "name": "Broken Solitude",
+      "description": "One thumbtack away...",
+      "condition": "Interact with the red-haired girl in the small black room in Thumbtack World"
+    },
+    "girl_colorful_rose_garden": {
+      "name": "Colorful Girl",
+      "description": "Fateful fade",
+      "condition": "Use the Rainbow effect near the girl in the Colorless Rose Garden"
+    },
+    "girl_cherry_willow_path": {
+      "name": "Cherry Willow Girl",
+      "description": "May I sit next to you? Then we can have some green tea together~",
+      "condition": "See the girl in Cherry Willow Path"
+    },
+    "girl_colorless_rose_garden": {
+      "name": "Colorless Girl",
+      "condition": "Obtain the menu theme 58. If you have already unlocked it, return to the location where you found it."
     }
   },
   "unconscious": {
@@ -4221,6 +4251,48 @@
       "name": "No Fim da Estrada",
       "description": "E no final da estrada havia um novo amigo",
       "condition": "Encontre Caleb em Portrait Forest"
+    },
+    "wisteria_manor_seasons": {
+      "name": "Seasons' Blessings",
+      "description": "One by one, the four seasons pass by and congeal together as a whole.",
+      "condition": "Visit the four seasonal hallways in Wisteria Manor"
+    },
+    "krarav_arch_apartments": {
+      "name": "Caught Red-Handed",
+      "description": "And red bodied I guess...",
+      "condition": "Get caught by Krarav after peeking into her room in the Arch Apartments"
+    },
+    "dopefish_uwat_pipes": {
+      "name": "One Dopey Fish",
+      "description": "You must have a keen eye for aquatic life",
+      "condition": "See the dopefish in Underwater Pipes"
+    },
+    "orchid_haven": {
+      "name": "The Orchids",
+      "condition": "View the two versions of Orchid Haven"
+    },
+    "porridge_colorful_village": {
+      "name": "Oh, You Found Us!",
+      "description": "Can you dance like the colorful villagers?",
+      "condition": "Interact with the Porridge in front of the house in Colorful Village"
+    },
+    "toolbar_terracities": {
+      "name": "Free Download",
+      "description": "toolbars free very nice",
+      "condition": "See the Toolbar Overload event in Terracities"
+    },
+    "gulless_polluted_shore": {
+      "name": "Protector of the Shores",
+      "condition": "Talk to the Goddess of Gulls in Polluted Shore"
+    },
+    "blood_drive": {
+      "name": "What's Your Type?",
+      "description": "It feels good to give.",
+      "condition": "Visit Blood Drive"
+    },
+    "unconscious_heart_1": {
+      "name": "Heart of the Totem",
+      "condition": "Reach 100 Heart Points from vending machines (granted upon visiting the big vending machine in the Nexus)"
     }
   },
   "flow": {
@@ -5071,7 +5143,7 @@
     },
     "museum_takeoff": {
       "name": "Decolagem",
-      "condition": "Veja o avião decolar no Museum Tunnel."
+      "condition": "Visit the Museum Tunnel"
     },
     "midnight_band": {
       "name": "Banda da Meia-Noite",
@@ -6081,6 +6153,11 @@
       "name": "Meowwo Aqui!",
       "description": "Gosto de seu garfo, carinha!",
       "condition": "Use o efeito Tuning Fork para fazer o gato grande piscar no Oil World"
+    },
+    "snail_pool_world": {
+      "name": "Friends of the Pool",
+      "description": "Do you think these guys roll into each other for fun?",
+      "condition": "Interact with any pool snail creature in Pool World"
     }
   },
   "tsushin": {
