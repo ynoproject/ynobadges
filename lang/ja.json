@@ -651,7 +651,8 @@
     },
     "clover": {
       "name": "深紅色のクローバー",
-      "condition": "幸運を祈る…"
+      "description": "幸運を祈る…",
+      "condition": "Reach Gallery Of Me"
     },
     "pacifist": {
       "name": "平和主義者",
@@ -1912,7 +1913,7 @@
     "sad_jellyfish": {
       "name": "虹色くらげ",
       "description": "いつも手は届かない",
-      "condition": "桟橋の森、水の都の森エリア、繫栄巣、人形屋敷、甘い嘘、樹海の遺跡で虹色くらげを目撃する"
+      "condition": "桟橋の森、水の都の森エリア、繫栄巣、人形屋敷、甘い嘘、樹海の遺跡、月街灯の森で虹色くらげを目撃する"
     },
     "monmon": {
       "name": "もんもん",
@@ -3923,12 +3924,13 @@
       "condition": "きらきらでくるまを見つける"
     },
     "house_rainbow_black": {
-      "name": "奇妙なバラ",
+      "name": "Monochrome Rose",
       "description": "バラがこんなに綺麗なことを、今まで知らなかっただなんて",
       "condition": " 黒薔薇に到達する"
     },
     "house_rainbow_black_tt": {
       "name": "七彩のバラ",
+      "description": "Somewhere Over the Rainbow",
       "condition": "Time Trial Modeで {TIME} 以内に黒薔薇に到達する"
     },
     "frozen_glade": {
@@ -3992,6 +3994,35 @@
       "name": "ゴールデンアイ",
       "description": "この目を傷つけたのは誰だろう?",
       "condition": "金目月で目の付いたお月様を見上げる"
+    },
+    "diner_bathhouse": {
+      "name": "Family-Owned Diner",
+      "description": "Take a load off before OR after your bath.",
+      "condition": "Enter the dining hall of the Bathhouse"
+    },
+    "telephone_virtual_city": {
+      "name": "Unexpected Call",
+      "description": "I don't think the cow from River Complex understands why Virtual City's inhabitants live in a place full of numbers.",
+      "condition": "Use the phone in Virtual City to go to River Complex"
+    },
+    "red_haired_girl_thumbtack": {
+      "name": "Broken Solitude",
+      "description": "One thumbtack away...",
+      "condition": "Interact with the red-haired girl in the small black room in Thumbtack World"
+    },
+    "girl_colorful_rose_garden": {
+      "name": "Colorful Girl",
+      "description": "Fateful fade",
+      "condition": "Use the Rainbow effect near the girl in the Colorless Rose Garden"
+    },
+    "girl_cherry_willow_path": {
+      "name": "Cherry Willow Girl",
+      "description": "May I sit next to you? Then we can have some green tea together~",
+      "condition": "See the girl in Cherry Willow Path"
+    },
+    "girl_colorless_rose_garden": {
+      "name": "Colorless Girl",
+      "condition": "Obtain the menu theme 58. If you have already unlocked it, return to the location where you found it."
     }
   },
   "unconscious": {
@@ -4083,9 +4114,189 @@
       "condition": "Mural PassageでTusuq Warmiを踊らせる"
     },
     "moon_harsh_light_road": {
-      "name": "Moondrop",
-      "description": "Moon river, wider than a mile",
-      "condition": "View the event with the dripping moon in Harsh Light Road"
+      "name": "月のしずく",
+      "description": "ムーンリバー　はるか向こう",
+      "condition": "Harsh Light Roadで滴る月のイベントを見る"
+    },
+    "star_pillar_world": {
+      "name": "キラめく金魚",
+      "description": "星の夜をたゆたうのは。",
+      "condition": "Star Pillar Worldに到達する"
+    },
+    "constellation_dusk_world": {
+      "name": "かがやくネコたち",
+      "description": "衛星を撫で、そして恒星を撫でるのです。",
+      "condition": "Dusk WorldでMoonかStarのどちらかを調べる"
+    },
+    "pizza_parlor_plaza": {
+      "name": "ピザの時間だ！",
+      "description": "ピザこそ正義！",
+      "condition": "Pizza Parlor Plazaに到達する"
+    },
+    "zorya_windswept_expanse": {
+      "name": "星々、伝う風、靡く髪は",
+      "description": "吹いてくる風くらい虚しいことばを、あえて口には出さずに",
+      "condition": "Windswept ExpanseでZoryaに話しかける"
+    },
+    "duck_soapy_baths": {
+      "name": "アヒルちゃん！",
+      "description": "ぴよぴよ",
+      "condition": "Soapy Bathsでおもちゃのアヒルに乗る"
+    },
+    "bubble_siren_soapy_baths": {
+      "name": "泡でできたお友だち",
+      "description": "「泡」と友達になるなんてそんなアンビリー「バブル」な・・・",
+      "condition": "Soapy BathsでBubble Sirenを見つける"
+    },
+    "bubble_flight_soapy_baths": {
+      "name": "Bubbly",
+      "description": "The only tension I'm feeling is... surface tension!",
+      "condition": "Experience the Bubble Flight event in Soapy Baths"
+    },
+    "anglerfish_human_mesa": {
+      "name": "Reverse Fishing",
+      "description": "I can't believe you fell for that...",
+      "condition": "Get eaten by the anglerfish in Human Mesa"
+    },
+    "indoors_wmw": {
+      "name": "Read It and Weep!",
+      "description": "Eternal despair.",
+      "condition": "Enter the indoors area in Weeping Monsters World"
+    },
+    "formless_garden": {
+      "name": "Free Flowing",
+      "description": "Beauty comes in many forms!",
+      "condition": "Visit Formless Garden"
+    },
+    "danny_uncanny_world": {
+      "name": "I Get Knocked Down...",
+      "description": "... but I get up again!",
+      "condition": "Knock over Danny and then view his portrait on the wall in Uncanny World"
+    },
+    "neon_centipede_caverns": {
+      "name": "Leggin' It",
+      "description": "It's gotta be a hundred feet long!",
+      "condition": "Visit Neon Centipede Caverns"
+    },
+    "stickman_llpt_leaflitter": {
+      "name": "Sup.",
+      "description": "Alone on a collective night?",
+      "condition": "See the relaxed stickman in Lilliputian Leaflitter using an eidolon with an altered sight"
+    },
+    "star_outer_hospital": {
+      "name": "Concerned Star",
+      "condition": "Find the star in Outer Hospital"
+    },
+    "bench_crimson_lake": {
+      "name": "Folded Leaves",
+      "condition": "Sit on the bench in Crimson Lake"
+    },
+    "lake_ruminating_meadows": {
+      "name": "Ruminating Lake",
+      "description": "There's no use ruminating, not when you're here. Live for the day.",
+      "condition": "Visit the lake of Ruminating Meadows"
+    },
+    "board_surreal_zoo": {
+      "name": "Fruit Cats",
+      "description": "I'm a pineapple cat ^w^",
+      "condition": "Stand behind the face board in Surreal Zoo with the Youth eidolon"
+    },
+    "swan_crimson_lake_lumen": {
+      "name": "Swan Lake",
+      "description": "Where is your head?",
+      "condition": "Equip the Lumen eidolon in the swan lake of Crimson Lake"
+    },
+    "mr_duck_mossy_tunnels": {
+      "name": "Weird Squeak Sound",
+      "description": "Make the rubber duck squeak!",
+      "condition": "Make Mr Duck freak out in the Mossy Tunnels"
+    },
+    "the_doppelganger_underneath": {
+      "name": "Minna.exe Has Stopped Responding",
+      "description": "All this tech support I've done and it STILL crashes?!",
+      "condition": "Complete the Doppelganger event at The Underneath"
+    },
+    "owl_mosaic_mud_brick_heights": {
+      "name": "Mosaic Indigo",
+      "description": "Such pretty patterns!",
+      "condition": "View the owl mosaic in Mud Brick Heights"
+    },
+    "catwalk_derelict_catwalk": {
+      "name": "A Shadowy Lurker",
+      "description": "He's shy...",
+      "condition": "Go all the way to the end of the Derelict Catwalk in Dilapidated Complex"
+    },
+    "death_field_buried_memory": {
+      "name": "A Gruesome Fate",
+      "description": "Who could've done this to you?",
+      "condition": "Interact the the electric pylon in Field of Buried Memory "
+    },
+    "bed_hometown": {
+      "name": "A Nostalgic Night",
+      "description": "zzz... so eepy...",
+      "condition": "Sleep in the bed in Hometown"
+    },
+    "window_loading_zone": {
+      "name": "Aperture of Endless Visions",
+      "description": "Wherever I am, I always find myself looking out the window wishing I was somewhere else.",
+      "condition": "Enter in the room with the huge window in Loading Zone"
+    },
+    "menu_virtual_nightmare": {
+      "name": "Hidden Gem",
+      "description": "Found you!",
+      "condition": "Find the Virtual menu theme in Virtual Nightmare"
+    },
+    "cocoon_spiral_purgatory": {
+      "name": "Uzumaki",
+      "description": "Spiraling out of control...",
+      "condition": "Interact with the girl in the cocoon in Spiral Purgatory"
+    },
+    "caleb_portrait_forest": {
+      "name": "At the End of the Road",
+      "description": "And at the end of the road was a new friend",
+      "condition": "Find Caleb in Portrait Forest"
+    },
+    "wisteria_manor_seasons": {
+      "name": "Seasons' Blessings",
+      "description": "One by one, the four seasons pass by and congeal together as a whole.",
+      "condition": "Visit the four seasonal hallways in Wisteria Manor"
+    },
+    "krarav_arch_apartments": {
+      "name": "Caught Red-Handed",
+      "description": "And red bodied I guess...",
+      "condition": "Get caught by Krarav after peeking into her room in the Arch Apartments"
+    },
+    "dopefish_uwat_pipes": {
+      "name": "One Dopey Fish",
+      "description": "You must have a keen eye for aquatic life",
+      "condition": "See the dopefish in Underwater Pipes"
+    },
+    "orchid_haven": {
+      "name": "The Orchids",
+      "condition": "View the two versions of Orchid Haven"
+    },
+    "porridge_colorful_village": {
+      "name": "Oh, You Found Us!",
+      "description": "Can you dance like the colorful villagers?",
+      "condition": "Interact with the Porridge in front of the house in Colorful Village"
+    },
+    "toolbar_terracities": {
+      "name": "Free Download",
+      "description": "toolbars free very nice",
+      "condition": "See the Toolbar Overload event in Terracities"
+    },
+    "gulless_polluted_shore": {
+      "name": "Protector of the Shores",
+      "condition": "Talk to the Goddess of Gulls in Polluted Shore"
+    },
+    "blood_drive": {
+      "name": "What's Your Type?",
+      "description": "It feels good to give.",
+      "condition": "Visit Blood Drive"
+    },
+    "unconscious_heart_1": {
+      "name": "Heart of the Totem",
+      "condition": "Reach 100 Heart Points from vending machines (granted upon visiting the big vending machine in the Nexus)"
     }
   },
   "flow": {
@@ -4936,7 +5147,7 @@
     },
     "museum_takeoff": {
       "name": "離陸",
-      "condition": "Museum Tunnelで離陸する飛行機を見る。"
+      "condition": "Visit the Museum Tunnel"
     },
     "midnight_band": {
       "name": "真夜中バンド",
@@ -5946,6 +6157,11 @@
       "name": "ネコウィンク",
       "description": "少年、あんたの持ってる音叉は最高だ！",
       "condition": "Oil Worldの巨大な猫にTuning Fork effectを使う"
+    },
+    "snail_pool_world": {
+      "name": "Friends of the Pool",
+      "description": "Do you think these guys roll into each other for fun?",
+      "condition": "Interact with any pool snail creature in Pool World"
     }
   },
   "tsushin": {

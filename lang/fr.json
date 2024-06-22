@@ -651,7 +651,8 @@
     },
     "clover": {
       "name": "Trèfle cramoisi-pâle",
-      "condition": "Nous vous souhaitons le meilleur de votre chance..."
+      "description": "Nous vous souhaitons le meilleur de votre chance...",
+      "condition": "Atteindre la Gallery Of Me"
     },
     "pacifist": {
       "name": "Pacifiste",
@@ -1912,7 +1913,7 @@
     "sad_jellyfish": {
       "name": "Méduse Triste",
       "description": "Toujours hors de ta portée",
-      "condition": "Faire venir la méduse triste dans Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle et Monolith Jungle"
+      "condition": "Faire venir la méduse triste dans Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle et Moonlight Lantern Forest"
     },
     "monmon": {
       "name": "Monmon",
@@ -3919,12 +3920,13 @@
       "condition": "Trouver la voiture dans le Rainbow Silhouette World"
     },
     "house_rainbow_black": {
-      "name": "Une rose bizarre",
+      "name": "Rose monochrome",
       "description": "Qui aurait cru que les roses pouvaient être si belles ?",
       "condition": "Atteindre le Monde aux Roses Noirs de l'House Over the Rainbow"
     },
     "house_rainbow_black_tt": {
       "name": "Rose polychrome",
+      "description": "Quelque part au dessus de l'arc-en-ciel",
       "condition": "Atteindre le Monde aux Roses Noirs de l'House Over the Rainbow en {TIME} ou moins en course contre-la-montre"
     },
     "frozen_glade": {
@@ -3988,6 +3990,35 @@
       "name": "Œil doré",
       "description": "Qui t'a donc blessé ?",
       "condition": "Voir l'œil jaune au Golden Pyramid Path"
+    },
+    "diner_bathhouse": {
+      "name": "Resto familial",
+      "description": "Régale-toi avant OU après avoir pris ton bain.",
+      "condition": "Entrer dans le réfectoire de la Bathhouse"
+    },
+    "telephone_virtual_city": {
+      "name": "Appel inattendu",
+      "description": "Je ne pense pas que la vache du River Complex comprend pourquoi les habitants de la Virtual City vivent dans un lieu rempli de nombres... ni même qu'elle ne comprenne ce qu'ils signifient.",
+      "condition": "Utiliser le téléphone à Virtual City pour atteindre le River Complex"
+    },
+    "red_haired_girl_thumbtack": {
+      "name": "Solitude interrompue",
+      "description": "À une punaise près...",
+      "condition": "Interagir avec la fille aux cheveux rouges dans la petite pièce noire du Thumbtack World"
+    },
+    "girl_colorful_rose_garden": {
+      "name": "Fille colorée",
+      "description": "Fondue féerique",
+      "condition": "Utiliser l'effet Arc-En-Ciel à proximité de la fille au Colorless Rose Garden"
+    },
+    "girl_cherry_willow_path": {
+      "name": "Fille saule-cerise",
+      "description": "Puis-je m'asseoir à côté de toi ? On pourra prendre du thé vert toutes les deux, si tu veux~",
+      "condition": "Voir la fille au Cherry Willow Path"
+    },
+    "girl_colorless_rose_garden": {
+      "name": "Fille décolorée",
+      "condition": "Débloquer le thème de menu 58. Si vous l'avez déjà débloqué, retournez là où vous l'avez trouvé."
     }
   },
   "unconscious": {
@@ -4061,7 +4092,7 @@
     },
     "chelan_cheesecake_cmb": {
       "name": "Minna petite souris",
-      "description": "Si petite...",
+      "description": "Minna petite souris on est maintenant copain copain !",
       "condition": "Interagir avec Chelan dans la salle des Cheesecake Chambers en utilisant l'effet de l'eidolon Rodentia"
     },
     "psy_brt_warehouse": {
@@ -4082,6 +4113,186 @@
       "name": "Larme lunaire",
       "description": "Même les astres sont sujets aux émotions.",
       "condition": "Voir l'événement de la larme lunaire à Harsh Light Road"
+    },
+    "star_pillar_world": {
+      "name": "Poisson rouge scintillant",
+      "description": "Nageant dans les cieux étoilés.",
+      "condition": "Visiter le Star Pillar World"
+    },
+    "constellation_dusk_world": {
+      "name": "Félins célestes",
+      "description": "Tu caresses la lune et tu caresses l'étoile !",
+      "condition": "Interagir avec Lune ou Étoile au Dusk World"
+    },
+    "pizza_parlor_plaza": {
+      "name": "C'est l'heure des pizzas !",
+      "description": "Mais d'où viennent ces pizzas si il n'y a pas de pizzeria ?",
+      "condition": "Visiter la Pizza Parlor Plaza"
+    },
+    "zorya_windswept_expanse": {
+      "name": "Entre le vent et les étoiles",
+      "description": "Des mots aussi vide que le vent sont mieux laissés en tant que non dits",
+      "condition": "Interagir avec Zorya à Windswept Expanse"
+    },
+    "duck_soapy_baths": {
+      "name": "Canounet !",
+      "description": "Coin !",
+      "condition": "Monter sur le canard aux Soapy Baths"
+    },
+    "bubble_siren_soapy_baths": {
+      "name": "Copine bulleuse",
+      "description": "Eh bah, elle BULLE pas celle-là !",
+      "condition": "Trouver la Sirène Bulleuse aux Soapy Baths"
+    },
+    "bubble_flight_soapy_baths": {
+      "name": "Dans ma bulle",
+      "description": "La seule tension que je ressent c'est... la tension de la surface !",
+      "condition": "Vivre l'événement d'Envol Bulleux aux Soapy Baths"
+    },
+    "anglerfish_human_mesa": {
+      "name": "Pêche inversée",
+      "description": "J'arrive pas à croire que tu sois tombée dans le panneau...",
+      "condition": "Se faire manger par le poisson-pêcheur à Human Mesa"
+    },
+    "indoors_wmw": {
+      "name": "Lis-le et pleure !",
+      "description": "Désespoir éternel.",
+      "condition": "Entrer dans la zone d'intérieur au Weeping Monsters World"
+    },
+    "formless_garden": {
+      "name": "Écoulement libre",
+      "description": "La beauté peut venir en différentes formes !",
+      "condition": "Visiter le Formless Garden"
+    },
+    "danny_uncanny_world": {
+      "name": "Je tombe...",
+      "description": "... mais je me relève !",
+      "condition": "Faire tomber par terre Danny et voir ensuite son portrait sur le mur à Uncanny World"
+    },
+    "neon_centipede_caverns": {
+      "name": "Mille-papattes",
+      "description": "Il doit bien faire une centaine de pattes !",
+      "condition": "Visiter les Neon Centipede Caverns"
+    },
+    "stickman_llpt_leaflitter": {
+      "name": "Yo.",
+      "description": "Seul une nuit collective ?",
+      "condition": "Voir le bonhomme bâton se reposant à Lilliputian Leaflitter en utilisant un eidolon altérant la vision"
+    },
+    "star_outer_hospital": {
+      "name": "Étoile inquiète",
+      "condition": "Trouver l'étoile dans l'Outer Hospital"
+    },
+    "bench_crimson_lake": {
+      "name": "Feuilles pliées",
+      "condition": "S'asseoir sur le banc au Crimson Lake"
+    },
+    "lake_ruminating_meadows": {
+      "name": "Lac ruminant",
+      "description": "Pas besoin de ruminer, pas ici en tout cas. Carpe diem.",
+      "condition": "Visiter le lac des Ruminating Meadows"
+    },
+    "board_surreal_zoo": {
+      "name": "Chats fruit",
+      "description": "Je suis un chananas ^w^",
+      "condition": "Se tenir derrière le passe-tête fruit au Surreal Zoo avec l'eidolon Jouvence"
+    },
+    "swan_crimson_lake_lumen": {
+      "name": "Lac du cygne",
+      "description": "Où est ta tête ?",
+      "condition": "Équiper l'eidolon Lumen au Lac du Cygne à Crimson Lake"
+    },
+    "mr_duck_mossy_tunnels": {
+      "name": "Couinements bizarres",
+      "description": "Faire couiner le canard en plastique !",
+      "condition": "Faire péter un câble à Mr Coin aux Mossy Tunnels"
+    },
+    "the_doppelganger_underneath": {
+      "name": "Minna.exe a arrêté de fonctionner",
+      "description": "Tout ce support technique et ça PLANTE TOUJOURS ?!",
+      "condition": "Compléter l'événement du Sosie à The Underneath"
+    },
+    "owl_mosaic_mud_brick_heights": {
+      "name": "Mosaïque indigo",
+      "description": "Que de jolis motifs !",
+      "condition": "Voir la mosaïque chouette à Mud Brick Heights"
+    },
+    "catwalk_derelict_catwalk": {
+      "name": "Rôdeur des ombres",
+      "description": "Il est timide...",
+      "condition": "Atteindre la fin de la Passerelle Délabrée à Dilapidated Complex"
+    },
+    "death_field_buried_memory": {
+      "name": "Un destin repoussant",
+      "description": "Qui aurait pu te faire ça ?",
+      "condition": "Interagir avec le pylône électrique au Field of Buried Memory "
+    },
+    "bed_hometown": {
+      "name": "Une nuit nostalgique",
+      "description": "Zzz... je suis si... fatiguée...",
+      "condition": "Dormir dans le lit de l'Hometown"
+    },
+    "window_loading_zone": {
+      "name": "Ouverture de visions infinies",
+      "description": "Qu'importe là où je suis, Je me trouve toujours à regarder par-delà la fenêtre, espérant être quelqu'un d'autre.",
+      "condition": "Entrer dans la salle avec l'énorme fenêtre dans Loading Zone"
+    },
+    "menu_virtual_nightmare": {
+      "name": "Gemme cachée",
+      "description": "Je t'ai trouvé !",
+      "condition": "Trouver le thème de menu Virtuel à Virtual Nightmare"
+    },
+    "cocoon_spiral_purgatory": {
+      "name": "Uzumaki",
+      "description": "Des spirales se trouvant hors de contrôle...",
+      "condition": "Interagir avec la fille dans le cocon à Spiral Purgatory"
+    },
+    "caleb_portrait_forest": {
+      "name": "À la fin de la route",
+      "description": "Et à la fin de la route se trouvait un nouvel ami",
+      "condition": "Trouver Caleb dans la Portrait Forest"
+    },
+    "wisteria_manor_seasons": {
+      "name": "Bénédiction des saisons",
+      "description": "Une par une, les quatre saisons passent et restent figées ensemble au sein d'un même lieu.",
+      "condition": "Visiter les quatre couloirs saisonniers au Wisteria Manor"
+    },
+    "krarav_arch_apartments": {
+      "name": "La main dans le sac",
+      "description": "Qui es-tu... et pourquoi tu me regardes, au juste !?",
+      "condition": "Se faire prendre par Krarav après avoir jeté un coup d'œil à sa chambre aux Arch Apartments"
+    },
+    "dopefish_uwat_pipes": {
+      "name": "Le poissot des poissons",
+      "description": "Tu dois avoir un œil perçant pour débusquer les créatures du monde aquatique...",
+      "condition": "Trouver le poissot aux Underwater Pipes"
+    },
+    "orchid_haven": {
+      "name": "Les orchidées",
+      "condition": "Voir les deux versions de l'Orchid Haven"
+    },
+    "porridge_colorful_village": {
+      "name": "Oh, tu nous as trouvé !",
+      "description": "Peux-tu danser comme les habitants du village coloré ?",
+      "condition": "Interagir avec le Porridge en face de la maison à Colorful Village"
+    },
+    "toolbar_terracities": {
+      "name": "Téléchargement gratuit",
+      "description": "barre des tâches grave stylé gratuite super trop oméga top cool (la classe)",
+      "condition": "Voir l'événement de la Surcharge de la Barre des Tâches à Terracities"
+    },
+    "gulless_polluted_shore": {
+      "name": "Protectrice du rivage",
+      "condition": "Parler à la déesse des mouettes à la Polluted Shore"
+    },
+    "blood_drive": {
+      "name": "Quel est ton type ?",
+      "description": "Ça fait du bien de donner.",
+      "condition": "Visiter Blood Drive"
+    },
+    "unconscious_heart_1": {
+      "name": "Cœur du totem",
+      "condition": "Atteindre 100 points de cœur grâce aux distributeurs automatiques (obtenu après s'être rendu en face du distributeur automatique géant au Nexus)"
     }
   },
   "flow": {
@@ -4932,7 +5143,7 @@
     },
     "museum_takeoff": {
       "name": "Décollage",
-      "condition": "Regarder l'avion prendre son envol dans le Museum Tunnel"
+      "condition": "Visiter le Museum Tunnel"
     },
     "midnight_band": {
       "name": "Concert nocturne",
@@ -5942,6 +6153,11 @@
       "name": "Chalut la compagnie !",
       "description": "J'aime ton Diapason, p'tit gars !",
       "condition": "Utiliser l'effet Diapason pour que le grand chat fasse un clin d'œil dans l'Oil World"
+    },
+    "snail_pool_world": {
+      "name": "Amis de la piscine",
+      "description": "Penses-tu que ces gastéropodes partent souvent en roue libre ?",
+      "condition": "Interagir avec l'un des escargots de la piscine au Pool World"
     }
   },
   "tsushin": {
