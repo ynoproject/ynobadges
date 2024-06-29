@@ -1,8 +1,12 @@
 {
   "group": "2_el",
   "bp": 15,
-  "reqType": "tag",
-  "reqString": "penguin_gb_game",
+  "reqType": "tags",
+  "reqStrings": [
+    "penguin_gb_game",
+    "penguin_gb_game_b"
+  ],
+  "reqCount": 1,
   "map": 192,
   "art": "Pats",
   "batch": 116
