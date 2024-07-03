@@ -404,6 +404,20 @@
       "name": "Sosie aquatique",
       "description": "Il a l'air familier, non ?",
       "condition": "Rencontrer l'Enfant Tasei sur la Witch's Island"
+    },
+    "sewers_painting": {
+      "name": "D'étranges marques",
+      "description": "Quelles images bizarres...",
+      "condition": "Interagir avec l'un des dessins aux Sewers"
+    },
+    "mafurako_block_world": {
+      "name": "Voyageuse des blocs",
+      "description": "Tu es déjà venue ici auparavant.",
+      "condition": "Visiter chaque lieu où Mafurako peut vous téléporter au Block World"
+    },
+    "desert_block_world": {
+      "name": "D'un monde de blocs à un désert",
+      "condition": "Visiter le White Desert A depuis le Block World"
     }
   },
   "2kki": {
@@ -4057,6 +4071,45 @@
       "name": "Le pingouin qui glisse le plus loin",
       "description": "Je suis peut-être pas une experte en pingouins mais cette tenue est très confortable !",
       "condition": "Compléter le Jeu du Pingouin GB"
+    },
+    "megusuri_uri_visine": {
+      "name": "Marchand de larmes",
+      "description": "Ces yeux sont très sensibles, donc il prend son travail très à cœur !",
+      "condition": "Trouver et interagir avec Megusuri Uri dans les trois parties différentes de Visine World"
+    },
+    "rgb_passage": {
+      "name": "RGB Tile Path",
+      "description": "Attends, est-ce que je suis pas déjà ven... euh, est-ce que j'ai pas déjà vu ça autre part ?",
+      "condition": "Visiter le RGB Passage"
+    },
+    "chaos_exhibition_scuts": {
+      "name": "Artefacte animique chaotique",
+      "description": "Il bouille d'une énergie chaotique.",
+      "condition": "Débloquer tous les raccourcis à Chaos Exhibition"
+    },
+    "haunted_village_dolls": {
+      "name": "Poupée en papier",
+      "condition": "Utiliser l'effet Teru Teru Bōzu quelque part dans l'Haunted Village"
+    },
+    "painter_kun_art_gallery": {
+      "name": "Painter-Kun",
+      "description": "Est-ce qu'il prend des commissions ?",
+      "condition": "Rencontrer Painter-Kun à l'Art Gallery"
+    },
+    "2kki_night_sceneries": {
+      "name": "Astrophile",
+      "description": "Allons admirer les étoiles !",
+      "condition": "Trouver les paysages nocturnes à Twisted Thickets, Foliage Estate, Submerged Communications Area, Shallows of Deceit, Nocturnal Grove, Windswept Scarlet Sands, Planetarium et Tomb of Velleities"
+    },
+    "overgrowth_outlook": {
+      "name": "Cachette de Mère Nature",
+      "description": "Tu es venue de loin pour être arrivée jusqu'ici. Pendant que tu es là, tu veux un fruit ?",
+      "condition": "Atteindre avec succès l'Overgrowth Outlook"
+    },
+    "2kki_menu_40": {
+      "name": "Serrure fractale",
+      "description": "Des secrets derrière cette serrure vous attendent.",
+      "condition": "Atteindre la salle du style de menu 40 à Static Keylock"
     }
   },
   "unconscious": {
@@ -4267,7 +4320,7 @@
     },
     "bed_hometown": {
       "name": "Une nuit nostalgique",
-      "description": "Zzz... je suis si... fatiguée...",
+      "description": "Zzz... je suis... si... fatiguée...",
       "condition": "Dormir dans le lit de l'Hometown"
     },
     "window_loading_zone": {
@@ -4370,6 +4423,46 @@
       "name": "Cartouche maudite",
       "description": "Sors de ma chambre maman, je joue à Minnacraft !",
       "condition": "Se faire réveiller par la Terreur de Nuit à la Micro Forest"
+    },
+    "halo_tragic_dimension": {
+      "name": "Ange monochrome",
+      "description": "Tout comme une ange~ ♪",
+      "condition": "Se tenir en dessous de l'halo dans la Tragic Dimension"
+    },
+    "lion_sweet_circus": {
+      "name": "Lion onirique",
+      "description": "« Prrr... prrr... »",
+      "condition": "Interagir avec le lion au Sweets Circus"
+    },
+    "harsh_light_road": {
+      "name": "Lumière intemporelle",
+      "description": "Ma lune et moi",
+      "condition": "Visiter l'Harsh Light Road"
+    },
+    "neon_frogs": {
+      "name": "Danse des grenouilles néons",
+      "description": "Pour l'éternité...",
+      "condition": "Visiter Neon Frogs"
+    },
+    "bench_candy_lagoon": {
+      "name": "Effrayamment sucré",
+      "description": "C'est juste du sang de bonbon, hein ?... Pas vrai ?",
+      "condition": "S'asseoir sur le banc à côté du squelette au Candy Lagoon"
+    },
+    "windmill_mini_golf_maze": {
+      "name": "Note musicale RVB",
+      "description": "Des standards visuels et musicaux",
+      "condition": "Visiter la salle secrète du moulin musical au Mini Golf Maze"
+    },
+    "melan_room_wmw": {
+      "name": "Une maison à mon image",
+      "description": "Je me sens bleue... littéralement",
+      "condition": "Visiter la Chambre de Melan au Weeping Monsters World"
+    },
+    "hand_candy_lagoon": {
+      "name": "Papouilles du Lagon Bonbon",
+      "description": "Minna, c'est la paix, Minna, c'est l'amour.",
+      "condition": "Se tenir en dessous de la main squelettique au Candy Lagoon"
     }
   },
   "flow": {
@@ -4538,6 +4631,14 @@
       "name": "Automate",
       "description": "Une choquante tournure d'événements...",
       "condition": "Obtenir l'effet Machine dans le Star World"
+    },
+    "smile_empty_box": {
+      "name": "Éducation corrompue",
+      "condition": "Obtenir la boîte vide à la Corrupted School"
+    },
+    "rust_ending": {
+      "name": "Oxydation",
+      "condition": "Atteindre la fin Rust"
     }
   },
   "prayers": {
@@ -4820,6 +4921,10 @@
       "name": "La chauve-souris qui aimait les câlins",
       "description": "Les fleurs roses sont ses préférés !",
       "condition": "Attirer l'attention de la fille chauve-souris dans le Lily Field"
+    },
+    "dd_ending_3": {
+      "name": "Par-delà l'horizon",
+      "condition": "Atteindre la fin 3"
     }
   },
   "someday": {
@@ -5392,6 +5497,11 @@
     "mad_cow_flies_platform": {
       "name": "Maladie de la vache folle",
       "condition": "Déclencher l'événement des Vaches Folles à Flies Platform"
+    },
+    "ladder_museum_geology": {
+      "name": "Extinction K-Pg",
+      "description": "Il a bien rétréci ce caillou...",
+      "condition": "Monter sur l'échelle dans l'exposition de géologie du Science Museum"
     }
   },
   "muma": {
@@ -5838,6 +5948,11 @@
       "name": "Hé ! C'est mon arcade !",
       "description": "Ça c'est du geek.",
       "condition": "Utiliser les Poings américains et interagir avec le chasseur de l'Old Arcade"
+    },
+    "monochrome_pixel_room": {
+      "name": "Fatigue manifeste",
+      "description": "Les aiguilles ne mentent jamais",
+      "condition": "Visiter la Monochrome Pixel Room"
     }
   },
   "ultraviolet": {

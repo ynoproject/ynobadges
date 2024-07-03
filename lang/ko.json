@@ -404,6 +404,20 @@
       "name": "수면의 도플갱어",
       "description": "익숙하지 않아?",
       "condition": "호수에서 외눈박이 장경룡(Tasei's kid) NPC와 마주치기"
+    },
+    "sewers_painting": {
+      "name": "Strange Markings",
+      "description": "Those are some weird pictures...",
+      "condition": "Interact with any of the drawings in the Sewers"
+    },
+    "mafurako_block_world": {
+      "name": "Block Traveler",
+      "description": "You've been here before.",
+      "condition": "Visit every place where Mafurako can teleport you in Block World"
+    },
+    "desert_block_world": {
+      "name": "From Block to Mono",
+      "condition": "Visit White Desert A from Block World"
     }
   },
   "2kki": {
@@ -4057,6 +4071,45 @@
       "name": "Virtual Penguin",
       "description": "I may not be not an expert on penguinology but this suit is really comfortable!",
       "condition": "Complete the Penguin GB Game"
+    },
+    "megusuri_uri_visine": {
+      "name": "Eye Drops Vendor",
+      "description": "These eyes are very sensitive so he cares a lot about his work",
+      "condition": "Find and interact with Megusuri Uri in the three different parts of Visine World"
+    },
+    "rgb_passage": {
+      "name": "RGB Tile Path",
+      "description": "owari2 by sakai",
+      "condition": "Enter RGB Passage"
+    },
+    "chaos_exhibition_scuts": {
+      "name": "Chaotic Soul Artifact",
+      "description": "It seethes with chaotic energy.",
+      "condition": "Unlock all shortcuts in Chaos Exhibition"
+    },
+    "haunted_village_dolls": {
+      "name": "Paper Doll",
+      "condition": "Use the Teru Teru Bōzu effect somewhere in the Haunted Village"
+    },
+    "painter_kun_art_gallery": {
+      "name": "Painter-Kun",
+      "description": "Does he take commissions?",
+      "condition": "Meet Painter-Kun in the Art Gallery"
+    },
+    "2kki_night_sceneries": {
+      "name": "Astrophile",
+      "description": "Let's go stargazing!",
+      "condition": "Find night sky sceneries in Twisted Thickets, Foliage Estate, Submerged Communications Area, Shallows of Deceit, Nocturnal Grove, Windswept Scarlet Sands, Planetarium, and Tomb of Velleities"
+    },
+    "overgrowth_outlook": {
+      "name": "Mother Nature's Hideaway",
+      "description": "You've come far to find this spot. Care for some fruit?",
+      "condition": "Successfully reach the Overgrowth Outlook"
+    },
+    "2kki_menu_40": {
+      "name": "Fractal Keylock",
+      "description": "Secrets beyond the keyhole await you.",
+      "condition": "Reach the Menu 40 room in Static Keylock"
     }
   },
   "unconscious": {
@@ -4370,6 +4423,46 @@
       "name": "Cursed Cartridge",
       "description": "Get the heck out of my room, I'm playing Minnacraft!",
       "condition": "Get woken up by the Night Terror in Micro Forest"
+    },
+    "halo_tragic_dimension": {
+      "name": "Monochrome Angel",
+      "description": "Just like an angel",
+      "condition": "Stand under the halo in Tragic Dimension"
+    },
+    "lion_sweet_circus": {
+      "name": "Dream Lion",
+      "description": "\"Purr... purr...\"",
+      "condition": "Interact with the lion in Sweets Circus"
+    },
+    "harsh_light_road": {
+      "name": "Everlasting Light",
+      "description": "My moon and me",
+      "condition": "Enter Harsh Light Road"
+    },
+    "neon_frogs": {
+      "name": "Dance of the Neon Frogs",
+      "description": "For all of eternity...",
+      "condition": "Visit Neon Frogs"
+    },
+    "bench_candy_lagoon": {
+      "name": "Scarily Sweet",
+      "description": "That's just candy blood, right?",
+      "condition": "Sit on the bench next to the skull in Candy Lagoon"
+    },
+    "windmill_mini_golf_maze": {
+      "name": "RGB Musical Note",
+      "description": "Visual and musical standards",
+      "condition": "Visit the secret music windmill room in the Mini Golf Maze"
+    },
+    "melan_room_wmw": {
+      "name": "House In My Image",
+      "description": "Feeling blue... literally",
+      "condition": "Visit Melan's room in Weeping Monsters World"
+    },
+    "hand_candy_lagoon": {
+      "name": "Pet Pet Pat Pot Pet",
+      "description": "Pet Minna. Love Minna.",
+      "condition": "Stand under the skeletal hand in Candy Lagoon"
     }
   },
   "flow": {
@@ -4538,6 +4631,14 @@
       "name": "Automaton",
       "description": "A shocking turn of events...",
       "condition": "Get the Machine effect in Star World"
+    },
+    "smile_empty_box": {
+      "name": "Corrupt Education",
+      "condition": "Get the empty box at Corrupted School"
+    },
+    "rust_ending": {
+      "name": "Oxidation",
+      "condition": "Reach the Rust ending"
     }
   },
   "prayers": {
@@ -4820,6 +4921,10 @@
       "name": "Bat Acquired Snuggles",
       "description": "The pink flowers are her favorite!",
       "condition": "백합의 들판에 있는 박쥐 소녀 NPC의 시선을 끌기"
+    },
+    "dd_ending_3": {
+      "name": "Above Horizon",
+      "condition": "Reach the ending 3"
     }
   },
   "someday": {
@@ -5392,6 +5497,11 @@
     "mad_cow_flies_platform": {
       "name": "Mad Cow Disease",
       "condition": "Trigger the Mad Cow event in Flies Platform"
+    },
+    "ladder_museum_geology": {
+      "name": "Wipeout",
+      "description": "We didn't start the fire...",
+      "condition": "Climb the ladder in the Science Museum's Geology exhibit"
     }
   },
   "muma": {
@@ -5838,6 +5948,11 @@
       "name": "Hey! This is my arcade!",
       "description": "When someone is gaming too much.",
       "condition": "Use the Knuckledusters and interact with the chaser of the Old Arcade"
+    },
+    "monochrome_pixel_room": {
+      "name": "Manifested Fatigue",
+      "description": "Clock hands never lie",
+      "condition": "Enter the Monochrome Pixel Room"
     }
   },
   "ultraviolet": {
