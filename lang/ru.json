@@ -404,6 +404,20 @@
       "name": "Underwater Doppelgänger",
       "description": "Does he look familiar?",
       "condition": "Encounter Tasei's Kid on the Witch's Island"
+    },
+    "sewers_painting": {
+      "name": "Strange Markings",
+      "description": "Those are some weird pictures...",
+      "condition": "Interact with any of the drawings in the Sewers"
+    },
+    "mafurako_block_world": {
+      "name": "Block Traveler",
+      "description": "You've been here before.",
+      "condition": "Visit every place where Mafurako can teleport you in Block World"
+    },
+    "desert_block_world": {
+      "name": "From Block to Mono",
+      "condition": "Visit White Desert A from Block World"
     }
   },
   "2kki": {
@@ -3584,12 +3598,12 @@
     "2kki_marginal_effect": {
       "name": "Lovable Abomination",
       "description": "Third leg may or may not be included",
-      "condition": "Get the Marginal effect in the Broken Faces Area"
+      "condition": "Obtain the Marginal effect. If you have already unlocked it, return to Broken Faces Area."
     },
     "2kki_cake_effect": {
       "name": "Piece Of Cake!",
       "description": "Tasty...",
-      "condition": "Get the Cake effect from Shimofuri-tan in Cutlery World"
+      "condition": "Obtain the Cake effect. If you have already unlocked it, visit Shimofuri-tan in Cutlery World."
     },
     "shimofuri_mask_sweets": {
       "name": "Cake! Cake! Cake!",
@@ -3629,7 +3643,7 @@
     "horse_mask": {
       "name": "Horsin' Around",
       "description": "Alright, no more horseplay.",
-      "condition": "Acquire the horse mask in Motel Breeze"
+      "condition": "Equip the horse mask in Motel Breeze"
     },
     "red_monsters_qxy": {
       "name": "Nightmare Spasms",
@@ -3683,20 +3697,20 @@
     "fantasy_dream": {
       "name": "End of the Fantasy...",
       "description": "... but the beginning of a new dream.",
-      "condition": "Reach Ending #1"
+      "condition": "See the Ending #1. If you have already watched it, see it again from the Data menu of the computer."
     },
     "dream_wanderer": {
       "name": "Wanderer",
       "description": "The one who walks through a thousand dreams",
-      "condition": "Reach Ending #2"
+      "condition": "See the Ending #2. If you have already watched it, see it again from the Data menu of the computer."
     },
     "dreaming_doll": {
       "name": "Dreaming Doll",
-      "condition": "Reach Ending #3"
+      "condition": "See the Ending #3. If you have already watched it, see it again from the Data menu of the computer."
     },
     "glitch_ending": {
       "name": "Corrupted Dream",
-      "condition": "Reach the Glitch Ending"
+      "condition": "See the Glitch Ending"
     },
     "cake_shop_repentance": {
       "name": "Chocolate Cake Shop",
@@ -3769,7 +3783,7 @@
     "banana_b_g_islands": {
       "name": "Bear that became longing",
       "description": "He can't keep his banana in peace when this dreamer comes to take his patience away.",
-      "condition": "Get Fru Fru Bear's banana in Board Game Islands"
+      "condition": "Obtain Fru Fru Bear's banana. If you have already unlocked it, return to Board Game Islands."
     },
     "hopeful_road_light_lady": {
       "name": "Campsite Wild Ride",
@@ -3789,12 +3803,12 @@
     "sleeping_audiophile": {
       "name": "Sick Beats!",
       "description": "I'll listen to anything, see?",
-      "condition": "Reach Ending #---"
+      "condition": "See the Ending #---. If you have already watched it, see it again from one of the options of the Sound Room."
     },
     "wanderer_audiophile": {
       "name": "2kki.wav",
       "description": "I have the biggest playlist ever!!",
-      "condition": "Reach Ending #..."
+      "condition": "See the Ending #... If you have already watched it, see it again from one of the options of the Sound Room."
     },
     "moon_deserted_pier": {
       "name": "Accursed Moon",
@@ -3897,7 +3911,7 @@
     "bunny_ears_effect": {
       "name": "Hop!",
       "description": "A bunny goes...",
-      "condition": "Get the Bunny Ears effect at the top of the Eyeball Archives"
+      "condition": "Obtain the Bunny Ears effect. If you have already unlocked it, return to the top of the Eyeball Archives."
     },
     "chicken_gift_balloon": {
       "name": "Surprise!",
@@ -4018,7 +4032,7 @@
     },
     "girl_colorless_rose_garden": {
       "name": "Colorless Girl",
-      "condition": "Obtain the menu theme 58. If you have already unlocked it, return to the location where you found it."
+      "condition": "Obtain the menu type 58. If you have already unlocked it, return to the Colorless Rose Garden."
     },
     "girl_candyfloss_sea": {
       "name": "Cotton Candy Friends",
@@ -4057,6 +4071,45 @@
       "name": "Virtual Penguin",
       "description": "I may not be not an expert on penguinology but this suit is really comfortable!",
       "condition": "Complete the Penguin GB Game"
+    },
+    "megusuri_uri_visine": {
+      "name": "Eye Drops Vendor",
+      "description": "These eyes are very sensitive so he cares a lot about his work",
+      "condition": "Find and interact with Megusuri Uri in the three different parts of Visine World"
+    },
+    "rgb_passage": {
+      "name": "RGB Tile Path",
+      "description": "owari2 by sakai",
+      "condition": "Enter RGB Passage"
+    },
+    "chaos_exhibition_scuts": {
+      "name": "Chaotic Soul Artifact",
+      "description": "It seethes with chaotic energy.",
+      "condition": "Unlock all shortcuts in Chaos Exhibition"
+    },
+    "haunted_village_dolls": {
+      "name": "Paper Doll",
+      "condition": "Use the Teru Teru Bōzu effect somewhere in the Haunted Village"
+    },
+    "painter_kun_art_gallery": {
+      "name": "Painter-Kun",
+      "description": "Does he take commissions?",
+      "condition": "Meet Painter-Kun in the Art Gallery"
+    },
+    "2kki_night_sceneries": {
+      "name": "Astrophile",
+      "description": "Let's go stargazing!",
+      "condition": "Find night sky sceneries in Twisted Thickets, Foliage Estate, Submerged Communications Area, Shallows of Deceit, Nocturnal Grove, Windswept Scarlet Sands, Planetarium, and Tomb of Velleities"
+    },
+    "overgrowth_outlook": {
+      "name": "Mother Nature's Hideaway",
+      "description": "You've come far to find this spot. Care for some fruit?",
+      "condition": "Successfully reach the Overgrowth Outlook"
+    },
+    "2kki_menu_40": {
+      "name": "Fractal Keylock",
+      "description": "Secrets beyond the keyhole await you.",
+      "condition": "Obtain the menu type 40. If you have already unlocked it, return to the menu type room in Static Keyhole."
     }
   },
   "unconscious": {
@@ -4278,7 +4331,7 @@
     "menu_virtual_nightmare": {
       "name": "Hidden Gem",
       "description": "Found you!",
-      "condition": "Find the Virtual menu theme in Virtual Nightmare"
+      "condition": "Obtain the Virtual menu theme. If you have already unlocked it, return to Virtual Nightmare."
     },
     "cocoon_spiral_purgatory": {
       "name": "Uzumaki",
@@ -4370,6 +4423,46 @@
       "name": "Cursed Cartridge",
       "description": "Get the heck out of my room, I'm playing Minnacraft!",
       "condition": "Get woken up by the Night Terror in Micro Forest"
+    },
+    "halo_tragic_dimension": {
+      "name": "Monochrome Angel",
+      "description": "Just like an angel",
+      "condition": "Stand under the halo in Tragic Dimension"
+    },
+    "lion_sweet_circus": {
+      "name": "Dream Lion",
+      "description": "\"Purr... purr...\"",
+      "condition": "Interact with the lion in Sweets Circus"
+    },
+    "harsh_light_road": {
+      "name": "Everlasting Light",
+      "description": "My moon and me",
+      "condition": "Enter Harsh Light Road"
+    },
+    "neon_frogs": {
+      "name": "Dance of the Neon Frogs",
+      "description": "For all of eternity...",
+      "condition": "Visit Neon Frogs"
+    },
+    "bench_candy_lagoon": {
+      "name": "Scarily Sweet",
+      "description": "That's just candy blood, right?",
+      "condition": "Sit on the bench next to the skull in Candy Lagoon"
+    },
+    "windmill_mini_golf_maze": {
+      "name": "RGB Musical Note",
+      "description": "Visual and musical standards",
+      "condition": "Visit the secret music windmill room in the Mini Golf Maze"
+    },
+    "melan_room_wmw": {
+      "name": "House In My Image",
+      "description": "Feeling blue... literally",
+      "condition": "Visit Melan's room in Weeping Monsters World"
+    },
+    "hand_candy_lagoon": {
+      "name": "Pet Pet Pat Pot Pet",
+      "description": "Pet Minna. Love Minna.",
+      "condition": "Stand under the skeletal hand in Candy Lagoon"
     }
   },
   "flow": {
@@ -4537,7 +4630,15 @@
     "flow_machine_effect": {
       "name": "Automaton",
       "description": "A shocking turn of events...",
-      "condition": "Get the Machine effect in Star World"
+      "condition": "Obtain the Machine effect. If you have already unlocked it, return to the Star World."
+    },
+    "smile_empty_box": {
+      "name": "Corrupt Education",
+      "condition": "Obtain the smile empty box. If you have already unlocked it, return to the room prior to the one hosting it at the Corrupted School."
+    },
+    "rust_ending": {
+      "name": "Oxidation",
+      "condition": "See the Rust Ending"
     }
   },
   "prayers": {
@@ -4814,12 +4915,16 @@
     "toxic_alter": {
       "name": "Toxic Buddy",
       "description": "Plague nurses HATE her!",
-      "condition": "Get the Toxic alter in Neon Sewers"
+      "condition": "Obtain the Toxic alter. If you have already unlocked it, return to the Toxic Sewers."
     },
     "bat_girl_verdant": {
       "name": "Bat Acquired Snuggles",
       "description": "The pink flowers are her favorite!",
       "condition": "Привлеките внимание Девочки-летучей мыши в Лилейных полях."
+    },
+    "dd_ending_3": {
+      "name": "Above Horizon",
+      "condition": "See the Ending #3"
     }
   },
   "someday": {
@@ -5392,6 +5497,11 @@
     "mad_cow_flies_platform": {
       "name": "Mad Cow Disease",
       "condition": "Trigger the Mad Cow event in Flies Platform"
+    },
+    "ladder_museum_geology": {
+      "name": "Wipeout",
+      "description": "We didn't start the fire...",
+      "condition": "Climb the ladder in the Science Museum's Geology exhibit"
     }
   },
   "muma": {
@@ -5700,7 +5810,7 @@
     "walker_delusion": {
       "name": "Mechanical Duo",
       "description": "A paranoid young girl who rides in an adequately sized walking robot, the mecha in one",
-      "condition": "Get the Walker delusion in the Gray Staircase"
+      "condition": "Obtain the Walker delusion. If you have already unlocked it, return to the Gray Staircase."
     },
     "ancient_heavenly_sky": {
       "name": "Overgrown Skies",
@@ -5838,6 +5948,11 @@
       "name": "Hey! This is my arcade!",
       "description": "When someone is gaming too much.",
       "condition": "Use the Knuckledusters and interact with the chaser of the Old Arcade"
+    },
+    "monochrome_pixel_room": {
+      "name": "Manifested Fatigue",
+      "description": "Clock hands never lie",
+      "condition": "Enter the Monochrome Pixel Room"
     }
   },
   "ultraviolet": {
@@ -5980,46 +6095,46 @@
     },
     "uv_egg_effect": {
       "name": "Green Eggs and...",
-      "condition": "Get the Egg effect in Pink Continent"
+      "condition": "Obtain the Egg effect. If you have already unlocked it, return to the Pinkish Continent."
     }
   },
   "sheawaits": {
     "chapel_statue": {
       "name": "Hallowed Icon",
       "description": "A preserved statue in front of stained windows, venerated by many.",
-      "condition": "See the statue in the Chapel's teleport maze."
+      "condition": "See the statue in the Chapel's teleport maze"
     },
     "magicians_room": {
       "name": "Magician’s Hideout",
-      "condition": "Enter the Magician’s Room."
+      "condition": "Enter the Magician’s Room"
     },
     "lovers_confessional": {
       "name": "Lover's Confessional",
       "description": "May you be cleansed of your sins...",
-      "condition": "Trigger the Confessional event in the Chapel with the Lovers card."
+      "condition": "Trigger the Confessional event in the Chapel with the Lovers card"
     },
     "mushroom_caves": {
       "name": "Dimly-lit Fungi",
-      "condition": "Visit the Mushroom Cave."
+      "condition": "Visit the Mushroom Cave"
     },
     "rave_devil": {
       "name": "Devil's Call in Your Heart",
       "description": "The night has just begun.",
-      "condition": "Terrify the partygoers in the Rave Hall with the Devil card."
+      "condition": "Terrify the partygoers in the Rave Hall with the Devil card"
     },
     "rave_rooftop_lovers": {
       "name": "Stained Glass Rave Pin",
-      "condition": "Snatch a kiss from Alesandre in the Rave Hall's rooftop."
+      "condition": "Snatch a kiss from Alesandre in the Rave Hall's rooftop"
     },
     "ethereal_waterfall": {
       "name": "Heavenly Cascade",
       "description": "A view of the calming cascades of the ethereal realm's waters.",
-      "condition": "Visit and take a close look at the waterfalls of the Ethereal Plane."
+      "condition": "Visit and take a close look at the waterfalls of the Ethereal Plane"
     },
     "eternal_love": {
       "name": "Eternal Love",
       "description": "\"I will follow you to the ends of the earth,\nAnd there I will give you a kiss of rebirth.\"",
-      "condition": "Go on a date with Alesandre in the places where you meet him."
+      "condition": "Go on a date with Alesandre in the places where you meet him"
     },
     "lantern_piers": {
       "name": "Lanterns at Sunset",
@@ -6065,7 +6180,7 @@
     "swamp_world": {
       "name": "Abandoned Docks",
       "description": "Fishing Alone.",
-      "condition": "Visit Swamp World for the first time"
+      "condition": "Visit Swamp World"
     },
     "vampires_house": {
       "name": "Welcome to my home!",
@@ -6241,7 +6356,7 @@
     "moon_flight": {
       "name": "Exploding Humans",
       "description": "I usually don't like the smell of fireworks, but something is EXTRA off about this.",
-      "condition": "Trigger the Human Fireworks flight event."
+      "condition": "Trigger the Human Fireworks flight event"
     },
     "rooftops_lights_off": {
       "name": "Lights Off",
@@ -6251,80 +6366,80 @@
     "meat_world_piggy_bank": {
       "name": "Meat Inside a Pig Made of Meat Inside a Pig Made of Meat",
       "description": "Pig-ception.",
-      "condition": "Enter the broken piggy bank in Meat World."
+      "condition": "Enter the broken piggy bank in Meat World"
     },
     "giant_catgirl": {
       "name": "Giant Cat Girl",
       "description": "zzzzz......",
-      "condition": "Encounter the giant cat girl in the Zombie Apartment."
+      "condition": "Encounter the giant cat girl in the Zombie Apartment"
     },
     "cake_tower_maid": {
       "name": "Catch a Glimpse of Beauty",
       "description": "Let me see what you look like~",
-      "condition": "Reveal the transparent maid's true appearance in the Cake Tower."
+      "condition": "Reveal the transparent maid's true appearance in the Cake Tower"
     },
     "factory_pink_boss": {
       "name": "Pink Boss",
-      "condition": "Encounter the pink-haired maiden with a red ribbon in the Factory."
+      "condition": "Encounter the pink-haired maiden with a red ribbon in the Factory"
     },
     "detective_wormiko": {
       "name": "Famous Detective Wormiko",
       "description": "The investigation begins!",
-      "condition": "Trigger the Detective effect's action."
+      "condition": "Trigger the Detective effect's action"
     },
     "abandoned_pool_mural": {
       "name": "Abandoned Memory",
       "description": "Things changed, you see. They don't sleep on the beach anymore...",
-      "condition": "Approach the mural on the wall in the Abandoned Swimming Pool."
+      "condition": "Approach the mural on the wall in the Abandoned Swimming Pool"
     },
     "chair_panic": {
       "name": "Reclined Panic",
       "description": "Chairs are watching you carefully...",
-      "condition": "Equip the Fire Axe effect in the Warehouse, making the chairs run away."
+      "condition": "Equip the Fire Axe effect in the Warehouse, making the chairs run away"
     },
     "willow_docks": {
       "name": "Tranquil Lake and the Willows",
-      "condition": "Visit the Docks."
+      "condition": "Visit the Docks"
     },
     "nexus_favorites": {
       "name": "Which Is Your Favorite?",
-      "condition": "Visit all the dream worlds accessible from the Nexus."
+      "condition": "Visit all the dream worlds accessible from the Nexus"
     },
     "cheese_maze_slime_girl": {
       "name": "Slime Girl",
-      "condition": "Swing the Fire Axe at the green-haired girl in the Cheese Maze."
+      "condition": "Swing the Fire Axe at the green-haired girl in the Cheese Maze"
     },
     "slime_girl_ambush": {
       "name": "Welcome to Reality",
-      "condition": "Leave Wormiko's room or save while the curtains are closed."
+      "condition": "Leave Wormiko's room or save while the curtains are closed"
     },
     "snow_cat": {
       "name": "Snowcat",
-      "condition": "Make a snow cat outside of Wormiko's apartment."
+      "condition": "Make a snow cat outside of Wormiko's apartment"
     },
     "green_little_dog": {
       "name": "Green Little Dog",
       "description": "The little dog is greeting you~",
-      "condition": "See the green dog in the Cheese Maze."
+      "condition": "See the green dog in the Cheese Maze"
     },
     "beach_free_pancake": {
       "name": "Free Pancake!",
       "description": "Watch me eat them all!!!",
-      "condition": "Check out the pancakes on the beach and eat them all."
+      "condition": "Check out the pancakes on the beach and eat them all"
     },
     "hothouse": {
       "name": "Dimly Discernible",
       "description": "Chasing butterflies, strolling through the morning.",
-      "condition": "Enter the Hothouse."
+      "condition": "Enter the Hothouse"
     },
     "swamp_world_bird": {
       "name": "OMG, Surreal Bird!",
       "description": "I saw a light, then the sun... Wait, is that a bird?",
-      "condition": "See the big weird bird in the Swamp World."
+      "condition": "See the big weird bird in the Swamp World"
     },
     "moon_ornament": {
       "name": "Moon Viewing Platform",
-      "condition": "Visit the top floor of Ornamental Moon."
+      "condition": "Visit the top floor of Ornamental Moon"
     },
     "cat_hat": {
       "name": "Cat Hat",
@@ -6333,7 +6448,7 @@
     },
     "winking_ghost": {
       "name": "Ghost Photography",
-      "condition": "Encounter the winking ghost in the Cheese Maze."
+      "condition": "Encounter the winking ghost in the Cheese Maze"
     },
     "body_part_exhibition": {
       "name": "Hands on Display",
@@ -6363,7 +6478,7 @@
     "tsh_gothic_dress_effect": {
       "name": "Gothic Beauty",
       "description": "You have great taste!",
-      "condition": "Get the Goth Dress effect in White Desert"
+      "condition": "Obtain the Goth Dress effect. If you have already unlocked it, return to the White Desert."
     },
     "bar_ancient_civilization": {
       "name": "Ancient Gear Drink",
