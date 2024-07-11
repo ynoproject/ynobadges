@@ -404,6 +404,20 @@
       "name": "Underwater Doppelgänger",
       "description": "Does he look familiar?",
       "condition": "Encounter Tasei's Kid on the Witch's Island"
+    },
+    "sewers_painting": {
+      "name": "Strange Markings",
+      "description": "Those are some weird pictures...",
+      "condition": "Interact with any of the drawings in the Sewers"
+    },
+    "mafurako_block_world": {
+      "name": "Block Traveler",
+      "description": "You've been here before.",
+      "condition": "Visit every place where Mafurako can teleport you in Block World"
+    },
+    "desert_block_world": {
+      "name": "From Block to Mono",
+      "condition": "Visit White Desert A from Block World"
     }
   },
   "2kki": {
@@ -2407,7 +2421,7 @@
       "condition": "抵达 Marble Ruins 的 Marble Room。"
     },
     "twilit_savanna": {
-      "name": "暮光下的疏林草原",
+      "name": "Gift of Twilight",
       "description": "黄昏笼罩在疏林上空，树冠上已点缀了星光。",
       "condition": "抵达黄昏下的宝石洞窟。"
     },
@@ -4018,7 +4032,7 @@
     },
     "girl_colorless_rose_garden": {
       "name": "Colorless Girl",
-      "condition": "Obtain the menu theme 58. If you have already unlocked it, return to the location where you found it."
+      "condition": "Obtain the menu type 58. If you have already unlocked it, return to the Colorless Rose Garden."
     },
     "girl_candyfloss_sea": {
       "name": "Cotton Candy Friends",
@@ -4057,6 +4071,45 @@
       "name": "Virtual Penguin",
       "description": "I may not be not an expert on penguinology but this suit is really comfortable!",
       "condition": "Complete the Penguin GB Game"
+    },
+    "megusuri_uri_visine": {
+      "name": "Eye Drops Vendor",
+      "description": "These eyes are very sensitive so he cares a lot about his work",
+      "condition": "Find and interact with Megusuri Uri in the three different parts of Visine World"
+    },
+    "rgb_passage": {
+      "name": "RGB Tile Path",
+      "description": "owari2 by sakai",
+      "condition": "Enter RGB Passage"
+    },
+    "chaos_exhibition_scuts": {
+      "name": "Chaotic Soul Artifact",
+      "description": "It seethes with chaotic energy.",
+      "condition": "Unlock all shortcuts in Chaos Exhibition"
+    },
+    "haunted_village_dolls": {
+      "name": "Paper Doll",
+      "condition": "Use the Teru Teru Bōzu effect somewhere in the Haunted Village"
+    },
+    "painter_kun_art_gallery": {
+      "name": "Painter-Kun",
+      "description": "Does he take commissions?",
+      "condition": "Meet Painter-Kun in the Art Gallery"
+    },
+    "2kki_night_sceneries": {
+      "name": "Astrophile",
+      "description": "Let's go stargazing!",
+      "condition": "Find night sky sceneries in Twisted Thickets, Foliage Estate, Submerged Communications Area, Shallows of Deceit, Nocturnal Grove, Windswept Scarlet Sands, Planetarium, and Tomb of Velleities"
+    },
+    "overgrowth_outlook": {
+      "name": "Mother Nature's Hideaway",
+      "description": "You've come far to find this spot. Care for some fruit?",
+      "condition": "Successfully reach the Overgrowth Outlook"
+    },
+    "2kki_menu_40": {
+      "name": "Fractal Keylock",
+      "description": "Secrets beyond the keyhole await you.",
+      "condition": "Obtain the menu type 60. If you have already unlocked it, return to the menu type room in Flicker Trail."
     }
   },
   "unconscious": {
@@ -4278,7 +4331,7 @@
     "menu_virtual_nightmare": {
       "name": "Hidden Gem",
       "description": "Found you!",
-      "condition": "Find the Virtual menu theme in Virtual Nightmare"
+      "condition": "Obtain the Virtual menu theme. If you have already unlocked it, return to Virtual Nightmare."
     },
     "cocoon_spiral_purgatory": {
       "name": "Uzumaki",
@@ -4370,6 +4423,46 @@
       "name": "Cursed Cartridge",
       "description": "Get the heck out of my room, I'm playing Minnacraft!",
       "condition": "Get woken up by the Night Terror in Micro Forest"
+    },
+    "halo_tragic_dimension": {
+      "name": "Monochrome Angel",
+      "description": "Just like an angel",
+      "condition": "Stand under the halo in Tragic Dimension"
+    },
+    "lion_sweet_circus": {
+      "name": "Dream Lion",
+      "description": "\"Purr... purr...\"",
+      "condition": "Interact with the lion in Sweets Circus"
+    },
+    "harsh_light_road": {
+      "name": "Everlasting Light",
+      "description": "My moon and me",
+      "condition": "Enter Harsh Light Road"
+    },
+    "neon_frogs": {
+      "name": "Dance of the Neon Frogs",
+      "description": "For all of eternity...",
+      "condition": "Visit Neon Frogs"
+    },
+    "bench_candy_lagoon": {
+      "name": "Scarily Sweet",
+      "description": "That's just candy blood, right?",
+      "condition": "Sit on the bench next to the skull in Candy Lagoon"
+    },
+    "windmill_mini_golf_maze": {
+      "name": "RGB Musical Note",
+      "description": "Visual and musical standards",
+      "condition": "Visit the secret music windmill room in the Mini Golf Maze"
+    },
+    "melan_room_wmw": {
+      "name": "House In My Image",
+      "description": "Feeling blue... literally",
+      "condition": "Visit Melan's room in Weeping Monsters World"
+    },
+    "hand_candy_lagoon": {
+      "name": "Pet Pet Pat Pot Pet",
+      "description": "Pet Minna. Love Minna.",
+      "condition": "Stand under the skeletal hand in Candy Lagoon"
     }
   },
   "flow": {
@@ -4538,6 +4631,14 @@
       "name": "自动机",
       "description": "令人震惊的转折……",
       "condition": "在Star World获得机械效果"
+    },
+    "smile_empty_box": {
+      "name": "Corrupt Education",
+      "condition": "Obtain the smile empty box. If you have already unlocked it, return to the room prior to the one hosting it at the Corrupted School."
+    },
+    "rust_ending": {
+      "name": "Oxidation",
+      "condition": "See the Rust Ending"
     }
   },
   "prayers": {
@@ -4820,6 +4921,10 @@
       "name": "蝙蝠来贴贴",
       "description": "她最喜欢粉色的花花了！",
       "condition": "在 Lily Field 内吸引蝙蝠少女的注意。"
+    },
+    "dd_ending_3": {
+      "name": "Above Horizon",
+      "condition": "See the Ending #3"
     }
   },
   "someday": {
@@ -5392,6 +5497,11 @@
     "mad_cow_flies_platform": {
       "name": "Mad Cow Disease",
       "condition": "Trigger the Mad Cow event in Flies Platform"
+    },
+    "ladder_museum_geology": {
+      "name": "Wipeout",
+      "description": "We didn't start the fire...",
+      "condition": "Climb the ladder in the Science Museum's Geology exhibit"
     }
   },
   "muma": {
@@ -5838,6 +5948,11 @@
       "name": "嘿！这是我的街机！",
       "description": "有人游戏玩多了。",
       "condition": "装备指虎效果，与Old Arcade的追逐者互动"
+    },
+    "monochrome_pixel_room": {
+      "name": "Manifested Fatigue",
+      "description": "Clock hands never lie",
+      "condition": "Enter the Monochrome Pixel Room"
     }
   },
   "ultraviolet": {
