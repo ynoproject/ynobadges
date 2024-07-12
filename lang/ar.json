@@ -146,7 +146,7 @@
     },
     "takofuusen": {
       "name": "التاكوفووسن",
-      "condition": "لقاء التاكوفووسن في الصحراء البيضاء"
+      "condition": "قابل تاكوفووسن في الصحراء البيضاء"
     },
     "uboa": {
       "name": "أُبوا",
@@ -158,13 +158,13 @@
     },
     "face": {
       "name": "كيوكيو-كن",
-      "description": "Fancy a massage?",
+      "description": "أتحبين أخذ مساجاً؟", # محتاج حد يأكد على دي
       "condition": "فعل حدث الملك الأحمر"
     },
     "glitch": {
       "name": "�� �������",
       "description": "R̵̫̣͎͊̉ķ̶͓̺̓̃̚M̷̧̜̮̒̿͂g̴̺̏͘Ŗ̵̝̲͛̉̎̄Ḫ̶̲̣̤̾V̴̢͚͔̘́u̵̳̽͆̑͝Z̷͇̈́̿̇Ẇ̵̬̼͉̪̓͊9̸̧̟̈̔̆ṳ̶̞̑̒",
-      "condition": "فعل حدث بإسم خلل زنزانة اف سي"
+      "condition": "فعل حدث يدعى \"خلل في زنزانة ف ك\""
     },
     "mars": {
       "name": "مارز-سان",
@@ -177,7 +177,7 @@
     "seahorse": {
       "name": "فرس البحر",
       "description": "لم يكن هذا طيباً منك...",
-      "condition": "اطعن فرس البحر في مدينة الأشباح" # مدينة الأكواخ أحسن؟
+      "condition": "اطعن فرس البحر في مدينة الأكواخ"
     },
     "melt": {
       "name": "ذابو-تسوكي",
@@ -197,8 +197,8 @@
       "condition": "تفاعل مع قطمة واكتسب 50000 ين أو أكثر"
     },
     "henkei": {
-      "name": "Henkei Shita",
-      "condition": "Get to Footprint Path from the red Henkei Shita located in Hell"
+      "name": "هِنكاي شيتا",
+      "condition": "اذهب إلى طريق أثار الأقدام من هِنكاي شيتا الأحمر الواقع في الجحيم"
     },
     "tokuto": {
       "name": "توكوتو-كن",
@@ -207,8 +207,8 @@
     },
     "closet": {
       "name": "خزانتكِ",
-      "description": "The secrets one can find through violence...",
-      "condition": "ادخل الجحيم المصغر في عالم الأرقام" # احتمال استبدل فعل ادخل لاحقاً
+      "description": "الأسرار التي تكتشف لمن يستخدم العنف...",
+      "condition": "ادخل الجحيم المصغر في عالم الأرقام"
     },
     "nasu": {
       "name": "ناسو",
@@ -223,57 +223,57 @@
       "condition": "سجل 3000 نقطة في لعبة ناسو"
     },
     "fc_demon": {
-      "name": "FC Demon",
-      "description": "*smooch*",
-      "condition": "Interact with the FC Demon in FC World B"
+      "name": "المارد اف سي",
+      "description": "*عناق*",
+      "condition": "تفاعل مع المارد اف سي في عالم اف سي ب"
     },
     "eye_box": {
-      "name": "Box of Eyes",
-      "condition": "Stab the Eye Box until you get teleported to its area"
+      "name": "صندوق العيون",
+      "condition": "اطعن صندوق العيون حتى تنتقل إلى منطقته"
     },
     "monoko": {
-      "name": "Monoko of the White Desert",
-      "condition": "Interact with Monoko using the Traffic Light effect"
+      "name": "مونوكو في الصحراء البيضاء",
+      "condition": "تفاعل مع مونوكو باستخدام تأثير إشارة المرور"
     },
     "a": {
-      "name": "Scream of the Captured",
-      "condition": "Step on the あ tile in Number World"
+      "name": "الصراخ المسجون",
+      "condition": "كن على البلاطة التي عليها あ في عالم الأرقام"
     },
     "eye": {
-      "name": "Eye of the Captured",
-      "condition": "Step on the eye tile in Number World"
+      "name": "العين المسجون",
+      "condition": "كن على البلاطة التي عليها عين في عالم الأرقام"
     },
     "bottles": {
-      "name": "Health Drinks",
-      "condition": "Find all 3 vending machines and buy a drink from each one"
+      "name": "المشروبات الصحية",
+      "condition": "اعثر على كل آلات البيع (3) واشتري شراباً من كل واحدة"
     },
     "mado": {
-      "name": "Window",
-      "condition": "See the Ending"
+      "name": "النافذة",
+      "condition": "اختم مفكرة الأحلام"
     },
     "monoe": {
-      "name": "Monoe of the White Desert",
-      "description": "Now you see her, now you don't",
-      "condition": "Lose sight of Monoe in the White Desert"
+      "name": "مونو من الصحراء البيضاء",
+      "description": "كنت تراها لكن الآن لم تعد كذلك",
+      "condition": "خذ لمحة من مونو في الصحراء البيضاء قبل اختفائها"
     },
     "teleport_bros": {
       "name": "Warpo and Loople",
       "condition": "Use the Cat effect near both Warpo and Loople in the teleport maze"
     },
     "poniko_cat": {
-      "name": "Acknyawledgement",
-      "description": "Ahhh!! So cute!!",
-      "condition": "Use the Cat effect near Poniko"
+      "name": "هِر!!",
+      "description": "آهههه!! ياللطف!!",
+      "condition": "استخدم تأثير القط بالقرب من بونيكو"
     },
     "spaceship_crash_event": {
-      "name": "U-F-Uh-Oh",
-      "description": "Masada, we have a problem!",
-      "condition": "Witness the crash event in Masada's Spaceship"
+      "name": "يو-اف-اه-اوه",
+      "description": "ماسادا، لدينا مشكلة!",
+      "condition": "شاهد حدث احتطام سفينة ماسادا الفضائية"
     },
     "cube_guru_seat": {
-      "name": "Seat Taken",
-      "description": "Steal the Cube Guru's seat in the Windmill World.",
-      "condition": "Move the Cube Guru off of his seat, and then sit on it"
+      "name": "المكان محجوز",
+      "description": "خذ مكان مكعب غورو في عالم طاحونات الهواء.",
+      "condition": "افسح غورو المكعب عن مقعده بعدها اجلس عليه"
     },
     "meow_ufo": {
       "name": "They Like Me-ow~!",
@@ -411,13 +411,13 @@
       "condition": "Interact with any of the drawings in the Sewers"
     },
     "mafurako_block_world": {
-      "name": "Block Traveler",
-      "description": "You've been here before.",
-      "condition": "Visit every place where Mafurako can teleport you in Block World"
+      "name": "سائح المكعبات Block Traveler",
+      "description": "كنت هنا من قبل.",
+      "condition": "زُر كل الأماكن في عالم المكعبات Visit every place where Mafurako can teleport you in Block World"
     },
     "desert_block_world": {
-      "name": "From Block to Mono",
-      "condition": "Visit White Desert A from Block World"
+      "name": "من عالم المكعبات إلى مونوكروم",
+      "condition": "اعبر الصحراء البيضاء أ من عالم المكعبات"
     }
   },
   "2kki": {
