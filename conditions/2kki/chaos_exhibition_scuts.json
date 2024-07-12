@@ -1,7 +1,5 @@
 {
   "map": 734,
-  "mapX2": 399,
-  "mapY2": 399,
   "switchIds": [
     "691",
     "1383",
@@ -16,5 +14,6 @@
     true,
     true
   ],
-  "switchDelay": true
+  "trigger": "event",
+  "value": "6"
 }
