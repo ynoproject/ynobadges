@@ -168,7 +168,7 @@
     },
     "mars": {
       "name": "مارز-سان",
-      "condition": "زُر مارز-سان"
+      "condition": "قم بزيارة مارز-سان"
     },
     "organoid": {
       "name": "لا مخرج",
@@ -241,7 +241,7 @@
     },
     "eye": {
       "name": "العين المسجون",
-      "condition": "كن على البلاطة التي عليها عين في عالم الأرقام"
+      "condition": "كن على البلاطة التي عليها عين في عالم القناديل" # "القناديل" مقصودة
     },
     "bottles": {
       "name": "المشروبات الصحية",
@@ -257,8 +257,8 @@
       "condition": "خذ لمحة من مونو في الصحراء البيضاء قبل اختفائها"
     },
     "teleport_bros": {
-      "name": "Warpo and Loople",
-      "condition": "Use the Cat effect near both Warpo and Loople in the teleport maze"
+      "name": "واربو ولووبي",
+      "condition": "استخدم تأثير القط بالقرب من واربو ولووبي في متاهة التنقل"
     },
     "poniko_cat": {
       "name": "هِر!!",
@@ -276,42 +276,42 @@
       "condition": "افسح غورو المكعب عن مقعده بعدها اجلس عليه"
     },
     "meow_ufo": {
-      "name": "They Like Me-ow~!",
-      "description": "Purrfect meet up!",
-      "condition": "Summon the UFOs on Mars with the Cat effect"
+      "name": "هم يحبونني~!",
+      "description": "لن يتجاهلوني قط!",
+      "condition": "استدعي سفينات فضائية على كوكب المريخ باستخدام تأثير القط"
     },
     "girl_closet": {
-      "name": "Girl in the Closet",
-      "description": "\"Who are you?\"",
-      "condition": "Open the closet containing Madotsuki in the Checkered Tile Path"
+      "name": "فتاة في الخزانة",
+      "description": "\"من أنتِ؟\"",
+      "condition": "افتح الخزانة التي بداخلها مادوتسوكي في طريق المربعات"
     },
     "quivering_jaw": {
-      "name": "The One Grinding its Teeth",
-      "description": "Is it cold in here, or is it just me?",
-      "condition": "Find The Thing with the Quivering Jaw"
+      "name": "من يَصرُ على أسنانه",
+      "description": "أهذا أنا فقط أم هل الجو باردٌ هنا؟",
+      "condition": "اعثر على الشيء ذو الفك المرتجف"
     },
     "candle_world_toriningen": {
       "name": "Fast and Furious",
-      "description": "*VROOOooooooOoom*",
-      "condition": "Get caught by the Toriningen in the Candle World"
+      "description": "*فروووومممم*", # أرجوك أقترح حاجة أحسن من دي...
+      "condition": "دع الطوريننجن يقبضن عليك في عالم الشموع"
     },
     "falling_men": {
-      "name": "الهابطان Free Falling",
+      "name": "الهابطان الحرييان",
       "description": "اوه لا...",
       "condition": "شاهد حدث الرجلين الهابطين"
     },
     "chop_chop": {
-      "name": "Chop Chop!",
-      "condition": "Visit Big Guillotine World"
+      "name": "تشوب تشوب!",
+      "condition": "قم بزيارة عالم المقصلة"
     },
     "witch_island_cat": {
-      "name": "Beneath the Surface",
-      "condition": "Use the Cat effect next to the three women in blue on Witch's Island"
+      "name": "ما على سطح الماء",
+      "condition": "استخدم تأثير القطة بجانب الثلاث امرأت ذي الرداء الأزرق الداكن على جزيرة الساحرة" # مش متأكد من النحو هنا
     },
     "severed_heads_event": {
-      "name": "Heads Off to You!",
+      "name": "أرفع رأسي تحية لك!",
       "description": "Sorry, you went in over my head!",
-      "condition": "Activate the Severed Heads event"
+      "condition": "فعل حدث الرؤوس المقطوعة"
     },
     "scared_masada": {
       "name": "مشية القمر",
@@ -323,54 +323,54 @@
       "condition": "شاهد سمكة الغواصة وهي خارجة من الماء"
     },
     "manhole_sama_red": {
-      "name": "Flushed",
-      "condition": "See the red variant of Manhole-sama"
+      "name": "محمر",
+      "condition": "شاهد على الشكل المحمر من مانهول-ساما"
     },
     "onsen_stab": {
       "name": "طعنة في الظلمة",
       "condition": "اطعن اونسن-سان"
     },
     "fc_moai": {
-      "name": "Tomb of the Moai",
-      "description": "What a nice statue!",
-      "condition": "Enter the moai head room in the FC Dungeon"
+      "name": "مقبرة مو-أي",
+      "description": "يا له من تمثال رائع!",
+      "condition": "ادخل غرفة رأس مو-أي في زنزانة اف سي"
     },
     "isee_path": {
-      "name": "Isee Stare",
-      "condition": "Get to Mural World via the Isee Path"
+      "name": "تحديق إسى",
+      "condition": "اذهب إلى عالم الرسوم الجدارية عبر طريق الإسى"
     },
     "mall_shoppers": {
-      "name": "Shop 'til You Drop",
-      "condition": "Interact with all of the Mall Shopper creatures"
+      "name": "تسوق حتى تسقط", # افتكرتها تسوق حتى تفلس
+      "condition": "تفاعل مع كل الكائنات في مركز التسوق"
     },
     "white_desert_lagoon": {
-      "name": "Monochrome Walls",
-      "description": "No concentration, just a white disorder everywhere around me.",
-      "condition": "Travel deep into the dream world to reach the White Desert lagoon"
+      "name": "جدارات الأبيض والأسود",
+      "description": "لا تركيز في التصميم، بل فقط اللون الأبيض المشوش في كل مكان حولي.",
+      "condition": "تعمق أكثر في عالم الأحلام حتى تصل إلى بحيرة الصحراء البيضاء"
     },
     "hell_teleporters": {
-      "name": "Compulsive Sinner",
-      "description": "You just keep coming here, sheesh!",
-      "condition": "Access Hell from Face Carpet Plaza, Neon Tile Path, Checkered Tile Path and Footprint Path"
+      "name": "شرير قهري",
+      "description": "يا إلهي، لماذا تعودين وتأتين مراراً وتكراراً!؟",
+      "condition": "ادخل الجحيم عبر ساحة وجوه الأسجدة، طريق بلاطات النيون، طريق المربعات، طريق أثار الأقدام"
     },
     "train_cattention": {
-      "name": "Ailurophobia",
-      "description": "Not even monsters are safe from the cat supremacy :3",
-      "condition": "Catch the Train Passenger A's attention with the Cat effect"
+      "name": "رهاب الهررة",
+      "description": "حتى الوحوش ليسوا آمنين من سيطرة الهررة 3:",
+      "condition": "شتت انتباه الراكب القطار أ باستخدام تأثير القطة"
     },
     "docks_yume": {
-      "name": "Docks",
-      "condition": "Visit the two parts of the Docks"
+      "name": "أرصفة بحرية",
+      "condition": "قم بزيارة الجزئين من الأرصفة البحرية"
     },
     "thunder_oni": {
-      "name": "Rain, Rain, Go Away",
-      "description": "Come again another day!",
-      "condition": "Summon a clap of thunder and lightning using the Oni effect in the Dense Woods A"
+      "name": "ابتعد أيها المطر",
+      "description": "تعال في يومٍ آخر!",
+      "condition": "استدعي ضربة برق باستخدام تأثير مارد في الغابات الكثيفة أ"
     },
     "ghostly_assembly": {
-      "name": "Ghostly Assembly",
-      "description": "Three of a kind.",
-      "condition": "Interact with Nopperabou Ghost and Fleebie while using the Spirit Headband effect and stab Follony with the Kitchen Knife effect"
+      "name": "اجتماع شبحي",
+      "description": "ثلاث من نفس النوع.",
+      "condition": "تفاعل مع الشبح نوبراباو وفليبي عند استخدامك تأثير العصابة الروحية وقم بطعن فولوني وبحوزتك سكين مطبخ"
     },
     "wilderness_fan": {
       "name": "مستكشف الصحراء",
@@ -413,7 +413,7 @@
     "mafurako_block_world": {
       "name": "سائح المكعبات",
       "description": "كنت هنا من قبل.",
-      "condition": "زُر كل الأماكن التي تنقلك مافوراكو إليهم في عالم المكعبات"
+      "condition": "قم بزيارة كل الأماكن التي تنقل مافوراكو إليهم في عالم المكعبات"
     },
     "desert_block_world": {
       "name": "من عالم المكعبات إلى المونوكروم",
