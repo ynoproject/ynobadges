@@ -406,18 +406,18 @@
       "condition": "樹海の島で一つ目の首長竜に会う"
     },
     "sewers_painting": {
-      "name": "Strange Markings",
-      "description": "Those are some weird pictures...",
-      "condition": "Interact with any of the drawings in the Sewers"
+      "name": "怪しい絵画",
+      "description": "妙な絵だ・・・",
+      "condition": "下水道美術館にある絵を見る"
     },
     "mafurako_block_world": {
-      "name": "Block Traveler",
-      "description": "You've been here before.",
-      "condition": "Visit every place where Mafurako can teleport you in Block World"
+      "name": "ブロックの旅人",
+      "description": "前にもここに来たような",
+      "condition": "ブロックの世界でマフラー子がテレポートできる場所を全て訪れる"
     },
     "desert_block_world": {
-      "name": "From Block to Mono",
-      "condition": "Visit White Desert A from Block World"
+      "name": "ブロックから白黒へ",
+      "condition": "ブロックの世界から白黒世界に行く"
     }
   },
   "2kki": {
@@ -4154,6 +4154,66 @@
       "name": "一人で座ってる女の子",
       "description": "私の小さな歌を聴いて！",
       "condition": "緑の港町にいる少女の隣に座り、彼女の歌を聴く"
+    },
+    "bird_cuckoo_skyline": {
+      "name": "Free Bird",
+      "description": "The sky's the limit!",
+      "condition": "See the mechanical bird at Cuckoo Skyline Express"
+    },
+    "cat_spiked_fence_garden": {
+      "name": "Kitty-clops",
+      "description": "Mrreow!~",
+      "condition": "Howl at the cat on the wall in Spiked Fence Garden"
+    },
+    "sweet_medical_utopia": {
+      "name": "Sweettopia.exe",
+      "description": "Welcome to this wonderful, cute hospital!",
+      "condition": "Visit Sweet Medical Utopia"
+    },
+    "novaflow_mask_balloon": {
+      "name": "Go with the Flow",
+      "description": "A silly machine!",
+      "condition": "Equip the NovAflow mask in Balloon Park"
+    },
+    "mountains_repentance": {
+      "name": "Repose amidst Grief",
+      "description": "A rather peaceful scene for a place like this...",
+      "condition": "Visit the Twin Mountains view in Graveyard of Repentance"
+    },
+    "cakegirl_cheese_mount": {
+      "name": "CheeseCAKE",
+      "description": "A proper cheese to cake ratio!",
+      "condition": "Equip the Cake effect near Cheesecake Girl on the Cheesecake Mountain"
+    },
+    "tree_concrete_world": {
+      "name": "The Laughing Tree",
+      "description": "What's so funny?",
+      "condition": "Interact with the laughing tree in Concrete World"
+    },
+    "croco_golf_district": {
+      "name": "Little Golfing Nap",
+      "description": "Dreaming of a hole in one",
+      "condition": "Wake up the crocodile in Breezy Golfing District"
+    },
+    "anetra_rave_pinwheel": {
+      "name": "Blood Rave",
+      "description": "How should I react, under this attack? Danger here, danger there, nowhere to escape to and nobody to hear.",
+      "condition": "Trigger Anetra's Rave in Pinwheel Countryside"
+    },
+    "teru_grilled_octopus": {
+      "name": "Charred Octopus",
+      "description": "That's a bit more than well done...",
+      "condition": "Use the Teru Teru Bōzu effect in Grilled Octopus World"
+    },
+    "morning_suburbs": {
+      "name": "Another Day",
+      "description": "Good morning, world.",
+      "condition": "Visit Morning Suburbs"
+    },
+    "cornelius_bloom": {
+      "name": "Gnomed!",
+      "description": "I'M A GNOME AND YOU'VE BEEN GNOMED!!!!!!!!",
+      "condition": "Interact with Cornelius in Bloom 99"
     }
   },
   "unconscious": {
@@ -4542,6 +4602,64 @@
       "name": "Lag Ride",
       "description": "I'll take a ride on the train ride",
       "condition": "Trigger the Train Ride event in Train Station"
+    },
+    "cosmic_horror": {
+      "name": "Celestial Horrors",
+      "description": "Curiosity is a treacherous thing.",
+      "condition": "Trigger the Cosmic Horror event in Celestial Platforms"
+    },
+    "moon_snowy_world": {
+      "name": "Snowy Night",
+      "condition": "Look up at the moon in Snowy World"
+    },
+    "house_bright_cloud": {
+      "name": "Butterfleye",
+      "description": "Cast away in the space between then and now",
+      "condition": "Reach the house in Bright Cloud Zone"
+    },
+    "figure_burning_building": {
+      "name": "Slow Burn",
+      "condition": "Witness the Figure in the Flames event at the front of the Burning Building"
+    },
+    "night_train_station": {
+      "name": "Missed the Train",
+      "description": "3.9% chance for you to have missed the train, how unlucky are you???",
+      "condition": "Trigger the Night Train event in Train Station"
+    },
+    "pathway_rgb_sewers": {
+      "name": "Bufotoxin",
+      "description": "Who knew these frogs could be so... unnerving.",
+      "condition": "Enter the glitched pathway in RGB Sewers"
+    },
+    "cat_septic_rodentia": {
+      "name": "Nyam Nyam Nyam",
+      "description": "I thought you would be friendly!",
+      "condition": "Interact with the cat in Septic while using the Rodentia eidolon"
+    },
+    "bunny_wisteria_grove": {
+      "name": "Graffiti Bunnies",
+      "description": "This would make for a great picnic spot! I just wish I'd brought food for the bunnies too...",
+      "condition": "See the bunny graffiti in Wisteria Grove"
+    },
+    "hadie_brut_warehouse": {
+      "name": "Brutalist Breaktime",
+      "description": "I left my lighter at home...",
+      "condition": "Use the Soulfire eidolon to light Hadie's cigarette in Brutalist Warehouse"
+    },
+    "prisoner_glass_cathedral": {
+      "name": "Prison of Glass",
+      "description": "Sealed away, bound by starry shackles...",
+      "condition": "Find the Celestial Prisoner in Glass Cathedral"
+    },
+    "realistic_field_all": {
+      "name": "Landscape of Cryptids",
+      "description": "Flowering fields and tentacled beasts",
+      "condition": "Visit all of the areas in Realistic Field"
+    },
+    "phanton_wisteria_grove": {
+      "name": "The Phantom Last Dance",
+      "description": "Don't let your wings remain down little ghost, there is still a whole dance ahead.",
+      "condition": "Find the Wisteria Phantom in Wisteria Grove"
     }
   },
   "flow": {
@@ -6029,9 +6147,9 @@
       "condition": "Old Arcadeにいる追いかけにメリケンサックを使って話しかける"
     },
     "monochrome_pixel_room": {
-      "name": "Manifested Fatigue",
-      "description": "Clock hands never lie",
-      "condition": "Enter the Monochrome Pixel Room"
+      "name": "明示される正気度",
+      "description": "時計の針はうそをつかない",
+      "condition": "Monochrome Pixel Roomに到達する"
     }
   },
   "ultraviolet": {
@@ -6426,9 +6544,9 @@
       "condition": "Oil Worldの巨大な猫にTuning Fork effectを使う"
     },
     "snail_pool_world": {
-      "name": "Friends of the Pool",
-      "description": "Do you think these guys roll into each other for fun?",
-      "condition": "Interact with any pool snail creature in Pool World"
+      "name": "プールで会えるともだち",
+      "description": "この子たちは面白半分でビリヤードしてると思う？",
+      "condition": "Pool Worldにいる緑のカタツムリに話しかける"
     }
   },
   "tsushin": {
