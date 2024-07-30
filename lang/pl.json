@@ -637,51 +637,51 @@
       "condition": "Zakończ wydarzenie High Priestess bez zostania złapanym ani raz"
     },
     "snow_queen": {
-      "name": "Snow Queen",
-      "condition": "Collect 50 tiny floating snowflakes"
+      "name": "Królowa Śniegu",
+      "condition": "Zbierz 50 małych latających płatków śniegu"
     },
     "portrait": {
-      "name": "The Portrait",
-      "condition": "Complete the Lorn Tower portrait"
+      "name": "Portret",
+      "condition": "Zakończ portret w Lorn Tower"
     },
     "vending_machine": {
-      "name": "Vending Machine",
-      "condition": "Complete and visit the Snack Gallery"
+      "name": "Automat",
+      "condition": "Zakończ i zawizytuj Snack Gallery"
     },
     "piggy_bank": {
-      "name": "Silver Member",
-      "description": "Rich",
-      "condition": "Deposit 10000夢 in the Dream Bank"
+      "name": "Srebrny Członek",
+      "description": "Bogactwo",
+      "condition": "Wpłać 10000夢 w Dream Bank"
     },
     "piggy_bank_gold": {
-      "name": "Gold Member",
-      "description": "Very rich",
-      "condition": "Deposit 100000夢 in the Dream Bank"
+      "name": "Złoty Członek",
+      "description": "Ogromne Bogactwo",
+      "condition": "Wpłać 100000夢 w Dream Bank"
     },
     "piggy_bank_vip": {
-      "name": "Millionaire",
+      "name": "Milioner",
       "description": "V.I.P.",
-      "condition": "Deposit 999999夢 in the Dream Bank"
+      "condition": "Wpłać 999999夢 w Dream Bank"
     },
     "clover": {
-      "name": "Pale-Crimson Clover",
-      "description": "Best of luck...",
-      "condition": "Reach Gallery Of Me"
+      "name": "Blado-Czerwona Koniczyna",
+      "description": "Powodzenia...",
+      "condition": "Dojdź do Gallery Of Me"
     },
     "pacifist": {
-      "name": "Pacifist",
-      "description": "Nobody has to die",
-      "condition": "See the Ending ? without killing anyone"
+      "name": "Pacyfista",
+      "description": "Nikt nie musi umrzeć",
+      "condition": "Zobacz zakończenie #? bez zabijania kogokolwiek"
     },
     "ticket": {
-      "name": "Ticket",
-      "description": "To the skyline!",
-      "condition": "See the Ending #4. If you have already watched it, see it again from the Data menu of the computer."
+      "name": "Bilet",
+      "description": "Do niebios!",
+      "condition": "Zobacz Zakończenie #4. Jeżeli już zostało wyświetlone, oglądnij je za pomocą menu komputera."
     },
     "graffiti": {
-      "name": "The Farthest",
-      "description": "She is still dreaming to this day...",
-      "condition": "View all the endings and reach the farthest room of Urotsuki's dream world"
+      "name": "Najdalsze",
+      "description": "Ona śpi nawet teraz...",
+      "condition": "Zobacz wszystkie zakończenia i odwiedź najgłębszą lokalizacje świata snów Urotsuki"
     },
     "rby": {
       "name": "R.B.Y.",
@@ -3142,7 +3142,7 @@
     "starry_lake_grove": {
       "name": "Starry Lake",
       "description": "Taking a stroll during a beautiful night...",
-      "condition": "Reveal the starry sky on the the crescent moon-shaped lake in Nocturnal Grove"
+      "condition": "Reveal the starry sky on the crescent moon-shaped lake in Nocturnal Grove"
     },
     "blue_steak": {
       "name": "Blue Steak",
@@ -4210,6 +4210,51 @@
       "name": "Gnomed!",
       "description": "I'M A GNOME AND YOU'VE BEEN GNOMED!!!!!!!!",
       "condition": "Interact with Cornelius in Bloom 99"
+    },
+    "secret_society_president": {
+      "name": "Pray for my Daughter",
+      "description": "When I got lost, you were gone.",
+      "condition": "Interact with the Secret Society's president kneeling in front of a water tank"
+    },
+    "beniko_thumbtack": {
+      "name": "Stray for my Soul",
+      "description": "When I got lost, you were there for me.",
+      "condition": "Interact with Beniko at the edge of the cliff of Thumbtack World"
+    },
+    "aiko_dream_pool_int": {
+      "name": "Eye",
+      "description": "I can feel her eye on me.",
+      "condition": "Interact with Aiko in Dream Pool"
+    },
+    "secret_room_neon_apt": {
+      "name": "My sweet...",
+      "description": "Did you think you could escape?",
+      "condition": "Reach the forbidden room in the Neon Apartment of the Pleasure Street"
+    },
+    "bed_lighthouse_himalayan": {
+      "name": "Sweet Girl, Salty Sea",
+      "description": "I hope her cooking isn't TOO salty...",
+      "condition": "Sleep in the lighthouse in Himalayan Salt Shoal"
+    },
+    "hakogone_visine_world": {
+      "name": "Ommetaphobia",
+      "description": "After all, were the eye drops supposed to prevent something worse from happening?",
+      "condition": "Find the new occupant of Hakoko's box in the Eye Shop of Visine World after making her be gone"
+    },
+    "overgrown_gate": {
+      "name": "Eden",
+      "description": "The gates of the \"Garden\"",
+      "condition": "Visit Overgrown Gate"
+    },
+    "robot_hand_hub": {
+      "name": "Anomalous Entity Protocol",
+      "description": "ENGAGING LIFEFORM SCANNING INTERFACE.",
+      "condition": "Use the Marginal or Polygon effect near the white robot in The Hand Hub"
+    },
+    "jade_block_mounds": {
+      "name": "Cubes of Jade",
+      "description": "Trade them for staircases!!",
+      "condition": "Enter Jade Block Mounds"
     }
   },
   "unconscious": {
@@ -4416,7 +4461,7 @@
     "death_field_buried_memory": {
       "name": "A Gruesome Fate",
       "description": "Who could've done this to you?",
-      "condition": "Interact the the electric pylon in Field of Buried Memory "
+      "condition": "Interact with the electric pylon in Field of Buried Memory"
     },
     "bed_hometown": {
       "name": "A Nostalgic Night",
@@ -4656,6 +4701,46 @@
       "name": "The Phantom Last Dance",
       "description": "Don't let your wings remain down little ghost, there is still a whole dance ahead.",
       "condition": "Find the Wisteria Phantom in Wisteria Grove"
+    },
+    "minna_punish_mono_msl": {
+      "name": "Futile Struggle",
+      "description": "One must imagine Minna happy",
+      "condition": "Trigger the Minnatsuki's Punishment event in the Monochrome Mausoleum"
+    },
+    "laptop_tragic_dimension": {
+      "name": "Blurryface",
+      "description": "The ghost of you is close to me...",
+      "condition": "Interact with the laptop in Tragic Dimension"
+    },
+    "snail_mossy_aquarium": {
+      "name": "Shell Friend",
+      "description": "Welcome to my little shellter",
+      "condition": "Interact with the snail fella in Moss Aquarium"
+    },
+    "angel_flower_valley_apt": {
+      "name": "Seraphic Roomie",
+      "description": "I've got my Eye on you, Dear.",
+      "condition": "Interact with Angel in Flower Valley Apartments"
+    },
+    "tatami_galaxy": {
+      "name": "Constellation of Lanterns",
+      "description": "Glowing memories.",
+      "condition": "Visit Tatami Galaxy"
+    },
+    "graffiti_ruminating_mdws": {
+      "name": "Her Eyes",
+      "description": "Spending the days ruminating of a future that could have been.",
+      "condition": "See the eye graffiti in Ruminating Meadows using an altered sight eidolon"
+    },
+    "dress_smiling_pen_office": {
+      "name": "Minna in Black",
+      "description": "PROFITS!!!",
+      "condition": "Wear the suit in Smiling Pen Office"
+    },
+    "wanderer_flower_vly_apt": {
+      "name": "A Girl's Rest",
+      "description": "Oh hey, I've seen you before! Um... Were you... Minnatsuki?",
+      "condition": "Find the Wanderer on her balcony in Flower Valley Apartments"
     }
   },
   "flow": {
@@ -4832,6 +4917,11 @@
     "rust_ending": {
       "name": "Oxidation",
       "condition": "See the Rust Ending"
+    },
+    "cleaner_sugar_hole": {
+      "name": "Gentle Cleaner",
+      "description": "A sugary welcome",
+      "condition": "Compliment the Cleaner with the Dress effect in Sugar Hole"
     }
   },
   "prayers": {
@@ -4929,6 +5019,11 @@
       "name": "Urameshiya!!",
       "description": "A spooky friend resides in the shrine's corner...",
       "condition": "Interact with the kasa-obake in the Miko Shrine"
+    },
+    "chimiko_shrine_anger": {
+      "name": "Tainted Shrine",
+      "description": "You mess with one of us, you mess with all of us",
+      "condition": "Anger all of the Chimikos in Miko Shrine"
     }
   },
   "deepdreams": {
@@ -5118,6 +5213,11 @@
     "dd_ending_3": {
       "name": "Above Horizon",
       "condition": "See the Ending #3"
+    },
+    "metallic_abandoned_lab": {
+      "name": "Bee Boo-Boo Bop, Boo-Boo Beep!",
+      "description": "Bee-boo-boo, boo-boo-bop? Bee-boo-boo-bop? Boo-boo-bee-bop? Not \"bee-boo-boo-beep\"? Bop? Beep? Boo-boo-bop! ",
+      "condition": "Obtain the Metallic alter. If you have already unlocked it, return to the Abandoned Lab."
     }
   },
   "someday": {
@@ -5480,6 +5580,11 @@
       "name": "Caged Beauty",
       "description": "She's caught up in the colors",
       "condition": "See the large woman encased in glass at the back of the Hotel"
+    },
+    "creature_void_murals": {
+      "name": "A Cold Bloody Figure",
+      "description": "You could use a warm healing.",
+      "condition": "See the injured bloody creature in Void Murals"
     }
   },
   "braingirl": {
@@ -6289,6 +6394,16 @@
     "uv_egg_effect": {
       "name": "Green Eggs and...",
       "condition": "Obtain the Egg effect. If you have already unlocked it, return to the Pinkish Continent."
+    },
+    "girl_old_storehouse": {
+      "name": "Doll Unboxing",
+      "description": "Aww, she's just shy!",
+      "condition": "See and attract the blonde girl outside of her box using the Ribbon or Cake effect in Old Storehouse World"
+    },
+    "emerald_square": {
+      "name": "Emerald Church",
+      "description": "A key point of the events",
+      "condition": "Visit Emerald Square"
     }
   },
   "sheawaits": {
@@ -6677,6 +6792,11 @@
       "name": "Ancient Gear Drink",
       "description": "A drink of high value!",
       "condition": "Visit the bar in Ancient Civilization"
+    },
+    "microwave_library": {
+      "name": "Microwave",
+      "description": "Oops! Looks like the pudding is kneaded.",
+      "condition": "Obtain the Microwave effect. If you have already unlocked it, return to the Library."
     }
   },
   "nostalgic": {
