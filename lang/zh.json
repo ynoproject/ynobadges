@@ -4210,6 +4210,51 @@
       "name": "Gnomed!",
       "description": "I'M A GNOME AND YOU'VE BEEN GNOMED!!!!!!!!",
       "condition": "在Bloom 99与Cornelius互动"
+    },
+    "secret_society_president": {
+      "name": "Pray for my Daughter",
+      "description": "When I got lost, you were gone.",
+      "condition": "Interact with the Secret Society's president kneeling in front of a water tank"
+    },
+    "beniko_thumbtack": {
+      "name": "Stray for my Soul",
+      "description": "When I got lost, you were there for me.",
+      "condition": "Interact with Beniko at the edge of the cliff of Thumbtack World"
+    },
+    "aiko_dream_pool_int": {
+      "name": "Eye",
+      "description": "I can feel her eye on me.",
+      "condition": "Interact with Aiko in Dream Pool"
+    },
+    "secret_room_neon_apt": {
+      "name": "My sweet...",
+      "description": "Did you think you could escape?",
+      "condition": "Reach the forbidden room in the Neon Apartment of the Pleasure Street"
+    },
+    "bed_lighthouse_himalayan": {
+      "name": "Sweet Girl, Salty Sea",
+      "description": "I hope her cooking isn't TOO salty...",
+      "condition": "Sleep in the lighthouse in Himalayan Salt Shoal"
+    },
+    "hakogone_visine_world": {
+      "name": "Ommetaphobia",
+      "description": "After all, were the eye drops supposed to prevent something worse from happening?",
+      "condition": "Find the new occupant of Hakoko's box in the Eye Shop of Visine World after making her be gone"
+    },
+    "overgrown_gate": {
+      "name": "Eden",
+      "description": "The gates of the \"Garden\"",
+      "condition": "Visit Overgrown Gate"
+    },
+    "robot_hand_hub": {
+      "name": "Anomalous Entity Protocol",
+      "description": "ENGAGING LIFEFORM SCANNING INTERFACE.",
+      "condition": "Use the Marginal or Polygon effect near the white robot in The Hand Hub"
+    },
+    "jade_block_mounds": {
+      "name": "Cubes of Jade",
+      "description": "Trade them for staircases!!",
+      "condition": "Enter Jade Block Mounds"
     }
   },
   "unconscious": {
@@ -4656,6 +4701,46 @@
       "name": "亡灵的最后一舞",
       "description": "小阿飘，别耷拉着翅膀啦，待会还要跳一整支舞呢。",
       "condition": "在Wisteria Grove找到Wisteria Phantom"
+    },
+    "minna_punish_mono_msl": {
+      "name": "Futile Struggle",
+      "description": "One must imagine Minna happy",
+      "condition": "Trigger the Minnatsuki's Punishment event in the Monochrome Mausoleum"
+    },
+    "laptop_tragic_dimension": {
+      "name": "Blurryface",
+      "description": "The ghost of you is close to me...",
+      "condition": "Interact with the laptop in Tragic Dimension"
+    },
+    "snail_mossy_aquarium": {
+      "name": "Shell Friend",
+      "description": "Welcome to my little shellter",
+      "condition": "Interact with the snail fella in Moss Aquarium"
+    },
+    "angel_flower_valley_apt": {
+      "name": "Seraphic Roomie",
+      "description": "I've got my Eye on you, Dear.",
+      "condition": "Interact with Angel in Flower Valley Apartments"
+    },
+    "tatami_galaxy": {
+      "name": "Constellation of Lanterns",
+      "description": "Glowing memories.",
+      "condition": "Visit Tatami Galaxy"
+    },
+    "graffiti_ruminating_mdws": {
+      "name": "Her Eyes",
+      "description": "Spending the days ruminating of a future that could have been.",
+      "condition": "See the eye graffiti in Ruminating Meadows using an altered sight eidolon"
+    },
+    "dress_smiling_pen_office": {
+      "name": "Minna in Black",
+      "description": "PROFITS!!!",
+      "condition": "Wear the suit in Smiling Pen Office"
+    },
+    "wanderer_flower_vly_apt": {
+      "name": "A Girl's Rest",
+      "description": "Oh hey, I've seen you before! Um... Were you... Minnatsuki?",
+      "condition": "Find the Wanderer on her balcony in Flower Valley Apartments"
     }
   },
   "flow": {
@@ -4832,6 +4917,11 @@
     "rust_ending": {
       "name": "氧化",
       "condition": "见证Rust结局"
+    },
+    "cleaner_sugar_hole": {
+      "name": "Gentle Cleaner",
+      "description": "A sugary welcome",
+      "condition": "Compliment the Cleaner with the Dress effect in Sugar Hole"
     }
   },
   "prayers": {
@@ -4929,6 +5019,11 @@
       "name": "我好恨呀！！！",
       "description": "一个恐怖的小伙伴住在神社的角落……",
       "condition": "调查Miko Shrine的唐伞妖怪"
+    },
+    "chimiko_shrine_anger": {
+      "name": "Tainted Shrine",
+      "description": "You mess with one of us, you mess with all of us",
+      "condition": "Anger all of the Chimikos in Miko Shrine"
     }
   },
   "deepdreams": {
@@ -5118,6 +5213,11 @@
     "dd_ending_3": {
       "name": "地平线之上",
       "condition": "见证结局#3"
+    },
+    "metallic_abandoned_lab": {
+      "name": "Bee Boo-Boo Bop, Boo-Boo Beep!",
+      "description": "Bee-boo-boo, boo-boo-bop? Bee-boo-boo-bop? Boo-boo-bee-bop? Not \"bee-boo-boo-beep\"? Bop? Beep? Boo-boo-bop! ",
+      "condition": "Obtain the Metallic alter. If you have already unlocked it, return to the Abandoned Lab."
     }
   },
   "someday": {
@@ -5480,6 +5580,11 @@
       "name": "笼中美人",
       "description": "She's caught up in the colors",
       "condition": "在Hotel背面看到玻璃箱里的巨大女人"
+    },
+    "creature_void_murals": {
+      "name": "A Cold Bloody Figure",
+      "description": "You could use a warm healing.",
+      "condition": "See the injured bloody creature in Void Murals"
     }
   },
   "braingirl": {
@@ -6289,6 +6394,16 @@
     "uv_egg_effect": {
       "name": "绿色的蛋和……",
       "condition": "在Pink Continent获得蛋效果"
+    },
+    "girl_old_storehouse": {
+      "name": "Doll Unboxing",
+      "description": "Aww, she's just shy!",
+      "condition": "See and attract the blonde girl outside of her box using the Rabbit or Cake effect in Old Storehouse World"
+    },
+    "emerald_square": {
+      "name": "Emerald Church",
+      "description": "A key point of the events",
+      "condition": "Visit Emerald Square"
     }
   },
   "sheawaits": {
@@ -6677,6 +6792,11 @@
       "name": "Ancient Gear Drink",
       "description": "高价饮料！",
       "condition": "到达Ancient Civilization的酒吧"
+    },
+    "microwave_library": {
+      "name": "Microwave",
+      "description": "Oops! Looks like the pudding is kneaded.",
+      "condition": "Obtain the Microwave effect. If you have already unlocked it, return to the Library."
     }
   },
   "nostalgic": {
