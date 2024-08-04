@@ -1262,7 +1262,7 @@
       "description": "Always be punctual!",
       "condition": "Find and approach the clock poles in Garden World (night), Blue Forest, Botanical Garden (2), Sculpture Park, Twilight Park, Monochrome School, Sunrise Road, Pure White Lands and Critter Village",
       "checkbox": {
-        "garden_world_clock_pole": "Garden World",
+        "garden_world_clock_pole": "Garden World (night)",
         "blue_forest_clock_pole": "Blue Forest",
         "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "Botanical Garden (2)",
         "sculpture_park_clock_pole": "Sculpture Park",
@@ -2560,7 +2560,7 @@
       "checkbox": {
         "zalgo_magnet_room": "Magnet Room",
         "zalgo_train_tracks": "Train Tracks",
-        "zalgo_atelier": "the Atelier",
+        "zalgo_atelier": "Atelier",
         "zalgo_character": "Restored Character World"
       }
     },
@@ -3248,7 +3248,7 @@
       "description": "Yummy sugar...",
       "condition": "Visit the following confection-themed locations: Chocolate World, Cutlery World, Sugar World (including the Sugary Depths), Candy Cane Fields, Ice Cream Dream, Cube of Sweets, Chocolate Tower, Dessert Fields (main area)",
       "checkbox": {
-        "sugary_depths": "the Sugary Depths",
+        "sugary_depths": "Sugary Depths",
         "sugar_world": "Sugar World",
         "candy_cane_fields": "Candy Cane Fields",
         "ice_cream_dream": "Ice Cream Dream",
@@ -3894,8 +3894,9 @@
       "description": "Are these scourges of a perturbation monsters or signs? Are you a tool of fate or a witness to a disaster?",
       "condition": "Chainsaw the red monsters in Wooded Lakeside, Kaleidoscope World, Streetlight Docks, Critter Village (Hexagonal Pillar Passage), Pure White Lands",
       "checkbox": {
-        "wooded_lakeside_1_monster|wooded_lakeside_2_monster": "Wooded Lakeside: Wooded Lakeside A",
-        "hexa_pillar_passage_monster|kaleidscope_world_monster": "Critter Village (Hexagonal Pillar Passage)",
+        "wooded_lakeside_1_monster|wooded_lakeside_2_monster": "Wooded Lakeside",
+        "hexa_pillar_passage_monster": "Critter Village (Hexagonal Pillar Passage)",
+        "kaleidscope_world_monster": "Kaleidoscope World",
         "streetlight_docks_monster": "Streetlight Docks",
         "pure_white_lands_monster": "Pure White Lands"
       }
@@ -5122,7 +5123,7 @@
       "name": "Orange Experiments",
       "condition": "Visit the rooms in the Orange Maze, the Orange Passage, and the Orange Laboratory containing test tubes",
       "checkbox": {
-        "orange_maze": "Orange Maze",
+        "orange_maze": "the rooms in the Orange Maze",
         "orange_passage": "the Orange Passage",
         "orange_laboratory": "the Orange Laboratory containing test tubes"
       }
@@ -7184,7 +7185,7 @@
       "condition": "See the hat frog in Old Apartment Building and at the Beach",
       "checkbox": {
         "frog_hat_building": "Old Apartment Building",
-        "frog_hat_beach": "at the Beach"
+        "frog_hat_beach": "Beach"
       }
     },
     "planet_scream_maze": {

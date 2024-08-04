@@ -966,7 +966,7 @@
     "dream_fishing": {
       "name": "Peixe Gamer",
       "description": "Este parece ser um dos grandes",
-      "condition": "Visite Ocean Subsurface, Rotten Fish Lake, Fish World, Tuna Desert, Sushi World, Flying Fish World, Lamplit Stones, Streetlight Docks, Depths e Bioluminescent Caverns",
+      "condition": "Visite Ocean Subsurface, Rotten Fish Lake, Fish World, Tuna Desert, Sushi World, Flying Fish World, Lamplit Stones, Streetlight Docks, Depths e Bioluminescent Cavern",
       "checkbox": {
         "ocean_subsurface": "Ocean Subsurface",
         "rotten_fish_lake": "Rotten Fish Lake",
@@ -1292,7 +1292,7 @@
       "description": "Seja sempre pontual!",
       "condition": "Encontre e aproxime-se dos postes de relógio em Garden World (Dia), Blue Forest, Botanical Garden (2), Sculpture Park, Twilight Park, Monochrome School, Sunrise Road, Pure White Lands e Critter Village",
       "checkbox": {
-        "garden_world_clock_pole": "Garden World",
+        "garden_world_clock_pole": "Garden World (Dia)",
         "blue_forest_clock_pole": "Blue Forest",
         "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "Botanical Garden",
         "sculpture_park_clock_pole": "Sculpture Park",
@@ -2601,7 +2601,7 @@
       "name": "Z̴̜̬̈́͐̒̄͑̃͛̄̊̕͝Ạ̶̭̮̰̯̱̠̠͖̜̲̯̈́̃͌͑̚͘ͅL̵̡̡̡͓͚̖̗̙̹̲̻̝͚̒͒͌G̷̝̜̦̱̠̝̮̲̺̝̽̓͜Ŏ̷͈́̔̚̕̕͝",
       "condition": "Encontre Zalgo na Magnet Room, nos Train Tracks, no Atelier e no Restored Character World.",
       "checkbox": {
-        "zalgo_magnet_room": "Magnet Room: Zalgo's Room",
+        "zalgo_magnet_room": "Magnet Room",
         "zalgo_train_tracks": "Train Tracks",
         "zalgo_atelier": "Atelier",
         "zalgo_character": "Restored Character World"
@@ -3295,7 +3295,7 @@
       "description": "Açúcar gostoso...",
       "condition": "Visite os seguintes locais temáticos de confeitaria: Chocolate World, Cutlery World, Sugar World (incluindo o Sugary Depths), Candy Cane Fields, Ice Cream Dream, Cube of Sweets, Chocolate Tower e Dessert Fields (área principal)",
       "checkbox": {
-        "sugary_depths": "Sugar World: Sugary Depths",
+        "sugary_depths": "Sugary Depths",
         "sugar_world": "Sugar World",
         "candy_cane_fields": "Candy Cane Fields",
         "ice_cream_dream": "Ice Cream Dream",
@@ -3939,8 +3939,9 @@
       "description": "Esses flagelos de uma perturbação são monstros ou sinais? Você é uma ferramenta do destino ou uma testemunha de um desastre?",
       "condition": "Motosserre os monstros vermelhos de Wooded Lakeside, Kaleidoscope World, Streetlight Docks, Critter Village (Hexagonal Pillar Passage), Pure White Lands",
       "checkbox": {
-        "wooded_lakeside_1_monster|wooded_lakeside_2_monster": "Wooded Lakeside: Wooded Lakeside A",
-        "hexa_pillar_passage_monster|kaleidscope_world_monster": "Critter Village: Hexagonal Pillar Passage",
+        "wooded_lakeside_1_monster|wooded_lakeside_2_monster": "Wooded Lakeside",
+        "hexa_pillar_passage_monster|": "Critter Village (Hexagonal Pillar Passage)",
+        "kaleidscope_world_monster": "Kaleidoscope World",
         "streetlight_docks_monster": "Streetlight Docks",
         "pure_white_lands_monster": "Pure White Lands"
       }
@@ -5171,7 +5172,7 @@
       "name": "Experimentos Orange",
       "condition": "Visite os quartos do Orange Maze, O Orange Passage e o Orange Laboratory contendo tubos de ensaio",
       "checkbox": {
-        "orange_maze": "Orange Maze",
+        "orange_maze": "os quartos do Orange Maze",
         "orange_passage": "Orange Passage",
         "orange_laboratory": "Orange Laboratory"
       }
