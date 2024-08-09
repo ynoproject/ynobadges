@@ -367,11 +367,6 @@
       "name": "湖回廊",
       "condition": "分别抵达Docks的两个区域。"
     },
-    "thunder_oni": {
-      "name": "雨啊, 雨啊, 快停下",
-      "description": "后会有期!",
-      "condition": "在 Dense Woods A 使用鬼效果招雷。"
-    },
     "ghostly_assembly": {
       "name": "幽灵集会",
       "description": "各显神通。",
@@ -1484,11 +1479,6 @@
       "description": "别演了",
       "condition": "关闭Liar卧室的电灯"
     },
-    "the_assistant": {
-      "name": "得力助手",
-      "description": "别乱碰！",
-      "condition": "使潜水艇外壳变得透明"
-    },
     "surimuki": {
       "name": "擦伤娘",
       "description": "\"被擦伤了。\"",
@@ -1723,10 +1713,6 @@
       "description": "当个熊孩子",
       "condition": "玩弄铃铛，气坏店长。"
     },
-    "myriad_blossoms": {
-      "name": "繁花似锦",
-      "condition": "从 Shinto Shrine 抵达 Sakura Path"
-    },
     "urotsuki_pendant": {
       "name": "记忆吊坠",
       "description": "\"我\" 在这里",
@@ -1759,11 +1745,6 @@
       "description": "广厦虚景不再，唯有黯淡苍穹。遂合目，爆睡之。",
       "condition": "初次抵达Rainy Apartments"
     },
-    "researcher_lover": {
-      "name": "爱之公式",
-      "description": "解开真相的密钥",
-      "condition": "与 Space Construction Site 的 NPC 互动"
-    },
     "techno_karaoke": {
       "name": "Techno Karaoke",
       "description": "* 一场小狂欢 *",
@@ -1778,11 +1759,6 @@
       "description": "愿花儿改变世界",
       "condition": "在Pure White Land看到其庭院的两种版本"
     },
-    "windswept_souls": {
-      "name": "大漠孤魂",
-      "description": "这外面还有什么？",
-      "condition": "在高塔上眺望荒漠"
-    },
     "starry_night": {
       "name": "星月夜",
       "description": "在这明亮的光芒之下，今夜的你是如此美丽……",
@@ -1791,10 +1767,6 @@
     "victorian_festival": {
       "name": "缤纷庆典",
       "condition": "造访 Victorian Drains 的 Carnival Town。"
-    },
-    "rainbow_clock": {
-      "name": "昔日之乐",
-      "condition": "在 Rainbow Silhouette World 看一下时间。"
     },
     "from_behind": {
       "name": "霓虹之影",
@@ -1821,11 +1793,6 @@
       "name": "舞女王",
       "description": "长夜伊始，歌舞不绝！",
       "condition": "在 Forest Pier 看眼珠跳舞。"
-    },
-    "fishy_friends": {
-      "name": "游者相乐",
-      "description": "水母时间！",
-      "condition": "进入 Overgrown City 的水族馆。"
     },
     "sunbeam_industrial": {
       "name": "日光",
@@ -2057,14 +2024,6 @@
       "name": "花鸟风月",
       "condition": "初次抵达Cherry Blossom Park"
     },
-    "turtle_pond": {
-      "name": "龟池",
-      "condition": "初次抵达 Handheld Game Pond"
-    },
-    "bodhisattva_glasses": {
-      "name": "菩提萨婆诃",
-      "condition": "在Museum透过眼镜调查佛像"
-    },
     "other_dreamer": {
       "name": "串门",
       "description": "遭到暗灵 Urotsuki 入侵",
@@ -2168,23 +2127,6 @@
       "description": "指针与怀表的命脉",
       "condition": "拜访Aureate Clockworks"
     },
-    "bittersweet_love": {
-      "name": "甜涩爱恋",
-      "description": "糖霜下的谎言",
-      "condition": "抵达 Celestial Night 的最深处"
-    },
-    "flower_queen": {
-      "name": "花皇",
-      "description": "梦寐以求的花束！",
-      "condition": "拜访 Flower Scent World、Field of Cosmos、Rapeseed Fields、Floral Crossroads 及 Rainbow's rose field 中的房屋",
-      "checkbox": {
-        "flower_scent_world": "Flower Scent World",
-        "field_of_cosmos": "Field of Cosmos",
-        "rapeseed_fields": "Rapeseed Fields",
-        "floral_crossroads": "Floral Crossroads",
-        "rainbhouse_flower_field": "虹家：薔薇畑"
-      }
-    },
     "takoyaki_dance": {
       "name": "章鱼烧圆舞",
       "description": "转啊转～",
@@ -2229,10 +2171,6 @@
       "name": "暗影之林",
       "description": "欢迎回来",
       "condition": "回到 Shadow Woman Forest."
-    },
-    "2kki_pleiades": {
-      "name": "昴宿星团",
-      "condition": "在 Grand Scientific Museum 的观星室中拨动开关"
     },
     "spring_breeze": {
       "name": "早春微风",
@@ -3882,10 +3820,6 @@
       "name": "漆点疼痛",
       "condition": "解决Paint Blot Path的谜题"
     },
-    "amorphous_uro_room": {
-      "name": "它潜伏着",
-      "condition": "被Amorphous Maroon Space的剪影房间里的涂鸦生物抓住"
-    },
     "horror_maze_end": {
       "name": "外部行星",
       "condition": "成功通过Horror Maze"
@@ -3908,10 +3842,6 @@
     "stellar_park_tt": {
       "name": "飞驰在月光照耀的天空下",
       "condition": "在计时模式用{TIME}内到达Celestial Night的Stellar Park"
-    },
-    "2kki_wolf_effect": {
-      "name": "沙堡与海风",
-      "condition": "调查White Beach的狼男孩Ookami"
     },
     "2kki_marginal_effect": {
       "name": "可爱又可憎之物",
@@ -5773,10 +5703,6 @@
       "description": "欢迎回来。",
       "condition": "由 Nexus 进入Black Lace世界。"
     },
-    "serene_flowers": {
-      "name": "静谧芙蕖",
-      "condition": "进入 Dark Town 的阳台。"
-    },
     "marina_bathhouse": {
       "name": "Marina",
       "condition": "找到 Bath House 的 Marina 然后趁机偷走眼镜旁的钱。"
@@ -6345,10 +6271,6 @@
     }
   },
   "amillusion": {
-    "calendar": {
-      "name": "四季",
-      "condition": "抵达四个季节下的扉部屋。"
-    },
     "syncopation": {
       "name": "切分音符",
       "condition": "拜访 Le Jazzy Train Bleu。"
@@ -6390,22 +6312,6 @@
       "description": "大雨如注的头脑风暴",
       "condition": "抵达 Sylphides' Playground。"
     },
-    "science_museum": {
-      "name": "进化",
-      "description": "干嘛不相信原子呢？万物都是由它们组成的呢！",
-      "condition": "参观 Science Museum 的每个展厅。",
-      "checkbox": {
-        "mechanics_hall": "Science Museum: Mechanics Hall",
-        "astronomy_hall": "Science Museum: Astronomy Hall",
-        "geology_hall": "Science Museum: Geology Hall",
-        "medicine_hall": "Science Museum: Medicine Hall"
-      }
-    },
-    "residential_prison": {
-      "name": "流浪行星",
-      "description": "广阔的空间内唯有我一人，还有那个奇怪的东西",
-      "condition": "被 Residential Corridor World 的安保人员关小黑屋。"
-    },
     "infinite_rooms_end": {
       "name": "这里怎么会有钻孔机？",
       "condition": "抵达 Infinite Rooms 的尽头。"
@@ -6415,15 +6321,6 @@
       "description": "向女祭司提出质疑。",
       "condition": "试图击杀 Believer's Temple 的女祭司。"
     },
-    "ski_hill_event": {
-      "name": "雪花落下的速度是秒速五厘米",
-      "description": "当然是我的速度更快！",
-      "condition": "完成Ski Hill事件。"
-    },
-    "versailles_abysses": {
-      "name": "海洋之心",
-      "condition": "在喷泉附近使用散热器钥匙释放冷气。"
-    },
     "mountain_peak": {
       "name": "观光者",
       "description": "一缕阳光温暖了冰封的心。",
@@ -6432,11 +6329,6 @@
     "distant_lights": {
       "name": "越过洋海",
       "condition": "抵达并欣赏 Distant Lights 的风光。"
-    },
-    "chicken_revenge": {
-      "name": "咕咕哒",
-      "description": "蛋黄砸你身上啦！",
-      "condition": "使用疯癫钥匙触发 Chicken Revenge 事件。"
     },
     "choco_lot": {
       "name": "我爱朱古力",
@@ -6565,11 +6457,6 @@
       "name": "实验",
       "description": "这都是谁啊？",
       "condition": "为实验室的所有试管注满水。"
-    },
-    "satiated_rabbit": {
-      "name": "Om nom nom",
-      "description": "吃饭乃兔生头等大事。",
-      "condition": "喂食 Isle of Seasons 的兔子。"
     },
     "sleep_paralysis_mare": {
       "name": "压床鬼",
