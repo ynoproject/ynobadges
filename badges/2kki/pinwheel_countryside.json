@@ -1,8 +1,12 @@
 {
   "group": "2_el",
   "bp": 20,
-  "reqType": "tag",
-  "reqString": "pinwheel_countryside",
+  "reqType": "tags",
+  "reqStrings": [
+    "pinwheel_countryside",
+    "pinwheel_countryside_b"
+  ],
+  "reqCount": 1,
   "map": 3125,
   "art": "GShovel & Pats",
   "animated": true,

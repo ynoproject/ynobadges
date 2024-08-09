@@ -362,11 +362,6 @@
       "name": "Docks",
       "condition": "Visit the two parts of the Docks"
     },
-    "thunder_oni": {
-      "name": "Rain, Rain, Go Away",
-      "description": "Come again another day!",
-      "condition": "Summon a clap of thunder and lightning using the Oni effect in the Dense Woods A"
-    },
     "ghostly_assembly": {
       "name": "Ghostly Assembly",
       "description": "Three of a kind.",
@@ -1435,11 +1430,6 @@
       "description": "I know what you are.",
       "condition": "Turn the light off in the Liar's bedroom"
     },
-    "the_assistant": {
-      "name": "The Assistant",
-      "description": "Don't touch that!",
-      "condition": "Make the submarine's outer shell visible"
-    },
     "surimuki": {
       "name": "Surimuki",
       "description": "\"I got scraped.\"",
@@ -1674,10 +1664,6 @@
       "description": "Be an insufferable pest",
       "condition": "Ring the bell and piss off the mask shopkeep"
     },
-    "myriad_blossoms": {
-      "name": "Myriad Blossoms",
-      "condition": "Reach the Sakura Path through Shinto Shrine"
-    },
     "urotsuki_pendant": {
       "name": "Pendant of Memories",
       "description": "\"I\" am here.",
@@ -1710,11 +1696,6 @@
       "description": "The young girl wakes up in a flash, and when she opens her eyes, she's about to face not the gorgeous virtual city of her dreams, but a bachelor apartment and a gray day",
       "condition": "Enter Rainy Apartments"
     },
-    "researcher_lover": {
-      "name": "Researcher Lover",
-      "description": "The truth will be revealed.",
-      "condition": "Interact with the researcher in the Space Construction Site"
-    },
     "techno_karaoke": {
       "name": "Techno Karaoke",
       "description": "* A small riot *",
@@ -1729,11 +1710,6 @@
       "description": "A flower can change the world",
       "condition": "View both of the White Garden versions in Pure White Lands"
     },
-    "windswept_souls": {
-      "name": "Windswept Souls",
-      "description": "What more is out there?",
-      "condition": "View the deserted land from one of the towers"
-    },
     "starry_night": {
       "name": "Starry Night",
       "description": "You look quite divine tonight, underneath these vibrant lights...",
@@ -1742,10 +1718,6 @@
     "victorian_festival": {
       "name": "Festival of Colors",
       "condition": "Enter the Carnival Town in the Victorian Drains"
-    },
-    "rainbow_clock": {
-      "name": "Happier Times",
-      "condition": "View the giant clock in Rainbow Silhouette World"
     },
     "from_behind": {
       "name": "The Shadow of Neon",
@@ -1772,11 +1744,6 @@
       "name": "Dancing Queen",
       "description": "Night is young & the music's high!",
       "condition": "View the Giant Dancing Eye in Forest Pier"
-    },
-    "fishy_friends": {
-      "name": "Fishy Friends",
-      "description": "Jellyfishing Time!",
-      "condition": "Enter the Aquarium in Overgrown City"
     },
     "sunbeam_industrial": {
       "name": "Sunbeams",
@@ -2002,18 +1969,10 @@
       "name": "Nature's Beauty",
       "condition": "Visit Cherry Blossom Park"
     },
-    "turtle_pond": {
-      "name": "Turtle Pond",
-      "condition": "Visit the Handheld Game Pond"
-    },
-    "bodhisattva_glasses": {
-      "name": "Bodhisattva",
-      "condition": "Interact with the Buddha Statue using the Glasses effect in Museum"
-    },
     "other_dreamer": {
       "name": "The Other Dreamer",
       "description": "Do you haunt my dreams, or I yours?",
-      "condition": "Visit the Second Nexus"
+      "condition": "Visit The Second Nexus"
     },
     "strawberry_broken_heart_cake": {
       "name": "Sweet Sea",
@@ -2113,23 +2072,6 @@
       "description": "Makin' clocks and watches work",
       "condition": "Visit Aureate Clockworks"
     },
-    "bittersweet_love": {
-      "name": "Bittersweet Love",
-      "description": "Sugar coated lies.",
-      "condition": "Reach the end of Celestial Night"
-    },
-    "flower_queen": {
-      "name": "Flower Queen",
-      "description": "My dream bouquet!",
-      "condition": "Visit Flower Scent World, Field of Cosmos, Rapeseed Fields, Floral Crossroads and House Over the Rainbow's rose field",
-      "checkbox": {
-        "flower_scent_world": "Flower Scent World",
-        "field_of_cosmos": "Field of Cosmos",
-        "rapeseed_fields": "Rapeseed Fields",
-        "floral_crossroads": "Floral Crossroads",
-        "rainbhouse_flower_field": "House Over the Rainbow's rose field"
-      }
-    },
     "takoyaki_dance": {
       "name": "Takoyaki Dance",
       "description": "Spiiiiin~",
@@ -2174,10 +2116,6 @@
       "name": "Shadow Forest",
       "description": "Why did you come back?",
       "condition": "Enter the Shadow Woman Forest"
-    },
-    "2kki_pleiades": {
-      "name": "The Pleiades",
-      "condition": "Flip the light switch in the Observatory Room in Grand Scientific Museum"
     },
     "spring_breeze": {
       "name": "Early Spring Breeze",
@@ -3812,10 +3750,6 @@
       "name": "Paint Blot Pain",
       "condition": "Solve the puzzle in Paint Blot Path"
     },
-    "amorphous_uro_room": {
-      "name": "It Lurks",
-      "condition": "Get caught by a scribble-like creature in the silhouette room of Amorphous Maroon Space"
-    },
     "horror_maze_end": {
       "name": "Outer Planet",
       "condition": "Successfully navigate through the Horror Maze"
@@ -3838,10 +3772,6 @@
     "stellar_park_tt": {
       "name": "Race Under the Moonlit Sky",
       "condition": "Visit the Stellar Park of Celestial Night in {TIME} or less in Time Trial Mode"
-    },
-    "2kki_wolf_effect": {
-      "name": "Sandcastles and Seabreeze",
-      "condition": "Interact with the wolf boy Ookami at the White Beach"
     },
     "2kki_marginal_effect": {
       "name": "Lovable Abomination",
@@ -4567,6 +4497,168 @@
       "name": "Ceaseless Breeze",
       "description": "Don't let their spin hypnotize you!",
       "condition": "Visit Pinwheel Countryside"
+    },
+    "boy_spiked_fence_garden": {
+      "name": "Pearly Whites",
+      "description": "My, what big teeth you have!",
+      "condition": "Reveal the boy's mouth using the Railroad Crossing effect in Spiked Fence Garden"
+    },
+    "couple_tulip_lamp_world": {
+      "name": "Rest Area Chainsaw Massacre",
+      "description": "Just like in the movies.",
+      "condition": "Chainsaw the couple standing under the rest area in Tulip Lamp World"
+    },
+    "redips_sweet_medical": {
+      "name": "Crunch",
+      "description": "Nothing better than the taste of rifles in the morning",
+      "condition": "Find the red spider creature in Sweet Medical Utopia"
+    },
+    "crystal_lake_2kki": {
+      "name": "Shimmering Waters",
+      "description": "I wonder how much these crystals are worth...",
+      "condition": "Visit the Crystal Lake"
+    },
+    "statue_mountaintop_ruins": {
+      "name": "Overgrown Statue",
+      "description": "A fruit stays fresh that long...?",
+      "condition": "Look at the overgrown statue in Mountaintop Ruins"
+    },
+    "massage_vm_factory": {
+      "name": "All the Right Spots",
+      "description": "This feels amazing!",
+      "condition": "Sit on the massage chair in Vending Machine Factory"
+    },
+    "dining_bathhouse_odd": {
+      "name": "An Abandoned Flower",
+      "description": "What happened here...?",
+      "condition": "Enter the Dining Hall of the Bathhouse when the atmosphere is not right"
+    },
+    "store_dice_swamp": {
+      "name": "Out of Stock",
+      "description": "There's nothing on the shelves. What were you selling? Why is your store still OPEN?!",
+      "condition": "Enter the store in Dice Swamp"
+    },
+    "pianist_moonlit_street": {
+      "name": "Moonlight Pianist",
+      "description": "Her song feels familiar somehow.",
+      "condition": "Visit the lovely pianist in Moonlit Street"
+    },
+    "moon_castles_cliff": {
+      "name": "The Castle's Satellite",
+      "condition": "Visit the cliff area of Moon and Castles"
+    },
+    "broken_shoal": {
+      "name": "Peaceful Ashes",
+      "description": "Who knew wrecks could be so beautiful?",
+      "condition": "Visit Broken Shoal"
+    },
+    "techno_rave_ruins": {
+      "name": "Hollow Rave",
+      "description": "Even without a soul to be seen, the party's still going on strong.",
+      "condition": "Visit Techno Rave Ruins"
+    },
+    "sealed_rainbow_pillars": {
+      "name": "Sealed Light",
+      "description": "What kind of light needs to be sealed away...?",
+      "condition": "Visit Sealed Rainbow Pillars"
+    },
+    "fragmented_station_kper": {
+      "name": "Lonesome Key Keeper",
+      "description": "Thank you, where do I use this?... Oh.",
+      "condition": "Receive the key from the sleepy figure in Fragmented Station"
+    },
+    "autumn_pastel_plains": {
+      "name": "Pastel Plains",
+      "description": "What a soft and serene atmosphere.",
+      "condition": "Visit Autumn Pastel Plains"
+    },
+    "mount_acoustic_lounge": {
+      "name": "Moon of Serenity",
+      "condition": "See the twin mountains in Acoustic Lounge"
+    },
+    "bloom_nineny_nine": {
+      "name": "Bloom 99",
+      "description": "Blooming along with the music.",
+      "condition": "Visit Bloom 99"
+    },
+    "wheat_field_wheat": {
+      "name": "Field of Dreams",
+      "description": "You've gone the distance.",
+      "condition": "Visit the Wheat Field while the wheat is alive"
+    },
+    "wooden_cubes_playground": {
+      "name": "Wooden Cubes Playground",
+      "description": "Play with me!",
+      "condition": "Visit Wooden Cubes Playground"
+    },
+    "lighthouse_glimmer_cliffs": {
+      "name": "Glimmering Lighthouse",
+      "description": "\"Oh look! A shiny star up top!\"",
+      "condition": "See the lighthouse in Glimmer Cliffs"
+    },
+    "rubber_duck_islands": {
+      "name": "Scrubba Dub Dub!",
+      "description": "Ducky in the tub!",
+      "condition": "Reach Rubber Duck Islands"
+    },
+    "tricycle_faraway_lands": {
+      "name": "Fuzzy Memories",
+      "description": "\"I love to ride my tricycle!\"",
+      "condition": "Interact on the tricycle in Faraway Lands"
+    },
+    "2kki_menu_67_70": {
+      "name": "Abstract Prism",
+      "description": "Prismatic jewels within the colors.",
+      "condition": "Obtain menu types 67-70. For any you have already obtained, return to the area where you originally found them.",
+      "checkbox": {
+        "2kki_menu_67": "Rainy Sundial",
+        "2kki_menu_68": "Paraffin Embedding Ruins",
+        "2kki_menu_69": "Fragmented Station B",
+        "2kki_menu_70": "Snow Black"
+      }
+    },
+    "florist_flower_girl": {
+      "name": "Flowerhead",
+      "description": "You noticed me, Dear?",
+      "condition": "Interact with the flower girl in the Neon Phantasm sub-area of Florist"
+    },
+    "deep_cold_path_event": {
+      "name": "Chilling Fate",
+      "description": "Shoulda dreamed up an extra layer.",
+      "condition": "View the Cold and Stranded event in Deep Cold Path"
+    },
+    "flower_undersea_temple": {
+      "name": "Plant...?",
+      "description": "As long as it's not golden and talking about \"friendliness pellets...\"",
+      "condition": "See the flower-like plant in Undersea Temple"
+    },
+    "spectral_hub_complete": {
+      "name": "A Four Way Street",
+      "description": "A ghastly hub for ghouls and ghosts.",
+      "condition": "Unlock all of the doors in Spectral Hub"
+    },
+    "2kki_menu_53": {
+      "name": "Big Happy Bunny",
+      "description": "A bunny buddy makes a big happy bunny.",
+      "condition": "Obtain the menu type 53. If you have already unlocked it, return to the Sakura Forest."
+    },
+    "tea_technicolor_towers": {
+      "name": "Paper-scented Tea",
+      "description": "Nothin' like some flavorful tea after a long night of surreal travels...",
+      "condition": "Stop for a cup of tea in Technicolor Towers"
+    },
+    "eye_window": {
+      "name": "Treacherous Sight",
+      "condition": "Go to Visine World from the Garden of Treachery"
+    },
+    "fairy_hole": {
+      "name": "Fairy's Hideout",
+      "condition": "Find the Fairy Hole in Snowy Forest"
+    },
+    "ice_cream_galaxy_town": {
+      "name": "Flavor Fest",
+      "description": "So many options...",
+      "condition": "Purchase all ice cream flavors at the GALAXY Town ice cream shop"
     }
   },
   "unconscious": {
@@ -5095,6 +5187,30 @@
         "wisteria_grove|wisteria_grove_misc": "Wisteria Grove",
         "reverenced_flower": "Reverenced Flower"
       }
+    },
+    "vague_memory_menu": {
+      "name": "Standing at a Crossroad",
+      "condition": "Obtain the Vague Memory menu theme. If you have already unlocked it, return to A Long Journey."
+    },
+    "planet_astronomy_world": {
+      "name": "Intergalactic Vacation",
+      "description": "Warp speed!",
+      "condition": "Land on every planet of Astronomy World"
+    },
+    "jellyfish_world": {
+      "name": "Luminescent Jellyfish",
+      "description": "Pristine guardians of the souls within the depths",
+      "condition": "Visit Jellyfish World"
+    },
+    "fish_megalith_lake": {
+      "name": "These Boots Are Made for Walkin'",
+      "description": "... and that's just what they'll do!",
+      "condition": "Reach the island with the unique fish in Megalith Lake"
+    },
+    "sun_reactor": {
+      "name": "Industrial Incandescence",
+      "description": "Set the controls for the heart of the Sun.",
+      "condition": "Visit the Sun Reactor"
     }
   },
   "flow": {
@@ -5289,6 +5405,21 @@
       "name": "Gentle Cleaner",
       "description": "A sugary welcome",
       "condition": "Compliment the Cleaner with the Dress effect in Sugar Hole"
+    },
+    "shinsoku": {
+      "name": "Shinsoku Neko: Standard Edition",
+      "description": "The start of the journey!",
+      "condition": "Score 1000 points in Shinsoku Neko"
+    },
+    "shinsoku_gold": {
+      "name": "Shinsoku Neko: True Shinsoku Neko Edition",
+      "description": "You managed to reach to the end, you deserve a \"Meow Meow\".",
+      "condition": "Score 999999 points in Shinsoku Neko"
+    },
+    "shinsoku_alt": {
+      "name": "Shinsoku Neko: Master Quest Edition",
+      "description": "You're getting good at this!",
+      "condition": "Score 1000 points in Shinsoku Neko without getting hit"
     }
   },
   "prayers": {
@@ -5502,10 +5633,6 @@
       "name": "Black Lace",
       "description": "Welcome back.",
       "condition": "Enter Black Lace from the Nexus"
-    },
-    "serene_flowers": {
-      "name": "Serene Flowers",
-      "condition": "Make your way to the balcony of the Dark Town"
     },
     "marina_bathhouse": {
       "name": "Marina",
@@ -5964,6 +6091,15 @@
       "name": "Worn-Out Faces",
       "description": "Worn-out places... worn-out faces...",
       "condition": "Interact with the Uboa creature in Congregation Island"
+    },
+    "secret_kaomoji_mall": {
+      "name": "Emesis Magenta",
+      "description": "\"I frew up...\"",
+      "condition": "Find the hidden Kaomoji in Kaomoji Mall"
+    },
+    "balloon_festival_ballons": {
+      "name": "Free Balloon Day",
+      "condition": "Collect all three balloons in Balloon Festival"
     }
   },
   "braingirl": {
@@ -6050,10 +6186,6 @@
     }
   },
   "amillusion": {
-    "calendar": {
-      "name": "Four Seasons",
-      "condition": "See the Nexus in all 4 seasons"
-    },
     "syncopation": {
       "name": "Syncopation",
       "condition": "Visit Le Jazzy Train Bleu"
@@ -6095,16 +6227,6 @@
       "description": "A torrential brainstorm.",
       "condition": "Visit Sylphides' Playground"
     },
-    "science_museum": {
-      "name": "Evolution",
-      "description": "Why is it bad to trust atoms? They make up everything!",
-      "condition": "Explore every hall in the Science Museum"
-    },
-    "residential_prison": {
-      "name": "Exile Planets",
-      "description": "Just me, myself, and that weird thing in the sky",
-      "condition": "Get caught by the security staff in Residential Corridor World"
-    },
     "infinite_rooms_end": {
       "name": "Loophole of Sudden Encounters",
       "condition": "Reach the end of The Infinite Rooms"
@@ -6114,15 +6236,6 @@
       "description": "Have a stern chat with the High Priestess.",
       "condition": "Find Alexandra in the Believer's Temple and try to kill her"
     },
-    "ski_hill_event": {
-      "name": "Snowflake Tears",
-      "description": "Not snow fast!",
-      "condition": "Complete the Ski Hill Event"
-    },
-    "versailles_abysses": {
-      "name": "Heart of the Ocean",
-      "condition": "Emit cold air using the Radiator Key near the fountain"
-    },
     "mountain_peak": {
       "name": "Sightseer",
       "description": "A ray of sunshine to warm frigid hearts",
@@ -6131,11 +6244,6 @@
     "distant_lights": {
       "name": "Beyond the Sea",
       "condition": "Reach and view the Distant Lights"
-    },
-    "chicken_revenge": {
-      "name": "Cluck cluck",
-      "description": "Yolk’s on you!",
-      "condition": "Trigger the Chicken Revenge event with the Mad Key"
     },
     "choco_lot": {
       "name": "I Love it a Choco-lot",
@@ -6264,11 +6372,6 @@
       "name": "Experiment",
       "description": "Who are they?",
       "condition": "Fill up all of the Test Tubes in the Secret Lab"
-    },
-    "satiated_rabbit": {
-      "name": "Om nom nom",
-      "description": "Not a carrot in the world!",
-      "condition": "Feed the rabbit in the Isle of Seasons"
     },
     "sleep_paralysis_mare": {
       "name": "Mare",
@@ -6518,6 +6621,11 @@
       "name": "Space Prisoners",
       "description": "Welcome to the Cosmic Prison...",
       "condition": "Reach the Cosmic Prison"
+    },
+    "dream_baby_nexus": {
+      "name": "The Red Card",
+      "description": "Kid, our business is concluded. I'm not giving you anything else. Get lost!",
+      "condition": "Interact with the Dream Baby in the Unreal Nexus"
     }
   },
   "mikan": {
