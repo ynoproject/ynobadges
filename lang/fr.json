@@ -880,7 +880,7 @@
       "checkbox": {
         "downfall_garden_b": "Downfall Garden B",
         "sparkling_dimension_b": "Sparkling Dimension B",
-        "opal_ruins_b": "Opal Ruins A",
+        "opal_ruins_b": "Opal Ruins B",
         "fuchsia_suburbs_b": "Originator Garden: Fuchsia Suburbs B"
       }
     },
@@ -961,7 +961,7 @@
     "dream_fishing": {
       "name": "Prise onirique",
       "description": "Celui-là a l'air spécial",
-      "condition": "Visiter l'Ocean Subsurface, le Rotten Fish Lake, le Fish World, le Tuna Desert, le Sushi World, le Flying Fish World, les Lamplit Stones, les Streetlight Docks, les Depths et les Bioluminescent Cavern",
+      "condition": "Visiter l'Ocean Subsurface, le Rotten Fish Lake, le Fish World, le Mackerel Desert, le Sushi World, le Flying Fish World, les Lamplit Stones, les Streetlight Docks, les Depths et les Bioluminescent Cavern",
       "checkbox": {
         "ocean_subsurface": "Ocean Subsurface",
         "rotten_fish_lake": "Rotten Fish Lake",
@@ -2518,7 +2518,7 @@
     },
     "nexus_collector": {
       "name": "Collection de Nexus",
-      "condition": "Visiter le Dark Nexus, Second Nexus et le Mini Nexus",
+      "condition": "Visiter le Dark Nexus, The Second Nexus et le Mini-Nexus",
       "checkbox": {
         "the_second_nexus": "The Second Nexus",
         "dark_nexus": "Dark Nexus",
@@ -4092,7 +4092,7 @@
         "b_w_mono_feudal_japan": "Monochrome Feudal Japan",
         "b_w_mono_abyss": "Monochromatic Abyss",
         "b_w_fused_faces_world": "Fused Faces World",
-        "b_w_sea_of_clouds": "Downfall Garden A",
+        "b_w_sea_of_clouds": "Sea of Clouds",
         "b_w_mono_ranch": "Monochrome Ranch",
         "b_w_mono_street": "Monochrome Street",
         "b_w_doll_house": "Doll House"
@@ -5228,28 +5228,28 @@
       }
     },
     "vague_memory_menu": {
-      "name": "Standing at a Crossroad",
-      "condition": "Obtain the Vague Memory menu theme. If you have already unlocked it, return to A Long Journey."
+      "name": "Debout à un croisement",
+      "condition": "Obtenir le thème de menu Vague souvenir. Si vous l'avez déjà obtenu, retournez à A Long Journey."
     },
     "planet_astronomy_world": {
-      "name": "Intergalactic Vacation",
-      "description": "Warp speed!",
-      "condition": "Land on every planet of Astronomy World"
+      "name": "Vacances intergalactiques",
+      "description": "À la vitesse de la lumière !",
+      "condition": "Atterrir sur chacune des planètes de l'Astronomy World"
     },
     "jellyfish_world": {
-      "name": "Luminescent Jellyfish",
-      "description": "Pristine guardians of the souls within the depths",
-      "condition": "Visit Jellyfish World"
+      "name": "Méduse lumineuse",
+      "description": "Des gardiens purs des âmes parmi les profondeurs",
+      "condition": "Visiter le Jellyfish World"
     },
     "fish_megalith_lake": {
-      "name": "These Boots Are Made for Walkin'",
-      "description": "... and that's just what they'll do!",
-      "condition": "Reach the island with the unique fish in Megalith Lake"
+      "name": "Ces bottes sont faites pour marcher !",
+      "description": "... et pas plus !",
+      "condition": "Atteindre l'île avec le poisson unique au Megalith Lake"
     },
     "sun_reactor": {
-      "name": "Industrial Incandescence",
-      "description": "Set the controls for the heart of the Sun.",
-      "condition": "Visit the Sun Reactor"
+      "name": "Incandescence industrielle",
+      "description": "Mets le cap pour le cœur du Soleil.",
+      "condition": "Visiter le Sun Reactor"
     }
   },
   "flow": {
@@ -5446,19 +5446,19 @@
       "condition": "Complimenter la Femme de Ménage avec l'effet Robe au Sugar Hole"
     },
     "shinsoku": {
-      "name": "Shinsoku Neko: Standard Edition",
-      "description": "The start of the journey!",
-      "condition": "Score 1000 points in Shinsoku Neko"
+      "name": "Shinsoku Neko : Édition Standard",
+      "description": "Le début d'une toute nouvelle aventure !",
+      "condition": "Marquer 1000 points à Shinsoku Neko"
     },
     "shinsoku_gold": {
-      "name": "Shinsoku Neko: True Shinsoku Neko Edition",
-      "description": "You managed to reach to the end, you deserve a \"Meow Meow\".",
-      "condition": "Score 999999 points in Shinsoku Neko"
+      "name": "Shinsoku Neko : Édition Vrai Shinsoku Neko",
+      "description": "Tu as réussi à atteindre la fin, tu mérites un « Miaou miaou ».",
+      "condition": "Marquer 999999 points à Shinsoku Neko"
     },
     "shinsoku_alt": {
-      "name": "Shinsoku Neko: Master Quest Edition",
-      "description": "You're getting good at this!",
-      "condition": "Score 1000 points in Shinsoku Neko without getting hit"
+      "name": "Shinsoku Neko : Édition Master Quest",
+      "description": "Tu deviens fort à ce jeu !",
+      "condition": "Marquer 1000 points à Shinsoku Neko sans se faire toucher"
     }
   },
   "prayers": {
@@ -6148,13 +6148,13 @@
       "condition": "Interagir avec la créature Uboa à la Congregation Island"
     },
     "secret_kaomoji_mall": {
-      "name": "Emesis Magenta",
-      "description": "\"I frew up...\"",
-      "condition": "Find the hidden Kaomoji in Kaomoji Mall"
+      "name": "Vo'magenta",
+      "description": "Je crois que j'ai... MMM... le... mal du centre commercial...",
+      "condition": "Trouver le Kaomoji caché au Kaomoji Mall"
     },
     "balloon_festival_ballons": {
-      "name": "Free Balloon Day",
-      "condition": "Collect all three balloons in Balloon Festival"
+      "name": "Journée des ballons gratuits",
+      "condition": "Récupérer les trois ballons au Balloon Festival"
     }
   },
   "braingirl": {
@@ -6181,11 +6181,11 @@
       "description": "Profitons de la vue à toute heure",
       "condition": "Marcher sur le balcon durant chaque état (matin, jour, soirée, nuit, tempête)",
       "checkbox": {
-        "balcony_evening": "Balcony",
-        "balcony_day": "Balcony (Day)",
-        "balcony_night": "Balcony (Night)",
-        "balcony_morning": "Balcony (Morning)",
-        "balcony_storm": "Balcony (Storm)"
+        "balcony_evening": "soirée",
+        "balcony_day": "jour",
+        "balcony_night": "nuit",
+        "balcony_morning": "matin",
+        "balcony_storm": "tempête"
       }
     },
     "broken_bridge_monster": {
@@ -6678,9 +6678,9 @@
       "condition": "Atteindre la Cosmic Prison"
     },
     "dream_baby_nexus": {
-      "name": "The Red Card",
+      "name": "Le carton rouge",
       "description": "Gamine, notre contrat est fini. Je ne te donnerai rien d'autre. CASSE-TOI !",
-      "condition": "Interact with the Dream Baby in the Unreal Nexus"
+      "condition": "Interagir avec le Bébé Onirique à l'Unreal Nexus"
     }
   },
   "mikan": {
@@ -7351,11 +7351,7 @@
     "cat_hat": {
       "name": "Chat-peau",
       "description": "Pourquoi voudrais-tu le laisser dans un tel lieu ?",
-      "condition": "Visiter le Throne of Entrails. Si vous l'avez déjà visité, portez ce qui vous y a été offert là-bas.",
-      "checkbox": {
-        "cat_hat": "Throne of Entrails",
-        "cat_hat_2": "Wormiko's Room"
-      }
+      "condition": "Visiter le Throne of Entrails. Si vous l'avez déjà visité, portez ce qui vous y a été offert là-bas."
     },
     "winking_ghost": {
       "name": "Photographie fantomatique",
