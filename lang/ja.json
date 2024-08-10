@@ -1315,7 +1315,8 @@
       "checkbox": {
         "garden_world_clock_pole": "植物世界",
         "blue_forest_clock_pole": "雨の森",
-        "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "水中植物園",
+        "botanical_garden_clock_pole_1": "outdoors",
+        "botanical_garden_clock_pole_2": "passage",
         "sculpture_park_clock_pole": "彫刻庭園",
         "twilight_park_clock_pole": "月明かりの庭園",
         "monochrome_school_clock_pole": "モノクロ学校",
@@ -1341,11 +1342,7 @@
     "plaza": {
       "name": "海神の商店街",
       "description": "まるで一つの街のようだ",
-      "condition": "トライデントスクエアの全エリアに到達する",
-      "checkbox": {
-        "plaza_1|plaza_3|plaza_4|plaza_5": "トライデントスクエア",
-        "plaza_2": "古代遺跡世界"
-      }
+      "condition": "トライデントスクエアの全エリアに到達する"
     },
     "robot": {
       "name": "格納庫",
@@ -1498,7 +1495,7 @@
     "helmet_girl": {
       "name": "照射",
       "description": "I'll see you on the dark side of the moon.",
-      "condition": "四角四角、白い部屋にいる透明メットの女の子に会う。",
+      "condition": "四角四角、白い部屋、夜景ベランダにいる透明メットの女の子に会う。",
       "checkbox": {
         "helmet_girl_moonlit_balcony": "夜景ベランダ",
         "helmet_girl_apartment": "白い部屋",
@@ -1722,13 +1719,13 @@
     "urotsuki_pendant": {
       "name": "Pendant of Memories",
       "description": "「私」は　此処に在る。",
-      "condition": "海底、バク、ケンキュウジョ(巨大)、夢の夢部屋、逆さ宿(隠しエリア)、赤い空の崖、拒絶、頭、赤黒迷路、色の無い谷、繫茂でもう一人のうろつきを目撃する",
+      "condition": "沖、バク、ケンキュウジョ(巨大)、夢の夢部屋、逆さ宿(隠しエリア)、赤い空の崖、拒絶、頭、赤黒迷路、色の無い谷、繫茂でもう一人のうろつきを目撃する",
       "checkbox": {
-        "uro_atlantis": "沖：沖合いエリア",
+        "uro_atlantis": "沖",
         "uro_tapir_place": "バク",
         "uro_cloning_room": "ケンキュウジョ",
         "uro_bleak_future": "夢の夢部屋",
-        "uro_pinwheel_path": "廃線：かざぐるまエリア",
+        "uro_pinwheel_path": "逆さ宿(隠しエリア)",
         "uro_red_sky_cliff": "赤い空の崖",
         "uro_despair_road": "拒絶",
         "uro_killed_head": "頭",
@@ -1945,13 +1942,7 @@
     "gb_memories": {
       "name": "GBメモリー",
       "description": "憶えてる？",
-      "condition": "グレーボーイ、グリーンボーイ、スケッチの大樹のすべての秘密を目撃し、NESトンネルの奥のベンチに座る",
-      "checkbox": {
-        "gb_change_color|gb_house_secret": "グレーボーイ",
-        "gb_flower_pot": "グリーンボーイ",
-        "nes_tunnel_bench": "NESトンネル",
-        "gb_forest_event": "スケッチ"
-      }
+      "condition": "グレーボーイ、グリーンボーイ、スケッチの大樹のすべての秘密を目撃し、NESトンネルの奥のベンチに座る"
     },
     "bunny_cocktail": {
       "name": "うさぎカクテル",
@@ -2071,7 +2062,7 @@
       "condition": "桟橋の森、水の都の森エリア、繫栄巣、人形屋敷、甘い嘘、樹海の遺跡、月街灯の森で虹色くらげを目撃する",
       "checkbox": {
         "sad_jellyfish_forest_pier": "桟橋の森",
-        "sad_jellyfish_chaotic_buildings": "水の都：森エリア",
+        "sad_jellyfish_chaotic_buildings": "水の都の森エリア",
         "sad_jellyfish_overgrown": "繁栄巣",
         "sad_jellyfish_doll_house": "人形屋敷",
         "sad_jellyfish_fantasy_isle": "甘い嘘",
@@ -2408,7 +2399,10 @@
       "description": "回レ回レ回レ回レ",
       "condition": "黒潰れの人から6つの世界を回る",
       "checkbox": {
-        "humanoid_angry|humanoid_crying|humanoid_happy|humanoid_shocked": "スマイルアイス",
+        "humanoid_angry": "人接児院",
+        "humanoid_crying": "雪恋墓卵",
+        "humanoid_happy": "スマイルアイス",
+        "humanoid_shocked": "青い宮殿",
         "humanoid_green": "2Dステージ",
         "humanoid_tired": "荒野と集落"
       }
@@ -2456,9 +2450,9 @@
       "description": "始まりの場所からここまで来たんですね。",
       "condition": "双子山が見える、森徊(山奥)、夕焼け、心象(心象エリア)、夢の夢部屋、彩愛蝶、rainyday、ハザマ、風力高原、銭湯を訪れる",
       "checkbox": {
-        "tw_foliage": "森徊",
+        "tw_foliage": "森徊(山奥)",
         "tw_fish": "夕焼け",
-        "tw_mirror": "心象",
+        "tw_mirror": "心象(心象エリア)",
         "tw_bleak": "夢の夢部屋",
         "tw_eyeball": "彩愛蝶",
         "tw_rainy": "rainyday",
@@ -2506,7 +2500,7 @@
       "condition": "3DRoomの黄色いミミズを訪ね、雪恋墓卵の4つ目の顔箱を調べる",
       "checkbox": {
         "jimbo_desktop": "3DRoom",
-        "jimbo_holiday": "スマイルアイス"
+        "jimbo_holiday": "雪恋墓卵"
       }
     },
     "lone_penguin": {
@@ -2525,7 +2519,7 @@
         "honeycomb_world": "ハチの巣",
         "pink_honeycomb": "ハニカムピンク",
         "honeybee_laboratory": "蜂蜜工場",
-        "honeybee_residence": "ハチミツビル"
+        "honeybee_residence": "ハチミツタウン"
       }
     },
     "vertigo_parasomnia": {
@@ -2567,7 +2561,7 @@
       "condition": "集束、廃線、アトリエ、文字世界で集束の顔を見つける",
       "checkbox": {
         "zalgo_magnet_room": "集束",
-        "zalgo_train_tracks": "廃線：線路エリア",
+        "zalgo_train_tracks": "廃線",
         "zalgo_atelier": "アトリエ",
         "zalgo_character": "文字世界"
       }
@@ -2626,7 +2620,7 @@
       "condition": "目覚めの森、havenの子ども部屋、幽谷、人柱、紫湖にある花の近くでむしになる",
       "checkbox": {
         "flowers_snow_forest": "目覚めの森",
-        "flowers_cotton": "haven",
+        "flowers_cotton": "havenの子ども部屋",
         "flowers_grove": "幽谷",
         "flowers_cloaked": "人柱",
         "flowers_lavender": "紫湖"
@@ -2639,18 +2633,14 @@
         "flowers_vortex": "水果",
         "flowers_hotel": "クラシックホテル",
         "flowers_creek": "垂水",
-        "flowers_fairy": "目覚めの森",
+        "flowers_fairy": "目覚めの森の花部屋",
         "flowers_polycube": "氷庭"
       }
     },
     "pudding_world_secrets": {
       "name": "焼きプリン",
       "description": "待って、火をつけたのならクリームブリュレじゃない？",
-      "condition": "めったに訪れないプリン世界の魅力を堪能し、その秘密をすべて見つける",
-      "checkbox": {
-        "pudding_teru|pudding_extinction|pudding_return|pudding_machine|pudding_mask": "プリン世界",
-        "pudding_liquor_street": "ガラス"
-      }
+      "condition": "めったに訪れないプリン世界の魅力を堪能し、その秘密をすべて見つける"
     },
     "eternal_dreamer": {
       "name": "目覚める時か、深い夢に落ちる時か？",
@@ -2762,11 +2752,7 @@
     "mask_collection": {
       "name": "変装の達人",
       "description": "今日は誰になる？",
-      "condition": "どこかのお面屋で、すっぴんで見られる全てのお面を解禁して見る(ツインテールの女の子、偽浅瀬の家の女の子、ふらんねる、ぜんまい少女、白ネズミ、黒ネズミ、たこやき、Angel Priest、パイロンを除く)",
-      "checkbox": {
-        "mask_shop_s_twintail|mask_shop_s_bird|mask_shop_s_slime|mask_shop_s_guard|mask_shop_paint|mask_shop_uri|mask_shop_yukata|mask_shop_monmon|mask_shop_witch|mask_shop_prov|mask_shop_cat|mask_shop_appu|mask_shop_science|mask_shop_musume|mask_shop_otoko|mask_shop_tv|mask_shop_math|mask_shop_dogboa|mask_shop_huyure|mask_shop_eyeball|mask_shop_chain|mask_shop_fox|mask_shop_seal|mask_shop_candle|mask_shop_barrier|mask_shop_rune": "お面屋",
-        "mask_shop_s_twintail_d|mask_shop_s_bird_d|mask_shop_s_slime_d|mask_shop_s_guard_d|mask_shop_paint_d|mask_shop_uri_d|mask_shop_yukata_d|mask_shop_monmon_d|mask_shop_witch_d|mask_shop_prov_d|mask_shop_cat_d|mask_shop_appu_d|mask_shop_science_d|mask_shop_musume_d|mask_shop_otoko_d|mask_shop_tv_d|mask_shop_math_d|mask_shop_dogboa_d|mask_shop_huyure_d|mask_shop_eyeball_d|mask_shop_chain_d|mask_shop_fox_d|mask_shop_seal_d|mask_shop_candle_d|mask_shop_barrier_d|mask_shop_rune_d": "高級お面屋"
-      }
+      "condition": "どこかのお面屋で、すっぴんで見られる全てのお面を解禁して見る(ツインテールの女の子、偽浅瀬の家の女の子、ふらんねる、ぜんまい少女、白ネズミ、黒ネズミ、たこやき、Angel Priest、パイロンを除く)"
     },
     "retro_cartridge_game": {
       "name": "１９７７年みたい！",
@@ -3268,8 +3254,8 @@
       "description": "砂糖美味しいいいいいいいいいいいいいいいいいいいいいいいいいいい!!!!!!!!!!!!!!",
       "condition": "お菓子がテーマの世界を到達する:チョコレートの通路、スイーツ、シュガー（うらも含む）、キャンディ、アイスクリー夢、スイートキューブ、チョコレー塔、スイーツホール（ストロベリーエリア）",
       "checkbox": {
-        "sugary_depths": "シュガー：うら",
-        "sugar_world": "シュガー：おもて",
+        "sugary_depths": "うら",
+        "sugar_world": "シュガー",
         "candy_cane_fields": "キャンディ",
         "ice_cream_dream": "アイスクリー夢",
         "cube_of_sweets": "スイートキューブ",
@@ -3435,8 +3421,10 @@
       "description": "ワインみたいなビンテージ",
       "condition": "逆さ宿の一階入り口でのっぺら女将を見つけ、薄暗い部屋にいる何かをめがねで発見し、昭和路地で指差しカンバンとバスを待つダンディな男性に話しかける",
       "checkbox": {
-        "japan_town_hotel|japan_town_glasses": "逆さ宿",
-        "japan_town_otoko|japan_town_news_man": "昭和路地"
+        "japan_town_hotel": "逆さ宿の一階入り口でのっぺら女将を見つけ",
+        "japan_town_glasses": "薄暗い部屋にいる何かをめがねで発見し",
+        "japan_town_otoko": "指差しカンバン",
+        "japan_town_news_man": "バスを待つダンディな男性"
       }
     },
     "himalayan_lighthouse": {
@@ -3514,7 +3502,7 @@
       "name": "うろつきシンドローム",
       "condition": "うろつき邸、部屋、心象、鏡の夢部屋、夢の夢部屋、うつろにあるうろつきの部屋を見る",
       "checkbox": {
-        "urotsukis_dream_apartments": "うろつき邸：似非現実部屋",
+        "urotsukis_dream_apartments": "うろつき邸",
         "drowsy_forest_room": "部屋",
         "mirror_room": "心象",
         "static_doppelganger_room": "鏡の夢部屋",
@@ -3757,8 +3745,8 @@
       "name": "六角遺跡",
       "condition": "六角タイル世界の灰色と赤色の六角タイル通路に到達する",
       "checkbox": {
-        "hexagonal_pillar_psg_a_1|hexagonal_pillar_psg_a_2": "六角タイル世界：六角柱通路・赤色",
-        "hexagonal_pillar_psg_b": "六角タイル世界：六角柱通路・灰色"
+        "hexagonal_pillar_psg_a_1|hexagonal_pillar_psg_a_2": "赤色",
+        "hexagonal_pillar_psg_b": "灰色"
       }
     },
     "graffiti_city_bot": {
@@ -3775,7 +3763,7 @@
       "name": "ツインツリーズ",
       "condition": "植物と網と植物世界陽境の両方に到達する",
       "checkbox": {
-        "blue_forest": "雨の森",
+        "blue_forest": "植物と網",
         "orange_forest": "植物世界陽境"
       }
     },
@@ -3908,8 +3896,10 @@
       "description": "これらの災厄は怪物なのか、それとも兆しなのか？あなたは運命の道具なのか、それとも災厄の目撃者なのか？",
       "condition": "釣り堀、万華鏡世界、ダムのほとり、六角タイル世界 (六角柱通路), 白い世界にいる赤い生物にチェーンソーを使う",
       "checkbox": {
-        "wooded_lakeside_1_monster|wooded_lakeside_2_monster": "湖のほとり：水路エリア",
-        "hexa_pillar_passage_monster|kaleidscope_world_monster": "六角タイル世界：六角柱通路・水晶",
+        "wooded_lakeside_1_monster": "湖のほとり",
+        "wooded_lakeside_2_monster": "ダムのほとり",
+        "hexa_pillar_passage_monster": "六角タイル世界 (六角柱通路)",
+        "kaleidscope_world_monster": "万華鏡世界",
         "streetlight_docks_monster": "釣り堀",
         "pure_white_lands_monster": "白い世界"
       }
@@ -4033,8 +4023,7 @@
         "beach_dream|beach_dream_b": "夢海岸",
         "beach_grand": "夢ビーチ",
         "beach_realistic_a|beach_realistic_b|beach_realistic_c|beach_realistic_d|beach_realistic_e|beach_realistic_f": "消波ブロックの砂浜",
-        "beach_blood_red_a": "薔薇色の浜辺",
-        "beach_blood_red_b": "薔薇薫る波打ち際"
+        "beach_blood_red_a|beach_blood_red_a": "薔薇色の浜辺"
       }
     },
     "wintry_attendant": {
@@ -4131,7 +4120,7 @@
         "b_w_mono_feudal_japan": "白黒城",
         "b_w_mono_abyss": "白黒深淵",
         "b_w_fused_faces_world": "顔",
-        "b_w_sea_of_clouds": "嘔吐庭",
+        "b_w_sea_of_clouds": "雲海",
         "b_w_mono_ranch": "無鳴牧場",
         "b_w_mono_street": "影絵",
         "b_w_doll_house": "人形屋敷"
@@ -4362,11 +4351,7 @@
     "megusuri_uri_visine": {
       "name": "目薬売り",
       "description": "この目は非常に繊細だから、彼は非常に気を遣う",
-      "condition": "目玉薬で3つのパターンの目薬売りを見つけて話しかける",
-      "checkbox": {
-        "megusuri_uri_visine_1": "目玉薬",
-        "megusuri_uri_visine_2|megusuri_uri_visine_3": "目薬川：目薬屋さん"
-      }
+      "condition": "目玉薬で3つのパターンの目薬売りを見つけて話しかける"
     },
     "rgb_passage": {
       "name": "RGBのタイル通路",
@@ -4392,14 +4377,14 @@
       "description": "今夜星を見に行こう",
       "condition": "霧の森、森徊、水没電柱、嘘つきの浅瀬、幽谷、砂と風、星の夜、Butterflyで夜空の風景を見つける",
       "checkbox": {
-        "peak": "霧の森：雨降る森",
+        "peak": "霧の森",
         "foliage_estate_satellite_dish": "森徊",
         "submerged_communications_area": "水没電柱",
-        "shallows_of_deceit_rooftop": "嘘つきの街：嘘つきの浅瀬",
+        "shallows_of_deceit_rooftop": "嘘つきの浅瀬",
         "nocturnal_grove_boat": "幽谷",
         "starry_night": "砂と風",
         "star_planetarium": "星の夜",
-        "tomb_of_velleities": "Butterfly：最奥"
+        "tomb_of_velleities": "Butterfly"
       }
     },
     "overgrowth_outlook": {
@@ -4693,7 +4678,7 @@
     "2kki_menu_67_70": {
       "name": "Abstract Prism",
       "description": "Prismatic jewels within the colors.",
-      "condition": "Obtain menu types 67-70. For any you have already obtained, return to the area where you originally found them.",
+      "condition": "Obtain menu types 67-70 in Rainy Sundial, Paraffin Embedding Ruins, Fragmented Station B, and Snow Black. If already obtained, revisit the areas where you found them.",
       "checkbox": {
         "2kki_menu_67": "Rainy Sundial",
         "2kki_menu_68": "Paraffin Embedding Ruins",
@@ -5327,9 +5312,9 @@
       "name": "オレンジ実験",
       "condition": "オレンジ回路の部屋、オレンジ地下通路、試験管が入ったオレンジ色の実験室に到達する",
       "checkbox": {
-        "orange_maze": "Orange Maze",
-        "orange_passage": "Orange Passage",
-        "orange_laboratory": "Orange Laboratory"
+        "orange_maze": "オレンジ回路の部屋",
+        "orange_passage": "オレンジ地下通路",
+        "orange_laboratory": "オレンジ色の実験室"
       }
     },
     "dark_city": {
@@ -5345,8 +5330,8 @@
       "description": "ピアノの音色がどこかへ導いてくれる…",
       "condition": "青通路と微生物に到達する",
       "checkbox": {
-        "microscopic_world": "Microorganism World",
-        "young_passage": "Young Passage"
+        "microscopic_world": "微生物",
+        "young_passage": "青通路"
       }
     },
     "attack_smile": {
@@ -5428,8 +5413,8 @@
       "name": "花柄帽子",
       "condition": "花子姉部屋と植物部屋で花子姉に会う",
       "checkbox": {
-        "flower_girl_plant": "Plant Corridors",
-        "flower_girl_illusion": "Illusionary Corridors"
+        "flower_girl_plant": "植物部屋",
+        "flower_girl_illusion": "花子姉部屋"
       }
     },
     "music_cube_flow": {
@@ -5862,8 +5847,8 @@
         "tubes_kondo": "Tubes",
         "purple_crystal": "Memory Graveyard",
         "corrupted_art_gallery_sh_e": "Empty Gallery",
-        "lsd_world": "LSD World (Dynamic)",
-        "kondo_ending_room|kondo_ending_room_2": "Kondo"
+        "lsd_world": "LSD World",
+        "kondo_ending_room|kondo_ending_room_2": "Chaos"
       }
     },
     "rusty_bubble": {
@@ -6226,11 +6211,11 @@
       "description": "いつでも景色を楽しめる",
       "condition": "朝、昼、夕、夜、嵐の状態でバルコニーに歩いて行く",
       "checkbox": {
-        "balcony_evening": "Balcony",
-        "balcony_day": "Balcony (Day)",
-        "balcony_night": "Balcony (Night)",
-        "balcony_morning": "Balcony (Morning)",
-        "balcony_storm": "Balcony (Storm)"
+        "balcony_evening": "夕",
+        "balcony_day": "昼",
+        "balcony_night": "夜",
+        "balcony_morning": "朝",
+        "balcony_storm": "嵐"
       }
     },
     "broken_bridge_monster": {
@@ -6381,8 +6366,8 @@
       "name": "井戸の中から",
       "condition": "Mosquies' Villageで首の長い人を見て、Dark Landsの井戸の中に入る",
       "checkbox": {
-        "mosquies_village_chief": "Mosquies' Village: The Wickedest Mosquy",
-        "well_dark_lands": "Quiet Path"
+        "mosquies_village_chief": "Mosquies' Village",
+        "well_dark_lands": "Dark Lands"
       }
     },
     "cartoonboy": {
@@ -7082,7 +7067,7 @@
     "cycle_palace": {
       "name": "天井の兄弟",
       "description": "太陽と月、大空のデュオ、\"銀河の陰陽\"",
-      "condition": "Night Palaceとthe Day Palaceに到達する",
+      "condition": "Night PalaceとDay Palaceに到達する",
       "checkbox": {
         "day_palace": "Day Palace",
         "night_palace": "Night Palace"
@@ -7476,11 +7461,7 @@
     "duality_of_mom": {
       "name": "ママ...",
       "description": "僕はママを愛してるから、どうか傷つけないで...",
-      "condition": "優しい状態と怖い状態のAの母を見つける",
-      "checkbox": {
-        "mom_normal": "おかあさん",
-        "mom_scary": "?"
-      }
+      "condition": "優しい状態と怖い状態のAの母を見つける"
     },
     "sacred_cats": {
       "name": "神聖ネコ",

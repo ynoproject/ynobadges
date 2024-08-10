@@ -245,7 +245,7 @@
     },
     "bottles": {
       "name": "Boissons revigorantes",
-      "condition": "Trouver les 3 distributeurs automatiques et acheter une boisson dans chacun d'entre eux",
+      "condition": "Acheter une boisson des 3 distributeurs automatiques aux Dense Woods A, à Hell et aux Docks A",
       "checkbox": {
         "jihanki_dense_woods": "Dense Woods A",
         "jihanki_hell": "Hell",
@@ -379,11 +379,7 @@
     },
     "wilderness_fan": {
       "name": "Exploratrice du désert",
-      "condition": "Visiter chaque zone des Wilderness",
-      "checkbox": {
-        "wilderness_50|wilderness_51|wilderness_52|wilderness_53|wilderness_54|wilderness_55|wilderness_56|wilderness_57|wilderness_58|wilderness_59|wilderness_60|wilderness_61|wilderness_62|wilderness_63|wilderness_64": "Wilderness",
-        "wilderness_65": "Hot Spring House"
-      }
+      "condition": "Visiter chaque zone des Wilderness"
     },
     "dave_death": {
       "name": "Dave-y Jones Locker",
@@ -644,7 +640,7 @@
     },
     "singularity": {
       "name": "Singularités miniatures",
-      "condition": "Trouver et interagir avec les 5 filles trou noir dans les mondes de Río. Si vous l'avez déjà fait précédemment, vous devez visiter chaque zone où vous les avez trouvées.",
+      "condition": "Interagir avec les 5 filles trou noir dans les mondes de Río, ou revisitez leur zone si vous avez déjà obtenu leur style de menu (Decrepit Dwellings, Verdant Promenade, Forgotten Megalopolis, Tomb of Velleities: Lunar Sanctuary et Luminous Lake: Dragon's Peak)",
       "checkbox": {
         "b_h_g_decrepit_dwellings": "Decrepit Dwellings",
         "b_h_g_verdant_promenade": "Verdant Promenade",
@@ -881,7 +877,7 @@
         "downfall_garden_b": "Downfall Garden B",
         "sparkling_dimension_b": "Sparkling Dimension B",
         "opal_ruins_b": "Opal Ruins B",
-        "fuchsia_suburbs_b": "Originator Garden: Fuchsia Suburbs B"
+        "fuchsia_suburbs_b": "Fuchsia Suburbs B"
       }
     },
     "survivor": {
@@ -961,7 +957,7 @@
     "dream_fishing": {
       "name": "Prise onirique",
       "description": "Celui-là a l'air spécial",
-      "condition": "Visiter l'Ocean Subsurface, le Rotten Fish Lake, le Fish World, le Mackerel Desert, le Sushi World, le Flying Fish World, les Lamplit Stones, les Streetlight Docks, les Depths et les Bioluminescent Cavern",
+      "condition": "Visiter l'Ocean Subsurface, le Rotten Fish Lake, le Fish World, le Mackerel Desert, le Sushi World, le Flying Fish World, les Lamplit Stones, les Streetlight Docks, les Depths et la Bioluminescent Cavern",
       "checkbox": {
         "ocean_subsurface": "Ocean Subsurface",
         "rotten_fish_lake": "Rotten Fish Lake",
@@ -1115,7 +1111,7 @@
     },
     "egg": {
       "name": "Souvenirs du nid chromatique",
-      "condition": "Obtenir les styles de menu 8-15 et 25. Pour tout ceux que vous avez déjà obtenu, retournez là où vous l'avez originellement trouvé.",
+      "condition": "Obtenir les styles de menu 8-15 et 25 à Hidden Shoal, Forest Pier, Planetarium, Industrial Maze, Rose Church, Bioluminescent Cavern, Depths et Viridian Wetlands. Pour tout ceux que vous avez déjà obtenu, retournez là où vous l'avez originellement trouvé.",
       "checkbox": {
         "menu_theme_8": "Hidden Shoal",
         "menu_theme_9": "Forest Pier",
@@ -1285,11 +1281,12 @@
     "clock_pole": {
       "name": "Ponctualité",
       "description": "Toujours être ponctuel !",
-      "condition": "Trouver et approcher les pôles d'horloges dans le Garden World (nuit), la Blue Forest, le Botanical Garden (2), le Sculpture Park, le Twilight Park, la Monochrome School, la Sunrise Road, les Pure White Lands et le Critter Village",
+      "condition": "Trouver et approcher les pôles d'horloges dans le Garden World (nuit), la Blue Forest, le Botanical Garden (extérieur, passage), le Sculpture Park, le Twilight Park, la Monochrome School, la Sunrise Road, les Pure White Lands et le Critter Village",
       "checkbox": {
         "garden_world_clock_pole": "Garden World (nuit)",
         "blue_forest_clock_pole": "Blue Forest",
-        "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "Botanical Garden",
+        "botanical_garden_clock_pole_1": "extérieur",
+        "botanical_garden_clock_pole_2": "passage",
         "sculpture_park_clock_pole": "Sculpture Park",
         "twilight_park_clock_pole": "Twilight Park",
         "monochrome_school_clock_pole": "Monochrome School",
@@ -1315,11 +1312,7 @@
     "plaza": {
       "name": "Hydroplaza",
       "description": "C'est pas une ville, c'est une grande place",
-      "condition": "Visiter chaque zone de la Poseidon Plaza",
-      "checkbox": {
-        "plaza_1|plaza_3|plaza_4|plaza_5": "Poseidon Plaza",
-        "plaza_2": "Deep Red Wilds"
-      }
+      "condition": "Visiter chaque zone de la Poseidon Plaza"
     },
     "robot": {
       "name": "Salle de stockage",
@@ -1484,7 +1477,8 @@
       "condition": " Interagir avec (ou entrer dans la salle contenant) les arbres des Mountaintop Ruins, de la Blood Cell Sea (incluant son état qliphothique), Graffiti Maze, Shinto Shrine, Azure Garden, Scenic Outlook, et Evergreen Woods",
       "checkbox": {
         "mountainview_ruins_tree": "Mountaintop Ruins",
-        "tree_of_life_a|tree_of_life_b": "Blood Cell Sea",
+        "tree_of_life_a": "Blood Cell Sea",
+        "tree_of_life_b": "état qliphothique",
         "graffiti_maze_tree": "Graffiti Maze",
         "shinto_shrine_tree": "Shinto Shrine",
         "scenic_outlook_tree": "Scenic Outlook",
@@ -2379,9 +2373,12 @@
     "carousel_oriental": {
       "name": "Carrousel",
       "description": "Et on tourne, et on tourne, et on tourne...",
-      "condition": "Visiter les 6 mondes présents sur le badge sans utiliser le téléporteur présent dans l'Oriental Pub",
+      "condition": "Visiter les 6 mondes présents sur le badge sans utiliser le téléporteur présent dans l'Oriental Pub (Test Facility, Holiday Hell, Ice Cream Islands, Tribulation Complex, Platformer World, Abandoned Grounds)",
       "checkbox": {
-        "humanoid_angry|humanoid_crying|humanoid_happy|humanoid_shocked": "Ice Cream Islands",
+        "humanoid_angry": "Test Facility",
+        "humanoid_crying": "Holiday Hell",
+        "humanoid_happy": "Ice Cream Islands",
+        "humanoid_shocked": "Tribulation Complex",
         "humanoid_green": "Platformer World",
         "humanoid_tired": "Abandoned Grounds"
       }
@@ -2479,7 +2476,7 @@
       "condition": "Rendre visite à Jimbo au Giant Desktop et voir le quatrième judas à Holiday Hell",
       "checkbox": {
         "jimbo_desktop": "Giant Desktop",
-        "jimbo_holiday": "Ice Cream Islands"
+        "jimbo_holiday": "Holiday Hell"
       }
     },
     "lone_penguin": {
@@ -2498,7 +2495,7 @@
         "honeycomb_world": "Honeycomb World",
         "pink_honeycomb": "Pink Honeycomb",
         "honeybee_laboratory": "Honeybee Laboratory",
-        "honeybee_residence": "Honeybee Residence: Honeybee Skyscraper"
+        "honeybee_residence": "Honeybee Residence"
       }
     },
     "vertigo_parasomnia": {
@@ -2564,7 +2561,7 @@
       "checkbox": {
         "cyclop_petal_hotel": "Petal Hotel",
         "cyclop_dream_pool": "Dream Pool",
-        "cyclop_silent_sewers": "Silent Sewers: Cyclops' Room",
+        "cyclop_silent_sewers": "Silent Sewers",
         "cyclop_teddy_bear": "Teddy Bear Land",
         "cyclop_red_street": "Red Streetlight World",
         "cyclop_acerola": "Acerola World",
@@ -2613,7 +2610,7 @@
         "flowers_hotel": "Travel Hotel",
         "flowers_creek": "Lost Creek",
         "flowers_fairy": "Snowy Forest",
-        "flowers_polycube": "Wooden Polycube Ruins: Icy Garden"
+        "flowers_polycube": "Wooden Polycube Ruins"
       }
     },
     "pudding_world_secrets": {
@@ -2726,11 +2723,7 @@
     "mask_collection": {
       "name": "Experte du déguisement",
       "description": "Qui seras-tu ?",
-      "condition": "Débloquer et voir tous les masques sans effet dans l'un des Mask Shops (En dehors de la Fille aux Couettes, Ahogeko, Moisobscure, Ange Prêtre, Kīgāru, Souris Blanche, Souris Noire, Créature Takoyaki et du Cône de signalisation)",
-      "checkbox": {
-        "mask_shop_s_twintail|mask_shop_s_bird|mask_shop_s_slime|mask_shop_s_guard|mask_shop_paint|mask_shop_uri|mask_shop_yukata|mask_shop_monmon|mask_shop_witch|mask_shop_prov|mask_shop_cat|mask_shop_appu|mask_shop_science|mask_shop_musume|mask_shop_otoko|mask_shop_tv|mask_shop_math|mask_shop_dogboa|mask_shop_huyure|mask_shop_eyeball|mask_shop_chain|mask_shop_fox|mask_shop_seal|mask_shop_candle|mask_shop_barrier|mask_shop_rune": "Mask Shop",
-        "mask_shop_s_twintail_d|mask_shop_s_bird_d|mask_shop_s_slime_d|mask_shop_s_guard_d|mask_shop_paint_d|mask_shop_uri_d|mask_shop_yukata_d|mask_shop_monmon_d|mask_shop_witch_d|mask_shop_prov_d|mask_shop_cat_d|mask_shop_appu_d|mask_shop_science_d|mask_shop_musume_d|mask_shop_otoko_d|mask_shop_tv_d|mask_shop_math_d|mask_shop_dogboa_d|mask_shop_huyure_d|mask_shop_eyeball_d|mask_shop_chain_d|mask_shop_fox_d|mask_shop_seal_d|mask_shop_candle_d|mask_shop_barrier_d|mask_shop_rune_d": "Deluxe Mask Shop"
-      }
+      "condition": "Débloquer et voir tous les masques sans effet dans l'un des Mask Shops (En dehors de la Fille aux Couettes, Ahogeko, Moisobscure, Ange Prêtre, Kīgāru, Souris Blanche, Souris Noire, Créature Takoyaki et du Cône de signalisation)"
     },
     "retro_cartridge_game": {
       "name": "Comme en 1981 !",
@@ -3395,8 +3388,10 @@
       "description": "Vieux tel un bon vin",
       "condition": "Dans la Japan Town, trouver la Maiko fantomatique, découvrir des créatures cachées dans une pièce isolée en utilisant l'effet Lunettes et interagir avec Kanban Otoko et News Man",
       "checkbox": {
-        "japan_town_hotel|japan_town_glasses": "Japan Town: The Hotel",
-        "japan_town_otoko|japan_town_news_man": "Japan Town"
+        "japan_town_hotel": "trouver la Maiko fantomatique",
+        "japan_town_glasses": "découvrir des créatures cachées dans une pièce isolée en utilisant l'effet Lunettes",
+        "japan_town_otoko": "Kanban Otoko",
+        "japan_town_news_man": "News Man"
       }
     },
     "himalayan_lighthouse": {
@@ -3477,9 +3472,9 @@
         "urotsukis_dream_apartments": "Urotsuki's Dream Apartments",
         "drowsy_forest_room": "Drowsy Forest",
         "mirror_room": "Mirror Room",
-        "static_doppelganger_room": "Static Labyrinth: Doppelgänger Room",
+        "static_doppelganger_room": "Static Labyrinth",
         "bleak_future_main": "Bleak Future",
-        "vertigo_room": "Urotsuki's Dream Room: Vertigo"
+        "vertigo_room": "Vertigo"
       }
     },
     "2kki_canvas": {
@@ -3867,9 +3862,10 @@
     "red_monsters_qxy": {
       "name": "Spasmes cauchemardeques",
       "description": "Est-ce que ces fléaux annonciateurs d'une perturbation sont des monstres ou des signes ? Et es-tu un outil du destin, ou le témoin d'un désastre ?",
-      "condition": "Tronçonner les monstres rouges dans les mondes suivants : Wooded Lakeside, Kaleidoscope World, Streetlight Docks, Critter Village (Hexagonal Pillar Passage), Pure White Lands",
+      "condition": "Tronçonner les monstres rouges dans les mondes suivants : Wooded Lakeside A, Wooded Lakeside B, Kaleidoscope World, Streetlight Docks, Critter Village (Hexagonal Pillar Passage), Pure White Lands",
       "checkbox": {
-        "wooded_lakeside_1_monster|wooded_lakeside_2_monster": "Wooded Lakeside",
+        "wooded_lakeside_1_monster": "Wooded Lakeside A",
+        "wooded_lakeside_2_monster": "Wooded Lakeside B",
         "hexa_pillar_passage_monster": "Critter Village (Hexagonal Pillar Passage)",
         "kaleidscope_world_monster": "Kaleidoscope World",
         "streetlight_docks_monster": "Streetlight Docks",
@@ -4323,11 +4319,7 @@
     "megusuri_uri_visine": {
       "name": "Marchand de larmes",
       "description": "Ces yeux sont très sensibles, donc il prend son travail très à cœur !",
-      "condition": "Trouver et interagir avec Megusuri Uri dans les trois parties différentes de Visine World",
-      "checkbox": {
-        "megusuri_uri_visine_1": "Visine World",
-        "megusuri_uri_visine_2|megusuri_uri_visine_3": "Visine World: Eye Shop"
-      }
+      "condition": "Trouver et interagir avec Megusuri Uri dans les trois parties différentes de Visine World"
     },
     "rgb_passage": {
       "name": "RGB Tile Path",
@@ -4353,14 +4345,14 @@
       "description": "Allons admirer les étoiles !",
       "condition": "Trouver les paysages nocturnes à Twisted Thickets, Foliage Estate, Submerged Communications Area, Shallows of Deceit, Nocturnal Grove, Windswept Scarlet Sands, Planetarium et Tomb of Velleities",
       "checkbox": {
-        "peak": "Twisted Thickets: The Peak",
+        "peak": "Twisted Thickets",
         "foliage_estate_satellite_dish": "Foliage Estate",
         "submerged_communications_area": "Submerged Communications Area",
         "shallows_of_deceit_rooftop": "Shallows of Deceit",
         "nocturnal_grove_boat": "Nocturnal Grove",
         "starry_night": "Windswept Scarlet Sands",
         "star_planetarium": "Planetarium",
-        "tomb_of_velleities": "Tomb of Velleities: Lunar Sanctuary"
+        "tomb_of_velleities": "Tomb of Velleities"
       }
     },
     "overgrowth_outlook": {
@@ -4654,7 +4646,7 @@
     "2kki_menu_67_70": {
       "name": "Prisme abstrait",
       "description": "Des joyaux en forme de prisme parmi les couleurs.",
-      "condition": "Obtenir les styles de menu 67-70. Pour tout ceux que vous avez déjà obtenu, retournez là où vous l'avez originellement trouvé.",
+      "condition": "Obtenir les styles de menu 67-70 à Rainy Sundial, Paraffin Embedding Ruins, Fragmented Station B et Snow Black. Pour tout ceux que vous avez déjà obtenu, retournez là où vous l'avez originellement trouvé.",
       "checkbox": {
         "2kki_menu_67": "Rainy Sundial",
         "2kki_menu_68": "Paraffin Embedding Ruins",
@@ -5817,14 +5809,14 @@
     "kondo": {
       "name": "Kondo",
       "description": "Oui, c'est lui.",
-      "condition": "Voir Kondo dans tous les lieux où elle apparaît",
+      "condition": "Voir Kondo au Glitch World, à Tubes, au Memory Graveyard, à l'Empty Gallery, au LSD World et à Chaos",
       "checkbox": {
         "glitch_world_kondo": "Glitch World",
         "tubes_kondo": "Tubes",
         "purple_crystal": "Memory Graveyard",
         "corrupted_art_gallery_sh_e": "Empty Gallery",
-        "lsd_world": "LSD World (Dynamic)",
-        "kondo_ending_room|kondo_ending_room_2": "Kondo"
+        "lsd_world": "LSD World",
+        "kondo_ending_room|kondo_ending_room_2": "Chaos"
       }
     },
     "rusty_bubble": {
@@ -5859,7 +5851,7 @@
     "lil_tsuki": {
       "name": "P'tit Tsuki",
       "description": "Le passé forge le futur.",
-      "condition": "Voir la version jeune d'Itsuki dans tous les lieux où il se trouve",
+      "condition": "Voir la version jeune d'Itsuki au School World, au Corrupted School World, au Glacier, à la Space Party, au Doodle World et dans l'Art Gallery",
       "checkbox": {
         "lil_tsuki_school": "School World",
         "lil_tsuki_corrupted": "Corrupted School World",
@@ -6342,8 +6334,8 @@
       "name": "Cheffe du puits",
       "condition": "Voir la personne au long cou dans le Mosquies' Village et rentrer dans le puits des Dark Lands",
       "checkbox": {
-        "mosquies_village_chief": "Mosquies' Village: The Wickedest Mosquy",
-        "well_dark_lands": "Quiet Path"
+        "mosquies_village_chief": "Mosquies' Village",
+        "well_dark_lands": "Dark Lands"
       }
     },
     "cartoonboy": {
@@ -6953,10 +6945,10 @@
     "young_sometsuki": {
       "name": "Déshonneur d'antan",
       "description": "Qu'est-ce donc ? Qu'est-ce donc que tu as encore fait ?",
-      "condition": "Rencontrer toutes les jeunes Sometsuki",
+      "condition": "Rencontrer toutes les jeunes Sometsuki à l'Emerald Square (Ruelle incluse) et au Banquet Hall",
       "checkbox": {
         "emerald_square": "Emerald Square",
-        "emerald_square_some": "Emerald Square: Back Alley",
+        "emerald_square_some": "Ruelle",
         "banquet_hall_some": "Banquet Hall"
       }
     },
@@ -7020,7 +7012,7 @@
     "eternal_love": {
       "name": "Amour éternel",
       "description": "« Je te suivrai jusqu'aux tréfonds de la terre,\nEt je t'y donnerai un baiser de renaissance. »",
-      "condition": "Sortir avec Alesandre dans les lieux où vous pouvez le rencontrer",
+      "condition": "Sortir avec Alesandre au Flooded Garden et au Rave Hall",
       "checkbox": {
         "flooded_garden_kiss": "Flooded Garden",
         "rave_rooftop_lovers": "Rave Hall"
@@ -7390,7 +7382,7 @@
     },
     "deep_forest": {
       "name": "Secrets parmi les branches",
-      "condition": "Visiter la Deep Forest A, B et C",
+      "condition": "Visiter la Deep Forest A, Deep Forest B et Deep Forest C",
       "checkbox": {
         "deep_forest_a_1|deep_forest_a_2": "Deep Forest A",
         "deep_forest_b_1|deep_forest_b_2": "Deep Forest B",
@@ -7437,11 +7429,7 @@
     "duality_of_mom": {
       "name": "Maman...",
       "description": "Je t'aime, ne me blesse pas s'il te plaît.",
-      "condition": "Trouver la versions douce et la version flippante de la mère de A",
-      "checkbox": {
-        "mom_normal": "Nursery Room",
-        "mom_scary": "?"
-      }
+      "condition": "Trouver la versions douce et la version flippante de la mère de A"
     },
     "sacred_cats": {
       "name": "Chats sacrés",

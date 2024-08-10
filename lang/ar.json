@@ -245,7 +245,12 @@
     },
     "bottles": {
       "name": "المشروبات الصحية",
-      "condition": "اعثر على كل آلات البيع (3) واشتري شراباً من كل واحدة"
+      "condition": "اعثر على كل آلات البيع (3) واشتري شراباً من كل واحدة",
+      "checkbox": {
+        "jihanki_dense_woods": "Dense Woods A",
+        "jihanki_hell": "Hell",
+        "jihanki_docks": "Docks A"
+      }
     },
     "mado": {
       "name": "النافذة",
@@ -635,7 +640,14 @@
     },
     "singularity": {
       "name": "Miniature Singularity",
-      "condition": "Find and interact with All 5 Black Hole Girls in Río's worlds. If you have already done so previously, you must visit the area where you found them."
+      "condition": "Interact with all 5 Black Hole Girls in Río's worlds, or revisit the areas where they appear (Decrepit Dwellings, Verdant Promenade, Forgotten Megalopolis, Tomb of Velleities: Lunar Sanctuary, Luminous Lake: Dragon's Peak)",
+      "checkbox": {
+        "b_h_g_decrepit_dwellings": "Decrepit Dwellings",
+        "b_h_g_verdant_promenade": "Verdant Promenade",
+        "b_h_g_forgotten_megalopolis": "Forgotten Megalopolis",
+        "b_h_g_tomb_of_velleities": "Tomb of Velleities: Lunar Sanctuary",
+        "b_h_g_dragons_peak": "Luminous Lake: Dragon's Peak"
+      }
     },
     "circus_lesser": {
       "name": "Escape from the Show",
@@ -1099,7 +1111,17 @@
     },
     "egg": {
       "name": "Memories of the Chromatic Nest",
-      "condition": "Obtain menu types 8-15 and 25. For any you have already obtained, return to the area where you originally found them."
+      "condition": "Obtain menu types 8-15 and 25 in Hidden Shoal, Forest Pier, Planetarium, Industrial Maze, Rose Church, Bioluminescent Cavern, Depths, and Viridian Wetlands. If already obtained, revisit the areas where you found them.",
+      "checkbox": {
+        "menu_theme_8": "Hidden Shoal",
+        "menu_theme_9": "Forest Pier",
+        "menu_theme_10": "Planetarium",
+        "b_h_g_antiquated_resthouse": "Industrial Maze",
+        "menu_theme_12": "Rose Church",
+        "menu_theme_13": "Bioluminescent Cavern",
+        "menu_theme_14|menu_theme_15": "Depths",
+        "menu_theme_25": "Viridian Wetlands"
+      }
     },
     "scared_octopus": {
       "name": "Scared Octopus",
@@ -1259,11 +1281,12 @@
     "clock_pole": {
       "name": "Punctuality",
       "description": "Always be punctual!",
-      "condition": "Find and approach the clock poles in Garden World (night), Blue Forest, Botanical Garden (2), Sculpture Park, Twilight Park, Monochrome School, Sunrise Road, Pure White Lands and Critter Village",
+      "condition": "Find and approach the clock poles in Garden World (night), Blue Forest, Botanical Garden (outdoors, passage), Sculpture Park, Twilight Park, Monochrome School, Sunrise Road, Pure White Lands and Critter Village",
       "checkbox": {
         "garden_world_clock_pole": "Garden World (night)",
         "blue_forest_clock_pole": "Blue Forest",
-        "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "Botanical Garden (2)",
+        "botanical_garden_clock_pole_1": "outdoors",
+        "botanical_garden_clock_pole_2": "passage",
         "sculpture_park_clock_pole": "Sculpture Park",
         "twilight_park_clock_pole": "Twilight Park",
         "monochrome_school_clock_pole": "Monochrome School",
@@ -1456,7 +1479,8 @@
       "condition": "Interact with (or enter the room containing) the trees of Mountaintop Ruins, Blood Cell Sea (including its Qliphothic state), Graffiti Maze, Shinto Shrine, Azure Garden, Scenic Outlook, and Evergreen Woods",
       "checkbox": {
         "mountainview_ruins_tree": "Mountaintop Ruins",
-        "tree_of_life_a|tree_of_life_b": "Blood Cell Sea (including its Qliphothic state)",
+        "tree_of_life_a": "Blood Cell Sea",
+        "tree_of_life_b": "Qliphothic state",
         "graffiti_maze_tree": "Graffiti Maze",
         "shinto_shrine_tree": "Shinto Shrine",
         "scenic_outlook_tree": "Scenic Outlook",
@@ -2345,7 +2369,15 @@
     "carousel_oriental": {
       "name": "Carousel",
       "description": "Round and round and round...",
-      "condition": "Visit the 6 worlds depicted without using the warp from Oriental Pub"
+      "condition": "Visit the 6 worlds depicted without using the warp from Oriental Pub (Test Facility, Holiday Hell, Ice Cream Islands, Tribulation Complex, Platformer World, Abandoned Grounds)",
+      "checkbox": {
+        "humanoid_angry": "Test Facility",
+        "humanoid_crying": "Holiday Hell",
+        "humanoid_happy": "Ice Cream Islands",
+        "humanoid_shocked": "Tribulation Complex",
+        "humanoid_green": "Platformer World",
+        "humanoid_tired": "Abandoned Grounds"
+      }
     },
     "brh_event": {
       "name": "Blood Red RNG",
@@ -3826,9 +3858,10 @@
     "red_monsters_qxy": {
       "name": "Nightmare Spasms",
       "description": "Are these scourges of a perturbation monsters or signs? Are you a tool of fate or a witness to a disaster?",
-      "condition": "Chainsaw the red monsters in Wooded Lakeside, Kaleidoscope World, Streetlight Docks, Critter Village (Hexagonal Pillar Passage), Pure White Lands",
+      "condition": "Chainsaw the red monsters in Wooded Lakeside A, Wooded Lakeside B, Kaleidoscope World, Streetlight Docks, Critter Village (Hexagonal Pillar Passage), Pure White Lands",
       "checkbox": {
-        "wooded_lakeside_1_monster|wooded_lakeside_2_monster": "Wooded Lakeside",
+        "wooded_lakeside_1_monster": "Wooded Lakeside A",
+        "wooded_lakeside_2_monster": "Wooded Lakeside B",
         "hexa_pillar_passage_monster": "Critter Village (Hexagonal Pillar Passage)",
         "kaleidscope_world_monster": "Kaleidoscope World",
         "streetlight_docks_monster": "Streetlight Docks",
@@ -4609,7 +4642,7 @@
     "2kki_menu_67_70": {
       "name": "Abstract Prism",
       "description": "Prismatic jewels within the colors.",
-      "condition": "Obtain menu types 67-70. For any you have already obtained, return to the area where you originally found them.",
+      "condition": "Obtain menu types 67-70 in Rainy Sundial, Paraffin Embedding Ruins, Fragmented Station B, and Snow Black. If already obtained, revisit the areas where you found them.",
       "checkbox": {
         "2kki_menu_67": "Rainy Sundial",
         "2kki_menu_68": "Paraffin Embedding Ruins",
@@ -5772,7 +5805,15 @@
     "kondo": {
       "name": "Kondo",
       "description": "Yes, it's him.",
-      "condition": "See Kondo in all places she appears"
+      "condition": "See Kondo in Glitch World, Tubes, Memory Graveyard, Empty Gallery, LSD World, Chaos",
+      "checkbox": {
+        "glitch_world_kondo": "Glitch World",
+        "tubes_kondo": "Tubes",
+        "purple_crystal": "Memory Graveyard",
+        "corrupted_art_gallery_sh_e": "Empty Gallery",
+        "lsd_world": "LSD World",
+        "kondo_ending_room|kondo_ending_room_2": "Chaos"
+      }
     },
     "rusty_bubble": {
       "name": "Rusty Bubble",
@@ -5806,7 +5847,15 @@
     "lil_tsuki": {
       "name": "Li'l Itsuki",
       "description": "The past forms the future.",
-      "condition": "See Itsuki's younger self in all places he appears"
+      "condition": "See Itsuki's younger self in School World, Corrupted School World, Glacier, Space Party, Doodle World, Art Gallery",
+      "checkbox": {
+        "lil_tsuki_school": "School World",
+        "lil_tsuki_corrupted": "Corrupted School World",
+        "lil_tsuki_snow": "Glacier",
+        "lil_tsuki_yellow_crystal": "Space Party",
+        "lil_tsuki_doodle": "Doodle World",
+        "lil_tsuki_art": "Art Gallery"
+      }
     },
     "silent_laughter": {
       "name": "𝐍𝐨𝐭",
@@ -6892,7 +6941,12 @@
     "young_sometsuki": {
       "name": "Little Disgrace",
       "description": "What is it? What is it that you have done?",
-      "condition": "Encounter all the young Sometsuki"
+      "condition": "Encounter all the young Sometsuki in Emerald Square (including Back Alley) and Banquet Hall",
+      "checkbox": {
+        "emerald_square": "Emerald Square",
+        "emerald_square_some": "Back Alley",
+        "banquet_hall_some": "Banquet Hall"
+      }
     },
     "creature_dark_forest": {
       "name": "Lake Dwellers",
@@ -6954,7 +7008,11 @@
     "eternal_love": {
       "name": "Eternal Love",
       "description": "\"I will follow you to the ends of the earth,\nAnd there I will give you a kiss of rebirth.\"",
-      "condition": "Go on a date with Alesandre in the places where you meet him"
+      "condition": "Go on a date with Alesandre in Flooded Garden and Rave Hall",
+      "checkbox": {
+        "flooded_garden_kiss": "Flooded Garden",
+        "rave_rooftop_lovers": "Rave Hall"
+      }
     },
     "lantern_piers": {
       "name": "Lanterns at Sunset",
@@ -7306,11 +7364,11 @@
     },
     "deep_forest": {
       "name": "Secrets and Branches",
-      "condition": "Visit the Deep Forest A, B, and C",
+      "condition": "Visit Deep Forest A, Deep Forest B, and Deep Forest C",
       "checkbox": {
         "deep_forest_a_1|deep_forest_a_2": "Deep Forest A",
-        "deep_forest_b_1|deep_forest_b_2": "B",
-        "deep_forest_c_1|deep_forest_c_2|deep_forest_c_3": "C"
+        "deep_forest_b_1|deep_forest_b_2": "Deep Forest B",
+        "deep_forest_c_1|deep_forest_c_2|deep_forest_c_3": "Deep Forest C"
       }
     },
     "tsh_gothic_dress_effect": {

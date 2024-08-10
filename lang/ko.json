@@ -372,19 +372,14 @@
       "description": "트리플",
       "condition": "삼각 두건 이펙트를 착용한 채로 달걀 귀신 유령(Nopperabou ghost), 빨간 유령(Fleebie)과 상호작용하고 식칼 이펙트로 파란 유령(Follony)을 찌르기",
       "checkbox": {
-        "ghostly_nopp": "어둠의 세계",
-        "ghostly_follony": "하수구",
-        "ghostly_fleebie": "콘크리트 폐허"
+        "ghostly_nopp": "귀신 유령(Nopperabou ghost)",
+        "ghostly_follony": "파란 유령(Follony)",
+        "ghostly_fleebie": "빨간 유령(Fleebie)"
       }
     },
     "wilderness_fan": {
       "name": "사막 탐험가",
-      "condition": "고비 사막의 모든 장소를 방문하기",
-      "checkbox": {
-        "wilderness_50|wilderness_51|wilderness_52|wilderness_53|wilderness_54|wilderness_55|wilderness_56|wilderness_57|wilderness_58|wilderness_59|wilderness_60|wilderness_61|wilderness_62|wilderness_63": "고비 사막",
-        "wilderness_64": "고비 사막 : 북부",
-        "wilderness_65": "고비 사막 : 온천"
-      }
+      "condition": "고비 사막의 모든 장소를 방문하기"
     },
     "dave_death": {
       "name": "데이비 존스의 보관함",
@@ -638,20 +633,20 @@
       "name": "몽환적인 사람들",
       "condition": "Underground Lake, Cliffside Woods, Radiant Stones Pathway를 방문하기",
       "checkbox": {
-        "underground_lake": "地底湖",
-        "cliffside_woods": "樹林空間",
-        "radiant_stones_pathway": "石跡"
+        "underground_lake": "Underground Lake",
+        "cliffside_woods": "Cliffside Woods",
+        "radiant_stones_pathway": "Radiant Stones Pathway"
       }
     },
     "singularity": {
       "name": "특이점 미니어쳐",
       "condition": "Río의 세계에 있는 모든 5명의 블랙홀 소녀와 상호작용하기 (이미 완료했다면, 발견했던 장소를 모두 방문할 것)",
       "checkbox": {
-        "b_h_g_decrepit_dwellings": "集合住宅",
+        "b_h_g_decrepit_dwellings": "Decrepit Dwellings",
         "b_h_g_verdant_promenade": "Verdant Promenade",
         "b_h_g_forgotten_megalopolis": "Forgotten Megalopolis",
-        "b_h_g_tomb_of_velleities": "Butterfly：最奥",
-        "b_h_g_dragons_peak": "夢徨龍リオドリムス"
+        "b_h_g_tomb_of_velleities": "Tomb of Velleities: Lunar Sanctuary",
+        "b_h_g_dragons_peak": "Luminous Lake: Dragon's Peak"
       }
     },
     "circus_lesser": {
@@ -749,7 +744,7 @@
       "checkbox": {
         "library": "Library",
         "infinite_library": "Infinite Library",
-        "mystery_library": "魔法図書館"
+        "mystery_library": "Mystery Library"
       }
     },
     "cosmic_cube": {
@@ -879,10 +874,10 @@
       "name": "B-사이드",
       "condition": "Downfall Garden B, Sparkling Dimension B, Opal Ruins B, Fuchsia Suburbs B에 방문하기",
       "checkbox": {
-        "downfall_garden_b": "嘔吐庭：血反吐エリア",
-        "sparkling_dimension_b": "黒潰れ：街灯と木のエリア",
-        "opal_ruins_b": "ミサロジー：陸（深層側）",
-        "fuchsia_suburbs_b": "反富裕：始祖庭側"
+        "downfall_garden_b": "Downfall Garden B",
+        "sparkling_dimension_b": "Sparkling Dimension B",
+        "opal_ruins_b": "Opal Ruins B",
+        "fuchsia_suburbs_b": "Fuchsia Suburbs B"
       }
     },
     "survivor": {
@@ -962,7 +957,7 @@
     "dream_fishing": {
       "name": "꿈낚시",
       "description": "이건 좀 독특하게 생겼네",
-      "condition": "Ocean Subsurface, Rotten Fish Lake, Fish World, Mackerel Desert, Sushi World, Flying Fish World, Lamplit Stones, Streetlight Docks, Depths, Bioluminescent Caverns를 방문하기",
+      "condition": "Ocean Subsurface, Rotten Fish Lake, Fish World, Mackerel Desert, Sushi World, Flying Fish World, Lamplit Stones, Streetlight Docks, Depths, Bioluminescent Cavern를 방문하기",
       "checkbox": {
         "ocean_subsurface": "Ocean Subsurface",
         "rotten_fish_lake": "Rotten Fish Lake",
@@ -972,8 +967,8 @@
         "fish_f_f_world": "Flying Fish World",
         "fish_lamplit": "Lamplit Stones",
         "fish_streetlight": "Streetlight Docks",
-        "fish_depths": "みなぞこ",
-        "fish_bioluminescent": "夜花草"
+        "fish_depths": "Depths",
+        "fish_bioluminescent": "Bioluminescent Cavern"
       }
     },
     "decrepit_smile": {
@@ -1004,18 +999,13 @@
         "01_digital_forest_1|01_digital_forest_2": "Digital Forest",
         "01_fluorescent_halls": "Fluorescent Halls",
         "01_corrupted_love_world": "Corrupted Love World",
-        "01_winter_valley": "深層：雪降る森エリア",
-        "01_bright_forest": "虹遺跡"
+        "01_winter_valley": "Winter Valley",
+        "01_bright_forest": "Bright Forest"
       }
     },
     "tetrapod": {
       "name": "테트라포드",
-      "condition": "Realistic Beach의 모든 에리어를 방문하기",
-      "checkbox": {
-        "realistic_beach_1|realistic_beach_2|realistic_beach_3|realistic_beach_4|realistic_beach_5|realistic_beach_6": "Realistic Beach",
-        "realistic_beach_7|realistic_beach_8|realistic_beach_9|realistic_beach_10": "消波ブロック内部",
-        "realistic_beach_11|realistic_beach_12": "消波ブロック内部奥"
-      }
+      "condition": "Realistic Beach의 모든 에리어를 방문하기"
     },
     "stellar_graveyard": {
       "name": "별의 묘지",
@@ -1126,11 +1116,10 @@
         "menu_theme_8": "Hidden Shoal",
         "menu_theme_9": "Forest Pier",
         "menu_theme_10": "Planetarium",
-        "b_h_g_antiquated_resthouse": "蒸気工場",
+        "b_h_g_antiquated_resthouse": "Industrial Maze",
         "menu_theme_12": "Rose Church",
-        "menu_theme_13": "夜花草",
-        "menu_theme_14": "みなぞこ",
-        "menu_theme_15": "すいそう",
+        "menu_theme_13": "Bioluminescent Cavern",
+        "menu_theme_14|menu_theme_15": "Depths",
         "menu_theme_25": "Viridian Wetlands"
       }
     },
@@ -1198,12 +1187,12 @@
         "digital_hand_hub": "Stone World",
         "urban_street_area": "Urban Street Area",
         "the_docks": "The Docks",
-        "zalgo": "うつむき部屋",
-        "white_mushroom_field": "裏きのこ",
-        "crimson_labyrinth_mountains": "溶岩山",
+        "zalgo": "Magnet Room (Zalgo의 방?)",
+        "white_mushroom_field": "Mushroom World (하얀 버섯 세계)",
+        "crimson_labyrinth_mountains": "Crimson Labyrinth (붉은 산)",
         "color_cubes_world": "Color Cubes World",
-        "octagonal_grid_hub_passage": "Octagonal Grid Hub",
-        "obentou_world": "吐き気",
+        "octagonal_grid_hub_passage": "Octagonal Grid Hub (끊어진 통로)",
+        "obentou_world": "Obentou World",
         "entropy_dungeon": "Entropy Dungeon",
         "rainbow_towers": "Rainbow Towers"
       }
@@ -1257,21 +1246,7 @@
     "flying_fish_world": {
       "name": "너, 나 그리고 우리",
       "description": "어떻게 하나~ 우리 만남은 빙글빙글 돌고~",
-      "condition": "Flying Fish World의 메인 에리어와 모든 서브 에리어를 방문하기",
-      "checkbox": {
-        "flying_fish_world_1": "夕焼け",
-        "flying_fish_world_2|flying_fish_world_3": "待ち人",
-        "flying_fish_world_4|flying_fish_world_5": "正体不明",
-        "flying_fish_world_6": "古き良きテレビ",
-        "flying_fish_world_7": "頭蓋岩",
-        "flying_fish_world_8|flying_fish_world_14": "パース",
-        "flying_fish_world_9": "Flying Fish World",
-        "flying_fish_world_10": "怒りと血涙",
-        "flying_fish_world_11": "白い部屋",
-        "flying_fish_world_12": "夜景ベランダ",
-        "flying_fish_world_13": "鉢植え部屋：水槽と本棚のある鉢植え部屋",
-        "flying_fish_world_15": "時計"
-      }
+      "condition": "Flying Fish World의 메인 에리어와 모든 서브 에리어를 방문하기"
     },
     "sacred_crypt": {
       "name": "태초의 꿈",
@@ -1297,9 +1272,9 @@
       "description": "그녀는 누군가와 묘하게 닮았다...",
       "condition": "Hospital, Sky Kingdom, Train Tracks, Construction Frame Building 에 있는 모든 신비로운 메이드(Mysterious Maid) NPC를 찾아 상호작용하기",
       "checkbox": {
-        "m_m_hospital": "病院",
-        "m_m_sky_kingdom": "空中公園",
-        "m_m_train_tracks": "廃線：線路エリア",
+        "m_m_hospital": "Hospital",
+        "m_m_sky_kingdom": "Sky Kingdom",
+        "m_m_train_tracks": "Train Tracks",
         "m_m_construction_frame": "Construction Frame Building"
       }
     },
@@ -1308,9 +1283,10 @@
       "description": "시간은 금이라구!",
       "condition": "Garden World (밤), Blue Forest, Botanical Garden (2), Sculpture Park, Twilight Park, Monochrome School, Sunrise Road, Pure White Lands, Critter Village에 있는 모든 시계탑들과 상호작용하기",
       "checkbox": {
-        "garden_world_clock_pole": "Garden World",
-        "blue_forest_clock_pole": "雨の森",
-        "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "Botanical Garden",
+        "garden_world_clock_pole": "Garden World (밤)",
+        "blue_forest_clock_pole": "Blue Forest",
+        "botanical_garden_clock_pole_1": "outdoors",
+        "botanical_garden_clock_pole_2": "passage",
         "sculpture_park_clock_pole": "Sculpture Park",
         "twilight_park_clock_pole": "Twilight Park",
         "monochrome_school_clock_pole": "Monochrome School",
@@ -1336,11 +1312,7 @@
     "plaza": {
       "name": "물의 플라자",
       "description": "여긴 도시보다 더 큰 플라자라구!",
-      "condition": "Poseidon Plaza의 모든 곳을 방문하기",
-      "checkbox": {
-        "plaza_1|plaza_3|plaza_4|plaza_5": "Poseidon Plaza",
-        "plaza_2": "古代遺跡世界"
-      }
+      "condition": "Poseidon Plaza의 모든 곳을 방문하기"
     },
     "robot": {
       "name": "보관소",
@@ -1356,10 +1328,11 @@
       "description": "가장 가치있는 전화기(Most Valued Phone)",
       "condition": "Aquatic Cube City, Fossil Lake, Sugar Road, Underground Garage, Water Reclamation Facility, Dark Museum, Dark Warehouse, Parking Zone와 Urotsuki's Dream Apartments를 연결하는 8개의 전화기 지름길을 모두 이용하기",
       "checkbox": {
-        "phone_aquatic_cube_city|phone_fossil_lake": "化石湖",
+        "phone_aquatic_cube_city": "Aquatic Cube City",
+        "phone_fossil_lake": "Fossil Lake",
         "phone_sugar_road": "Sugar Road",
         "phone_underground_garage": "Underground Garage",
-        "phone_water_reclamation_facility": "シャッター通り",
+        "phone_water_reclamation_facility": "Water Reclamation Facility",
         "phone_dark_museum": "Dark Museum",
         "phone_dark_warehouse": "Dark Warehouse",
         "phone_parking_zone": "Parking Zone"
@@ -1495,21 +1468,21 @@
       "description": "달의 어두운 쪽에서 만나자.",
       "condition": "Square-Square World, 그녀의 아파트 내부, Moonlit Purple Balcony 에서 헬멧 소녀(Helmet Girl) NPC를 만나기",
       "checkbox": {
-        "helmet_girl_moonlit_balcony": "夜景ベランダ",
-        "helmet_girl_apartment": "白い部屋",
+        "helmet_girl_moonlit_balcony": "Moonlit Purple Balcony",
+        "helmet_girl_apartment": "그녀의 아파트 내부",
         "helmet_girl_square2_world": "Square-Square World"
       }
     },
     "garden_of_dreams": {
       "name": "꿈들의 정원",
       "description": "이 광활한 꿈세계에서, 자라나고, 자라나는 정원처럼...",
-      "condition": "Mountaintop Ruins, Blood Cell Sea (반전 상태의 나무 포함), Graffiti Maze, Shinto Shrine, Azure Garden ,Scenic Outlook, Evergreen Woods 에 있는 나무 조형물(혹은 나무 모양의 월드 워프 물체)와 상호작용 하기",
+      "condition": "Mountaintop Ruins, Blood Cell Sea (반전 상태의 나무 포함), Graffiti Maze, Shinto Shrine, Azure Garden, Scenic Outlook, Evergreen Woods 에 있는 나무 조형물(혹은 나무 모양의 월드 워프 물체)와 상호작용 하기",
       "checkbox": {
         "mountainview_ruins_tree": "Mountaintop Ruins",
         "tree_of_life_a|tree_of_life_b": "Blood Cell Sea",
         "graffiti_maze_tree": "Graffiti Maze",
-        "shinto_shrine_tree": "階段とブラザーサン",
-        "scenic_outlook_tree": "目の大樹",
+        "shinto_shrine_tree": "Shinto Shrine",
+        "scenic_outlook_tree": "Scenic Outlook",
         "evergreen_woods_tree": "Evergreen Woods",
         "azure_garden_tree": "Azure Garden"
       }
@@ -1719,17 +1692,17 @@
       "description": "\"나\" 는 여기 있어.",
       "condition": "Atlantis, Tapir-San's Place, Giant Cloning Room, Urotsuki's Dream Apartments, Closet Pinwheel Path, Red Sky Cliff, Despair Road, Head World, Static Noise Hell, Colorless Valley, Spear Tribe World에서 우로츠키 혹은, 그녀와 비슷한 지형과 만나기",
       "checkbox": {
-        "uro_atlantis": "沖：沖合いエリア",
-        "uro_tapir_place": "バク",
-        "uro_cloning_room": "ケンキュウジョ",
-        "uro_bleak_future": "夢の夢部屋",
-        "uro_pinwheel_path": "廃線：かざぐるまエリア",
+        "uro_atlantis": "Atlantis",
+        "uro_tapir_place": "Tapir-San's Place",
+        "uro_cloning_room": "Giant Cloning Room",
+        "uro_bleak_future": "Urotsuki's Dream Apartments",
+        "uro_pinwheel_path": "Closet Pinwheel Path",
         "uro_red_sky_cliff": "Red Sky Cliff",
         "uro_despair_road": "Despair Road",
         "uro_killed_head": "Head World",
         "uro_static_noise_hell": "Static Noise Hell",
         "uro_colorless_valley": "Colorless Valley",
-        "uro_spear_tribe_world": "繁茂"
+        "uro_spear_tribe_world": "Spear Tribe World"
       }
     },
     "blossoming_brooch": {
@@ -1940,13 +1913,7 @@
     "gb_memories": {
       "name": "게임보이 메모리즈",
       "description": "이거 기억나?",
-      "condition": "Monochrome GB World에 있는 모든 비밀들을 발견하고 NES Glitch Tunnel 맵 끝에 있는 벤치에 앉기",
-      "checkbox": {
-        "gb_change_color|gb_house_secret": "Monochrome GB World",
-        "gb_flower_pot": "グリーンボーイ",
-        "nes_tunnel_bench": "NES Glitch Tunnel",
-        "gb_forest_event": "Sketch Plains"
-      }
+      "condition": "Monochrome GB World에 있는 모든 비밀들을 발견하고 NES Glitch Tunnel 맵 끝에 있는 벤치에 앉기"
     },
     "bunny_cocktail": {
       "name": "토끼 칵테일",
@@ -2066,7 +2033,7 @@
       "condition": "Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle, Moonlight Lantern Forest에서 슬픈 해파리(Sad Jellyfish) NPC를 발견하기",
       "checkbox": {
         "sad_jellyfish_forest_pier": "Forest Pier",
-        "sad_jellyfish_chaotic_buildings": "水の都：森エリア",
+        "sad_jellyfish_chaotic_buildings": "Chaotic Buildings",
         "sad_jellyfish_overgrown": "Overgrown Condominium",
         "sad_jellyfish_doll_house": "Doll House",
         "sad_jellyfish_fantasy_isle": "Fantasy Isle",
@@ -2293,9 +2260,9 @@
       "description": "하나보다 둘이 낫지!",
       "condition": "Love Lodge의 마녀의 집에서 얼어붙은 자선의 마녀를 만나고 Hatred Palace에서 그림을 발견하기",
       "checkbox": {
-        "love_witch_house": "ハトレス",
-        "frozen_charity_witch": "氷漬けの街",
-        "painting_hatred_palace": "別離"
+        "love_witch_house": "Love Lodge의 마녀의 집",
+        "frozen_charity_witch": "얼어붙은 자선의 마녀",
+        "painting_hatred_palace": "Hatred Palace"
       }
     },
     "sanctuary_2kki": {
@@ -2403,7 +2370,10 @@
       "description": "돌고 돌고 돌고...",
       "condition": "Oriental Pub의 워프를 사용하지 않고 6개의 세계를 방문하기",
       "checkbox": {
-        "humanoid_angry|humanoid_crying|humanoid_happy|humanoid_shocked": "スマイルアイス",
+        "humanoid_angry": "Test Facility",
+        "humanoid_crying": "Holiday Hell",
+        "humanoid_happy": "Ice Cream Islands",
+        "humanoid_shocked": "Tribulation Complex",
         "humanoid_green": "Platformer World",
         "humanoid_tired": "Abandoned Grounds"
       }
@@ -2451,13 +2421,13 @@
       "description": "처음 시작된 장소로부터 이렇게나 멀리까지 왔구나.",
       "condition": "다음의 구역에서 쌍둥이 산이 보이는 장소들을 방문하기: Foliage Estate (Overlook 서브 에리어), Flying Fish World (Dream Scene 서브 에리어), Mirror Room (Beach 서브 에리어), Bleak Future, Saturated Eyeball Zone, Rainy Apartments, Red Sky Cliff (Splash Streetway 서브 에리어), Wind Turbine Plateau, Bathhouse",
       "checkbox": {
-        "tw_foliage": "Foliage Estate",
-        "tw_fish": "夕焼け",
-        "tw_mirror": "Mirror Room",
-        "tw_bleak": "夢の夢部屋",
+        "tw_foliage": "Foliage Estate (Overlook 서브 에리어)",
+        "tw_fish": "Flying Fish World (Dream Scene 서브 에리어)",
+        "tw_mirror": "Mirror Room (Beach 서브 에리어)",
+        "tw_bleak": "Bleak Future",
         "tw_eyeball": "Saturated Eyeball Zone",
         "tw_rainy": "Rainy Apartments",
-        "tw_red": "ハザマ",
+        "tw_red": "Red Sky Cliff (Splash Streetway 서브 에리어)",
         "tw_wind": "Wind Turbine Plateau",
         "tw_bathhouse": "Bathhouse"
       }
@@ -2501,7 +2471,7 @@
       "condition": "Giant Desktop과 Holiday Hell의 네 번째 작은 구멍에서 짐보를 발견하기",
       "checkbox": {
         "jimbo_desktop": "Giant Desktop",
-        "jimbo_holiday": "スマイルアイス"
+        "jimbo_holiday": "Holiday Hell"
       }
     },
     "lone_penguin": {
@@ -2519,8 +2489,8 @@
       "checkbox": {
         "honeycomb_world": "Honeycomb World",
         "pink_honeycomb": "Pink Honeycomb",
-        "honeybee_laboratory": "蜂蜜工場",
-        "honeybee_residence": "ハチミツビル"
+        "honeybee_laboratory": "Honeybee Laboratory",
+        "honeybee_residence": "Honeybee Residence"
       }
     },
     "vertigo_parasomnia": {
@@ -2540,9 +2510,9 @@
     },
     "nexus_collector": {
       "name": "넥서스 수집가",
-      "condition": "Dark Nexus, Second Nexus, Mini Nexus를 방문하기",
+      "condition": "Dark Nexus, Second Nexus, Mini-Nexus를 방문하기",
       "checkbox": {
-        "the_second_nexus": "The Second Nexus",
+        "the_second_nexus": "Second Nexus",
         "dark_nexus": "Dark Nexus",
         "mini_nexus": "Mini-Nexus"
       }
@@ -2561,8 +2531,8 @@
       "name": "Z̴̜̬̈́͐̒̄͑̃͛̄̊̕͝Ạ̶̭̮̰̯̱̠̠͖̜̲̯̈́̃͌͑̚͘ͅL̵̡̡̡͓͚̖̗̙̹̲̻̝͚̒͒͌G̷̝̜̦̱̠̝̮̲̺̝̽̓͜Ŏ̷͈́̔̚̕̕͝",
       "condition": "Magnet Room, Train Tracks, Atelier, Restored Character World에서 자르고를 발견하기",
       "checkbox": {
-        "zalgo_magnet_room": "集束",
-        "zalgo_train_tracks": "廃線：線路エリア",
+        "zalgo_magnet_room": "Magnet Room",
+        "zalgo_train_tracks": "Train Tracks",
         "zalgo_atelier": "Atelier",
         "zalgo_character": "Restored Character World"
       }
@@ -2586,7 +2556,7 @@
       "checkbox": {
         "cyclop_petal_hotel": "Petal Hotel",
         "cyclop_dream_pool": "Dream Pool",
-        "cyclop_silent_sewers": "コドモの部屋",
+        "cyclop_silent_sewers": "Silent Sewers",
         "cyclop_teddy_bear": "Teddy Bear Land",
         "cyclop_red_street": "Red Streetlight World",
         "cyclop_acerola": "Acerola World",
@@ -2624,28 +2594,24 @@
         "flowers_cotton": "Cotton Candy Haven",
         "flowers_grove": "Nocturnal Grove",
         "flowers_cloaked": "Cloaked Pillar World",
-        "flowers_lavender": "紫湖"
+        "flowers_lavender": "Lavender Waters"
       }
     },
     "flower_vision": {
       "name": "플라워 비전",
       "condition": "Flooded Dungeon (Floral Vortex), Travel Hotel, Lost Creek, Snowy Forest (Fairy Hole 서브 에리어), Wooden Polycube Ruins 에 위치한 꽃들 근처에서 벌레 이펙트를 장착하고 사용하기",
       "checkbox": {
-        "flowers_vortex": "水果",
+        "flowers_vortex": "Flooded Dungeon (Floral Vortex)",
         "flowers_hotel": "Travel Hotel",
-        "flowers_creek": "垂水",
-        "flowers_fairy": "Snowy Forest",
-        "flowers_polycube": "氷庭"
+        "flowers_creek": "Lost Creek",
+        "flowers_fairy": "Snowy Forest (Fairy Hole 서브 에리어)",
+        "flowers_polycube": "Wooden Polycube Ruins"
       }
     },
     "pudding_world_secrets": {
       "name": "푸딩 직감",
       "description": "잠깐, 이거 불 붙었으니까 일종의 크림 브륄레 같은 거 아냐?",
-      "condition": "거의 방문되어지지 않는 Pudding World 속의 모든 영광과 비밀을 파헤치기",
-      "checkbox": {
-        "pudding_teru|pudding_extinction|pudding_return|pudding_machine|pudding_mask": "Pudding World",
-        "pudding_liquor_street": "ガラス"
-      }
+      "condition": "거의 방문되어지지 않는 Pudding World 속의 모든 영광과 비밀을 파헤치기"
     },
     "eternal_dreamer": {
       "name": "깨어날 때인가, 아니면 더 깊은 꿈 속으로 들어갈 때인가?",
@@ -2654,7 +2620,7 @@
       "checkbox": {
         "dreamer_noise_hell": "Static Noise Hell",
         "dreamer_snow_forest": "Snowy Forest",
-        "dreamer_lavender": "紫湖",
+        "dreamer_lavender": "Lavender Waters",
         "dreamer_cube_city": "Aquatic Cube City",
         "dreamer_nowhere_home": "Home Within Nowhere",
         "dreamer_rainy": "Rainy Apartments",
@@ -2717,7 +2683,7 @@
         "moth_realm": "Entomophobia Realm",
         "moth_passage": "Butterfly Passage",
         "moth_grove": "Nocturnal Grove",
-        "moth_cosmic": "箱入りのコスモ"
+        "moth_cosmic": "Cosmic Cube World"
       }
     },
     "green_pattern_world": {
@@ -2752,11 +2718,7 @@
     "mask_collection": {
       "name": "변장의 달인",
       "description": "오늘은 어떤 것이 되어볼래?",
-      "condition": "Mask Shops에서 해금 가능한 모든 이펙트 불필요 가면을 취득하고 보기 (Twintail Girl, Ahogeko, Shadow Mold, Angel Priest, Kīgāru, White Mouse, Black Mouse, Takoyaki Creature, Traffic Cone)",
-      "checkbox": {
-        "mask_shop_s_twintail|mask_shop_s_bird|mask_shop_s_slime|mask_shop_s_guard|mask_shop_paint|mask_shop_uri|mask_shop_yukata|mask_shop_monmon|mask_shop_witch|mask_shop_prov|mask_shop_cat|mask_shop_appu|mask_shop_science|mask_shop_musume|mask_shop_otoko|mask_shop_tv|mask_shop_math|mask_shop_dogboa|mask_shop_huyure|mask_shop_eyeball|mask_shop_chain|mask_shop_fox|mask_shop_seal|mask_shop_candle|mask_shop_barrier|mask_shop_rune": "お面屋",
-        "mask_shop_s_twintail_d|mask_shop_s_bird_d|mask_shop_s_slime_d|mask_shop_s_guard_d|mask_shop_paint_d|mask_shop_uri_d|mask_shop_yukata_d|mask_shop_monmon_d|mask_shop_witch_d|mask_shop_prov_d|mask_shop_cat_d|mask_shop_appu_d|mask_shop_science_d|mask_shop_musume_d|mask_shop_otoko_d|mask_shop_tv_d|mask_shop_math_d|mask_shop_dogboa_d|mask_shop_huyure_d|mask_shop_eyeball_d|mask_shop_chain_d|mask_shop_fox_d|mask_shop_seal_d|mask_shop_candle_d|mask_shop_barrier_d|mask_shop_rune_d": "高級お面屋"
-      }
+      "condition": "Mask Shops에서 해금 가능한 모든 이펙트 불필요 가면을 취득하고 보기 (Twintail Girl, Ahogeko, Shadow Mold, Angel Priest, Kīgāru, White Mouse, Black Mouse, Takoyaki Creature, Traffic Cone)"
     },
     "retro_cartridge_game": {
       "name": "응답하라 1977!",
@@ -3259,12 +3221,12 @@
       "description": "맛있는 설탕...",
       "condition": "과자 테마인 Chocolate World, Cutlery World, Suagr World(Sugary Depths 포함), Candy Cane Fields, Ice Cream Dream, Cube of Sweets, Chocolate Tower, Dessert Fields(메인 지역)를 모두 방문하기",
       "checkbox": {
-        "sugary_depths": "シュガー：うら",
-        "sugar_world": "シュガー：おもて",
+        "sugary_depths": "Sugary Depths",
+        "sugar_world": "Sugar World",
         "candy_cane_fields": "Candy Cane Fields",
         "ice_cream_dream": "Ice Cream Dream",
         "cube_of_sweets": "Cube of Sweets",
-        "chocolate_tower": "チョコレー塔",
+        "chocolate_tower": "Chocolate Tower",
         "dessert_fields": "Dessert Fields",
         "chocolate_world": "Chocolate World",
         "cutlery_world": "Cutlery World"
@@ -3421,8 +3383,10 @@
       "description": "와인처럼 숙성된",
       "condition": "Japan Town에서 유령 마이코 NPC를 찾고, 안경 이펙트를 사용해 고립된 방에 있는 숨겨진 생명체들을 찾고, 화살표 간판 NPC, 신문을 읽는 NPC와 상호작용하기",
       "checkbox": {
-        "japan_town_hotel|japan_town_glasses": "逆さ宿",
-        "japan_town_otoko|japan_town_news_man": "昭和路地"
+        "japan_town_hotel": "유령 마이코 NPC를 찾고",
+        "japan_town_glasses": "안경 이펙트를 사용해 고립된 방에 있는 숨겨진 생명체들을 찾고",
+        "japan_town_otoko": "화살표 간판 NPC",
+        "japan_town_news_man": "신문을 읽는 NPC"
       }
     },
     "himalayan_lighthouse": {
@@ -3500,12 +3464,12 @@
       "name": "우로츠키 증후군",
       "condition": "Urotsuki's Dream Apartments의 우로츠키의 방, Drowsy Forest, Mirror Room, Static Labyrinth를 방문하고, Bleak Future와 Vertigo 이벤트를 보기",
       "checkbox": {
-        "urotsukis_dream_apartments": "うろつき邸：似非現実部屋",
-        "drowsy_forest_room": "部屋",
+        "urotsukis_dream_apartments": "Urotsuki's Dream Apartments",
+        "drowsy_forest_room": "Drowsy Forest",
         "mirror_room": "Mirror Room",
-        "static_doppelganger_room": "鏡の夢部屋",
-        "bleak_future_main": "夢の夢部屋",
-        "vertigo_room": "うつろ"
+        "static_doppelganger_room": "Static Labyrinth",
+        "bleak_future_main": "Bleak Future",
+        "vertigo_room": "Vertigo"
       }
     },
     "2kki_canvas": {
@@ -3761,7 +3725,7 @@
       "name": "쌍둥이 나무",
       "condition": "Blue Forest와 Orange Forest를 모두 방문하기",
       "checkbox": {
-        "blue_forest": "雨の森",
+        "blue_forest": "Blue Forest",
         "orange_forest": "Orange Forest"
       }
     },
@@ -3899,8 +3863,10 @@
       "description": "Are these scourges of a perturbation monsters or signs? Are you a tool of fate or a witness to a disaster?",
       "condition": "Chainsaw the red monsters in Wooded Lakeside, Kaleidoscope World, Streetlight Docks, Critter Village (Hexagonal Pillar Passage), Pure White Lands",
       "checkbox": {
-        "wooded_lakeside_1_monster|wooded_lakeside_2_monster": "湖のほとり：水路エリア",
-        "hexa_pillar_passage_monster|kaleidscope_world_monster": "六角タイル世界：六角柱通路・水晶",
+        "wooded_lakeside_1_monster": "Wooded Lakeside A",
+        "wooded_lakeside_2_monster": "Wooded Lakeside B",
+        "hexa_pillar_passage_monster": "Critter Village (Hexagonal Pillar Passage)",
+        "kaleidscope_world_monster": "Kaleidoscope World",
         "streetlight_docks_monster": "Streetlight Docks",
         "pure_white_lands_monster": "Pure White Lands"
       }
@@ -4021,12 +3987,10 @@
       "condition": "Visit Mixed Beach, Dream Beach, Grand Beach, Realistic Beach, and Blood Red Beach",
       "checkbox": {
         "beach_mixed_a|beach_mixed_b": "Mixed Beach",
-        "beach_dream": "Dream Beach",
-        "beach_dream_b": "夢海岸",
-        "beach_grand": "夢ビーチ",
+        "beach_dream|beach_dream_b": "Dream Beach",
+        "beach_grand": "Grand Beach",
         "beach_realistic_a|beach_realistic_b|beach_realistic_c|beach_realistic_d|beach_realistic_e|beach_realistic_f": "Realistic Beach",
-        "beach_blood_red_a": "Blood Red Beach",
-        "beach_blood_red_b": "薔薇薫る波打ち際"
+        "beach_blood_red_a|beach_blood_red_b": "Blood Red Beach"
       }
     },
     "wintry_attendant": {
@@ -4123,7 +4087,7 @@
         "b_w_mono_feudal_japan": "Monochrome Feudal Japan",
         "b_w_mono_abyss": "Monochromatic Abyss",
         "b_w_fused_faces_world": "Fused Faces World",
-        "b_w_sea_of_clouds": "嘔吐庭",
+        "b_w_sea_of_clouds": "Sea of Clouds",
         "b_w_mono_ranch": "Monochrome Ranch",
         "b_w_mono_street": "Monochrome Street",
         "b_w_doll_house": "Doll House"
@@ -4354,11 +4318,7 @@
     "megusuri_uri_visine": {
       "name": "Eye Drops Vendor",
       "description": "These eyes are very sensitive so he cares a lot about his work",
-      "condition": "Find and interact with Megusuri Uri in the three different parts of Visine World",
-      "checkbox": {
-        "megusuri_uri_visine_1": "Visine World",
-        "megusuri_uri_visine_2|megusuri_uri_visine_3": "目薬川：目薬屋さん"
-      }
+      "condition": "Find and interact with Megusuri Uri in the three different parts of Visine World"
     },
     "rgb_passage": {
       "name": "RGB Tile Path",
@@ -4384,14 +4344,14 @@
       "description": "Let's go stargazing!",
       "condition": "Find night sky sceneries in Twisted Thickets, Foliage Estate, Submerged Communications Area, Shallows of Deceit, Nocturnal Grove, Windswept Scarlet Sands, Planetarium, and Tomb of Velleities",
       "checkbox": {
-        "peak": "霧の森：雨降る森",
+        "peak": "Twisted Thickets",
         "foliage_estate_satellite_dish": "Foliage Estate",
         "submerged_communications_area": "Submerged Communications Area",
         "shallows_of_deceit_rooftop": "Shallows of Deceit",
         "nocturnal_grove_boat": "Nocturnal Grove",
         "starry_night": "Windswept Scarlet Sands",
-        "star_planetarium": "星の夜",
-        "tomb_of_velleities": "Butterfly：最奥"
+        "star_planetarium": "Planetarium",
+        "tomb_of_velleities": "Tomb of Velleities"
       }
     },
     "overgrowth_outlook": {
@@ -4685,7 +4645,7 @@
     "2kki_menu_67_70": {
       "name": "Abstract Prism",
       "description": "Prismatic jewels within the colors.",
-      "condition": "Obtain menu types 67-70. For any you have already obtained, return to the area where you originally found them.",
+      "condition": "Obtain menu types 67-70 in Rainy Sundial, Paraffin Embedding Ruins, Fragmented Station B, and Snow Black. If already obtained, revisit the areas where you found them.",
       "checkbox": {
         "2kki_menu_67": "Rainy Sundial",
         "2kki_menu_68": "Paraffin Embedding Ruins",
@@ -5321,7 +5281,7 @@
       "checkbox": {
         "orange_maze": "오렌지 미로",
         "orange_passage": "오렌지 통로",
-        "orange_laboratory": "오렌지 연구실"
+        "orange_laboratory": "오렌지 실험실"
       }
     },
     "dark_city": {
@@ -5335,7 +5295,7 @@
     "other_worlds": {
       "name": "이세계",
       "description": "피아노 소리에... 어딘가로 이끌려...",
-      "condition": "미시 세계에서 젊음의 통로에 방문하기",
+      "condition": "미생물 세계에서 젊음의 통로에 방문하기",
       "checkbox": {
         "microscopic_world": "미생물 세계",
         "young_passage": "젊음의 통로"
@@ -5854,8 +5814,8 @@
         "tubes_kondo": "Tubes",
         "purple_crystal": "Memory Graveyard",
         "corrupted_art_gallery_sh_e": "Empty Gallery",
-        "lsd_world": "LSD World (Dynamic)",
-        "kondo_ending_room|kondo_ending_room_2": "Kondo"
+        "lsd_world": "LSD World",
+        "kondo_ending_room|kondo_ending_room_2": "Chaos"
       }
     },
     "rusty_bubble": {
@@ -6218,11 +6178,11 @@
       "description": "언제든지 즐겁게 경치를 감상하기",
       "condition": "발코니에 입장하여 총 5개(아침, 점심, 저녁, 심야, 폭풍우)의 경치를 감상하기",
       "checkbox": {
-        "balcony_evening": "Balcony",
-        "balcony_day": "Balcony (Day)",
-        "balcony_night": "Balcony (Night)",
-        "balcony_morning": "Balcony (Morning)",
-        "balcony_storm": "Balcony (Storm)"
+        "balcony_evening": "저녁",
+        "balcony_day": "점심",
+        "balcony_night": "심야",
+        "balcony_morning": "아침",
+        "balcony_storm": "폭풍우"
       }
     },
     "broken_bridge_monster": {
@@ -6373,8 +6333,8 @@
       "name": "우물의 지배자",
       "condition": "Mosquies' Village에서 목이 긴 사람을 보고 Dark Lands의 우물 안에 들어가기",
       "checkbox": {
-        "mosquies_village_chief": "Mosquies' Village: The Wickedest Mosquy",
-        "well_dark_lands": "Quiet Path"
+        "mosquies_village_chief": "Mosquies' Village",
+        "well_dark_lands": "Dark Lands"
       }
     },
     "cartoonboy": {
@@ -6987,7 +6947,7 @@
       "condition": "모든 어린 소메츠키를 마주치기",
       "checkbox": {
         "emerald_square": "Emerald Square",
-        "emerald_square_some": "Emerald Square: Back Alley",
+        "emerald_square_some": "Back Alley",
         "banquet_hall_some": "Banquet Hall"
       }
     },
@@ -7468,11 +7428,7 @@
     "duality_of_mom": {
       "name": "Mom...",
       "description": "I love you, please don't hurt me.",
-      "condition": "Find both the sweet and scary versions of A's mom",
-      "checkbox": {
-        "mom_normal": "Nursery Room",
-        "mom_scary": "?"
-      }
+      "condition": "Find both the sweet and scary versions of A's mom"
     },
     "sacred_cats": {
       "name": "Sacred Cats",
