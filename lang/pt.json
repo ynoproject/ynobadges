@@ -372,18 +372,14 @@
       "description": "Trinca de espécie.",
       "condition": "Interaja com Nopperabou Ghost e Fleebie enquanto usa o efeito Spirit Headband e apunhale Follony com o efeito Kitchen Knife",
       "checkbox": {
-        "ghostly_nopp": "Dark World",
-        "ghostly_follony": "Sewers",
-        "ghostly_fleebie": "Ghost World"
+        "ghostly_nopp": "Nopperabou",
+        "ghostly_follony": "Follony",
+        "ghostly_fleebie": "Fleebie"
       }
     },
     "wilderness_fan": {
       "name": "Explorador do Deserto",
-      "condition": "Visite todas as áreas do Wilderness",
-      "checkbox": {
-        "wilderness_50|wilderness_51|wilderness_52|wilderness_53|wilderness_54|wilderness_55|wilderness_56|wilderness_57|wilderness_58|wilderness_59|wilderness_60|wilderness_61|wilderness_62|wilderness_63|wilderness_64": "Wilderness",
-        "wilderness_65": "Hot Spring House"
-      }
+      "condition": "Visite todas as áreas do Wilderness"
     },
     "dave_death": {
       "name": "Armário Dave-y Jones",
@@ -881,7 +877,7 @@
         "downfall_garden_b": "Downfall Garden B",
         "sparkling_dimension_b": "Sparkling Dimension B",
         "opal_ruins_b": "Opal Ruins B",
-        "fuchsia_suburbs_b": "Originator Garden: Fuchsia Suburbs B"
+        "fuchsia_suburbs_b": "Fuchsia Suburbs B"
       }
     },
     "survivor": {
@@ -1004,7 +1000,7 @@
         "01_fluorescent_halls": "Fluorescent Halls",
         "01_corrupted_love_world": "Corrupted Love World",
         "01_winter_valley": "Winter Valley",
-        "01_bright_forest": "Bright Forest: Rainbow Ruins"
+        "01_bright_forest": "Bright Forest"
       }
     },
     "tetrapod": {
@@ -1191,11 +1187,11 @@
         "digital_hand_hub": "Stone World",
         "urban_street_area": "Urban Street Area",
         "the_docks": "The Docks",
-        "zalgo": "Magnet Room: Zalgo's Room?",
-        "white_mushroom_field": "Mushroom World: White Mushroom Field",
-        "crimson_labyrinth_mountains": "Crimson Labyrinth",
+        "zalgo": "Magnet Room (Zalgo's Room?)",
+        "white_mushroom_field": "Mushroom World (White Mushroom Field)",
+        "crimson_labyrinth_mountains": "Crimson Labyrinth (Red Mountains)",
         "color_cubes_world": "Color Cubes World",
-        "octagonal_grid_hub_passage": "Octagonal Grid Hub",
+        "octagonal_grid_hub_passage": "Octagonal Grid Hub (Broken Passage)",
         "obentou_world": "Obentou World",
         "entropy_dungeon": "Entropy Dungeon",
         "rainbow_towers": "Rainbow Towers"
@@ -1289,7 +1285,8 @@
       "checkbox": {
         "garden_world_clock_pole": "Garden World (Dia)",
         "blue_forest_clock_pole": "Blue Forest",
-        "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "Botanical Garden",
+        "botanical_garden_clock_pole_1": "outdoors",
+        "botanical_garden_clock_pole_2": "passage",
         "sculpture_park_clock_pole": "Sculpture Park",
         "twilight_park_clock_pole": "Twilight Park",
         "monochrome_school_clock_pole": "Monochrome School",
@@ -1315,11 +1312,7 @@
     "plaza": {
       "name": "Hydroplaza",
       "description": "Isso não é uma cidade, mais sim uma praça!",
-      "condition": "Visite todas as áreas da Poseidon Plaza",
-      "checkbox": {
-        "plaza_1|plaza_3|plaza_4|plaza_5": "Poseidon Plaza",
-        "plaza_2": "Deep Red Wilds"
-      }
+      "condition": "Visite todas as áreas da Poseidon Plaza"
     },
     "robot": {
       "name": "Despensa",
@@ -1335,10 +1328,11 @@
       "description": "Digite este numero neste telefone.",
       "condition": "Utilize o atalho telefónico nos Urotsuki's Dream Apartments em todos os 8 locais dele: Aquatic Cube City, Fossil Lake, Sugar Road, Underground Garage, Water Reclamation Facility, Dark Museum e Dark Warehouse o Parking Zone",
       "checkbox": {
-        "phone_aquatic_cube_city|phone_fossil_lake": "Fossil Lake",
+        "phone_aquatic_cube_city": "Aquatic Cube City",
+        "phone_fossil_lake": "Fossil Lake",
         "phone_sugar_road": "Sugar Road",
         "phone_underground_garage": "Underground Garage",
-        "phone_water_reclamation_facility": "Water Reclamation Facility: Shutter Alley",
+        "phone_water_reclamation_facility": "Water Reclamation Facility",
         "phone_dark_museum": "Dark Museum",
         "phone_dark_warehouse": "Dark Warehouse",
         "phone_parking_zone": "Parking Zone"
@@ -1472,9 +1466,10 @@
     "helmet_girl": {
       "name": "Astronauta",
       "description": "Tá sentindo falta da Terra? Que falta que essa Terra te faz?",
-      "condition": "Visite Helmet Girl em Square-Square World, no seu apartment, e no Moonlit Purple Balcony.",
+      "condition": "Visite Helmet Girl em Square-Square World, no seu apartment, e no Moonlit Purple Balcony",
       "checkbox": {
-        "helmet_girl_moonlit_balcony|helmet_girl_apartment": "Flying Fish World",
+        "helmet_girl_moonlit_balcony": "no Moonlit Purple Balcony",
+        "helmet_girl_apartment": "no seu apartment",
         "helmet_girl_square2_world": "Square-Square World"
       }
     },
@@ -1699,15 +1694,15 @@
       "checkbox": {
         "uro_atlantis": "Atlantis",
         "uro_tapir_place": "Tapir-San's Place",
-        "uro_cloning_room": "Red Brick Maze: Cloning Room",
-        "uro_bleak_future": "Bleak Future",
+        "uro_cloning_room": "Giant Cloning Room",
+        "uro_bleak_future": "Urotsuki's Dream Apartments",
         "uro_pinwheel_path": "Closet Pinwheel Path",
         "uro_red_sky_cliff": "Red Sky Cliff",
         "uro_despair_road": "Despair Road",
         "uro_killed_head": "Head World",
         "uro_static_noise_hell": "Static Noise Hell",
         "uro_colorless_valley": "Colorless Valley",
-        "uro_spear_tribe_world": "Spear Tribe World: Overgrown Stone Area"
+        "uro_spear_tribe_world": "Spear Tribe World"
       }
     },
     "blossoming_brooch": {
@@ -1918,13 +1913,7 @@
     "gb_memories": {
       "name": "Memórias do GB",
       "description": "Lembra-se disso?",
-      "condition": "Testemunhe todos os segredos do Monochrome GB World e sente-se no banco no final do NES Glitch Tunnel.",
-      "checkbox": {
-        "gb_change_color|gb_house_secret": "Monochrome GB World",
-        "gb_flower_pot": "Monochrome GB World: GB Well",
-        "nes_tunnel_bench": "NES Glitch Tunnel",
-        "gb_forest_event": "Sketch Plains"
-      }
+      "condition": "Testemunhe todos os segredos do Monochrome GB World e sente-se no banco no final do NES Glitch Tunnel."
     },
     "bunny_cocktail": {
       "name": "Coquetél Coelhinho",
@@ -2271,8 +2260,8 @@
       "description": "Dois é melhor do que um!",
       "condition": "Visite a Witch's House em Love Lodge, o local onde está a Witch of Charity congelada, e encontre a pintura no Hatred Palace",
       "checkbox": {
-        "love_witch_house": "Love Lodge",
-        "frozen_charity_witch": "Snowy Suburbs",
+        "love_witch_house": "Witch's House em Love Lodge",
+        "frozen_charity_witch": "Witch of Charity",
         "painting_hatred_palace": "Hatred Palace"
       }
     },
@@ -2381,7 +2370,10 @@
       "description": "Roda e roda e roda...",
       "condition": "Visite os 6 mundos retratados sem usar a warp de Oriental Pub",
       "checkbox": {
-        "humanoid_angry|humanoid_crying|humanoid_happy|humanoid_shocked": "Ice Cream Islands",
+        "humanoid_angry": "Test Facility",
+        "humanoid_crying": "Holiday Hell",
+        "humanoid_happy": "Ice Cream Islands",
+        "humanoid_shocked": "Tribulation Complex",
         "humanoid_green": "Platformer World",
         "humanoid_tired": "Abandoned Grounds"
       }
@@ -2429,13 +2421,13 @@
       "description": "Você chegou tão longe do ponto de partida.",
       "condition": "Visite as seguintes áreas com as Montanhas Gêmeas vistas à distância: Foliage Estate (Overlook), Flying Fish World (Dream Scene), Mirror Room (Beach), Bleak Future, Saturated Eyeball Zone, Rainy Apartments, Red Sky Cliff (Splash Streetway), Wind Turbine Plateau, Bathhouse",
       "checkbox": {
-        "tw_foliage": "Foliage Estate",
-        "tw_fish": "Flying Fish World",
-        "tw_mirror": "Mirror Room",
+        "tw_foliage": "Foliage Estate (Overlook)",
+        "tw_fish": "Flying Fish World (Dream Scene)",
+        "tw_mirror": "Mirror Room (Beach)",
         "tw_bleak": "Bleak Future",
         "tw_eyeball": "Saturated Eyeball Zone",
         "tw_rainy": "Rainy Apartments",
-        "tw_red": "Red Sky Cliff: Splash Streetway",
+        "tw_red": "Red Sky Cliff (Splash Streetway)",
         "tw_wind": "Wind Turbine Plateau",
         "tw_bathhouse": "Bathhouse"
       }
@@ -2479,7 +2471,7 @@
       "condition": "Visite Jimbo no Giant Desktop e veja o quarto olho mágico no Holiday Hell",
       "checkbox": {
         "jimbo_desktop": "Giant Desktop",
-        "jimbo_holiday": "Ice Cream Islands"
+        "jimbo_holiday": "Holiday Hell"
       }
     },
     "lone_penguin": {
@@ -2498,7 +2490,7 @@
         "honeycomb_world": "Honeycomb World",
         "pink_honeycomb": "Pink Honeycomb",
         "honeybee_laboratory": "Honeybee Laboratory",
-        "honeybee_residence": "Honeybee Residence: Honeybee Skyscraper"
+        "honeybee_residence": "Honeybee Residence"
       }
     },
     "vertigo_parasomnia": {
@@ -2520,7 +2512,7 @@
       "name": "Coletor de Nexus",
       "condition": "Visite o Dark Nexus, o Second Nexus e o Mini-Nexus",
       "checkbox": {
-        "the_second_nexus": "The Second Nexus",
+        "the_second_nexus": "Second Nexus",
         "dark_nexus": "Dark Nexus",
         "mini_nexus": "Mini-Nexus"
       }
@@ -2564,7 +2556,7 @@
       "checkbox": {
         "cyclop_petal_hotel": "Petal Hotel",
         "cyclop_dream_pool": "Dream Pool",
-        "cyclop_silent_sewers": "Silent Sewers: Cyclops' Room",
+        "cyclop_silent_sewers": "Silent Sewers",
         "cyclop_teddy_bear": "Teddy Bear Land",
         "cyclop_red_street": "Red Streetlight World",
         "cyclop_acerola": "Acerola World",
@@ -2609,11 +2601,11 @@
       "name": "Visão das Flores",
       "condition": "Use o efeito Insect próximo às flores localizadas em Flooded Dungeon (Floral Vortex), Travel Hotel, Lost Creek, Snowy Forest (Fairy Hole), Wooden Polycube Ruins",
       "checkbox": {
-        "flowers_vortex": "Flooded Dungeon: Floral Vortex",
+        "flowers_vortex": "Flooded Dungeon (Floral Vortex)",
         "flowers_hotel": "Travel Hotel",
         "flowers_creek": "Lost Creek",
-        "flowers_fairy": "Snowy Forest",
-        "flowers_polycube": "Wooden Polycube Ruins: Icy Garden"
+        "flowers_fairy": "Snowy Forest (Fairy Hole)",
+        "flowers_polycube": "Wooden Polycube Ruins"
       }
     },
     "pudding_world_secrets": {
@@ -2726,11 +2718,7 @@
     "mask_collection": {
       "name": "Especialista em Disfarces",
       "description": "Quem você será hoje?",
-      "condition": "Desbloqueie e veja todas as máscaras sem efeito em uma das Mask Shops (exceto Twintail Girl, Ahogeko, Shadow Mold, Angel Priest, Kīgāru, White Mouse, Black Mouse, Takoyaki Creature e Traffic Cone)",
-      "checkbox": {
-        "mask_shop_s_twintail|mask_shop_s_bird|mask_shop_s_slime|mask_shop_s_guard|mask_shop_paint|mask_shop_uri|mask_shop_yukata|mask_shop_monmon|mask_shop_witch|mask_shop_prov|mask_shop_cat|mask_shop_appu|mask_shop_science|mask_shop_musume|mask_shop_otoko|mask_shop_tv|mask_shop_math|mask_shop_dogboa|mask_shop_huyure|mask_shop_eyeball|mask_shop_chain|mask_shop_fox|mask_shop_seal|mask_shop_candle|mask_shop_barrier|mask_shop_rune": "Mask Shop",
-        "mask_shop_s_twintail_d|mask_shop_s_bird_d|mask_shop_s_slime_d|mask_shop_s_guard_d|mask_shop_paint_d|mask_shop_uri_d|mask_shop_yukata_d|mask_shop_monmon_d|mask_shop_witch_d|mask_shop_prov_d|mask_shop_cat_d|mask_shop_appu_d|mask_shop_science_d|mask_shop_musume_d|mask_shop_otoko_d|mask_shop_tv_d|mask_shop_math_d|mask_shop_dogboa_d|mask_shop_huyure_d|mask_shop_eyeball_d|mask_shop_chain_d|mask_shop_fox_d|mask_shop_seal_d|mask_shop_candle_d|mask_shop_barrier_d|mask_shop_rune_d": "Deluxe Mask Shop"
-      }
+      "condition": "Desbloqueie e veja todas as máscaras sem efeito em uma das Mask Shops (exceto Twintail Girl, Ahogeko, Shadow Mold, Angel Priest, Kīgāru, White Mouse, Black Mouse, Takoyaki Creature e Traffic Cone)"
     },
     "retro_cartridge_game": {
       "name": "Como se fosse 1977!",
@@ -3395,8 +3383,10 @@
       "description": "Velho como o vinho",
       "condition": "Em Japan Town, encontre a Ghost Maiko, descubra algumas criaturas escondidas em uma sala isolada usando o efeito Glasses e interaja com Kanban Otoko e News Man",
       "checkbox": {
-        "japan_town_hotel|japan_town_glasses": "Japan Town: The Hotel",
-        "japan_town_otoko|japan_town_news_man": "Japan Town"
+        "japan_town_hotel": "encontre a Ghost Maiko",
+        "japan_town_glasses": "descubra algumas criaturas escondidas em uma sala isolada usando o efeito Glasses",
+        "japan_town_otoko": "Kanban Otoko",
+        "japan_town_news_man": "News Man"
       }
     },
     "himalayan_lighthouse": {
@@ -3472,14 +3462,14 @@
     },
     "urotsuki_bedrooms": {
       "name": "Síndrome de Urotsuki",
-      "condition": "Visite o quarto de Urotsuki em Urotsuki's Dream Apartments, Drowsy Forest, Mirror Room e Static Labyrinth, e veja os eventos Bleak Future e Vertigo Room",
+      "condition": "Visite o quarto de Urotsuki em Urotsuki's Dream Apartments, Drowsy Forest, Mirror Room e Static Labyrinth, e veja os eventos Bleak Future e Vertigo",
       "checkbox": {
         "urotsukis_dream_apartments": "Urotsuki's Dream Apartments",
         "drowsy_forest_room": "Drowsy Forest",
         "mirror_room": "Mirror Room",
-        "static_doppelganger_room": "Static Labyrinth: Doppelgänger Room",
+        "static_doppelganger_room": "Static Labyrinth",
         "bleak_future_main": "Bleak Future",
-        "vertigo_room": "Urotsuki's Dream Room: Vertigo"
+        "vertigo_room": "Vertigo"
       }
     },
     "2kki_canvas": {
@@ -3869,8 +3859,9 @@
       "description": "Esses flagelos de uma perturbação são monstros ou sinais? Você é uma ferramenta do destino ou uma testemunha de um desastre?",
       "condition": "Motosserre os monstros vermelhos de Wooded Lakeside, Kaleidoscope World, Streetlight Docks, Critter Village (Hexagonal Pillar Passage), Pure White Lands",
       "checkbox": {
-        "wooded_lakeside_1_monster|wooded_lakeside_2_monster": "Wooded Lakeside",
-        "hexa_pillar_passage_monster|": "Critter Village (Hexagonal Pillar Passage)",
+        "wooded_lakeside_1_monster": "Wooded Lakeside A",
+        "wooded_lakeside_2_monster": "Wooded Lakeside B",
+        "hexa_pillar_passage_monster": "Critter Village (Hexagonal Pillar Passage)",
         "kaleidscope_world_monster": "Kaleidoscope World",
         "streetlight_docks_monster": "Streetlight Docks",
         "pure_white_lands_monster": "Pure White Lands"
@@ -4323,11 +4314,7 @@
     "megusuri_uri_visine": {
       "name": "Vendedor de Colírios",
       "description": "Como esses olhos são muito sensíveis, ele se preocupa muito com seu trabalho",
-      "condition": "Encontre e interaja com Megusuri Uri nas três partes diferentes do Visine World",
-      "checkbox": {
-        "megusuri_uri_visine_1": "Visine World",
-        "megusuri_uri_visine_2|megusuri_uri_visine_3": "Visine World: Eye Shop"
-      }
+      "condition": "Encontre e interaja com Megusuri Uri nas três partes diferentes do Visine World"
     },
     "rgb_passage": {
       "name": "Caminho de Ladrilho RGB",
@@ -4353,14 +4340,14 @@
       "description": "Vamos observar as estrelas!",
       "condition": "Encontre cenários de céu noturno em Twisted Thickets, Foliage Estate, Submerged Communications Area, Shallows of Deceit, Nocturnal Grove, Windswept Scarlet Sands, Planetarium e Tomb of Velleities",
       "checkbox": {
-        "peak": "Twisted Thickets: The Peak",
+        "peak": "Twisted Thickets",
         "foliage_estate_satellite_dish": "Foliage Estate",
         "submerged_communications_area": "Submerged Communications Area",
         "shallows_of_deceit_rooftop": "Shallows of Deceit",
         "nocturnal_grove_boat": "Nocturnal Grove",
         "starry_night": "Windswept Scarlet Sands",
         "star_planetarium": "Planetarium",
-        "tomb_of_velleities": "Tomb of Velleities: Lunar Sanctuary"
+        "tomb_of_velleities": "Tomb of Velleities"
       }
     },
     "overgrowth_outlook": {
@@ -4654,7 +4641,7 @@
     "2kki_menu_67_70": {
       "name": "Abstract Prism",
       "description": "Prismatic jewels within the colors.",
-      "condition": "Obtain menu types 67-70. For any you have already obtained, return to the area where you originally found them.",
+      "condition": "Obtain menu themes 67-70 in Rainy Sundial, Paraffin Embedding Ruins, Fragmented Station B, and Snow Black. If already obtained, revisit the areas where you found them.",
       "checkbox": {
         "2kki_menu_67": "Rainy Sundial",
         "2kki_menu_68": "Paraffin Embedding Ruins",
@@ -5304,7 +5291,7 @@
     "other_worlds": {
       "name": "Outros mundos",
       "description": "Os acordes do piano levam... a algum lugar...",
-      "condition": "Entre em Young Passage e Microscopic World",
+      "condition": "Entre em Young Passage e Microorganism World",
       "checkbox": {
         "microscopic_world": "Microorganism World",
         "young_passage": "Young Passage"
@@ -5823,8 +5810,8 @@
         "tubes_kondo": "Tubes",
         "purple_crystal": "Memory Graveyard",
         "corrupted_art_gallery_sh_e": "Empty Gallery",
-        "lsd_world": "LSD World (Dynamic)",
-        "kondo_ending_room|kondo_ending_room_2": "Kondo"
+        "lsd_world": "LSD World",
+        "kondo_ending_room|kondo_ending_room_2": "Chaos"
       }
     },
     "rusty_bubble": {
@@ -6187,11 +6174,11 @@
       "description": "Apreciando a vista o tempo todo",
       "condition": "Caminhe na varanda durante a manhã, dia, tarde, noite e chuva",
       "checkbox": {
-        "balcony_evening": "Balcony",
-        "balcony_day": "Balcony (Day)",
-        "balcony_night": "Balcony (Night)",
-        "balcony_morning": "Balcony (Morning)",
-        "balcony_storm": "Balcony (Storm)"
+        "balcony_evening": "tarde",
+        "balcony_day": "dia",
+        "balcony_night": "noite",
+        "balcony_morning": "manhã",
+        "balcony_storm": "chuva"
       }
     },
     "broken_bridge_monster": {
@@ -6342,8 +6329,8 @@
       "name": "Chefe do Poço",
       "condition": "Veja a pessoa com o pescoço comprido na Mosquies' Village e entre no poço das Dark Lands",
       "checkbox": {
-        "mosquies_village_chief": "Mosquies' Village: The Wickedest Mosquy",
-        "well_dark_lands": "Quiet Path"
+        "mosquies_village_chief": "Mosquies' Village",
+        "well_dark_lands": "Dark Lands"
       }
     },
     "cartoonboy": {
@@ -6956,7 +6943,7 @@
       "condition": "Encontre todas as Sometsuki jovens",
       "checkbox": {
         "emerald_square": "Emerald Square",
-        "emerald_square_some": "Emerald Square: Back Alley",
+        "emerald_square_some": "Back Alley",
         "banquet_hall_some": "Banquet Hall"
       }
     },
@@ -7437,11 +7424,7 @@
     "duality_of_mom": {
       "name": "Mãe...",
       "description": "Eu te amo, por favor, não me machuque.",
-      "condition": "Encontre as versões doce e assustadora da mãe de A.",
-      "checkbox": {
-        "mom_normal": "Nursery Room",
-        "mom_scary": "?"
-      }
+      "condition": "Encontre as versões doce e assustadora da mãe de A."
     },
     "sacred_cats": {
       "name": "Gatos Sagrados",

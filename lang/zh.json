@@ -372,18 +372,14 @@
       "description": "各显神通。",
       "condition": "装备△头巾与Nopperabou Ghost和Fleebie互动，并刀掉Follony。",
       "checkbox": {
-        "ghostly_nopp": "黑暗世界",
-        "ghostly_follony": "下水道",
-        "ghostly_fleebie": "混凝土废墟"
+        "ghostly_nopp": "Nopperabou Ghost",
+        "ghostly_follony": "Follony",
+        "ghostly_fleebie": "Fleebie"
       }
     },
     "wilderness_fan": {
       "name": "荒野求生专家",
-      "condition": "探索荒野的每一处。",
-      "checkbox": {
-        "wilderness_50|wilderness_51|wilderness_52|wilderness_53|wilderness_54|wilderness_55|wilderness_56|wilderness_57|wilderness_58|wilderness_59|wilderness_60|wilderness_61|wilderness_62|wilderness_63|wilderness_64": "荒野",
-        "wilderness_65": "温泉屋"
-      }
+      "condition": "探索荒野的每一处。"
     },
     "dave_death": {
       "name": "戴维琼斯的箱子",
@@ -638,7 +634,7 @@
       "condition": "造访地底湖、树林空间与石跡",
       "checkbox": {
         "underground_lake": "地底湖",
-        "cliffside_woods": "樹林空間",
+        "cliffside_woods": "树林空间",
         "radiant_stones_pathway": "石跡"
       }
     },
@@ -646,11 +642,11 @@
       "name": "微型黑洞",
       "condition": "在Río的世界里，找到所有5个黑洞女孩并与其互动。若已互动过，则必须抵达每位女孩的原本位置。",
       "checkbox": {
-        "b_h_g_decrepit_dwellings": "集合住宅",
+        "b_h_g_decrepit_dwellings": "Decrepit Dwellings",
         "b_h_g_verdant_promenade": "Verdant Promenade",
         "b_h_g_forgotten_megalopolis": "Forgotten Megalopolis",
-        "b_h_g_tomb_of_velleities": "Butterfly：最奥",
-        "b_h_g_dragons_peak": "夢徨龍リオドリムス"
+        "b_h_g_tomb_of_velleities": "Tomb of Velleities: Lunar Sanctuary",
+        "b_h_g_dragons_peak": "Luminous Lake: Dragon's Peak"
       }
     },
     "circus_lesser": {
@@ -746,9 +742,9 @@
       "name": "神仙书虫",
       "condition": "造访梦幻图书馆、无尽图书馆、魔法图书馆",
       "checkbox": {
-        "library": "Library",
-        "infinite_library": "Infinite Library",
-        "mystery_library": "魔法図書館"
+        "library": "梦幻图书馆",
+        "infinite_library": "无尽图书馆",
+        "mystery_library": "魔法图书馆"
       }
     },
     "cosmic_cube": {
@@ -878,10 +874,10 @@
       "name": "B位面",
       "condition": "造访呕吐庭B、闪烁通道B、辩论嫌忌B、反富裕B",
       "checkbox": {
-        "downfall_garden_b": "嘔吐庭：血反吐エリア",
-        "sparkling_dimension_b": "黒潰れ：街灯と木のエリア",
-        "opal_ruins_b": "ミサロジー：陸（深層側）",
-        "fuchsia_suburbs_b": "反富裕：始祖庭側"
+        "downfall_garden_b": "呕吐庭B",
+        "sparkling_dimension_b": "闪烁通道B",
+        "opal_ruins_b": "辩论嫌忌B",
+        "fuchsia_suburbs_b": "反富裕B"
       }
     },
     "survivor": {
@@ -961,7 +957,7 @@
     "dream_fishing": {
       "name": "渔之乐",
       "description": "这条挺别致的",
-      "condition": "抵达 地下的海, 鱼骨, Fish World, 鲭沙漠, 寿司世界, 飞鱼世界, 石影, Streetlight Docks, Depths,和 Bioluminescent Caverns",
+      "condition": "抵达 地下的海, 鱼骨, Fish World, 鲭沙漠, 寿司世界, 飞鱼世界, 石影, Streetlight Docks, Depths,和 Bioluminescent Cavern",
       "checkbox": {
         "ocean_subsurface": "Ocean Subsurface",
         "rotten_fish_lake": "Rotten Fish Lake",
@@ -971,8 +967,8 @@
         "fish_f_f_world": "Flying Fish World",
         "fish_lamplit": "Lamplit Stones",
         "fish_streetlight": "Streetlight Docks",
-        "fish_depths": "みなぞこ",
-        "fish_bioluminescent": "夜花草"
+        "fish_depths": "Depths",
+        "fish_bioluminescent": "Bioluminescent Cavern"
       }
     },
     "decrepit_smile": {
@@ -1003,18 +999,13 @@
         "01_digital_forest_1|01_digital_forest_2": "Digital Forest",
         "01_fluorescent_halls": "Fluorescent Halls",
         "01_corrupted_love_world": "Corrupted Love World",
-        "01_winter_valley": "深層：雪降る森エリア",
-        "01_bright_forest": "虹遺跡"
+        "01_winter_valley": "Winter Valley",
+        "01_bright_forest": "Bright Forest"
       }
     },
     "tetrapod": {
       "name": "消波块",
-      "condition": "踏遍海滨沙滩的每片区域",
-      "checkbox": {
-        "realistic_beach_1|realistic_beach_2|realistic_beach_3|realistic_beach_4|realistic_beach_5|realistic_beach_6": "Realistic Beach",
-        "realistic_beach_7|realistic_beach_8|realistic_beach_9|realistic_beach_10": "消波ブロック内部",
-        "realistic_beach_11|realistic_beach_12": "消波ブロック内部奥"
-      }
+      "condition": "踏遍海滨沙滩的每片区域"
     },
     "stellar_graveyard": {
       "name": "星耀墓场",
@@ -1125,11 +1116,10 @@
         "menu_theme_8": "Hidden Shoal",
         "menu_theme_9": "Forest Pier",
         "menu_theme_10": "Planetarium",
-        "b_h_g_antiquated_resthouse": "蒸気工場",
+        "b_h_g_antiquated_resthouse": "Industrial Maze",
         "menu_theme_12": "Rose Church",
-        "menu_theme_13": "夜花草",
-        "menu_theme_14": "みなぞこ",
-        "menu_theme_15": "すいそう",
+        "menu_theme_13": "Bioluminescent Cavern",
+        "menu_theme_14|menu_theme_15": "Depths",
         "menu_theme_25": "Viridian Wetlands"
       }
     },
@@ -1197,12 +1187,12 @@
         "digital_hand_hub": "Stone World",
         "urban_street_area": "Urban Street Area",
         "the_docks": "The Docks",
-        "zalgo": "うつむき部屋",
-        "white_mushroom_field": "裏きのこ",
-        "crimson_labyrinth_mountains": "溶岩山",
+        "zalgo": "Magnet Room (Zalgo's Room?)",
+        "white_mushroom_field": "Mushroom World (White Mushroom Field)",
+        "crimson_labyrinth_mountains": "Crimson Labyrinth (Red Mountains)",
         "color_cubes_world": "Color Cubes World",
-        "octagonal_grid_hub_passage": "Octagonal Grid Hub",
-        "obentou_world": "吐き気",
+        "octagonal_grid_hub_passage": "Octagonal Grid Hub (Broken Passage)",
+        "obentou_world": "Obentou World",
         "entropy_dungeon": "Entropy Dungeon",
         "rainbow_towers": "Rainbow Towers"
       }
@@ -1256,21 +1246,7 @@
     "flying_fish_world": {
       "name": "我们与他们",
       "description": "到最后都是在原地打转",
-      "condition": "造访飞鱼世界的所有区域",
-      "checkbox": {
-        "flying_fish_world_1": "夕焼け",
-        "flying_fish_world_2|flying_fish_world_3": "待ち人",
-        "flying_fish_world_4|flying_fish_world_5": "正体不明",
-        "flying_fish_world_6": "古き良きテレビ",
-        "flying_fish_world_7": "頭蓋岩",
-        "flying_fish_world_8|flying_fish_world_14": "パース",
-        "flying_fish_world_9": "Flying Fish World",
-        "flying_fish_world_10": "怒りと血涙",
-        "flying_fish_world_11": "白い部屋",
-        "flying_fish_world_12": "夜景ベランダ",
-        "flying_fish_world_13": "鉢植え部屋：水槽と本棚のある鉢植え部屋",
-        "flying_fish_world_15": "時計"
-      }
+      "condition": "造访飞鱼世界的所有区域"
     },
     "sacred_crypt": {
       "name": "起源之梦",
@@ -1296,10 +1272,10 @@
       "description": "她与某人有种奇怪的相似之处...",
       "condition": "在以下每个地方找到神秘女仆并与其互动: 医院, 空中公园, 铁轨世界, 施工支架世界",
       "checkbox": {
-        "m_m_hospital": "病院",
-        "m_m_sky_kingdom": "空中公園",
-        "m_m_train_tracks": "廃線：線路エリア",
-        "m_m_construction_frame": "Construction Frame Building"
+        "m_m_hospital": "医院",
+        "m_m_sky_kingdom": "空中公园",
+        "m_m_train_tracks": "铁轨世界",
+        "m_m_construction_frame": "施工支架世界"
       }
     },
     "clock_pole": {
@@ -1307,11 +1283,12 @@
       "description": "守时守时一定要守时！",
       "condition": "在以下地点找到并靠近对应世界的时钟：植物世界, 雨之森, 水中植物园（两处）, Sculpture Park, 月光庭院, Monochrome School, Sunrise Road, Pure White Lands, Critter Village",
       "checkbox": {
-        "garden_world_clock_pole": "Garden World",
-        "blue_forest_clock_pole": "雨の森",
-        "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "Botanical Garden",
+        "garden_world_clock_pole": "植物世界",
+        "blue_forest_clock_pole": "雨之森",
+        "botanical_garden_clock_pole_1": "outdoors",
+        "botanical_garden_clock_pole_2": "passage",
         "sculpture_park_clock_pole": "Sculpture Park",
-        "twilight_park_clock_pole": "Twilight Park",
+        "twilight_park_clock_pole": "月光庭院",
         "monochrome_school_clock_pole": "Monochrome School",
         "sunrise_road_clock_pole": "Sunrise Road",
         "white_lands_clock_pole": "Pure White Lands",
@@ -1505,10 +1482,11 @@
       "condition": "调查（或抵达） 山顶遗迹 的树木、红细胞海洋（及其赤状态）、Graffiti Maze、和室迷路、苍园、山顶 及 Evergreen Woods。",
       "checkbox": {
         "mountainview_ruins_tree": "Mountaintop Ruins",
-        "tree_of_life_a|tree_of_life_b": "Blood Cell Sea",
+        "tree_of_life_a": "Blood Cell Sea",
+        "tree_of_life_b": "Qliphothic state",
         "graffiti_maze_tree": "Graffiti Maze",
-        "shinto_shrine_tree": "階段とブラザーサン",
-        "scenic_outlook_tree": "目の大樹",
+        "shinto_shrine_tree": "Shinto Shrine",
+        "scenic_outlook_tree": "Scenic Outlook",
         "evergreen_woods_tree": "Evergreen Woods",
         "azure_garden_tree": "Azure Garden"
       }
@@ -2402,7 +2380,10 @@
       "description": "摇啊摇，摇啊摇...",
       "condition": "进入 Oriental Pub 与传送npc连接的六个连接点。",
       "checkbox": {
-        "humanoid_angry|humanoid_crying|humanoid_happy|humanoid_shocked": "スマイルアイス",
+        "humanoid_angry": "Test Facility",
+        "humanoid_crying": "Holiday Hell",
+        "humanoid_happy": "Ice Cream Islands",
+        "humanoid_shocked": "Tribulation Complex",
         "humanoid_green": "Platformer World",
         "humanoid_tired": "Abandoned Grounds"
       }
@@ -3898,8 +3879,10 @@
       "description": "这些扰动的祸害是怪物还是征兆？你是命运的工具还是灾难的见证者？",
       "condition": "锯掉Wooded Lakeside, Kaleidoscope World, Streetlight Docks, Critter Village (Hexagonal Pillar Passage), Pure White Lands的红色怪物",
       "checkbox": {
-        "wooded_lakeside_1_monster|wooded_lakeside_2_monster": "湖のほとり：水路エリア",
-        "hexa_pillar_passage_monster|kaleidscope_world_monster": "六角タイル世界：六角柱通路・水晶",
+        "wooded_lakeside_1_monster": "Wooded Lakeside A",
+        "wooded_lakeside_2_monster": "Wooded Lakeside B",
+        "hexa_pillar_passage_monster": "Critter Village (Hexagonal Pillar Passage)",
+        "kaleidscope_world_monster": "Kaleidoscope World",
         "streetlight_docks_monster": "Streetlight Docks",
         "pure_white_lands_monster": "Pure White Lands"
       }
@@ -4684,7 +4667,7 @@
     "2kki_menu_67_70": {
       "name": "Abstract Prism",
       "description": "Prismatic jewels within the colors.",
-      "condition": "Obtain menu types 67-70. For any you have already obtained, return to the area where you originally found them.",
+      "condition": "Obtain menu themes 67-70 in Rainy Sundial, Paraffin Embedding Ruins, Fragmented Station B, and Snow Black. If already obtained, revisit the areas where you found them.",
       "checkbox": {
         "2kki_menu_67": "Rainy Sundial",
         "2kki_menu_68": "Paraffin Embedding Ruins",
@@ -5853,8 +5836,8 @@
         "tubes_kondo": "Tubes",
         "purple_crystal": "Memory Graveyard",
         "corrupted_art_gallery_sh_e": "Empty Gallery",
-        "lsd_world": "LSD World (Dynamic)",
-        "kondo_ending_room|kondo_ending_room_2": "Kondo"
+        "lsd_world": "LSD World",
+        "kondo_ending_room|kondo_ending_room_2": "Chaos"
       }
     },
     "rusty_bubble": {
@@ -6986,7 +6969,7 @@
       "condition": "找到所有幼年形态的 Sometsuki。",
       "checkbox": {
         "emerald_square": "Emerald Square",
-        "emerald_square_some": "Emerald Square: Back Alley",
+        "emerald_square_some": "Back Alley",
         "banquet_hall_some": "Banquet Hall"
       }
     },
@@ -7467,11 +7450,7 @@
     "duality_of_mom": {
       "name": "妈妈……",
       "description": "我爱你，请不要伤害我。",
-      "condition": "看到A母亲的温馨和恐怖两种形态",
-      "checkbox": {
-        "mom_normal": "Nursery Room",
-        "mom_scary": "?"
-      }
+      "condition": "看到A母亲的温馨和恐怖两种形态"
     },
     "sacred_cats": {
       "name": "圣猫",

@@ -372,18 +372,14 @@
       "description": "Трое из вида.",
       "condition": "Interact with Nopperabou Ghost and Fleebie while using the Spirit Headband effect and stab Follony with the Kitchen Knife effect",
       "checkbox": {
-        "ghostly_nopp": "Dark World",
-        "ghostly_follony": "Sewers",
-        "ghostly_fleebie": "Ghost World"
+        "ghostly_nopp": "Nopperabou Ghost",
+        "ghostly_follony": "stab Follony with the Kitchen Knife effect",
+        "ghostly_fleebie": "Fleebie"
       }
     },
     "wilderness_fan": {
       "name": "Исследователь пустыни",
-      "condition": "Посетите все зоны Пустыни.",
-      "checkbox": {
-        "wilderness_50|wilderness_51|wilderness_52|wilderness_53|wilderness_54|wilderness_55|wilderness_56|wilderness_57|wilderness_58|wilderness_59|wilderness_60|wilderness_61|wilderness_62|wilderness_63|wilderness_64": "Wilderness",
-        "wilderness_65": "Hot Spring House"
-      }
+      "condition": "Посетите все зоны Пустыни."
     },
     "dave_death": {
       "name": "Dave-y Jones Locker",
@@ -881,7 +877,7 @@
         "downfall_garden_b": "Downfall Garden B",
         "sparkling_dimension_b": "Sparkling Dimension B",
         "opal_ruins_b": "Opal Ruins B",
-        "fuchsia_suburbs_b": "Originator Garden: Fuchsia Suburbs B"
+        "fuchsia_suburbs_b": "Fuchsia Suburbs B"
       }
     },
     "survivor": {
@@ -1004,7 +1000,7 @@
         "01_fluorescent_halls": "Fluorescent Halls",
         "01_corrupted_love_world": "Corrupted Love World",
         "01_winter_valley": "Winter Valley",
-        "01_bright_forest": "Bright Forest: Rainbow Ruins"
+        "01_bright_forest": "Bright Forest"
       }
     },
     "tetrapod": {
@@ -1191,11 +1187,11 @@
         "digital_hand_hub": "Stone World",
         "urban_street_area": "Urban Street Area",
         "the_docks": "The Docks",
-        "zalgo": "Magnet Room: Zalgo's Room?",
-        "white_mushroom_field": "Mushroom World: White Mushroom Field",
-        "crimson_labyrinth_mountains": "Crimson Labyrinth",
+        "zalgo": "Magnet Room (Zalgo's Room?)",
+        "white_mushroom_field": "Mushroom World (White Mushroom Field)",
+        "crimson_labyrinth_mountains": "Crimson Labyrinth (Red Mountains)",
         "color_cubes_world": "Color Cubes World",
-        "octagonal_grid_hub_passage": "Octagonal Grid Hub",
+        "octagonal_grid_hub_passage": "Octagonal Grid Hub (Broken Passage)",
         "obentou_world": "Obentou World",
         "entropy_dungeon": "Entropy Dungeon",
         "rainbow_towers": "Rainbow Towers"
@@ -1289,7 +1285,8 @@
       "checkbox": {
         "garden_world_clock_pole": "Garden World (ночь)",
         "blue_forest_clock_pole": "Blue Forest",
-        "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "Botanical Garden",
+        "botanical_garden_clock_pole_1": "outdoors",
+        "botanical_garden_clock_pole_2": "passage",
         "sculpture_park_clock_pole": "Sculpture Park",
         "twilight_park_clock_pole": "Twilight Park",
         "monochrome_school_clock_pole": "Monochrome School",
@@ -1315,11 +1312,7 @@
     "plaza": {
       "name": "Гидроплощадь",
       "description": "Это не город, Это площадь.",
-      "condition": "Обследуйте Poseidon Plaza.",
-      "checkbox": {
-        "plaza_1|plaza_3|plaza_4|plaza_5": "Poseidon Plaza",
-        "plaza_2": "Deep Red Wilds"
-      }
+      "condition": "Обследуйте Poseidon Plaza."
     },
     "robot": {
       "name": "Хранилище",
@@ -1335,10 +1328,11 @@
       "description": "Самый Важный Аппарат",
       "condition": "Используйте телефон к Urotsuki's Dream Apartments во всех 8 локациях: Aquatic Cube City, Fossil Lake, Sugar Road, Underground Garage, Water Reclamation Facility, Dark Museum, Dark Warehouse и Parking Zone.",
       "checkbox": {
-        "phone_aquatic_cube_city|phone_fossil_lake": "Fossil Lake",
+        "phone_aquatic_cube_city": "Aquatic Cube City",
+        "phone_fossil_lake": "Fossil Lake",
         "phone_sugar_road": "Sugar Road",
         "phone_underground_garage": "Underground Garage",
-        "phone_water_reclamation_facility": "Water Reclamation Facility: Shutter Alley",
+        "phone_water_reclamation_facility": "Water Reclamation Facility",
         "phone_dark_museum": "Dark Museum",
         "phone_dark_warehouse": "Dark Warehouse",
         "phone_parking_zone": "Parking Zone"
@@ -1472,9 +1466,10 @@
     "helmet_girl": {
       "name": "Блести",
       "description": "Встретимся на тёмной стороне луны.",
-      "condition": "Найдите Девочку со шлемом в Square-Square World, Её квартире, и на Moonlit Purple Balcony.",
+      "condition": "Найдите Девочку со шлемом в Square-Square World, Её квартире, и на Moonlit Purple Balcony",
       "checkbox": {
-        "helmet_girl_moonlit_balcony|helmet_girl_apartment": "Flying Fish World",
+        "helmet_girl_moonlit_balcony": "Moonlit Purple Balcony",
+        "helmet_girl_apartment": "Её квартире",
         "helmet_girl_square2_world": "Square-Square World"
       }
     },
@@ -1699,15 +1694,15 @@
       "checkbox": {
         "uro_atlantis": "Atlantis",
         "uro_tapir_place": "Tapir-San's Place",
-        "uro_cloning_room": "Red Brick Maze: Cloning Room",
-        "uro_bleak_future": "Bleak Future",
+        "uro_cloning_room": "Giant Cloning Room",
+        "uro_bleak_future": "Urotsuki's Dream Apartments",
         "uro_pinwheel_path": "Closet Pinwheel Path",
         "uro_red_sky_cliff": "Red Sky Cliff",
         "uro_despair_road": "Despair Road",
         "uro_killed_head": "Head World",
         "uro_static_noise_hell": "Static Noise Hell",
         "uro_colorless_valley": "Colorless Valley",
-        "uro_spear_tribe_world": "Spear Tribe World: Overgrown Stone Area"
+        "uro_spear_tribe_world": "Spear Tribe World"
       }
     },
     "blossoming_brooch": {
@@ -1918,13 +1913,7 @@
     "gb_memories": {
       "name": "Воспоминания о GB",
       "description": "Помнишь?",
-      "condition": "Узрите все секреты Monochrome GB World и сядьте на скамейку в конце NES Glitch Tunnel.",
-      "checkbox": {
-        "gb_change_color|gb_house_secret": "Monochrome GB World",
-        "gb_flower_pot": "Monochrome GB World: GB Well",
-        "nes_tunnel_bench": "NES Glitch Tunnel",
-        "gb_forest_event": "Sketch Plains"
-      }
+      "condition": "Узрите все секреты Monochrome GB World и сядьте на скамейку в конце NES Glitch Tunnel."
     },
     "bunny_cocktail": {
       "name": "Заячий коктейль",
@@ -2271,7 +2260,7 @@
       "description": "Два лучше, чем один!",
       "condition": "Доберитесь до Witch's House в Love Lodge, места, где находится замёрзшая Ведьма Милосердия, и найдите картину в Hatred Palace.",
       "checkbox": {
-        "love_witch_house": "Love Lodge",
+        "love_witch_house": "Witch's House в Love Lodge",
         "frozen_charity_witch": "Snowy Suburbs",
         "painting_hatred_palace": "Hatred Palace"
       }
@@ -2381,7 +2370,10 @@
       "description": "Кружится, кружится, кружится...",
       "condition": "Побывайте в 6 мирах на изображении, не пользуясь телепортом в Oriental Pub.",
       "checkbox": {
-        "humanoid_angry|humanoid_crying|humanoid_happy|humanoid_shocked": "Ice Cream Islands",
+        "humanoid_angry": "Test Facility",
+        "humanoid_crying": "Holiday Hell",
+        "humanoid_happy": "Ice Cream Islands",
+        "humanoid_shocked": "Tribulation Complex",
         "humanoid_green": "Platformer World",
         "humanoid_tired": "Abandoned Grounds"
       }
@@ -2429,13 +2421,13 @@
       "description": "Тобой пройдено уже так много от того, где тебе пришлось начинать.",
       "condition": "Посетите следующие зоны с видом на Горы-близнецы: Foliage Estate (Overlook), Flying Fish World (Dream Scene), Mirror Room (Beach), Bleak Future, Saturated Eyeball Zone, Rainy Apartments, Red Sky Cliff (Splash Streetway), Wind Turbine Plateau, Bathhouse",
       "checkbox": {
-        "tw_foliage": "Foliage Estate",
-        "tw_fish": "Flying Fish World",
-        "tw_mirror": "Mirror Room",
+        "tw_foliage": "Foliage Estate (Overlook)",
+        "tw_fish": "Flying Fish World (Dream Scene)",
+        "tw_mirror": "Mirror Room (Beach)",
         "tw_bleak": "Bleak Future",
         "tw_eyeball": "Saturated Eyeball Zone",
         "tw_rainy": "Rainy Apartments",
-        "tw_red": "Red Sky Cliff: Splash Streetway",
+        "tw_red": "Red Sky Cliff (Splash Streetway)",
         "tw_wind": "Wind Turbine Plateau",
         "tw_bathhouse": "Bathhouse"
       }
@@ -2479,7 +2471,7 @@
       "condition": "Встретьтесь с Джимбо на Giant Desktop и загляните в четвёртую дыру в Holiday Hell.",
       "checkbox": {
         "jimbo_desktop": "Giant Desktop",
-        "jimbo_holiday": "Ice Cream Islands"
+        "jimbo_holiday": "Holiday Hell"
       }
     },
     "lone_penguin": {
@@ -2498,7 +2490,7 @@
         "honeycomb_world": "Honeycomb World",
         "pink_honeycomb": "Pink Honeycomb",
         "honeybee_laboratory": "Honeybee Laboratory",
-        "honeybee_residence": "Honeybee Residence: Honeybee Skyscraper"
+        "honeybee_residence": "Honeybee Residence"
       }
     },
     "vertigo_parasomnia": {
@@ -2520,7 +2512,7 @@
       "name": "Собиратель Нексусов",
       "condition": "Побывайте в Dark Nexus, Second Nexus, и Mini-Nexus.",
       "checkbox": {
-        "the_second_nexus": "The Second Nexus",
+        "the_second_nexus": "Second Nexus",
         "dark_nexus": "Dark Nexus",
         "mini_nexus": "Mini-Nexus"
       }
@@ -2564,7 +2556,7 @@
       "checkbox": {
         "cyclop_petal_hotel": "Petal Hotel",
         "cyclop_dream_pool": "Dream Pool",
-        "cyclop_silent_sewers": "Silent Sewers: Cyclops' Room",
+        "cyclop_silent_sewers": "Silent Sewers",
         "cyclop_teddy_bear": "Teddy Bear Land",
         "cyclop_red_street": "Red Streetlight World",
         "cyclop_acerola": "Acerola World",
@@ -2607,13 +2599,13 @@
     },
     "flower_vision": {
       "name": "Цветочное видение",
-      "condition": "Используйте эффект Жука рядом с цветами в Flooded Dungeon (Цветочная дыра), Travel Hotel, Lost Creek, Snowy Forest (Пещера феи), Wooden Polycube Ruins.",
+      "condition": "Используйте эффект Жука рядом с цветами в Flooded Dungeon (Цветочная дыра), Travel Hotel, Lost Creek, Snowy Forest (Пещера феи), Wooden Polycube Ruins",
       "checkbox": {
-        "flowers_vortex": "Flooded Dungeon: Floral Vortex",
+        "flowers_vortex": "Flooded Dungeon (Цветочная дыра)",
         "flowers_hotel": "Travel Hotel",
         "flowers_creek": "Lost Creek",
-        "flowers_fairy": "Snowy Forest",
-        "flowers_polycube": "Wooden Polycube Ruins: Icy Garden"
+        "flowers_fairy": "Snowy Forest (Пещера феи)",
+        "flowers_polycube": "Wooden Polycube Ruins"
       }
     },
     "pudding_world_secrets": {
@@ -2726,11 +2718,7 @@
     "mask_collection": {
       "name": "Мастер маскировки",
       "description": "Кем будешь сегодня?",
-      "condition": "Разблокируйте и просмотрите все не связанные с эффектами маски в одном из Mask Shop (помимо Девочки с хвостиками, Ахогеко, Теневого Сгустка, Кигяру, Белой мыши, Чёрной мыши, Существа Такояки, Angel Priest и Дорожного конуса).",
-      "checkbox": {
-        "mask_shop_s_twintail|mask_shop_s_bird|mask_shop_s_slime|mask_shop_s_guard|mask_shop_paint|mask_shop_uri|mask_shop_yukata|mask_shop_monmon|mask_shop_witch|mask_shop_prov|mask_shop_cat|mask_shop_appu|mask_shop_science|mask_shop_musume|mask_shop_otoko|mask_shop_tv|mask_shop_math|mask_shop_dogboa|mask_shop_huyure|mask_shop_eyeball|mask_shop_chain|mask_shop_fox|mask_shop_seal|mask_shop_candle|mask_shop_barrier|mask_shop_rune": "Mask Shop",
-        "mask_shop_s_twintail_d|mask_shop_s_bird_d|mask_shop_s_slime_d|mask_shop_s_guard_d|mask_shop_paint_d|mask_shop_uri_d|mask_shop_yukata_d|mask_shop_monmon_d|mask_shop_witch_d|mask_shop_prov_d|mask_shop_cat_d|mask_shop_appu_d|mask_shop_science_d|mask_shop_musume_d|mask_shop_otoko_d|mask_shop_tv_d|mask_shop_math_d|mask_shop_dogboa_d|mask_shop_huyure_d|mask_shop_eyeball_d|mask_shop_chain_d|mask_shop_fox_d|mask_shop_seal_d|mask_shop_candle_d|mask_shop_barrier_d|mask_shop_rune_d": "Deluxe Mask Shop"
-      }
+      "condition": "Разблокируйте и просмотрите все не связанные с эффектами маски в одном из Mask Shop (помимо Девочки с хвостиками, Ахогеко, Теневого Сгустка, Кигяру, Белой мыши, Чёрной мыши, Существа Такояки, Angel Priest и Дорожного конуса)."
     },
     "retro_cartridge_game": {
       "name": "Прямо как в 1977!",
@@ -3395,8 +3383,10 @@
       "description": "Old like wine",
       "condition": "In Japan Town, find the Ghost Maiko, discover some creatures hidden in an isolated room by using the Glasses effect, and interact with Kanban Otoko and News Man",
       "checkbox": {
-        "japan_town_hotel|japan_town_glasses": "Japan Town: The Hotel",
-        "japan_town_otoko|japan_town_news_man": "Japan Town"
+        "japan_town_hotel": "find the Ghost Maiko",
+        "japan_town_glasses": "discover some creatures hidden in an isolated room by using the Glasses effect",
+        "japan_town_otoko": "Kanban Otoko",
+        "japan_town_news_man": "News Man"
       }
     },
     "himalayan_lighthouse": {
@@ -3472,14 +3462,14 @@
     },
     "urotsuki_bedrooms": {
       "name": "Urotsuki's Syndrome",
-      "condition": "Visit Urotsuki's room in Urotsuki's Dream Apartments, Drowsy Forest, Mirror Room and Static Labyrinth, and see the Bleak Future and Vertigo Room events",
+      "condition": "Visit Urotsuki's room in Urotsuki's Dream Apartments, Drowsy Forest, Mirror Room and Static Labyrinth, and see the Bleak Future and Vertigo events",
       "checkbox": {
         "urotsukis_dream_apartments": "Urotsuki's Dream Apartments",
         "drowsy_forest_room": "Drowsy Forest",
         "mirror_room": "Mirror Room",
-        "static_doppelganger_room": "Static Labyrinth: Doppelgänger Room",
+        "static_doppelganger_room": "Static Labyrinth",
         "bleak_future_main": "Bleak Future",
-        "vertigo_room": "Urotsuki's Dream Room: Vertigo"
+        "vertigo_room": "Vertigo"
       }
     },
     "2kki_canvas": {
@@ -3869,7 +3859,8 @@
       "description": "Are these scourges of a perturbation monsters or signs? Are you a tool of fate or a witness to a disaster?",
       "condition": "Chainsaw the red monsters in Wooded Lakeside, Kaleidoscope World, Streetlight Docks, Critter Village (Hexagonal Pillar Passage), Pure White Lands",
       "checkbox": {
-        "wooded_lakeside_1_monster|wooded_lakeside_2_monster": "Wooded Lakeside",
+        "wooded_lakeside_1_monster": "Wooded Lakeside A",
+        "wooded_lakeside_2_monster": "Wooded Lakeside B",
         "hexa_pillar_passage_monster": "Critter Village (Hexagonal Pillar Passage)",
         "kaleidscope_world_monster": "Kaleidoscope World",
         "streetlight_docks_monster": "Streetlight Docks",
@@ -4323,11 +4314,7 @@
     "megusuri_uri_visine": {
       "name": "Eye Drops Vendor",
       "description": "These eyes are very sensitive so he cares a lot about his work",
-      "condition": "Find and interact with Megusuri Uri in the three different parts of Visine World",
-      "checkbox": {
-        "megusuri_uri_visine_1": "Visine World",
-        "megusuri_uri_visine_2|megusuri_uri_visine_3": "Visine World: Eye Shop"
-      }
+      "condition": "Find and interact with Megusuri Uri in the three different parts of Visine World"
     },
     "rgb_passage": {
       "name": "RGB Tile Path",
@@ -4353,14 +4340,14 @@
       "description": "Let's go stargazing!",
       "condition": "Find night sky sceneries in Twisted Thickets, Foliage Estate, Submerged Communications Area, Shallows of Deceit, Nocturnal Grove, Windswept Scarlet Sands, Planetarium, and Tomb of Velleities",
       "checkbox": {
-        "peak": "Twisted Thickets: The Peak",
+        "peak": "Twisted Thickets",
         "foliage_estate_satellite_dish": "Foliage Estate",
         "submerged_communications_area": "Submerged Communications Area",
         "shallows_of_deceit_rooftop": "Shallows of Deceit",
         "nocturnal_grove_boat": "Nocturnal Grove",
         "starry_night": "Windswept Scarlet Sands",
         "star_planetarium": "Planetarium",
-        "tomb_of_velleities": "Tomb of Velleities: Lunar Sanctuary"
+        "tomb_of_velleities": "Tomb of Velleities"
       }
     },
     "overgrowth_outlook": {
@@ -4654,7 +4641,7 @@
     "2kki_menu_67_70": {
       "name": "Abstract Prism",
       "description": "Prismatic jewels within the colors.",
-      "condition": "Obtain menu types 67-70. For any you have already obtained, return to the area where you originally found them.",
+      "condition": "Obtain menu themes 67-70 in Rainy Sundial, Paraffin Embedding Ruins, Fragmented Station B, and Snow Black. If already obtained, revisit the areas where you found them.",
       "checkbox": {
         "2kki_menu_67": "Rainy Sundial",
         "2kki_menu_68": "Paraffin Embedding Ruins",
@@ -5823,8 +5810,8 @@
         "tubes_kondo": "Tubes",
         "purple_crystal": "Memory Graveyard",
         "corrupted_art_gallery_sh_e": "Empty Gallery",
-        "lsd_world": "LSD World (Dynamic)",
-        "kondo_ending_room|kondo_ending_room_2": "Kondo"
+        "lsd_world": "LSD World",
+        "kondo_ending_room|kondo_ending_room_2": "Chaos"
       }
     },
     "rusty_bubble": {
@@ -6342,8 +6329,8 @@
       "name": "Chief of the Well",
       "condition": "See the person with the long neck in the Mosquies' Village and enter in the well of the Dark Lands",
       "checkbox": {
-        "mosquies_village_chief": "Mosquies' Village: The Wickedest Mosquy",
-        "well_dark_lands": "Quiet Path"
+        "mosquies_village_chief": "Mosquies' Village",
+        "well_dark_lands": "Dark Lands"
       }
     },
     "cartoonboy": {
@@ -6956,7 +6943,7 @@
       "condition": "Encounter all the young Sometsuki",
       "checkbox": {
         "emerald_square": "Emerald Square",
-        "emerald_square_some": "Emerald Square: Back Alley",
+        "emerald_square_some": "Back Alley",
         "banquet_hall_some": "Banquet Hall"
       }
     },
@@ -7437,11 +7424,7 @@
     "duality_of_mom": {
       "name": "Mom...",
       "description": "I love you, please don't hurt me.",
-      "condition": "Find both the sweet and scary versions of A's mom",
-      "checkbox": {
-        "mom_normal": "Nursery Room",
-        "mom_scary": "?"
-      }
+      "condition": "Find both the sweet and scary versions of A's mom"
     },
     "sacred_cats": {
       "name": "Sacred Cats",
