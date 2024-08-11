@@ -1,8 +1,13 @@
 {
   "group": "2_el",
   "bp": 20,
-  "reqType": "tag",
-  "reqString": "spectral_hub_complete",
+  "reqType": "tags",
+  "reqStrings": [
+    "spectral_hub_1",
+    "spectral_hub_2",
+    "spectral_hub_3",
+    "spectral_hub_4"
+  ],
   "map": 2461,
   "art": "MittenBits",
   "animated": true,
