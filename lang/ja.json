@@ -437,6 +437,11 @@
     "desert_block_world": {
       "name": "ブロックから白黒へ",
       "condition": "ブロックの世界から白黒世界に行く"
+    },
+    "mall_underground_link": {
+      "name": "A Game of Broken Elevators",
+      "description": "A certain rooftop awaits your arrival.",
+      "condition": "Take the one-way trip from Underground World to the Mall"
     }
   },
   "2kki": {
@@ -4728,6 +4733,92 @@
       "name": "フレーバーフェスタ",
       "description": "たくさんのフレーバー・・・",
       "condition": "胡麻横丁のアイス屋で全てのフレーバーのアイスクリームを購入する"
+    },
+    "rooftop_steam_engine": {
+      "name": "Suburban Skyline",
+      "description": "And you may find yourself at the top of an abandoned factory!",
+      "condition": "Reach the rooftop of Steam Engine"
+    },
+    "swing_sculpture_park": {
+      "name": "Swinging Around Town",
+      "description": "So fun to swing!",
+      "condition": "Interact with the swing in Sculpture Park"
+    },
+    "stretch_const_build": {
+      "name": "Growing Up",
+      "description": "Can an adult dream?",
+      "condition": "Use the Stretch effect at the entrance of the Stellar Building in Constellation World"
+    },
+    "stare_gentle_meadows": {
+      "name": "Bloodshot Watcher",
+      "description": "A not so gentle gaze...",
+      "condition": "See the white staring creature in Gentle Meadows"
+    },
+    "apfel_sunset_road": {
+      "name": "Red Delicious~",
+      "description": "Apple of my eye...",
+      "condition": "Interact with one of the apple creatures with the Red Riding Hood effect equipped in Sunset Road"
+    },
+    "turquoise_city_lady": {
+      "name": "Cheri Cheri Lady",
+      "description": "Lady in a world with turquoise rooftops",
+      "condition": "Find the lady in turquoise clothes and use the Teru Teru Bōzu and Telephone effects near her in Turquoise Cityscape",
+      "checkbox": {
+        "turquoise_city_lady_teru": "Teru Teru Bōzu",
+        "turquoise_city_lady_phone": "Telephone"
+      }
+    },
+    "puzzle_scattered_sky_fld": {
+      "name": "Twin Mountains Lullaby",
+      "description": "Rest sometimes",
+      "condition": "Reach the end of the puzzle in Scattered Sky Fields"
+    },
+    "penseur_crimson_chair": {
+      "name": "The Thinker",
+      "description": "What goes through this being's head?",
+      "condition": "Find the pink humanoid creature in Crimson Chair Area"
+    },
+    "kiki_crossing_forest": {
+      "name": "Cat Supremacy",
+      "description": "Silly friend!",
+      "condition": "See Kiki's normal state, Polygon state, and Crossing state in Crossing Forest",
+      "checkbox": {
+        "kiki_crossing_forest_nrm": "normal state",
+        "kiki_crossing_forest_plg": "Polygon state",
+        "kiki_crossing_forest_crs": "Crossing state"
+      }
+    },
+    "photo_overture_grs_bksh": {
+      "name": "Grayscale Photo Album",
+      "description": "From a vintage gray library",
+      "condition": "Reach the Photograph Overture in Grayscale Bookshelves"
+    },
+    "banana_cerulean_school": {
+      "name": "Potassium",
+      "description": "Whoopsie daisy!",
+      "condition": "Slip on the banana peel in Cerulean School"
+    },
+    "flower_queen": {
+      "name": "Midsummer",
+      "description": "Dance and spin until you become the flower queen.",
+      "condition": "花香る草原、コスモス峠、菜の花畑、植生街路と虹家の薔薇畑に到達する",
+      "checkbox": {
+        "flower_scent_world": "花香る草原",
+        "field_of_cosmos": "コスモス峠",
+        "rapeseed_fields": "菜の花畑",
+        "floral_crossroads": "植生街路",
+        "rainbhouse_flower_field": "虹家の薔薇畑"
+      }
+    },
+    "bittersweet_love": {
+      "name": "Dream Pigment Moon",
+      "description": "Get a good night of sleep!",
+      "condition": "ゆめいろ天幕の果てに到達する"
+    },
+    "researcher_lover": {
+      "name": "Architect of the Valley",
+      "description": "Searching for the right measurements...",
+      "condition": "鉄骨宇宙でポニテ博士と話す"
     }
   },
   "unconscious": {
@@ -5280,6 +5371,10 @@
       "name": "Industrial Incandescence",
       "description": "Set the controls for the heart of the Sun.",
       "condition": "Visit the Sun Reactor"
+    },
+    "lush_hilltop": {
+      "name": "Lush Hilltop",
+      "condition": "Visit Lush Hilltop"
     }
   },
   "flow": {
@@ -5489,6 +5584,11 @@
       "name": "Shinsoku Neko: マスタークエストエディション",
       "description": "上達したね！",
       "condition": "Score 1000 points in Shinsoku Neko by hitting a seahorse without getting hit"
+    },
+    "cat_rainbow_maze": {
+      "name": "Rusty Cat",
+      "description": "Oh, adorable kitty with color from the snow",
+      "condition": "Obtain the Cat effect. If you have already unlocked it, return where the effect can be found in the Rainbow Maze."
     }
   },
   "prayers": {
@@ -5781,6 +5881,11 @@
       "name": "ビーブーブーバップ、ブーブービープ！",
       "description": "ビーブーブー、ブーブーバップ？ビーブーブーバップ？ブーブービーバップ？「ビーブーブービープ」バップじゃなくて？ビープ？ブーブーバップ！",
       "condition": "金属のアルターを手に入れる。すでに持っている場合は、入手した場所に戻る"
+    },
+    "serene_flowers": {
+      "name": "Lotus Veranda",
+      "description": "Serene sound of water, soothing floral scent.",
+      "condition": "Dark Townのバルコニーに到達する"
     }
   },
   "someday": {
@@ -6387,6 +6492,25 @@
     "serene_apartment_aqua": {
       "name": "Serene Fish",
       "condition": "Serene Apartmentで水族館の景色を見る"
+    },
+    "versailles_abysses": {
+      "name": "Heart of the Seas",
+      "description": "May the ocean keep you.",
+      "condition": "噴水の近くでラジエーターのキーを使って冷気を放出する"
+    },
+    "calendar": {
+      "name": "四季",
+      "condition": "See the Nexus during summer, autumn, winter, and spring",
+      "checkbox": {
+        "nexus_season_1": "summer",
+        "nexus_season_2": "autumn",
+        "nexus_season_3": "winter",
+        "nexus_season_4": "spring"
+      }
+    },
+    "residential_prison": {
+      "name": "Faraway Exile",
+      "condition": "Residential Corridor Worldで警備員に捕まる"
     }
   },
   "muma": {
@@ -6711,6 +6835,11 @@
       "name": "The Red Card",
       "description": "我々の契約は締結された。それ以上のものをお前にやるつもりはない。もう失せろ！",
       "condition": "Interact with the Dream Baby in the Unreal Nexus"
+    },
+    "creature_lab_b": {
+      "name": "The Laboratory's Secret",
+      "description": "Better hope it doesn't get out...",
+      "condition": "See the creature in a tube in Laboratory B"
     }
   },
   "mikan": {
@@ -6848,6 +6977,11 @@
       "name": "心に引っかかる",
       "description": "不安な気持ち",
       "condition": "Prisonで無知(を装った)のイベントを起こす"
+    },
+    "cat_black_stone_world": {
+      "name": "Nyan, Purr!",
+      "description": "Purr... Seems like a kind feline, isn't it?",
+      "condition": "Interact with the cat while using the Black Cat effect in Black Stone World"
     }
   },
   "ultraviolet": {
@@ -7006,6 +7140,10 @@
       "name": "エメラルドの教会",
       "description": "イベントのキーポイント",
       "condition": "Emerald Squareに到達する"
+    },
+    "sibunnies_glass_pipe": {
+      "name": "Bunny Siblings",
+      "condition": "Meet the Bunny Siblings in Glass Pipe World"
     }
   },
   "sheawaits": {
