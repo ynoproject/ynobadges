@@ -427,6 +427,11 @@
     "desert_block_world": {
       "name": "D'un monde de blocs à un désert",
       "condition": "Visiter le White Desert A depuis le Block World"
+    },
+    "mall_underground_link": {
+      "name": "Ascenseurs farceurs",
+      "description": "Un certain toit attend votre arrivée.",
+      "condition": "Prendre le passage à sens unique menant de l'Underground World au Mall"
     }
   },
   "2kki": {
@@ -4696,6 +4701,92 @@
       "name": "Fête de saveurs",
       "description": "Il y a tellement d'options...",
       "condition": "Acheter tous les parfums de crème glacée dans la boutique de crèmes glacées de la GALAXY Town"
+    },
+    "rooftop_steam_engine": {
+      "name": "Horizon de banlieue",
+      "description": "Et tu pourrais même te retrouver sur le toit d'une usine abandonnée !",
+      "condition": "Atteindre le toit de Steam Engine"
+    },
+    "swing_sculpture_park": {
+      "name": "La balançoire, c'est trop génial !",
+      "description": "C'est si marrant de se balancer !",
+      "condition": "Interagir avec la balançoire au Sculpture Park"
+    },
+    "stretch_const_build": {
+      "name": "Croissance",
+      "description": "Une adulte peut-elle encore rêver ?",
+      "condition": "Utiliser l'effet Étirement à l'entrée du Bâtiment Stellaire du Constellation World"
+    },
+    "stare_gentle_meadows": {
+      "name": "Voyeur à l'œil ensanglanté",
+      "description": "Un regard pas si gentil...",
+      "condition": "Voir la créature observatrice blanche aux Gentle Meadows"
+    },
+    "apfel_sunset_road": {
+      "name": "Les pommes rouges, quel régal~",
+      "description": "La pomme de mon œil...",
+      "condition": "Interagir avec l'une des créatures pomme avec l'effet Chaperon rouge équipé à la Sunset Road"
+    },
+    "turquoise_city_lady": {
+      "name": "Demoiselle Turquoise",
+      "description": "Demoiselle dans un monde aux toits turquoises",
+      "condition": "Trouver la demoiselle aux habits turquoises et utiliser les effets Teru Teru Bōzu et Téléphone proche d'elle à la Turquoise Cityscape",
+      "checkbox": {
+        "turquoise_city_lady_teru": "Teru Teru Bōzu",
+        "turquoise_city_lady_phone": "Téléphone"
+      }
+    },
+    "puzzle_scattered_sky_fld": {
+      "name": "Berceuse des montagnes jumelles",
+      "description": "Repose-toi de temps en temps !",
+      "condition": "Atteindre la fin du puzzle aux Scattered Sky Fields"
+    },
+    "penseur_crimson_chair": {
+      "name": "Le Penseur",
+      "description": "Que pourrait-il se passer dans sa tête ?",
+      "condition": "Trouver la créature humanoïde rose à la Crimson Chair Area"
+    },
+    "kiki_crossing_forest": {
+      "name": "Suprémiawcie",
+      "description": "Un ami rigolo !",
+      "condition": "Voir Kiki dans son état normal, dans son état polygonal et dans son état de croisement à la Crossing Forest",
+      "checkbox": {
+        "kiki_crossing_forest_nrm": "dans son état normal",
+        "kiki_crossing_forest_plg": "dans son état polygonal",
+        "kiki_crossing_forest_crs": "dans son état de croisement"
+      }
+    },
+    "photo_overture_grs_bksh": {
+      "name": "Album photo en nuances de gris",
+      "description": "D'une bibliothèque vintage grise",
+      "condition": "Atteindre l'Ouverture Photographique aux Grayscale Bookshelves"
+    },
+    "banana_cerulean_school": {
+      "name": "Potassium",
+      "description": "Quand ils disaient que le sol était glissant, je comprends pourquoi maintenant...",
+      "condition": "Glisser sur la peau de banane à la Cerulean School"
+    },
+    "flower_queen": {
+      "name": "Plein été",
+      "description": "Danse et tourne jusqu'à devenir la reine des fleurs.",
+      "condition": "Visiter Flower Scent World, Field of Cosmos, Rapeseed Fields, Floral Crossroads et le champ de roses d'House Over the Rainbow",
+      "checkbox": {
+        "flower_scent_world": "Flower Scent World",
+        "field_of_cosmos": "Field of Cosmos",
+        "rapeseed_fields": "Rapeseed Fields",
+        "floral_crossroads": "Floral Crossroads",
+        "rainbhouse_flower_field": "champ de roses d'House Over the Rainbow"
+      }
+    },
+    "bittersweet_love": {
+      "name": "Pigment de lune onirique",
+      "description": "Aie une bonne nuit de sommeil !",
+      "condition": "Atteindre la fin de Celestial Night"
+    },
+    "researcher_lover": {
+      "name": "Architecte de la vallée",
+      "description": "À la recherche des bonnes mesures...",
+      "condition": "Interagir avec la chercheuse au Space Construction Site"
     }
   },
   "unconscious": {
@@ -5248,6 +5339,10 @@
       "name": "Incandescence industrielle",
       "description": "Mets le cap pour le cœur du Soleil.",
       "condition": "Visiter le Sun Reactor"
+    },
+    "lush_hilltop": {
+      "name": "Lush Hilltop",
+      "condition": "Visiter le Lush Hilltop"
     }
   },
   "flow": {
@@ -5457,6 +5552,11 @@
       "name": "Shinsoku Neko : Édition Master Quest",
       "description": "Tu deviens fort à ce jeu !",
       "condition": "Marquer 1000 points à Shinsoku Neko en frappant un hippocampe sans se faire toucher"
+    },
+    "cat_rainbow_maze": {
+      "name": "Chat rouille",
+      "description": "Oh, un adorable chaton aux couleurs de la neige !",
+      "condition": "Obtenir l'effet Chat. Si vous l'avez déjà obtenu, retournez là où l'effet peut être trouvé au Rainbow Maze."
     }
   },
   "prayers": {
@@ -5749,6 +5849,11 @@
       "name": "Bip boup-boup bouup, boup-boup biip !",
       "description": "Bip-boup-boup, boup-boup-bouup ? Bip-boup-boup-boup ? Boup-boup-bip-boup ? Pas « bip-boup-boup-biip » ? Boup ? Biip ? Boup-bouup-boup ! ",
       "condition": "Obtenir l'alter Métallique. Si vous l'avez déjà obtenu, retournez à l'Abandoned Lab."
+    },
+    "serene_flowers": {
+      "name": "Véranda lotus",
+      "description": "Le son calme de l'eau, avec une apaisante odeur de fleur.",
+      "condition": "Se rendre sur le balcon de la Dark Town"
     }
   },
   "someday": {
@@ -6355,6 +6460,25 @@
     "serene_apartment_aqua": {
       "name": "Poisson serein",
       "condition": "Voir la vue de l'aquarium au Serene Apartment"
+    },
+    "versailles_abysses": {
+      "name": "Cœur des mers",
+      "description": "Puisse l'océan te garder.",
+      "condition": "Jeter un froid en utilisant la clé Radiateur à côté de la fontaine"
+    },
+    "calendar": {
+      "name": "Quatre saisons",
+      "condition": "Voir le Nexus en été, en automne, en hiver et au printemps",
+      "checkbox": {
+        "nexus_season_1": "en été",
+        "nexus_season_2": "en automne",
+        "nexus_season_3": "en hiver",
+        "nexus_season_4": "au printemps"
+      }
+    },
+    "residential_prison": {
+      "name": "Exil loin de tout",
+      "condition": "Se faire attraper par le personnel de la sécurité du Residential Corridor World"
     }
   },
   "muma": {
@@ -6679,6 +6803,11 @@
       "name": "Le carton rouge",
       "description": "Gamine, notre contrat est fini. Je ne te donnerai rien d'autre. CASSE-TOI !",
       "condition": "Interagir avec le Bébé Onirique à l'Unreal Nexus"
+    },
+    "creature_lab_b": {
+      "name": "Le secret du laboratoire",
+      "description": "J'espère qu'il ne va pas sortir de son tube...",
+      "condition": "Voir la créature dans un tube au Laboratory B"
     }
   },
   "mikan": {
@@ -6816,6 +6945,11 @@
       "name": "Mal-être",
       "description": "Un sentiment de mal-être.",
       "condition": "Déclencher l'événement de (Feindre) l'Ignorance en Prison"
+    },
+    "cat_black_stone_world": {
+      "name": "Miaw, prrr !",
+      "description": "Prrr... on dirait que c'est un gentil chachat, hein ?",
+      "condition": "Interagir avec le chat en utilisant l'effet Chat noir au Black Stone World"
     }
   },
   "ultraviolet": {
@@ -6974,6 +7108,10 @@
       "name": "Église Émeraude",
       "description": "Un lieu clé des événements",
       "condition": "Visiter l'Emerald Square"
+    },
+    "sibunnies_glass_pipe": {
+      "name": "Jumeaux Lapin",
+      "condition": "Rencontrer les Jumeaux Lapin au Glass Pipe World"
     }
   },
   "sheawaits": {
