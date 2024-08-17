@@ -35,28 +35,28 @@
       "condition": "Đạt hạng Kim cương trong Thám hiểm"
     },
     "vm": {
-      "name": "Thám tử máy bán nước",
-      "condition": "Hoàn thành 5 kì Thám hiểm Máy bán nước"
+      "name": "Thám tử máy bán hàng",
+      "condition": "Hoàn thành 5 kì Thám hiểm Máy bán hàng"
     },
     "vm_bronze": {
-      "name": "Thám tử máy bán nước Đồng",
-      "condition": "Hoàn thành 10 kì Thám hiểm Máy bán nước"
+      "name": "Thám tử máy bán hàng Đồng",
+      "condition": "Hoàn thành 10 kì Thám hiểm Máy bán hàng"
     },
     "vm_silver": {
-      "name": "Thám tử máy bán nước Bạc",
-      "condition": "Hoàn thành 25 kì Thám hiểm Máy bán nước"
+      "name": "Thám tử máy bán hàng Bạc",
+      "condition": "Hoàn thành 25 kì Thám hiểm Máy bán hàng"
     },
     "vm_gold": {
-      "name": "Thám tử máy bán nước Vàng",
-      "condition": "Hoàn thành 50 kì Thám hiểm Máy bán nước"
+      "name": "Thám tử máy bán hàng Vàng",
+      "condition": "Hoàn thành 50 kì Thám hiểm Máy bán hàng"
     },
     "vm_platinum": {
-      "name": "Thám tử máy bán nước Bạch kim",
-      "condition": "Hoàn thành 100 kì Thám hiểm Máy bán nước"
+      "name": "Thám tử máy bán hàng Bạch kim",
+      "condition": "Hoàn thành 100 kì Thám hiểm Máy bán hàng"
     },
     "vm_diamond": {
-      "name": "Thám tử máy bán nước Kim cương",
-      "condition": "Hoàn thành 200 kì Thám hiểm Máy bán nước"
+      "name": "Thám tử máy bán hàng Kim cương",
+      "condition": "Hoàn thành 200 kì Thám hiểm Máy bán hàng"
     },
     "exp_amulet": {
       "name": "Bùa Hộ mệnh Thám hiểm",
@@ -228,11 +228,11 @@
       "condition": "Tương tác với FC Demon trong FC World B"
     },
     "eye_box": {
-      "name": "Box of Eyes",
+      "name": "Hộp đầy mắt",
       "condition": "Đâm Eye Box đến khi bạn được chuyển đến khu vực đó"
     },
     "monoko": {
-      "name": "Monoko of the White Desert",
+      "name": "Monoko từ White Desert",
       "condition": "Tương tác với Monoko trong khi dùng Đèn giao thông"
     },
     "a": {
@@ -245,7 +245,7 @@
     },
     "bottles": {
       "name": "Nước tăng lực",
-      "condition": "Mua nước từ 3 máy bán nước ở Dense Woods A, Hell, và Docks A",
+      "condition": "Mua nước từ 3 máy bán hàng ở Dense Woods A, Hell, và Docks A",
       "checkbox": {
         "jihanki_dense_woods": "Dense Woods A",
         "jihanki_hell": "Hell",
@@ -291,7 +291,7 @@
       "condition": "Mở cửa tủ chứa Madotsuki trong Checkered Tile Path"
     },
     "quivering_jaw": {
-      "name": "The One Grinding its Teeth",
+      "name": "Thứ nghiến răng",
       "description": "Ở đây lạnh thật hay chỉ có tôi thấy vậy?",
       "condition": "Tìm gặp The Thing with the Quivering Jaw"
     },
@@ -311,12 +311,12 @@
     },
     "witch_island_cat": {
       "name": "Beneath the Surface",
-      "condition": "Use the Cat effect next to the three women in blue on Witch's Island"
+      "condition": "Dùng hiệu ứng Mèo cạnh 3 người phụ nữ mặc đồ xanh dương trên Witch's Island"
     },
     "severed_heads_event": {
       "name": "Heads Off to You!",
       "description": "Sorry, you went in over my head!",
-      "condition": "Activate the Severed Heads event"
+      "condition": "Kích hoạt sự kiện Severed Heads"
     },
     "scared_masada": {
       "name": "Moonwalk",
@@ -325,7 +325,7 @@
     },
     "submarine_fish_yn": {
       "name": "Submerged",
-      "condition": "See the Submarine Fish emerged from the water"
+      "condition": "Bắt gặp Submarine Fish nổi lên mặt nước"
     },
     "manhole_sama_red": {
       "name": "Flushed",
@@ -333,25 +333,25 @@
     },
     "onsen_stab": {
       "name": "A Stab in the Dark",
-      "condition": "Stab Onsen-san"
+      "condition": "Đâm Onsen-san"
     },
     "fc_moai": {
-      "name": "Tomb of the Moai",
-      "description": "What a nice statue!",
+      "name": "Hầm mộ của Moai",
+      "description": "Tượng đẹp nhỉ!",
       "condition": "Vào phòng tượng đầu moai ở FC Dungeon"
     },
     "isee_path": {
       "name": "Isee Stare",
-      "condition": "Get to Mural World via the Isee Path"
+      "condition": "Đến Mural World qua Isee Path"
     },
     "mall_shoppers": {
       "name": "Shop 'til You Drop",
-      "condition": "Interact with all of the Mall Shopper creatures"
+      "condition": "Tương tác với tất cả Mall Shopper"
     },
     "white_desert_lagoon": {
       "name": "Monochrome Walls",
       "description": "No concentration, just a white disorder everywhere around me.",
-      "condition": "Travel deep into the dream world to reach the White Desert lagoon"
+      "condition": "Đi sâu vào thế giới giấc mơ để đến đầm lầy ở White Desert"
     },
     "hell_teleporters": {
       "name": "Compulsive Sinner",
@@ -371,7 +371,7 @@
     },
     "docks_yume": {
       "name": "Docks",
-      "condition": "Visit the two parts of the Docks"
+      "condition": "Đến thăm hai phần của Docks"
     },
     "ghostly_assembly": {
       "name": "Ghostly Assembly",
@@ -397,7 +397,7 @@
     },
     "white_tulip": {
       "name": "Rain and Flowers",
-      "condition": "Visit the white tulip passage between Sky Garden and Ghost World"
+      "condition": "Đến thăm lối đi tulip trắng kết nối giữa Sky Garden và Ghost World"
     },
     "barracks_settlement_pirori": {
       "name": "Du hành cùng Pirori",
@@ -428,7 +428,7 @@
     "mafurako_block_world": {
       "name": "Block Traveler",
       "description": "You've been here before.",
-      "condition": "Visit every place where Mafurako can teleport you in Block World"
+      "condition": "Đến tất cả các địa điểm Mafurako có thể dịch chuyển bạn trong Block World"
     },
     "desert_block_world": {
       "name": "From Block to Mono",
@@ -638,7 +638,7 @@
     },
     "digital_rose": {
       "name": "Hoa hồng điện tử",
-      "condition": "Nở tất cả các hoa hồng xám trong Neon Caves"
+      "condition": "Làm nở tất cả các hoa hồng xám trong Neon Caves"
     },
     "roku": {
       "name": "Dân tộc ảo giác",
@@ -677,7 +677,7 @@
       "condition": "Hoàn thành bức chân dung ở Lorn Tower"
     },
     "vending_machine": {
-      "name": "Máy bán nước",
+      "name": "Máy bán hàng",
       "condition": "Hoàn thành và đi đến Snack Gallery"
     },
     "piggy_bank": {
@@ -836,7 +836,7 @@
     "evil_jihanki": {
       "name": "Máy ăn quỵt",
       "description": "Tiền mất tật mang",
-      "condition": "Bị lấy mất tiền bởi máy bán nước ở Mushroom World"
+      "condition": "Bị lấy mất tiền bởi máy bán hàng ở Mushroom World"
     },
     "crown_of_spirits": {
       "name": "Ngai vương vong hồn",
@@ -1001,7 +1001,7 @@
     },
     "strange_being": {
       "name": "Sinh vật kì lạ",
-      "condition": "Dọa sinh vật kim loại ở Polluted Swamp với hiệu ứng Máy cưa"
+      "condition": "Dọa sinh vật kim loại ở Polluted Swamp với hiệu ứng Cưa máy"
     },
     "01": {
       "name": "01-kun",
@@ -1068,7 +1068,7 @@
     },
     "streetlight_scenery": {
       "name": "Đêm tối đèn",
-      "condition": "Đi đến cuối Submerged Communications Area"
+      "condition": "Đi đến điểm cuối của Submerged Communications Area"
     },
     "akako": {
       "name": "White Scarlet Akako",
@@ -1106,15 +1106,15 @@
     },
     "heart": {
       "name": "Tim khỏe mạnh",
-      "condition": "Đạt 100 điểm tim từ máy bán nước (được đạt khi thức dậy)"
+      "condition": "Đạt 100 điểm tim từ máy bán hàng (được đạt khi thức dậy)"
     },
     "heart_2": {
       "name": "Tim hy vọng",
-      "condition": "Đạt 500 điểm tim từ máy bán nước (được đạt khi thức dậy)"
+      "condition": "Đạt 500 điểm tim từ máy bán hàng (được đạt khi thức dậy)"
     },
     "heart_3": {
       "name": "Tim sinh mệnh",
-      "condition": "Đạt 999 điểm tim từ máy bán nước (được đạt khi thức dậy)"
+      "condition": "Đạt 999 điểm tim từ máy bán hàng (được đạt khi thức dậy)"
     },
     "square_ruins": {
       "name": "Hoài niệm di tích cổ",
@@ -1122,7 +1122,7 @@
     },
     "egg": {
       "name": "Hoài niệm ổ trứng nhiều màu",
-      "condition": "Thu thập nền menu 8-15 và 25 ở Hidden Shoal, Forest Pier, Planetarium, Industrial Maze, Rose Church, Bioluminescent Cavern, Depths, and Viridian Wetlands. Nếu đã thu thập, thăm lại chỗ bạn đã nhận được chúng.",
+      "condition": "Thu thập nền menu 8-15 và 25 ở Hidden Shoal, Forest Pier, Planetarium, Industrial Maze, Rose Church, Bioluminescent Cavern, Depths, và Viridian Wetlands. Nếu đã thu thập, thăm lại chỗ bạn đã nhận được chúng.",
       "checkbox": {
         "menu_theme_8": "Hidden Shoal",
         "menu_theme_9": "Forest Pier",
@@ -1187,11 +1187,11 @@
     "wavyup": {
       "name": "Facing Up 2 Death",
       "description": "She was filled with DETERMINATION",
-      "condition": "Complete the ↑V↑ minigame"
+      "condition": "Hoàn thành minigame ↑V↑"
     },
     "rune": {
       "name": "Mana-Infused Rune",
-      "description": "The arcane rune that connects the dream worlds",
+      "description": "Ký tự rune bí ẩn kết nối thế giới giấc mơ",
       "condition": "Đến thăm các địa điểm sau: Intestines Maze, Stone World, Urban Street Area, The Docks, Magnet Room (Zalgo's Room?), Mushroom World (White Mushroom Field), Crimson Labyrinth (Red Mountains), Color Cubes World, Octagonal Grid Hub (Broken Passage), Obentou World, Entropy Dungeon, Rainbow Towers",
       "checkbox": {
         "intestines_maze": "Intestines Maze",
@@ -1233,7 +1233,7 @@
     },
     "pink_bow": {
       "name": "Nơ hồng",
-      "description": "Cô bé lãng mạng",
+      "description": "Cô bé lãng mạn",
       "condition": "Thử mặc tất cả các trang phục ở Shop Ruins"
     },
     "pien": {
@@ -1290,7 +1290,7 @@
       }
     },
     "clock_pole": {
-      "name": "Đúng giờ giấc",
+      "name": "Đúng giờ",
       "description": "Thà sớm hơn là muộn!",
       "condition": "Tìm các cột đồng hồ ở Garden World (đêm), Blue Forest, Botanical Garden, Sculpture Park, Twilight Park, Monochrome School, Sunrise Road, Pure White Lands và Critter Village",
       "checkbox": {
@@ -1308,7 +1308,7 @@
     "coffee_cup": {
       "name": "Ly cà phê",
       "description": "Đậm đà hơn thường.",
-      "condition": "Mua từ máy bán nước ở Coffee Cup World khi dùng hiệu ứng"
+      "condition": "Mua từ máy bán hàng ở Coffee Cup World khi dùng hiệu ứng"
     },
     "lamplighter": {
       "name": "Dập tắt",
@@ -1331,7 +1331,7 @@
     },
     "green_prince": {
       "name": "I Reached You",
-      "condition": "Reach and interact with the Green Prince at the City Limits"
+      "condition": "Đến bên cạnh và tương tác với Green Prince trong City Limits"
     },
     "phone": {
       "name": "MVP",
@@ -1358,15 +1358,15 @@
     },
     "pink_flower": {
       "name": "Dancing Pink Flower",
-      "condition": "See the patch of pink flowers in the Rapeseed Fields"
+      "condition": "Tìm xem mảng hoa màu hồng trong Rapeseed Fields"
     },
     "banana": {
       "name": "Ô chuối kìa!",
       "condition": "Tìm quả chuối ẩn trong NES Glitch Tunnel"
     },
     "tv_channels": {
-      "name": "Telephilia",
-      "description": "Are you still watching?",
+      "name": "Mê TV",
+      "description": "Bạn còn đang xem không?",
       "condition": "Xem tất cả kênh trong TV room"
     },
     "toilet": {
@@ -1382,8 +1382,8 @@
       "condition": "Đến Gray Road từ Techno Condominium"
     },
     "blurry": {
-      "name": "Blurry",
-      "condition": "View the blurry peephole in Landolt Ring World using a certain effect"
+      "name": "Mờ",
+      "condition": "Nhìn vào lỗ nhòm trong Landolt Ring World bằng một hiệu ứng nhất định"
     },
     "guillotine": {
       "name": "Máy chém",
@@ -1391,7 +1391,7 @@
     },
     "wifi": {
       "name": "Wireless Fidelity",
-      "condition": "Escape the chasers in the Electromagnetic Terminal and enter the parking area"
+      "condition": "Chạy trốn khỏi các ký hiệu Wi-Fi ở Electromagnetic Terminal và vào khu đỗ xe"
     },
     "bat_flight": {
       "name": "Bat's Flight",
@@ -1424,7 +1424,7 @@
     },
     "principal": {
       "name": "No Biking in the Halls!",
-      "condition": "Get caught and chewed out by the principal in the School for using the Bike"
+      "condition": "Bị hiệu trưởng bắt lại và khiển trách ở School do sử dụng hiệu ứng Xe máy"
     },
     "car_crash": {
       "name": "Whiplash",
@@ -1434,7 +1434,7 @@
     "wedding_cake": {
       "name": "Triple-Decker Cake",
       "description": "Are you going to eat it all?",
-      "condition": "Get the wedding cake from a vending machine"
+      "condition": "Mua được bánh cưới từ máy bán hàng tự động"
     },
     "green_monster": {
       "name": "Green Monster",
@@ -1443,20 +1443,20 @@
     "nail_lady": {
       "name": "Loose Nail",
       "description": "Hammer the loose nail",
-      "condition": "Interact with the Nail Lady in the nail circle"
+      "condition": "Tương tác với Nail Lady trong vòng tròn đinh"
     },
     "cmyk": {
       "name": "Ink Cartridge Combo",
       "description": "Không đủ mực",
-      "condition": "Mua đồ từ 3 máy bán nước ở CMYK Tiles World"
+      "condition": "Mua đồ từ 3 máy bán hàng ở CMYK Tiles World"
     },
     "muertitos": {
       "name": "Muertitos",
-      "condition": "Honor the death in Dream Mexico"
+      "condition": "Tôn vinh người đã khuất ở Dream Mexico"
     },
     "crown_of_sorrow": {
       "name": "Vương miện sầu bi",
-      "condition": "Enter the room at the end of the Spirit Capital highway in {TIME} or less in Time Trial Mode"
+      "condition": "Đến căn phòng ở cuối Spirit Capital trong {TIME} hoặc nhanh hơn trong Thử thách Hẹn giờ"
     },
     "the_liar": {
       "name": "Dối trá",
@@ -1468,9 +1468,9 @@
       "description": "\"Tớ bị xước rồi.\"",
       "condition": "Tìm Surimuki trong các địa điểm của thế giới trong mơ (Broken Faces Area, cuốn sách trong Library, và trên nóc Monochrome School)",
       "checkbox": {
-        "surimuki_library": "a book in the Library",
+        "surimuki_library": "cuốn sách trong Library",
         "surimuki_broken_faces_area": "Broken Faces Area",
-        "surimuki_monochrome_school": "the Monochrome School's rooftop"
+        "surimuki_monochrome_school": "trên nóc Monochrome School"
       }
     },
     "helmet_girl": {
@@ -1478,19 +1478,19 @@
       "description": "Hẹn gặp bạn ở phía bên kia mặt trăng.",
       "condition": "Tìm Helmet Girl ở Square-Square World, chung cư cô ở, và ở Moonlit Purple Balcony.",
       "checkbox": {
-        "helmet_girl_moonlit_balcony": "in the Moonlit Purple Balcony",
-        "helmet_girl_apartment": "her apartment",
+        "helmet_girl_moonlit_balcony": "ở Moonlit Purple Balcony",
+        "helmet_girl_apartment": "chung cư cô ở",
         "helmet_girl_square2_world": "Square-Square World"
       }
     },
     "garden_of_dreams": {
       "name": "Khu vườn mộng mơ",
-      "description": "Giữa thế giới trong mơ này, tồn tại những khu vườn không bao giờ ngừng trải rộng.",
-      "condition": "Tương tác hoặc đến phòng cây cối ở Mountaintop Ruins, Blood Cell Sea (kể cả trong trạng thái Qliphothic), Graffiti Maze, Shinto Shrine, Azure Garden, Scenic Outlook, and Evergreen Woods",
+      "description": "Giữa thế giới trong mơ này, có những khu vườn không bao giờ ngừng trải rộng.",
+      "condition": "Tương tác hoặc đến phòng cây cối ở Mountaintop Ruins, Blood Cell Sea (bao gồm trạng thái Qliphothic), Graffiti Maze, Shinto Shrine, Azure Garden, Scenic Outlook, và Evergreen Woods",
       "checkbox": {
         "mountainview_ruins_tree": "Mountaintop Ruins",
         "tree_of_life_a": "Blood Cell Sea",
-        "tree_of_life_b": "Qliphothic state",
+        "tree_of_life_b": "trạng thái Qliphothic",
         "graffiti_maze_tree": "Graffiti Maze",
         "shinto_shrine_tree": "Shinto Shrine",
         "scenic_outlook_tree": "Scenic Outlook",
@@ -1501,21 +1501,21 @@
     "infinite_library_mirror": {
       "name": "Lạc lối",
       "description": "Witness your reflection in a mirror beyond the seemingly-infinite.",
-      "condition": "Face yourself in the mirror and reach Static Noise Hell through Infinite Library"
+      "condition": "Đối mặt với bản thân trong gương và đến Static Noise Hell từ Infinite Library"
     },
     "rainbow_tiles_glitch": {
       "name": "My Friends Need Me!",
       "description": "Get buggy in the Rainbow Tiles Maze",
-      "condition": "Get to the Reverse version of the Rainbow Tiles Maze"
+      "condition": "Đi đến phiên bản đảo ngược của Rainbow Tiles Maze"
     },
     "nightshade_corridor_creature": {
       "name": "\"Snibbit, Snibbit?\"",
-      "condition": "Discover the Scissor Monster in Nightshade Corridor"
+      "condition": "Tìm gặp Scissor Monster trong Nightshade Corridor"
     },
     "gutter_secret": {
       "name": "Yêu hay không yêu",
       "description": "Take my heart, pull it apart.",
-      "condition": "Witness ???-tsuki's agony hidden within the Gutter's confines"
+      "condition": "Chứng kiến niềm đau của ???-tsuki ẩn sâu trong The Gutter"
     },
     "deluxe_mask_shop_purchase": {
       "name": "Nơ lụa",
@@ -1548,7 +1548,7 @@
     },
     "shadow_cat": {
       "name": "Shadow Cat",
-      "condition": "Nhìn thấy con mèo ở Techno Condominium và Vending Machine Factory, ở những chỗ nó xuất hiện"
+      "condition": "Tìm gặp con mèo ở Techno Condominium và Vending Machine Factory, ở những chỗ nó xuất hiện"
     },
     "sculpture_park_monolith": {
       "name": "Goopy Monolith",
@@ -1616,12 +1616,12 @@
     },
     "the_watcher": {
       "name": "The Watcher",
-      "description": "It breathes.",
-      "condition": "Interact with the long neck creature in Flesh Paths World until something happens"
+      "description": "Nó biết thở.",
+      "condition": "Tương tác với sinh vật cố dài trong Flesh Paths World đến khi có gì đó xảy ra"
     },
     "heishi_kun": {
       "name": "Thương binh",
-      "condition": "Dùng hiệu ứng Chainsaw gần Heishi-kun và chứng kiến chuyện gì xảy ra"
+      "condition": "Dùng hiệu ứng Cưa máy gần Heishi-kun và chứng kiến chuyện gì xảy ra"
     },
     "luminous_lake_fish": {
       "name": "Hồ tỏa sáng",
@@ -1654,12 +1654,12 @@
     },
     "tree_muncher": {
       "name": "Tree Muncher",
-      "description": "*munch munch crunch crunch*",
+      "description": "*cạp cạp măm măm*",
       "condition": "Gặp sinh vật màu hồng gặm cây ở Container Forest"
     },
     "rainbow_fish": {
       "name": "Cá bảy màu",
-      "condition": "Nhìn cá ở Binary World sau khi dùng hiệu ứng Polygon và Rainbow"
+      "condition": "Ngắm cá ở Binary World sau khi dùng hiệu ứng Đa giác và Cầu vồng"
     },
     "maple_symphony": {
       "name": "Giai điệu lá phong",
@@ -1727,7 +1727,7 @@
     },
     "rainy_day_residence": {
       "name": "Chung cư dầm mưa",
-      "description": "Cô bé chợt thức dậy, và khi cô mở mắt, khuôn cảnh cô nhìn thấy không phải là chốn thành thị xa hoa cô đã mơ thấy, mà là một căn chung cư độc thân dưới bầu trời âm u",
+      "description": "Cô bé chợt thức dậy, và khi cô mở mắt, khuôn cảnh cô nhìn thấy không phải là chốn thành thị xa hoa cô đã mơ thấy, mà là một căn chung cư đơn độc dưới bầu trời âm u",
       "condition": "Vào Rainy Apartments"
     },
     "techno_karaoke": {
@@ -1830,7 +1830,7 @@
     },
     "decadent_sunfish": {
       "name": "Decadent Sunfish",
-      "condition": "Enter the path of the Sunfish in Rainbow Silhouette World"
+      "condition": "Đi vào lối đi của Sunfish trong Rainbow Silhouette World"
     },
     "blind_cosmo": {
       "name": "Vũ trụ chói lóa",
@@ -1840,7 +1840,7 @@
     "bent_screw": {
       "name": "Đinh bẻ cong",
       "description": "I wonder what memories it holds...",
-      "condition": "Interact with the Bent Screw"
+      "condition": "Tương tác với cây đinh bị bẻ cong"
     },
     "well_creature": {
       "name": "Sinh vật dưới giếng",
@@ -2004,7 +2004,7 @@
     "around_globe": {
       "name": "Vòng quanh trái đất",
       "description": "Một tia sáng giữa thế giới u ám...",
-      "condition": "Visit the Globe Room in Stony Buildings"
+      "condition": "Đến thăm phòng địa cầu ở Stony Buildings"
     },
     "musky_rave": {
       "name": "Musky Rave",
@@ -2021,7 +2021,7 @@
     },
     "other_dreamer": {
       "name": "Bạn cùng mơ",
-      "description": "Tôi đang mơ về bạn, hay bạn mơ về tôi?",
+      "description": "Ta đang mơ về người, hay người mơ về ta?",
       "condition": "Đến The Second Nexus"
     },
     "strawberry_broken_heart_cake": {
@@ -2036,7 +2036,7 @@
     },
     "migraine_pin": {
       "name": "Migraine Pin",
-      "description": "My head is throbbing...",
+      "description": "Nhức nhức cái đầu...",
       "condition": "Vào căn phòng với quái vật hồng đau đầu ở Ecstasy World"
     },
     "robot_friend": {
@@ -2055,7 +2055,7 @@
       "condition": "Tương tác với 3 thanh chocolate khác nhau trong Chocolate World"
     },
     "sad_jellyfish": {
-      "name": "Sứa sầu ủ",
+      "name": "Sứa sầu",
       "description": "Luôn ngoài tầm với",
       "condition": "Tìm gặp chú sứa buồn ở Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle, Moonlight Lantern Forest",
       "checkbox": {
@@ -2080,7 +2080,7 @@
     },
     "ice_stairs": {
       "name": "Cầu thang nước đá",
-      "description": "Kế tiếp tuyết là gì?",
+      "description": "Sau tuyết là gì?",
       "condition": "Đến Wooden Polycube Ruins từ Cotton Candy Haven bằng hiệu ứng Búp bê thời tiết"
     },
     "birdlike_statue_overgrown_city": {
@@ -2134,8 +2134,8 @@
     },
     "unstable_parking_zone": {
       "name": "Unstable Parking Zone",
-      "description": "If you see a glitchy mess in the middle of a parking lot... Touch it, and a glitchy corruption takes over your surroundings...",
-      "condition": "Interact with the glitched object in Parking Zone"
+      "description": "Nếu bạn thấy một mớ lỗi hỗn độn giữa một bãi đỗ xe... Chạm vào nó, và mớ lỗi đó bắt đầu làm khung cảnh quanh bạn tan rã...",
+      "condition": "Tương tác với vật lỗi trong Parking Zone"
     },
     "hatred_palace_painting": {
       "name": "Love ＆ Chocolate",
@@ -2145,7 +2145,7 @@
     "strawberry_fields_choco": {
       "name": "Sweetest Berry",
       "description": "Would you like a dessert?",
-      "condition": "Reach Strawberry Fields and interact with the chocolate fountain"
+      "condition": "Đến Strawberry Fields và tương tác với đài phun chocolate"
     },
     "depths_fall": {
       "name": "Nocturnal Abyssal Jellyfish",
@@ -2155,17 +2155,17 @@
     "depths_fall_trial": {
       "name": "Penumbral Abyssal Jellyfish",
       "description": "A friendly jellyfish that cuts through the darkness of the abyssal sea",
-      "condition": "Chìm vào khu vực sâu nhất của Depths trong {TIME} hoặc nhanh hơn trong chế độ Thử thách hẹn giờ"
+      "condition": "Chìm vào khu vực sâu nhất của Depths trong {TIME} hoặc nhanh hơn trong chế độ Thử thách Hẹn giờ"
     },
     "glass_church": {
-      "name": "Stained Glass Memories",
-      "description": "Where it all began.",
-      "condition": "Enter the main room of Rose Church"
+      "name": "Ký ức kính màu",
+      "description": "Nơi mọi thứ bắt đầu.",
+      "condition": "Vào khu vực chính của Rose Church"
     },
     "shadow_forest": {
       "name": "Shadow Forest",
-      "description": "Why did you come back?",
-      "condition": "Enter the Shadow Woman Forest"
+      "description": "Sao bạn lại quay lại?",
+      "condition": "Vào Shadow Woman Forest"
     },
     "spring_breeze": {
       "name": "Early Spring Breeze",
@@ -2178,7 +2178,7 @@
     },
     "2kki_bluescreen": {
       "name": ":(",
-      "description": "Your dream ran into a problem and needs to restart as soon as we're finished collecting some error info.",
+      "description": "Giấc mơ của bạn gặp vấn đề và cần khởi động lại sau khi chúng tôi hoàn thành thu thập thông tin về lỗi.",
       "condition": "Vào Blue Screen Void"
     },
     "2kki_afterglow": {
@@ -2202,14 +2202,14 @@
       "condition": "Dùng hiệu ứng Hai chùm trong Dressing Room để mặc trang phục hầu gái"
     },
     "capybara_opal": {
-      "name": "Healing",
-      "description": "Oh, to be a capybara just chilling...",
-      "condition": "Enter the room with the capybaras in the Opal Archives"
+      "name": "Chữa lành",
+      "description": "Ôi, được làm capybara để được thư giãn suốt ngày...",
+      "condition": "Vào phòng chứa đầy capybara trong Opal Archives"
     },
     "cheese_tactics": {
       "name": "Cheese Tactics",
       "description": "You thought there was gonna be some *cheesy* pun here, didn't you?",
-      "condition": "Use the Cake or Fairy effect to get caught by one of the Cheese Spiders in Dark Cheese Hell"
+      "condition": "Dùng hiệu ứng Bánh ngọt hoặc Tiểu tiên để bị Cheese Spider bắt trong Dark Cheese Hell"
     },
     "march_of_progress": {
       "name": "Face of the Progress",
@@ -2218,7 +2218,7 @@
     },
     "peaceful_pond": {
       "name": "Peaceful Pond",
-      "condition": "Enter the pond version of the blue building in Sprout World"
+      "condition": "Vào căn phòng có cái hồ từ căn nhà màu xanh trong Sprout World"
     },
     "clown_chaser": {
       "name": "Clowning Around",
@@ -2227,8 +2227,8 @@
     },
     "polycube_icy_garden": {
       "name": "Icy Garden",
-      "description": "Wanna skate here?",
-      "condition": "Enter the bottom garden of the Wooden Polycube Ruins"
+      "description": "Muốn trượt băng ở đây không?",
+      "condition": "Vào khu vực vườn ở cuối Wooden Polycube Ruins"
     },
     "ninja_town": {
       "name": "Fake Ninja",
@@ -2237,17 +2237,17 @@
     },
     "claus_tsuki": {
       "name": "Urotsuki Claus",
-      "description": "Merry Christmas!",
-      "condition": "Go to the Stickman House in the Christmas World"
+      "description": "Giáng sinh vui vẻ!",
+      "condition": "Đi đến Stickman House trong Christmas World"
     },
     "pancake_girl": {
       "name": "No Dessert!",
-      "condition": "Make the girl in Pancake World do a mean gaze"
+      "condition": "Làm cô gái ở Pancake World lườm"
     },
     "blood_monster": {
       "name": "Blood Monster",
       "description": "The scrunkly!",
-      "condition": "Visit the creature in Blood Chamber"
+      "condition": "Đến gặp sinh vật trong Blood Chamber"
     },
     "ether_cube": {
       "name": "Ether Cube",
@@ -2257,21 +2257,21 @@
     "snowy_village_dancers": {
       "name": "Dance No More!",
       "description": "This show mustn't go on!",
-      "condition": "Equip the Marginal effect and go see the dancers in Snowy Village"
+      "condition": "Dùng hiệu ứng Marginal và gặp các vũ công trong Snowy Village"
     },
     "cure_curse": {
       "name": "Curse Healer",
-      "condition": "Equip the Plaster Cast or Marginal effect and let Kankoshi heal you"
+      "condition": "Dùng hiệu ứng Bó bột hoặc Marginal và để Kankoshi chữa thương"
     },
     "delete_urotsuki": {
       "name": "Delete Myself",
       "description": "Welcome to my brain!",
-      "condition": "Face the consequences of your actions in the Head World"
+      "condition": "Đối mặt với hậu quả bạn gây ra trong Head World"
     },
     "hiboushi": {
       "name": "Lamppost Girl",
       "description": "Only one pole in the way",
-      "condition": "Interact with Hiboushi in Apartments"
+      "condition": "Tương tác với Hiboushi trong Apartments"
     },
     "ripple_passage": {
       "name": "Ripple Amulet",
@@ -2279,7 +2279,7 @@
       "condition": "Vào Ripple Passage ở Static Noise Hell"
     },
     "ghostly_exhibit": {
-      "name": "Photosynthesis",
+      "name": "Quang hợp",
       "condition": "Đến Ghostly Exhibit"
     },
     "witch_duo": {
@@ -2308,7 +2308,7 @@
     "angel_starfield_garden": {
       "name": "Golden Angel",
       "description": "The Angel's Descent",
-      "condition": "See the golden angel in the Starfield Garden"
+      "condition": "Tìm gặp thiên thần vàng trong Starfield Garden"
     },
     "carnivorous_pit_well": {
       "name": "Well this isn't good...",
@@ -2326,13 +2326,13 @@
     },
     "ug_lake_singer": {
       "name": "A Friendly Conversation",
-      "description": "He wants to have some company...",
-      "condition": "Talk to the green creature on both sides in the 1st person sub-area of Underground Lake"
+      "description": "Cậu ấy muốn có người đồng hành...",
+      "condition": "Tương tác với sinh vật màu xanh ở cả hai góc mặt trong khu vực góc nhìn thứ nhất của Underground Lake"
     },
     "appururi_bat": {
       "name": "Just Like Me!",
       "description": "We'll have the greatest of times!",
-      "condition": "Equip the Bat effect around Appururi in Fairy Tale Woods"
+      "condition": "Dùng hiệu ứng Dơi cạnh Appururi trong Fairy Tale Woods"
     },
     "lamplit_stones": {
       "name": "Peace and Tranquility",
@@ -2368,7 +2368,7 @@
     "hooked_fisherman": {
       "name": "Hooked",
       "description": "That bucket can't be comfortable...",
-      "condition": "Get caught by the fisherman at Dream Beach"
+      "condition": "Bị người đánh cá câu lên ở Dream Beach"
     },
     "home_within_nowhere": {
       "name": "Home Within Nowhere",
@@ -2413,12 +2413,12 @@
     "midoriko": {
       "name": "Checkerboard Residence",
       "description": "The certified residence of the clubhouse",
-      "condition": "See the close-up look of Midoriko"
+      "condition": "Nhìn cận mặt Midoriko"
     },
     "witch_embrace": {
       "name": "Witch's Embrace",
       "description": "You must be tired after walking so far... Come and rest in my arms",
-      "condition": "Shrunk and get captured by the giant Shadow Lady in Toy World"
+      "condition": "Thu nhỏ và bị bắt bởi Shadow Lady khổng lồ trong Toy World"
     },
     "eschaton": {
       "name": "Eschaton",
@@ -2466,7 +2466,7 @@
     },
     "blue_planet_gallery": {
       "name": "Glittering Planets",
-      "condition": "See the Blue Planet on the second floor of Astronomical Gallery"
+      "condition": "Ngắm Blue Planet ở tầng hai của Astronomical Gallery"
     },
     "insect_effect": {
       "name": "Insect Urotsuki",
@@ -2481,7 +2481,7 @@
     "nice_list_christmas": {
       "name": "Nice List",
       "description": "All is forgiven! Just don't do it again...",
-      "condition": "Be forgiven by the Shadow Lady in Snowman World after attacking her"
+      "condition": "Được Shadow Lady tha thứ trong Snowman World sau khi tấn công cô ấy"
     },
     "bishop_checkmate": {
       "name": "Chiếu tướng!",
@@ -2495,15 +2495,15 @@
     "jimbo_love": {
       "name": "Jimbo Loves You",
       "description": "We all love Jimbo, too.",
-      "condition": "Visit Jimbo in the Giant Desktop and view the fourth peephole in Holiday Hell",
+      "condition": "Gặp Jimbo trong Giant Desktop và nhìn vào lỗ nhòm thứ 4 trong Holiday Hell",
       "checkbox": {
-        "jimbo_desktop": "Visit Jimbo in the Giant Desktop",
-        "jimbo_holiday": "view the fourth peephole in Holiday Hell"
+        "jimbo_desktop": "Gặp Jimbo trong Giant Desktop",
+        "jimbo_holiday": "nhìn vào lỗ nhòm thứ 4 trong Holiday Hell"
       }
     },
     "lone_penguin": {
       "name": "Lone Penguin",
-      "condition": "Go to the isolated island in Paradise"
+      "condition": "Đến vùng đảo bị cô lập ở Paradise"
     },
     "eyeball_bartender": {
       "name": "Eyeball Bartender",
@@ -2512,7 +2512,7 @@
     "bee_pollinator": {
       "name": "Professional Pollinator",
       "description": "Some not-so-busy bees decided to tag along with you on your adventures! How lucky!",
-      "condition": "Visit Honeybee Residence, Honeybee Laboratory, Honeycomb World and Pink Honeycomb",
+      "condition": "Đến Honeybee Residence, Honeybee Laboratory, Honeycomb World và Pink Honeycomb",
       "checkbox": {
         "honeycomb_world": "Honeycomb World",
         "pink_honeycomb": "Pink Honeycomb",
@@ -2522,22 +2522,22 @@
     },
     "vertigo_parasomnia": {
       "name": "Parasomnia",
-      "description": "\"That's right Urotsuki, I am you, and you're me, and this is a chainsaw.\"",
-      "condition": "Trigger the Vertigo event in Urotsuki's Dream Room"
+      "description": "\"Đúng rồi đấy Urotsuki, tôi là cậu, và cậu là tôi, và đây là một cái cưa máy.\"",
+      "condition": "Xem sự kiện Vertigo trong Urotsuki's Dream Room"
     },
     "atlantis_city": {
-      "name": "The City Underwater",
-      "description": "Try not to drown...",
-      "condition": "Reach the City section of Atlantis"
+      "name": "Thành phố dưới nước",
+      "description": "Đừng bị đuối nước nhé...",
+      "condition": "Đến thành phố của Atlantis"
     },
     "angry_dice": {
       "name": "Aleam Ludere",
-      "description": "80% of dreamers leave before they win big.",
-      "condition": "Interact with Angry Dice in the Board Game Islands with the Dice effect"
+      "description": "80% người mơ ngủ rời đi trước khi họ thắng lớn.",
+      "condition": "Tương tác với Angry Dice trong Board Game Islands bằng hiệu ứng Xúc xắc"
     },
     "nexus_collector": {
       "name": "Nexus Collector",
-      "condition": "Visit Dark Nexus, The Second Nexus, and Mini-Nexus",
+      "condition": "Đến Dark Nexus, The Second Nexus, và Mini-Nexus",
       "checkbox": {
         "the_second_nexus": "The Second Nexus",
         "dark_nexus": "Dark Nexus",
@@ -2547,16 +2547,16 @@
     "spacesthetic": {
       "name": "Aesthetics in Space",
       "description": "\"~Do you understand? It's all in your hands~\"",
-      "condition": "View the Vaporwave Event in Virtual City while using the Spacesuit effect"
+      "condition": "Xem sự kiện Vaporwave trong Virtual City khi đang dùng hiệu ứng Phi hành gia"
     },
     "red_wilds_sandstorm": {
-      "name": "Sandstorm!",
+      "name": "Bão cát!",
       "description": "The storm rages on...",
-      "condition": "Encounter a sandstorm in Deep Red Wilds"
+      "condition": "Gặp phải bão cát trong Deep Red Wilds"
     },
     "zalgo_appearance": {
       "name": "Z̴̜̬̈́͐̒̄͑̃͛̄̊̕͝Ạ̶̭̮̰̯̱̠̠͖̜̲̯̈́̃͌͑̚͘ͅL̵̡̡̡͓͚̖̗̙̹̲̻̝͚̒͒͌G̷̝̜̦̱̠̝̮̲̺̝̽̓͜Ŏ̷͈́̔̚̕̕͝",
-      "condition": "Find Zalgo in the Magnet Room, Train Tracks, the Atelier, and Restored Character World",
+      "condition": "Tìm Zalgo trong Magnet Room, Train Tracks, Atelier, và Restored Character World",
       "checkbox": {
         "zalgo_magnet_room": "Magnet Room",
         "zalgo_train_tracks": "Train Tracks",
@@ -2575,7 +2575,7 @@
     },
     "port_city_maiko": {
       "name": "Respectful Collection",
-      "condition": "Use the Maiko effect in the Kokeshi Room of Port City"
+      "condition": "Dùng hiệu ứng Maiko trong Kokeshi Room ở Port City"
     },
     "staring_contest": {
       "name": "Staring Contest",
@@ -2591,34 +2591,34 @@
       }
     },
     "party_colored": {
-      "name": "Party-colored",
-      "condition": "Interact with the music playing creature in the Party Room of the Neon Suburbs"
+      "name": "Màu của tiệc tùng",
+      "condition": "Tương tác với sinh vật phát nhạc trong Party Room của Neon Suburbs"
     },
     "pale_luminescence": {
       "name": "Pale Luminescence",
       "description": "A serene stony area that lies a hanging, illuminating chandelier with vibrant stained windows.",
-      "condition": "Visit the Marble Room in the Marble Ruins"
+      "condition": "Đến Marble Room trong Marble Ruins"
     },
     "twilit_savanna": {
       "name": "Gift of Twilight",
       "description": "Stars begin to peek through the trees' canopies as twilight falls on the savanna.",
-      "condition": "Reach the Sunset Savanna sub-area in Gemstone Cave"
+      "condition": "Đến khu vực Sunset Savanna của Gemstone Cave"
     },
     "restrained_love": {
       "name": "Restrained Love",
-      "condition": "Visit the downstairs part of Lonely Home"
+      "condition": "Đến khu vực dưới tầng của Lonely Home"
     },
     "alice_dreamland": {
       "name": "Alice in Dreamland",
-      "condition": "Equip the Red Riding Hood effect in the room with the candle girl in Snowy Village"
+      "condition": "Dùng hiệu ứng Khăn đỏ trong phòng của cô gái nến trong Snowy Village"
     },
     "azure_flowers": {
       "name": "Azure Flowers",
-      "description": "As the blue flowers arose from the wind, the orange flowers stand still. The deepest of your dreams laying on your mind, are floating over the sunset of the hill.",
-      "condition": "Use the Insect effect next to the flowers located in Snowy Forest, Cotton Candy Haven (at Kigaru's house), Nocturnal Grove, Cloaked Pillar World, Lavender Waters",
+      "description": "Khi những bông hoa màu lam hiện lên trong gió, những bông hoa màu cam đứng lặng. The deepest of your dreams laying on your mind, are floating over the sunset of the hill.",
+      "condition": "Dùng hiệu ứng Côn trùng cạnh những bông hoa trong Snowy Forest, Cotton Candy Haven (ở nhà của Kigaru), Nocturnal Grove, Cloaked Pillar World, Lavender Waters",
       "checkbox": {
         "flowers_snow_forest": "Snowy Forest",
-        "flowers_cotton": "Cotton Candy Haven (at Kigaru's house)",
+        "flowers_cotton": "Cotton Candy Haven (ở nhà của Kigaru)",
         "flowers_grove": "Nocturnal Grove",
         "flowers_cloaked": "Cloaked Pillar World",
         "flowers_lavender": "Lavender Waters"
@@ -2626,7 +2626,7 @@
     },
     "flower_vision": {
       "name": "Flower Vision",
-      "condition": "Use the Insect effect next to the flowers located in Flooded Dungeon (Floral Vortex), Travel Hotel, Lost Creek, Snowy Forest (Fairy Hole), Wooden Polycube Ruins",
+      "condition": "Dùng hiệu ứng Côn trùng cạnh những bông hoa trong Flooded Dungeon (Floral Vortex), Travel Hotel, Lost Creek, Snowy Forest (Fairy Hole), Wooden Polycube Ruins",
       "checkbox": {
         "flowers_vortex": "Flooded Dungeon (Floral Vortex)",
         "flowers_hotel": "Travel Hotel",
@@ -2643,7 +2643,7 @@
     "eternal_dreamer": {
       "name": "Is it time to wake up, or to go into a deeper dream?",
       "description": "When I wake up, I already can't tell if I'm in a dream or not",
-      "condition": "Visit the following worlds and trigger their sleep-related events: Static Noise Hell, Snowy Forest, Lavender Waters, Aquatic Cube City, Home Within Nowhere, Rainy Apartments, Infinite Library",
+      "condition": "Đến những thế giới sau và xem những sự kiện liên quan tới việc ngủ: Static Noise Hell, Snowy Forest, Lavender Waters, Aquatic Cube City, Home Within Nowhere, Rainy Apartments, Infinite Library",
       "checkbox": {
         "dreamer_noise_hell": "Static Noise Hell",
         "dreamer_snow_forest": "Snowy Forest",
@@ -2657,47 +2657,47 @@
     "urotsuki_rainbow_bridge": {
       "name": "Rainbow Bridge",
       "description": "Colorful Powers.",
-      "condition": "Use the Teru Teru Bōzu and Rainbow effects to make a rainbow bridge appear in the Tribe Settlement"
+      "condition": "Dùng hiệu ứng Búp bê thời tiết và Cầu vồng và tạo ra một cây cầu cầu vồng ở Tribe Settlement"
     },
     "marble_penumbra": {
       "name": "Penumbra",
       "description": "The world shall move on without you.",
-      "condition": "View the Sun and Moon clock in the Marble Ruins"
+      "condition": "Tìm đồng hồ nhật nguyệt trong Marble Ruins"
     },
     "unicorn_marble": {
       "name": "Empty Eyes",
       "description": "What is the matter with your eyes? Why can I not see myself, in your eyes?",
-      "condition": "Interact with the Unicorn creature in the Marble Ruins"
+      "condition": "Tương tác với sinh vật kỳ lân trong Marble Ruins"
     },
     "yume_telephone": {
       "name": "Yume",
       "description": "\"...\"",
-      "condition": "Use the Telephone effect near Yume"
+      "condition": "Dùng hiệu ứng Điện thoại gần Yume"
     },
     "golden_sky_whale": {
       "name": "Golden Sky's Whale",
       "description": "In the sea of gold clouds, the whale breaches for all to behold.",
-      "condition": "See the whale at Golden Sky Bridge"
+      "condition": "Ngắm chú cá voi ở Golden Sky Bridge"
     },
     "glowing_stars_world": {
       "name": "Glowing Star Friend",
       "description": "They’re just enjoying themselves!",
-      "condition": "Visit the Glowing Stars World"
+      "condition": "Đến Glowing Stars World"
     },
     "valentine_gaming": {
       "name": "My Sweet Heart",
-      "description": "Let's play!!!",
-      "condition": "Play games with the girl from the Valentine's Sector"
+      "description": "Cùng chơi nào!!!",
+      "condition": "Chơi cùng cô gái ở khu vực Valentine"
     },
     "mono_schoolgirl_trap": {
-      "name": "Field of Screams",
+      "name": "Cánh đồng của tiếng thét",
       "description": "あああ",
-      "condition": "Chainsaw the Monochrome Schoolgirl in the Monochrome Fields and get sent to an isolated area"
+      "condition": "Cưa Monochrome Schoolgirl trong Monochrome Fields và bị đẩy vào khu vực cô lập"
     },
     "blizzard_fish_trap": {
       "name": "Don't Step on the Ice",
       "description": "Rules apply to penguins too, y'know.",
-      "condition": "Trigger the fish event in Blizzard Plains"
+      "condition": "Xem sự kiện cá ở Blizzard Plains"
     },
     "appururi_mask": {
       "name": "The Big Apple and The Little Fruit Bat",
@@ -2705,7 +2705,7 @@
     },
     "celestial_moth": {
       "name": "Celestial Moth",
-      "condition": "Visit Entomophobia Realm, Butterfly Passage, Nocturnal Grove, and Cosmic Cube World",
+      "condition": "Đến Entomophobia Realm, Butterfly Passage, Nocturnal Grove, và Cosmic Cube World",
       "checkbox": {
         "moth_realm": "Entomophobia Realm",
         "moth_passage": "Butterfly Passage",
@@ -2716,31 +2716,31 @@
     "green_pattern_world": {
       "name": "Patterns of Green",
       "description": "Pyramids too...",
-      "condition": "Enter Green Pattern World"
+      "condition": "Đến Green Pattern World"
     },
     "azure_steam_creature": {
       "name": "Azure Steam Creature",
       "description": "A creature tucked away in a small, steam-filled room...",
-      "condition": "Find the Steaming Bathtub Creature in Azure Garden"
+      "condition": "Tìm Steaming Bathtub Creature trong Azure Garden"
     },
     "vaporwave_mall": {
       "name": "T h e   M a l l",
       "description": "≋ W e l c o m e ! Give our Floral Shoppe a visit, get a Haircut for Men - or women -, catch a Hypermarket Encounter, visit the arcade for a taste of Digital Life, or enjoy a Deep Swim in our pools. E n j o y this Hazy Trip, d r e a m e r . ≋",
-      "condition": "Visit the Vaporwave Mall"
+      "condition": "Đến thăm Vaporwave Mall"
     },
     "pyramid_dance": {
       "name": "Dance Party",
       "description": "You shouldn't be up here!",
-      "condition": "Jump onto the dancer's stage in Underwater Amusement Park"
+      "condition": "Nhảy lên sân khấu của vũ công ở Underwater Amusement Park"
     },
     "tapir_san_tapir": {
       "name": "Dream Eater",
       "description": "Pay a visit to Tapir-San",
-      "condition": "See Tapir-San in Tapir-San's Place"
+      "condition": "Gặp Tapir-San trong Tapir-San's Place"
     },
     "fossil_lake_creature": {
       "name": "Reflecting in Water Passively",
-      "condition": "Enter the room in the Fossil Lake with the creature"
+      "condition": "Vào phòng có sinh vật ở Fossil Lake"
     },
     "mask_collection": {
       "name": "Expert of Disguise",
@@ -2750,17 +2750,17 @@
     "retro_cartridge_game": {
       "name": "Like it's 1977!",
       "description": "> Downloading ROM directly into your brain . . .",
-      "condition": "Visit Retro Cartridge Game"
+      "condition": "Đến Retro Cartridge Game"
     },
     "haniwa_rave": {
       "name": "Haniwow!",
       "description": "Dance with your terracotta friends!",
-      "condition": "Witness the Haniwa Rave event in Underground Burial Site"
+      "condition": "Xem sự kiện Haniwa Rave trong Underground Burial Site"
     },
     "virtual_techno_cube": {
       "name": "Techno Cube",
       "description": "* a greater disorder *",
-      "condition": "Interact with the cube head creature in Virtual City"
+      "condition": "Tương tác với sinh vật đầu khối vuông trong Virtual City"
     },
     "virtual_techno_bar": {
       "name": "Sisters of the Techno Bar",
@@ -2769,7 +2769,7 @@
     },
     "pollywog_pal": {
       "name": "Pollywog Pal",
-      "condition": "Interact with the Frog in Wooded Lakeside B"
+      "condition": "Tương tác với chú ếch trong Wooded Lakeside"
     },
     "lakeside_grovetop": {
       "name": "Dream Rooftop",
@@ -2779,17 +2779,17 @@
     "tinted_zoo": {
       "name": "Last Chance To See",
       "description": "Created in the likeness of his latest masterpiece.",
-      "condition": "Visit the Zoo in Rainbow Silhouette World"
+      "condition": "Đến sở thú trong Rainbow Silhouette World"
     },
     "streetlight_docks": {
       "name": "Dark Fishing",
       "description": "Missing Fisherman.",
-      "condition": "Visit Streetlight Docks"
+      "condition": "Đến Streetlight Docks"
     },
     "glowing_tree_path": {
       "name": "Nocte Path",
       "description": "An unforgettable view that seems similar to somewhere",
-      "condition": "Visit Glowing Tree Path"
+      "condition": "Đến Glowing Tree Path"
     },
     "nose_drinker_woods": {
       "name": "Nose Drinker",
@@ -2799,17 +2799,17 @@
     "bar_aqua_cave": {
       "name": "Aqua Barkeep",
       "description": "\"What'll it be?\"",
-      "condition": "Enter the Bar in Aquamarine Cave"
+      "condition": "Vào quán bar trong Aquamarine Cave"
     },
     "cyclops_dreamers": {
       "name": "Sleepyheads",
-      "description": "...Wait, do dreams have dreams?",
-      "condition": "See the two sleeping creatures in the Ghostly Inn"
+      "description": "...Khoan, giấc mơ có mơ không?",
+      "condition": "Tìm gặp hai sinh vật đang ngủ ở Ghostly Inn"
     },
     "deserted_center": {
       "name": "Expired Bottle",
       "description": "Left to rot in a decaying structure.",
-      "condition": "Visit the Deserted Center"
+      "condition": "Đến Deserted Center"
     },
     "dripping_ceiling": {
       "name": "Drip Drip... Drip Drip Plop",
