@@ -703,7 +703,7 @@
     "pacifist": {
       "name": "Thương người",
       "description": "Không ai phải chết",
-      "condition": "Xem Ending ? mà không giết bất cứ ai"
+      "condition": "Xem Ending ? mà không gây hại bất cứ ai"
     },
     "ticket": {
       "name": "Vé tàu",
@@ -1313,7 +1313,7 @@
     "lamplighter": {
       "name": "Dập tắt",
       "description": "Thế giới chìm trong bóng tối...",
-      "condition": "Lãnh hậu quả sau khi giết người giữ lửa"
+      "condition": "Lãnh hậu quả sau khi sát hại người giữ lửa"
     },
     "provost": {
       "name": "Nghỉ giải lao",
@@ -1349,11 +1349,11 @@
       }
     },
     "butterfly_passage": {
-      "name": "Tricolored Butterfly",
+      "name": "Bướm ba màu",
       "condition": "Đến Butterfly Passage"
     },
     "forest_interlude": {
-      "name": "Lone Calla Lily",
+      "name": "Một nụ hoa rum",
       "condition": "Đến Forest Interlude"
     },
     "pink_flower": {
@@ -1370,7 +1370,7 @@
       "condition": "Xem tất cả kênh trong TV room"
     },
     "toilet": {
-      "name": "Bathroom Break",
+      "name": "Đi vệ sinh",
       "condition": "Vào phòng vệ sinh ở Eyeball Cherry Fields"
     },
     "toxic_sea": {
@@ -2094,12 +2094,12 @@
     "2kki_chainsaw500": {
       "name": "Nightmare on Simple Street",
       "description": "She'll cut you in two!",
-      "condition": "Giết ít nhất 500 sinh vật"
+      "condition": "Sát hại ít nhất 500 sinh vật"
     },
     "2kki_chainsaw1000": {
       "name": "Japan Chainsaw Massacre",
       "description": "Dreamscape's most wanted!",
-      "condition": "Giết ít nhất 1000 sinh vật"
+      "condition": "Sát hại ít nhất 1000 sinh vật"
     },
     "cinder_heaven": {
       "name": "Cinder Statue Heaven",
@@ -2444,7 +2444,7 @@
       "condition": "Vào Coral Shoal"
     },
     "twin_mountains": {
-      "name": "Dream of the Twin Mountains",
+      "name": "Giấc mơ núi song sinh",
       "description": "You've come so far from where you started.",
       "condition": "Đến thăm những khu vực sau có phong cảnh từ xa của Twin Mountains: Foliage Estate (Overlook), Flying Fish World (Dream Scene), Mirror Room (Beach), Bleak Future, Saturated Eyeball Zone, Rainy Apartments, Red Sky Cliff (Splash Streetway), Wind Turbine Plateau, Bathhouse",
       "checkbox": {
@@ -2486,7 +2486,7 @@
     "bishop_checkmate": {
       "name": "Chiếu tướng!",
       "description": "Dethrone the monarch.",
-      "condition": "Giết vị vua ở Bishop Cathedral"
+      "condition": "Sát hại vị vua ở Bishop Cathedral"
     },
     "grave_chesspiece": {
       "name": "Rest in Chesspieces",
@@ -2601,8 +2601,8 @@
     },
     "twilit_savanna": {
       "name": "Gift of Twilight",
-      "description": "Stars begin to peek through the trees' canopies as twilight falls on the savanna.",
-      "condition": "Đến khu vực Sunset Savanna của Gemstone Cave"
+      "description": "Stars begin to peek through the trees' canopies as twilight falls on the savannah.",
+      "condition": "Đến khu vực Sunset Savannah của Gemstone Cave"
     },
     "restrained_love": {
       "name": "Restrained Love",
@@ -2641,8 +2641,8 @@
       "condition": "Appreciate the seldom-visited Pudding World in all its glory and find all of its secrets"
     },
     "eternal_dreamer": {
-      "name": "Is it time to wake up, or to go into a deeper dream?",
-      "description": "When I wake up, I already can't tell if I'm in a dream or not",
+      "name": "Thức giấc trong mơ",
+      "description": "Ngay cả khi thức dậy, tôi không biết tôi còn đang mơ hay không",
       "condition": "Đến những thế giới sau và xem những sự kiện liên quan tới việc ngủ: Static Noise Hell, Snowy Forest, Lavender Waters, Aquatic Cube City, Home Within Nowhere, Rainy Apartments, Infinite Library",
       "checkbox": {
         "dreamer_noise_hell": "Static Noise Hell",
@@ -2701,10 +2701,10 @@
     },
     "appururi_mask": {
       "name": "The Big Apple and The Little Fruit Bat",
-      "condition": "Equip the Appururi mask in one of the Mask Shops"
+      "condition": "Đeo mặt nạ Appururi ở bất kỳ cửa hàng mặt nạ nào"
     },
     "celestial_moth": {
-      "name": "Celestial Moth",
+      "name": "Bướm đêm đầy sao",
       "condition": "Đến Entomophobia Realm, Butterfly Passage, Nocturnal Grove, và Cosmic Cube World",
       "checkbox": {
         "moth_realm": "Entomophobia Realm",
@@ -2714,14 +2714,14 @@
       }
     },
     "green_pattern_world": {
-      "name": "Patterns of Green",
-      "description": "Pyramids too...",
+      "name": "Hoa văn xanh",
+      "description": "Trên cả kim tự tháp nữa...",
       "condition": "Đến Green Pattern World"
     },
     "azure_steam_creature": {
-      "name": "Azure Steam Creature",
-      "description": "A creature tucked away in a small, steam-filled room...",
-      "condition": "Tìm Steaming Bathtub Creature trong Azure Garden"
+      "name": "Sinh vật xông hơi",
+      "description": "Một sinh vật trú ngụ trong một căn phòng nhỏ, hơi nước nghi ngút...",
+      "condition": "Tìm sinh vật trong bồn tắm trong Azure Garden"
     },
     "vaporwave_mall": {
       "name": "T h e   M a l l",
@@ -2743,9 +2743,9 @@
       "condition": "Vào phòng có sinh vật ở Fossil Lake"
     },
     "mask_collection": {
-      "name": "Expert of Disguise",
-      "description": "Who will you be today?",
-      "condition": "Unlock and view every non-effect mask in one of the Mask Shops (outside of Twintail Girl, Ahogeko, Shadow Mold, Angel Priest, Kīgāru, White Mouse, Black Mouse, Takoyaki Creature and Traffic Cone)"
+      "name": "Bậc thầy hóa trang",
+      "description": "Hôm nay bạn hóa thân thành ai?",
+      "condition": "Mở khóa và xem mọi mặt nạ không liên quan đến hiệu ứng ở bất kỳ cửa hàng mặt nạ nào (ngoại trừ Twintail Girl, Ahogeko, Shadow Mold, Angel Priest, Kīgāru, White Mouse, Black Mouse, Takoyaki Creature và Traffic Cone)"
     },
     "retro_cartridge_game": {
       "name": "Like it's 1977!",
@@ -2765,16 +2765,16 @@
     "virtual_techno_bar": {
       "name": "Sisters of the Techno Bar",
       "description": "They'll ensure you'll have a nice melodic experience at their place~",
-      "condition": "Visit the Bar subarea in Virtual City"
+      "condition": "Đến quầy bar ở Virtual City"
     },
     "pollywog_pal": {
       "name": "Pollywog Pal",
       "condition": "Tương tác với chú ếch trong Wooded Lakeside"
     },
     "lakeside_grovetop": {
-      "name": "Dream Rooftop",
-      "description": "Where am I now...",
-      "condition": "Enter the roof from Lakeside Grove"
+      "name": "Nóc nhà trong mơ",
+      "description": "Tôi lạc đâu mất rồi...",
+      "condition": "Đến nóc nhà từ Lakeside Grove"
     },
     "tinted_zoo": {
       "name": "Last Chance To See",
@@ -2787,17 +2787,17 @@
       "condition": "Đến Streetlight Docks"
     },
     "glowing_tree_path": {
-      "name": "Nocte Path",
-      "description": "An unforgettable view that seems similar to somewhere",
+      "name": "Lối dạo đêm",
+      "description": "Một quang cảnh khó quên, trông tựa như một chỗ nào đó",
       "condition": "Đến Glowing Tree Path"
     },
     "nose_drinker_woods": {
-      "name": "Nose Drinker",
+      "name": "Uống bằng mũi",
       "description": "You used to call me on my smell phone...",
-      "condition": "Visit the nose drinker in Wooded Lakeside A"
+      "condition": "Thăm sinh vật uống bằng mũi ở Wooded Lakeside A"
     },
     "bar_aqua_cave": {
-      "name": "Aqua Barkeep",
+      "name": "Chủ quán xanh dương",
       "description": "\"What'll it be?\"",
       "condition": "Vào quán bar trong Aquamarine Cave"
     },
@@ -2814,22 +2814,22 @@
     "dripping_ceiling": {
       "name": "Drip Drip... Drip Drip Plop",
       "description": "\"Where's that dripping coming from?\"",
-      "condition": "See the hanging creature in Marshmallow Shallows"
+      "condition": "Xem sinh vật lơ lửng ở Marshmallow Shallows"
     },
     "suspicious_sign": {
-      "name": "Suspicious Looking Sign",
+      "name": "Biển báo đáng nghi",
       "description": "\"These signs aren't stopping me!\"",
-      "condition": "Kick the unusual-looking construction sign in Overgrown Condominium"
+      "condition": "Đá một biển báo xây dựng đáng nghi ở Overgrown Condominium"
     },
     "depths_gorge": {
-      "name": "Depths Gorge",
+      "name": "Vực thẳm",
       "description": "Drown in the Depths. Or rise",
-      "condition": "See the entrance to Depths in Square Ruins"
+      "condition": "Đến lối vào Depths từ Square Ruins"
     },
     "evil_quatuor": {
       "name": "Evil Laughs from Innocent Girls",
       "description": "Some girls just wanna have fun",
-      "condition": "Kill each of Holiday Hell Girls"
+      "condition": "Sát hại các cô gái ở Holiday Hell"
     },
     "never_ending_roadway": {
       "name": "Never-ending Roadway",
@@ -2838,8 +2838,8 @@
     },
     "hudson_ceiling": {
       "name": "Hudson in the Ceiling",
-      "description": "...Shall we play tag?",
-      "condition": "End up trapped in the Crazed Faces Maze and wake up Hudson near the lava river"
+      "description": "...Chơi cá sấu lên bờ không?",
+      "condition": "Bị mắc kẹt ở Crazed Faces Maze và đánh thức Hudson ở gần dòng chảy dung nham"
     },
     "spacecraft_visine": {
       "name": "Starfields of Visine",
@@ -2854,15 +2854,15 @@
     "olhuda_dream_pool": {
       "name": "Olhuda",
       "description": "Are you going to move out of the way or are you going to stare at me?",
-      "condition": "Kill Aiko in the Dream Pool"
+      "condition": "Sát hại Aiko ở Dream Pool"
     },
     "oriental_lake": {
       "name": "Lakeside Monument",
-      "condition": "Enter Oriental Lake"
+      "condition": "Đến Oriental Lake"
     },
     "manekineko": {
       "name": "~Maneko~",
-      "condition": "Find the Maneki-neko in Basement of Oddities"
+      "condition": "Tìm Maneki-neko ở Basement of Oddities"
     },
     "his_house_creature": {
       "name": "Party's Over",
@@ -2880,8 +2880,8 @@
     },
     "marshmallow_shallows": {
       "name": "Sweet Dream",
-      "description": "MY EYES!!!",
-      "condition": "Visit Marshmallow Shallows"
+      "description": "TRỜI ƠI CHÓI QUÁ!!!",
+      "condition": "Đến Marshmallow Shallows"
     },
     "abandoned_swan": {
       "name": "Swans",
@@ -2890,12 +2890,12 @@
     "sculpture_rage": {
       "name": "Sculpture Rage",
       "description": "Don't make trouble for no reason",
-      "condition": "Use the Drum or Telephone effect to provoke the chaser sculptures and get caught"
+      "condition": "Dùng hiệu ứng Trống hoặc Điện thoại để khiêu khích các bức tượng quái vật và để bị bắt"
     },
     "uro_dye": {
       "name": "Dye It in My Hue",
       "description": "The coolest color.",
-      "condition": "Dye your car in Blue House Road in your color"
+      "condition": "Sơn chiếc xe ở Blue House Road theo màu bạn thích"
     },
     "shark_pianist": {
       "name": "Song of the Sea",
