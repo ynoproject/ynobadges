@@ -2752,7 +2752,7 @@
     },
     "pollywog_pal": {
       "name": "Crôamarde têtard",
-      "condition": "Interagir avec la Grenouille dans le Wooded Lakeside"
+      "condition": "Interagir avec la Grenouille dans le Wooded Lakeside B"
     },
     "lakeside_grovetop": {
       "name": "Toit onirique",
@@ -4121,7 +4121,7 @@
     "clementine_jester": {
       "name": "Changement de costume !",
       "description": "Des vêtements qui se complémentent !",
-      "condition": "Voir Clémentine dans son costume de bouffonne aux Checkered Towers"
+      "condition": "Voir Clémentine dans son costume de bouffonne à l'Illuminated Building"
     },
     "eye_fake_apartments": {
       "name": "Regard médusant",
@@ -4787,6 +4787,132 @@
       "name": "Architecte de la vallée",
       "description": "À la recherche des bonnes mesures...",
       "condition": "Interagir avec la chercheuse au Space Construction Site"
+    },
+    "arcade_vaporwave_mall": {
+      "name": "Refuge des gamers",
+      "description": "De l'ambiance aux jeux, tout est parfait dans ce lieu pour les joueurs et joueuses du monde onirique entier.",
+      "condition": "Entrer dans la salle d'arcade du Vaporwave Mall"
+    },
+    "bat_giant_desktop": {
+      "name": "Chauve-souris sur le toit d'une ville",
+      "description": "Une ville silencieuse...",
+      "condition": "Atteindre le toit isolé en utilisant l'effet Chauve-souris dans la section 3D du Giant Desktop"
+    },
+    "cara_megalith_grove": {
+      "name": "... Quoi ? Tu veux ma photo ?",
+      "description": "Tu peux pas aller embêter quelqu'un d'autre ?",
+      "condition": "Interagir avec Cara sous l'arrêt de bus au Megalith Grove"
+    },
+    "red_infinite_pools": {
+      "name": "La bête mouillée-trempée",
+      "description": "Uboa c'est plus ce que c'était...",
+      "condition": "Entrer dans la salle avec la créature rouge aux Infinite Pools"
+    },
+    "2kki_menu_73_74": {
+      "name": "Salles peu fréquentées",
+      "description": "Voyageant de lieu en lieu et voyant d'incroyables vision !",
+      "condition": "Obtenir les styles de menu 73 et 74 à Megalith Grove et English Thundershower. Pour tout ceux que vous avez déjà obtenu, retournez là où vous l'avez originellement trouvé.",
+      "checkbox": {
+        "2kki_menu_73": "Megalith Grove",
+        "2kki_menu_74": "English Thundershower"
+      }
+    },
+    "rainy_sundial": {
+      "name": "Cadran solaire moussu",
+      "description": "Que fais donc un vieux cadran solaire en pierre sous la pluie ?",
+      "condition": "Visiter le Rainy Sundial"
+    },
+    "cookie_haven": {
+      "name": "Havre cookie",
+      "description": "Ont-ils de tels cookies au Havre ?",
+      "condition": "Visiter le Cookie Haven"
+    },
+    "soldier_row": {
+      "name": "Halte !",
+      "description": "Laisse-moi voir tes cicatrices de guerre !",
+      "condition": "Visiter la Soldier Row"
+    },
+    "nichiyo_flying_fish": {
+      "name": "Yeux privés",
+      "description": "« Tu ne peux pas échapper à mon regard privé !! Mes yeux sont rivés sur toi~ »",
+      "condition": "Trouver Nichiyo-San au Flying Fish World"
+    },
+    "comet_infinite_library": {
+      "name": "Marées cosmiques",
+      "description": "Toujours là. Luttant contre les marées cosmiques, et comparé à ces vagues... tu es si petite.",
+      "condition": "Trouver la comète en utilisant le téléscope à l'Infinite Library"
+    },
+    "arcade_travel_hotel": {
+      "name": "Équation linéaire d'arcade",
+      "description": "Le résultat doit avoir été calculé précisément pour obtenir ce résultat",
+      "condition": "Visiter la salle d'arcade au Travel Hotel"
+    },
+    "challenge_chromalimbo": {
+      "name": "Purgatoire polychrome",
+      "description": "Oh, folie, si colorée, si vive...",
+      "condition": "Atteindre le téléporteur dans la section isolée du Chromatic Limbo et le tronçonner"
+    },
+    "eggs_blue_restaurant": {
+      "name": "Garde pas tes effets dans un seul panier !",
+      "description": "Comment les effets ont fait pour avoir des œufs ??",
+      "condition": "Tronçonner chaque Œuffet dans la salle 13 du Blue Restaurant"
+    },
+    "rune_dunes": {
+      "name": "Sables d'Ōthalan",
+      "description": "D'imposantes anciennes failles entre les rêves",
+      "condition": "Visiter les Rune Dunes"
+    },
+    "broken_city_complete": {
+      "name": "Restes d'une ville funèbre",
+      "description": "Ce n'est plus qu'un souvenir en désintégration...",
+      "condition": "Visiter toutes les zones de la Broken City"
+    },
+    "rainbow_clock": {
+      "name": "Horloge brillante",
+      "description": "Une horloge étincelante avec des aiguilles brillantes dans une mer de couleurs",
+      "condition": "Voir l'horloge géante dans le Rainbow Silhouette World"
+    },
+    "fishy_friends": {
+      "name": "Méduse d'Atlantis",
+      "description": "D'une sagesse inégalée et d'une bénédiction gracieuse, voici les méduses, symboles de ces deux éléments",
+      "condition": "Entrer dans l'Aquarium de l'Overgrown City"
+    },
+    "windswept_souls": {
+      "name": "Profondeurs des terres battues par le vent",
+      "description": "Submergé sous le sable et le vent.",
+      "condition": "Voir les terres désertées depuis l'une des tours"
+    },
+    "2kki_wolf_effect": {
+      "name": "Loup de mer",
+      "description": "Hurlant à la mer",
+      "condition": "Interagir avec le garçon loup Ookami sur la White Beach"
+    },
+    "the_assistant": {
+      "name": "Panneau de contrôle",
+      "description": "Ne touche pas aux boutons !",
+      "condition": "Rendre visible la coque extérieure du sous-marin"
+    },
+    "bodhisattva_glasses": {
+      "name": "Bodhicitta",
+      "description": "Tu as du style !",
+      "condition": "Interagir avec la Statue Buddha en utilisant l'effet Lunettes dans le Museum"
+    },
+    "turtle_pond": {
+      "name": "Monde Joystick",
+      "description": "Lac des contrôles rétro",
+      "condition": "Visiter le Handheld Game Pond"
+    },
+    "chaos_exhibition_complete": {
+      "name": "Artefacte animique chaotique",
+      "description": "Il bouille d'une énergie chaotique.",
+      "condition": "Débloquer les raccourcis à Underground Laboratory, Sugar Road, Ether Caverns, Rainbow Towers et Expanded Corridors menant à Chaos Exhibition. Si vous les avez déjà débloqués, retournez à Chaos Exhibition.",
+      "checkbox": {
+        "chaos_exhb_udg_lab": "Underground Laboratory",
+        "chaos_exhb_sugar_road": "Sugar Road",
+        "chaos_exhb_ether_cave": "Ether Caverns",
+        "chaos_exhb_rbw_twrs": "Rainbow Towers",
+        "chaos_exhb_exp_crdr": "Expanded Corridors"
+      }
     }
   },
   "unconscious": {
@@ -5338,11 +5464,16 @@
     "sun_reactor": {
       "name": "Incandescence industrielle",
       "description": "Mets le cap pour le cœur du Soleil.",
-      "condition": "Visiter le Sun Reactor"
+      "condition": "Trouver et interagir avec l'Esprit Météo au Sun Reactor"
     },
     "lush_hilltop": {
       "name": "Lush Hilltop",
       "condition": "Visiter le Lush Hilltop"
+    },
+    "rainbow_tears": {
+      "name": "Arc-en-ciel pleurant",
+      "description": "Les arc-en-ciels sont magnifiques, les arc-en-ciels même... pleurent ?",
+      "condition": "Atteindre Rainbow Tears"
     }
   },
   "flow": {
@@ -6478,7 +6609,13 @@
     },
     "residential_prison": {
       "name": "Exil loin de tout",
+      "description": "Aussi loin du monde soit-elle, elle est en sécurité désormais.",
       "condition": "Se faire attraper par le personnel de la sécurité du Residential Corridor World"
+    },
+    "chicken_revenge": {
+      "name": "Terminacoq",
+      "description": "Ce poulet est un peu barjot on dirait",
+      "condition": "Déclencher l'événement de la Revanche des Poulets avec la clé Fou"
     }
   },
   "muma": {
@@ -6632,6 +6769,11 @@
       "name": "Hue-glouglou !",
       "description": "C'est un labre oiseau ? C'est un poisson volant ? Non, c'est Poissi le poisson !",
       "condition": "Nourrir le poisson à l'Undersea Expanse"
+    },
+    "satiated_rabbit": {
+      "name": "Merci pour cette carotte !",
+      "description": "Ramène en plus la prochaine fois !",
+      "condition": "Nourrir le lapin dans l'Isle of Seasons"
     }
   },
   "genie": {
@@ -6950,6 +7092,20 @@
       "name": "Miaw, prrr !",
       "description": "Prrr... on dirait que c'est un gentil chachat, hein ?",
       "condition": "Interagir avec le chat en utilisant l'effet Chat noir au Black Stone World"
+    },
+    "deity_sprout_world": {
+      "name": "Bonne fortune ou mauvaise fortune ?",
+      "description": "Ce design ressemble à un cercle à neuf niveaux",
+      "condition": "Voir les événements du Bon Dieu et du Mauvais Dieu au Sandy Sprout World",
+      "checkbox": {
+        "good_deity_sprout": "Bon Dieu",
+        "bad_deity_sprout": "Mauvais Dieu"
+      }
+    },
+    "red_hand_labyrinth": {
+      "name": "Labyrinthe rouge",
+      "description": "Je suis perdu dans ce dédale...",
+      "condition": "Visiter le Red Hand Labyrinth"
     }
   },
   "ultraviolet": {
