@@ -2747,7 +2747,7 @@
     },
     "pollywog_pal": {
       "name": "올챙이 시절 단짝",
-      "condition": "Wooded Lakeside의 개구리와 상호작용하기"
+      "condition": "Wooded Lakeside B의 개구리와 상호작용하기"
     },
     "lakeside_grovetop": {
       "name": "꿈의 옥상",
@@ -4120,7 +4120,7 @@
     "clementine_jester": {
       "name": "Changing Costume!",
       "description": "Matching outfits!",
-      "condition": "See Clementine in her jester outfit at the Checkered Towers"
+      "condition": "See Clementine in her jester outfit at the Illuminated Building"
     },
     "eye_fake_apartments": {
       "name": "Goopy Gaze",
@@ -4786,6 +4786,132 @@
       "name": "Architect of the Valley",
       "description": "Searching for the right measurements...",
       "condition": "Space Construction Site에서 NPC와 상호작용하기"
+    },
+    "arcade_vaporwave_mall": {
+      "name": "Arcade Haven",
+      "description": "Keeping it real, retro style.",
+      "condition": "Enter the arcade in Vaporwave Mall"
+    },
+    "bat_giant_desktop": {
+      "name": "A Bat on the Roof",
+      "description": "A quiet city...",
+      "condition": "Reach the isolated rooftop using the Bat effect in the 3D section of Giant Desktop"
+    },
+    "cara_megalith_grove": {
+      "name": "... What?",
+      "description": "Can't you go bother someone else?",
+      "condition": "Interact with Cara under the bus stop in Megalith Grove"
+    },
+    "red_infinite_pools": {
+      "name": "The Sopping Wet Beast",
+      "description": "Uboa got fried to a crisp...",
+      "condition": "Enter the room with the red creature in Infinite Pools"
+    },
+    "2kki_menu_73_74": {
+      "name": "Lonely Rooms",
+      "description": "Traveling across places and seeing the sights!",
+      "condition": "Obtain menu types 73 and 74 in Megalith Grove and English Thundershower. If already obtained, revisit the areas where you found them.",
+      "checkbox": {
+        "2kki_menu_73": "Megalith Grove",
+        "2kki_menu_74": "English Thundershower"
+      }
+    },
+    "rainy_sundial": {
+      "name": "Mossy Sundial",
+      "description": "What's an old stone sundial in the rain?",
+      "condition": "Visit Rainy Sundial"
+    },
+    "cookie_haven": {
+      "name": "Cookie Paradise",
+      "description": "Is there a cookie in heaven?",
+      "condition": "Visit Cookie Haven"
+    },
+    "soldier_row": {
+      "name": "Halt!",
+      "description": "Let me see your war face!",
+      "condition": "Visit the Soldier Row"
+    },
+    "nichiyo_flying_fish": {
+      "name": "Private Eyes",
+      "description": "\"You can't escape my, Private Eyes!\nThey're watching you~\"",
+      "condition": "Find Nichiyo-San in Flying Fish World"
+    },
+    "comet_infinite_library": {
+      "name": "Cosmic Tides",
+      "description": "Still here. Struggling against the cosmic tides, compared to which you are so... small.",
+      "condition": "Find the comet by using the telescope in Infinite Library"
+    },
+    "arcade_travel_hotel": {
+      "name": "Linear Equation Arcade",
+      "description": "The result must have been carefully calculated to get this result",
+      "condition": "Visit the arcade in Travel Hotel"
+    },
+    "challenge_chromalimbo": {
+      "name": "Polychrome Purgatory",
+      "description": "Oh insanity, so colorful, so vibrant...",
+      "condition": "Reach the warp to the isolated section in Chromatic Limbo and chainsaw it"
+    },
+    "eggs_blue_restaurant": {
+      "name": "Don't Keep your Effects in one Basket!",
+      "description": "These eggs ain't all they cracked up to be.",
+      "condition": "Chainsaw every effect egg creature in the room 13 of Blue Restaurant"
+    },
+    "rune_dunes": {
+      "name": "Sands of Othala",
+      "description": "Mighty ancient rifts between the dreams",
+      "condition": "Visit Rune Dunes"
+    },
+    "broken_city_complete": {
+      "name": "Remnants of a Mournful City",
+      "description": "It's just a disintegrating memory...",
+      "condition": "Visit all of the areas of Broken City"
+    },
+    "rainbow_clock": {
+      "name": "Glittering Clock",
+      "description": "Sparkling clock with bright hands in a sea of colors",
+      "condition": "Rainbow Silhouette World에서 거대한 시계를 찾아내기"
+    },
+    "fishy_friends": {
+      "name": "Atlantis Jellyfish",
+      "description": "Of unparalleled wisdom and gracious blessing here are these jellyfish as a symbol of such",
+      "condition": "Overgrown City의 Aquarium 서브 에리어에 도달하기"
+    },
+    "windswept_souls": {
+      "name": "Windswept Depths",
+      "description": "Submerged under sand and wind.",
+      "condition": "건물 중 한 곳에 올라가 황량한 땅을 바라보기"
+    },
+    "2kki_wolf_effect": {
+      "name": "Beach Wolf",
+      "description": "Howling at the sea",
+      "condition": "Interact with the wolf boy Ookami at the White Beach"
+    },
+    "the_assistant": {
+      "name": "Control Panel",
+      "description": "Don't touch the buttons",
+      "condition": "잠수함의 겉면을 투명화하기"
+    },
+    "bodhisattva_glasses": {
+      "name": "Bodhicitta",
+      "description": "You have style!",
+      "condition": "Museum에서 안경 이펙트를 장착하고 불상과 상호작용하기"
+    },
+    "turtle_pond": {
+      "name": "Joystick World",
+      "description": "Lake of retro controls",
+      "condition": "Handheld Game Pond에 도달하기"
+    },
+    "chaos_exhibition_complete": {
+      "name": "Chaotic Soul Artifact",
+      "description": "It seethes with chaotic energy.",
+      "condition": "Unlock the shortcuts in Underground Laboratory, Sugar Road, Ether Caverns, Rainbow Towers, and Expanded Corridors leading to Chaos Exhibition. If you have already unlocked them, return to Chaos Exhibition.",
+      "checkbox": {
+        "chaos_exhb_udg_lab": "Underground Laboratory",
+        "chaos_exhb_sugar_road": "Sugar Road",
+        "chaos_exhb_ether_cave": "Ether Caverns",
+        "chaos_exhb_rbw_twrs": "Rainbow Towers",
+        "chaos_exhb_exp_crdr": "Expanded Corridors"
+      }
     }
   },
   "unconscious": {
@@ -5337,11 +5463,16 @@
     "sun_reactor": {
       "name": "Industrial Incandescence",
       "description": "Set the controls for the heart of the Sun.",
-      "condition": "Visit the Sun Reactor"
+      "condition": "Find and interact with the Weather Spirit in Sun Reactor"
     },
     "lush_hilltop": {
       "name": "Lush Hilltop",
       "condition": "Visit Lush Hilltop"
+    },
+    "rainbow_tears": {
+      "name": "Crying Rainbow",
+      "description": "Rainbows are beautiful, rainbows are... tears?",
+      "condition": "Reach Rainbow Tears"
     }
   },
   "flow": {
@@ -6477,7 +6608,13 @@
     },
     "residential_prison": {
       "name": "Faraway Exile",
+      "description": "Does it feel like a trial? Does it trouble your mind the way you trouble mine?",
       "condition": "Residential Corridor World에서 보안 요원에게 붙잡히기"
+    },
+    "chicken_revenge": {
+      "name": "Killer Chicken",
+      "description": "This chicken is not normal",
+      "condition": "Mad 열쇠를 사용하여 Chicken Revenge 이벤트를 감상하기"
     }
   },
   "muma": {
@@ -6631,6 +6768,11 @@
       "name": "Fish Ride",
       "description": "So that's what a sea horse is!",
       "condition": "Feed the fish in Undersea Expanse"
+    },
+    "satiated_rabbit": {
+      "name": "Thanks for the Carrot!",
+      "description": "Next time bring more!",
+      "condition": "Isle of Seasons에서 토끼에게 먹이를 주기"
     }
   },
   "genie": {
@@ -6949,6 +7091,20 @@
       "name": "Nyan, Purr!",
       "description": "Purr... Seems like a kind feline, isn't it?",
       "condition": "Interact with the cat while using the Black Cat effect in Black Stone World"
+    },
+    "deity_sprout_world": {
+      "name": "Good Luck or Bad Luck?",
+      "description": "This design looks like a nine circles level",
+      "condition": "See the Good God and the Bad God events in Sandy Sprout World",
+      "checkbox": {
+        "good_deity_sprout": "Good God",
+        "bad_deity_sprout": "Bad God"
+      }
+    },
+    "red_hand_labyrinth": {
+      "name": "Red Labyrinth",
+      "description": "I'm lost in this place...",
+      "condition": "Visit the Red Hand Labyrinth"
     }
   },
   "ultraviolet": {
