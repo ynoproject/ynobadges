@@ -1,8 +1,12 @@
 {
   "group": "2_el",
   "bp": 10,
-  "reqType": "tag",
-  "reqString": "rgb_passage",
+  "reqType": "tags",
+  "reqStrings": [
+    "rgb_passage",
+    "rgb_passage_2"
+  ],
+  "reqCount": 1,
   "map": 490,
   "art": "Zolotl",
   "animated": true,
