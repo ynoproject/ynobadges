@@ -1,10 +1,12 @@
 {
   "map": 1442,
-  "mapX1": 143,
-  "mapY1": 108,
-  "mapX2": 167,
-  "mapY2": 115,
+  "mapX1": 153,
+  "mapY1": 109,
+  "mapX2": 156,
+  "mapY2": 110,
   "varId": 4792,
   "varValue": 137,
-  "varOp": ">="
+  "varOp": ">=",
+  "trigger": "eventAction",
+  "values": ["656", "658", "670", "671"]
 }
