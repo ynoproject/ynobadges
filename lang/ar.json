@@ -356,7 +356,13 @@
     "hell_teleporters": {
       "name": "مذنبة قهري",
       "description": "يا إلهي، لماذا تعودين وتأتين مراراً وتكراراً!؟",
-      "condition": "ادخل الجحيم عبر ساحة وجوه الأسجدة، طريق بلاطات النيون، طريق المربعات، طريق أثار الأقدام"
+      "condition": "ادخل الجحيم عبر ساحة وجوه الأسجدة، طريق بلاطات النيون، طريق المربعات، طريق أثار الأقدام",
+      "checkbox": {
+        "face_plaza_hell": "Face Carpet Plaza",
+        "neon_path_hell": "Neon Tile Path",
+        "checkered_path_hell": "Checkered Tile Path",
+        "footprint_path_hell": "Footprint Path"
+      }
     },
     "train_cattention": {
       "name": "رهاب الهررة",
@@ -1286,12 +1292,11 @@
     "clock_pole": {
       "name": "Punctuality",
       "description": "Always be punctual!",
-      "condition": "Find and approach the clock poles in Garden World (night), Blue Forest, Botanical Garden (outdoors, passage), Sculpture Park, Twilight Park, Monochrome School, Sunrise Road, Pure White Lands and Critter Village",
+      "condition": "Find and approach the clock poles in Garden World (night), Blue Forest, Botanical Garden, Sculpture Park, Twilight Park, Monochrome School, Sunrise Road, Pure White Lands and Critter Village",
       "checkbox": {
         "garden_world_clock_pole": "Garden World (night)",
         "blue_forest_clock_pole": "Blue Forest",
-        "botanical_garden_clock_pole_1": "outdoors",
-        "botanical_garden_clock_pole_2": "passage",
+        "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "Botanical Garden",
         "sculpture_park_clock_pole": "Sculpture Park",
         "twilight_park_clock_pole": "Twilight Park",
         "monochrome_school_clock_pole": "Monochrome School",
@@ -1884,7 +1889,14 @@
     "hands_abyss": {
       "name": "Hands from Abyss",
       "description": "The lost souls are desperate, attempting to reach the light, only to be bound to fail.",
-      "condition": "Find the hands in Azure Gardens, Forbidden Swamp, Foliage Estate, Dark Nexus, and Garden of Treachery"
+      "condition": "Find the hands in Azure Garden, Forbidden Swamp, Foliage Estate, Dark Nexus, and Garden of Treachery",
+      "checkbox": {
+        "hands_azure": "Azure Garden",
+        "hands_foliage": "Foliage Estate",
+        "hands_forbidden": "Forbidden Swamp",
+        "hands_dark": "Dark Nexus",
+        "hands_treachery": "Garden of Treachery"
+      }
     },
     "virtual_mapper": {
       "name": "Virtual Mapper",
@@ -1978,7 +1990,16 @@
     "shoal_seeker": {
       "name": "Shoal Seeker",
       "description": "Oops, all shoals!",
-      "condition": "Visit the following worlds: Lost Shoal, False Shoal, Blue Cactus Islands, Shallows of Deceit, Blue Lavender Shoal, Hidden Shoal, and Coral Shoal"
+      "condition": "Visit the following worlds: Lost Shoal, False Shoal, Blue Cactus Islands, Shallows of Deceit, Blue Lavender Shoal, Hidden Shoal, and Coral Shoal",
+      "checkbox": {
+        "shoal_lost": "Lost Shoal",
+        "shoal_false": "False Shoal",
+        "shoal_blue_cactus": "Blue Cactus Islands",
+        "shoal_shallows": "Shallows of Deceit",
+        "shoal_blue_lavender": "Blue Lavender Shoal",
+        "shoal_hidden": "Hidden Shoal",
+        "shoal_coral": "Coral Shoal"
+      }
     },
     "around_globe": {
       "name": "Around the Globe",
@@ -3549,7 +3570,13 @@
     "doctor_doors": {
       "name": "Misplaced in Time",
       "description": "By chance, an out of place door awaits...",
-      "condition": "Find the secret bedroom in Colorful Sphere World, Floating Window World, Gentle Meadows, and Low Tide Sands"
+      "condition": "Find the secret bedroom in Colorful Sphere World, Floating Window World, Gentle Meadows, and Low Tide Sands",
+      "checkbox": {
+        "doctor_door_1": "Low Tide Sands",
+        "doctor_door_2": "Colorful Sphere World",
+        "doctor_door_3": "Floating Window World",
+        "doctor_door_4": "Gentle Meadows"
+      }
     },
     "snowy_theatre_lesser": {
       "name": "Snowy Journey",

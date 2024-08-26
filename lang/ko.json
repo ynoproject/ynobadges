@@ -356,7 +356,13 @@
     "hell_teleporters": {
       "name": "강박적인 죄인",
       "description": "네가 자꾸 여기로 오잖아, 쯧!",
-      "condition": "페이스 카펫의 방(Face Carpet Plaza), 네온 타일 통로(Neon Tile Path), 피라미드의 세계(Checkered Tile Path), 발자국 통로(Footprint Path)를 통해 지옥에 입장하기"
+      "condition": "페이스 카펫의 방(Face Carpet Plaza), 네온 타일 통로(Neon Tile Path), 피라미드의 세계(Checkered Tile Path), 발자국 통로(Footprint Path)를 통해 지옥에 입장하기",
+      "checkbox": {
+        "face_plaza_hell": "페이스 카펫의 방(Face Carpet Plaza)",
+        "neon_path_hell": "네온 타일 통로(Neon Tile Path)",
+        "checkered_path_hell": "피라미드의 세계(Checkered Tile Path)",
+        "footprint_path_hell": "발자국 통로(Footprint Path)"
+      }
     },
     "train_cattention": {
       "name": "고양이 공포증",
@@ -1286,12 +1292,11 @@
     "clock_pole": {
       "name": "시간 엄수",
       "description": "시간은 금이라구!",
-      "condition": "Garden World (밤), Blue Forest, Botanical Garden (2), Sculpture Park, Twilight Park, Monochrome School, Sunrise Road, Pure White Lands, Critter Village에 있는 모든 시계탑들과 상호작용하기",
+      "condition": "Garden World (밤), Blue Forest, Botanical Garden, Sculpture Park, Twilight Park, Monochrome School, Sunrise Road, Pure White Lands, Critter Village에 있는 모든 시계탑들과 상호작용하기",
       "checkbox": {
         "garden_world_clock_pole": "Garden World (밤)",
         "blue_forest_clock_pole": "Blue Forest",
-        "botanical_garden_clock_pole_1": "outdoors",
-        "botanical_garden_clock_pole_2": "passage",
+        "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "Botanical Garden",
         "sculpture_park_clock_pole": "Sculpture Park",
         "twilight_park_clock_pole": "Twilight Park",
         "monochrome_school_clock_pole": "Monochrome School",
@@ -1883,7 +1888,14 @@
     "hands_abyss": {
       "name": "심연으로부터의 손길",
       "description": "망자들은 발악하며, 안간힘을 다해 빛을 향해 손을 뻗었지만, 돌아오는 것은 실패 뿐이었다",
-      "condition": "Azure Gardens, Forbidden Swamp, Foliage Estate, Dark Nexus, Garden of Treachery에서 손들을 찾아내기"
+      "condition": "Azure Garden, Forbidden Swamp, Foliage Estate, Dark Nexus, Garden of Treachery에서 손들을 찾아내기",
+      "checkbox": {
+        "hands_azure": "Azure Garden",
+        "hands_foliage": "Foliage Estate",
+        "hands_forbidden": "Forbidden Swamp",
+        "hands_dark": "Dark Nexus",
+        "hands_treachery": "Garden of Treachery"
+      }
     },
     "virtual_mapper": {
       "name": "버추얼 맵 관할자",
@@ -1977,7 +1989,16 @@
     "shoal_seeker": {
       "name": "여울 사냥꾼",
       "description": "와, 여울 맵들 다 찾았다!",
-      "condition": "Lost Shoal, False Shoal, Blue Cactus Islands, Shallows of Deceit, Blue Lavender Shoal, Hidden Shoal, Coral Shoal을 모두 방문하기"
+      "condition": "Lost Shoal, False Shoal, Blue Cactus Islands, Shallows of Deceit, Blue Lavender Shoal, Hidden Shoal, Coral Shoal을 모두 방문하기",
+      "checkbox": {
+        "shoal_lost": "Lost Shoal",
+        "shoal_false": "False Shoal",
+        "shoal_blue_cactus": "Blue Cactus Islands",
+        "shoal_shallows": "Shallows of Deceit",
+        "shoal_blue_lavender": "Blue Lavender Shoal",
+        "shoal_hidden": "Hidden Shoal",
+        "shoal_coral": "Coral Shoal"
+      }
     },
     "around_globe": {
       "name": "세계 일주",
@@ -3548,7 +3569,13 @@
     "doctor_doors": {
       "name": "어긋나버린 시간",
       "description": "우연히도, 있을 리가 없는 장소에서 문이 기다리고 있다...",
-      "condition": "Colorful Sphere World, Floating Window World, Gentle Meadows, Low Tide Sands 에서 비밀의 침실을 찾기"
+      "condition": "Colorful Sphere World, Floating Window World, Gentle Meadows, Low Tide Sands 에서 비밀의 침실을 찾기",
+      "checkbox": {
+        "doctor_door_1": "Low Tide Sands",
+        "doctor_door_2": "Colorful Sphere World",
+        "doctor_door_3": "Floating Window World",
+        "doctor_door_4": "Gentle Meadows"
+      }
     },
     "snowy_theatre_lesser": {
       "name": "눈 내리는 여정",

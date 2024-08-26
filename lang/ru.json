@@ -356,7 +356,13 @@
     "hell_teleporters": {
       "name": "Грешник-рецедивист",
       "description": "Ты всё возвращаешься сюда и возвращаешься, тьфу!",
-      "condition": "Попадите в Ад с Площади лиц-ковров, Дороги неоновых плиток, Дороги шахматной плитки и Дороги Следов."
+      "condition": "Попадите в Ад с Площади лиц-ковров, Дороги неоновых плиток, Дороги шахматной плитки и Дороги Следов.",
+      "checkbox": {
+        "face_plaza_hell": "Face Carpet Plaza",
+        "neon_path_hell": "Neon Tile Path",
+        "checkered_path_hell": "Checkered Tile Path",
+        "footprint_path_hell": "Footprint Path"
+      }
     },
     "train_cattention": {
       "name": "Айлурофобия",
@@ -1286,12 +1292,11 @@
     "clock_pole": {
       "name": "Пунктуальность",
       "description": "Всегда будьте пункуальны!",
-      "condition": "Найдите и приблизьтесь к часам в Garden World (ночь), Blue Forest, Botanical Garden (2), Twilight Park, Monochrome School, Sunrise Road, Pure White Lands и Critter Village",
+      "condition": "Найдите и приблизьтесь к часам в Garden World (ночь), Blue Forest, Botanical Garden, Twilight Park, Monochrome School, Sunrise Road, Pure White Lands и Critter Village",
       "checkbox": {
         "garden_world_clock_pole": "Garden World (ночь)",
         "blue_forest_clock_pole": "Blue Forest",
-        "botanical_garden_clock_pole_1": "outdoors",
-        "botanical_garden_clock_pole_2": "passage",
+        "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "Botanical Garden",
         "sculpture_park_clock_pole": "Sculpture Park",
         "twilight_park_clock_pole": "Twilight Park",
         "monochrome_school_clock_pole": "Monochrome School",
@@ -1883,7 +1888,14 @@
     "hands_abyss": {
       "name": "Руки из бездны",
       "description": "Отчаянные души, что тянутся к свету, но обречены лишь падать всё глубже и глубже.",
-      "condition": "Найдите руки в Azure Gardens, Forbidden Swamp, Foliage Estate, Dark Nexus, и Garden of Treachery"
+      "condition": "Найдите руки в Azure Garden, Forbidden Swamp, Foliage Estate, Dark Nexus, и Garden of Treachery",
+      "checkbox": {
+        "hands_azure": "Azure Garden",
+        "hands_foliage": "Foliage Estate",
+        "hands_forbidden": "Forbidden Swamp",
+        "hands_dark": "Dark Nexus",
+        "hands_treachery": "Garden of Treachery"
+      }
     },
     "virtual_mapper": {
       "name": "Виртуальный картограф",
@@ -1977,7 +1989,16 @@
     "shoal_seeker": {
       "name": "Искатель отмелей",
       "description": "Опять на мель!",
-      "condition": "Посетите следующие миры: Lost Shoal, False Shoal, Blue Cactus Islands, Shallows of Deceit, Blue Lavender Shoal, Hidden Shoal, и Coral Shoal."
+      "condition": "Посетите следующие миры: Lost Shoal, False Shoal, Blue Cactus Islands, Shallows of Deceit, Blue Lavender Shoal, Hidden Shoal, и Coral Shoal.",
+      "checkbox": {
+        "shoal_lost": "Lost Shoal",
+        "shoal_false": "False Shoal",
+        "shoal_blue_cactus": "Blue Cactus Islands",
+        "shoal_shallows": "Shallows of Deceit",
+        "shoal_blue_lavender": "Blue Lavender Shoal",
+        "shoal_hidden": "Hidden Shoal",
+        "shoal_coral": "Coral Shoal"
+      }
     },
     "around_globe": {
       "name": "Вокруг шара",
@@ -3548,7 +3569,13 @@
     "doctor_doors": {
       "name": "Misplaced in Time",
       "description": "By chance, an out of place door awaits...",
-      "condition": "Find the secret bedroom in Colorful Sphere World, Floating Window World, Gentle Meadows, and Low Tide Sands"
+      "condition": "Find the secret bedroom in Colorful Sphere World, Floating Window World, Gentle Meadows, and Low Tide Sands",
+      "checkbox": {
+        "doctor_door_1": "Low Tide Sands",
+        "doctor_door_2": "Colorful Sphere World",
+        "doctor_door_3": "Floating Window World",
+        "doctor_door_4": "Gentle Meadows"
+      }
     },
     "snowy_theatre_lesser": {
       "name": "Snowy Journey",

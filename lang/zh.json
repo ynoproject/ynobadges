@@ -356,7 +356,13 @@
     "hell_teleporters": {
       "name": "死不悔改",
       "description": "你怎么又进来了？",
-      "condition": "由Face Carpet Plaza、Neon Tile Path、Checkered Tile Path和Footprint Path进入Hell。"
+      "condition": "由Face Carpet Plaza、Neon Tile Path、Checkered Tile Path和Footprint Path进入Hell。",
+      "checkbox": {
+        "face_plaza_hell": "Face Carpet Plaza",
+        "neon_path_hell": "Neon Tile Path",
+        "checkered_path_hell": "Checkered Tile Path",
+        "footprint_path_hell": "Footprint Path"
+      }
     },
     "train_cattention": {
       "name": "恐猫症",
@@ -1286,12 +1292,11 @@
     "clock_pole": {
       "name": "严守时间",
       "description": "守时守时一定要守时！",
-      "condition": "在以下地点找到并靠近对应世界的时钟：植物世界, 雨之森, 水中植物园（两处）, Sculpture Park, 月光庭院, Monochrome School, Sunrise Road, Pure White Lands, Critter Village",
+      "condition": "在以下地点找到并靠近对应世界的时钟：植物世界, 雨之森, 水中植物园, Sculpture Park, 月光庭院, Monochrome School, Sunrise Road, Pure White Lands, Critter Village",
       "checkbox": {
         "garden_world_clock_pole": "植物世界",
         "blue_forest_clock_pole": "雨之森",
-        "botanical_garden_clock_pole_1": "outdoors",
-        "botanical_garden_clock_pole_2": "passage",
+        "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "水中植物园",
         "sculpture_park_clock_pole": "Sculpture Park",
         "twilight_park_clock_pole": "月光庭院",
         "monochrome_school_clock_pole": "Monochrome School",
@@ -1887,7 +1892,14 @@
     "hands_abyss": {
       "name": "深渊之手",
       "description": "向光而去，无果而殆",
-      "condition": "找到Azure Garden，Forbidden Swamp，Foliage Estate，Dark Nexus和Garden of Treachery中的手"
+      "condition": "找到Azure Garden，Forbidden Swamp，Foliage Estate，Dark Nexus和Garden of Treachery中的手",
+      "checkbox": {
+        "hands_azure": "Azure Garden",
+        "hands_foliage": "Foliage Estate",
+        "hands_forbidden": "Forbidden Swamp",
+        "hands_dark": "Dark Nexus",
+        "hands_treachery": "Garden of Treachery"
+      }
     },
     "virtual_mapper": {
       "name": "虚像制图仪",
@@ -1987,7 +1999,16 @@
     "shoal_seeker": {
       "name": "搁浅",
       "description": "前有浅滩，谨慎行船",
-      "condition": "拜访 Lost Shoal、伪浅濑、青仙人掌岛、骗子们的浅濑、恋荒、浅濑 及 Coral Shoal"
+      "condition": "拜访 Lost Shoal、伪浅濑、青仙人掌岛、骗子们的浅濑、恋荒、浅濑 及 Coral Shoal",
+      "checkbox": {
+        "shoal_lost": "Lost Shoal",
+        "shoal_false": "伪浅濑",
+        "shoal_blue_cactus": "青仙人掌岛",
+        "shoal_shallows": "骗子们的浅濑",
+        "shoal_blue_lavender": "恋荒",
+        "shoal_hidden": "浅濑",
+        "shoal_coral": "Coral Shoal"
+      }
     },
     "around_globe": {
       "name": "环球",
@@ -3564,7 +3585,13 @@
     "doctor_doors": {
       "name": "时间错位",
       "description": "有些时候，一扇有着违和感的门等待着你……",
-      "condition": "找到Colorful Sphere World、Floating Window World、Gentle Meadows、and Low Tide Sands的秘密卧室"
+      "condition": "找到Colorful Sphere World、Floating Window World、Gentle Meadows和Low Tide Sands的秘密卧室",
+      "checkbox": {
+        "doctor_door_1": "Low Tide Sands",
+        "doctor_door_2": "Colorful Sphere World",
+        "doctor_door_3": "Floating Window World",
+        "doctor_door_4": "Gentle Meadows"
+      }
     },
     "snowy_theatre_lesser": {
       "name": "雪村之旅",

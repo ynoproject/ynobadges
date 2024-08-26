@@ -356,7 +356,13 @@
     "hell_teleporters": {
       "name": "Pecador Compulsivo",
       "description": "Você não para de vir aqui, poxa!",
-      "condition": "Acesse o Hell a partir do Face Carpet Plaza, do Neon Tile Path, do Checkered Tile Path e do Footprint Path"
+      "condition": "Acesse o Hell a partir do Face Carpet Plaza, do Neon Tile Path, do Checkered Tile Path e do Footprint Path",
+      "checkbox": {
+        "face_plaza_hell": "Face Carpet Plaza",
+        "neon_path_hell": "Neon Tile Path",
+        "checkered_path_hell": "Checkered Tile Path",
+        "footprint_path_hell": "Footprint Path"
+      }
     },
     "train_cattention": {
       "name": "Ailurofobia",
@@ -1286,12 +1292,11 @@
     "clock_pole": {
       "name": "Pontualidade",
       "description": "Seja sempre pontual!",
-      "condition": "Encontre e aproxime-se dos postes de relógio em Garden World (Dia), Blue Forest, Botanical Garden (2), Sculpture Park, Twilight Park, Monochrome School, Sunrise Road, Pure White Lands e Critter Village",
+      "condition": "Encontre e aproxime-se dos postes de relógio em Garden World (Dia), Blue Forest, Botanical Garden, Sculpture Park, Twilight Park, Monochrome School, Sunrise Road, Pure White Lands e Critter Village",
       "checkbox": {
         "garden_world_clock_pole": "Garden World (Dia)",
         "blue_forest_clock_pole": "Blue Forest",
-        "botanical_garden_clock_pole_1": "outdoors",
-        "botanical_garden_clock_pole_2": "passage",
+        "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "Botanical Garden",
         "sculpture_park_clock_pole": "Sculpture Park",
         "twilight_park_clock_pole": "Twilight Park",
         "monochrome_school_clock_pole": "Monochrome School",
@@ -1883,7 +1888,14 @@
     "hands_abyss": {
       "name": "Mãos do Abismo",
       "description": "As almas perdidas estão desesperadas, tentando chegar a luz, mas estão fadadas ao fracasso.",
-      "condition": "Encontre as mãos em Azure Gardens, Forbidden Swamp, Foliage Estate, Dark Nexus, e Garden of Treachery"
+      "condition": "Encontre as mãos em Azure Garden, Forbidden Swamp, Foliage Estate, Dark Nexus, e Garden of Treachery",
+      "checkbox": {
+        "hands_azure": "Azure Garden",
+        "hands_foliage": "Foliage Estate",
+        "hands_forbidden": "Forbidden Swamp",
+        "hands_dark": "Dark Nexus",
+        "hands_treachery": "Garden of Treachery"
+      }
     },
     "virtual_mapper": {
       "name": "Cartógrafo Virtual",
@@ -1977,7 +1989,16 @@
     "shoal_seeker": {
       "name": "Cardumeiro de plantão",
       "description": "Opa, todos os shoals!",
-      "condition": "Visite estes mundos: Lost Shoal, False Shoal, Blue Cactus Islands, Shallows of Deceit, Blue Lavender Shoal, Hidden Shoal, and Coral Shoal."
+      "condition": "Visite estes mundos: Lost Shoal, False Shoal, Blue Cactus Islands, Shallows of Deceit, Blue Lavender Shoal, Hidden Shoal, and Coral Shoal.",
+      "checkbox": {
+        "shoal_lost": "Lost Shoal",
+        "shoal_false": "False Shoal",
+        "shoal_blue_cactus": "Blue Cactus Islands",
+        "shoal_shallows": "Shallows of Deceit",
+        "shoal_blue_lavender": "Blue Lavender Shoal",
+        "shoal_hidden": "Hidden Shoal",
+        "shoal_coral": "Coral Shoal"
+      }
     },
     "around_globe": {
       "name": "Em torno do globo",
@@ -3548,7 +3569,13 @@
     "doctor_doors": {
       "name": "Perdido no Tempo",
       "description": "Por chance, uma porta fora do lugar o aguarda...",
-      "condition": "Encontre o quarto secreto em Colorful Sphere World, Floating Window World, Gentle Meadows e Low Tide Sands"
+      "condition": "Encontre o quarto secreto em Colorful Sphere World, Floating Window World, Gentle Meadows e Low Tide Sands",
+      "checkbox": {
+        "doctor_door_1": "Low Tide Sands",
+        "doctor_door_2": "Colorful Sphere World",
+        "doctor_door_3": "Floating Window World",
+        "doctor_door_4": "Gentle Meadows"
+      }
     },
     "snowy_theatre_lesser": {
       "name": "Viagem na Neve",
