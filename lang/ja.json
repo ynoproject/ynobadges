@@ -356,7 +356,13 @@
     "hell_teleporters": {
       "name": "強制罪人",
       "description": "どんどん来やがれ",
-      "condition": "顔絨毯広場、ネオン通路、タイル通路、足跡通路から地獄に行く"
+      "condition": "顔絨毯広場、ネオン通路、タイル通路、足跡通路から地獄に行く",
+      "checkbox": {
+        "face_plaza_hell": "顔絨毯広場",
+        "neon_path_hell": "ネオン通路",
+        "checkered_path_hell": "タイル通路",
+        "footprint_path_hell": "足跡通路"
+      }
     },
     "train_cattention": {
       "name": "猫恐怖症",
@@ -372,9 +378,9 @@
       "description": "スリーカード",
       "condition": "のっぺら幽霊、赤幽霊に△ずきんを使った状態で話しかけ、青幽霊をほうちょうで刺す",
       "checkbox": {
-        "ghostly_nopp": "暗闇の世界",
-        "ghostly_follony": "どぶ溜まり",
-        "ghostly_fleebie": "コンクリ廃墟"
+        "ghostly_nopp": "のっぺら幽霊",
+        "ghostly_follony": "赤幽霊",
+        "ghostly_fleebie": "青幽霊をほうちょうで刺す"
       }
     },
     "wilderness_fan": {
@@ -412,7 +418,7 @@
       "condition": "道路沿いの樹海とマンホールの樹海にいるくらげに話しかける",
       "checkbox": {
         "jellyfishes_woods_a": "道路沿いの樹海",
-        "jellyfishes_woods_b": "樹海（道路側）"
+        "jellyfishes_woods_b": "マンホールの樹海"
       }
     },
     "pink_sea_structures": {
@@ -889,10 +895,10 @@
       "name": "側面",
       "condition": "嘔吐庭(血反吐エリア)、黒潰れ(街灯と木のエリア)、ミサロジー(反富裕側)、反富裕(始祖庭側)に到達する",
       "checkbox": {
-        "downfall_garden_b": "嘔吐庭：血反吐エリア",
-        "sparkling_dimension_b": "黒潰れ：街灯と木のエリア",
-        "opal_ruins_b": "ミサロジー：陸（深層側）",
-        "fuchsia_suburbs_b": "反富裕：始祖庭側"
+        "downfall_garden_b": "嘔吐庭(血反吐エリア)",
+        "sparkling_dimension_b": "黒潰れ(街灯と木のエリア)",
+        "opal_ruins_b": "ミサロジー(反富裕側)",
+        "fuchsia_suburbs_b": "反富裕(始祖庭側)"
       }
     },
     "survivor": {
@@ -1014,18 +1020,13 @@
         "01_digital_forest_1|01_digital_forest_2": "デジタル森林",
         "01_fluorescent_halls": "繁華道",
         "01_corrupted_love_world": "恋楔",
-        "01_winter_valley": "深層：雪降る森エリア",
+        "01_winter_valley": "深層(雪降る森エリア)",
         "01_bright_forest": "虹遺跡"
       }
     },
     "tetrapod": {
       "name": "テトラポッド",
-      "condition": "消波ブロックの砂浜の全マップに到達する",
-      "checkbox": {
-        "realistic_beach_1|realistic_beach_2|realistic_beach_3|realistic_beach_4|realistic_beach_5|realistic_beach_6": "消波ブロックの砂浜",
-        "realistic_beach_7|realistic_beach_8|realistic_beach_9|realistic_beach_10": "消波ブロック内部",
-        "realistic_beach_11|realistic_beach_12": "消波ブロック内部奥"
-      }
+      "condition": "消波ブロックの砂浜の全マップに到達する"
     },
     "stellar_graveyard": {
       "name": "マウソレウム",
@@ -1212,7 +1213,7 @@
         "white_mushroom_field": "裏きのこ",
         "crimson_labyrinth_mountains": "溶岩山",
         "color_cubes_world": "ネオンボックス",
-        "octagonal_grid_hub_passage": "ヘキサゴン",
+        "octagonal_grid_hub_passage": "ヘキサゴン（途切れた道）",
         "obentou_world": "吐き気",
         "entropy_dungeon": "ノイズの迷宮",
         "rainbow_towers": "タワーズ"
@@ -1267,21 +1268,7 @@
     "flying_fish_world": {
       "name": "Us and Them",
       "description": "結局同じ所をぐるぐる回るだけ。",
-      "condition": "リベンジビルのすべてのエリアに訪れる",
-      "checkbox": {
-        "flying_fish_world_1": "夕焼け",
-        "flying_fish_world_2|flying_fish_world_3": "待ち人",
-        "flying_fish_world_4|flying_fish_world_5": "正体不明",
-        "flying_fish_world_6": "古き良きテレビ",
-        "flying_fish_world_7": "頭蓋岩",
-        "flying_fish_world_8|flying_fish_world_14": "パース",
-        "flying_fish_world_9": "リベンジビル",
-        "flying_fish_world_10": "怒りと血涙",
-        "flying_fish_world_11": "白い部屋",
-        "flying_fish_world_12": "夜景ベランダ",
-        "flying_fish_world_13": "鉢植え部屋：水槽と本棚のある鉢植え部屋",
-        "flying_fish_world_15": "時計"
-      }
+      "condition": "リベンジビルのすべてのエリアに訪れる"
     },
     "sacred_crypt": {
       "name": "起源",
@@ -1309,19 +1296,18 @@
       "checkbox": {
         "m_m_hospital": "病院",
         "m_m_sky_kingdom": "空中公園",
-        "m_m_train_tracks": "廃線：線路エリア",
+        "m_m_train_tracks": "廃線",
         "m_m_construction_frame": "工事"
       }
     },
     "clock_pole": {
       "name": "時間厳守",
       "description": "遅刻しないように!",
-      "condition": "赤い植物世界 雨の森 水中植物園 彫刻庭園 月明かりの庭園 モノクロ学校 夕焼けの道 白い世界 六角タイル世界で時計に近づく",
+      "condition": "植物世界 雨の森 水中植物園 彫刻庭園 月明かりの庭園 モノクロ学校 夕焼けの道 白い世界 六角タイル世界で時計に近づく",
       "checkbox": {
         "garden_world_clock_pole": "植物世界",
         "blue_forest_clock_pole": "雨の森",
-        "botanical_garden_clock_pole_1": "outdoors",
-        "botanical_garden_clock_pole_2": "passage",
+        "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "水中植物園",
         "sculpture_park_clock_pole": "彫刻庭園",
         "twilight_park_clock_pole": "月明かりの庭園",
         "monochrome_school_clock_pole": "モノクロ学校",
@@ -1363,7 +1349,8 @@
       "description": "最も便利な電話",
       "condition": "石切 化石湖 砂糖道 自販倉庫 シャッター通り 博物館リベンジ チタババ parking zoneの八ヶ所で公衆電話を使用する",
       "checkbox": {
-        "phone_aquatic_cube_city|phone_fossil_lake": "化石湖",
+        "phone_aquatic_cube_city": "石切",
+        "phone_fossil_lake": "化石湖",
         "phone_sugar_road": "砂糖道",
         "phone_underground_garage": "自販倉庫",
         "phone_water_reclamation_facility": "シャッター通り",
@@ -1492,7 +1479,7 @@
       "description": "\"すりむいちゃった。\"",
       "condition": "夢の世界にいるすりむき娘（顔と腕の通路、夢幻図書館の本、モノクロ学校の屋上）を全て見つける",
       "checkbox": {
-        "surimuki_library": "夢幻図書館",
+        "surimuki_library": "夢幻図書館の本",
         "surimuki_broken_faces_area": "顔と腕の通路",
         "surimuki_monochrome_school": "モノクロ学校"
       }
@@ -1513,7 +1500,8 @@
       "condition": "これらの世界に存在する木に話しかける(またはこれらの世界に到達する) ヒラヤマ、srom(赤状態を含む)、ラクガキの樹、階段とブラザーサン、蒼園、目の大樹、夢森",
       "checkbox": {
         "mountainview_ruins_tree": "ヒラヤマ",
-        "tree_of_life_a|tree_of_life_b": "srom",
+        "tree_of_life_a": "srom",
+        "tree_of_life_b": "赤状態",
         "graffiti_maze_tree": "ラクガキの樹",
         "shinto_shrine_tree": "階段とブラザーサン",
         "scenic_outlook_tree": "目の大樹",
@@ -1728,7 +1716,7 @@
       "checkbox": {
         "uro_atlantis": "沖",
         "uro_tapir_place": "バク",
-        "uro_cloning_room": "ケンキュウジョ",
+        "uro_cloning_room": "ケンキュウジョ(巨大)",
         "uro_bleak_future": "夢の夢部屋",
         "uro_pinwheel_path": "逆さ宿(隠しエリア)",
         "uro_red_sky_cliff": "赤い空の崖",
@@ -1912,7 +1900,14 @@
     "hands_abyss": {
       "name": "深淵から伸びる手",
       "description": "失われた魂は必至で光を追い求めるが、決してたどり着くことはできない",
-      "condition": "蒼園、禁足、森徊、辺境の夢、怒哀階段の手を見つける"
+      "condition": "蒼園、禁足、森徊、辺境の夢、怒哀階段の手を見つける",
+      "checkbox": {
+        "hands_azure": "蒼園",
+        "hands_foliage": "森徊",
+        "hands_forbidden": "禁足",
+        "hands_dark": "辺境の夢",
+        "hands_treachery": "怒哀階段"
+      }
     },
     "virtual_mapper": {
       "name": "バーチャル案内人",
@@ -2006,7 +2001,16 @@
     "shoal_seeker": {
       "name": "浅瀬探求者",
       "description": "おっと、全部浅瀬！",
-      "condition": "失われた浅瀬、偽浅瀬、青仙人掌島、嘘つきの街(噓つきの浅瀬エリア)、恋荒び、コーラルビーチ、浅瀬に到達する"
+      "condition": "失われた浅瀬、偽浅瀬、青仙人掌島、嘘つきの街(噓つきの浅瀬エリア)、恋荒び、コーラルビーチ、浅瀬に到達する",
+      "checkbox": {
+        "shoal_lost": "失われた浅瀬",
+        "shoal_false": "偽浅瀬",
+        "shoal_blue_cactus": "青仙人掌島",
+        "shoal_shallows": "嘘つきの街(噓つきの浅瀬エリア)",
+        "shoal_blue_lavender": "恋荒び",
+        "shoal_hidden": "浅瀬",
+        "shoal_coral": "コーラルビーチ"
+      }
     },
     "around_globe": {
       "name": "地球儀一周",
@@ -2504,8 +2508,8 @@
       "description": "We all love Jimbo, too.",
       "condition": "3DRoomの黄色いミミズを訪ね、雪恋墓卵の4つ目の顔箱を調べる",
       "checkbox": {
-        "jimbo_desktop": "3DRoom",
-        "jimbo_holiday": "雪恋墓卵"
+        "jimbo_desktop": "3DRoomの黄色いミミズを訪ね",
+        "jimbo_holiday": "雪恋墓卵の4つ目の顔箱を調べる"
       }
     },
     "lone_penguin": {
@@ -3265,7 +3269,7 @@
         "ice_cream_dream": "アイスクリー夢",
         "cube_of_sweets": "スイートキューブ",
         "chocolate_tower": "チョコレー塔",
-        "dessert_fields": "スイーツホール",
+        "dessert_fields": "スイーツホール（ストロベリーエリア）",
         "chocolate_world": "チョコレートの通路",
         "cutlery_world": "スイーツ"
       }
@@ -3586,7 +3590,13 @@
     "doctor_doors": {
       "name": "タイムラインのズレ",
       "description": "そこには、変わった形の扉へ行くチャンスがある",
-      "condition": "球宙、眩光、干潮、そよぎ野原のそれぞれから隠れ家に到達する"
+      "condition": "球宙、眩光、干潮、そよぎ野原のそれぞれから隠れ家に到達する",
+      "checkbox": {
+        "doctor_door_1": "干潮",
+        "doctor_door_2": "球宙",
+        "doctor_door_3": "眩光",
+        "doctor_door_4": "そよぎ野原"
+      }
     },
     "snowy_theatre_lesser": {
       "name": "雪の旅路",

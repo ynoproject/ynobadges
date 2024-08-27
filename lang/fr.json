@@ -356,7 +356,13 @@
     "hell_teleporters": {
       "name": "Pécheresse compulsive",
       "description": "Tu n'arrêtes pas de venir ici gamine, aurais-tu perdu foi ?",
-      "condition": "Entrer dans Hell depuis Face Carpet Plaza, Neon Tile Path, Checkered Tile Path et Footprint Path"
+      "condition": "Entrer dans Hell depuis Face Carpet Plaza, Neon Tile Path, Checkered Tile Path et Footprint Path",
+      "checkbox": {
+        "face_plaza_hell": "Face Carpet Plaza",
+        "neon_path_hell": "Neon Tile Path",
+        "checkered_path_hell": "Checkered Tile Path",
+        "footprint_path_hell": "Footprint Path"
+      }
     },
     "train_cattention": {
       "name": "Ailurophobie",
@@ -1286,12 +1292,11 @@
     "clock_pole": {
       "name": "Ponctualité",
       "description": "Toujours être ponctuel !",
-      "condition": "Trouver et approcher les pôles d'horloges dans le Garden World (nuit), la Blue Forest, le Botanical Garden (extérieur, passage), le Sculpture Park, le Twilight Park, la Monochrome School, la Sunrise Road, les Pure White Lands et le Critter Village",
+      "condition": "Trouver et approcher les pôles d'horloges dans le Garden World (nuit), la Blue Forest, le Botanical Garden, le Sculpture Park, le Twilight Park, la Monochrome School, la Sunrise Road, les Pure White Lands et le Critter Village",
       "checkbox": {
         "garden_world_clock_pole": "Garden World (nuit)",
         "blue_forest_clock_pole": "Blue Forest",
-        "botanical_garden_clock_pole_1": "extérieur",
-        "botanical_garden_clock_pole_2": "passage",
+        "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "Botanical Garden",
         "sculpture_park_clock_pole": "Sculpture Park",
         "twilight_park_clock_pole": "Twilight Park",
         "monochrome_school_clock_pole": "Monochrome School",
@@ -1882,7 +1887,14 @@
     "hands_abyss": {
       "name": "Mains de l'Abysse",
       "description": "Les âmes perdues sont désespérées, tentant d'atteindre la lumière, seulement pour être vouées à l'échec.",
-      "condition": "Trouver les mains dans l'Azure Gardens, Forbidden Swamp, Foliage Estate, Dark Nexus, et Garden of Treachery"
+      "condition": "Trouver les mains dans l'Azure Garden, Forbidden Swamp, Foliage Estate, Dark Nexus, et Garden of Treachery",
+      "checkbox": {
+        "hands_azure": "Azure Garden",
+        "hands_foliage": "Foliage Estate",
+        "hands_forbidden": "Forbidden Swamp",
+        "hands_dark": "Dark Nexus",
+        "hands_treachery": "Garden of Treachery"
+      }
     },
     "virtual_mapper": {
       "name": "Cartographe virtuelle",
@@ -1982,7 +1994,16 @@
     "shoal_seeker": {
       "name": "Chercheur de bancs de sable",
       "description": "Oups, que des bancs de sable !",
-      "condition": "Visiter les mondes suivants : Lost Shoal, False Shoal, Blue Cactus Islands, Shallows of Deceit, Blue Lavender Shoal, Hidden Shoal, et Coral Shoal"
+      "condition": "Visiter les mondes suivants : Lost Shoal, False Shoal, Blue Cactus Islands, Shallows of Deceit, Blue Lavender Shoal, Hidden Shoal, et Coral Shoal",
+      "checkbox": {
+        "shoal_lost": "Lost Shoal",
+        "shoal_false": "False Shoal",
+        "shoal_blue_cactus": "Blue Cactus Islands",
+        "shoal_shallows": "Shallows of Deceit",
+        "shoal_blue_lavender": "Blue Lavender Shoal",
+        "shoal_hidden": "Hidden Shoal",
+        "shoal_coral": "Coral Shoal"
+      }
     },
     "around_globe": {
       "name": "Autour du globe",
@@ -3553,7 +3574,13 @@
     "doctor_doors": {
       "name": "Égarée dans le temps",
       "description": "Avec un peu de chance, peut-être qu'une porte au milieu de nulle part t'attends...",
-      "condition": "Trouver la chambre secrète dans Colorful Sphere World, Floating Window World, Gentle Meadows et Low Tide Sands"
+      "condition": "Trouver la chambre secrète dans Colorful Sphere World, Floating Window World, Gentle Meadows et Low Tide Sands",
+      "checkbox": {
+        "doctor_door_1": "Low Tide Sands",
+        "doctor_door_2": "Colorful Sphere World",
+        "doctor_door_3": "Floating Window World",
+        "doctor_door_4": "Gentle Meadows"
+      }
     },
     "snowy_theatre_lesser": {
       "name": "Voyage enneigé",
