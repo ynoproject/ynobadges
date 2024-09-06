@@ -378,9 +378,9 @@
       "description": "Trinca de espécie.",
       "condition": "Interaja com Nopperabou Ghost e Fleebie enquanto usa o efeito Spirit Headband e apunhale Follony com o efeito Kitchen Knife",
       "checkbox": {
-        "ghostly_nopp": "Nopperabou",
+        "ghostly_fleebie": "Nopperabou",
         "ghostly_follony": "Follony",
-        "ghostly_fleebie": "Fleebie"
+        "ghostly_nopp": "Fleebie"
       }
     },
     "wilderness_fan": {
@@ -2056,7 +2056,7 @@
     "sad_jellyfish": {
       "name": "A Triste Água Viva",
       "description": "Sempre longe de seu alcance.",
-      "condition": "Presencie a Água-Viva Triste no Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle e Moonlight Lantern Forest",
+      "condition": "Presencie a Água-Viva Triste no Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle, Moonlight Lantern Forest e Twilight Park",
       "checkbox": {
         "sad_jellyfish_forest_pier": "Forest Pier",
         "sad_jellyfish_chaotic_buildings": "Chaotic Buildings",
@@ -2064,7 +2064,8 @@
         "sad_jellyfish_doll_house": "Doll House",
         "sad_jellyfish_fantasy_isle": "Fantasy Isle",
         "sad_jellyfish_monolith_jungle": "Monolith Jungle",
-        "sad_jellyfish_m_l_forest": "Moonlight Lantern Forest"
+        "sad_jellyfish_m_l_forest": "Moonlight Lantern Forest",
+        "sad_jellyfish_twl_park": "Twilight Park"
       }
     },
     "monmon": {
@@ -4901,7 +4902,7 @@
     },
     "windswept_souls": {
       "name": "Profundezas Varridas pelo Vento",
-      "description": "Submerged under sand and wind.",
+      "description": "Submerso em areia e vento.",
       "condition": "Veja a terra deserta de uma das torres"
     },
     "2kki_wolf_effect": {
@@ -4937,24 +4938,24 @@
       }
     },
     "cube_of_sweets": {
-      "name": "Cubicle Desserts",
-      "description": "Now in 3 different flavors!",
-      "condition": "Visit Cube of Sweets"
+      "name": "Sobremesas de Cubículo",
+      "description": "Agora em 3 sabores diferentes!",
+      "condition": "Visite o Cube of Sweets"
     },
     "glitch_hell": {
       "name": "1111111111111111111111111111111111111111111111111111111",
       "description": "jaohfojahfuadhdiahljfhdajklhfjkalhfjlkahdsshjafghahhgfylehragbhagbdhjbfghjabfhjdsbgavhjfvbhajfghjlsadghbkhgkhkhkhkahsihlghfkahsgbfklhasdbfhklasbdfhbadshj",
-      "condition": "Reach Glitch Hell"
+      "condition": "Chegue em Glitch Hell"
     },
     "alto_2kki": {
-      "name": "FM Flying Fish",
+      "name": "Peixe Voador FM ",
       "description": "RadioFishwave",
-      "condition": "Visit Alto"
+      "condition": "Visite o Alto"
     },
     "flower_lily_path": {
-      "name": "Polychrome Morph",
-      "description": "The soft and peaceful reality of the body.",
-      "condition": "Make the flower in the White Lily Path A of the Glitched Butterfly Sector react to the Child, Tissue, Teru Teru Bōzu, Grave and Rainbow effects, and to the use of the Fairy, Glasses, Eyeball Bomb, Invisible, Cake, Polygon, Railroad Crossing and Dice effects",
+      "name": "Transformação Policromática",
+      "description": "A realidade suave e pacífica do corpo.",
+      "condition": "Faça com que a flor no White Lily Path A do Glitched Butterfly Sector reaja aos efeitos Child, Tissue, Teru Teru Bōzu, Grave e Rainbow, e ao uso dos efeitos Fairy, Glasses, Eyeball Bomb, Invisible, Cake, Polygon, Railroad Crossing e Dice.",
       "checkbox": {
         "flower_lily_path_child": "Child",
         "flower_lily_path_tissue": "Tissue",
@@ -4973,48 +4974,48 @@
     },
     "bracken_plains_rave": {
       "name": "Bracken Dance",
-      "description": "Gotta get green guys groovin'",
-      "condition": "See the Rave event in the Bracken Plains"
+      "description": "É preciso fazer com que os verdes se movimentem",
+      "condition": "Veja o evento Rave em Bracken Plains"
     },
     "monster_jaw_cake": {
-      "name": "Lonely Cake Girl",
-      "description": "She does sure feel lonely.",
-      "condition": "Use the Cake effect on the Monster's Jaw and view the short cutscene"
+      "name": "Garota do Bolo Solitária",
+      "description": "Ela certamente se sente solitária.",
+      "condition": "Use o efeito Cake no Monster's Jaw e veja a cena curta"
     },
     "cake_fridge_virtual_city": {
-      "name": "Cake Robber",
-      "description": "Let her eat cake!",
-      "condition": "Take a slice of cake from the fridge of Virtual City's arcade"
+      "name": "Ladrão de Bolos",
+      "description": "Deixe-a comer bolo!",
+      "condition": "Pegue uma fatia de bolo na geladeira do fliperama de Virtual City"
     },
     "umbrella_critter_village": {
-      "name": "A Stray Child",
-      "description": "Yes, it's \"a girl who looks familiar\" but she looks more lost",
-      "condition": "Collide with the red umbrella in Critter Village's Wooded Lakeside section"
+      "name": "Uma Criança Perdida",
+      "description": "Sim, é \"uma garota que parece familiar\", mas ela parece mais perdida",
+      "condition": "Colidir com o guarda-chuva vermelho na seção Wooded Lakeside do Critter Village"
     },
     "picture_virtual_city": {
-      "name": "Say Cheese!!",
-      "description": "Fantastic! Cooler! Peace!",
-      "condition": "Use the photobooth and receive your picture in the Virtual City's arcade"
+      "name": "Diga Xiii!!!",
+      "description": "Fantástico! Mais legal! Paz!",
+      "condition": "Use o cabine de fotos e receba sua foto no fliperama de Virtual City"
     },
     "arcade_virtual_city": {
-      "name": "Bunny Girl Paradise",
-      "description": "This game is addicting...",
-      "condition": "Visit the arcade in Virtual City"
+      "name": "Paraíso das Coelhinhas",
+      "description": "Esse jogo é viciante...",
+      "condition": "Visite o fliperama em Virtual City"
     },
     "workshop_cipher_kbd": {
-      "name": "Keyboard Maintenance Team",
-      "description": "Especially the arrows need more repair",
-      "condition": "Visit the workshop in Cipher Keyboard"
+      "name": "Equipe de Manutenção do Teclado",
+      "description": "Especialmente as setas precisam de mais reparos",
+      "condition": "Visite o workshop no Cipher Keyboard"
     },
     "mistaken_call_parking_grg": {
-      "name": "Fraudulent Call",
-      "description": "I think it's a pyramid scheme involving red lampposts",
-      "condition": "Visit the Mistaken Call Room in Parking Garage"
+      "name": "Chamada Fraudulenta",
+      "description": "Acho que é um esquema de pirâmide envolvendo postes de luz vermelhos",
+      "condition": "Visite a Mistaken Call Room no Parking Garage"
     },
     "blackjack_manor": {
       "name": "Blackjack 21",
-      "description": "Why don't we sit down and play a game?",
-      "condition": "Visit Blackjack Manor"
+      "description": "Por que não nos sentamos e jogamos um jogo?",
+      "condition": "Visite o Blackjack Manor"
     },
     "tt_rose_church": {
       "name": "The Holy Egg",
@@ -5639,19 +5640,19 @@
       "condition": "Chegue a Rainbow Tears"
     },
     "climate_eidolon": {
-      "name": "Weather Report",
-      "description": "Come rain, snow or shine, I will be there.",
-      "condition": "Obtain the Climate eidolon. If you have already unlocked it, return at the top of the Frozen Tower."
+      "name": "Boletim Meteorológico",
+      "description": "Faça chuva, neve ou sol, eu estarei lá.",
+      "condition": "Obtenha o eidolon Climate. Se você já o tiver desbloqueado, volte ao topo da Frozen Tower."
     },
     "critter_long_fallen_ruins": {
-      "name": "Cute Friend",
-      "description": "Aww, look at those eyes!",
-      "condition": "Interact with the lily pad critter in Long-Fallen Ruins"
+      "name": "Amigo Fofo",
+      "description": "Ah, olhe para esses olhos!",
+      "condition": "Interaja com a criatura nenúfar nas Long-Fallen Ruins"
     },
     "youth_eidolon": {
-      "name": "My Youth",
-      "description": "Just to be a kid, once again.",
-      "condition": "Obtain the Youth eidolon. If you have already unlocked it, return in the park of the Surreal Zoo."
+      "name": "Minha Juventude",
+      "description": "Apenas para ser criança, mais uma vez.",
+      "condition": "Obtenha o eidolon Youth. Se você já o tiver desbloqueado, volte ao parque do Surreal Zoo."
     },
     "cabin_snowy_world": {
       "name": "Cozy Cabin",
@@ -5864,7 +5865,7 @@
     },
     "shinsoku_gold": {
       "name": "Shinsoku Neko: Edição Verdadeira Shinsoku Neko",
-      "description": "Você conseguiu chegar até o fim e merece um \"Meow Meow\".",
+      "description": "\"They were all caught. The final tap was an exclamation mark on everything that had led to this point. I released my hands from the keyboard, and both me and my cat were finally free.\"",
       "condition": "Score 999999 points in Shinsoku Neko"
     },
     "shinsoku_alt": {

@@ -378,9 +378,9 @@
       "description": "Trójka.",
       "condition": "Zainicjuj interakcje z Nopperabou Ghost i Fleebie podczas używania efektu Duchowej Opaski i dźgnij Follony Nożem Kuchennym",
       "checkbox": {
-        "ghostly_nopp": "Nopperabou Ghost",
+        "ghostly_fleebie": "Nopperabou Ghost",
         "ghostly_follony": "Zaciukaj Follony efektem Noża Kuchennego",
-        "ghostly_fleebie": "Fleebie"
+        "ghostly_nopp": "Fleebie"
       }
     },
     "wilderness_fan": {
@@ -755,7 +755,7 @@
     },
     "cosmic_cube": {
       "name": "Kosmiczna Kostka",
-      "condition": "Osiągnij Cosmic Cube World"
+      "condition": "Zawizytuj Cosmic Cube World"
     },
     "firehead": {
       "name": "Ognisto-Głowa",
@@ -770,68 +770,68 @@
     "rusted_factory_lesser": {
       "name": "Zanieczyszczona Zębatka",
       "description": "Przenieś swój wzrok na sekrety Rusted Factory",
-      "condition": "Osiągnij ostatni pokój w Rusted Factory"
+      "condition": "Zawizytuj ostatni pokój w Rusted Factory"
     },
     "rusted_factory": {
       "name": "Zkorumpowana Machineria",
-      "condition": "Osiągnij ostatnie pokój Rusted Factory w {TIME} lub mniej w trybie Time Trial"
+      "condition": "Zawizytuj ostatni pokój Rusted Factory w {TIME} lub mniej w trybie Time Trial"
     },
     "sea_lily": {
-      "name": "Rainbow Sea Lily",
-      "condition": "Reach Sea Lily World"
+      "name": "Tęczowa Lilia Morska",
+      "condition": "Zawizytuj Sea Lily World"
     },
     "noranyan": {
       "name": "Noranyan",
       "description": "Nyanyame nyanyajyuunyanya-do no nyarabi de nyakunyaku inyanyaku nyanyahan nyanyadai nyanynaku nyarabete nyaganyagame.",
-      "condition": "Interact with Noranyan in the Sofa Room"
+      "condition": "Zainicjuj interakcje z Noranyan w Sofa Room"
     },
     "cheese": {
-      "name": "Cheese House Residents",
-      "condition": "Visit the Cheese House in Toy World"
+      "name": "Mieszkańcy Serowego Domu",
+      "condition": "Zawizytuj Serowy Dom w Toy World"
     },
     "heart_jar": {
-      "name": "Fragile Love",
-      "condition": "Cause the untimely death of the doctor in the Shop Ruins"
+      "name": "Delikatna Miłość",
+      "condition": "Przyczyń się do śmierci doktora w Shop Ruins"
     },
     "flooded_garden": {
-      "name": "Flooded Garden",
-      "condition": "Reach the Floral Vortex in the Flooded Dungeon"
+      "name": "Zalany Ogród",
+      "condition": "Osiągnij Floral Vortex w Flooded Dungeon"
     },
     "biplane": {
-      "name": "Biplane",
-      "description": "And we're off!",
-      "condition": "Trigger the flight event in Urotsuki's Dream Apartments"
+      "name": "Samolot",
+      "description": "I lecimy!",
+      "condition": "Zainicjuj wydarzenie lotu w Urotsuki's Dream Apartments"
     },
     "rainy_docks_girl": {
-      "name": "Inhabitant of Dream Island",
-      "condition": "Using the Twintails effect, find the green-haired girl at the Rainy Docks"
+      "name": "Mieszkaniec Wyspy Snów",
+      "condition": "Używając efektu Kucyków, znajdź zielono-włosą dziewczynę w Rainy Docks"
     },
     "grass_world": {
-      "name": "Sprout World",
-      "condition": "Reach Sprout World"
+      "name": "Świat Kiełków",
+      "condition": "Osiągnij Sprout World"
     },
     "flame_of_faith": {
-      "name": "Flame of Faith",
-      "condition": "Weaken the flame at the Tribe Settlement"
+      "name": "Płomień Wiary",
+      "condition": "Osłabij płomień w Tribe Settlement"
     },
     "dark_nexus": {
-      "name": "The Dark Frontier",
-      "description": "The deepest nexus...",
-      "condition": "Enter the Dark Nexus"
+      "name": "Ciemna Domena",
+      "description": "Najgłębszy nexus...",
+      "condition": "Dotrzyj do Dark Nexus"
     },
     "white_creature": {
-      "name": "Divide by Zero",
-      "condition": "Interact with the white drooling creature in the Apartments"
+      "name": "Dzielenie przez Zero",
+      "condition": "Zainicjuj interakcje z białym stworzeniem w Apartments"
     },
     "data_stream": {
-      "name": "Digital Doppelganger",
-      "description": "Looks quite familiar...",
-      "condition": "Visit Data Stream"
+      "name": "Cyfrowy Klon",
+      "description": "Wygląda znajomo...",
+      "condition": "Zawizytuj Data Stream"
     },
     "evil_jihanki": {
-      "name": "Mechanized Robbery",
-      "description": "No snack for you",
-      "condition": "Get cheated by the Mushroom World vending machine"
+      "name": "Mechaniczna Kradzierz",
+      "description": "Brak przekąsek dla ciebie",
+      "condition": "Zostań oszukany przez maszynę w Mushroom World"
     },
     "crown_of_spirits": {
       "name": "Crown of Spirits",
@@ -2052,7 +2052,7 @@
     "sad_jellyfish": {
       "name": "Sad Jellyfish",
       "description": "Always out of your reach",
-      "condition": "Witness the sad jellyfish in Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle, Moonlight Lantern Forest",
+      "condition": "Witness the sad jellyfish in Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle, Moonlight Lantern Forest, Twilight Park",
       "checkbox": {
         "sad_jellyfish_forest_pier": "Forest Pier",
         "sad_jellyfish_chaotic_buildings": "Chaotic Buildings",
@@ -2060,7 +2060,8 @@
         "sad_jellyfish_doll_house": "Doll House",
         "sad_jellyfish_fantasy_isle": "Fantasy Isle",
         "sad_jellyfish_monolith_jungle": "Monolith Jungle",
-        "sad_jellyfish_m_l_forest": "Moonlight Lantern Forest"
+        "sad_jellyfish_m_l_forest": "Moonlight Lantern Forest",
+        "sad_jellyfish_twl_park": "Twilight Park"
       }
     },
     "monmon": {
@@ -5860,7 +5861,7 @@
     },
     "shinsoku_gold": {
       "name": "Shinsoku Neko: True Shinsoku Neko Edition",
-      "description": "You managed to reach to the end, you deserve a \"Meow Meow\".",
+      "description": "\"They were all caught. The final tap was an exclamation mark on everything that had led to this point. I released my hands from the keyboard, and both me and my cat were finally free.\"",
       "condition": "Score 999999 points in Shinsoku Neko"
     },
     "shinsoku_alt": {
