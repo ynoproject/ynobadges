@@ -652,7 +652,7 @@
     },
     "roku": {
       "name": "サイケ族",
-      "condition": "地底湖,樹林空間,石跡に到達する",
+      "condition": "地底湖、樹林空間、石跡に到達する",
       "checkbox": {
         "underground_lake": "地底湖",
         "cliffside_woods": "樹林空間",
@@ -761,7 +761,7 @@
     },
     "book": {
       "name": "輝かしい読書家",
-      "condition": "夢幻図書館,無限図書館,魔法図書館に到達する",
+      "condition": "夢幻図書館、無限図書館、魔法図書館に到達する",
       "checkbox": {
         "library": "夢幻図書館",
         "infinite_library": "無限図書館",
@@ -1132,7 +1132,7 @@
     },
     "egg": {
       "name": "ChromaticNestの記憶",
-      "condition": "メニュータイプ8~15と25のあった場所を訪れる",
+      "condition": "メニュータイプ8~15と25のあった場所を訪れる: 浅瀬 桟橋の森 星洞 蒸気工場 光と水面：教会エリア 夜花草 みなぞこ すいそう ビリジアン湿地",
       "checkbox": {
         "menu_theme_8": "浅瀬",
         "menu_theme_9": "桟橋の森",
@@ -1203,7 +1203,7 @@
     "rune": {
       "name": "叉オブジェルーン",
       "description": "夢世界を繋ぐ叉オブジェ",
-      "condition": "これらの場所に到達する:肉迷宮の通路、404洞窟、市街地、霧の湖、うつむき部屋、裏きのこ、溶岩山、ネオンボックス、ヘキサゴン（途切れた道）、吐き気、ノイズの迷宮、タワーズ",
+      "condition": "これらの場所に到達する:肉迷宮の通路 404洞窟 市街地 霧の湖 うつむき部屋 裏きのこ 溶岩山 ネオンボックス ヘキサゴン（途切れた道） 吐き気 ノイズの迷宮 タワーズ",
       "checkbox": {
         "intestines_maze": "肉迷宮の通路",
         "digital_hand_hub": "404洞窟",
@@ -3136,7 +3136,7 @@
       "name": "ギャラクティカハネムーン",
       "description": "あなたの心を惑わせる",
       "condition": "宇宙、宇宙船、未確認飛行物体、映し雲、輝く庭園に到達する",
-      "checkbox": {
+      "": {
         "galactic_spaceship|galactic_spaceship_b": "宇宙船",
         "galactic_space": "宇宙",
         "galactic_visine": "未確認飛行物体",
@@ -4875,166 +4875,166 @@
       "condition": "士官達に到達する"
     },
     "nichiyo_flying_fish": {
-      "name": "Private Eyes",
-      "description": "\"You can't escape my, Private Eyes!\nThey're watching you~\"",
-      "condition": "Find Nichiyo-San in Flying Fish World"
+      "name": "探偵",
+      "description": "\"私はあなたを見ている。絶対逃げられないよ。\"",
+      "condition": "待ち人で待ち人を見つける"
     },
     "comet_infinite_library": {
-      "name": "Cosmic Tides",
-      "description": "Still here. Struggling against the cosmic tides, compared to which you are so... small.",
-      "condition": "Find the comet by using the telescope in Infinite Library"
+      "name": "宇宙の潮汐",
+      "description": "まだここで、宇宙の潮汐と闘っている。それに比べればあなたはとても・・・小さい",
+      "condition": "無限図書館の望遠鏡で彗星を見つける"
     },
     "arcade_travel_hotel": {
-      "name": "Linear Equation Arcade",
-      "description": "The result must have been carefully calculated to get this result",
-      "condition": "Visit the arcade in Travel Hotel"
+      "name": "一次方程式アーケード",
+      "description": "この結果を得るために、注意深く計算されたに違いない",
+      "condition": "クラシックホテルのゲームセンターを訪れる"
     },
     "challenge_chromalimbo": {
-      "name": "Polychrome Purgatory",
-      "description": "Oh insanity, so colorful, so vibrant...",
-      "condition": "Reach the warp to the isolated section in Chromatic Limbo and chainsaw it"
+      "name": "多彩な煉獄",
+      "description": "ああ、狂気的で、カラフルで、鮮やかだ・・・",
+      "condition": "ephemeraの最奥にいる生きた8の字ゲートのバリケードにチェーンソーを使用する"
     },
     "eggs_blue_restaurant": {
-      "name": "Don't Keep your Effects in one Basket!",
-      "description": "These eggs ain't all they cracked up to be.",
-      "condition": "Chainsaw every effect egg creature in the room 13 of Blue Restaurant then use the bed there"
+      "name": "エフェクトを1つのバスケットに収納しないこと！",
+      "description": "この卵が全てではない。",
+      "condition": "青い店の13番部屋にいるお化けの群れを全て倒し、ベッドで寝る"
     },
     "rune_dunes": {
-      "name": "Sands of Othala",
-      "description": "Mighty ancient rifts between the dreams",
-      "condition": "Visit Rune Dunes"
+      "name": "オシラの砂丘",
+      "description": "夢の狭間にある大きな裂け目",
+      "condition": "ルーン叉丘に到達する"
     },
     "broken_city_complete": {
-      "name": "Remnants of a Mournful City",
-      "description": "It's just a disintegrating memory...",
-      "condition": "Visit all of the areas of Broken City"
+      "name": "喪われた都市の名残",
+      "description": "ただの崩壊した記憶・・・",
+      "condition": "ホームルの全てのエリアを訪れる"
     },
     "rainbow_clock": {
-      "name": "Glittering Clock",
-      "description": "Sparkling clock with bright hands in a sea of colors",
+      "name": "きらきら時計",
+      "description": "カラフルな海の中で鮮やかな秒針を持つきらめく時計",
       "condition": "きらきらの巨大な時計を見る"
     },
     "fishy_friends": {
-      "name": "Atlantis Jellyfish",
-      "description": "Of unparalleled wisdom and gracious blessing here are these jellyfish as a symbol of such",
+      "name": "アトランティスクラゲ",
+      "description": "比類なき知恵と恵み深い祝福のシンボルとして、このクラゲはここにいる",
       "condition": "昭和庭のくらげ水族館内部に到達する"
     },
     "windswept_souls": {
-      "name": "Windswept Depths",
-      "description": "Submerged under sand and wind.",
+      "name": "吹きさらしの深層",
+      "description": "砂と風の下に沈んだ景色",
       "condition": "砂と風の塔のから荒涼とした大地を眺める"
     },
     "2kki_wolf_effect": {
-      "name": "Beach Wolf",
-      "description": "Howling at the sea",
+      "name": "砂浜のオオカミ",
+      "description": "海に向かって吠える",
       "condition": "砂浜で狼少年に話しかけて、オオカミのエフェクトを取得する"
     },
     "the_assistant": {
-      "name": "Control Panel",
-      "description": "Don't touch the buttons",
+      "name": "コントロールパネル",
+      "description": "そのボタンに触るな",
       "condition": "潜水艦を潜水させるようにする"
     },
     "bodhisattva_glasses": {
-      "name": "Bodhicitta",
-      "description": "You have style!",
+      "name": "菩提心",
+      "description": "おしゃれだね！",
       "condition": "めがねを使って菩薩を見上げる"
     },
     "turtle_pond": {
-      "name": "Joystick World",
-      "description": "Lake of retro controls",
+      "name": "ジョイスティックワールド",
+      "description": "レトロなコントローラーの湖",
       "condition": "亀池に到達する"
     },
     "chaos_exhibition_complete": {
-      "name": "Chaotic Soul Artifact",
-      "description": "It seethes with chaotic energy.",
-      "condition": "Unlock the shortcuts in Underground Laboratory, Sugar Road, Ether Caverns, Rainbow Towers, and Expanded Corridors leading to Chaos Exhibition. If you have already unlocked them, return to Chaos Exhibition.",
+      "name": "カオティックソウル・アーティファクト",
+      "description": "混沌としたエネルギーに溢れている",
+      "condition": "繋皆大成に繋がる地底研究所、砂糖道、エーテル、タワーズ、焚籠洞窟のショートカットを解放する。すでに解放している場合、繋皆大成に行く",
       "checkbox": {
-        "chaos_exhb_udg_lab": "Underground Laboratory",
-        "chaos_exhb_sugar_road": "Sugar Road",
-        "chaos_exhb_ether_cave": "Ether Caverns",
-        "chaos_exhb_rbw_twrs": "Rainbow Towers",
-        "chaos_exhb_exp_crdr": "Expanded Corridors"
+        "chaos_exhb_udg_lab": "地底研究所",
+        "chaos_exhb_sugar_road": "砂糖道",
+        "chaos_exhb_ether_cave": "エーテル",
+        "chaos_exhb_rbw_twrs": "タワーズ",
+        "chaos_exhb_exp_crdr": "焚籠洞窟"
       }
     },
     "cube_of_sweets": {
-      "name": "Cubicle Desserts",
-      "description": "Now in 3 different flavors!",
-      "condition": "Visit Cube of Sweets"
+      "name": "キューブ状のデザート",
+      "description": "3種類のフレーバーが登場！",
+      "condition": "スイートキューブに到達する"
     },
     "glitch_hell": {
       "name": "1111111111111111111111111111111111111111111111111111111",
       "description": "jaohfojahfuadhdiahljfhdajklhfjkalhfjlkahdsshjafghahhgfylehragbhagbdhjbfghjabfhjdsbgavhjfvbhajfghjlsadghbkhgkhkhkhkahsihlghfkahsgbfklhasdbfhklasbdfhbadshj",
-      "condition": "Reach Glitch Hell"
+      "condition": "混沌の坩堝に到達する"
     },
     "alto_2kki": {
-      "name": "FM Flying Fish",
-      "description": "RadioFishwave",
-      "condition": "Visit Alto"
+      "name": "FMフライングフィッシュ",
+      "description": "ラジオフィッシュウェーブ",
+      "condition": "ラジオウェーブに到達する"
     },
     "flower_lily_path": {
-      "name": "Polychrome Morph",
-      "description": "The soft and peaceful reality of the body.",
-      "condition": "Make the flower in the White Lily Path A of the Glitched Butterfly Sector react to the Child, Tissue, Teru Teru Bōzu, Grave and Rainbow effects, and to the use of the Fairy, Glasses, Eyeball Bomb, Invisible, Cake, Polygon, Railroad Crossing and Dice effects",
+      "name": "多色的変形",
+      "description": "柔らかく平穏な現実の肉体",
+      "condition": "花の小道:大迷路側にある花を、こども、ティッシュ、てるてるぼうず、おはか、にじ、ようせい、めがね、めだまばくだん、とうめい、ケーキ、ポリゴン、ふみきり、サイコロのエフェクトを使って調べる",
       "checkbox": {
-        "flower_lily_path_child": "Child",
-        "flower_lily_path_tissue": "Tissue",
-        "flower_lily_path_teru": "Teru Teru Bōzu",
-        "flower_lily_path_grave": "Grave",
-        "flower_lily_path_rainbow": "Rainbow",
-        "flower_lily_path_fairy": "Fairy",
-        "flower_lily_path_glasses": "Glasses",
-        "flower_lily_path_eye_bomb": "Eyeball Bomb",
-        "flower_lily_path_invisible": "Invisible",
-        "flower_lily_path_cake": "Cake",
-        "flower_lily_path_polygon": "Polygon",
-        "flower_lily_path_crossing": "Railroad Crossing",
-        "flower_lily_path_dice": "Dice"
+        "flower_lily_path_child": "こども",
+        "flower_lily_path_tissue": "ティッシュ",
+        "flower_lily_path_teru": "てるてるぼうず",
+        "flower_lily_path_grave": "おはか",
+        "flower_lily_path_rainbow": "にじ",
+        "flower_lily_path_fairy": "ようせい",
+        "flower_lily_path_glasses": "めがね",
+        "flower_lily_path_eye_bomb": "めだまばくだん",
+        "flower_lily_path_invisible": "とうめい",
+        "flower_lily_path_cake": "ケーキ",
+        "flower_lily_path_polygon": "ポリゴン",
+        "flower_lily_path_crossing": "ふみきり",
+        "flower_lily_path_dice": "サイコロ"
       }
     },
     "bracken_plains_rave": {
-      "name": "Bracken Dance",
-      "description": "Gotta get green guys groovin'",
-      "condition": "See the Rave event in the Bracken Plains"
+      "name": "ダンシングワラビ",
+      "description": "グリーンメンたちをノリノリにさせる！",
+      "condition": "ワラビ平原にいる緑色の蛇を調べてイベントを見る"
     },
     "monster_jaw_cake": {
-      "name": "Lonely Cake Girl",
-      "description": "She does sure feel lonely.",
-      "condition": "Use the Cake effect on the Monster's Jaw and view the short cutscene"
+      "name": "孤独な少女",
+      "description": "彼女たちはひとりぼっちでそこにいる",
+      "condition": "高台でケーキのエフェクトを使い、景色を見る"
     },
     "cake_fridge_virtual_city": {
-      "name": "Cake Robber",
-      "description": "Let her eat cake!",
-      "condition": "Take a slice of cake from the fridge of Virtual City's arcade"
+      "name": "ケーキ泥棒",
+      "description": "ケーキ食べちゃお～っと！",
+      "condition": "バーチャルシティのゲームセンターの冷蔵庫からケーキを奪う"
     },
     "umbrella_critter_village": {
-      "name": "A Stray Child",
-      "description": "Yes, it's \"a girl who looks familiar\" but she looks more lost",
-      "condition": "Collide with the red umbrella in Critter Village's Wooded Lakeside section"
+      "name": "迷子の子供",
+      "description": "\"見慣れたあの子\"は、迷子に見える",
+      "condition": "雨のため池にある赤い傘にぶつかる"
     },
     "picture_virtual_city": {
-      "name": "Say Cheese!!",
-      "description": "Fantastic! Cooler! Peace!",
-      "condition": "Use the photobooth and receive your picture in the Virtual City's arcade"
+      "name": "笑顔でピース！3,2,1！",
+      "description": "ステキだね！クールだね！ピース！ v ^^ v",
+      "condition": "バーチャルシティのゲームセンターのプリ機で写真を撮り、プリを受け取る"
     },
     "arcade_virtual_city": {
-      "name": "Bunny Girl Paradise",
-      "description": "This game is addicting...",
-      "condition": "Visit the arcade in Virtual City"
+      "name": "バニーガールパラダイス",
+      "description": "このゲームセンター、時間が溶ける・・・",
+      "condition": "バーチャルシティのゲームセンターに行く"
     },
     "workshop_cipher_kbd": {
-      "name": "Keyboard Maintenance Team",
-      "description": "Especially the arrows need more repair",
-      "condition": "Visit the workshop in Cipher Keyboard"
+      "name": "キーボードメンテナンスチーム",
+      "description": "矢印キーはよく使うからメンテナンスしよう",
+      "condition": "立椅子館のガレージ部屋に到達する"
     },
     "mistaken_call_parking_grg": {
-      "name": "Fraudulent Call",
-      "description": "I think it's a pyramid scheme involving red lampposts",
-      "condition": "Visit the Mistaken Call Room in Parking Garage"
+      "name": "詐欺の電話",
+      "description": "赤街灯に絡んだねずみ講だと思う",
+      "condition": "まちがい電話に到達する"
     },
     "blackjack_manor": {
-      "name": "Blackjack 21",
-      "description": "Why don't we sit down and play a game?",
-      "condition": "Visit Blackjack Manor"
+      "name": "ブラックジャック21",
+      "description": "座ってゲームをしないかい？",
+      "condition": "お好み屋敷に到達する"
     }
   },
   "unconscious": {
@@ -7231,18 +7231,18 @@
       "condition": "Black Stone Worldでくろねこのエフェクトを使用して猫に話しかける"
     },
     "deity_sprout_world": {
-      "name": "Good Luck or Bad Luck?",
-      "description": "This design looks like a nine circles level",
-      "condition": "See the Good God and the Bad God events in Sandy Sprout World",
+      "name": "幸か不幸か？",
+      "description": "nine circles levelsみたいなデザインだね",
+      "condition": "Sandy Sprout WorldでGood GodとBad Godのイベントを見る",
       "checkbox": {
         "good_deity_sprout": "Good God",
         "bad_deity_sprout": "Bad God"
       }
     },
     "red_hand_labyrinth": {
-      "name": "Red Labyrinth",
-      "description": "I'm lost in this place...",
-      "condition": "Visit the Red Hand Labyrinth"
+      "name": "赤い迷宮",
+      "description": "ここで迷子になってる・・・",
+      "condition": "Red Hand Labyrinthに到達する"
     }
   },
   "ultraviolet": {
@@ -7813,7 +7813,7 @@
     },
     "deep_forest": {
       "name": "秘密の森林",
-      "condition": "Deep ForestA、B、Cを巡る",
+      "condition": "Deep Forest A、Deep Forest B、Deep Forest Cを巡る",
       "checkbox": {
         "deep_forest_a_1|deep_forest_a_2": "Deep Forest A",
         "deep_forest_b_1|deep_forest_b_2": "Deep Forest B",
