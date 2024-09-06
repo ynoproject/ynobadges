@@ -378,9 +378,9 @@
       "description": "Trois âmes errantes dans un monde infini.",
       "condition": "Interagir avec le Fantôme Nopperabou et Fleebie en utilisant l'effet Bandeau spirituel et poignarder Follony avec l'effet Couteau",
       "checkbox": {
-        "ghostly_nopp": "Dark World",
+        "ghostly_fleebie": "Dark World",
         "ghostly_follony": "Sewers",
-        "ghostly_fleebie": "Ghost World"
+        "ghostly_nopp": "Ghost World"
       }
     },
     "wilderness_fan": {
@@ -2061,7 +2061,7 @@
     "sad_jellyfish": {
       "name": "Méduse Triste",
       "description": "Toujours hors de ta portée",
-      "condition": "Faire venir la méduse triste dans Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle et Moonlight Lantern Forest",
+      "condition": "Faire venir la méduse triste dans Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle, Moonlight Lantern Forest et Twilight Park",
       "checkbox": {
         "sad_jellyfish_forest_pier": "Forest Pier",
         "sad_jellyfish_chaotic_buildings": "Chaotic Buildings",
@@ -2069,7 +2069,8 @@
         "sad_jellyfish_doll_house": "Doll House",
         "sad_jellyfish_fantasy_isle": "Fantasy Isle",
         "sad_jellyfish_monolith_jungle": "Monolith Jungle",
-        "sad_jellyfish_m_l_forest": "Moonlight Lantern Forest"
+        "sad_jellyfish_m_l_forest": "Moonlight Lantern Forest",
+        "sad_jellyfish_twl_park": "Twilight Park"
       }
     },
     "monmon": {
@@ -5798,7 +5799,7 @@
     },
     "shinsoku_gold": {
       "name": "Shinsoku Neko : Édition Vrai Shinsoku Neko",
-      "description": "Tu as réussi à atteindre la fin, tu mérites un « Miaou miaou ».",
+      "description": "« Ils furent tous pris. Le coup final pris la forme d'un point d'exclamation sur tout ce qui avait mené à ce point. J'ai libéré mes mains du clavier, et mon chat et moi furent enfin libres. »",
       "condition": "Marquer 999999 points à Shinsoku Neko"
     },
     "shinsoku_alt": {

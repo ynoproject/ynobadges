@@ -378,9 +378,9 @@
       "description": "スリーカード",
       "condition": "のっぺら幽霊、赤幽霊に△ずきんを使った状態で話しかけ、青幽霊をほうちょうで刺す",
       "checkbox": {
-        "ghostly_nopp": "のっぺら幽霊",
+        "ghostly_fleebie": "のっぺら幽霊",
         "ghostly_follony": "赤幽霊",
-        "ghostly_fleebie": "青幽霊をほうちょうで刺す"
+        "ghostly_nopp": "青幽霊をほうちょうで刺す"
       }
     },
     "wilderness_fan": {
@@ -2068,7 +2068,7 @@
     "sad_jellyfish": {
       "name": "虹色くらげ",
       "description": "いつも手は届かない",
-      "condition": "桟橋の森、水の都の森エリア、繫栄巣、人形屋敷、甘い嘘、樹海の遺跡、月街灯の森で虹色くらげを目撃する",
+      "condition": "桟橋の森、水の都の森エリア、繫栄巣、人形屋敷、甘い嘘、樹海の遺跡、月街灯の森、月明かりの庭園で虹色くらげを目撃する",
       "checkbox": {
         "sad_jellyfish_forest_pier": "桟橋の森",
         "sad_jellyfish_chaotic_buildings": "水の都の森エリア",
@@ -2076,7 +2076,8 @@
         "sad_jellyfish_doll_house": "人形屋敷",
         "sad_jellyfish_fantasy_isle": "甘い嘘",
         "sad_jellyfish_monolith_jungle": "樹海の遺跡",
-        "sad_jellyfish_m_l_forest": "月街灯の森"
+        "sad_jellyfish_m_l_forest": "月街灯の森",
+        "sad_jellyfish_twl_park": "月明かりの庭園"
       }
     },
     "monmon": {
@@ -5813,7 +5814,7 @@
     },
     "shinsoku_gold": {
       "name": "Shinsoku Neko: 真・Shinsoku Nekoエディション",
-      "description": "最後まで辿り着いたあなたには、\"にゃんにゃん\"を贈呈します",
+      "description": "\"They were all caught. The final tap was an exclamation mark on everything that had led to this point. I released my hands from the keyboard, and both me and my cat were finally free.\"",
       "condition": "Shinsoku Nekoで999999点を取る"
     },
     "shinsoku_alt": {

@@ -378,9 +378,9 @@
       "description": "트리플",
       "condition": "삼각 두건 이펙트를 착용한 채로 달걀 귀신 유령(Nopperabou ghost), 빨간 유령(Fleebie)과 상호작용하고 식칼 이펙트로 파란 유령(Follony)을 찌르기",
       "checkbox": {
-        "ghostly_nopp": "귀신 유령(Nopperabou ghost)",
+        "ghostly_fleebie": "귀신 유령(Nopperabou ghost)",
         "ghostly_follony": "파란 유령(Follony)",
-        "ghostly_fleebie": "빨간 유령(Fleebie)"
+        "ghostly_nopp": "빨간 유령(Fleebie)"
       }
     },
     "wilderness_fan": {
@@ -2056,7 +2056,7 @@
     "sad_jellyfish": {
       "name": "슬픈 해파리",
       "description": "언제나 닿지 않는 곳에 있다",
-      "condition": "Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle, Moonlight Lantern Forest에서 슬픈 해파리(Sad Jellyfish) NPC를 발견하기",
+      "condition": "Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle, Moonlight Lantern Forest, Twilight Park에서 슬픈 해파리(Sad Jellyfish) NPC를 발견하기",
       "checkbox": {
         "sad_jellyfish_forest_pier": "Forest Pier",
         "sad_jellyfish_chaotic_buildings": "Chaotic Buildings",
@@ -2064,7 +2064,8 @@
         "sad_jellyfish_doll_house": "Doll House",
         "sad_jellyfish_fantasy_isle": "Fantasy Isle",
         "sad_jellyfish_monolith_jungle": "Monolith Jungle",
-        "sad_jellyfish_m_l_forest": "Moonlight Lantern Forest"
+        "sad_jellyfish_m_l_forest": "Moonlight Lantern Forest",
+        "sad_jellyfish_twl_park": "Twilight Park"
       }
     },
     "monmon": {
@@ -5797,7 +5798,7 @@
     },
     "shinsoku_gold": {
       "name": "Shinsoku Neko: True Shinsoku Neko Edition",
-      "description": "You managed to reach to the end, you deserve a \"Meow Meow\".",
+      "description": "\"They were all caught. The final tap was an exclamation mark on everything that had led to this point. I released my hands from the keyboard, and both me and my cat were finally free.\"",
       "condition": "Score 999999 points in Shinsoku Neko"
     },
     "shinsoku_alt": {
