@@ -5013,6 +5013,67 @@
       "name": "Blackjack 21",
       "description": "Why don't we sit down and play a game?",
       "condition": "Visit Blackjack Manor"
+    },
+    "tt_rose_church": {
+      "name": "The Holy Egg",
+      "condition": "Obtain the menu type 12 in Rose Church in {TIME} or less in Time Trial Mode"
+    },
+    "dragon_paradise": {
+      "name": "Cetus",
+      "description": "A friendly sea serpent!",
+      "condition": "Approach the dragon in Paradise"
+    },
+    "rose_church_pianist": {
+      "name": "Rose Concert",
+      "description": "This piano is still working...",
+      "condition": "Watch the pianist play the piano at Rose Church"
+    },
+    "yume_paradise": {
+      "name": "Dream Heaven",
+      "description": "Dreaming is like being in the clouds.",
+      "condition": "Visit the following heaven related worlds: Animal Heaven, Cinder Statue Heaven, Cookie Haven, Cotton Candy Haven, Indigo Pyramid Heaven, Litter Heaven, Paradise, Pink Heaven (sub-area of Humanity World), Whale Heaven (sub-area of Miso Soup Dungeon), and Witch Heaven",
+      "checkbox": {
+        "animal_heaven": "Animal Heaven",
+        "cinder_heaven": "Cinder Statue Heaven",
+        "cookie_haven": "Cookie Haven",
+        "cotton_candy_haven": "Cotton Candy Haven",
+        "indigo_pyramid_heaven": "Indigo Pyramid Heaven",
+        "litter_heaven": "Litter Heaven",
+        "paradise": "Paradise",
+        "pink_heaven_humanity_w": "Pink Heaven (sub-area of Humanity World)",
+        "whale_heaven_misoup": "Whale Heaven (sub-area of Miso Soup Dungeon)",
+        "witch_heaven": "Witch Heaven"
+      }
+    },
+    "yume_hell": {
+      "name": "Nightmare Hell",
+      "description": "Abandon all hope, ye who enter here.",
+      "condition": "Visit the following hell related worlds: Dark Cheese Hell, Glitch Hell, Hell Caverns (sub-area of Flamelit Wasteland), Holiday Hell, Oblique Hell, Rainbow Hell, Spear Hell Maze, and Static Noise Hell",
+      "checkbox": {
+        "dark_cheese_hell": "Dark Cheese Hell",
+        "glitch_hell": "Glitch Hell",
+        "hell_caverns_flamelit_w": "Hell Caverns (sub-area of Flamelit Wasteland)",
+        "holiday_hell": "Holiday Hell",
+        "oblique_hell": "Oblique Hell",
+        "rainbow_hell": "Rainbow Hell",
+        "spear_hell_maze": "Spear Hell Maze",
+        "static_noise_hell": "Static Noise Hell"
+      }
+    },
+    "screaming_bright_forest": {
+      "name": "Scream of Despair",
+      "description": "MAKE IT STOP",
+      "condition": "Trigger the Screaming Forest event in Bright Forest"
+    },
+    "dessert_fields_sweet": {
+      "name": "Sweet Fields",
+      "description": "Talk about having sweet dreams!",
+      "condition": "Indulge in a treat in the Dessert Fields"
+    },
+    "shrimp_city_of_revival": {
+      "name": "Shrimp",
+      "description": "YAAAAAAAAAAAAAAAAYY!!!",
+      "condition": "Trigger the Shrimp event in City of Revival"
     }
   },
   "unconscious": {
@@ -5589,6 +5650,16 @@
       "name": "My Youth",
       "description": "Just to be a kid, once again.",
       "condition": "Obtain the Youth eidolon. If you have already unlocked it, return in the park of the Surreal Zoo."
+    },
+    "cabin_snowy_world": {
+      "name": "Cozy Cabin",
+      "description": "Can you feel the glowing ambers?",
+      "condition": "Visit the Cabin in Snowy World"
+    },
+    "lush_hilltop_food": {
+      "name": "Nutritious",
+      "description": "Hungry for some?",
+      "condition": "View the giant ingredients in Lush Hiltop"
     }
   },
   "flow": {
@@ -7798,6 +7869,16 @@
       "name": "Microwave",
       "description": "Oops! Looks like the pudding is kneaded.",
       "condition": "Obtain the Microwave effect. If you have already unlocked it, return to the Library."
+    },
+    "long_hair_wormiko": {
+      "name": "Rotiko",
+      "description": "This one doesn't have anything special at a- oh nevermind.",
+      "condition": "Sit while using the Long Hair effect for too long and see what happens"
+    },
+    "egg_meat_world": {
+      "name": "Flaberggasted",
+      "description": "\"Did you just hit me?\"",
+      "condition": "Use the Fire Axe effect on the giant egg in Meat World"
     }
   },
   "nostalgic": {
