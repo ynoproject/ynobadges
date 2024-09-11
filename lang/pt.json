@@ -1456,7 +1456,7 @@
     },
     "crown_of_sorrow": {
       "name": "Coroa do Desalento",
-      "condition": "Entre na sala no final da rodovia em Spirit Capital {TIME} ou menos no modo Time Trial Mode"
+      "condition": "Entre na sala no final da rodovia em Spirit Capital {TIME} ou menos no modo Time Trial"
     },
     "the_liar": {
       "name": "Você mentiu! Mentiroooso!",
@@ -1638,7 +1638,7 @@
     },
     "the_tiger": {
       "name": "Gatos! Gatos!!!",
-      "description": "Yvocê pôde acariciar DOIS gatinhos?!",
+      "description": "Você pôde acariciar DOIS gatinhos?!",
       "condition": "Veja os dois gatos no quarto do Shadow Lady Estate"
     },
     "mar_marina": {
@@ -2155,7 +2155,7 @@
     "depths_fall_trial": {
       "name": "Água-Viva Abissal Penumbral",
       "description": "Uma Água-Viva amigável, que corta a escuridão do mar abissal",
-      "condition": "Caia até a parte final dos Depths em {TIME} ou menos no Time Trial Mode"
+      "condition": "Caia até a parte final dos Depths em {TIME} ou menos no modo Time Trial"
     },
     "glass_church": {
       "name": "Vidraças Memoriáis",
@@ -5018,23 +5018,23 @@
       "condition": "Visite o Blackjack Manor"
     },
     "tt_rose_church": {
-      "name": "The Holy Egg",
-      "condition": "Obtain the menu type 12 in Rose Church in {TIME} or less in Time Trial Mode"
+      "name": "O Sacro-Ovo",
+      "condition": "Obtenha o menu tipo 12 no Rose Church em {TIME} ou menos no modo Time Trial"
     },
     "dragon_paradise": {
       "name": "Cetus",
-      "description": "A friendly sea serpent!",
-      "condition": "Approach the dragon in Paradise"
+      "description": "Uma serpente marinha amigável!",
+      "condition": "Aproxime-se do dragão no Paradise"
     },
     "rose_church_pianist": {
-      "name": "Rose Concert",
-      "description": "This piano is still working...",
-      "condition": "Watch the pianist play the piano at Rose Church"
+      "name": "Concerto de Rosas",
+      "description": "Esse piano ainda está funcionando...",
+      "condition": "Veja o pianista tocar piano na Rose Church"
     },
     "yume_paradise": {
-      "name": "Dream Heaven",
-      "description": "Dreaming is like being in the clouds.",
-      "condition": "Visit the following heaven related worlds: Animal Heaven, Cinder Statue Heaven, Cookie Haven, Cotton Candy Haven, Indigo Pyramid Heaven, Litter Heaven, Paradise, Pink Heaven (sub-area of Humanity World), Whale Heaven (sub-area of Miso Soup Dungeon), and Witch Heaven",
+      "name": "Céu dos Sonhos",
+      "description": "Sonhar é como estar nas nuvens.",
+      "condition": "Visite os seguintes mundos relacionados ao céu: Animal Heaven, Cinder Statue Heaven, Cookie Haven, Cotton Candy Haven, Indigo Pyramid Heaven, Litter Heaven, Paradise, Pink Heaven (subárea do Humanity World), Whale Heaven (subárea do Miso Soup Dungeon) e Witch Heaven.",
       "checkbox": {
         "animal_heaven": "Animal Heaven",
         "cinder_heaven": "Cinder Statue Heaven",
@@ -5049,9 +5049,9 @@
       }
     },
     "yume_hell": {
-      "name": "Nightmare Hell",
-      "description": "Abandon all hope, ye who enter here.",
-      "condition": "Visit the following hell related worlds: Dark Cheese Hell, Glitch Hell, Hell Caverns (sub-area of Flamelit Wasteland), Holiday Hell, Oblique Hell, Rainbow Hell, Spear Hell Maze, and Static Noise Hell",
+      "name": "Pesadelo Infernal",
+      "description": "Abandonem toda esperança, vocês que entram aqui.",
+      "condition": "Visite os seguintes mundos relacionados ao inferno: Dark Cheese Hell, Glitch Hell, Hell Caverns (subárea de Flamelit Wasteland), Holiday Hell, Oblique Hell, Rainbow Hell, Spear Hell Maze e Static Noise Hell",
       "checkbox": {
         "dark_cheese_hell": "Dark Cheese Hell",
         "glitch_hell": "Glitch Hell",
@@ -5064,19 +5064,19 @@
       }
     },
     "screaming_bright_forest": {
-      "name": "Scream of Despair",
-      "description": "MAKE IT STOP",
-      "condition": "Trigger the Screaming Forest event in Bright Forest"
+      "name": "Grito de Desespero",
+      "description": "FAÇA PARAR",
+      "condition": "Ative o evento Screaming Forest na Bright Forest"
     },
     "dessert_fields_sweet": {
-      "name": "Sweet Fields",
-      "description": "Talk about having sweet dreams!",
-      "condition": "Indulge in a treat in the Dessert Fields"
+      "name": "Campos Doces",
+      "description": "Isso é que é ter bons sonhos!",
+      "condition": "Delicie-se com uma guloseima nos Dessert Fields"
     },
     "shrimp_city_of_revival": {
-      "name": "Shrimp",
+      "name": "Camarão",
       "description": "YAAAAAAAAAAAAAAAAYY!!!",
-      "condition": "Trigger the Shrimp event in City of Revival"
+      "condition": "Acione o evento Shrimp em City of Revival"
     }
   },
   "unconscious": {
@@ -5655,14 +5655,14 @@
       "condition": "Obtenha o eidolon Youth. Se você já o tiver desbloqueado, volte ao parque do Surreal Zoo."
     },
     "cabin_snowy_world": {
-      "name": "Cozy Cabin",
-      "description": "Can you feel the glowing ambers?",
-      "condition": "Visit the Cabin in Snowy World"
+      "name": "Cabana Aconchegante",
+      "description": "Você consegue sentir o brilho dos âmbares?",
+      "condition": "Visite a cabana do Snowy World"
     },
     "lush_hilltop_food": {
-      "name": "Nutritious",
-      "description": "Hungry for some?",
-      "condition": "View the giant ingredients in Lush Hiltop"
+      "name": "Nutritivo",
+      "description": "Está com vontade de comer?",
+      "condition": "Veja os ingredientes gigantes no Lush Hiltop"
     }
   },
   "flow": {
@@ -7888,13 +7888,13 @@
     },
     "long_hair_wormiko": {
       "name": "Rotiko",
-      "description": "This one doesn't have anything special at a- oh nevermind.",
-      "condition": "Sit while using the Long Hair effect for too long and see what happens"
+      "description": "Este não tem nada de especial... ah, deixa pra lá.",
+      "condition": "Sente-se enquanto estiver usando o efeito Long Hair por muito tempo e veja o que acontece"
     },
     "egg_meat_world": {
-      "name": "Flaberggasted",
-      "description": "\"Did you just hit me?\"",
-      "condition": "Use the Fire Axe effect on the giant egg in Meat World"
+      "name": "Fiquei Espantado",
+      "description": "\"Você acabou de me bater?\"",
+      "condition": "Use o efeito Fire Axe no ovo gigante no Meat World"
     }
   },
   "nostalgic": {
