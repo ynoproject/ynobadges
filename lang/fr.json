@@ -129,6 +129,10 @@
       "name": "Développeur de Collective Unconscious",
       "description": "Réservé pour les développeurs de Collective Unconscious",
       "condition": "Contribuer des cartes ou des changements centraux pour Collective Unconscious"
+    },
+    "zaakarias": {
+      "name": "Frère castor",
+      "condition": "Être Zaakarias"
     }
   },
   "yume": {
@@ -438,6 +442,10 @@
       "name": "Ascenseurs farceurs",
       "description": "Un certain toit attend votre arrivée.",
       "condition": "Prendre le passage à sens unique menant de l'Underground World au Mall"
+    },
+    "crick_in_the_neck": {
+      "name": "Mauvaise nuit",
+      "condition": "Déclencher l'événement du Torticolis"
     }
   },
   "2kki": {
@@ -5082,6 +5090,53 @@
       "name": "Crevette",
       "description": "YAAAAAAAAAAAAAAAAYY !!!",
       "condition": "Déclencher l'événement de la Crevette à City of Revival"
+    },
+    "hozo": {
+      "name": "Cube magique HyperNet « effondrement du système »",
+      "description": "Un artefacte décryptant le réseau.",
+      "condition": "Marquer 2000 points à HOZO"
+    },
+    "hozo_silver": {
+      "name": "Cube magique dévoreur des mondes « noyau planétaire »",
+      "description": "Un artefacte dévorant et multipliant les pathologies.",
+      "condition": "Marquer 4000 points à HOZO"
+    },
+    "hozo_gold": {
+      "name": "Cube magique chuchotant « mille et une ailes »",
+      "description": "Un artefacte aiguisant les « spasmes » et les transformant en « chuchotements ».",
+      "condition": "Marquer 8000 points à HOZO"
+    },
+    "fisherman_victorian_drains": {
+      "name": "Pêcheur légendaire",
+      "description": "Un brave pêcheur des Victorian Drains",
+      "condition": "Interagir avec le pêcheur aux Victorian Drains"
+    },
+    "chaser_cof": {
+      "name": "Chiens louches",
+      "description": "Ils veulent juste être aimés. Est-ce trop demander ?",
+      "condition": "Interagir avec l'un des chasseurs de la tour de la City of Revival en utilisant l'effet Croisement"
+    },
+    "graveyard_master": {
+      "name": "Appelé par la Tombe",
+      "description": "Ciblez 1 rêveur dans le Cimetière de votre adversaire ; bannissez-le, et si vous le faites, jusqu'à la fin du prochain tour, ses effets sont annulés, ainsi que les effets activés et les effets sur le Terrain de monstres du même nom d'origine. ",
+      "condition": "Visiter le Graveyard World, le Dim Graveyard et le Parallel Graveyard",
+        "graveyard_world": "Graveyard World",
+        "dim_graveyard": "Dim Graveyard",
+        "parallel_graveyard": "Parallel Graveyard"
+      }
+    },
+    "serpent_sewers_e_d": {
+      "name": "Serpent secret",
+      "description": "Sa meilleure qualité : ses oscillations",
+      "condition": "Voir le serpent vert sortir de l'une des poubelles aux Égouts Gris de l'Epsilon District"
+    },
+    "goldfish_pond": {
+      "name": "Bocal à poissons paisible",
+      "condition": "Atteindre le Goldfish Pond"
+    },
+    "scarlet_corridors": {
+      "name": "Scarlet Corridors",
+      "condition": "Visiter les Scarlet Corridors"
     }
   },
   "unconscious": {
@@ -5667,7 +5722,7 @@
     "lush_hilltop_food": {
       "name": "Nutritif",
       "description": "T'en veux un bout ?",
-      "condition": "Voir les ingrédients géants au Lush Hiltop"
+      "condition": "Voir les ingrédients géants au Lush Hilltop"
     }
   },
   "flow": {
@@ -7901,6 +7956,16 @@
       "name": "Œuf baba",
       "description": "« Je rêve où tu viens de me frapper ? »",
       "condition": "Donner un coup d'Hache à incendie sur l'œuf géant du Meat World"
+    },
+    "penguin_land": {
+      "name": "Pays cristallin",
+      "description": "Y a des p'tites gemmes partout par terre !",
+      "condition": "Visiter le Penguin Land"
+    },
+    "old_apartment_building": {
+      "name": "Mosaïque érodée",
+      "description": "Ce lieu a connu de meilleurs temps dans le passé, passé qui n'est plus qu'un souvenir lointain.",
+      "condition": "Visiter l'Old Apartment Building"
     }
   },
   "nostalgic": {
