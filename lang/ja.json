@@ -5134,8 +5134,8 @@
     "graveyard_master": {
       "name": "Called by the Grave",
       "description": "Choose 1 dreamer from your opponent's Graveyard; banish it and, if this happens, until the end of the next turn, its effects are negated.",
-      "checkbox": {
       "condition": "Visit Graveyard World, Dim Graveyard, and Parallel Graveyard",
+      "checkbox": {
         "graveyard_world": "Graveyard World",
         "dim_graveyard": "Dim Graveyard",
         "parallel_graveyard": "Parallel Graveyard"
