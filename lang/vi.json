@@ -129,6 +129,11 @@
       "name": "Collective Unconscious Developer",
       "description": "Reserved for Collective Unconscious developers",
       "condition": "Contribute maps or to the core system of Collective Unconscious"
+    },
+    "zaakarias": {
+      "name": "The Beaver",
+      "description": "Goal: make an entire movie in 37x37",
+      "condition": "Be Zaakarias"
     }
   },
   "yume": {
@@ -438,6 +443,10 @@
       "name": "A Game of Broken Elevators",
       "description": "A certain rooftop awaits your arrival.",
       "condition": "Take the one-way trip from Underground World to the Mall"
+    },
+    "crick_in_the_neck": {
+      "name": "Slept Wrong",
+      "condition": "Trigger the Crick in the Neck event"
     }
   },
   "2kki": {
@@ -5078,6 +5087,54 @@
       "name": "Shrimp",
       "description": "YAAAAAAAAAAAAAAAAYY!!!",
       "condition": "Trigger the Shrimp event in City of Revival"
+    },
+    "hozo": {
+      "name": "HyperNet Magic Cube \"System Collapse\"",
+      "description": "Artifact that decodes the network.",
+      "condition": "Đạt 2000 điểm trong HOZO"
+    },
+    "hozo_silver": {
+      "name": "Eater of Worlds Magic Cube \"Planetary Core\"",
+      "description": "Artifact that devours and multiplies pathology.",
+      "condition": "Đạt 4000 điểm trong HOZO"
+    },
+    "hozo_gold": {
+      "name": "Whispering Magic Cube \"A Thousand Wings\"",
+      "description": "Artifact that sharpens the \"spasms\" and turns them into \"whispers\".",
+      "condition": "Đạt 8000 điểm trong HOZO"
+    },
+    "fisherman_victorian_drains": {
+      "name": "Legendary Fisherman",
+      "description": "A brave fisherman from the Victorian Drains",
+      "condition": "Interact with the fisherman in Victorian Drains"
+    },
+    "chaser_cof": {
+      "name": "Weird Looking Dog",
+      "description": "They just want to be loved. Is that so hard to do?",
+      "condition": "Interact with one of the chasers in City of Revival's tower while using the Railroad Crossing effect"
+    },
+    "graveyard_master": {
+      "name": "Called by the Grave",
+      "description": "Choose 1 dreamer from your opponent's Graveyard; banish it and, if this happens, until the end of the next turn, its effects are negated.",
+      "condition": "Visit Graveyard World, Dim Graveyard, and Parallel Graveyard",
+      "checkbox": {
+        "graveyard_world": "Graveyard World",
+        "dim_graveyard": "Dim Graveyard",
+        "parallel_graveyard": "Parallel Graveyard"
+      }
+    },
+    "serpent_sewers_e_d": {
+      "name": "Secret Serpent",
+      "description": "Best quality: his wiggles",
+      "condition": "See the green serpent pop out of one of the bins in the Gray Sewers of Epsilon District"
+    },
+    "goldfish_pond": {
+      "name": "Tranquil Fishbowl",
+      "condition": "Reach Goldfish Pond"
+    },
+    "scarlet_corridors": {
+      "name": "Scarlet Corridors",
+      "condition": "Visit Scarlet Corridors"
     }
   },
   "unconscious": {
@@ -5663,7 +5720,7 @@
     "lush_hilltop_food": {
       "name": "Nutritious",
       "description": "Hungry for some?",
-      "condition": "View the giant ingredients in Lush Hiltop"
+      "condition": "View the giant ingredients in Lush Hilltop"
     }
   },
   "flow": {
@@ -7883,6 +7940,16 @@
       "name": "Flaberggasted",
       "description": "\"Did you just hit me?\"",
       "condition": "Use the Fire Axe effect on the giant egg in Meat World"
+    },
+    "penguin_land": {
+      "name": "Crystalline Land",
+      "description": "Little gems everywhere!",
+      "condition": "Visit Penguin Land"
+    },
+    "old_apartment_building": {
+      "name": "Weathered Mosaic",
+      "description": "It's longing for times before abandonment, times recalled only from the remote past.",
+      "condition": "Visit Old Apartment Building"
     }
   },
   "nostalgic": {
