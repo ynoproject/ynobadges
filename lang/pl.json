@@ -312,7 +312,7 @@
     },
     "chop_chop": {
       "name": "Chop Chop!",
-      "condition": "Zawizytuj Big Guillotine World."
+      "condition": "Zwizytuj Big Guillotine World."
     },
     "witch_island_cat": {
       "name": "Pod powierzchnią",
@@ -433,7 +433,7 @@
     "mafurako_block_world": {
       "name": "Podróżnik Bloków",
       "description": "Już tutaj byliście.",
-      "condition": "Zawizytuj każde miejsce do którego Mafurako może cię przenieść w Block World"
+      "condition": "Zwizytuj każde miejsce do którego Mafurako może cię przenieść w Block World"
     },
     "desert_block_world": {
       "name": "Z Bloków do Mono",
@@ -445,8 +445,8 @@
       "condition": "Przejdź z Underground World do Mall"
     },
     "crick_in_the_neck": {
-      "name": "Slept Wrong",
-      "condition": "Trigger the Crick in the Neck event"
+      "name": "Złe spanie",
+      "condition": "Aktyruj wydarzenie Crick in the Neck "
     }
   },
   "2kki": {
@@ -547,7 +547,7 @@
     },
     "aojiru": {
       "name": "Aojiru",
-      "condition": "Zawizytuj Aojiru w Hospital"
+      "condition": "Zwizytuj Aojiru w Hospital"
     },
     "zalgo": {
       "name": "Lament Zalgo",
@@ -599,11 +599,11 @@
     },
     "fabric_planet": {
       "name": "Planeta Tkanin",
-      "condition": "Osiągnij Fabric Planet w Moonview Lane"
+      "condition": "Dojdź do Fabric Planet w Moonview Lane"
     },
     "fabric_galaxy": {
       "name": "Galaktyka Tkanin",
-      "condition": "Osiągnij Fabric Planet w Moonview Lane w {TIME} lub mniej w trybie Time Trial"
+      "condition": "Dojdź do Fabric Planet w Moonview Lane w {TIME} lub mniej w trybie Time Trial"
     },
     "monochrome_stairs_lesser": {
       "name": "Monochromatyczne Schody",
@@ -651,7 +651,7 @@
     },
     "roku": {
       "name": "Psychodeliczny Lud",
-      "condition": "Zawizytuj Underground Lake, Cliffside Woods, i Radiant Stones Pathway"
+      "condition": "Zwizytuj Underground Lake, Cliffside Woods, i Radiant Stones Pathway"
     },
     "singularity": {
       "name": "Miniaturowe Załamanie",
@@ -682,7 +682,7 @@
     },
     "vending_machine": {
       "name": "Automat",
-      "condition": "Zakończ i zawizytuj Snack Gallery"
+      "condition": "Zakończ i zwizytuj Snack Gallery"
     },
     "piggy_bank": {
       "name": "Srebrny Członek",
@@ -755,7 +755,7 @@
     },
     "book": {
       "name": "Genialny Mol Książkowy",
-      "condition": "Zawizytuj Library, Infinite Library, i Mystery Library",
+      "condition": "Zwizytuj Library, Infinite Library, i Mystery Library",
       "checkbox": {
         "library": "Library",
         "infinite_library": "Infinite Library",
@@ -764,7 +764,7 @@
     },
     "cosmic_cube": {
       "name": "Kosmiczna Kostka",
-      "condition": "Zawizytuj Cosmic Cube World"
+      "condition": "Zwizytuj Cosmic Cube World"
     },
     "firehead": {
       "name": "Ognisto-Głowa",
@@ -779,15 +779,15 @@
     "rusted_factory_lesser": {
       "name": "Zanieczyszczona Zębatka",
       "description": "Przenieś swój wzrok na sekrety Rusted Factory",
-      "condition": "Zawizytuj ostatni pokój w Rusted Factory"
+      "condition": "Zwizytuj ostatni pokój w Rusted Factory"
     },
     "rusted_factory": {
       "name": "Zkorumpowana Machineria",
-      "condition": "Zawizytuj ostatni pokój Rusted Factory w {TIME} lub mniej w trybie Time Trial"
+      "condition": "Zwizytuj ostatni pokój Rusted Factory w {TIME} lub mniej w trybie Time Trial"
     },
     "sea_lily": {
       "name": "Tęczowa Lilia Morska",
-      "condition": "Zawizytuj Sea Lily World"
+      "condition": "Zwizytuj Sea Lily World"
     },
     "noranyan": {
       "name": "Noranyan",
@@ -796,7 +796,7 @@
     },
     "cheese": {
       "name": "Mieszkańcy Serowego Domu",
-      "condition": "Zawizytuj Serowy Dom w Toy World"
+      "condition": "Zwizytuj Serowy Dom w Toy World"
     },
     "heart_jar": {
       "name": "Delikatna Miłość",
@@ -804,7 +804,7 @@
     },
     "flooded_garden": {
       "name": "Zalany Ogród",
-      "condition": "Osiągnij Floral Vortex w Flooded Dungeon"
+      "condition": "Dotrzyj do Floral Vortex w Flooded Dungeon"
     },
     "biplane": {
       "name": "Samolot",
@@ -817,7 +817,7 @@
     },
     "grass_world": {
       "name": "Świat Kiełków",
-      "condition": "Osiągnij Sprout World"
+      "condition": "Dojdź do Sprout World"
     },
     "flame_of_faith": {
       "name": "Płomień Wiary",
@@ -835,7 +835,7 @@
     "data_stream": {
       "name": "Cyfrowy Klon",
       "description": "Wygląda znajomo...",
-      "condition": "Zawizytuj Data Stream"
+      "condition": "Zwizytuj Data Stream"
     },
     "evil_jihanki": {
       "name": "Mechaniczna Kradzierz",
@@ -843,51 +843,51 @@
       "condition": "Zostań oszukany przez maszynę w Mushroom World"
     },
     "crown_of_spirits": {
-      "name": "Crown of Spirits",
-      "condition": "Enter the room at the end of the Spirit Capital highway"
+      "name": "Korona Duchów",
+      "condition": "Dojdź do pokoju na końcu autostrady w Spirit Capital"
     },
     "drunk": {
       "name": "Masutaa",
-      "description": "Don't you think you've had a bit much to drink?",
-      "condition": "Get drunk and pass out at The Underground Bar in Japan Town"
+      "description": "Czy nie myślisz że trochę za dużo się napiłeś?",
+      "condition": "Opij się i utrać przytomność w The Underground Bar w Japan Town"
     },
     "paradise": {
-      "name": "Paradise",
-      "description": "Whale hello there.",
-      "condition": "Enter Paradise"
+      "name": "Raj",
+      "description": "Witaj wielorybie.",
+      "condition": "Dotrzyj do Paradise"
     },
     "effects_speedrun": {
-      "name": "I have work in 1 hour but I want to beat 2kki!",
-      "condition": "Wake up with all effects dropped in {TIME} or less in Time Trial Mode"
+      "name": "Mam pracę za godzinę ale chcę skończyć 2kki!",
+      "condition": "Obudź się ze wszystkimi efektami upuszczonymi w {TIME} lub mniej w trybie Time Trial"
     },
     "sweets_musume": {
-      "name": "Sweeets?!",
-      "condition": "Interact with Sweets Musume while using the Cake effect"
+      "name": "Słodkości?!",
+      "condition": "Zainicjuj interakcję z Sweets Musume podczas używania efektu Tortu"
     },
     "smile": {
-      "name": "Smiling World",
-      "description": "Turn that frown upside-down!",
-      "condition": "Enter the house in Smiling Trees World"
+      "name": "Świat Uśmiechów",
+      "description": "Odwróć ten smutek!",
+      "condition": "Wejdź do domu w Smiling Trees World"
     },
     "glitch_road": {
-      "name": "Corrupted Road",
-      "condition": "Reach the end of the NES Glitch Tunnel"
+      "name": "Zkorumpowana Droga",
+      "condition": "Dojdź do końca NES Glitch Tunnel"
     },
     "freezer": {
-      "name": "Freezer Burn",
-      "condition": "Enter the Freezer in the Refrigerator Tower"
+      "name": "Zamrażające",
+      "condition": "Wejdź do zamrażarki w Refrigerator Tower"
     },
     "hydrangea_skull": {
-      "name": "Hydrangea Skull",
-      "condition": "Using the Glasses or Grave effect, see the ghostly inhabitants of the Ancient Hydrangea City"
+      "name": "Czaszka Hydrangea",
+      "condition": "Używając efektu Okularów lub Grobu, zobacz duchy mieszkańców Ancient Hydrangea City"
     },
     "originator_garden": {
-      "name": "Myths and Origins",
-      "condition": "Enter the main area of the Originator Garden"
+      "name": "Mity i Pochodzenie",
+      "condition": "Dotrzyj do głównego obszaru Originator Garden"
     },
     "bsides": {
-      "name": "B-Sides",
-      "condition": "Visit Downfall Garden B, Sparkling Dimension B, Opal Ruins B, and Fuchsia Suburbs B",
+      "name": "Odwroty",
+      "condition": "Zwizytuj Downfall Garden B, Sparkling Dimension B, Opal Ruins B, i Fuchsia Suburbs B",
       "checkbox": {
         "downfall_garden_b": "Downfall Garden B",
         "sparkling_dimension_b": "Sparkling Dimension B",
