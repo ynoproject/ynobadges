@@ -5139,6 +5139,35 @@
     "scarlet_corridors": {
       "name": "Scarlet Corridors",
       "condition": "Visiter les Scarlet Corridors"
+    },
+    "drink_bench": {
+      "name": "Pause rafraîchissante",
+      "description": "La vue devient plus plaisante une fois combinée avec le goût sucré d'un soda",
+      "condition": "Acheter un soda du distributeur automatique et le boire sur le banc à Forest Pier et sur le balcon du Travel Hotel",
+      "checkbox": {
+        "drink_forest_pier": "Forest Pier",
+        "drink_travel_hotel": "balcon du Travel Hotel"
+      }
+    },
+    "antiquated_h_v_promenade": {
+      "name": "Auberge abandonnée",
+      "description": "Souvenirs d'un amour désormais oublié",
+      "condition": "Atteindre l'Auberge Antique à la Verdant Promenade"
+    },
+    "grayscale_books": {
+      "name": "Pages magiques",
+      "description": "La littérature onirique",
+      "condition": "Lire tous les livres aux Grayscale Bookshelves"
+    },
+    "arc_de_pillar_world": {
+      "name": "Arc de pillier",
+      "description": "Le symbole du triomphe",
+      "condition": "Visiter Arc de Pillar World"
+    },
+    "boss_dream_tropics": {
+      "name": "Dangers et donjons",
+      "description": "Partons à l'aventure !",
+      "condition": "Vaincre le boss du donjon aux Dream Tropics"
     }
   },
   "unconscious": {
@@ -5725,6 +5754,15 @@
       "name": "Nutritif",
       "description": "T'en veux un bout ?",
       "condition": "Voir les ingrédients géants au Lush Hilltop"
+    },
+    "streetlight_rnw_crossing": {
+      "name": "Lumières vives et danses",
+      "condition": "Interagir avec le feu de circulation sur pattes à Runway Crossing"
+    },
+    "neon_star_hall": {
+      "name": "Scintillement néon",
+      "description": "Des constellations colorées dans des hexagones.",
+      "condition": "Visiter le Neon Star Hall"
     }
   },
   "flow": {
@@ -6383,6 +6421,11 @@
       "name": "Thalassophobie",
       "description": "Elle ne veut pas en parler...",
       "condition": "Entrer dans la salle du cristal bleu au Dance Flood"
+    },
+    "meta_nexus_all": {
+      "name": "Connexion Onirique",
+      "description": "Qui sont-ils ?",
+      "condition": "Visiter toutes les chambres des rêveurs au Meta-Nexus"
     }
   },
   "unevendream": {
