@@ -5134,6 +5134,35 @@
     "scarlet_corridors": {
       "name": "Scarlet Corridors",
       "condition": "Visit Scarlet Corridors"
+    },
+    "drink_bench": {
+      "name": "Refreshing Pause",
+      "description": "The view becomes more pleasant when you combine it with the sweet taste of soda",
+      "condition": "Buy a soda from the vending machine and drink it on the bench in Forest Pier and on Travel Hotel's balcony",
+      "checkbox": {
+        "drink_forest_pier": "Forest Pier",
+        "drink_travel_hotel": "Travel Hotel's balcony"
+      }
+    },
+    "antiquated_h_v_promenade": {
+      "name": "Abandoned Resthouse",
+      "description": "Memories of a now forgotten love",
+      "condition": "Reach the Antiquated Resthouse in Verdant Promenade"
+    },
+    "grayscale_books": {
+      "name": "Magic Pages",
+      "description": "The literature of dreams",
+      "condition": "Read all of the books in Grayscale Bookshelves"
+    },
+    "arc_de_pillar_world": {
+      "name": "Arc de Pilier",
+      "description": "The symbol of triumph",
+      "condition": "Visit Arc de Pillar World"
+    },
+    "boss_dream_tropics": {
+      "name": "Dungeons and Dreamers",
+      "description": "Let's go on an adventure!",
+      "condition": "Defeat the boss in the dungeon in Dream Tropics"
     }
   },
   "unconscious": {
@@ -5637,7 +5666,7 @@
       "condition": "Visit Glass Cathedral"
     },
     "clock_loading_zone": {
-      "name": "Dance of the Clock Hands",
+      "name": "Endless Load",
       "description": "Perhaps this clock wasn't a mere loading screen, but the main attraction.",
       "condition": "View the Clock event in Loading Zone"
     },
@@ -5720,6 +5749,15 @@
       "name": "Nutritious",
       "description": "Hungry for some?",
       "condition": "View the giant ingredients in Lush Hilltop"
+    },
+    "streetlight_rnw_crossing": {
+      "name": "Bright Lights and Dances",
+      "condition": "Interact with the walking streetlight in Runway Crossing"
+    },
+    "neon_star_hall": {
+      "name": "Neon Twinkle",
+      "description": "Colorful constellations inside hexagons.",
+      "condition": "Visit Neon Star Hall"
     }
   },
   "flow": {
@@ -6378,6 +6416,11 @@
       "name": "Thalassophobia",
       "description": "She doesn't want to talk about it...",
       "condition": "Enter the blue crystal room in Dance Flood"
+    },
+    "meta_nexus_all": {
+      "name": "Dream Connection",
+      "description": "Who are they?",
+      "condition": "Visit all of the dreamers' rooms in the Meta-Nexus"
     }
   },
   "unevendream": {
