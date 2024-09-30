@@ -8197,5 +8197,66 @@
       "description": "もっとはっきり見せて...",
       "condition": "ジュースの海で血の付いたストローを調べる"
     }
+  },
+  "if": {
+    "osoro_isolated_house": {
+      "name": "Matching Silver",
+      "description": "Just like me!",
+      "condition": "Equip the Matching effect in the Isolated House and see Osoro's interaction"
+    },
+    "naginata_digital_brain_maze": {
+      "name": "Digital Headache",
+      "description": "Or maybe it isn't just the head that hurts...",
+      "condition": "Interact with the crucified human in the middle of the Digital Brain Maze with the Naginata effect"
+    },
+    "starry_sky_japanese_castle": {
+      "name": "Moonlit Castle",
+      "condition": "Reach the starry sky area in the Japanese Castle"
+    },
+    "sixteen_zerothree": {
+      "name": "16:03",
+      "description": "16:03 16:03 16:03 16:03 16:03 16:03 16:03 16:03 16:03",
+      "condition": "Trigger the 16:03 event in Flashing Waveform Maze"
+    },
+    "mechanical_animal_world": {
+      "name": "Do Androids Dream of Electric Sheep?",
+      "description": "Or they're just counting electric sheep to fall asleep.",
+      "condition": "Visit Mechanical Animal World"
+    },
+    "if_twins_effect": {
+      "name": "Interactive Fiction",
+      "description": "Through a maze of twisty little passages, you find a lookalike.",
+      "condition": "Obtain the Twins effect. If you have already unlocked it, return in front of the twins mural in Digital Brain Maze."
+    },
+    "candy_shoal": {
+      "name": "Resonant Cube",
+      "description": "Tune the cube",
+      "condition": "Visit all of the Magicant versions"
+    },
+    "if_ending_1": {
+      "name": "What is this?",
+      "description": "And again, and again, and again...",
+      "condition": "See the Ending #1"
+    },
+    "shimitsuki_nexus_doors": {
+      "name": "Error-stained Notebook",
+      "description": "Your head also has a few stray errors",
+      "condition": "Unlock all of the doors in Shimitsuki's Nexus"
+    },
+    "rakugaki_hologram_space": {
+      "name": "Rakugaki",
+      "description": "Blink and you will miss him",
+      "condition": "Encounter Rakugaki in the Back Alley of Hologram Space"
+    },
+    "heart_magenta_roads": {
+      "name": "Greedy Heart",
+      "description": "Not enough.",
+      "condition": "Interact with the Heart Sculpture in Magenta Roads"
+    },
+    "doppelganger_train_station": {
+      "name": "Pensive Doppelgänger",
+      "description": "10st 0n the rai1ways 0f 1**e",
+      "condition": "See your other self at the Train Station"
+    }
   }
 }

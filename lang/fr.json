@@ -8182,5 +8182,66 @@
       "description": "Y a-t-il des géants pour boire avec de telles pailles ?",
       "condition": "Interagir avec la paille ensanglantée au Juice Sea"
     }
+  },
+  "if": {
+    "osoro_isolated_house": {
+      "name": "Correspondance argentée",
+      "description": "Tout comme moi !",
+      "condition": "Équiper l'effet Matching dans l'Isolated House et voir l'interaction avec Osoro"
+    },
+    "naginata_digital_brain_maze": {
+      "name": "Mal de crâne digital",
+      "description": "Ou peut-être que ce n'est pas que la tête qui fait mal...",
+      "condition": "Interagir avec l'humain crucifié au milieu du Digital Brain Maze avec l'effet Naginata"
+    },
+    "starry_sky_japanese_castle": {
+      "name": "Château clair de lune",
+      "condition": "Atteindre la zone de ciel étoilé au Japanese Castle"
+    },
+    "sixteen_zerothree": {
+      "name": "16:03",
+      "description": "16:03 16:03 16:03 16:03 16:03 16:03 16:03 16:03 16:03",
+      "condition": "Déclencher l'événement 16:03 au Flashing Waveform Maze"
+    },
+    "mechanical_animal_world": {
+      "name": "Est-ce que les androïdes rêvent de moutons électriques ?",
+      "description": "... Ou est-ce qu'ils comptent juste des moutons électriques pour s'endormir ?",
+      "condition": "Visiter le Mechanical Animal World"
+    },
+    "if_twins_effect": {
+      "name": "Fiction interactive",
+      "description": "À travers un labyrinthe de petits passages se tortillant, vous trouvez un sosie.",
+      "condition": "Obtenir l'effet Twins. Si vous l'avez déjà obtenu, retournez en face de la fresque des jumelles au Digital Brain Maze."
+    },
+    "candy_shoal": {
+      "name": "Cube à la mode",
+      "description": "Cube personnalisable magique",
+      "condition": "Visiter toutes les versions de Magicant"
+    },
+    "if_ending_1": {
+      "name": "Qu'est-ce que c'est que ça ?",
+      "description": "Et encore, et encore, et encore...",
+      "condition": "Voir la fin #1"
+    },
+    "shimitsuki_nexus_doors": {
+      "name": "Carnet teinté d'erreurs",
+      "description": "Ta tête aussi a quelques erreurs d'arrondissement",
+      "condition": "Débloquer toutes les portes au Shimitsuki's Nexus"
+    },
+    "rakugaki_hologram_space": {
+      "name": "Rakugaki",
+      "description": "Telle la brise du matin, en un clin d'œil, le voilà venu, en un clin d'œil, le voilà reparti",
+      "condition": "Rencontrer Rakugaki dans la Ruelle de l'Hologram Space"
+    },
+    "heart_magenta_roads": {
+      "name": "Cœur radin",
+      "description": "Toujours pas assez.",
+      "condition": "Interagir avec la sculpture en forme de cœur aux Magenta Roads"
+    },
+    "doppelganger_train_station": {
+      "name": "Sosie pensive",
+      "description": "₽€ʀ₫ʋ€ $ʋʀ |€$ ʀ*1|$ d€ |* ʌ1€",
+      "condition": "Voir l'autre toi à la Train Station"
+    }
   }
 }
