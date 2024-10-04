@@ -447,6 +447,11 @@
     "crick_in_the_neck": {
       "name": "Złe spanie",
       "condition": "Aktyruj wydarzenie Crick in the Neck "
+    },
+    "stoplight_effect": {
+      "name": "A Normal Corpse",
+      "description": "How long has this been here...?",
+      "condition": "Obtain the Stoplight effect. If you have already unlocked it, return at the end of the Road."
     }
   },
   "2kki": {
@@ -1705,19 +1710,19 @@
     "urotsuki_pendant": {
       "name": "Pendant of Memories",
       "description": "\"I\" am here.",
-      "condition": "Encounter Urotsuki or find terrain similar to her in Atlantis, Tapir-San's Place, Giant Cloning Room, Urotsuki's Dream Apartments, Closet Pinwheel Path, Red Sky Cliff, Despair Road, Head World, Static Noise Hell, Colorless Valley, and Spear Tribe World",
+      "condition": "Encounter Urotsuki or find terrain similar to her in Atlantis, Tapir-San's Place, Red Brick Maze (Giant Cloning Room), Urotsuki's Dream Apartments (Bleak Future), Closet Pinwheel Path, Red Sky Cliff, Despair Road, Head World, Static Noise Hell, Colorless Valley, and Spear Tribe World (Overgrown Stone Area)",
       "checkbox": {
         "uro_atlantis": "Atlantis",
         "uro_tapir_place": "Tapir-San's Place",
-        "uro_cloning_room": "Giant Cloning Room",
-        "uro_bleak_future": "Urotsuki's Dream Apartments",
+        "uro_cloning_room": "Red Brick Maze (Giant Cloning Room)",
+        "uro_bleak_future": "Urotsuki's Dream Apartments (Bleak Future)",
         "uro_pinwheel_path": "Closet Pinwheel Path",
         "uro_red_sky_cliff": "Red Sky Cliff",
         "uro_despair_road": "Despair Road",
         "uro_killed_head": "Head World",
         "uro_static_noise_hell": "Static Noise Hell",
         "uro_colorless_valley": "Colorless Valley",
-        "uro_spear_tribe_world": "Spear Tribe World"
+        "uro_spear_tribe_world": "Spear Tribe World (Overgrown Stone Area)"
       }
     },
     "blossoming_brooch": {
@@ -5208,6 +5213,39 @@
       "name": "Trapped Souls",
       "description": "Wonder if they might need a hand or two",
       "condition": "Enter the Blue Hand Passage in Faraway Forest"
+    },
+    "faucet_marsh_shallows": {
+      "name": "Squeezed to a Pulp",
+      "condition": "Get pressed in the faucet of Marshmallow Shallows"
+    },
+    "shimakorpse_r_apartments": {
+      "name": "Body in the Stairwell",
+      "condition": "Find Shimako's corpse in the Rainy Appartments stairway"
+    },
+    "nurie_library": {
+      "name": "N̓͌̈U͊ͮͪR̈́̏ͤI̾̉ͩ҉҉̸͟͠E͌ͥ͊",
+      "description": "YNAWPA SEPD IA",
+      "condition": "Witness the Nurie event in the Library"
+    },
+    "giant_cat_port_city": {
+      "name": "Feline Appeasement",
+      "description": "Don't wake the kitty from its endless catnap.",
+      "condition": "Find the giant cat in Port City"
+    },
+    "menu_19_2kki_choco": {
+      "name": "Exquisite Reward",
+      "description": "Surrender to the endless waves of chocolate.",
+      "condition": "Obtain the menu type 19. If you have already unlocked it, return in Chocolate World."
+    },
+    "midenwa_binding_site": {
+      "name": "Become One with the Phone... Again",
+      "description": "Is one Telephone effect not enough for you?",
+      "condition": "Equip the green telephone mask in Binding Site"
+    },
+    "race_unfamiliar_city": {
+      "name": "Urotsuki Bike Championship",
+      "description": "Dreamers don't build their own houses and bridges, do they?",
+      "condition": "Attempt and finish the race in Unfamiliar City"
     }
   },
   "unconscious": {
@@ -5449,7 +5487,7 @@
     "krarav_arch_apartments": {
       "name": "Caught Red-Handed",
       "description": "And red bodied I guess...",
-      "condition": "Get caught by Krarav after peeking into her room in the Arch Apartments"
+      "condition": "Get caught by Krarav after peeking into his room in the Arch Apartments"
     },
     "dopefish_uwat_pipes": {
       "name": "One Dopey Fish",
@@ -5813,6 +5851,16 @@
       "name": "Blue Lock",
       "description": "No one goes beyond this.",
       "condition": "Make one of the lockers near the pool glow blue in Tile Complex"
+    },
+    "roof_tub": {
+      "name": "Sunset Waves",
+      "description": "The colors of the sky reflected in the waters, and the water overflows off the roof.",
+      "condition": "Visit Roof Tub"
+    },
+    "crystal_access_main": {
+      "name": "Crystalline Void",
+      "description": "Crystals that shine like stars on stars that shine like crystals",
+      "condition": "Visit the main part of Crystal Access"
     }
   },
   "flow": {
@@ -8219,6 +8267,15 @@
       "name": "Pensive Doppelgänger",
       "description": "10st 0n the rai1ways 0f 1**e",
       "condition": "See your other self at the Train Station"
+    },
+    "eclipse_lycoris_world": {
+      "name": "Black Hole Sun",
+      "condition": "See the Eclipse in Lycoris World"
+    },
+    "squirrel_iffect": {
+      "name": "Adorable Squirrel!",
+      "description": "Look at me, I'm a squirrel!",
+      "condition": "Obtain the Squirrel effect. If you have already unlocked it, return in the main area of Magenta Roads."
     }
   }
 }
