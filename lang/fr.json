@@ -447,6 +447,11 @@
     "crick_in_the_neck": {
       "name": "Mauvaise nuit",
       "condition": "Déclencher l'événement du Torticolis"
+    },
+    "stoplight_effect": {
+      "name": "Un cadavre banal",
+      "description": "Ça fait depuis combien de temps qu'il traîne ici... ?",
+      "condition": "Obtenir l'effet Feu de circulation. Si vous l'avez déjà obtenu, retournez à la fin de la Road."
     }
   },
   "2kki": {
@@ -1613,8 +1618,8 @@
     },
     "master_crow": {
       "name": "Maître Corbeau sur un grillage perché",
-      "description": "...admirait le ciel étoilé",
-      "condition": "Visiter les Sunset Rooftops dans le Rock World"
+      "description": "... admirait le ciel étoilé",
+      "condition": "Visiter le Toit Crépusculaire au Rock World"
     },
     "rotten_truth": {
       "name": "Vérité pourrie",
@@ -5217,6 +5222,39 @@
       "name": "Âmes piégées",
       "description": "Je me demande si ils auraient pas besoin d'une main ou deux",
       "condition": "Entrer dans le Passage des Mains Bleus Faraway Forest"
+    },
+    "faucet_marsh_shallows": {
+      "name": "Pressée jusqu'à la dernière goutte",
+      "condition": "Se faire avaler par le robinet des Marshmallow Shallows"
+    },
+    "shimakorpse_r_apartments": {
+      "name": "Corps de la cage d'escalier",
+      "condition": "Trouver le cadavre de Shimako dans la cage d'escalier des Rainy Appartments"
+    },
+    "nurie_library": {
+      "name": "N̓͌̈U͊ͮͪR̈́̏ͤI̾̉ͩ҉҉̸͟͠E͌ͥ͊",
+      "description": "YNAWPA SEPD IA",
+      "condition": "Déclencher l'événement Nurie à la Library"
+    },
+    "giant_cat_port_city": {
+      "name": "Apaisement félin",
+      "description": "Ne réveille pas le chaton de sa chieste !",
+      "condition": "Trouver le chat géant à Port City"
+    },
+    "menu_19_2kki_choco": {
+      "name": "Délicieuse récompense",
+      "description": "Rien ne peut résister aux vagues infinies de chocolat.",
+      "condition": "Obtenir le style de menu 19. Si vous l'avez déjà obtenu, retournez au Chocolate World."
+    },
+    "midenwa_binding_site": {
+      "name": "Devenir un avec le téléphone... une fois de plus",
+      "description": "C'est pas assez pour toi, un effet Téléphone ?",
+      "condition": "Équiper le masque téléphone vert au Binding Site"
+    },
+    "race_unfamiliar_city": {
+      "name": "Le grand prix d'Urotsuki",
+      "description": "Les rêveurs ne construisent pas eux-mêmes leur maison et leurs ponts, pas vrai ?",
+      "condition": "Essayer et finir la course dans l'Unfamiliar City"
     }
   },
   "unconscious": {
@@ -5822,6 +5860,16 @@
       "name": "Casier à la lueur bleue",
       "description": "Personne ne peut aller au-delà de ça.",
       "condition": "Faire sortir une lumière bleue de l'un des casiers à côté de la piscine au Tile Complex"
+    },
+    "roof_tub": {
+      "name": "Vagues crépusculaires",
+      "description": "Les couleurs du ciel sont reflétées dans l'eau, et l'eau se déverse depuis le toit.",
+      "condition": "Visiter le Roof Tub"
+    },
+    "crystal_access_main": {
+      "name": "Vide cristallin",
+      "description": "Des cristaux brillant comme des étoiles sur des étoiles brillant comme des cristaux",
+      "condition": "Visiter la partie principale de Crystal Access"
     }
   },
   "flow": {
@@ -8242,6 +8290,15 @@
       "name": "Sosie pensive",
       "description": "₽€ʀ₫ʋ€ $ʋʀ |€$ ʀ*1|$ d€ |* ʌ1€",
       "condition": "Voir l'autre toi à la Train Station"
+    },
+    "eclipse_lycoris_world": {
+      "name": "Soleil trou noir",
+      "condition": "Voir l'Éclipse au Lycoris World"
+    },
+    "squirrel_iffect": {
+      "name": "Adorable écureuille !",
+      "description": "Regardez-moi, je suis une écureuille !",
+      "condition": "Obtenir l'effet Squirrel. Si vous l'avez déjà obtenu, retournez dans la zone principale des Magenta Roads."
     }
   }
 }
