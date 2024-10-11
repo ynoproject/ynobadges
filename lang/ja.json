@@ -459,9 +459,9 @@
       "condition": "寝違えイベントを見る"
     },
     "stoplight_effect": {
-      "name": "A Normal Corpse",
-      "description": "How long has this been here...?",
-      "condition": "Obtain the Stoplight effect. If you have already unlocked it, return at the end of the Road."
+      "name": "ごく普通の死体",
+      "description": "いつからここにあるんだろう……？",
+      "condition": "しんごうエフェクトを入手する、すでに入手している場合は、もう一度樹海（道路側）に行く"
     }
   },
   "2kki": {
@@ -5921,14 +5921,14 @@
       "condition": "タイル施設でプールの近くにあるロッカーを青く光らせる"
     },
     "roof_tub": {
-      "name": "Sunset Waves",
-      "description": "The colors of the sky reflected in the waters, and the water overflows off the roof.",
-      "condition": "Visit Roof Tub"
+      "name": "夕暮れの波",
+      "description": "水面に映る空の色、屋上から零れ落ちる水。",
+      "condition": "屋上プールに到達する"
     },
     "crystal_access_main": {
-      "name": "Crystalline Void",
-      "description": "Crystals that shine like stars on stars that shine like crystals",
-      "condition": "Visit the main part of Crystal Access"
+      "name": "空虚の結晶",
+      "description": "クリスタルのように輝く星の上で星のように輝くクリスタル",
+      "condition": "クリスタル宇宙のメインエリアに到達する"
     },
     "abyssal_bleu": {
       "name": "Abyssal Giant",
@@ -8386,10 +8386,13 @@
       "condition": "Train Stationでもう一人の自分を見る"
     },
     "eclipse_lycoris_world": {
-      "name": "Black Hole Sun",
-      "condition": "See the Eclipse in Lycoris World"
+      "name": "ブラック・ホール・サン",
+      "condition": "Lycoris Worldで日食を見る"
     },
     "squirrel_iffect": {
+      "name": "可愛らしいりす！",
+      "description": "見て、ぼくはりすだよ！",
+      "condition": "りすエフェクトを入手する、すでに入手している場合は、もう一度Magenta Roadsのメインエリアに行く"
       "name": "Adorable Squirrel!",
       "description": "Look at me, I'm a squirrel!",
       "condition": "Obtain the Squirrel effect. If you have already unlocked it, return in the main area of Magenta Roads."
