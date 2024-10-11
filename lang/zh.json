@@ -447,6 +447,11 @@
     "crick_in_the_neck": {
       "name": "Slept Wrong",
       "condition": "Trigger the Crick in the Neck event"
+    },
+    "stoplight_effect": {
+      "name": "A Normal Corpse",
+      "description": "How long has this been here...?",
+      "condition": "Obtain the Stoplight effect. If you have already unlocked it, return at the end of the Road."
     }
   },
   "2kki": {
@@ -4941,12 +4946,12 @@
       "condition": "在高塔上眺望荒漠"
     },
     "2kki_wolf_effect": {
-      "name": "Beach Wolf",
+      "name": "The Scarlet Howl",
       "description": "Howling at the sea",
       "condition": "调查White Beach的狼男孩Ookami"
     },
     "the_assistant": {
-      "name": "Control Panel",
+      "name": "The Stubborness",
       "description": "Don't touch the buttons",
       "condition": "使潜水艇外壳变得透明"
     },
@@ -5238,6 +5243,74 @@
       "name": "Trapped Souls",
       "description": "Wonder if they might need a hand or two",
       "condition": "Enter the Blue Hand Passage in Faraway Forest"
+    },
+    "faucet_marsh_shallows": {
+      "name": "Squeezed to a Pulp",
+      "condition": "Get pressed in the faucet of Marshmallow Shallows"
+    },
+    "shimakorpse_r_apartments": {
+      "name": "Body in the Stairwell",
+      "condition": "Find Shimako's corpse in the Rainy Appartments stairway"
+    },
+    "nurie_library": {
+      "name": "N̓͌̈U͊ͮͪR̈́̏ͤI̾̉ͩ҉҉̸͟͠E͌ͥ͊",
+      "description": "YNAWPA SEPD IA",
+      "condition": "Witness the Nurie event in the Library"
+    },
+    "giant_cat_port_city": {
+      "name": "Feline Appeasement",
+      "description": "Don't wake the kitty from its endless catnap.",
+      "condition": "Find the giant cat in Port City"
+    },
+    "menu_19_2kki_choco": {
+      "name": "Exquisite Reward",
+      "description": "Surrender to the endless waves of chocolate.",
+      "condition": "Obtain the menu type 19. If you have already unlocked it, return in Chocolate World."
+    },
+    "midenwa_binding_site": {
+      "name": "Become One with the Phone... Again",
+      "description": "Is one Telephone effect not enough for you?",
+      "condition": "Equip the green telephone mask in Binding Site"
+    },
+    "race_unfamiliar_city": {
+      "name": "Urotsuki Bike Championship",
+      "description": "Dreamers don't build their own houses and bridges, do they?",
+      "condition": "Attempt and finish the race in Unfamiliar City"
+    },
+    "creature_s_p_2_world": {
+      "name": "Lost in the Bole",
+      "description": "Admit it, you missed me.",
+      "condition": "Find the creature in the Sepia Passage of Strange Plants World"
+    },
+    "witch_c_aureate_clock": {
+      "name": "Aureate Witch",
+      "description": "Glimmering festival of sketches",
+      "condition": "Visit the Witch's Carnevale in Aureate Clockworks"
+    },
+    "hamster_h_game_pond": {
+      "name": "Pet Mummy",
+      "description": "It is recommended to have at least one roll of toilet paper per hamster!",
+      "condition": "Visit the Hamster Wheel House in Handheld Game Pond"
+    },
+    "inhabitant_snowy_apartments": {
+      "name": "Little Twin Flakes",
+      "description": "119 119 121 121",
+      "condition": "Interact with any snowy inhabitant in Snowy Apartments"
+    },
+    "snowy_apartments": {
+      "name": "Snow Home",
+      "description": "The island is a windmill, taking your dreams through the air.",
+      "condition": "Visit Snowy Apartments"
+    },
+    "haniwa_m_burgundy_flats": {
+      "name": "Sorrowful Night",
+      "description": "Under moon's soft gaze, I call your name to the stars, but only night hears.",
+      "condition": "Interact with Haniwa-musume in Burgundy Flats"
+    },
+    "corrupted_nexus_nexus": {
+      "name": "Corrupted Nexus",
+      "description": "Can you call this luck?",
+      "condition": "Complete the Corrupted Nexus event. If you have already seen it, return in The Nexus."
     }
   },
   "unconscious": {
@@ -5508,6 +5581,15 @@
     "unconscious_heart_1": {
       "name": "图腾之心",
       "condition": "从自贩机中获得100点❤ (通过到达门世界的巨大自贩机来获得此徽章)"
+    },
+    "unconscious_heart_2": {
+      "name": "Heart of the Snacks",
+      "condition": "从自贩机中获得500点❤ (通过到达门世界的巨大自贩机来获得此徽章)"
+    },
+    "unconscious_heart_3": {
+      "name": "Heart of the Soulfire",
+      "description": "All souls devoured by flames",
+      "condition": "从自贩机中获得999点❤ (通过到达门世界的巨大自贩机来获得此徽章)"
     },
     "girl_formless_garden": {
       "name": "无形少女",
@@ -5843,6 +5925,41 @@
       "name": "Blue Lock",
       "description": "No one goes beyond this.",
       "condition": "Make one of the lockers near the pool glow blue in Tile Complex"
+    },
+    "roof_tub": {
+      "name": "Sunset Waves",
+      "description": "The colors of the sky reflected in the waters, and the water overflows off the roof.",
+      "condition": "Visit Roof Tub"
+    },
+    "crystal_access_main": {
+      "name": "Crystalline Void",
+      "description": "Crystals that shine like stars on stars that shine like crystals",
+      "condition": "Visit the main part of Crystal Access"
+    },
+    "abyssal_bleu": {
+      "name": "Abyssal Giant",
+      "description": "Even in the depths, beauty can still be found",
+      "condition": "Visit Abyssal Bleu"
+    },
+    "urbia_biggest_hit": {
+      "name": "Should have looked up when crossing the road...",
+      "description": "I demand 10BP for damage!",
+      "condition": "Get hit by the swinging car in Urbia, or return where it was if you already got hit"
+    },
+    "angel_scarlet_river": {
+      "name": "Scarlet Tears",
+      "description": "I cry when angels deserve to die.",
+      "condition": "Find the weeping angel statue in Scarlet River"
+    },
+    "watcher_primeval_edifice": {
+      "name": "The Ceaseless Watcher",
+      "description": "To you who watches...",
+      "condition": "See the huge creature looking over the waters of Primeval Edifice"
+    },
+    "picnic_seaside_city": {
+      "name": "Rainy Picnic",
+      "description": "You can hear the sea brushing the shore, and the rain tapping on the cold, wet concrete. The sky is covered with thousands of blinking stars.",
+      "condition": "Reach the picnic in Seaside City"
     }
   },
   "flow": {
@@ -6763,6 +6880,11 @@
     "balloon_festival_ballons": {
       "name": "Free Balloon Day",
       "condition": "Collect all three balloons in Balloon Festival"
+    },
+    "sky_the_foundry": {
+      "name": "Reach for the Stars",
+      "description": "Even in hell you can look up to the sky",
+      "condition": "Look up to the sky in The Foundry"
     }
   },
   "braingirl": {
@@ -7929,6 +8051,11 @@
       "name": "Curse Cycle",
       "description": "Always repeat yourself.",
       "condition": "Trigger the Incomprehensible event in Gloomy Wetlands"
+    },
+    "meteorite_cave_winter_hills": {
+      "name": "Just Relaxing",
+      "description": "\"Care for any marshmallows? I can toss one for you if you want.\"",
+      "condition": "Find the camper in the Meteorite Cave of Winter Hills"
     }
   },
   "tsushin": {
@@ -8263,6 +8390,25 @@
       "name": "Pensive Doppelgänger",
       "description": "10st 0n the rai1ways 0f 1**e",
       "condition": "See your other self at the Train Station"
+    },
+    "eclipse_lycoris_world": {
+      "name": "Black Hole Sun",
+      "condition": "See the Eclipse in Lycoris World"
+    },
+    "squirrel_iffect": {
+      "name": "Adorable Squirrel!",
+      "description": "Look at me, I'm a squirrel!",
+      "condition": "Obtain the Squirrel effect. If you have already unlocked it, return in the main area of Magenta Roads."
+    },
+    "emperor_japanese_castle": {
+      "name": "Counterattack!!",
+      "description": "Acts of treason are punishable even in dreams.",
+      "condition": "Attempt to attack the emperor with the Naginata effect in the Japanese Castle"
+    },
+    "shimitsuki_magicant": {
+      "name": "Worlds Collide",
+      "description": "I really stand out here.",
+      "condition": "Visit all of the rooms filled with little Shimitsuki in Magicant"
     }
   }
 }
