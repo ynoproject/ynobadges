@@ -4925,12 +4925,12 @@
       "condition": "Voir les terres désertées depuis l'une des tours"
     },
     "2kki_wolf_effect": {
-      "name": "Loup de mer",
+      "name": "L'hurlement écarlate",
       "description": "Hurlant à la mer",
       "condition": "Interagir avec le garçon loup Ookami sur la White Beach"
     },
     "the_assistant": {
-      "name": "Panneau de contrôle",
+      "name": "L'entêtée",
       "description": "Ne touche pas aux boutons !",
       "condition": "Rendre visible la coque extérieure du sous-marin"
     },
@@ -5255,6 +5255,41 @@
       "name": "Le grand prix d'Urotsuki",
       "description": "Les rêveurs ne construisent pas eux-mêmes leur maison et leurs ponts, pas vrai ?",
       "condition": "Essayer et finir la course dans l'Unfamiliar City"
+    },
+    "creature_s_p_2_world": {
+      "name": "Perdue dans le fût",
+      "description": "Admets-le, je t'ai manqué.",
+      "condition": "Trouver la créature dans le Passage Sépia du Strange Plants World"
+    },
+    "witch_c_aureate_clock": {
+      "name": "Sorcière dorée",
+      "description": "Un festival étincelant de croquis",
+      "condition": "Visiter le Carnaval de la Sorcière aux Aureate Clockworks"
+    },
+    "hamster_h_game_pond": {
+      "name": "Momie hamster",
+      "description": "Il est recommandé d'avoir au moins un rouleau de papier toilette par hamster !",
+      "condition": "Visiter la Maison Roue d'Hamster à l'Handheld Game Pond"
+    },
+    "inhabitant_snowy_apartments": {
+      "name": "Petits jumeaux flocons",
+      "description": "119 119 121 121",
+      "condition": "Interagir avec l'un des habitants des Snowy Apartments"
+    },
+    "snowy_apartments": {
+      "name": "Gel-caille",
+      "description": "L'île est un moulin, balayant tes rêves par les airs.",
+      "condition": "Visiter les Snowy Apartments"
+    },
+    "haniwa_m_burgundy_flats": {
+      "name": "Nuit mélancolique",
+      "description": "Sous les doux rayons de la lune, j'appelle ton nom pour les étoiles, mais seule la nuit l'entend.",
+      "condition": "Interagir avec Haniwa-musume aux Burgundy Flats"
+    },
+    "corrupted_nexus_nexus": {
+      "name": "Ţɧɚ Ŋɘʊʋʂ",
+      "description": "Est-ce qu'on peut vraiment appeler ça de la chance ?",
+      "condition": "Compléter l'événement du Nexus Corrompu. Si vous l'avez déjà vu, retournez à The Nexus."
     }
   },
   "unconscious": {
@@ -5525,6 +5560,15 @@
     "unconscious_heart_1": {
       "name": "Cœur du totem",
       "condition": "Atteindre 100 points de cœur grâce aux distributeurs automatiques (obtenu après s'être rendu en face du distributeur automatique géant au Nexus)"
+    },
+    "unconscious_heart_2": {
+      "name": "Cœur des goûters",
+      "condition": "Atteindre 500 points de cœur grâce aux distributeurs automatiques (obtenu après s'être rendu en face du distributeur automatique géant au Nexus)"
+    },
+    "unconscious_heart_3": {
+      "name": "Cœur du Feu d'âme",
+      "description": "Toutes les âmes consumées par les flammes",
+      "condition": "Atteindre 999 points de cœur grâce aux distributeurs automatiques (obtenu après s'être rendu en face du distributeur automatique géant au Nexus)"
     },
     "girl_formless_garden": {
       "name": "Fille informe",
@@ -5870,6 +5914,31 @@
       "name": "Vide cristallin",
       "description": "Des cristaux brillant comme des étoiles sur des étoiles brillant comme des cristaux",
       "condition": "Visiter la partie principale de Crystal Access"
+    },
+    "abyssal_bleu": {
+      "name": "Géant abyssal",
+      "description": "Même en profondeur, la beauté est toujours présente",
+      "condition": "Visiter Abyssal Bleu"
+    },
+    "urbia_biggest_hit": {
+      "name": "J'aurais dû regarder à gauche et à droite...",
+      "description": "Je demande 10 PB de dédommagement !",
+      "condition": "Se prendre en pleine poire la voiture se balançant à Urbia, ou retourner là où se trouve la voiture si vous l'avez déjà fait"
+    },
+    "angel_scarlet_river": {
+      "name": "Larmes écarlates",
+      "description": "Je pleure lorsque les anges méritent de mourir.",
+      "condition": "Trouver la statue de l'ange pleurant à la Scarlet River"
+    },
+    "watcher_primeval_edifice": {
+      "name": "L'observateur éternel",
+      "description": "À toi qui regarde...",
+      "condition": "Voir la créature géante surveillant les flots à Primeval Edifice"
+    },
+    "picnic_seaside_city": {
+      "name": "Picnickin' in the Rain",
+      "description": "Vous pouvez entendre le son de la mer effleurant la côte, et la pluie s'écrasant sur le bitume, froid et mouillé. Le ciel est couvert de milliers d'étoiles scintillantes.",
+      "condition": "Atteindre le pique-nique à la Seaside City"
     }
   },
   "flow": {
@@ -6790,6 +6859,11 @@
     "balloon_festival_ballons": {
       "name": "Journée des ballons gratuits",
       "condition": "Récupérer les trois ballons au Balloon Festival"
+    },
+    "sky_the_foundry": {
+      "name": "Firmament d'enfer",
+      "description": "Même au purgatoire, tu peux regarder le ciel",
+      "condition": "Regarder le ciel à The Foundry"
     }
   },
   "braingirl": {
@@ -7956,6 +8030,11 @@
       "name": "Monstruosité maudite",
       "description": "Toujours se répéter, toujours se répéter.",
       "condition": "Déclencher l'événement Incompréhensible aux Gloomy Wetlands"
+    },
+    "meteorite_cave_winter_hills": {
+      "name": "Repos au coin du feu",
+      "description": "« Tu veux une guimauve ? J'peux t'en filer une si tu veux. »",
+      "condition": "Trouver la campeuse dans la Caverne Météorite des Winter Hills"
     }
   },
   "tsushin": {
@@ -8299,6 +8378,16 @@
       "name": "Adorable écureuille !",
       "description": "Regardez-moi, je suis une écureuille !",
       "condition": "Obtenir l'effet Squirrel. Si vous l'avez déjà obtenu, retournez dans la zone principale des Magenta Roads."
+    },
+    "emperor_japanese_castle": {
+      "name": "Contre-attaque !!",
+      "description": "Les actes de trahison peuvent être punies, même dans les rêves.",
+      "condition": "Essayer d'attaquer l'empereur avec l'effet Naginata au Japanese Castle"
+    },
+    "shimitsuki_magicant": {
+      "name": "Le choc des mondes",
+      "description": "Je me démarque vraiment des autres ici.",
+      "condition": "Visiter toutes les maisons remplies de petites Shimitsuki à Magicant"
     }
   }
 }

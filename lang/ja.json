@@ -459,9 +459,9 @@
       "condition": "寝違えイベントを見る"
     },
     "stoplight_effect": {
-      "name": "A Normal Corpse",
-      "description": "How long has this been here...?",
-      "condition": "Obtain the Stoplight effect. If you have already unlocked it, return at the end of the Road."
+      "name": "ごく普通の死体",
+      "description": "いつからここにあるんだろう……？",
+      "condition": "しんごうエフェクトを入手する、すでに入手している場合は、もう一度樹海（道路側）に行く"
     }
   },
   "2kki": {
@@ -4940,12 +4940,12 @@
       "condition": "砂と風の塔のから荒涼とした大地を眺める"
     },
     "2kki_wolf_effect": {
-      "name": "砂浜のオオカミ",
+      "name": "The Scarlet Howl",
       "description": "海に向かって吠える",
       "condition": "砂浜で狼少年に話しかけて、オオカミのエフェクトを取得する"
     },
     "the_assistant": {
-      "name": "コントロールパネル",
+      "name": "The Stubborness",
       "description": "そのボタンに触るな",
       "condition": "潜水艦を潜水させるようにする"
     },
@@ -5190,53 +5190,53 @@
       "condition": "黒の迷宮でボスを倒す"
     },
     "green_pattern_w_deity": {
-      "name": "Stare from Somewhere",
-      "description": "Gazing upon the gods at this very moment",
-      "condition": "Enter a certain hidden area in the Green Pattern World"
+      "name": "どこからかあなたを見つめている",
+      "description": "今この瞬間、神々を見つめている",
+      "condition": "ラクガキ大空洞の隠しエリアに到達する"
     },
     "mono_marsh_shallows": {
-      "name": "Mind Vacuum",
-      "description": "Empty with pieces of memories",
-      "condition": "Reach the Monochrome Shallows in Marshmallow Shallows"
+      "name": "思考吸引",
+      "description": "記憶の断片と空っぽな心",
+      "condition": "輝く海の光雪地堆に到達する"
     },
     "rock_abstract_corrosions": {
-      "name": "Geologist",
-      "description": "In the middle of the way there was a rock, there was a rock in the middle of the way. There was a rock in the middle of the way. There was a rock. I will never forget that in the middle of the way there was a rock.",
-      "condition": "Break a rock in Abstract Corrosions"
+      "name": "地質学者",
+      "description": "道の真ん中に石があった。道の真ん中に石があった。道の真ん中に石があった。石があった。道の真ん中に石があったことを私は決して忘れない。",
+      "condition": "風化遺跡世界の小石を壊す"
     },
     "tradition_sea_slug_house": {
-      "name": "Nudibranch Emblem",
-      "description": "An emblem of the Sea Slug House presented to its esteemed guests",
-      "condition": "Use the School Boy or Maiko effect in one of the rooms in Sea Slug House"
+      "name": "ウミウシの紋章",
+      "description": "尊敬するゲストに贈呈されたウミウシ和室の紋章",
+      "condition": "ウミウシ和室のいずれかの部屋で、おとこのこかまいこのエフェクト使用する"
     },
     "crystal_bottom_garden": {
-      "name": "Heart of the Garden",
-      "description": "After endlessly wandering through the lifeless corridors above, it feels enchanting to see a fantasy world of greenery, glowing as if the night sky could reach such an isolated place...",
-      "condition": "Stand near the crystal suspended by vines in Bottom Garden"
+      "name": "庭園の中心",
+      "description": "生気のない回廊を延々と彷徨ったあと、こんな隔絶された奥底に、まるで夜空が差し込むように輝く緑の世界を見ると、うっとりするような気分になる…",
+      "condition": "月夜館の蔓に巻かれたクリスタルの近くに行く"
     },
     "orange_forest_headdy": {
-      "name": "What? There is Nothing Strange Here!",
-      "description": "I'm just a face, what's wrong with that?",
-      "condition": "Interact with any of the floating heads in the Orange Forest"
+      "name": "え？ここには変なものは何もないよ！",
+      "description": "ただの顔ですが何か？",
+      "condition": "植物世界陽境に埋まっている人面のどれかに話しかける"
     },
     "drink_stone_world": {
-      "name": "Expired",
-      "description": "Should have checked the date first",
-      "condition": "Purchase a drink from the vending machine in Stone World"
+      "name": "期限切れ",
+      "description": "最初に日付を確認すべきだった…",
+      "condition": "404洞窟の自販機で飲み物を購入する"
     },
     "infinite_pools": {
-      "name": "Sublimity",
-      "condition": "Visit Infinite Pools"
+      "name": "荘厳",
+      "condition": "屋内プールに到達する"
     },
     "hydrangea_waters": {
-      "name": "Hydrangea Dreaming",
-      "description": "Stop and smell the flowers.",
-      "condition": "Visit Hydrangea Waters"
+      "name": "アジサイの夢",
+      "description": "立ち止まってアジサイの香りを嗅ぐ",
+      "condition": "紫陽花浅瀬に到達する"
     },
     "b_h_p_faraway_forest": {
-      "name": "Trapped Souls",
-      "description": "Wonder if they might need a hand or two",
-      "condition": "Enter the Blue Hand Passage in Faraway Forest"
+      "name": "閉じ込められた魂",
+      "description": "彼らには手助けが必要なのかも",
+      "condition": "離れの森の青暗い道に到達する"
     },
     "faucet_marsh_shallows": {
       "name": "絞り粕",
@@ -5270,6 +5270,41 @@
       "name": "うろつきバイクチャンピオンシップ",
       "description": "夢見人は自分の家や橋を作ってはくれないわ。",
       "condition": "赤煉瓦市街でレースに挑戦し、完走する"
+    },
+    "creature_s_p_2_world": {
+      "name": "Lost in the Bole",
+      "description": "Admit it, you missed me.",
+      "condition": "Find the creature in the Sepia Passage of Strange Plants World"
+    },
+    "witch_c_aureate_clock": {
+      "name": "Aureate Witch",
+      "description": "Glimmering festival of sketches",
+      "condition": "Visit the Witch's Carnevale in Aureate Clockworks"
+    },
+    "hamster_h_game_pond": {
+      "name": "Pet Mummy",
+      "description": "It is recommended to have at least one roll of toilet paper per hamster!",
+      "condition": "Visit the Hamster Wheel House in Handheld Game Pond"
+    },
+    "inhabitant_snowy_apartments": {
+      "name": "Little Twin Flakes",
+      "description": "119 119 121 121",
+      "condition": "Interact with any snowy inhabitant in Snowy Apartments"
+    },
+    "snowy_apartments": {
+      "name": "Snow Home",
+      "description": "The island is a windmill, taking your dreams through the air.",
+      "condition": "Visit Snowy Apartments"
+    },
+    "haniwa_m_burgundy_flats": {
+      "name": "Sorrowful Night",
+      "description": "Under moon's soft gaze, I call your name to the stars, but only night hears.",
+      "condition": "Interact with Haniwa-musume in Burgundy Flats"
+    },
+    "corrupted_nexus_nexus": {
+      "name": "Corrupted Nexus",
+      "description": "Can you call this luck?",
+      "condition": "Complete the Corrupted Nexus event. If you have already seen it, return in The Nexus."
     }
   },
   "unconscious": {
@@ -5540,6 +5575,15 @@
     "unconscious_heart_1": {
       "name": "トーテムの心",
       "condition": "自販機の効果でHP100を超えた状態でNexusの巨大自販機を訪れる"
+    },
+    "unconscious_heart_2": {
+      "name": "Heart of the Snacks",
+      "condition": "自販機の効果でHP500を超えた状態でNexusの巨大自販機を訪れる"
+    },
+    "unconscious_heart_3": {
+      "name": "Heart of the Soulfire",
+      "description": "All souls devoured by flames",
+      "condition": "自販機の効果でHP999を超えた状態でNexusの巨大自販機を訪れる"
     },
     "girl_formless_garden": {
       "name": "形のない少女",
@@ -5877,14 +5921,39 @@
       "condition": "タイル施設でプールの近くにあるロッカーを青く光らせる"
     },
     "roof_tub": {
-      "name": "Sunset Waves",
-      "description": "The colors of the sky reflected in the waters, and the water overflows off the roof.",
-      "condition": "Visit Roof Tub"
+      "name": "夕暮れの波",
+      "description": "水面に映る空の色、屋上から零れ落ちる水。",
+      "condition": "屋上プールに到達する"
     },
     "crystal_access_main": {
-      "name": "Crystalline Void",
-      "description": "Crystals that shine like stars on stars that shine like crystals",
-      "condition": "Visit the main part of Crystal Access"
+      "name": "空虚の結晶",
+      "description": "クリスタルのように輝く星の上で星のように輝くクリスタル",
+      "condition": "クリスタル宇宙のメインエリアに到達する"
+    },
+    "abyssal_bleu": {
+      "name": "Abyssal Giant",
+      "description": "Even in the depths, beauty can still be found",
+      "condition": "Visit Abyssal Bleu"
+    },
+    "urbia_biggest_hit": {
+      "name": "Should have looked up when crossing the road...",
+      "description": "I demand 10BP for damage!",
+      "condition": "Get hit by the swinging car in Urbia, or return where it was if you already got hit"
+    },
+    "angel_scarlet_river": {
+      "name": "Scarlet Tears",
+      "description": "I cry when angels deserve to die.",
+      "condition": "Find the weeping angel statue in Scarlet River"
+    },
+    "watcher_primeval_edifice": {
+      "name": "The Ceaseless Watcher",
+      "description": "To you who watches...",
+      "condition": "See the huge creature looking over the waters of Primeval Edifice"
+    },
+    "picnic_seaside_city": {
+      "name": "Rainy Picnic",
+      "description": "You can hear the sea brushing the shore, and the rain tapping on the cold, wet concrete. The sky is covered with thousands of blinking stars.",
+      "condition": "Reach the picnic in Seaside City"
     }
   },
   "flow": {
@@ -6805,6 +6874,11 @@
     "balloon_festival_ballons": {
       "name": "フリーバルーンデイ",
       "condition": "Balloon Festivalで風船を3つ全て集める"
+    },
+    "sky_the_foundry": {
+      "name": "Reach for the Stars",
+      "description": "Even in hell you can look up to the sky",
+      "condition": "Look up to the sky in The Foundry"
     }
   },
   "braingirl": {
@@ -7971,6 +8045,11 @@
       "name": "呪いのサイクル",
       "description": "常に繰り返される",
       "condition": "Gloomy Wetlandsで不可解なイベントを起こす"
+    },
+    "meteorite_cave_winter_hills": {
+      "name": "Just Relaxing",
+      "description": "\"Care for any marshmallows? I can toss one for you if you want.\"",
+      "condition": "Find the camper in the Meteorite Cave of Winter Hills"
     }
   },
   "tsushin": {
@@ -8307,13 +8386,26 @@
       "condition": "Train Stationでもう一人の自分を見る"
     },
     "eclipse_lycoris_world": {
-      "name": "Black Hole Sun",
-      "condition": "See the Eclipse in Lycoris World"
+      "name": "ブラック・ホール・サン",
+      "condition": "Lycoris Worldで日食を見る"
     },
     "squirrel_iffect": {
+      "name": "可愛らしいりす！",
+      "description": "見て、ぼくはりすだよ！",
+      "condition": "りすエフェクトを入手する、すでに入手している場合は、もう一度Magenta Roadsのメインエリアに行く"
       "name": "Adorable Squirrel!",
       "description": "Look at me, I'm a squirrel!",
       "condition": "Obtain the Squirrel effect. If you have already unlocked it, return in the main area of Magenta Roads."
+    },
+    "emperor_japanese_castle": {
+      "name": "Counterattack!!",
+      "description": "Acts of treason are punishable even in dreams.",
+      "condition": "Attempt to attack the emperor with the Naginata effect in the Japanese Castle"
+    },
+    "shimitsuki_magicant": {
+      "name": "Worlds Collide",
+      "description": "I really stand out here.",
+      "condition": "Visit all of the rooms filled with little Shimitsuki in Magicant"
     }
   }
 }
