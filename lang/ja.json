@@ -5577,12 +5577,12 @@
       "condition": "自販機の効果でHP100を超えた状態でNexusの巨大自販機を訪れる"
     },
     "unconscious_heart_2": {
-      "name": "Heart of the Snacks",
+      "name": "スナックの心",
       "condition": "自販機の効果でHP500を超えた状態でNexusの巨大自販機を訪れる"
     },
     "unconscious_heart_3": {
-      "name": "Heart of the Soulfire",
-      "description": "All souls devoured by flames",
+      "name": "魂の火の心",
+      "description": "全ての魂は炎に貪られる",
       "condition": "自販機の効果でHP999を超えた状態でNexusの巨大自販機を訪れる"
     },
     "girl_formless_garden": {
@@ -5931,29 +5931,29 @@
       "condition": "クリスタル宇宙のメインエリアに到達する"
     },
     "abyssal_bleu": {
-      "name": "Abyssal Giant",
-      "description": "Even in the depths, beauty can still be found",
-      "condition": "Visit Abyssal Bleu"
+      "name": "深淵の巨人",
+      "description": "深淵の中でも、美しさは見つかる",
+      "condition": "青の深淵に到達する"
     },
     "urbia_biggest_hit": {
-      "name": "Should have looked up when crossing the road...",
-      "description": "I demand 10BP for damage!",
-      "condition": "Get hit by the swinging car in Urbia, or return where it was if you already got hit"
+      "name": "道を渡る時に上を見ていれば良かった……",
+      "description": "10BPを賠償してもらう！",
+      "condition": "アービアのネズミと裏路地で車に撥ねられる、すでに撥ねられている場合はそこに戻る"
     },
     "angel_scarlet_river": {
-      "name": "Scarlet Tears",
-      "description": "I cry when angels deserve to die.",
-      "condition": "Find the weeping angel statue in Scarlet River"
+      "name": "鮮紅の涙",
+      "description": "天使が死に値するとき、私は泣くだろう。",
+      "condition": "鮮紅の泉で血涙を流す女神像を見つける"
     },
     "watcher_primeval_edifice": {
-      "name": "The Ceaseless Watcher",
-      "description": "To you who watches...",
-      "condition": "See the huge creature looking over the waters of Primeval Edifice"
+      "name": "不滅の監視者",
+      "description": "見ている者へ……",
+      "condition": "原初の遺跡の湖で一目の大きな影を見る"
     },
     "picnic_seaside_city": {
-      "name": "Rainy Picnic",
-      "description": "You can hear the sea brushing the shore, and the rain tapping on the cold, wet concrete. The sky is covered with thousands of blinking stars.",
-      "condition": "Reach the picnic in Seaside City"
+      "name": "雨のピクニック",
+      "description": "海が岸をなでる音が聞こえ、冷たく濡れたコンクリートを雨が叩く。空には何千もの星が瞬いている。",
+      "condition": "海辺の町のピクニックを見る"
     }
   },
   "flow": {
@@ -6876,9 +6876,9 @@
       "condition": "Balloon Festivalで風船を3つ全て集める"
     },
     "sky_the_foundry": {
-      "name": "Reach for the Stars",
-      "description": "Even in hell you can look up to the sky",
-      "condition": "Look up to the sky in The Foundry"
+      "name": "星を目指して",
+      "description": "地獄からでも空を見上げることは出来る",
+      "condition": "Foundryで空を見上げる"
     }
   },
   "braingirl": {
@@ -8047,9 +8047,9 @@
       "condition": "Gloomy Wetlandsで不可解なイベントを起こす"
     },
     "meteorite_cave_winter_hills": {
-      "name": "Just Relaxing",
-      "description": "\"Care for any marshmallows? I can toss one for you if you want.\"",
-      "condition": "Find the camper in the Meteorite Cave of Winter Hills"
+      "name": "リラックスする",
+      "description": "「マシュマロはどうですか？欲しければ一つあげましょう。」",
+      "condition": "Winter HillsのMeteorite Caveでキャンプしている人を見る"
     }
   },
   "tsushin": {
@@ -8393,19 +8393,16 @@
       "name": "可愛らしいりす！",
       "description": "見て、ぼくはりすだよ！",
       "condition": "りすエフェクトを入手する、すでに入手している場合は、もう一度Magenta Roadsのメインエリアに行く"
-      "name": "Adorable Squirrel!",
-      "description": "Look at me, I'm a squirrel!",
-      "condition": "Obtain the Squirrel effect. If you have already unlocked it, return in the main area of Magenta Roads."
     },
     "emperor_japanese_castle": {
-      "name": "Counterattack!!",
-      "description": "Acts of treason are punishable even in dreams.",
-      "condition": "Attempt to attack the emperor with the Naginata effect in the Japanese Castle"
+      "name": "反撃だ！！",
+      "description": "下剋上は夢の中でも罰せられる",
+      "condition": "Japanese Castleの将軍をなぎなたで攻撃しようとする"
     },
     "shimitsuki_magicant": {
-      "name": "Worlds Collide",
-      "description": "I really stand out here.",
-      "condition": "Visit all of the rooms filled with little Shimitsuki in Magicant"
+      "name": "夢世界衝突",
+      "description": "ここじゃ目立つ",
+      "condition": "Magicantで小さなしみつきだらけの部屋を全て訪れる"
     }
   }
 }
