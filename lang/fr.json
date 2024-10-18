@@ -452,6 +452,22 @@
       "name": "Un cadavre banal",
       "description": "Ça fait depuis combien de temps qu'il traîne ici... ?",
       "condition": "Obtenir l'effet Feu de circulation. Si vous l'avez déjà obtenu, retournez à la fin de la Road."
+    },
+    "fc_completionist": {
+      "name": "Trop trop rétro",
+      "description": "P'têt bien qu'c'est enfin l'heure d'acheter une Super FC.",
+      "condition": "Visiter la FC House, le FC World A, le FC World B et le FC Dungeon",
+      "checkbox": {
+        "fc_house_outside|fc_house_oni_room": "FC House",
+        "fc_world_a_wilderness|fc_world_a_house_section|fc_world_a_main": "FC World A",
+        "fc_world_b_barracks|fc_world_b_main": "FC World B",
+        "fc_dungeon": "FC Dungeon"
+      }
+    },
+    "towel_effect": {
+      "name": "Confortable... ?",
+      "description": "Du moment que cette serviette me couvrant n'est pas un yokai, tout ira bien... pas vrai ?",
+      "condition": "Obtenir l'effet Serviette. Si vous l'avez déjà obtenu, retournez dans la zone principale de Wilderness."
     }
   },
   "2kki": {
@@ -712,7 +728,7 @@
     "clover": {
       "name": "Trèfle cramoisi-pâle",
       "description": "Nous vous souhaitons le meilleur de votre chance...",
-      "condition": "Atteindre la Gallery Of Me"
+      "condition": "Atteindre la Gallery of Me"
     },
     "pacifist": {
       "name": "Pacifiste",
@@ -2863,7 +2879,7 @@
     "spacecraft_visine": {
       "name": "Champs étoilés cosmiques",
       "description": "Nous ne sommes pas seuls après tout.",
-      "condition": "Visiter les quatre champs étoilés dans Visine Spacecraft"
+      "condition": "Visiter les quatre champs étoilés dans Ocular Spacecraft"
     },
     "wardrobe_face": {
       "name": "Derrière le masque",
@@ -3139,11 +3155,11 @@
     "galactica_honeymoon": {
       "name": "Lune de miel galactique",
       "description": "Menant ton cœur à la dérive... !",
-      "condition": "Visiter Space, Spaceship, Visine Spacecraft, Astral World et Spacey Retreat",
+      "condition": "Visiter Space, Spaceship, Ocular Spacecraft, Astral World et Spacey Retreat",
       "checkbox": {
         "galactic_spaceship|galactic_spaceship_b": "Spaceship",
         "galactic_space": "Space",
-        "galactic_visine": "Visine Spacecraft",
+        "galactic_visine": "Ocular Spacecraft",
         "galactic_astral": "Astral World",
         "galactic_retreat": "Spacey Retreat"
       }
@@ -5290,6 +5306,92 @@
       "name": "Ţɧɚ Ŋɘʊʋʂ",
       "description": "Est-ce qu'on peut vraiment appeler ça de la chance ?",
       "condition": "Compléter l'événement du Nexus Corrompu. Si vous l'avez déjà vu, retournez à The Nexus."
+    },
+    "hat_nexus_c_v_complete": {
+      "name": "Effigie",
+      "description": "Des chapeaux, oui... « Juste des chapeaux »... Ne soit pas naïve et ne croit pas que ce sont juste de vulgaires « chapeaux » et rien de plus",
+      "condition": "Compléter le Chapeau-Nexus du Critter Village en collectant tous les chapeaux et en les mettant tous là-bas"
+    },
+    "aurora_lake": {
+      "name": "Lac fluorine",
+      "description": "Ce lieu brille tellement que même le soleil fait pâle figure en comparaison",
+      "condition": "Visiter l'Aurora Lake"
+    },
+    "cheese_c_candy_haven": {
+      "name": "Yume 2bries",
+      "description": "Ces fromages n'ont pas de trous donc le paradoxe du fromage à trous ne peut pas venir nous embêter, pfiou",
+      "condition": "Trouver les deux fromages au Cotton Candy Haven"
+    },
+    "qxy_vm_challenge": {
+      "name": "Matheuse des distributeurs automatiques",
+      "description": "Il est dit que cette machine a été fournie par un fabricant dans une vallée enneigée",
+      "condition": "Trouver et acheter un goûter d'un distributeur automatique dans les lieux suivants : Snowy Forest, Snowy Forest (Passage Hivernal), Erratic Pillar Lands, Cotton Candy Haven, Neon Caves, Surgical Scissors World, Aquatic Cube City, Static Noise Hell, Polycube Ruins (distributeur automatique en bois), Polycube Ruins (distributeur automatique en glace), Flooded Dungeon, Vending Machine Factory (Entrée), Travel Hotel (Balcon), Aurora Lake, Streetlight Docks (Profondeurs des Pêcheurs), Kaleidoscope World, Adabana Gardens, Red Sewers, Wooded Lakeside B, Oblique Hell, Virtual City (Entrée du Bar)",
+      "checkbox": {
+        "qxy_vm_snowy_forest": "Snowy Forest",
+        "qxy_vm_winter_path": "Snowy Forest (Passage Hivernal)",
+        "qxy_vm_erratic_pillands": "Erratic Pillar Lands",
+        "qxy_vm_c_c_haven": "Cotton Candy Haven",
+        "qxy_vm_neon_caves": "Neon Caves",
+        "qxy_vm_surgical_scissors": "Surgical Scissors World",
+        "qxy_vm_aquatic_cube_city": "Aquatic Cube City",
+        "qxy_vm_static_noise_hell": "Static Noise Hell",
+        "qxy_vm_pl_ruins_wood": "Polycube Ruins (distributeur automatique en bois)",
+        "qxy_vm_pl_ruins_ice": "Polycube Ruins (distributeur automatique en glace)",
+        "qxy_vm_flooded_dungeon": "Flooded Dungeon",
+        "qxy_vm_vm_factory_ent": "Vending Machine Factory (entrée)",
+        "qxy_vm_travel_hotel_balcony": "Travel Hotel (Balcon)",
+        "qxy_vm_aurora_lake": "Aurora Lake",
+        "qxy_vm_anglers_depths": "Streetlight Docks (Profondeurs des Pêcheurs)",
+        "qxy_vm_kaleidoscope_world": "Kaleidoscope World",
+        "qxy_vm_adabana_gardens": "Adabana Gardens",
+        "qxy_vm_red_sewers": "Red Sewers",
+        "qxy_vm_wooded_lakeside_b": "Wooded Lakeside B",
+        "qxy_vm_oblique_hell": "Oblique Hell",
+        "qxy_vm_virtual_city_bar": "Virtual City (Entrée du Bar)"
+      }
+    },
+    "tentacle_lamplit_stones": {
+      "name": "Toujours au plus proche de toi",
+      "description": "Quelque chose de familier prenant toujours soin de vous, au loin.",
+      "condition": "Déclencher l'événement faisant apparaître la tentacule du Sierpinski Maze aux Lamplit Stones"
+    },
+    "kite_adabana_gardens": {
+      "name": "Cerf-volé",
+      "description": "Noon ! Mon cerf-volant est coincé dans l'arbre !",
+      "condition": "Trouver le cerf-volant coincé dans un arbre dans l'Adabana Gardens"
+    },
+    "blood_river_kaleidscope_w": {
+      "name": "Fête psychédélique kaléidoscopique folle",
+      "description": "C'est l'heure de s'amuser !! Attends une minute ??? Qui a foutu un distributeur automatique ici ???",
+      "condition": "Atteindre le salon avec la rivière ensanglantée au Kaleidoscope World"
+    },
+    "ocean_subsurface": {
+      "name": "Ténèbres à couper au couteau",
+      "description": "En-dessous d'un océan antarctique caché se trouvent des créatures traçant leur chemin à travers les ténèbres",
+      "condition": "Visiter l'Ocean Subsurface"
+    },
+    "sierpinski_magic": {
+      "name": "Squelette triangulaire",
+      "description": "Le paradigme ici est de savoir si c'est le résultat d'un avertissement ou juste une conséquence arrivée en retard",
+      "condition": "Trouver des triangles Sierpinski dans les lieux suivants : Hot Air Balloon World, Streetlight Docks (Profondeurs des Pêcheurs), Kaleidoscope World, Critter Village (Pays Sableux), Wooded Lakeside A, Sierpinski Maze",
+      "checkbox": {
+        "hot_air_balloon_world": "Hot Air Balloon World",
+        "sierpinski_angler_depths": "Streetlight Docks (Profondeurs des Pêcheurs)",
+        "sierpinski_kaleidoscope_world": "Kaleidoscope World",
+        "sierpinski_sandy_land": "Critter Village (Pays Sableux)",
+        "sierpinski_wooded_lakeside_a": "Wooded Lakeside A",
+        "sierpinski_sierpinski_maze": "Sierpinski Maze"
+      }
+    },
+    "winter_path_snowy_forest": {
+      "name": "Hiver linéaire",
+      "description": "Sur le chemin de la Fée Enneigée",
+      "condition": "Visiter le Passage Hivernal de la Snowy Forest"
+    },
+    "tv_room_glitched_butterfly": {
+      "name": "Œil triangulaire",
+      "description": "L'œil de l'infinité",
+      "condition": "Visiter la Salle du TV-Œil au Glitched Butterfly Sector"
     }
   },
   "unconscious": {
@@ -5939,6 +6041,26 @@
       "name": "Picnickin' in the Rain",
       "description": "Vous pouvez entendre le son de la mer effleurant la côte, et la pluie s'écrasant sur le bitume, froid et mouillé. Le ciel est couvert de milliers d'étoiles scintillantes.",
       "condition": "Atteindre le pique-nique à la Seaside City"
+    },
+    "tv_tombs": {
+      "name": "Crypte hallucinatoire",
+      "description": "Ah, cool, des horreurs psychédéliques dépassant ma compréhension.",
+      "condition": "Regarder les télévisions à Maroon Tomb et à Festering Tomb"
+    },
+    "saturated_school": {
+      "name": "École chromatique",
+      "description": "C'était juste une hallucination",
+      "condition": "Visiter la Saturated School"
+    },
+    "big_lotus_white_lotus_islands": {
+      "name": "Mère lotus",
+      "description": "Protectrice de tous les nénuphars",
+      "condition": "Trouver le lotus géant aux White Lotus Islands"
+    },
+    "monochrome_art_studio": {
+      "name": "Imagination",
+      "description": "Les couleurs sont tissées directement depuis l'esprit.",
+      "condition": "Visiter le Monochrome Art Studio"
     }
   },
   "flow": {
@@ -7763,6 +7885,20 @@
     "sibunnies_glass_pipe": {
       "name": "Jumeaux Lapin",
       "condition": "Rencontrer les Jumeaux Lapin au Glass Pipe World"
+    },
+    "rabbit_bunny_market": {
+      "name": "Vendeur attentif",
+      "description": "Il a l'air de bien t'aimer, mais est-ce que tu l'aimes bien également ?",
+      "condition": "Équiper l'effet Lapine à côté du Vendeur Lapin au Magasin Lapin du Pastel World"
+    },
+    "rabbit_bunnies_gathering": {
+      "name": "Sometsuki et les lapinous",
+      "description": "La lapine n°1 du monde des rêves !",
+      "condition": "Utiliser l'effet Lapine au Magasin Lapin du Pastel World et dans la Dark Forest",
+      "checkbox": {
+        "rabbit_bunnies_bunny_market": "Magasin Lapin du Pastel World",
+        "rabbit_bunnies_dark_forest": "Dark Forest"
+      }
     }
   },
   "sheawaits": {
@@ -8388,6 +8524,11 @@
       "name": "Le choc des mondes",
       "description": "Je me démarque vraiment des autres ici.",
       "condition": "Visiter toutes les maisons remplies de petites Shimitsuki à Magicant"
+    },
+    "staring_giant_human_figure_w": {
+      "name": "Monstre monochrome",
+      "description": "Je pense qu'il aurait bien besoin de quelques gouttelettes pour ses yeux...",
+      "condition": "Atteindre la Zone du Géant au Regard Fixe dans l'Human Figure World"
     }
   }
 }

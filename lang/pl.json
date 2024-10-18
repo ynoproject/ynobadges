@@ -452,6 +452,22 @@
       "name": "Zwykłe ciało",
       "description": "Jak długo to tu było...?",
       "condition": "Otrzymaj efekt Sygnalizacji Świetlnej. Jeżeli już go posiadasz, powróć do miejsca gdzie się znajdował."
+    },
+    "fc_completionist": {
+      "name": "So So Retro",
+      "description": "Maybe you should get a Super FC.",
+      "condition": "Visit FC House, FC World A, FC World B, and FC Dungeon",
+      "checkbox": {
+        "fc_house_outside|fc_house_oni_room": "FC House",
+        "fc_world_a_wilderness|fc_world_a_house_section|fc_world_a_main": "FC World A",
+        "fc_world_b_barracks|fc_world_b_main": "FC World B",
+        "fc_dungeon": "FC Dungeon"
+      }
+    },
+    "towel_effect": {
+      "name": "Comfy...?",
+      "description": "As long as this towel wrapping around me isn't some sort of yokai, I'll be just fine... right?",
+      "condition": "Obtain the Towel effect. If you have already unlocked it, return in the main area of Wilderness."
     }
   },
   "2kki": {
@@ -707,7 +723,7 @@
     "clover": {
       "name": "Blado-Czerwona Koniczyna",
       "description": "Powodzenia...",
-      "condition": "Dojdź do Gallery Of Me"
+      "condition": "Dojdź do Gallery of Me"
     },
     "pacifist": {
       "name": "Pacyfista",
@@ -2854,7 +2870,7 @@
     "spacecraft_visine": {
       "name": "Starfields of Visine",
       "description": "We aren't alone after all.",
-      "condition": "Visit all four colored starfields in Visine Spacecraft"
+      "condition": "Visit all four colored starfields in Ocular Spacecraft"
     },
     "wardrobe_face": {
       "name": "Behind the Mask",
@@ -3130,11 +3146,11 @@
     "galactica_honeymoon": {
       "name": "Galactica Honeymoon",
       "description": "Leading your heart astray...!",
-      "condition": "Visit Space, Spaceship, Visine Spacecraft, Astral World and Spacey Retreat",
+      "condition": "Visit Space, Spaceship, Ocular Spacecraft, Astral World and Spacey Retreat",
       "checkbox": {
         "galactic_spaceship|galactic_spaceship_b": "Spaceship",
         "galactic_space": "Space",
-        "galactic_visine": "Visine Spacecraft",
+        "galactic_visine": "Ocular Spacecraft",
         "galactic_astral": "Astral World",
         "galactic_retreat": "Spacey Retreat"
       }
@@ -5281,6 +5297,92 @@
       "name": "Corrupted Nexus",
       "description": "Can you call this luck?",
       "condition": "Complete the Corrupted Nexus event. If you have already seen it, return in The Nexus."
+    },
+    "hat_nexus_c_v_complete": {
+      "name": "Simulacrum",
+      "description": "Hats, right... Just hats... Don't be naive and think that they're just \"hats\" and nothing more",
+      "condition": "Complete the Hat-Nexus of the Critter Village by collecting all of the hats and equipping them all there"
+    },
+    "aurora_lake": {
+      "name": "Fluorite Lake",
+      "description": "There's so much shine that the game got confusing",
+      "condition": "Visit Aurora Lake"
+    },
+    "cheese_c_candy_haven": {
+      "name": "2CCheese",
+      "description": "The meaning of life is to eat cheese",
+      "condition": "Find the two cheeses in Cotton Candy Haven"
+    },
+    "qxy_vm_challenge": {
+      "name": "Mathematician",
+      "description": "Here it is said to be from a manufacturer in a snowy mountain range",
+      "condition": "Find and buy a snack from vending machines in the following locations: Snowy Forest, Snowy Forest (Winter Path), Erratic Pillar Lands, Cotton Candy Haven, Neon Caves, Surgical Scissors World, Aquatic Cube City, Static Noise Hell, Polycube Ruins (Wood vending machine), Polycube Ruins (Ice vending machine), Flooded Dungeon, Vending Machine Factory (Entrance), Travel Hotel (Balcony), Aurora Lake, Streetlight Docks (Angler's Depths), Kaleidoscope World, Adabana Gardens, Red Sewers, Wooded Lakeside B, Oblique Hell, Virtual City (Bar Entrance)",
+      "checkbox": {
+        "qxy_vm_snowy_forest": "Snowy Forest",
+        "qxy_vm_winter_path": "Snowy Forest (Winter Path)",
+        "qxy_vm_erratic_pillands": "Erratic Pillar Lands",
+        "qxy_vm_c_c_haven": "Cotton Candy Haven",
+        "qxy_vm_neon_caves": "Neon Caves",
+        "qxy_vm_surgical_scissors": "Surgical Scissors World",
+        "qxy_vm_aquatic_cube_city": "Aquatic Cube City",
+        "qxy_vm_static_noise_hell": "Static Noise Hell",
+        "qxy_vm_pl_ruins_wood": "Polycube Ruins (Wood vending machine)",
+        "qxy_vm_pl_ruins_ice": "Polycube Ruins (Ice vending machine)",
+        "qxy_vm_flooded_dungeon": "Flooded Dungeon",
+        "qxy_vm_vm_factory_ent": "Vending Machine Factory (Entrance)",
+        "qxy_vm_travel_hotel_balcony": "Travel Hotel (Balcony)",
+        "qxy_vm_aurora_lake": "Aurora Lake",
+        "qxy_vm_anglers_depths": "Streetlight Docks (Angler's Depths)",
+        "qxy_vm_kaleidoscope_world": "Kaleidoscope World",
+        "qxy_vm_adabana_gardens": "Adabana Gardens",
+        "qxy_vm_red_sewers": "Red Sewers",
+        "qxy_vm_wooded_lakeside_b": "Wooded Lakeside B",
+        "qxy_vm_oblique_hell": "Oblique Hell",
+        "qxy_vm_virtual_city_bar": "Virtual City (Bar Entrance)"
+      }
+    },
+    "tentacle_lamplit_stones": {
+      "name": "Always Near You",
+      "description": "Something familiar that always watches you.",
+      "condition": "Trigger the event that makes the Sierpinski Maze tentacle appears in Lamplit Stones"
+    },
+    "kite_adabana_gardens": {
+      "name": "Lost Kite",
+      "description": "Noo! My kite is stuck in the tree!",
+      "condition": "Find the kite stuck in a tree in Adabana Gardens"
+    },
+    "blood_river_kaleidscope_w": {
+      "name": "Crazy Kaleidoscopic Psychedelic Party",
+      "description": "It's time for fun!! Why is there a vending machine here???",
+      "condition": "Reach the lounge with the blood river in Kaleidoscope World"
+    },
+    "ocean_subsurface": {
+      "name": "Darkness Cutters",
+      "description": "Over a hidden antarctic ocean are creatures that cut through the darkness",
+      "condition": "Visit the Ocean Subsurface"
+    },
+    "sierpinski_magic": {
+      "name": "Triangulated Skeleton",
+      "description": "The paradigm is whether this is a warning or a delayed consequence",
+      "condition": "Find sierpinski triangles in the following locations: Hot Air Balloon World, Streetlight Docks (Angler's Depths), Kaleidoscope World, Critter Village (Sandy Land), Wooded Lakeside A, Sierpinski Maze",
+      "checkbox": {
+        "hot_air_balloon_world": "Hot Air Balloon World",
+        "sierpinski_angler_depths": "Streetlight Docks (Angler's Depths)",
+        "sierpinski_kaleidoscope_world": "Kaleidoscope World",
+        "sierpinski_sandy_land": "Critter Village (Sandy Land)",
+        "sierpinski_wooded_lakeside_a": "Wooded Lakeside A",
+        "sierpinski_sierpinski_maze": "Sierpinski Maze"
+      }
+    },
+    "winter_path_snowy_forest": {
+      "name": "Linear Winter",
+      "description": "On the way to the winter fairy",
+      "condition": "Visit the Winter Path in Snowy Forest"
+    },
+    "tv_room_glitched_butterfly": {
+      "name": "Triangulated Eye",
+      "description": "The eye of infinity",
+      "condition": "Visit the TV Eye Room of Glitched Butterfly Sector"
     }
   },
   "unconscious": {
@@ -5930,6 +6032,26 @@
       "name": "Rainy Picnic",
       "description": "You can hear the sea brushing the shore, and the rain tapping on the cold, wet concrete. The sky is covered with thousands of blinking stars.",
       "condition": "Reach the picnic in Seaside City"
+    },
+    "tv_tombs": {
+      "name": "Hallucinatory Crypt",
+      "description": "Ah sweet, psychedelic horrors beyond my comprehension.",
+      "condition": "Watch the TVs in Maroon Tomb and Festering Tomb"
+    },
+    "saturated_school": {
+      "name": "Chromatic School",
+      "description": "It was just an hallucination",
+      "condition": "Visit the Saturated School"
+    },
+    "big_lotus_white_lotus_islands": {
+      "name": "Lotus Mother",
+      "description": "Protector of all water lilies",
+      "condition": "Find the big lotus in White Lotus Islands"
+    },
+    "monochrome_art_studio": {
+      "name": "Imagination",
+      "description": "The colors are woven from the mind itself.",
+      "condition": "Visit Monochrome Art Studio"
     }
   },
   "flow": {
@@ -7754,6 +7876,20 @@
     "sibunnies_glass_pipe": {
       "name": "Bunny Siblings",
       "condition": "Meet the Bunny Siblings in Glass Pipe World"
+    },
+    "rabbit_bunny_market": {
+      "name": "The Shopkeeper who Likes You",
+      "description": "He likes you, but do you like him back?",
+      "condition": "Equip the Rabbit effect next to the Bunny Shopkeeper in the Bunny Market of Pastel World"
+    },
+    "rabbit_bunnies_gathering": {
+      "name": "Sometsuki and the Rabbits",
+      "description": "You're a true celebrity in the dream world!",
+      "condition": "Use the Rabbit effect in the Bunny Market of Pastel World and in the Dark Forest",
+      "checkbox": {
+        "rabbit_bunnies_bunny_market": "Bunny Market of Pastel World",
+        "rabbit_bunnies_dark_forest": "Dark Forest"
+      }
     }
   },
   "sheawaits": {
@@ -8365,6 +8501,11 @@
       "name": "Worlds Collide",
       "description": "I really stand out here.",
       "condition": "Visit all of the rooms filled with little Shimitsuki in Magicant"
+    },
+    "staring_giant_human_figure_w": {
+      "name": "Monochrome Monster",
+      "description": "It might need some eyedrops...",
+      "condition": "Reach the Staring Giant Area of Human Figure World"
     }
   }
 }
