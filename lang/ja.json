@@ -464,20 +464,20 @@
       "condition": "しんごうエフェクトを入手する、すでに入手している場合は、もう一度樹海（道路側）に行く"
     },
     "fc_completionist": {
-      "name": "So So Retro",
-      "description": "Maybe you should get a Super FC.",
-      "condition": "Visit FC House, FC World A, FC World B, and FC Dungeon",
+      "name": "とってもとってもレトロ",
+      "description": "スーパーファミコンを買った方がいいかもしれない。",
+      "condition": "ＦＣ小屋、ＦＣ世界（小大陸側）、ＦＣ世界（右手側）、ＦＣ地下遺跡に到達する",
       "checkbox": {
-        "fc_house_outside|fc_house_oni_room": "FC House",
-        "fc_world_a_wilderness|fc_world_a_house_section|fc_world_a_main": "FC World A",
-        "fc_world_b_barracks|fc_world_b_main": "FC World B",
-        "fc_dungeon": "FC Dungeon"
+        "fc_house_outside|fc_house_oni_room": "ＦＣ小屋",
+        "fc_world_a_wilderness|fc_world_a_house_section|fc_world_a_main": "ＦＣ世界（小大陸側）",
+        "fc_world_b_barracks|fc_world_b_main": "ＦＣ世界（右手側）",
+        "fc_dungeon": "ＦＣ地下遺跡"
       }
     },
     "towel_effect": {
-      "name": "Comfy...?",
-      "description": "As long as this towel wrapping around me isn't some sort of yokai, I'll be just fine... right?",
-      "condition": "Obtain the Towel effect. If you have already unlocked it, return in the main area of Wilderness."
+      "name": "快適……？",
+      "description": "この巻いてるタオルが妖怪とかじゃなければ、大丈夫……だよね？",
+      "condition": "タオルを入手する、すでに入手している場合は荒野に戻る"
     }
   },
   "2kki": {
@@ -6058,24 +6058,24 @@
       "condition": "海辺の町のピクニックを見る"
     },
     "tv_tombs": {
-      "name": "Hallucinatory Crypt",
-      "description": "Ah sweet, psychedelic horrors beyond my comprehension.",
-      "condition": "Watch the TVs in Maroon Tomb and Festering Tomb"
+      "name": "幻覚の地下聖堂",
+      "description": "ああ、甘い、私の理解を超えたサイケデリックなホラー。",
+      "condition": "赤茶墓所と腐敗墳墓のテレビを見る"
     },
     "saturated_school": {
-      "name": "Chromatic School",
-      "description": "It was just an hallucination",
-      "condition": "Visit the Saturated School"
+      "name": "鮮彩な学校",
+      "description": "ただの幻覚だった",
+      "condition": "飽和学校に到達する"
     },
     "big_lotus_white_lotus_islands": {
-      "name": "Lotus Mother",
-      "description": "Protector of all water lilies",
-      "condition": "Find the big lotus in White Lotus Islands"
+      "name": "マザーロータス",
+      "description": "全ての睡蓮の守護神",
+      "condition": "白蓮諸島で大きな蓮を見つける"
     },
     "monochrome_art_studio": {
-      "name": "Imagination",
-      "description": "The colors are woven from the mind itself.",
-      "condition": "Visit Monochrome Art Studio"
+      "name": "想造力",
+      "description": "色は心そのものが織り成すものだ。",
+      "condition": "無彩色のアトリエに到達する"
     }
   },
   "flow": {
@@ -7902,17 +7902,17 @@
       "condition": "Glass Pipe Worldでうさぎの兄妹に会う"
     },
     "rabbit_bunny_market": {
-      "name": "The Shopkeeper who Likes You",
-      "description": "He likes you, but do you like him back?",
-      "condition": "Equip the Rabbit effect next to the Bunny Shopkeeper in the Bunny Market of Pastel World"
+      "name": "君のことが大大大大大好きな1人の店員さん",
+      "description": "彼はあなたが好きだけど、あなたは彼が好き？",
+      "condition": "黄色い店のBunny Shopkeeperの近くでうさぎになる"
     },
     "rabbit_bunnies_gathering": {
       "name": "Sometsuki and the Rabbits",
-      "description": "You're a true celebrity in the dream world!",
-      "condition": "Use the Rabbit effect in the Bunny Market of Pastel World and in the Dark Forest",
+      "description": "夢の中の有名人！",
+      "condition": "黄色い店と暗森のうさぎの近くでうさぎのエフェクトを使用する",
       "checkbox": {
-        "rabbit_bunnies_bunny_market": "Bunny Market of Pastel World",
-        "rabbit_bunnies_dark_forest": "Dark Forest"
+        "rabbit_bunnies_bunny_market": "黄色い店",
+        "rabbit_bunnies_dark_forest": "暗森"
       }
     }
   },
@@ -8541,9 +8541,9 @@
       "condition": "Magicantで小さなしみつきだらけの部屋を全て訪れる"
     },
     "staring_giant_human_figure_w": {
-      "name": "Monochrome Monster",
-      "description": "It might need some eyedrops...",
-      "condition": "Reach the Staring Giant Area of Human Figure World"
+      "name": "モノクロモンスター",
+      "description": "目薬が必要かもしれない……",
+      "condition": "Human Figure WorldのStaring Giantエリアに到達する"
     }
   }
 }
