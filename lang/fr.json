@@ -5392,6 +5392,80 @@
       "name": "Œil triangulaire",
       "description": "L'œil de l'infinité",
       "condition": "Visiter la Salle du TV-Œil au Glitched Butterfly Sector"
+    },
+    "coffee_deserted_town": {
+      "name": "L'heure du café",
+      "description": "Tu veux du café ?",
+      "condition": "Visiter la maison de l'homme café à la Deserted Town et déguster une tasse de café"
+    },
+    "figure_deserted_town": {
+      "name": "Silhouette cagoulée",
+      "description": "Est-elle pendue ou est-elle en train de flotter ?",
+      "condition": "Trouver la silhouette cagoulée géante à la Deserted Town"
+    },
+    "wing_deserted_town": {
+      "name": "Ailes de l'Ombre",
+      "description": "Sur les ailes de la noireté",
+      "condition": "Trouver la statue ailée à la Deserted Town"
+    },
+    "flower_deserted_town": {
+      "name": "Fleur tenebris",
+      "description": "Laisse l'ombre toujours gagner",
+      "condition": "Trouver la fleur géante à la Deserted Town"
+    },
+    "barricated_gate_complex": {
+      "name": "La seconde obstruction",
+      "description": "Que se cache-t-il derrière ces murs ?",
+      "condition": "Atteindre le portail barricadé au Complex"
+    },
+    "old_train_station_link": {
+      "name": "Seigneur de la frénésie des cônes",
+      "description": "Seigneur Cône séparant les profondeurs des étoiles du ciel de l'ombre de l'arc-en-ciel teinté de rêves",
+      "condition": "Accéder à l'Old Train Station depuis l'Old Train Station B ou à l'Old Train Station B depuis l'Old Train Station"
+    },
+    "bw_chaotic_buildings": {
+      "name": "Psyché monochrome",
+      "description": "Alignant les câbles",
+      "condition": "Atteindre le passage noir et blanc aux Chaotic Buildings"
+    },
+    "bw_statue_forest": {
+      "name": "Poteaux télégraphiques et réverbères dans le tunnel monochrome",
+      "description": "Jadis, j'entendis le son d'un train tombant dans l'infinité.",
+      "condition": "Atteindre le passage noir et blanc à la Statue Forest"
+    },
+    "subject_overgrown_city": {
+      "name": "Vide-œil",
+      "description": "La vision cassante du chaos verdoyant au bord de l'abysse monochrome.",
+      "condition": "Voir l'Étrange Cobaye à l'Overgrown City"
+    },
+    "planetarium_sky": {
+      "name": "Marche de Cronos",
+      "description": "Étoiles qui étaient une fois réveillées comètes",
+      "condition": "À la fin du Planetarium, faire la caméra se lever au ciel"
+    },
+    "conic_house_hidden_shoal": {
+      "name": "Maison conique cachée",
+      "description": "Tu vas peut-être pas me croire, mais cette maison a une longue histoire",
+      "condition": "Trouver la maison conique à l'Hidden Shoal"
+    },
+    "decaying_sun": {
+      "name": "Soleil délabré",
+      "description": "Le soleil éternel envahi par la végétation",
+      "condition": "Trouver le soleil délabré à la Forest Pier et à la Deserted Town",
+      "checkbox": {
+        "decaying_sun_forest_pier": "Forest Pier",
+        "decaying_sun_deserted_town": "Deserted Town"
+      }
+    },
+    "neon_city_main": {
+      "name": "Phosphoricity",
+      "description": "La ville avec une ambience unique en son genre, surpassant toutes les autres. Son fredonnement peut être entendu aux quatres coins de la ville !",
+      "condition": "Visiter la zone principale de la Neon City"
+    },
+    "neon_city_ab_factory": {
+      "name": "Habitant des égouts",
+      "description": "Le cousin moins connu de Big Red",
+      "condition": "Voir la créature gardant l'entrée de l'Abandoned Factory à la Neon City"
     }
   },
   "unconscious": {
@@ -6061,6 +6135,16 @@
       "name": "Imagination",
       "description": "Les couleurs sont tissées directement depuis l'esprit.",
       "condition": "Visiter le Monochrome Art Studio"
+    },
+    "cpu_bloodsoaked_office": {
+      "name": "Vision ensanglantée",
+      "description": "Voir, ça n'est pas toujours croire.",
+      "condition": "Déclencher l'événement de l'Ordinateur Hanté au Bloodsoaked Office"
+    },
+    "glass_shard_path": {
+      "name": "Vitres colorées",
+      "description": "Pour les amoureux de la pluie et du verre",
+      "condition": "Visiter le Glass Shard Path"
     }
   },
   "flow": {
@@ -6986,6 +7070,11 @@
       "name": "Firmament d'enfer",
       "description": "Même au purgatoire, tu peux regarder le ciel",
       "condition": "Regarder le ciel à The Foundry"
+    },
+    "jumping_playground": {
+      "name": "Divinités de l'aire de jeu",
+      "description": "Demande-leur quelle est l'ultime vérité pour gagner à chat.",
+      "condition": "Visiter le Jumping Playground"
     }
   },
   "braingirl": {
@@ -7899,6 +7988,15 @@
         "rabbit_bunnies_bunny_market": "Magasin Lapin du Pastel World",
         "rabbit_bunnies_dark_forest": "Dark Forest"
       }
+    },
+    "countryside": {
+      "name": "Douce brise",
+      "condition": "Visiter le Countryside"
+    },
+    "balcony_banquet_hall": {
+      "name": "Urbanisation fantomatique",
+      "description": "Il y avait une grosse coupure de courant cette nuit là-bas",
+      "condition": "Voir la vue depuis le balcon du Banquet Hall"
     }
   },
   "sheawaits": {
@@ -8529,6 +8627,106 @@
       "name": "Monstre monochrome",
       "description": "Je pense qu'il aurait bien besoin de quelques gouttelettes pour ses yeux...",
       "condition": "Atteindre la Zone du Géant au Regard Fixe dans l'Human Figure World"
+    },
+    "flight_ice_temple": {
+      "name": "Envol hivernal",
+      "description": "Il fait un petit peu frisquet ici...",
+      "condition": "Déclencher l'événement du Vol à l'Ice Temple"
+    }
+  },
+  "oneshot": {
+    "computer_starting_area": {
+      "name": "Rencontre inattendue",
+      "description": "« Il semblerait que j'ai enfin été trouvé. »",
+      "condition": "Lires les messages sur l'ordinateur de la Starting Area"
+    },
+    "lightbulb_starting_area": {
+      "name": "Soleil de verre",
+      "description": "Le dernier espoir pour pouvoir restaurer le souffle de ce monde...",
+      "condition": "Obtenir l'ampoule dans le Sous-Sol de la Starting Area"
+    },
+    "niko_death_ending": {
+      "name": "Parti",
+      "description": "T'as lu le titre du jeu ou bien ?",
+      "condition": "Tu as tué Niko."
+    },
+    "barrens": {
+      "name": "Sans vie",
+      "description": "Ça n'a pas toujours été comme ça...",
+      "condition": "Atteindre les Barrens"
+    },
+    "gas_mask_barrens": {
+      "name": "Temp Badge Name (Do not translate)",
+      "condition": "Obtenir le masque à gaz dans le coffre-fort aux Falaises des Barrens"
+    },
+    "silver_barrens": {
+      "name": "Temp Badge Name (Do not translate)",
+      "condition": "Jouer une partie d'échecs contre Silver dans l'Installation Minière des Barrens"
+    },
+    "dream_barrens": {
+      "name": "Un lieu familier",
+      "description": "Lorsque je suis parti me coucher, je me suis retrouvé dans un lieu étrange, mais familier.",
+      "condition": "Rêver aux Quais des Barrens"
+    },
+    "glen": {
+      "name": "Luminescence",
+      "description": "Je n'en crois pas mes yeux !",
+      "condition": "Monter sur la barque menant à Glen"
+    },
+    "calamus_glen": {
+      "name": "Calamus",
+      "description": "« Avez-vous vu ma sœur ? »",
+      "condition": "Rencontrer Calamus à Glen"
+    },
+    "alula_glen": {
+      "name": "Alula",
+      "description": "« Merci ! »",
+      "condition": "Sauver Alula aux Ruines de Glen"
+    },
+    "novelty_t_shirt_glen": {
+      "name": "Temp Badge Name (Do not translate)",
+      "condition": "Essayer d'équiper le T-shirt babiole"
+    },
+    "shepherd_glen": {
+      "name": "Temp Badge Name (Do not translate)",
+      "condition": "Aider le berger à diriger ses béliers au Village de Glen"
+    },
+    "dream_glen": {
+      "name": "Un régal de rêve",
+      "description": "Un rêve douillet ?",
+      "condition": "Rêver à l'Extérieur des Ruines Sud à Glen"
+    },
+    "refuge": {
+      "name": "Sur le toit du monde",
+      "description": "Les pas faits ici pourraient bien être tes derniers.",
+      "condition": "Atteindre le Refuge"
+    },
+    "george_refuge": {
+      "name": "Temp Badge Name (Do not translate)",
+      "condition": "Temp condition text (do not translate)"
+    },
+    "pancakes_refuge": {
+      "name": "Goûter mérité",
+      "description": "Tu as dû faire un long chemin pour arriver jusqu'ici, Messie, alors repose-toi et profite d'un bon petit dessert !",
+      "condition": "Prendre une pause pour manger des pancakes au Café du Refuge"
+    },
+    "maze_end_refuge": {
+      "name": "Guidé par le phosphore",
+      "description": "Il y a toujours un chemin",
+      "condition": "Retourner là où tout a commencé"
+    },
+    "world_saved_ending": {
+      "name": "ONESHOT ?",
+      "description": "C'est donc comme ça que l'histoire se finit...",
+      "condition": "Niko a sauvé le monde."
+    },
+    "niko_home_ending": {
+      "name": "Temp Badge Name (Do not translate)",
+      "condition": "Le sauveur est mort. Tout espoir pour le monde est perdu."
+    },
+    "flower_ending": {
+      "name": "Temp Badge Name (Do not translate)",
+      "condition": "Voir la fleur pousser pendant la fin"
     }
   }
 }
