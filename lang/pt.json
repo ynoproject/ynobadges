@@ -246,7 +246,7 @@
     },
     "eye": {
       "name": "Olho do Capturado",
-      "condition": "Pise no piso de olho em Number World"
+      "condition": "Pise no piso de olho em Lamp World"
     },
     "bottles": {
       "name": "Bebidas Saudáveis",
@@ -282,8 +282,7 @@
     },
     "cube_guru_seat": {
       "name": "Assento Ocupado",
-      "description": "Roube o assento do Cube Guru no Windmill World.",
-      "condition": "Tire o Cube Guru de seu assento, e depois sente-se em cima dele"
+      "condition": "Roube o assento do Cube Guru no Windmill World"
     },
     "meow_ufo": {
       "name": "Eles Gostam de Mim-au~!",
@@ -376,16 +375,20 @@
     },
     "docks_yume": {
       "name": "Docas",
-      "condition": "Visite as duas partes do Docks"
+      "condition": "Visit the Docks A and the Docks B",
+      "checkbox": {
+        "docks_a": "Docks A",
+        "docks_b": "Docks B"
+      }
     },
     "ghostly_assembly": {
       "name": "Montagem Fantasmagórica",
       "description": "Trinca de espécie.",
       "condition": "Interaja com Nopperabou Ghost e Fleebie enquanto usa o efeito Spirit Headband e apunhale Follony com o efeito Kitchen Knife",
       "checkbox": {
-        "ghostly_fleebie": "Nopperabou",
-        "ghostly_follony": "Follony",
-        "ghostly_nopp": "Fleebie"
+        "ghostly_fleebie": "Fleebie",
+        "ghostly_follony": "Nopperabou",
+        "ghostly_nopp": "Follony"
       }
     },
     "wilderness_fan": {
@@ -394,7 +397,7 @@
     },
     "dave_death": {
       "name": "Armário Dave-y Jones",
-      "condition": "Esfaqueie Dave Specter no White Desert"
+      "condition": "Esfaqueie Dave Spector no White Desert"
     },
     "forest_namekuji": {
       "name": "Boo e Goo",
@@ -7420,7 +7423,7 @@
     "glitch_area_proj": {
       "name": "ERROR404",
       "description": "Seu computador precisa ser reiniciado; mantenha pressionada a tecla shift para retornar.",
-      "condition": "Vá pra Glitch"
+      "condition": "Go to the Black Waters version of Glitch"
     },
     "flower_field": {
       "name": "Feliz!",

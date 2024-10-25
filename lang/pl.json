@@ -246,7 +246,7 @@
     },
     "eye": {
       "name": "Oko przechwyconych",
-      "condition": "Nadepnij na pole z okiem w Number World"
+      "condition": "Nadepnij na pole z okiem w Lamp World"
     },
     "bottles": {
       "name": "Napoje zdrowotne",
@@ -282,8 +282,7 @@
     },
     "cube_guru_seat": {
       "name": "Siedzenie zajęte",
-      "description": "Ukradnij siedzenie Cube Guru w Windmill World.",
-      "condition": "Przewsuń Cube Guru z jego siedzenia i usiądź na nim"
+      "condition": "Ukradnij siedzenie Cube Guru w Windmill World"
     },
     "meow_ufo": {
       "name": "Lubią mnie-ał~!",
@@ -376,16 +375,20 @@
     },
     "docks_yume": {
       "name": "Doki",
-      "condition": "Zwizytuj obie części Docks"
+      "condition": "Visit the Docks A and the Docks B",
+      "checkbox": {
+        "docks_a": "Docks A",
+        "docks_b": "Docks B"
+      }
     },
     "ghostly_assembly": {
       "name": "Zbiórka dusz",
       "description": "Trójka.",
       "condition": "Zainicjuj interakcje z Nopperabou Ghost i Fleebie podczas używania efektu Duchowej Opaski i dźgnij Follony Nożem Kuchennym",
       "checkbox": {
-        "ghostly_fleebie": "Nopperabou Ghost",
-        "ghostly_follony": "Zaciukaj Follony efektem Noża Kuchennego",
-        "ghostly_nopp": "Fleebie"
+        "ghostly_fleebie": "Fleebie",
+        "ghostly_follony": "Nopperabou Ghost",
+        "ghostly_nopp": "Follony"
       }
     },
     "wilderness_fan": {
@@ -394,7 +397,7 @@
     },
     "dave_death": {
       "name": "Skarbiec Dave-y Jones",
-      "condition": "Dźgnij Dave Specter nożem w White Desert"
+      "condition": "Dźgnij Dave Spector nożem w White Desert"
     },
     "forest_namekuji": {
       "name": "Boo i Goo",
@@ -7417,7 +7420,7 @@
     "glitch_area_proj": {
       "name": "ERROR404",
       "description": "Your pc needs to restart; please hold shift to return.",
-      "condition": "Go to Glitch"
+      "condition": "Go to the Black Waters version of Glitch"
     },
     "flower_field": {
       "name": "Happy!",

@@ -246,7 +246,7 @@
     },
     "eye": {
       "name": "笼中眼",
-      "condition": "踩在数字世界小黑屋的眼睛地砖上。"
+      "condition": "Step on the eye tile in Lamp World"
     },
     "bottles": {
       "name": "冰阔落",
@@ -282,8 +282,7 @@
     },
     "cube_guru_seat": {
       "name": "霸座",
-      "description": "对不起，这里已经满员了",
-      "condition": "抢走风车世界Cube Guru的坐垫"
+      "condition": "对不起，这里已经满员了"
     },
     "meow_ufo": {
       "name": "沟通无阻",
@@ -376,16 +375,20 @@
     },
     "docks_yume": {
       "name": "湖回廊",
-      "condition": "分别抵达Docks的两个区域。"
+      "condition": "Visit the Docks A and the Docks B",
+      "checkbox": {
+        "docks_a": "Docks A",
+        "docks_b": "Docks B"
+      }
     },
     "ghostly_assembly": {
       "name": "幽灵集会",
       "description": "各显神通。",
       "condition": "装备△头巾与Nopperabou Ghost和Fleebie互动，并刀掉Follony。",
       "checkbox": {
-        "ghostly_fleebie": "Nopperabou Ghost",
-        "ghostly_follony": "Follony",
-        "ghostly_nopp": "Fleebie"
+        "ghostly_fleebie": "Fleebie",
+        "ghostly_follony": "Nopperabou Ghost",
+        "ghostly_nopp": "Follony"
       }
     },
     "wilderness_fan": {
@@ -394,7 +397,7 @@
     },
     "dave_death": {
       "name": "戴维琼斯的箱子",
-      "condition": "刀了White Desert里的Dave Specter"
+      "condition": "刀了White Desert里的Dave Spector"
     },
     "forest_namekuji": {
       "name": "幽灵与粘液",
@@ -7447,7 +7450,7 @@
     "glitch_area_proj": {
       "name": "ERROR404",
       "description": "这台计算机需要重新启动；请按住shift返回。",
-      "condition": "抵达 Glitch 世界。"
+      "condition": "Go to the Black Waters version of Glitch"
     },
     "flower_field": {
       "name": "开心！",

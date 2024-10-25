@@ -246,7 +246,7 @@
     },
     "eye": {
       "name": "Œil de la capturée",
-      "condition": "Marcher sur la tuile œil dans le Number World"
+      "condition": "Marcher sur la tuile œil dans le Lamp World"
     },
     "bottles": {
       "name": "Boissons revigorantes",
@@ -282,8 +282,7 @@
     },
     "cube_guru_seat": {
       "name": "Siège pris",
-      "description": "Voler le siège du Cube Guru dans le Windmill World",
-      "condition": "Bouger le Cube Guru de son siège et s'asseoir dessus"
+      "condition": "Voler le siège du Cube Guru dans le Windmill World"
     },
     "meow_ufo": {
       "name": "Ils miaiment~ !",
@@ -376,16 +375,20 @@
     },
     "docks_yume": {
       "name": "Docks",
-      "condition": "Visiter les deux parties des Docks"
+      "condition": "Visiter les Docks A et les Docks B",
+      "checkbox": {
+        "docks_a": "Docks A",
+        "docks_b": "Docks B"
+      }
     },
     "ghostly_assembly": {
       "name": "Assemblée fantomatique",
       "description": "Trois âmes errantes dans un monde infini.",
       "condition": "Interagir avec le Fantôme Nopperabou et Fleebie en utilisant l'effet Bandeau spirituel et poignarder Follony avec l'effet Couteau",
       "checkbox": {
-        "ghostly_fleebie": "Dark World",
-        "ghostly_follony": "Sewers",
-        "ghostly_nopp": "Ghost World"
+        "ghostly_fleebie": "Fleebie",
+        "ghostly_follony": "Nopperabou Ghost",
+        "ghostly_nopp": "Follony"
       }
     },
     "wilderness_fan": {
@@ -394,7 +397,7 @@
     },
     "dave_death": {
       "name": "Dave-y Jones Locker",
-      "condition": "Poignarder Dave Specter dans le White Desert"
+      "condition": "Poignarder Dave Spector dans le White Desert"
     },
     "forest_namekuji": {
       "name": "Bou et Gou",
@@ -7426,7 +7429,7 @@
     "glitch_area_proj": {
       "name": "ERREUR 404",
       "description": "Votre ordinateur doit redémarrer : veuillez maintenir Maj pour retourner.",
-      "condition": "Aller à Glitch"
+      "condition": "Aller à la version Black Waters de Glitch"
     },
     "flower_field": {
       "name": "Heureux !",

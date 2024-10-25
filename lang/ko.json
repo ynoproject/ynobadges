@@ -246,7 +246,7 @@
     },
     "eye": {
       "name": "사로잡힌 눈",
-      "condition": "숫자의 세계에 있는 눈 타일을 밟기"
+      "condition": "Step on the eye tile in Lamp World"
     },
     "bottles": {
       "name": "이온음료",
@@ -282,8 +282,7 @@
     },
     "cube_guru_seat": {
       "name": "자리 점령",
-      "description": "풍차의 세계에 있는 큐브 구루(Cube Guru) NPC의 자리를 뺏기",
-      "condition": "큐브 구루(Cube Guru) NPC를 자리에서 움직이게 하고, 그 자리에 앉기"
+      "condition": "풍차의 세계에 있는 큐브 구루(Cube Guru) NPC의 자리를 뺏기"
     },
     "meow_ufo": {
       "name": "그들은 '냐'를 좋아한다옹!",
@@ -376,16 +375,20 @@
     },
     "docks_yume": {
       "name": "삼도천",
-      "condition": "삼도천의 두 구역을 모두 방문하기"
+      "condition": "Visit the Docks A and the Docks B",
+      "checkbox": {
+        "docks_a": "Docks A",
+        "docks_b": "Docks B"
+      }
     },
     "ghostly_assembly": {
       "name": "유령 집회",
       "description": "트리플",
       "condition": "삼각 두건 이펙트를 착용한 채로 달걀 귀신 유령(Nopperabou ghost), 빨간 유령(Fleebie)과 상호작용하고 식칼 이펙트로 파란 유령(Follony)을 찌르기",
       "checkbox": {
-        "ghostly_fleebie": "귀신 유령(Nopperabou ghost)",
-        "ghostly_follony": "파란 유령(Follony)",
-        "ghostly_nopp": "빨간 유령(Fleebie)"
+        "ghostly_fleebie": "빨간 유령(Fleebie)",
+        "ghostly_follony": "귀신 유령(Nopperabou ghost)",
+        "ghostly_nopp": "파란 유령(Follony)"
       }
     },
     "wilderness_fan": {
@@ -394,7 +397,7 @@
     },
     "dave_death": {
       "name": "데이비 존스의 보관함",
-      "condition": "흑백 세계의 데이브 스펙터(Dave Specter) NPC를 칼로 찌르기"
+      "condition": "흑백 세계의 데이브 스펙터(Dave Spector) NPC를 칼로 찌르기"
     },
     "forest_namekuji": {
       "name": "부와 구",
@@ -7425,7 +7428,7 @@
     "glitch_area_proj": {
       "name": "404 오류",
       "description": "PC를 재시작해야 합니다. 돌아가기 위해 Shift 키를 길게 누르세요.",
-      "condition": "Glitch에 도달하기"
+      "condition": "Go to the Black Waters version of Glitch"
     },
     "flower_field": {
       "name": "행복해!",

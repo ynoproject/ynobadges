@@ -282,8 +282,7 @@
     },
     "cube_guru_seat": {
       "name": "Занято",
-      "description": "Украдите сидение у Куба-гуру в Мире Мельниц.",
-      "condition": "Сдвиньте Куб-гуру с его сидения, а потом сядьте туда сами."
+      "condition": "Step on the eye tile in Lamp World"
     },
     "meow_ufo": {
       "name": "Они похожи на Ме-Ня~!",
@@ -376,16 +375,20 @@
     },
     "docks_yume": {
       "name": "Доки",
-      "condition": "Посетите обе части Доков."
+      "condition": "Visit the Docks A and the Docks B",
+      "checkbox": {
+        "docks_a": "Docks A",
+        "docks_b": "Docks B"
+      }
     },
     "ghostly_assembly": {
       "name": "Собрание призраков",
       "description": "Трое из вида.",
       "condition": "Interact with Nopperabou Ghost and Fleebie while using the Spirit Headband effect and stab Follony with the Kitchen Knife effect",
       "checkbox": {
-        "ghostly_fleebie": "Nopperabou Ghost",
-        "ghostly_follony": "stab Follony with the Kitchen Knife effect",
-        "ghostly_nopp": "Fleebie"
+        "ghostly_fleebie": "Fleebie",
+        "ghostly_follony": "Nopperabou Ghost",
+        "ghostly_nopp": "Follony"
       }
     },
     "wilderness_fan": {
@@ -394,7 +397,7 @@
     },
     "dave_death": {
       "name": "Dave-y Jones Locker",
-      "condition": "Stab Dave Specter in the White Desert"
+      "condition": "Stab Dave Spector in the White Desert"
     },
     "forest_namekuji": {
       "name": "Boo and Goo",
@@ -7421,7 +7424,7 @@
     "glitch_area_proj": {
       "name": "ОШИБКА404",
       "description": "Ваш ПК нуждается в перезагрузке; Нажмите Shift чтобы вернуться.",
-      "condition": "Попадите в Глитч."
+      "condition": "Go to the Black Waters version of Glitch"
     },
     "flower_field": {
       "name": "Happy!",

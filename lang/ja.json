@@ -246,7 +246,7 @@
     },
     "eye": {
       "name": "捕らわれた者の眼",
-      "condition": "電燈の世界の赤い目を踏む"
+      "condition": "Step on the eye tile in Lamp World"
     },
     "bottles": {
       "name": "健康飲料",
@@ -282,8 +282,7 @@
     },
     "cube_guru_seat": {
       "name": "特等席",
-      "description": "腹の中で落語家の座を奪う。",
-      "condition": "落語家をどかして座布団に座る"
+      "condition": "腹の中で落語家の座を奪う"
     },
     "meow_ufo": {
       "name": "They Like Me-ow~!",
@@ -376,16 +375,20 @@
     },
     "docks_yume": {
       "name": "湖回廊",
-      "condition": "湖回廊の２つの部分を訪れる"
+      "condition": "Visit the Docks A and the Docks B",
+      "checkbox": {
+        "docks_a": "Docks A",
+        "docks_b": "Docks B"
+      }
     },
     "ghostly_assembly": {
       "name": "幽霊集会",
       "description": "スリーカード",
       "condition": "のっぺら幽霊、赤幽霊に△ずきんを使った状態で話しかけ、青幽霊をほうちょうで刺す",
       "checkbox": {
-        "ghostly_fleebie": "のっぺら幽霊",
-        "ghostly_follony": "赤幽霊",
-        "ghostly_nopp": "青幽霊をほうちょうで刺す"
+        "ghostly_fleebie": "青幽霊",
+        "ghostly_follony": "のっぺら幽霊",
+        "ghostly_nopp": "赤幽霊"
       }
     },
     "wilderness_fan": {
@@ -7441,7 +7444,7 @@
     "glitch_area_proj": {
       "name": "ERROR404",
       "description": "PCを再起動する必要があります。シフトを長押ししてもどってください。",
-      "condition": "Glitchに行く"
+      "condition": "Go to the Black Waters version of Glitch"
     },
     "flower_field": {
       "name": "Happy!",

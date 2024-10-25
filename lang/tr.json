@@ -246,7 +246,7 @@
     },
     "eye": {
       "name": "Tutsağın Gözü",
-      "condition": "Number World'deki göz karosunun üstüne bas"
+      "condition": "Lamp World'deki göz karosunun üstüne bas"
     },
     "bottles": {
       "name": "Sağlık İçecekleri",
@@ -282,8 +282,7 @@
     },
     "cube_guru_seat": {
       "name": "Minder Dolu",
-      "description": "Windmill World'de Küp Üstadı'nın oturağını çal",
-      "condition": "Küp Üstadı'nı oturduğu yerden hareket ettir, ve onun minderine otur"
+      "condition": "Windmill World'de Küp Üstadı'nın oturağını çal"
     },
     "meow_ufo": {
       "name": "Beni-miyav Seviyorlar~!",
@@ -376,16 +375,20 @@
     },
     "docks_yume": {
       "name": "Rıhtım",
-      "condition": "Docks'un iki parçasını ziyaret et"
+      "condition": "Visit the Docks A and the Docks B",
+      "checkbox": {
+        "docks_a": "Docks A",
+        "docks_b": "Docks B"
+      }
     },
     "ghostly_assembly": {
       "name": "Hayalet Toplantısı",
       "description": "Aynı sayıdan üç kart.",
       "condition": "Ruh Saç Bandı efektini kullanırken Nopperabou Hayaleti ve Fleebie ile etkileşime geç ve Follony'i Mutfak Bıçağı efektiyle bıçakla",
       "checkbox": {
-        "ghostly_fleebie": "Nopperabou Ghost",
-        "ghostly_follony": "stab Follony with the Kitchen Knife effect",
-        "ghostly_nopp": "Fleebie"
+        "ghostly_fleebie": "Fleebie",
+        "ghostly_follony": "Nopperabou Ghost",
+        "ghostly_nopp": "Follony"
       }
     },
     "wilderness_fan": {
@@ -394,7 +397,7 @@
     },
     "dave_death": {
       "name": "Dave-y Jones'un Kilitli Dolabı",
-      "condition": "White Desert'ta Dave Specter'ı bıçakla"
+      "condition": "White Desert'ta Dave Spector'ı bıçakla"
     },
     "forest_namekuji": {
       "name": "Boo ve Goo",
@@ -7418,7 +7421,7 @@
     "glitch_area_proj": {
       "name": "ERROR404",
       "description": "Your pc needs to restart; please hold shift to return.",
-      "condition": "Go to Glitch"
+      "condition": "Go to the Black Waters version of Glitch"
     },
     "flower_field": {
       "name": "Happy!",

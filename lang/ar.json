@@ -246,7 +246,7 @@
     },
     "eye": {
       "name": "العين المسجون",
-      "condition": "كن على البلاطة التي عليها عين في عالم القناديل"
+      "condition": "Step on the eye tile in Lamp World"
     },
     "bottles": {
       "name": "المشروبات الصحية",
@@ -282,8 +282,7 @@
     },
     "cube_guru_seat": {
       "name": "المكان محجوز",
-      "description": "خذ مكان مكعب غورو في عالم طاحونات الهواء.",
-      "condition": "افسح غورو المكعب عن مقعده بعدها اجلس عليه"
+      "condition": "خذ مكان مكعب غورو في عالم طاحونات الهواء"
     },
     "meow_ufo": {
       "name": "هم يحبونني~!",
@@ -376,16 +375,20 @@
     },
     "docks_yume": {
       "name": "أرصفة بحرية",
-      "condition": "قم بزيارة الجزئين من الأرصفة البحرية"
+      "condition": "Visit the Docks A and the Docks B",
+      "checkbox": {
+        "docks_a": "Docks A",
+        "docks_b": "Docks B"
+      }
     },
     "ghostly_assembly": {
       "name": "اجتماع شبحي",
       "description": "ثلاث من نفس النوع.",
-      "condition": "تفاعل مع الشبح نوبراباو وفليبي عند استخدامك تأثير العصابة الروحية وقم بطعن فولوني وبحوزتك سكين مطبخ",
+      "condition": "Interact with Nopperabou Ghost and Fleebie while using the Spirit Headband effect and stab Follony with the Kitchen Knife effect",
       "checkbox": {
-        "ghostly_fleebie": "Nopperabou Ghost",
-        "ghostly_follony": "stab Follony with the Kitchen Knife effect",
-        "ghostly_nopp": "Fleebie"
+        "ghostly_fleebie": "Fleebie",
+        "ghostly_follony": "Nopperabou Ghost",
+        "ghostly_nopp": "Follony"
       }
     },
     "wilderness_fan": {
@@ -7422,7 +7425,7 @@
     "glitch_area_proj": {
       "name": "ERROR404",
       "description": "Your pc needs to restart; please hold shift to return.",
-      "condition": "Go to Glitch"
+      "condition": "Go to the Black Waters version of Glitch"
     },
     "flower_field": {
       "name": "Happy!",
