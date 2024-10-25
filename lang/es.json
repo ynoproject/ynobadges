@@ -246,7 +246,7 @@
     },
     "eye": {
       "name": "Eye of the Captured",
-      "condition": "Step on the eye tile in Number World"
+      "condition": "Step on the eye tile in Lamp World"
     },
     "bottles": {
       "name": "Health Drinks",
@@ -282,8 +282,7 @@
     },
     "cube_guru_seat": {
       "name": "Seat Taken",
-      "description": "Steal the Cube Guru's seat in the Windmill World.",
-      "condition": "Move the Cube Guru off of his seat, and then sit on it"
+      "condition": "Steal the Cube Guru's seat in the Windmill World"
     },
     "meow_ufo": {
       "name": "They Like Me-ow~!",
@@ -376,16 +375,20 @@
     },
     "docks_yume": {
       "name": "Docks",
-      "condition": "Visit the two parts of the Docks"
+      "condition": "Visit the Docks A and the Docks B",
+      "checkbox": {
+        "docks_a": "Docks A",
+        "docks_b": "Docks B"
+      }
     },
     "ghostly_assembly": {
       "name": "Ghostly Assembly",
       "description": "Three of a kind.",
       "condition": "Interact with Nopperabou Ghost and Fleebie while using the Spirit Headband effect and stab Follony with the Kitchen Knife effect",
       "checkbox": {
-        "ghostly_fleebie": "Nopperabou Ghost",
-        "ghostly_follony": "stab Follony with the Kitchen Knife effect",
-        "ghostly_nopp": "Fleebie"
+        "ghostly_fleebie": "Fleebie",
+        "ghostly_follony": "Nopperabou Ghost",
+        "ghostly_nopp": "Follony"
       }
     },
     "wilderness_fan": {
@@ -394,7 +397,7 @@
     },
     "dave_death": {
       "name": "Dave-y Jones Locker",
-      "condition": "Stab Dave Specter in the White Desert"
+      "condition": "Stab Dave Spector in the White Desert"
     },
     "forest_namekuji": {
       "name": "Boo and Goo",
@@ -1147,7 +1150,8 @@
       "condition": "Reach 999 Heart Points from vending machines (granted upon waking up)"
     },
     "square_ruins": {
-      "name": "Memories of the Old Ruins",
+      "name": "Luminous Cube of Hadal Depths",
+      "description": "These cubic structures are a hazy memory from a dream dreamt long ago...",
       "condition": "Find the old ruins leading to the Viridian Wetlands"
     },
     "egg": {
@@ -5321,7 +5325,7 @@
     "qxy_vm_challenge": {
       "name": "Mathematician",
       "description": "Here it is said to be from a manufacturer in a snowy mountain range",
-      "condition": "Find and buy a snack from vending machines in the following locations: Snowy Forest, Snowy Forest (Winter Path), Erratic Pillar Lands, Cotton Candy Haven, Neon Caves, Surgical Scissors World, Aquatic Cube City, Static Noise Hell, Polycube Ruins (Wood vending machine), Polycube Ruins (Ice vending machine), Flooded Dungeon, Vending Machine Factory (Entrance), Travel Hotel (Balcony), Aurora Lake, Streetlight Docks (Angler's Depths), Kaleidoscope World, Adabana Gardens, Red Sewers, Wooded Lakeside B, Oblique Hell, Virtual City (Bar Entrance)",
+      "condition": "Find and buy a snack from vending machines in the following locations: Snowy Forest, Snowy Forest (Winter Path), Erratic Pillar Lands, Cotton Candy Haven, Neon Caves, Surgical Scissors World, Aquatic Cube City, Static Noise Hell, Polycube Ruins (Wood vending machine), Polycube Ruins (Ice vending machine), Flooded Dungeon, Vending Machine Factory (Entrance), Travel Hotel (Balcony), Aurora Lake, Streetlight Docks (Angler's Depths), Kaleidoscope World, Critter Village (Hexagonal Tile Factory), Adabana Gardens, Red Sewers, Wooded Lakeside B, Oblique Hell, Virtual City (Bar Entrance)",
       "checkbox": {
         "qxy_vm_snowy_forest": "Snowy Forest",
         "qxy_vm_winter_path": "Snowy Forest (Winter Path)",
@@ -5339,6 +5343,7 @@
         "qxy_vm_aurora_lake": "Aurora Lake",
         "qxy_vm_anglers_depths": "Streetlight Docks (Angler's Depths)",
         "qxy_vm_kaleidoscope_world": "Kaleidoscope World",
+        "qxy_vm_h_tile_factory": "Critter Village (Hexagonal Tile Factory)",
         "qxy_vm_adabana_gardens": "Adabana Gardens",
         "qxy_vm_red_sewers": "Red Sewers",
         "qxy_vm_wooded_lakeside_b": "Wooded Lakeside B",
@@ -5388,6 +5393,80 @@
       "name": "Triangulated Eye",
       "description": "The eye of infinity",
       "condition": "Visit the TV Eye Room of Glitched Butterfly Sector"
+    },
+    "coffee_deserted_town": {
+      "name": "Coffee Time",
+      "description": "Want some coffee?",
+      "condition": "Enter the coffee man's house in Deserted Town and have some coffee with him"
+    },
+    "figure_deserted_town": {
+      "name": "Hooded Figure",
+      "description": "Is it floating or hanged?",
+      "condition": "Find the giant hooded figure in Deserted Town"
+    },
+    "wing_deserted_town": {
+      "name": "Umbral Wings",
+      "description": "On the wings of blackness",
+      "condition": "Find the winged statue in Deserted Town"
+    },
+    "flower_deserted_town": {
+      "name": "Scadu Flower",
+      "description": "Let the shadow always win",
+      "condition": "Find the giant flower in Deserted Town"
+    },
+    "barricated_gate_complex": {
+      "name": "The Second Obstruction",
+      "description": "What lies beyond these walls?",
+      "condition": "Reach the barricaded gate in the Complex"
+    },
+    "old_train_station_link": {
+      "name": "Lord of the Frenzied Cones",
+      "description": "Lord Cone that separates the depths of the stars from the sky of the rainbow umbral tinged with dreams",
+      "condition": "Access Old Train Station from Old Train Station B or Old Train Station B from Old Train Station"
+    },
+    "bw_chaotic_buildings": {
+      "name": "Monochromatic Psyche",
+      "description": "Aligning the cables",
+      "condition": "Reach the black and white passage in Chaotic Buildings"
+    },
+    "bw_statue_forest": {
+      "name": "Telegraph Poles and Streetlights in the Monochrome Tunnel",
+      "description": "In the old days, I heard a sharp sound of a train falling into infinity.",
+      "condition": "Reach the black and white passage in Statue Forest"
+    },
+    "subject_overgrown_city": {
+      "name": "Eye Void",
+      "description": "The annulling vision of the verdant chaos on the edge of the monochrome abyss.",
+      "condition": "See the Strange Subject in Overgrown City"
+    },
+    "planetarium_sky": {
+      "name": "March of Cronos",
+      "description": "Stars that once woke comets",
+      "condition": "At the end of Planetarium, make the camera pan up to reveal the sky"
+    },
+    "conic_house_hidden_shoal": {
+      "name": "Hidden Conic House",
+      "description": "You may not believe it, but this house has a long history",
+      "condition": "Find the conic house in Hidden Shoal"
+    },
+    "decaying_sun": {
+      "name": "Decadent Sun",
+      "description": "The eternal sun of overgrown",
+      "condition": "Trouver le soleil délabré à la Forest Pier et à la Deserted Town",
+      "checkbox": {
+        "decaying_sun_forest_pier": "Forest Pier",
+        "decaying_sun_deserted_town": "Deserted Town"
+      }
+    },
+    "neon_city_main": {
+      "name": "The City of Phosphorescence!",
+      "description": "The city with a vibe stronger than any other. I can even feel the constant hum!",
+      "condition": "Visit the main area of Neon City"
+    },
+    "neon_city_ab_factory": {
+      "name": "Sewer Dweller",
+      "description": "Big Red's lesser known cousin",
+      "condition": "See the creature guarding the entrance to Abandoned Factory in Neon City"
     }
   },
   "unconscious": {
@@ -6057,6 +6136,16 @@
       "name": "Imagination",
       "description": "The colors are woven from the mind itself.",
       "condition": "Visit Monochrome Art Studio"
+    },
+    "cpu_bloodsoaked_office": {
+      "name": "Bloodied Vision",
+      "description": "Seeing is not always believing.",
+      "condition": "Trigger the Haunted Computer event in Bloodsoaked Office"
+    },
+    "glass_shard_path": {
+      "name": "Colorwashed Glass",
+      "description": "For lovers of rain and glass",
+      "condition": "Visit Glass Shard Path"
     }
   },
   "flow": {
@@ -6982,6 +7071,11 @@
       "name": "Reach for the Stars",
       "description": "Even in hell you can look up to the sky",
       "condition": "Look up to the sky in The Foundry"
+    },
+    "jumping_playground": {
+      "name": "Gods of the Playground",
+      "description": "Ask them about eternal truth of playing tags.",
+      "condition": "Visit Jumping Playground"
     }
   },
   "braingirl": {
@@ -7331,7 +7425,7 @@
     "glitch_area_proj": {
       "name": "ERROR404",
       "description": "Your pc needs to restart; please hold shift to return.",
-      "condition": "Go to Glitch"
+      "condition": "Go to the Black Waters version of Glitch"
     },
     "flower_field": {
       "name": "Happy!",
@@ -7895,6 +7989,15 @@
         "rabbit_bunnies_bunny_market": "Bunny Market of Pastel World",
         "rabbit_bunnies_dark_forest": "Dark Forest"
       }
+    },
+    "countryside": {
+      "name": "Gentle Breeze",
+      "condition": "Visit Countryside"
+    },
+    "balcony_banquet_hall": {
+      "name": "Ghost Urbanization",
+      "description": "There was a big blackout tonight down there",
+      "condition": "See the view from the balcony in Banquet Hall"
     }
   },
   "sheawaits": {
@@ -8511,6 +8614,106 @@
       "name": "Monochrome Monster",
       "description": "It might need some eyedrops...",
       "condition": "Reach the Staring Giant Area of Human Figure World"
+    },
+    "flight_ice_temple": {
+      "name": "Chilly Flight",
+      "description": "It’s getting a little bit chilly up here...",
+      "condition": "Trigger the Flight event in Ice Temple"
+    }
+  },
+  "oneshot": {
+    "computer_starting_area": {
+      "name": "Sudden Encounter",
+      "description": "\"It seems I've finally been found.\"",
+      "condition": "Read the messages on the computer in the Starting Area"
+    },
+    "lightbulb_starting_area": {
+      "name": "Fragile Sun",
+      "description": "The Last Hope of ever restoring this World's life...",
+      "condition": "Obtain the lightbulb in the Basement of the Starting Area"
+    },
+    "niko_death_ending": {
+      "name": "Gone",
+      "description": "Have you tried reading the title of the game?",
+      "condition": "You killed Niko."
+    },
+    "barrens": {
+      "name": "Lifelessness",
+      "description": "It hasn't always been like this...",
+      "condition": "Reach the Barrens"
+    },
+    "gas_mask_barrens": {
+      "name": "Temp Badge Name (Do not translate)",
+      "condition": "Obtain the gas mask in the vault at the Cliffs of the Barrens"
+    },
+    "silver_barrens": {
+      "name": "Temp Badge Name (Do not translate)",
+      "condition": "Play a game of chess against Silver in the Mining Facility of Barrens"
+    },
+    "dream_barrens": {
+      "name": "A Familiar Area",
+      "description": "When I went to bed, I was in a really familiar yet strange place.",
+      "condition": "Dream at the Dock in the Barrens"
+    },
+    "glen": {
+      "name": "Luminescence",
+      "description": "I can't believe my eyes!",
+      "condition": "Get on the boat to Glen"
+    },
+    "calamus_glen": {
+      "name": "Calamus",
+      "description": "\"Have you seen my sister?\"",
+      "condition": "Meet Calamus in Glen"
+    },
+    "alula_glen": {
+      "name": "Alula",
+      "description": "\"Thanks!\"",
+      "condition": "Rescue Alula in the Ruins of Glen"
+    },
+    "novelty_t_shirt_glen": {
+      "name": "Temp Badge Name (Do not translate)",
+      "condition": "Try to equip the novelty T-shirt"
+    },
+    "shepherd_glen": {
+      "name": "Temp Badge Name (Do not translate)",
+      "condition": "Help the shepherd to herd his rams in Glen's Village"
+    },
+    "dream_glen": {
+      "name": "Delicious Dream",
+      "description": "A cozy dream?",
+      "condition": "Dream at the South Ruins Exterior in Glen"
+    },
+    "refuge": {
+      "name": "On the Catwalks",
+      "description": "These might be your last steps in this world.",
+      "condition": "Reach Refuge"
+    },
+    "george_refuge": {
+      "name": "Temp Badge Name (Do not translate)",
+      "condition": "Temp condition text (do not translate)"
+    },
+    "pancakes_refuge": {
+      "name": "Tasty Retreat",
+      "description": "You've gone a long way brave Messiah, please take a rest and enjoy a nice treat!",
+      "condition": "Take a break to eat pancakes in the Refuge's Cafe"
+    },
+    "maze_end_refuge": {
+      "name": "Phosphor's Guidance",
+      "description": "There's always a way.",
+      "condition": "Return where everything started"
+    },
+    "world_saved_ending": {
+      "name": "ONESHOT?",
+      "description": "So that's how the story ends...",
+      "condition": "Niko saved the world."
+    },
+    "niko_home_ending": {
+      "name": "Temp Badge Name (Do not translate)",
+      "condition": "The savior is gone. All hope for the world is lost."
+    },
+    "flower_ending": {
+      "name": "Temp Badge Name (Do not translate)",
+      "condition": "See the flower grow during the ending"
     }
   }
 }
