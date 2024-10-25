@@ -1,8 +1,12 @@
 {
   "group": "2_el",
   "bp": 20,
-  "reqType": "tag",
-  "reqString": "planetarium_sky",
+  "reqType": "tags",
+  "reqStrings": [
+    "planetarium_sky",
+    "planetarium_sky_b"
+  ],
+  "reqCount": 1,
   "map": 565,
   "art": "Zolotl",
   "animated": true,
