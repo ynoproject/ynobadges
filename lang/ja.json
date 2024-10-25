@@ -246,7 +246,7 @@
     },
     "eye": {
       "name": "捕らわれた者の眼",
-      "condition": "Step on the eye tile in Lamp World"
+      "condition": "電燈の世界の赤い目を踏む"
     },
     "bottles": {
       "name": "健康飲料",
@@ -375,10 +375,10 @@
     },
     "docks_yume": {
       "name": "湖回廊",
-      "condition": "Visit the Docks A and the Docks B",
+      "condition": "湖回廊（自販機側）と湖回廊（地獄側）に到達する",
       "checkbox": {
-        "docks_a": "Docks A",
-        "docks_b": "Docks B"
+        "docks_a": "湖回廊（自販機側）",
+        "docks_b": "湖回廊（地獄側）"
       }
     },
     "ghostly_assembly": {
@@ -6157,14 +6157,14 @@
       "condition": "無彩色のアトリエに到達する"
     },
     "cpu_bloodsoaked_office": {
-      "name": "Bloodied Vision",
-      "description": "Seeing is not always believing.",
-      "condition": "Trigger the Haunted Computer event in Bloodsoaked Office"
+      "name": "血塗られたビジョン",
+      "description": "百聞は一見にしかず。",
+      "condition": "出血オフィスで怪奇現象イベントを見る"
     },
     "glass_shard_path": {
-      "name": "Colorwashed Glass",
-      "description": "For lovers of rain and glass",
-      "condition": "Visit Glass Shard Path"
+      "name": "着色されたガラス",
+      "description": "雨とガラスを愛する人たちへ",
+      "condition": "ガラス片通路に到達する"
     }
   },
   "flow": {
@@ -7092,9 +7092,9 @@
       "condition": "Foundryで空を見上げる"
     },
     "jumping_playground": {
-      "name": "Gods of the Playground",
-      "description": "Ask them about eternal truth of playing tags.",
-      "condition": "Visit Jumping Playground"
+      "name": "遊び場の神々",
+      "description": "鬼ごっこの永遠の真実について聞いてみよう。",
+      "condition": "Jumping Playgroundに到達する"
     }
   },
   "braingirl": {
@@ -7444,7 +7444,7 @@
     "glitch_area_proj": {
       "name": "ERROR404",
       "description": "PCを再起動する必要があります。シフトを長押ししてもどってください。",
-      "condition": "Go to the Black Waters version of Glitch"
+      "condition": "Black Waters側のGlitchに行く"
     },
     "flower_field": {
       "name": "Happy!",
@@ -8010,13 +8010,13 @@
       }
     },
     "countryside": {
-      "name": "Gentle Breeze",
-      "condition": "Visit Countryside"
+      "name": "そよ風",
+      "condition": "田園に到達する"
     },
     "balcony_banquet_hall": {
-      "name": "Ghost Urbanization",
-      "description": "There was a big blackout tonight down there",
-      "condition": "See the view from the balcony in Banquet Hall"
+      "name": "幽霊都市化",
+      "description": "今夜は大停電だった",
+      "condition": "パーティ会場のバルコニーで景色を見る"
     }
   },
   "sheawaits": {
@@ -8649,104 +8649,104 @@
       "condition": "Human Figure WorldのStaring Giantエリアに到達する"
     },
     "flight_ice_temple": {
-      "name": "Chilly Flight",
-      "description": "It’s getting a little bit chilly up here...",
-      "condition": "Trigger the Flight event in Ice Temple"
+      "name": "冷たい飛行",
+      "description": "ちょっと寒くなってきたね……",
+      "condition": "Ice TempleでFlightイベントを見る"
     }
   },
   "oneshot": {
     "computer_starting_area": {
-      "name": "Sudden Encounter",
-      "description": "\"It seems I've finally been found.\"",
-      "condition": "Read the messages on the computer in the Starting Area"
+      "name": "突然の邂逅",
+      "description": "「やっと見つかったか。」",
+      "condition": "始まりの場所のパソコンからのメッセージを見る"
     },
     "lightbulb_starting_area": {
-      "name": "Fragile Sun",
-      "description": "The Last Hope of ever restoring this World's life...",
-      "condition": "Obtain the lightbulb in the Basement of the Starting Area"
+      "name": "繊細な太陽",
+      "description": "この世界の生命を取り戻す最後の希望……",
+      "condition": "始まりの場所の地下室で電球を入手する"
     },
     "niko_death_ending": {
-      "name": "Gone",
-      "description": "Have you tried reading the title of the game?",
-      "condition": "You killed Niko."
+      "name": "いなくなった",
+      "description": "ゲームのタイトルは読んだか？",
+      "condition": "おまえがニコを殺した。"
     },
     "barrens": {
-      "name": "Lifelessness",
-      "description": "It hasn't always been like this...",
-      "condition": "Reach the Barrens"
+      "name": "非生命力",
+      "description": "昔からこうだったわけではない……",
+      "condition": "不浄の地に到達する"
     },
     "gas_mask_barrens": {
       "name": "Temp Badge Name (Do not translate)",
-      "condition": "Obtain the gas mask in the vault at the Cliffs of the Barrens"
+      "condition": "不浄の地の崖にある金庫でガスマスクを入手する"
     },
     "silver_barrens": {
       "name": "Temp Badge Name (Do not translate)",
-      "condition": "Play a game of chess against Silver in the Mining Facility of Barrens"
+      "condition": "不浄の地の採掘場でシルバーとチェスをする"
     },
     "dream_barrens": {
-      "name": "A Familiar Area",
-      "description": "When I went to bed, I was in a really familiar yet strange place.",
-      "condition": "Dream at the Dock in the Barrens"
+      "name": "見慣れた場所",
+      "description": "ベッドに入ると、見慣れた、でも奇妙な場所にいた。",
+      "condition": "不浄の地の波止場で夢を見る"
     },
     "glen": {
-      "name": "Luminescence",
-      "description": "I can't believe my eyes!",
-      "condition": "Get on the boat to Glen"
+      "name": "発光",
+      "description": "目を疑っちゃった!",
+      "condition": "峡谷行きのボートに乗る"
     },
     "calamus_glen": {
-      "name": "Calamus",
-      "description": "\"Have you seen my sister?\"",
-      "condition": "Meet Calamus in Glen"
+      "name": "カラムス",
+      "description": "\"オレの妹を見なかったか？\"",
+      "condition": "峡谷でカラムスに会う"
     },
     "alula_glen": {
-      "name": "Alula",
-      "description": "\"Thanks!\"",
-      "condition": "Rescue Alula in the Ruins of Glen"
+      "name": "アルーラ",
+      "description": "「ありがと!」",
+      "condition": "峡谷の遺跡でアルーラを救出する"
     },
     "novelty_t_shirt_glen": {
       "name": "Temp Badge Name (Do not translate)",
-      "condition": "Try to equip the novelty T-shirt"
+      "condition": "ノベルティTシャツを着ようとする"
     },
     "shepherd_glen": {
       "name": "Temp Badge Name (Do not translate)",
-      "condition": "Help the shepherd to herd his rams in Glen's Village"
+      "condition": "峡谷の村で羊飼いのラムの世話を手伝う"
     },
     "dream_glen": {
-      "name": "Delicious Dream",
-      "description": "A cozy dream?",
-      "condition": "Dream at the South Ruins Exterior in Glen"
+      "name": "美味しい夢",
+      "description": "居心地の良い夢？",
+      "condition": "峡谷の遺跡外観南で夢を見る"
     },
     "refuge": {
-      "name": "On the Catwalks",
-      "description": "These might be your last steps in this world.",
-      "condition": "Reach Refuge"
+      "name": "キャットウォークで",
+      "description": "これがこの世界での最後のステップかもしれない。",
+      "condition": "避難所に到達する"
     },
     "george_refuge": {
       "name": "Temp Badge Name (Do not translate)",
       "condition": "Temp condition text (do not translate)"
     },
     "pancakes_refuge": {
-      "name": "Tasty Retreat",
-      "description": "You've gone a long way brave Messiah, please take a rest and enjoy a nice treat!",
-      "condition": "Take a break to eat pancakes in the Refuge's Cafe"
+      "name": "美味しいリフレッシュ",
+      "description": "勇敢な救世主として長い道のりを歩んできたのだから、どうかゆっくり休んで、おいしいご馳走を楽しんでほしい!",
+      "condition": "避難所のカフェでパンケーキを食べて休憩する"
     },
     "maze_end_refuge": {
-      "name": "Phosphor's Guidance",
-      "description": "There's always a way.",
-      "condition": "Return where everything started"
+      "name": "蛍光体の導き",
+      "description": "必ず方法はある。",
+      "condition": "全てが始まった場所に戻る"
     },
     "world_saved_ending": {
-      "name": "ONESHOT?",
-      "description": "So that's how the story ends...",
-      "condition": "Niko saved the world."
+      "name": "一度きり？",
+      "description": "そうして物語は終わる……",
+      "condition": "ニコは世界を救った。"
     },
     "niko_home_ending": {
       "name": "Temp Badge Name (Do not translate)",
-      "condition": "The savior is gone. All hope for the world is lost."
+      "condition": "救世主はいなくなった。この世界の全ての希望は消滅した。"
     },
     "flower_ending": {
       "name": "Temp Badge Name (Do not translate)",
-      "condition": "See the flower grow during the ending"
+      "condition": "エンディングで花の成長を見届ける"
     }
   }
 }
