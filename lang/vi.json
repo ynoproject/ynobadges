@@ -1219,7 +1219,7 @@
     },
     "yukata": {
       "name": "Yukata",
-      "condition": "Gây hại Yukata ở Invisible Maze cho đến khi bị đưa đến vùng cô lập"
+      "condition": "Gây hại Yukata ở Invisible Maze cho đến khi bị đưa đến vùng biệt lập"
     },
     "blood_ghosts": {
       "name": "Ma khát máu",
@@ -1294,7 +1294,7 @@
       "description": "Thà sớm hơn là muộn!",
       "condition": "Tìm các cột đồng hồ ở Garden World (đêm), Blue Forest, Botanical Garden, Sculpture Park, Twilight Park, Monochrome School, Sunrise Road, Pure White Lands và Critter Village",
       "checkbox": {
-        "garden_world_clock_pole": "Garden World (night)",
+        "garden_world_clock_pole": "Garden World (đêm)",
         "blue_forest_clock_pole": "Blue Forest",
         "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "Botanical Garden",
         "sculpture_park_clock_pole": "Sculpture Park",
@@ -1313,7 +1313,7 @@
     "lamplighter": {
       "name": "Dập tắt",
       "description": "Thế giới chìm trong bóng tối...",
-      "condition": "Lãnh hậu quả sau khi sát hại người giữ lửa"
+      "condition": "Lãnh hậu quả sau khi sát hại người thắp đèn"
     },
     "provost": {
       "name": "Giải lao",
@@ -1664,7 +1664,7 @@
     "maple_symphony": {
       "name": "Giai điệu lá phong",
       "description": "Một giai điệu hay",
-      "condition": "Nghe bản nhạc bởi sinh vật tròn màu cam ở Maple Shrine"
+      "condition": "Nghe bản nhạc của sinh vật tròn màu cam ở Maple Shrine"
     },
     "jiangshi": {
       "name": "Cương thi!",
@@ -1680,9 +1680,9 @@
       "condition": "Giải cứu nạn nhân trong Snowy Forest bằng cách tìm thấy họ khi còn sống và tương tác với họ bằng hiệu ứng Điện thoại"
     },
     "chaser_party": {
-      "name": "Tiệc ma đuổi",
+      "name": "Tiệc quái đuổi",
       "description": "Tình bạn diệu kỳ.",
-      "condition": "Bị mai phục bởi nhóm ma đuổi khi tương tác với TV trong Urotsuki's Dream Apartments"
+      "condition": "Bị mai phục bởi nhóm quái đuổi khi tương tác với TV trong Urotsuki's Dream Apartments"
     },
     "cyber_prison": {
       "name": "Mèo xui xẻo",
@@ -1759,7 +1759,7 @@
     },
     "star_planetarium": {
       "name": "Cỗ máy chiêm tinh",
-      "condition": "Xem \"Starry Sky Event\" ở Planetarium"
+      "condition": "Ngắm bầu trời đầy sao ở Planetarium"
     },
     "cosmic_daydream": {
       "name": "Giấc mơ trưa",
@@ -1926,7 +1926,7 @@
     "2kki_gold": {
       "name": "Yume 2kki Vàng",
       "description": "Thành viên Vàng 2kki",
-      "condition": "Climb the pyramid, beat the pharaoh, and become a Yume 2kki Gold Member™"
+      "condition": "Leo lên kim tự tháp, đánh bại pharaoh, và trở thành Thành viên Vàng Yume 2kki™"
     },
     "gb_memories": {
       "name": "Ký ức GB",
@@ -1960,7 +1960,7 @@
       "condition": "Vào Reflecting Electron Zone"
     },
     "aquarius_prison": {
-      "name": "Aquarius Prison",
+      "name": "Ngục tù Bảo Bình",
       "description": "Coi chừng đừng có bước vào nhầm chỗ!",
       "condition": "Xem sự kiện Creatures of the Power Plant ở Power Plant"
     },
@@ -2040,7 +2040,7 @@
       "condition": "Vào căn phòng với quái vật hồng đau đầu ở Ecstasy World"
     },
     "robot_friend": {
-      "name": "Robot Friend",
+      "name": "Người bạn robot",
       "description": "Which screen did you get?",
       "condition": "Vào phòng của Alley Robot trong Dark Alleys"
     },
@@ -2102,7 +2102,7 @@
       "condition": "Sát hại ít nhất 1000 sinh vật"
     },
     "cinder_heaven": {
-      "name": "Cinder Statue Heaven",
+      "name": "Thiên đường tượng đá bọt",
       "condition": "Vào Cinder Statue Heaven"
     },
     "fossilized_haven": {
@@ -2163,7 +2163,7 @@
       "condition": "Vào khu vực chính của Rose Church"
     },
     "shadow_forest": {
-      "name": "Shadow Forest",
+      "name": "Rừng tối",
       "description": "Sao bạn lại quay lại?",
       "condition": "Vào Shadow Woman Forest"
     },
@@ -2306,7 +2306,7 @@
       "condition": "Đến Digital Heart Space"
     },
     "angel_starfield_garden": {
-      "name": "Golden Angel",
+      "name": "Thiên thần vàng",
       "description": "The Angel's Descent",
       "condition": "Tìm gặp thiên thần vàng trong Starfield Garden"
     },
@@ -2371,7 +2371,7 @@
       "condition": "Bị người đánh cá câu lên ở Dream Beach"
     },
     "home_within_nowhere": {
-      "name": "Home Within Nowhere",
+      "name": "Ngôi nhà giữa hư vô",
       "description": "Một căn nhà đơn độc hiện lên trên bản vẽ trắng trơn.",
       "condition": "Vào Home Within Nowhere"
     },
@@ -2393,7 +2393,7 @@
       "condition": "Vào GB Forest ẩn trong Sketch Plains"
     },
     "carousel_oriental": {
-      "name": "Carousel",
+      "name": "Đu quay",
       "description": "Xoay vòng xoay vòng...",
       "condition": "Đến thăm 6 địa điểm được mô tả mà không sử dụng kết nối từ Oriental Pub (Test Facility, Holiday Hell, Ice Cream Islands, Tribulation Complex, Platformer World, Abandoned Grounds)",
       "checkbox": {
@@ -2502,8 +2502,8 @@
       }
     },
     "lone_penguin": {
-      "name": "Lone Penguin",
-      "condition": "Đến vùng đảo bị cô lập ở Paradise"
+      "name": "Chim cánh cụt đơn độc",
+      "condition": "Đến vùng đảo biệt lập ở Paradise"
     },
     "eyeball_bartender": {
       "name": "Eyeball Bartender",
@@ -2596,7 +2596,7 @@
     },
     "pale_luminescence": {
       "name": "Ánh quang nhợt nhạt",
-      "description": "A serene stony area that lies a hanging, illuminating chandelier with vibrant stained windows.",
+      "description": "Một gian phòng đá trầm lặng với chiếc đèn chùm soi sáng và những ô cửa kính màu rực rỡ.",
       "condition": "Đến Marble Room trong Marble Ruins"
     },
     "twilit_savanna": {
@@ -2614,7 +2614,7 @@
     },
     "azure_flowers": {
       "name": "Đóa hoa màu thiên thanh",
-      "description": "Khi những bông hoa màu lam hiện lên trong gió, những bông hoa màu cam đứng lặng. The deepest of your dreams laying on your mind, are floating over the sunset of the hill.",
+      "description": "Khi những bông hoa màu lam hiện lên trong gió, những bông hoa màu cam đứng lặng. Nơi sâu thẳm nhất của cơn mơ vốn nằm trong tâm trí, giờ lại trồi lên hoàng hôn nơi đỉnh đồi.",
       "condition": "Dùng hiệu ứng Côn trùng cạnh những bông hoa trong Snowy Forest, Cotton Candy Haven (ở nhà của Kigaru), Nocturnal Grove, Cloaked Pillar World, Lavender Waters",
       "checkbox": {
         "flowers_snow_forest": "Snowy Forest",
@@ -2692,7 +2692,7 @@
     "mono_schoolgirl_trap": {
       "name": "Cánh đồng của tiếng thét",
       "description": "あああ",
-      "condition": "Cưa Monochrome Schoolgirl trong Monochrome Fields và bị đẩy vào khu vực cô lập"
+      "condition": "Cưa Monochrome Schoolgirl trong Monochrome Fields và bị đẩy vào khu biệt lập"
     },
     "blizzard_fish_trap": {
       "name": "Đừng đi trên băng",
@@ -3009,7 +3009,7 @@
     },
     "shinto_curse_chaser": {
       "name": "Cursing Vengefulness",
-      "condition": "Bị ma đuổi ở Shinto Shrine bắt"
+      "condition": "Bị quái đuổi ở Shinto Shrine bắt"
     },
     "teru_teru_bozu_pond": {
       "name": "Teru Teru Pond",
@@ -3103,8 +3103,8 @@
       "condition": "Vào Realm of Gluttony"
     },
     "sepia_clouds_creatures": {
-      "name": "Nostalgic Clouds",
-      "description": "Strange creatures in the sepia clouds.",
+      "name": "Những đám mây hoài niệm",
+      "description": "Những sinh vật kỳ lạ giữa những đám mây tông sepia.",
       "condition": "Tương tác với các loại sinh vật trong Sepia Clouds World"
     },
     "inu_san_psyche": {
@@ -3408,10 +3408,10 @@
     "japan_town_secrets": {
       "name": "Old Times",
       "description": "Old like wine",
-      "condition": "Trong Japan Town, tìm gặp Ghost Maiko, tìm những sinh vật ẩn mình trong một phòng cô lập bằng hiệu ứng Mắt kính, và tương tác với Kanban Otoko và News Man",
+      "condition": "Trong Japan Town, tìm gặp Ghost Maiko, tìm những sinh vật ẩn mình trong một phòng biệt lập bằng hiệu ứng Mắt kính, và tương tác với Kanban Otoko và News Man",
       "checkbox": {
         "japan_town_hotel": "tìm gặp Ghost Maiko",
-        "japan_town_glasses": "tìm những sinh vật ẩn mình trong một phòng cô lập bằng hiệu ứng Mắt kính",
+        "japan_town_glasses": "tìm những sinh vật ẩn mình trong một phòng biệt lập bằng hiệu ứng Mắt kính",
         "japan_town_otoko": "Kanban Otoko",
         "japan_town_news_man": "News Man"
       }
@@ -3450,7 +3450,7 @@
       "condition": "Thu về số 夢 tối đa từ quân tốt bằng cách thu thập đủ số hiệu ứng"
     },
     "carousel_chalkboard": {
-      "name": "Chalky Carousel",
+      "name": "Đu quay phấn màu",
       "description": "Không xoay à? Tưởng tượng đi!",
       "condition": "Leo lên chú ngựa gỗ ở Chalkboard Playground"
     },
@@ -3555,7 +3555,7 @@
     "chaser_collision_world": {
       "name": "CẨN THẬN",
       "description": "UROTSUKI KHÔNG NGHE ĐƯỢC CHÚNG TA RỒIIIIII",
-      "condition": "Bị bắt bởi ma đuổi ở Collision World"
+      "condition": "Bị bắt bởi quái đuổi ở Collision World"
     },
     "spacey_retreat_moon": {
       "name": "Fly Me to the Moon",
@@ -4012,7 +4012,7 @@
     },
     "beach_challenge": {
       "name": "Beach Bum",
-      "description": "They say salt water cures everything",
+      "description": "Người ta nói nước muối là thuốc chữa bách bệnh",
       "condition": "Đến Mixed Beach, Dream Beach, Grand Beach, Realistic Beach, và Blood Red Beach",
       "checkbox": {
         "beach_mixed_a|beach_mixed_b": "Mixed Beach",
@@ -4034,7 +4034,7 @@
     },
     "cloud_sky_kingdom": {
       "name": "Frowning Cumulus",
-      "description": "If you keep scaring them they will turn into water!",
+      "description": "Nếu bạn dọa chúng suốt chúng sẽ tan thành nước luôn đấy!",
       "condition": "Dùng hiệu ứng Đèn lồng lên các đám mây nhạt màu trong Sky Kingdom để làm chúng biến mất"
     },
     "banana_b_g_islands": {
@@ -4107,8 +4107,8 @@
       "condition": "Tương tác với ma ở tầng bốn của Techno Condominium"
     },
     "b_w_challenge": {
-      "name": "Black and White",
-      "description": "And also red, sometimes...",
+      "name": "Đen và trắng",
+      "description": "Và đôi khi cũng có đỏ nữa...",
       "condition": "Đến các khu vực đơn sắc sau: Monochrome School, Monochrome Wastelands, Monochrome Feudal Japan, Monochromatic Abyss, Fused Faces World, Sea of Clouds, Monochrome Ranch, Monochrome Street, Doll House",
       "checkbox": {
         "b_w_mono_school_a|b_w_mono_school_b": "Monochrome School",
@@ -4173,7 +4173,7 @@
     },
     "butcher_chainsaw": {
       "name": "Girl Meats Her",
-      "description": "What does love taste like? Sweet? Bitter? Sour? Or... is it \"to die for\"?",
+      "description": "Tình yêu có vị gì? Ngọt? Đắng? Chua? Hay là... một hương vị \"có chết cũng phải thử\"?",
       "condition": "Giết người đồ tể ở Shop Ruins và Realm of Gluttony",
       "checkbox": {
         "butcher_shop_ruins": "Shop Ruins",
@@ -4192,7 +4192,7 @@
     },
     "glasses_flower_scent": {
       "name": "Blossom Anew",
-      "description": "When I woke up, I couldn't feel my arms or legs.",
+      "description": "Khi tôi tỉnh dậy, tay chân tôi hoàn toàn mất cảm giác.",
       "condition": "Tìm gặp người tóc hồng ở Flower Scent World và biến họ thành bông hoa"
     },
     "file_viewer": {
@@ -4222,7 +4222,7 @@
     },
     "vm_kitsune_residence": {
       "name": "Fluffying Machine",
-      "description": "Yuck! There is fox hair in my drink!",
+      "description": "Eo ôi! Có lông cáo trong đồ uống của tôi!",
       "condition": "Tương tác với máy bán hàng trang trí tai sói ở Kitsune Residence"
     },
     "kitsune_residence": {
@@ -4255,7 +4255,7 @@
     },
     "techno_cdm_eight": {
       "name": "888",
-      "description": "Group of eight shape-eight creatures on the eighth floor",
+      "description": "Nhóm tám sinh vật hình số tám trên tầng tám",
       "condition": "Xem các sinh vật hình số 8 đổi màu bằng hiệu ứng Bé trai và Marginal trên tầng tám của Techno Condominium"
     },
     "guardian_forest_pier": {
@@ -4284,7 +4284,7 @@
     },
     "telephone_virtual_city": {
       "name": "Unexpected Call",
-      "description": "I don't think the cow from River Complex understands why Virtual City's inhabitants live in a place full of numbers.",
+      "description": "Tôi không nghĩ con bò ở River Complex có thể hiểu được tại sao cư dân Virtual City lại sống ở một nơi toàn số.",
       "condition": "Dùng điện thoại ở Virtual City để đi đến River Complex"
     },
     "red_haired_girl_thumbtack": {
@@ -4341,7 +4341,7 @@
     },
     "penguin_gb_game": {
       "name": "Virtual Penguin",
-      "description": "I may not be not an expert on penguinology but this suit is really comfortable!",
+      "description": "Tôi không phải là chuyên gia cánh cụt học nhưng bộ đồ này siêu thoải mái luôn!",
       "condition": "Hoàn thành Penguin GB Game"
     },
     "megusuri_uri_visine": {
@@ -4613,7 +4613,7 @@
       "condition": "Đến vực núi ở Moon and Castles"
     },
     "broken_shoal": {
-      "name": "Cát bụi",
+      "name": "Cát bụi xanh ngọc",
       "description": "Giữa sự hỗn loạn lại là cái đẹp không kể.",
       "condition": "Đến Broken Shoal"
     },
@@ -4873,7 +4873,7 @@
     "challenge_chromalimbo": {
       "name": "Luyện ngục đa sắc",
       "description": "Ôi sự điên cuồng, thật nhiều màu, thật sặc sỡ...",
-      "condition": "Tìm vật dịch chuyển đến khu cô lập trong Chromatic Limbo và dùng Cưa máy"
+      "condition": "Tìm vật dịch chuyển đến khu biệt lập trong Chromatic Limbo và dùng Cưa máy"
     },
     "eggs_blue_restaurant": {
       "name": "Don't Keep your Effects in one Basket!",
