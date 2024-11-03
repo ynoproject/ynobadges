@@ -8739,5 +8739,71 @@
       "name": "Temp Badge Name (Do not translate)",
       "condition": "Voir la fleur pousser pendant la fin"
     }
+  },
+  "unaccomplished": {
+    "cat_deep_forest": {
+      "name": "Profond sommeil",
+      "description": "C'est juste un chat...",
+      "condition": "Trouver le chat dans la Deep Forest"
+    },
+    "luxurious_hotel_room": {
+      "name": "Silhouettes de l'hôtel",
+      "description": "Se relaxant accompagné.",
+      "condition": "Visiter la version de jour et la version de nuit de la Luxurious Hotel Room",
+      "checkbox": {
+        "luxurious_hotel_room_d": "version de jour",
+        "luxurious_hotel_room_n": "version de nuit"
+      }
+    },
+    "rave_rainy_moss": {
+      "name": "Fête de la maison moussue ?!",
+      "description": "Wouah, qu'est-ce que c'est que ça ?? Ah, d'accord...",
+      "condition": "Déclencher l'événement de la Rave de la Salle Moussue à Rainy Moss"
+    },
+    "maou_golden_statue": {
+      "name": "sinistre_don.gif",
+      "description": "Tu le mérites, mon p'tit~",
+      "condition": "Compléter le niveau difficile du PC Game, puis retourner à Maou's Bedchamber pour voir la statue en or"
+    },
+    "qiu_qin_zabu_un": {
+      "name": "Connexion imprévisible",
+      "description": "Comment est-elle arrivée ici ?! Non, je veux dire, comment est-ce que JE suis arrivé là ?!",
+      "condition": "Trouver Qiu Qin and Zabu"
+    },
+    "light_invisible_ink": {
+      "name": "Plus de lumière",
+      "description": "Il est mieux pour certaines choses de rester caché",
+      "condition": "Éteindre la lumière à Invisible Ink"
+    },
+    "dark_cave_end": {
+      "name": "Le bout de l'infinité",
+      "description": "Où vas-tu ?",
+      "condition": "Prendre en chasse la mystérieuse silhouette jusqu'à la mener à sa dernière destination dans la Dark Cave"
+    },
+    "two_dots_l": {
+      "name": "Ton meilleur ami",
+      "description": "Il a l'air un peu différent",
+      "condition": "Devenir ami avec :l"
+    },
+    "kite_grassland": {
+      "name": "La brise et le cerf-volant",
+      "description": "Ressent la douce brise et la nature.",
+      "condition": "S'asseoir en-dessous de l'arbre avec le cerf-volant à Grassland"
+    },
+    "moon_light_sands": {
+      "name": "Sables lumineux",
+      "description": "La lune se reflète sur la surface sableuse grâce à sa brillance.",
+      "condition": "Visiter les Moon Light Sands"
+    },
+    "rose_girl_c_plate_world": {
+      "name": "Secret à l'eau de rose",
+      "description": "La pierre chuchote, la fleur fleurit.",
+      "condition": "Utiliser la property Emptiness au Character Plate World pour transformer la fille aux nattes en une rose rouge"
+    },
+    "plastic_bottle_evil": {
+      "name": "Quelque chose d'inoubliable... ?",
+      "description": "Aah, tu étais à mes côtés. Depuis toujours, en fait...",
+      "condition": "Faire une pose après avoir obtenu la property Plastic Bottle"
+    }
   }
 }
