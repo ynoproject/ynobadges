@@ -1,9 +1,13 @@
 {
-  "reqType": "tags",
-  "reqStrings": [
-    "qiu_qin_un_a",
-    "qiu_qin_un_b",
-    "zabu_un"
+  "reqType": "tagArrays",
+  "reqStringArrays": [
+    [
+      "qiu_qin_un_a",
+      "qiu_qin_un_b"
+    ],
+    [
+      "zabu_un"
+    ]
   ],
   "map": 154,
   "hidden": true,
