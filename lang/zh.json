@@ -8715,7 +8715,8 @@
       "condition": "Rescue Alula in the Ruins of Glen"
     },
     "novelty_t_shirt_glen": {
-      "name": "Temp Badge Name (Do not translate)",
+      "name": "Underwhelming Reward",
+      "description": "I herded rams and all I got was this lousy badge",
       "condition": "Try to equip the novelty T-shirt"
     },
     "shepherd_glen": {
@@ -8758,6 +8759,72 @@
     "flower_ending": {
       "name": "Temp Badge Name (Do not translate)",
       "condition": "See the flower grow during the ending"
+    }
+  },
+  "unaccomplished": {
+    "cat_deep_forest": {
+      "name": "Deep Sleep",
+      "description": "Just a cat...",
+      "condition": "Find the cat in Deep Forest"
+    },
+    "luxurious_hotel_room": {
+      "name": "Hotel Silhouettes",
+      "description": "Relaxing in company.",
+      "condition": "Visit the day version and the night version of the Luxurious Hotel Room",
+      "checkbox": {
+        "luxurious_hotel_room_d": "day version",
+        "luxurious_hotel_room_n": "night version"
+      }
+    },
+    "rave_rainy_moss": {
+      "name": "Mosses House Party?!",
+      "description": "Wow what's that? Oh, okay then...",
+      "condition": "Trigger the Mossy Room Rave event in Rainy Moss"
+    },
+    "maou_golden_statue": {
+      "name": "sinister_bestowal.gif",
+      "description": "You deserve it, my boi~",
+      "condition": "Complete the difficult level in the PC Game, then return to Maou's Bedchamber to see the Golden statue"
+    },
+    "qiu_qin_zabu_un": {
+      "name": "Unpredictable Connection",
+      "description": "How did she got here?! No, the right question should be why am I here?!",
+      "condition": "Find Qiu Qin and Zabu"
+    },
+    "light_invisible_ink": {
+      "name": "No More Light",
+      "description": "It's better for some things to stay hidden",
+      "condition": "Turn off the light in Invisible Ink"
+    },
+    "dark_cave_end": {
+      "name": "The Edge of Infinity",
+      "description": "Where are you going?",
+      "condition": "Chase the mysterious silhouette until its last destination in the Dark Cave"
+    },
+    "two_dots_l": {
+      "name": "Your Best Friend",
+      "description": "It looks a little different",
+      "condition": "Become friend with :l"
+    },
+    "kite_grassland": {
+      "name": "The Breeze and the Kite",
+      "description": "Feel comfortable wind and the nature.",
+      "condition": "Sit under the tree with the kite in Grassland"
+    },
+    "moon_light_sands": {
+      "name": "Luminescent Sands",
+      "description": "The moon shines the sandy surface with its luminescence.",
+      "condition": "Visit Moon Light Sands"
+    },
+    "rose_girl_c_plate_world": {
+      "name": "Rosemind Enigma",
+      "description": "The stone whispers, the rose blooms.",
+      "condition": "Use the Emptiness property to make the pigtails girl in the Character Plate World turn into a red rose"
+    },
+    "plastic_bottle_evil": {
+      "name": "Something Unforgettable...?",
+      "description": "Aah, you were at my side. All along...",
+      "condition": "Make a pose after getting the Plastic Bottle property"
     }
   }
 }

@@ -3311,7 +3311,7 @@
     },
     "kigaru": {
       "name": "Heavenly Haven's Key",
-      "description": "ふわふわピンクのお菓子の家の中には、キラキラと輝くぜんまいを頭につけた少女が腰を下ろして休んでいる。.",
+      "description": "ふわふわピンクのお菓子の家の中には、キラキラと輝くぜんまいを頭につけた少女が腰を下ろして休んでいる。",
       "condition": "havenのゼンマイ少女からゼンマイをもらう"
     },
     "foliage_estate_satellite_dish": {
@@ -8709,7 +8709,8 @@
       "condition": "峡谷の遺跡でアルーラを救出する"
     },
     "novelty_t_shirt_glen": {
-      "name": "Temp Badge Name (Do not translate)",
+      "name": "期待外れの報酬",
+      "description": "羊の世話をして手に入れたのはちゃっちいバッジだけ",
       "condition": "ノベルティTシャツを着ようとする"
     },
     "shepherd_glen": {
@@ -8752,6 +8753,72 @@
     "flower_ending": {
       "name": "Temp Badge Name (Do not translate)",
       "condition": "エンディングで花の成長を見届ける"
+    }
+  },
+  "unaccomplished": {
+    "cat_deep_forest": {
+      "name": "深い眠り",
+      "description": "ただの猫だ……",
+      "condition": "Deep Forestで猫を見つける"
+    },
+    "luxurious_hotel_room": {
+      "name": "ホテル・シルエット",
+      "description": "小部屋でリラックス。",
+      "condition": "昼と夜のLuxurious Hotel Roomに到達する",
+      "checkbox": {
+        "luxurious_hotel_room_d": "昼",
+        "luxurious_hotel_room_n": "夜"
+      }
+    },
+    "rave_rainy_moss": {
+      "name": "苔の家パーティー？！",
+      "description": "うわぁ、何それ？あぁ、それじゃ……",
+      "condition": "Rainy MossでMossy Room Raveイベントを見る"
+    },
+    "maou_golden_statue": {
+      "name": "不穏な贈り物.gif",
+      "description": "君はこれに相応しいよ、坊や～",
+      "condition": "PC Gameの難しいレベルをクリアして、Maou's Bedchamberに戻って金の像を見る"
+    },
+    "qiu_qin_zabu_un": {
+      "name": "予測不能な繋がり",
+      "description": "どうしてここに彼女がいるんだ？！いや、どうして私がここにいるんだ、が正しいのか？！",
+      "condition": "Qiu QinとZabuを見つける"
+    },
+    "light_invisible_ink": {
+      "name": "光はいらない",
+      "description": "隠しておいたほうがいいこともある",
+      "condition": "Invisible Inkの明かりを消す"
+    },
+    "dark_cave_end": {
+      "name": "無限の果て",
+      "description": "どこに行くんだ？",
+      "condition": "謎の影を追いかけ、Dark Caveの奥に到達する"
+    },
+    "two_dots_l": {
+      "name": "キミの親友",
+      "description": "少し違うようだ",
+      "condition": ":lと友達になる"
+    },
+    "kite_grassland": {
+      "name": "そよ風と凧",
+      "description": "心地よい風と自然を感じて。",
+      "condition": "Grasslandで凧が引っかかった木の下に座る"
+    },
+    "moon_light_sands": {
+      "name": "光り輝く砂",
+      "description": "月光が砂を照らしている。",
+      "condition": "Moon Light Sandsに到達する"
+    },
+    "rose_girl_c_plate_world": {
+      "name": "謎めく薔薇の心",
+      "description": "石が囁き、薔薇は花咲く。",
+      "condition": "Character Plateにいるおさげ髪の女の子をEmptinessを使って赤い薔薇に変化させる"
+    },
+    "plastic_bottle_evil": {
+      "name": "忘れられない何か……？",
+      "description": "あぁ、そばに居たのか。ずっと……",
+      "condition": "Plastic Bottleを手に入れ、ポーズをとる"
     }
   }
 }
