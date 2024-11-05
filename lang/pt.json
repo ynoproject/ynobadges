@@ -5471,6 +5471,11 @@
       "name": "Flor Chamuscada",
       "description": "Neve e cinzas.",
       "condition": "Toque na planta em Scorched Wasteland para fazer com que as cinzas caiam do céu"
+    },
+    "birthday_tower_top": {
+      "name": "Happy Birthday!",
+      "description": "Make a wish and blow out the candles!",
+      "condition": "Reach the top of the Birthday Tower"
     }
   },
   "unconscious": {
@@ -6150,6 +6155,45 @@
       "name": "Vidro Colorguacheado",
       "description": "Para os amantes da chuva e do vidro",
       "condition": "Visite  o Glass Shard Path"
+    },
+    "outside_primeval_edifice": {
+      "name": "Ancient Sky Garden",
+      "description": "Take a seat and admire the sky",
+      "condition": "Visit the outside part of Primeval Edifice"
+    },
+    "playzone_maze_eggcellent": {
+      "name": "Lost Children",
+      "description": "I just want to go home!",
+      "condition": "Interact with the girl and find the egg in Playzone Maze",
+      "checkbox": {
+        "playzone_maze_girl": "Interact with the girl",
+        "playzone_maze_egg": "find the egg"
+      }
+    },
+    "metal_menu_cave": {
+      "name": "Spooky Shopkeeper",
+      "description": "BOO! Howdy, please take a look!",
+      "condition": "Buy the Metal menu theme. If you have already unlocked it, return in Cave."
+    },
+    "fisher_planetarium_garden": {
+      "name": "Stellar Fisher",
+      "description": "You've never seen a fishing shark before?",
+      "condition": "Equip the Lumen eidolon near Fishershark in Planetarium Garden"
+    },
+    "bug_bleding_ladders": {
+      "name": "Cha Cha Cha!",
+      "description": "Bein' me is the best!",
+      "condition": "Interact with the bug with eyes creature in Bleeding Ladders"
+    },
+    "ds_nothing_null": {
+      "name": "The End is Dead",
+      "description": "The view is great from here, isn't it?",
+      "condition": "See the God of Nothing in Null"
+    },
+    "sunset_woods": {
+      "name": "Puddles of Sunset",
+      "description": "Look down, there's the sky",
+      "condition": "Visit Sunset Woods"
     }
   },
   "flow": {
@@ -6364,6 +6408,10 @@
       "name": "Gato Enferrujado",
       "description": "Oh, adorável gatinho com a cor da neve",
       "condition": "Obtenha o efeito Cat. Se você já o tiver desbloqueado, volte ao local onde o efeito pode ser encontrado no Rainbow Maze."
+    },
+    "oreko_hole_deadhole": {
+      "name": "Abyssal Echo",
+      "condition": "As Rust, see Oreko disappear in Hole's Deadhole"
     }
   },
   "prayers": {
@@ -6661,6 +6709,11 @@
       "name": "Lotus Veranda",
       "description": "Som sereno da água, aroma floral calmante.",
       "condition": "Vá até a sacada do Dark Town"
+    },
+    "girl_water_mill": {
+      "name": "A Voice Unheard",
+      "description": "I wonder what she's thinking about...",
+      "condition": "Find the mysterious girl in Water Mill"
     }
   },
   "someday": {
@@ -7816,6 +7869,10 @@
       "name": "Labirinto Vermelho",
       "description": "Estou perdido neste lugar...",
       "condition": "Visite o Red Hand Labyrinth"
+    },
+    "muzou_ending_4": {
+      "name": "Reap What You Sow",
+      "condition": "See the Ending #4"
     }
   },
   "ultraviolet": {
@@ -8455,6 +8512,11 @@
       "name": "Mosaico Desgastado",
       "description": "É a saudade dos tempos anteriores ao abandono, tempos lembrados apenas em um passado remoto.",
       "condition": "Visite o Old Apartment Building"
+    },
+    "tsushin_ending_2": {
+      "name": "On Hold",
+      "description": "The number you have called is unavailable...",
+      "condition": "See the Ending #2"
     }
   },
   "nostalgic": {
