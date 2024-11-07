@@ -4906,7 +4906,7 @@
       "condition": "Reach the warp to the isolated section in Chromatic Limbo and chainsaw it"
     },
     "eggs_blue_restaurant": {
-      "name": "Don't Keep your Effects in one Basket!",
+      "name": "Don't Keep Your Effects in One Basket!",
       "description": "These eggs ain't all they cracked up to be.",
       "condition": "Chainsaw every effect egg creature in the room 13 of Blue Restaurant then use the bed there"
     },
@@ -5467,6 +5467,11 @@
       "name": "Scorched Flower",
       "description": "Snow and ash.",
       "condition": "Touch the plant in Scorched Wasteland to trigger ash falling from the sky"
+    },
+    "birthday_tower_top": {
+      "name": "Happy Birthday!",
+      "description": "Make a wish and blow out the candles!",
+      "condition": "Reach the top of the Birthday Tower"
     }
   },
   "unconscious": {
@@ -6146,6 +6151,45 @@
       "name": "Colorwashed Glass",
       "description": "For lovers of rain and glass",
       "condition": "Visit Glass Shard Path"
+    },
+    "outside_primeval_edifice": {
+      "name": "Ancient Sky Garden",
+      "description": "Take a seat and admire the sky",
+      "condition": "Visit the outside part of Primeval Edifice"
+    },
+    "playzone_maze_eggcellent": {
+      "name": "Lost Children",
+      "description": "I just want to go home!",
+      "condition": "Interact with the girl and find the egg in Playzone Maze",
+      "checkbox": {
+        "playzone_maze_girl": "Interact with the girl",
+        "playzone_maze_egg": "find the egg"
+      }
+    },
+    "metal_menu_cave": {
+      "name": "Spooky Shopkeeper",
+      "description": "BOO! Howdy, please take a look!",
+      "condition": "Buy the Metal menu theme. If you have already unlocked it, return in Cave."
+    },
+    "fisher_planetarium_garden": {
+      "name": "Stellar Fisher",
+      "description": "You've never seen a fishing shark before?",
+      "condition": "Equip the Lumen eidolon near Fishershark in Planetarium Garden"
+    },
+    "bug_bleding_ladders": {
+      "name": "Cha Cha Cha!",
+      "description": "Bein' me is the best!",
+      "condition": "Interact with the bug with eyes creature in Bleeding Ladders"
+    },
+    "ds_nothing_null": {
+      "name": "The End is Dead",
+      "description": "The view is great from here, isn't it?",
+      "condition": "See the God of Nothing in Null"
+    },
+    "sunset_woods": {
+      "name": "Puddles of Sunset",
+      "description": "Look down, there's the sky",
+      "condition": "Visit Sunset Woods"
     }
   },
   "flow": {
@@ -6360,6 +6404,10 @@
       "name": "Rusty Cat",
       "description": "Oh, adorable kitty with color from the snow",
       "condition": "Obtain the Cat effect. If you have already unlocked it, return where the effect can be found in the Rainbow Maze."
+    },
+    "oreko_hole_deadhole": {
+      "name": "Abyssal Echo",
+      "condition": "As Rust, see Oreko disappear in Hole's Deadhole"
     }
   },
   "prayers": {
@@ -6657,6 +6705,11 @@
       "name": "Lotus Veranda",
       "description": "Serene sound of water, soothing floral scent.",
       "condition": "Make your way to the balcony of the Dark Town"
+    },
+    "girl_water_mill": {
+      "name": "A Voice Unheard",
+      "description": "I wonder what she's thinking about...",
+      "condition": "Find the mysterious girl in Water Mill"
     }
   },
   "someday": {
@@ -7813,6 +7866,10 @@
       "name": "Red Labyrinth",
       "description": "I'm lost in this place...",
       "condition": "Visit the Red Hand Labyrinth"
+    },
+    "muzou_ending_4": {
+      "name": "Reap What You Sow",
+      "condition": "See the Ending #4"
     }
   },
   "ultraviolet": {
@@ -8438,6 +8495,11 @@
       "name": "Weathered Mosaic",
       "description": "It's longing for times before abandonment, times recalled only from the remote past.",
       "condition": "Visit Old Apartment Building"
+    },
+    "tsushin_ending_2": {
+      "name": "On Hold",
+      "description": "The number you have called is unavailable...",
+      "condition": "See the Ending #2"
     }
   },
   "nostalgic": {
@@ -8775,7 +8837,7 @@
     "rose_girl_c_plate_world": {
       "name": "Rosemind Enigma",
       "description": "The stone whispers, the rose blooms.",
-      "condition": "Use the Emptiness property to make the pigtails girl in the Character Plate World turn into a red rose"
+      "condition": "Use the Emptiness property to make the pigtails girl turn into a red rose in Character Plate"
     },
     "plastic_bottle_evil": {
       "name": "Something Unforgettable...?",

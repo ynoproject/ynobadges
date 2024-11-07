@@ -5476,6 +5476,11 @@
       "name": "Fleur brûlée",
       "description": "De la neige et des cendres.",
       "condition": "Interagir avec la plante à Scorched Wasteland pour déclencher une pluie de cendres"
+    },
+    "birthday_tower_top": {
+      "name": "Joyeux anniversaire !",
+      "description": "Souffle les bougies et fais un vœu !",
+      "condition": "Atteindre le sommet de la Birthday Tower"
     }
   },
   "unconscious": {
@@ -6155,6 +6160,45 @@
       "name": "Vitres colorées",
       "description": "Pour les amoureux de la pluie et du verre",
       "condition": "Visiter le Glass Shard Path"
+    },
+    "outside_primeval_edifice": {
+      "name": "Jardin céleste d'antan",
+      "description": "Prends une chaise et regarde le ciel",
+      "condition": "Visiter la zone extérieure de Primeval Edifice"
+    },
+    "playzone_maze_eggcellent": {
+      "name": "Enfant perdu",
+      "description": "Je veux juste rentrer chez moi !",
+      "condition": "Interagir avec la fille et trouver l'œuf à la Playzone Maze",
+      "checkbox": {
+        "playzone_maze_girl": "Interagir avec la fille",
+        "playzone_maze_egg": "trouver l'œuf"
+      }
+    },
+    "metal_menu_cave": {
+      "name": "Marchand effrayant",
+      "description": "BOO ! Hola, voici c'que j'propose !",
+      "condition": "Acheter le thème de menu Métal. Si vous l'avez déjà obtenu, retournez à la Cave."
+    },
+    "fisher_planetarium_garden": {
+      "name": "Pêcheur stellaire",
+      "description": "T'as jamais vu un requin-pêcheur avant ?",
+      "condition": "Équiper l'eidolon Lumen à côté du requin-pêcheur au Planetarium Garden"
+    },
+    "bug_bleding_ladders": {
+      "name": "Cha cha cha !",
+      "description": "Être moi c'est le pied !",
+      "condition": "Interagir avec la créature insectoïde avec des yeux aux Bleeding Ladders"
+    },
+    "ds_nothing_null": {
+      "name": "La fin est morte",
+      "description": "La vue est magnifique d'ici, pas vrai ?",
+      "condition": "Voir le Dieu de Rien à Null"
+    },
+    "sunset_woods": {
+      "name": "Flaques de coucher de soleil",
+      "description": "Regarde, le ciel est là",
+      "condition": "Visiter les Sunset Woods"
     }
   },
   "flow": {
@@ -6369,6 +6413,10 @@
       "name": "Chat rouille",
       "description": "Oh, un adorable chaton aux couleurs de la neige !",
       "condition": "Obtenir l'effet Chat. Si vous l'avez déjà obtenu, retournez là où l'effet peut être trouvé au Rainbow Maze."
+    },
+    "oreko_hole_deadhole": {
+      "name": "Écho abyssal",
+      "condition": "En tant que Rust, voir Oreko disparaître au Trou Mort de Hole"
     }
   },
   "prayers": {
@@ -6666,6 +6714,11 @@
       "name": "Véranda lotus",
       "description": "Le son calme de l'eau, avec une apaisante odeur de fleur.",
       "condition": "Se rendre sur le balcon de la Dark Town"
+    },
+    "girl_water_mill": {
+      "name": "Une voix ignorée",
+      "description": "J'me demande bien à quoi elle pense...",
+      "condition": "Trouver la mystérieuse fille au Water Mill"
     }
   },
   "someday": {
@@ -7822,6 +7875,10 @@
       "name": "Labyrinthe rouge",
       "description": "Je suis perdu dans ce dédale...",
       "condition": "Visiter le Red Hand Labyrinth"
+    },
+    "muzou_ending_4": {
+      "name": "Récolte de la semance",
+      "condition": "Voir la fin #4"
     }
   },
   "ultraviolet": {
@@ -8461,6 +8518,11 @@
       "name": "Mosaïque érodée",
       "description": "Ce lieu a connu de meilleurs temps dans le passé, passé qui n'est plus qu'un souvenir lointain.",
       "condition": "Visiter l'Old Apartment Building"
+    },
+    "tsushin_ending_2": {
+      "name": "En pause",
+      "description": "Le numéro que vous avez demandé est indisponible...",
+      "condition": "Voir la fin #2"
     }
   },
   "nostalgic": {
@@ -8798,7 +8860,7 @@
     "rose_girl_c_plate_world": {
       "name": "Secret à l'eau de rose",
       "description": "La pierre chuchote, la fleur fleurit.",
-      "condition": "Utiliser la property Emptiness au Character Plate World pour transformer la fille aux nattes en une rose rouge"
+      "condition": "Utiliser la property Emptiness pour transformer la fille aux nattes en une rose rouge au Character Plate"
     },
     "plastic_bottle_evil": {
       "name": "Quelque chose d'inoubliable... ?",
