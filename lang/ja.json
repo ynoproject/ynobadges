@@ -6177,13 +6177,13 @@
       "condition": "ガラス片通路に到達する"
     },
     "outside_primeval_edifice": {
-      "name": "Ancient Sky Garden",
-      "description": "Take a seat and admire the sky",
-      "condition": "Visit the outside part of Primeval Edifice"
+      "name": "古代の天空の庭",
+      "description": "座って空に思いを馳せよう",
+      "condition": "原初の遺跡に到達する"
     },
     "playzone_maze_eggcellent": {
-      "name": "Lost Children",
-      "description": "I just want to go home!",
+      "name": "迷子の子供たち",
+      "description": "家に帰りたいだけなんだ！",
       "condition": "Interact with the girl and find the egg in Playzone Maze",
       "checkbox": {
         "playzone_maze_girl": "Interact with the girl",
@@ -6191,29 +6191,29 @@
       }
     },
     "metal_menu_cave": {
-      "name": "Spooky Shopkeeper",
-      "description": "BOO! Howdy, please take a look!",
-      "condition": "Buy the Metal menu theme. If you have already unlocked it, return in Cave."
+      "name": "不気味な店主",
+      "description": "ブー！やっほー、見てみて！",
+      "condition": "水晶の洞窟でメニュータイプ：メタルを購入する。すでに持っている場合は、もう一度水晶の洞窟に行く。"
     },
     "fisher_planetarium_garden": {
-      "name": "Stellar Fisher",
-      "description": "You've never seen a fishing shark before?",
-      "condition": "Equip the Lumen eidolon near Fishershark in Planetarium Garden"
+      "name": "星の釣り人",
+      "description": "魚人の釣り人を見たことがないのか？",
+      "condition": "プラネタリウム庭園にいる釣り人の近くで陽のエイドラを使う"
     },
     "bug_bleding_ladders": {
-      "name": "Cha Cha Cha!",
-      "description": "Bein' me is the best!",
-      "condition": "Interact with the bug with eyes creature in Bleeding Ladders"
+      "name": "チャチャチャ！",
+      "description": "ありのままの自分でいるのが一番！",
+      "condition": "流血梯子にいる多眼の虫に話しかける"
     },
     "ds_nothing_null": {
-      "name": "The End is Dead",
-      "description": "The view is great from here, isn't it?",
-      "condition": "See the God of Nothing in Null"
+      "name": "終わりは近い",
+      "description": "ここからの眺めは最高だろう？",
+      "condition": "Nullの輝く道で柵を調べると出現するものを見る"
     },
     "sunset_woods": {
-      "name": "Puddles of Sunset",
-      "description": "Look down, there's the sky",
-      "condition": "Visit Sunset Woods"
+      "name": "夕暮れの水溜まり",
+      "description": "見下ろせば、空がある",
+      "condition": "日没森林に到達する"
     }
   },
   "flow": {
@@ -6430,8 +6430,8 @@
       "condition": "ねこのエフェクトを入手する。すでに持っている場合、取得した場所に行く"
     },
     "oreko_hole_deadhole": {
-      "name": "Abyssal Echo",
-      "condition": "As Rust, see Oreko disappear in Hole's Deadhole"
+      "name": "深淵の響き",
+      "condition": "錆状態で、deadholeの消えるオレ子を見る"
     }
   },
   "prayers": {
@@ -6731,9 +6731,9 @@
       "condition": "Dark Townのバルコニーに到達する"
     },
     "girl_water_mill": {
-      "name": "A Voice Unheard",
-      "description": "I wonder what she's thinking about...",
-      "condition": "Find the mysterious girl in Water Mill"
+      "name": "聞こえない声",
+      "description": "彼女は何を考えているんだろう……",
+      "condition": "Water Millのmysterious girl を見る"
     }
   },
   "someday": {
@@ -7892,8 +7892,8 @@
       "condition": "Red Hand Labyrinthに到達する"
     },
     "muzou_ending_4": {
-      "name": "Reap What You Sow",
-      "condition": "See the Ending #4"
+      "name": "自分で蒔いた種",
+      "condition": "ENDを見る"
     }
   },
   "ultraviolet": {
