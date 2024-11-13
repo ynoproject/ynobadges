@@ -4917,7 +4917,7 @@
     "eggs_blue_restaurant": {
       "name": "Garde pas tes effets dans un seul panier !",
       "description": "Comment les effets ont fait pour avoir des œufs ??",
-      "condition": "Tronçonner chaque Œuffet dans la salle 13 du Blue Restaurant et ensuite utiliser le lit dans la salle"
+      "condition": "Faire disparaître chaque Œuffet dans la salle 13 du Blue Restaurant et ensuite utiliser le lit dans la salle"
     },
     "rune_dunes": {
       "name": "Sables d'Ōthalan",
@@ -6719,6 +6719,11 @@
       "name": "Une voix ignorée",
       "description": "J'me demande bien à quoi elle pense...",
       "condition": "Trouver la mystérieuse fille au Water Mill"
+    },
+    "nostalgic_alter": {
+      "name": "Anciens temps, certes, mais rêves passés",
+      "description": "Essaies-tu de te rappeler de tes souvenirs dans le monde onirique ? Les anciens temps te manque, pas vrai ?",
+      "condition": "Obtenir l'alter Nostalgique. Si vous l'avez déjà obtenu, retournez là où il peut être obtenu à la Train Station."
     }
   },
   "someday": {
@@ -7543,6 +7548,34 @@
       "name": "Erreur fatale",
       "description": "Tu ne devrais pas être ici",
       "condition": "Trouver un moyen de finir à Glitch"
+    },
+    "r_space_station_earth": {
+      "name": "Périgée",
+      "description": "Je peux voir ma maison d'ici.",
+      "condition": "Voir la Terre depuis la Reverse Space Station"
+    },
+    "pink_block_sea": {
+      "name": "Côte océanique rose",
+      "description": "Un littoral pastel.",
+      "condition": "Visiter la Pink Block Sea"
+    },
+    "pink_snowscape_globe": {
+      "name": "Doux blizzard rose",
+      "description": "Ce souvenir a le même goût qu'une glace à l'eau goût fraise.",
+      "condition": "Obtenir le souvenir boule à neige. Si vous l'avez déjà obtenu, retournez au Pink Snowscape."
+    },
+    "jarred_rose": {
+      "name": "Rose unique",
+      "description": "C'est le temps que tu as perdu pour ta rose qui fait ta rose si importante.",
+      "condition": "Visiter Jarred Rose"
+    },
+    "chambre_de_muma": {
+      "name": "Chambre onirique de Muma",
+      "condition": "Visiter la Bedroom"
+    },
+    "sands_of_time_sands": {
+      "name": "Là où les secondes passent, le sable reste",
+      "condition": "Laisser Muma finir enterrée aux Sands of Time. Si les sables ont atteint le sommet, retournez aux Sands of Time."
     }
   },
   "genie": {
@@ -7879,6 +7912,10 @@
     "muzou_ending_4": {
       "name": "Récolte de la semance",
       "condition": "Voir la fin #4"
+    },
+    "black_hair_soutarou": {
+      "name": "Cheveux noirs",
+      "condition": "Obtenir l'effet Cheveux noirs. Si vous l'avez déjà obtenu, retournez dans la Factory."
     }
   },
   "ultraviolet": {
@@ -8336,6 +8373,11 @@
       "name": "Repos au coin du feu",
       "description": "« Tu veux une guimauve ? J'peux t'en filer une si tu veux. »",
       "condition": "Trouver la campeuse dans la Caverne Météorite des Winter Hills"
+    },
+    "dust_bunny_effect": {
+      "name": "Irving et le lapin",
+      "description": "Un gros lapinou tout doux !",
+      "condition": "Obtenir l'effet Lapin de poussière. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé dans l'Attic World."
     }
   },
   "tsushin": {
@@ -8523,6 +8565,16 @@
       "name": "En pause",
       "description": "Le numéro que vous avez demandé est indisponible...",
       "condition": "Voir la fin #2"
+    },
+    "classic_effect_wormiko": {
+      "name": "Tenue décontractée",
+      "description": "Cette robe n'est-elle pas à croquer ?",
+      "condition": "Obtenir l'effet Robe classique. Si vous l'avez déjà obtenu, retournez au Floating Triangle Attic."
+    },
+    "detective_effect_wormiko": {
+      "name": "Détective Wormiko",
+      "description": "Sur les traces de Wormiarty !",
+      "condition": "Obtenir l'effet Détective. Si vous l'avez déjà obtenu, retournez à l'Ancient Civilization."
     }
   },
   "nostalgic": {
@@ -8704,6 +8756,15 @@
       "name": "Envol hivernal",
       "description": "Il fait un petit peu frisquet ici...",
       "condition": "Déclencher l'événement du Vol à l'Ice Temple"
+    },
+    "ink_wash__iffect": {
+      "name": "Beauté monochrome",
+      "description": "Aussitôt arrivée, aussitôt repartie",
+      "condition": "Obtenir l'effet Ink Wash. Si vous l'avez déjà obtenu, retournez dans la salle où il peut être trouvé aux Steel Wilds."
+    },
+    "name_isolated_house": {
+      "name": "Ton nom est...",
+      "condition": "Recevoir votre nom dans l'Isolated House"
     }
   },
   "oneshot": {
