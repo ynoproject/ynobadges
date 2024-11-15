@@ -4932,7 +4932,7 @@
     "eggs_blue_restaurant": {
       "name": "エフェクトを1つのバスケットに収納しないこと！",
       "description": "この卵が全てではない。",
-      "condition": "青い店の13番部屋にいるお化けの群れを全て倒し、ベッドで寝る"
+      "condition": "Make every effect egg creature disappear in the room 13 of Blue Restaurant then use the bed there"
     },
     "rune_dunes": {
       "name": "オシラの砂丘",
@@ -5493,9 +5493,9 @@
       "condition": "赤土の赤い花に触れ、空から灰を降らせる"
     },
     "birthday_tower_top": {
-      "name": "Happy Birthday!",
-      "description": "Make a wish and blow out the candles!",
-      "condition": "Reach the top of the Birthday Tower"
+      "name": "誕生日おめでとう！",
+      "description": "願い事をして、ろうそくを吹き消そう！",
+      "condition": "オメデ塔頂上に到達する"
     }
   },
   "unconscious": {
@@ -6184,10 +6184,10 @@
     "playzone_maze_eggcellent": {
       "name": "迷子の子供たち",
       "description": "家に帰りたいだけなんだ！",
-      "condition": "Interact with the girl and find the egg in Playzone Maze",
+      "condition": "アスレチック迷路で泣き叫ぶ子どもに話しかけ、翼の生えた卵を見つける",
       "checkbox": {
-        "playzone_maze_girl": "Interact with the girl",
-        "playzone_maze_egg": "find the egg"
+        "playzone_maze_girl": "子どもに話しかけ",
+        "playzone_maze_egg": "翼の生えた卵を見つける"
       }
     },
     "metal_menu_cave": {
@@ -6734,6 +6734,11 @@
       "name": "聞こえない声",
       "description": "彼女は何を考えているんだろう……",
       "condition": "Water Millのmysterious girl を見る"
+    },
+    "nostalgic_alter": {
+      "name": "Old Times, yet Past Dreams",
+      "description": "Are you recollecting your memories in the dream world? We miss old times, don't we?",
+      "condition": "Obtain the Nostalgic alter. If you have already unlocked it, return where it can be found at the Train Station."
     }
   },
   "someday": {
@@ -7558,6 +7563,34 @@
       "name": "致命的なエラー",
       "description": "メッセージはでないはずだよ",
       "condition": "Glitchを見つける"
+    },
+    "r_space_station_earth": {
+      "name": "Perigee",
+      "description": "I can see my house from here.",
+      "condition": "See the Earth from Reverse Space Station"
+    },
+    "pink_block_sea": {
+      "name": "Pink Sea Coast",
+      "description": "A pastel coastline.",
+      "condition": "Visit Pink Block Sea"
+    },
+    "pink_snowscape_globe": {
+      "name": "Soft Pink Blizzard",
+      "description": "This memory tastes like strawberry popsicle.",
+      "condition": "Obtain the Snowglobe memory. If you have already unlocked it, return in Pink Snowscape."
+    },
+    "jarred_rose": {
+      "name": "Unique Rose",
+      "description": "It's the time you spent on your rose that makes your rose so important.",
+      "condition": "Visit Jarred Rose"
+    },
+    "chambre_de_muma": {
+      "name": "Muma's Dream Room",
+      "condition": "Visit the Bedroom"
+    },
+    "sands_of_time_sands": {
+      "name": "Whiling Away the Sandy Seconds",
+      "condition": "Let Muma be fully buried in the Sands of Time. If the sands have already fully risen, simply return to Sands of Time."
     }
   },
   "genie": {
@@ -7894,6 +7927,10 @@
     "muzou_ending_4": {
       "name": "自分で蒔いた種",
       "condition": "ENDを見る"
+    },
+    "black_hair_soutarou": {
+      "name": "Black Hair",
+      "condition": "Obtain the Black Hair effect. If you have already unlocked it, return in the Factory."
     }
   },
   "ultraviolet": {
@@ -8351,6 +8388,11 @@
       "name": "リラックスする",
       "description": "「マシュマロはどうですか？欲しければ一つあげましょう。」",
       "condition": "Winter HillsのMeteorite Caveでキャンプしている人を見る"
+    },
+    "dust_bunny_effect": {
+      "name": "Irving and the Bunny",
+      "description": "Big fluffy rabbit!",
+      "condition": "Obtain the Dust Bunny effect. If you have already unlocked it, return where it can be found in Attic World."
     }
   },
   "tsushin": {
@@ -8538,6 +8580,16 @@
       "name": "On Hold",
       "description": "The number you have called is unavailable...",
       "condition": "See the Ending #2"
+    },
+    "classic_effect_wormiko": {
+      "name": "How Casual!",
+      "description": "Doesn't this dress looks cute?",
+      "condition": "Obtain the Classic Dress effect. If you have already unlocked it, return in Floating Triangle Attic."
+    },
+    "detective_effect_wormiko": {
+      "name": "Detective Wormiko",
+      "description": "Detective Wormiko is on the move!",
+      "condition": "Obtain the Detective effect. If you have already unlocked it, return to Ancient Civilization."
     }
   },
   "nostalgic": {
@@ -8719,6 +8771,15 @@
       "name": "冷たい飛行",
       "description": "ちょっと寒くなってきたね……",
       "condition": "Ice TempleでFlightイベントを見る"
+    },
+    "ink_wash__iffect": {
+      "name": "Monochromatic Cutie",
+      "description": "Blink and you'll miss her",
+      "condition": "Obtain the Ink Wash effect. If you have already unlocked it, return in the room where it can be found in Steel Wilds."
+    },
+    "name_isolated_house": {
+      "name": "Your Name Is...",
+      "condition": "Receive your name in the Isolated House"
     }
   },
   "oneshot": {

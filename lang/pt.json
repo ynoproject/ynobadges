@@ -4912,7 +4912,7 @@
     "eggs_blue_restaurant": {
       "name": "Não guarde seus efeitos em uma única cesta!",
       "description": "Esses ovos não são tudo o que se espera que sejam.",
-      "condition": "Chainsaw every effect egg creature in the room 13 of Blue Restaurant then use the bed there"
+      "condition": "Make every effect egg creature disappear in the room 13 of Blue Restaurant then use the bed there"
     },
     "rune_dunes": {
       "name": "Areias de Othala",
@@ -6714,6 +6714,11 @@
       "name": "Uma Voz Não Ouvida",
       "description": "Eu me pergunto o que ela está pensando...",
       "condition": "Encontre a garota misteriosa em Water Mill"
+    },
+    "nostalgic_alter": {
+      "name": "Old Times, yet Past Dreams",
+      "description": "Are you recollecting your memories in the dream world? We miss old times, don't we?",
+      "condition": "Obtain the Nostalgic alter. If you have already unlocked it, return where it can be found at the Train Station."
     }
   },
   "someday": {
@@ -7537,6 +7542,34 @@
       "name": "Erro Fatal",
       "description": "Você não deveria estar aqui",
       "condition": "Encontre uma maneira de se transportar para Glitch"
+    },
+    "r_space_station_earth": {
+      "name": "Perigee",
+      "description": "I can see my house from here.",
+      "condition": "See the Earth from Reverse Space Station"
+    },
+    "pink_block_sea": {
+      "name": "Pink Sea Coast",
+      "description": "A pastel coastline.",
+      "condition": "Visit Pink Block Sea"
+    },
+    "pink_snowscape_globe": {
+      "name": "Soft Pink Blizzard",
+      "description": "This memory tastes like strawberry popsicle.",
+      "condition": "Obtain the Snowglobe memory. If you have already unlocked it, return in Pink Snowscape."
+    },
+    "jarred_rose": {
+      "name": "Unique Rose",
+      "description": "It's the time you spent on your rose that makes your rose so important.",
+      "condition": "Visit Jarred Rose"
+    },
+    "chambre_de_muma": {
+      "name": "Muma's Dream Room",
+      "condition": "Visit the Bedroom"
+    },
+    "sands_of_time_sands": {
+      "name": "Whiling Away the Sandy Seconds",
+      "condition": "Let Muma be fully buried in the Sands of Time. If the sands have already fully risen, simply return to Sands of Time."
     }
   },
   "genie": {
@@ -7873,6 +7906,10 @@
     "muzou_ending_4": {
       "name": "Colha o que você Plantou",
       "condition": "Veja o Ending #4"
+    },
+    "black_hair_soutarou": {
+      "name": "Black Hair",
+      "condition": "Obtain the Black Hair effect. If you have already unlocked it, return in the Factory."
     }
   },
   "ultraviolet": {
@@ -8330,6 +8367,11 @@
       "name": "Apenas relaxando",
       "description": "\"Quer marshmallows? Posso jogar um para você, se quiser.\"",
       "condition": "Encontre o campista na Caverna de Meteoritos de Winter Hills"
+    },
+    "dust_bunny_effect": {
+      "name": "Irving and the Bunny",
+      "description": "Big fluffy rabbit!",
+      "condition": "Obtain the Dust Bunny effect. If you have already unlocked it, return where it can be found in Attic World."
     }
   },
   "tsushin": {
@@ -8517,6 +8559,16 @@
       "name": "Em espera",
       "description": "O número para o qual você ligou não está disponível...",
       "condition": "Veja o Ending #2"
+    },
+    "classic_effect_wormiko": {
+      "name": "How Casual!",
+      "description": "Doesn't this dress looks cute?",
+      "condition": "Obtain the Classic Dress effect. If you have already unlocked it, return in Floating Triangle Attic."
+    },
+    "detective_effect_wormiko": {
+      "name": "Detective Wormiko",
+      "description": "Detective Wormiko is on the move!",
+      "condition": "Obtain the Detective effect. If you have already unlocked it, return to Ancient Civilization."
     }
   },
   "nostalgic": {
@@ -8698,6 +8750,15 @@
       "name": "Voo Frio",
       "description": "Está ficando um pouco frio aqui em cima...",
       "condition": "Acionar o evento Flight no Ice Temple"
+    },
+    "ink_wash__iffect": {
+      "name": "Monochromatic Cutie",
+      "description": "Blink and you'll miss her",
+      "condition": "Obtain the Ink Wash effect. If you have already unlocked it, return in the room where it can be found in Steel Wilds."
+    },
+    "name_isolated_house": {
+      "name": "Your Name Is...",
+      "condition": "Receive your name in the Isolated House"
     }
   },
   "oneshot": {
