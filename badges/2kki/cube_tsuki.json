@@ -1,9 +1,13 @@
 {
   "group": "2_el",
   "bp": 10,
-  "reqType": "tag",
-  "reqString": "polygon_effect",
+  "reqType": "tags",
+  "reqStrings": [
+    "polygon_effect",
+    "polygon_effect_b"
+  ],
   "map": 316,
+  "secretMap": true,
   "art": "Noira",
   "animated": true,
   "batch": 46
