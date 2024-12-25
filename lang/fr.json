@@ -796,7 +796,7 @@
       "condition": "Atteindre le Cosmic Cube World"
     },
     "firehead": {
-      "name": "Tête de feu",
+      "name": "Tête de Feu",
       "description": "La fièvre de minuit ne disparaît jamais, même sous la mer",
       "condition": "Activer l'événement du Disco Marin dans Aquatic Cube City"
     },
@@ -2233,7 +2233,7 @@
     "cube_tsuki": {
       "name": "Urotsuki polygonale",
       "description": "C'est branché d'être carrée !",
-      "condition": "Obtenir l'effet Polygone. Si vous l'avez déjà obtenu, retournez dans la zone extérieure de la Warehouse."
+      "condition": "Obtenir l'effet Polygone. Si vous l'avez déjà obtenu, retournez dans la zone extérieure de la Warehouse, ou dans la zone principale de The Desktop."
     },
     "twintail_maid": {
       "name": "Twintail ni Narimasu",
@@ -5481,6 +5481,78 @@
       "name": "Joyeux anniversaire !",
       "description": "Souffle les bougies et fais un vœu !",
       "condition": "Atteindre le sommet de la Birthday Tower"
+    },
+    "madouro_binding_site": {
+      "name": "Proto-Uro",
+      "description": "Ce visage m'a l'air vraiment familier...",
+      "condition": "Équiper le masque du Prototype d'Urotsuki au Binding Site"
+    },
+    "limbus_plains": {
+      "name": "Puzzle incompréhensible",
+      "description": "* CHILBABALL *",
+      "condition": "Visiter les Limbus Plains"
+    },
+    "cursor_ascii_symbol_zone": {
+      "name": "Uro Clicker",
+      "description": "Clicliclic",
+      "condition": "Équiper le masque du curseur à l'ASCII Symbol Zone"
+    },
+    "english_thunder_ovlook": {
+      "name": "Orage à l'anglaise",
+      "description": "Mais il est l'heure d'anéantir ce sentiment, aussitôt qu'il pleut.",
+      "condition": "Atteindre le belvédère à l'English Thundershower"
+    },
+    "aquatic_c_c_bedroom_light": {
+      "name": "Box confortable",
+      "description": "Le lieu parfait pour vivre",
+      "condition": "Voir la chambre de Tête de Feu lorsque les lumières sont éteintes et lorsqu'elles sont allumées dans l'Aquatic Cube City"
+    },
+    "gakuran_kun_monster_jaw": {
+      "name": "Rrrrrooooo mimimimimimimi...",
+      "description": "Assez de balades pour aujourd'hui, Gakuran-kun",
+      "condition": "Utiliser l'effet Gakuran dans la Monster's Jaw et voir la courte scène"
+    },
+    "space_2kki": {
+      "name": "Le magnifique vide",
+      "condition": "Atteindre le Space"
+    },
+    "hourglass_s_sky_coast": {
+      "name": "Minuteur géant",
+      "description": "Eh bien, c'est une façon originale d'utiliser tout ce sable, je suppose...",
+      "condition": "Atteindre le sommet du sablier à la Summer Sky Coast"
+    },
+    "big_fish_underground_lake": {
+      "name": "AÏEOUILLE !",
+      "description": "Comme un poisson dans un baril",
+      "condition": "Tronçonner l'énorme poisson dans l'Underground Lake"
+    },
+    "bikers_crossing_forest": {
+      "name": "Moto en pleine face",
+      "description": "Un destin tragique s'approche dangereusement...",
+      "condition": "Entrer en collision avec l'une des Urotsuki Motards à la Crossing Forest"
+    },
+    "titans_pier_rainy_docks": {
+      "name": "Pour toi, dans 2000 ans",
+      "description": "Le lieu de repos d'un gentil géant.",
+      "condition": "Atteindre la Jetée du Géant aux Rainy Docks"
+    },
+    "shattered_stars_world": {
+      "name": "Fragments stellaires",
+      "description": "Il faut rassembler tous les fragments stellaires pour ramener la paix au Pays des Rêves !",
+      "condition": "Visiter le Shattered Stars World"
+    },
+    "forgotten_pillar_docks": {
+      "name": "Océan de monuments",
+      "condition": "Visiter la zone des Pilliers Oubliés des White Pillar Docks"
+    },
+    "christmas_world_gift": {
+      "name": "Joyeux",
+      "description": "Un jour comme celui-ci est parfait pour distribuer des cadeaux",
+      "condition": "Donner le cadeau à la fille du Christmas World. Si vous l'avez déjà fait, retournez dans sa chambre."
+    },
+    "menu_type_47": {
+      "name": "Vive le vent",
+      "condition": "Obtenir le style de menu 47. Si vous l'avez déjà obtenu, retournez au Snowman World."
     }
   },
   "unconscious": {
@@ -6199,6 +6271,11 @@
       "name": "Flaques de coucher de soleil",
       "description": "Regarde, le ciel est là",
       "condition": "Visiter les Sunset Woods"
+    },
+    "cat_mask_outer_hospital": {
+      "name": "Image de soi balafrée",
+      "description": "Tu ne voudrais pas me voir comme ça...",
+      "condition": "Équiper l'eidolon Jouvence ou Spectral proche du patient portant un masque de chat à l'Outer Hospital"
     }
   },
   "flow": {
@@ -8891,7 +8968,7 @@
     "qiu_qin_zabu_un": {
       "name": "Connexion imprévisible",
       "description": "Comment est-elle arrivée ici ?! Non, je veux dire, comment est-ce que JE suis arrivé là ?!",
-      "condition": "Trouver Qiu Qin and Zabu"
+      "condition": "Trouver Qiu Qin et Zabu"
     },
     "light_invisible_ink": {
       "name": "Plus de lumière",
@@ -8921,12 +8998,12 @@
     "rose_girl_c_plate_world": {
       "name": "Secret à l'eau de rose",
       "description": "La pierre chuchote, la fleur fleurit.",
-      "condition": "Utiliser la property Emptiness pour transformer la fille aux nattes en une rose rouge au Character Plate"
+      "condition": "Utiliser la possession Vide pour transformer la fille aux nattes en une rose rouge au Character Plate"
     },
     "plastic_bottle_evil": {
       "name": "Quelque chose d'inoubliable... ?",
       "description": "Aah, tu étais à mes côtés. Depuis toujours, en fait...",
-      "condition": "Faire une pose après avoir obtenu la property Plastic Bottle"
+      "condition": "Faire une pose après avoir obtenu la possession Bouteille Plastique"
     }
   }
 }

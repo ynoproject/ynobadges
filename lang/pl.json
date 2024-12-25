@@ -470,7 +470,7 @@
     "towel_effect": {
       "name": "Comfy...?",
       "description": "As long as this towel wrapping around me isn't some sort of yokai, I'll be just fine... right?",
-      "condition": "Obtain the Towel effect. If you have already unlocked it, return in the main area of Wilderness."
+      "condition": "Obtain the Towel effect. If you have already unlocked it, return to the main area of Wilderness."
     }
   },
   "2kki": {
@@ -2224,7 +2224,7 @@
     "cube_tsuki": {
       "name": "Polygon Urotsuki",
       "description": "It's Hip to be Square!",
-      "condition": "Obtain the Polygon effect. If you have already unlocked it, return to the exterior area of the Warehouse."
+      "condition": "Obtain the Polygon effect. If you have already unlocked it, return to the exterior area of the Warehouse, or in the main area of The Desktop."
     },
     "twintail_maid": {
       "name": "Twintail ni Narimasu",
@@ -5472,6 +5472,78 @@
       "name": "Happy Birthday!",
       "description": "Make a wish and blow out the candles!",
       "condition": "Reach the top of the Birthday Tower"
+    },
+    "madouro_binding_site": {
+      "name": "Proto-Uro",
+      "description": "Quite a familiar face...",
+      "condition": "Equip the Prototype Urotsuki mask in Binding Site"
+    },
+    "limbus_plains": {
+      "name": "Inexplicable Puzzle",
+      "description": "* CHILBABALL *",
+      "condition": "Visit Limbus Plains"
+    },
+    "cursor_ascii_symbol_zone": {
+      "name": "Uro Clicker",
+      "description": "Clickity Click",
+      "condition": "Equip the cursor mask in ASCII Symbol Zone"
+    },
+    "english_thunder_ovlook": {
+      "name": "English Thunderstorm",
+      "description": "But it's time to crush this feeling, as soon as it rains.",
+      "condition": "Reach the overlook in English Thundershower"
+    },
+    "aquatic_c_c_bedroom_light": {
+      "name": "Comfy Cubicle",
+      "description": "The perfect place to live",
+      "condition": "See Firehead's bedroom when the lights are ON and when the lights are OFF in Aquatic Cube City"
+    },
+    "gakuran_kun_monster_jaw": {
+      "name": "Snork Mimimimi...",
+      "description": "That’s enough gakuran quest for today, Gakuran-kun",
+      "condition": "Use the School Boy effect on the Monster's Jaw and view the short cutscene"
+    },
+    "space_2kki": {
+      "name": "The Beautiful Void",
+      "condition": "Reach Space"
+    },
+    "hourglass_s_sky_coast": {
+      "name": "Tall Timer",
+      "description": "Well that's one use for all that sand",
+      "condition": "Reach the top of the hourglass in Summer Sky Coast"
+    },
+    "big_fish_underground_lake": {
+      "name": "YEOUCH!",
+      "description": "Like a fish in a drum",
+      "condition": "Chainsaw the big fish in Underground Lake"
+    },
+    "bikers_crossing_forest": {
+      "name": "Head-on Collision",
+      "description": "Impending doom approaches...",
+      "condition": "Collide with one of the Urotsuki Bikers in Crossing Forest"
+    },
+    "titans_pier_rainy_docks": {
+      "name": "To You, 2000 Years From Now",
+      "description": "The resting place of a gentle giant.",
+      "condition": "Reach the Titan's Pier at the Rainy Docks"
+    },
+    "shattered_stars_world": {
+      "name": "Stellar Shards",
+      "description": "Gather all the stellar pieces in order to return peace to the Dream World",
+      "condition": "Visit Shattered Stars World"
+    },
+    "forgotten_pillar_docks": {
+      "name": "Ocean of Monuments",
+      "condition": "Enter the Forgotten Pillars section in White Pillar Docks"
+    },
+    "christmas_world_gift": {
+      "name": "Merry",
+      "description": "A day like this is perfect for gift-giving",
+      "condition": "Give the gift to the girl in Christmas World. If you have already done it, return in her room."
+    },
+    "menu_type_47": {
+      "name": "Jingle Bells",
+      "condition": "Obtain the menu type 47. If you have already unlocked it, return to Snowman World."
     }
   },
   "unconscious": {
@@ -6190,6 +6262,11 @@
       "name": "Puddles of Sunset",
       "description": "Look down, there's the sky",
       "condition": "Visit Sunset Woods"
+    },
+    "cat_mask_outer_hospital": {
+      "name": "Scarred Self-image",
+      "description": "You wouldn't want to see me like this...",
+      "condition": "Equip the Youth or Spectral eidolon near the patient with the cat mask in Outer Hospital"
     }
   },
   "flow": {
