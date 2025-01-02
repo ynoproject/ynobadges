@@ -5574,6 +5574,60 @@
     "menu_type_47": {
       "name": "Jingle Bells",
       "condition": "Obtain the menu type 47. If you have already unlocked it, return to Snowman World."
+    },
+    "sub_cyan_relic_world": {
+      "name": "Pillars of Faces",
+      "condition": "Visit the Cross Eye Statue Area in Cyan Relic World's sub-area"
+    },
+    "shark_watching_waters": {
+      "name": "Helicoprion",
+      "description": "Always watching...",
+      "condition": "See the shark statue in Watching Waters"
+    },
+    "monochrome_florist_rainbow": {
+      "name": "Monochrome Flower",
+      "description": "Your pattern is beautiful",
+      "condition": "Interact with the girl in the monochrome room in Florist using the Rainbow effect"
+    },
+    "mini_lady_meeting": {
+      "name": "Cute Witches!",
+      "description": "They look like plushies!",
+      "condition": "Equip the Light Lady Urotsuki and Enraged Light Lady Urotsuki in the Light Lady Tent of Abandoned Campsite, and the Shadow Lady Urotsuki and Enraged Shadow Urotsuki where they can be found at the Pitch Black Plateau",
+      "checkbox": {
+        "light_lady_uro": "Light Lady Urotsuki",
+        "enraged_light_lady_uro": "Enraged Light Lady Urotsuki",
+        "shadow_lady_uro": "Shadow Lady Urotsuki",
+        "enraged_shadow_lady_uro": "Enraged Shadow Urotsuki"
+      }
+    },
+    "eyeball_cherry_fields": {
+      "name": "Cherry Eyeball",
+      "description": "Are these cherries edible...?",
+      "condition": "Visit Eyeball Cherry Fields"
+    },
+    "gift_universe_sunset_savannah": {
+      "name": "Faeric Sunset",
+      "description": "A magical sunset, where fairytales are created",
+      "condition": "Reach the Gift from the Universe area of Sunset Savannah and use the Fairy effect"
+    },
+    "umbrellas_sculpture_park": {
+      "name": "Lost Umbrellas",
+      "condition": "Pick up any of the umbrellas in Sculpture Park"
+    },
+    "irregular_mosaic_world": {
+      "name": "Distorted Mosaic",
+      "description": "You've traveled so far deep in this dream that the landscape is distorting into patterns of seemingly random color.",
+      "condition": "Visit Irregular Mosaic World"
+    },
+    "doomsday_all_reactions": {
+      "name": "Faces of an Individual",
+      "description": "Enjoy the last day!",
+      "condition": "See all of the reactions of Sniper-san and the bird in Doomsday"
+    },
+    "wan_lotus_docks": {
+      "name": "Lotus Decay",
+      "description": "Nine stages until purity blooms.",
+      "condition": "Visit Wan Lotus Docks"
     }
   },
   "unconscious": {
@@ -6297,6 +6351,11 @@
       "name": "Scarred Self-image",
       "description": "You wouldn't want to see me like this...",
       "condition": "Equip the Youth or Spectral eidolon near the patient with the cat mask in Outer Hospital"
+    },
+    "boombox_apartment_towers": {
+      "name": "Frenetic Boombox Party",
+      "description": "Is somebody gonna match my rhythm?",
+      "condition": "Interact with the boombox in Apartment Towers"
     }
   },
   "flow": {
@@ -7241,6 +7300,15 @@
       "name": "操场众神",
       "description": "向祂们询问关于捉人的永恒真相吧。",
       "condition": "抵达Jumping Playground"
+    },
+    "kutotsuki_basement_trainyard": {
+      "name": "Haunted Dreams",
+      "description": "Something isn't quite right...",
+      "condition": "Sleep in the beds in the isolated sections of Basement and Lavender Trainyard",
+      "checkbox": {
+        "kubotsuki_basement": "Basement",
+        "totsutsuki_trainyard": "Lavender Trainyard"
+      }
     }
   },
   "braingirl": {

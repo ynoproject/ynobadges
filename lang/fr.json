@@ -5553,6 +5553,60 @@
     "menu_type_47": {
       "name": "Vive le vent",
       "condition": "Obtenir le style de menu 47. Si vous l'avez déjà obtenu, retournez au Snowman World."
+    },
+    "sub_cyan_relic_world": {
+      "name": "Pilliers de visages",
+      "condition": "Visiter la Zone de la Statue au Strabisme dans la sous-zone de Cyan Relic World"
+    },
+    "shark_watching_waters": {
+      "name": "Helicoprion",
+      "description": "Toujours aux aguets...",
+      "condition": "Voir la statue du requin aux Watching Waters"
+    },
+    "monochrome_florist_rainbow": {
+      "name": "Fleur monochrome",
+      "description": "Ton motif est magnifique",
+      "condition": "Interagir avec la fille dans la salle monochrome de Florist en utilisant l'effet Arc-En-Ciel"
+    },
+    "mini_lady_meeting": {
+      "name": "Mignonnes petites sorcières !",
+      "description": "Elles ressemblent à des peluches !",
+      "condition": "Équiper les masques Light Lady Urotsuki et Enraged Light Lady Urotsuki dans la Tente des Light Ladies de l'Abandoned Campsite, et les masques Shadow Lady Urotsuki et Enraged Shadow Urotsuki là où ils peuvent être trouvés au Pitch Black Plateau",
+      "checkbox": {
+        "light_lady_uro": "Light Lady Urotsuki",
+        "enraged_light_lady_uro": "Enraged Light Lady Urotsuki",
+        "shadow_lady_uro": "Shadow Lady Urotsuki",
+        "enraged_shadow_lady_uro": "Enraged Shadow Urotsuki"
+      }
+    },
+    "eyeball_cherry_fields": {
+      "name": "Globe oculaire cerise",
+      "description": "Est-ce que les cerises sont comestibles... ?",
+      "condition": "Visiter les Eyeball Cherry Fields"
+    },
+    "gift_universe_sunset_savannah": {
+      "name": "Crépuscule féerique",
+      "description": "Un coucher de soleil magique, où les contes de fée sont créés",
+      "condition": "Atteindre la zone Cadeau de l'Univers de la Sunset Savannah et utiliser l'effet Fée"
+    },
+    "umbrellas_sculpture_park": {
+      "name": "Parapluies oubliés",
+      "condition": "Récupérer l'un des parapluies au Sculpture Park"
+    },
+    "irregular_mosaic_world": {
+      "name": "Mosaïque distordue",
+      "description": "Tu as voyagé tellement loin dans ce rêve que le paysage se tord en un amas de couleurs presque aléatoire.",
+      "condition": "Visiter Irregular Mosaic World"
+    },
+    "doomsday_all_reactions": {
+      "name": "Facettes d'une personne",
+      "description": "Profitez du dernier jour !",
+      "condition": "Voir toutes les réactions de Sniper-san et de l'oiseau à Doomsday"
+    },
+    "wan_lotus_docks": {
+      "name": "Décomposition du lotus",
+      "description": "Neuf étapes avant que la pureté ne fleurisse.",
+      "condition": "Visiter les Wan Lotus Docks"
     }
   },
   "unconscious": {
@@ -6276,6 +6330,11 @@
       "name": "Image de soi balafrée",
       "description": "Tu ne voudrais pas me voir comme ça...",
       "condition": "Équiper l'eidolon Jouvence ou Spectral proche du patient portant un masque de chat à l'Outer Hospital"
+    },
+    "boombox_apartment_towers": {
+      "name": "Fête frénétique et boombox",
+      "description": "Est-ce que quelqu'un arrivera à tenir mon rythme ?",
+      "condition": "Interagir avec la boombox aux Apartment Towers"
     }
   },
   "flow": {
@@ -7220,6 +7279,15 @@
       "name": "Divinités de l'aire de jeu",
       "description": "Demande-leur quelle est l'ultime vérité pour gagner à chat.",
       "condition": "Visiter le Jumping Playground"
+    },
+    "kutotsuki_basement_trainyard": {
+      "name": "Rêves hantés",
+      "description": "Quelque chose a l'air bizarre...",
+      "condition": "Dormir dans les lits des sections isolées de Basement et de Lavender Trainyard",
+      "checkbox": {
+        "kubotsuki_basement": "Basement",
+        "totsutsuki_trainyard": "Lavender Trainyard"
+      }
     }
   },
   "braingirl": {
