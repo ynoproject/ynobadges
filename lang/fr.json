@@ -872,7 +872,7 @@
       "condition": "Se faire avoir par le distributeur automatique du Mushroom World"
     },
     "crown_of_spirits": {
-      "name": "Couronne d'Esprits",
+      "name": "Couronne d'esprits",
       "condition": "Entrer dans la salle à la fin de l'allée de Spirit Capital"
     },
     "drunk": {
@@ -2784,7 +2784,7 @@
     "mask_collection": {
       "name": "Experte du déguisement",
       "description": "Qui seras-tu ?",
-      "condition": "Débloquer et voir tous les masques sans effet dans l'un des Mask Shops (En dehors de la Fille aux Couettes, Ahogeko, Moisobscure, Ange Prêtre, Kīgāru, Souris Blanche, Souris Noire, Créature Takoyaki et du Cône de signalisation)"
+      "condition": "Compléter les deux premières pages du menu des masques, puis l'ouvrir dans l'un des Mask Shops (En dehors de la Fille aux Couettes, Ahogeko, Moisobscure, Ange Prêtre, Kīgāru, Souris Blanche, Souris Noire, Créature Takoyaki et du Cône de signalisation)"
     },
     "retro_cartridge_game": {
       "name": "Comme en 1981 !",
@@ -4450,7 +4450,7 @@
     "archeology_dunes": {
       "name": "Extinction écarlate",
       "description": "Dinosaure mange homme, femme hérite terre",
-      "condition": "Visiter les Archeology Dunes"
+      "condition": "Visiter les Paleontology Dunes"
     },
     "shroom_pollution_strict": {
       "name": "Regard sporédique",
@@ -5553,6 +5553,60 @@
     "menu_type_47": {
       "name": "Vive le vent",
       "condition": "Obtenir le style de menu 47. Si vous l'avez déjà obtenu, retournez au Snowman World."
+    },
+    "sub_cyan_relic_world": {
+      "name": "Pilliers de visages",
+      "condition": "Visiter la Zone de la Statue au Strabisme dans la sous-zone de Cyan Relic World"
+    },
+    "shark_watching_waters": {
+      "name": "Helicoprion",
+      "description": "Toujours aux aguets...",
+      "condition": "Voir la statue du requin aux Watching Waters"
+    },
+    "monochrome_florist_rainbow": {
+      "name": "Fleur monochrome",
+      "description": "Ton motif est magnifique",
+      "condition": "Interagir avec la fille dans la salle monochrome de Florist en utilisant l'effet Arc-En-Ciel"
+    },
+    "mini_lady_meeting": {
+      "name": "Mignonnes petites sorcières !",
+      "description": "Elles ressemblent à des peluches !",
+      "condition": "Équiper les masques Light Lady Urotsuki et Enraged Light Lady Urotsuki dans la Tente des Light Ladies de l'Abandoned Campsite, et les masques Shadow Lady Urotsuki et Enraged Shadow Urotsuki là où ils peuvent être trouvés au Pitch Black Plateau",
+      "checkbox": {
+        "light_lady_uro": "Light Lady Urotsuki",
+        "enraged_light_lady_uro": "Enraged Light Lady Urotsuki",
+        "shadow_lady_uro": "Shadow Lady Urotsuki",
+        "enraged_shadow_lady_uro": "Enraged Shadow Urotsuki"
+      }
+    },
+    "eyeball_cherry_fields": {
+      "name": "Globe oculaire cerise",
+      "description": "Est-ce que les cerises sont comestibles... ?",
+      "condition": "Visiter les Eyeball Cherry Fields"
+    },
+    "gift_universe_sunset_savannah": {
+      "name": "Crépuscule féerique",
+      "description": "Un coucher de soleil magique, où les contes de fée sont créés",
+      "condition": "Atteindre la zone Cadeau de l'Univers de la Sunset Savannah et utiliser l'effet Fée"
+    },
+    "umbrellas_sculpture_park": {
+      "name": "Parapluies oubliés",
+      "condition": "Récupérer l'un des parapluies au Sculpture Park"
+    },
+    "irregular_mosaic_world": {
+      "name": "Mosaïque distordue",
+      "description": "Tu as voyagé tellement loin dans ce rêve que le paysage se tord en un amas de couleurs presque aléatoire.",
+      "condition": "Visiter Irregular Mosaic World"
+    },
+    "doomsday_all_reactions": {
+      "name": "Facettes d'une personne",
+      "description": "Profitez du dernier jour !",
+      "condition": "Voir toutes les réactions de Sniper-san et de l'oiseau à Doomsday"
+    },
+    "wan_lotus_docks": {
+      "name": "Décomposition du lotus",
+      "description": "Neuf étapes avant que la pureté ne fleurisse.",
+      "condition": "Visiter les Wan Lotus Docks"
     }
   },
   "unconscious": {
@@ -6276,6 +6330,11 @@
       "name": "Image de soi balafrée",
       "description": "Tu ne voudrais pas me voir comme ça...",
       "condition": "Équiper l'eidolon Jouvence ou Spectral proche du patient portant un masque de chat à l'Outer Hospital"
+    },
+    "boombox_apartment_towers": {
+      "name": "Fête frénétique et boombox",
+      "description": "Est-ce que quelqu'un arrivera à tenir mon rythme ?",
+      "condition": "Interagir avec la boombox aux Apartment Towers"
     }
   },
   "flow": {
@@ -7220,6 +7279,15 @@
       "name": "Divinités de l'aire de jeu",
       "description": "Demande-leur quelle est l'ultime vérité pour gagner à chat.",
       "condition": "Visiter le Jumping Playground"
+    },
+    "kutotsuki_basement_trainyard": {
+      "name": "Rêves hantés",
+      "description": "Quelque chose a l'air bizarre...",
+      "condition": "Dormir dans les lits des sections isolées de Basement et de Lavender Trainyard",
+      "checkbox": {
+        "kubotsuki_basement": "Basement",
+        "totsutsuki_trainyard": "Lavender Trainyard"
+      }
     }
   },
   "braingirl": {
@@ -8592,7 +8660,7 @@
     },
     "planet_scream_maze": {
       "name": "Vide monochrome",
-      "condition": "Trouver la planète cachée dans le Dark Screaming Maze"
+      "condition": "Trouver la planète cachée à Moon"
     },
     "deep_forest": {
       "name": "Secrets parmi les branches",
@@ -8606,7 +8674,7 @@
     "tsh_gothic_dress_effect": {
       "name": "Beauté gothique",
       "description": "Tu as de bons goûts !",
-      "condition": "Obtenir l'effet Robe gothique. Si vous l'avez déjà obtenu, retournez dans le White Desert."
+      "condition": "Obtenir l'effet Robe gothique. Si vous l'avez déjà obtenu, retournez au Body Part Exhibition."
     },
     "bar_ancient_civilization": {
       "name": "Boisson d'un autre temps",
