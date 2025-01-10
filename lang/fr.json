@@ -5607,6 +5607,55 @@
       "name": "Décomposition du lotus",
       "description": "Neuf étapes avant que la pureté ne fleurisse.",
       "condition": "Visiter les Wan Lotus Docks"
+    },
+    "snake_watching_waters": {
+      "name": "Serpent somnolant sous les eaux",
+      "description": "Désolée, je ne voulais pas te déranger !",
+      "condition": "Réveiller le serpent endormi aux Watching Waters"
+    },
+    "orb_derelict_bricks": {
+      "name": "Oh ouais",
+      "description": "Qu'est-ce tu regardes ?",
+      "condition": "Trouver l'orbe bleu avec des pieds aux Derelict Bricks"
+    },
+    "eye_hand_barcode_plains": {
+      "name": "Ça fait mal, ça fait mal",
+      "description": "01101100 01101111 01110010 01100101 01101101 00100000 01101001 01110000 01110011 01110101 01101101 00100000 01100100 01101111 01101100 01101111 01110010",
+      "condition": "Trouver le Paum'œil aux Barcode Plains"
+    },
+    "pulsating_cubes_effect": {
+      "name": "Ambre brillant",
+      "description": "Le reflet de la lune vacille en retour.",
+      "condition": "Utiliser l'effet Fée ou Lanterne aux Pulsating Cubes"
+    },
+    "bone_overlapping_moons": {
+      "name": "Calcium",
+      "description": "T'as tué quelque chose de vivant pour arriver jusqu'ici, pas étonnant que cette bête t'en veut.",
+      "condition": "Voir toutes les variations de la zone de la Créature Mâchouilleuse d'Os aux Overlapping Moons"
+    },
+    "grapex_grape_mall": {
+      "name": "Raizinx",
+      "description": "Tu penses qu'il est fait en raisin ?",
+      "condition": "Voir Raizinx au Grape Mall"
+    },
+    "scott_waterlogged_flats": {
+      "name": "Visite surprise chez un ami",
+      "description": "« Tu aimes mon tapis ? Merci, c'est un cadeau d'un vieil ami. »",
+      "condition": "Visiter la Chambre de Scott aux Waterlogged Flats"
+    },
+    "ox_horn_plaza": {
+      "name": "Tapis bicolore",
+      "condition": "Visiter la Ox Horn Plaza"
+    },
+    "black_hole_dream_wardrobe": {
+      "name": "Défilé de mode des filles trou noir",
+      "description": "Des filles trou noir étoilées, qui l'aurait cru ?",
+      "condition": "Équiper l'un des masques trou noir à la Dream Wardrobe"
+    },
+    "hearthfelt_eclipse_seaty": {
+      "name": "Paysage urbain océanique",
+      "description": "Une vue nostalgique à couper le souffle",
+      "condition": "Visiter la zone du paysage urbain à l'Heartfelt Eclipse Sea"
     }
   },
   "unconscious": {
@@ -6335,6 +6384,16 @@
       "name": "Fête frénétique et boombox",
       "description": "Est-ce que quelqu'un arrivera à tenir mon rythme ?",
       "condition": "Interagir avec la boombox aux Apartment Towers"
+    },
+    "squid_inkblot_forest": {
+      "name": "Ami tentaculaire",
+      "description": "J'espère que tu pourras agir avant qu'il ne fasse tomber son encre",
+      "condition": "Interagir avec le calamar à l'Inkblot Forest"
+    },
+    "eater_glass_shards_path": {
+      "name": "Fourrure cramée au feu spirituel",
+      "description": "Pourquoi n'est-il pas aussi doux que d'habitude...",
+      "condition": "Utiliser l'eidolon Feu d'âme sur le Dévoreur de Verres au Glass Shards Path"
     }
   },
   "flow": {
@@ -8817,7 +8876,7 @@
     "osoro_isolated_house": {
       "name": "Correspondance argentée",
       "description": "Tout comme moi !",
-      "condition": "Équiper l'effet Matching dans l'Isolated House et voir l'interaction avec Osoro"
+      "condition": "Équiper l'effet Nattes dans l'Isolated House et voir l'interaction avec Osoro"
     },
     "naginata_digital_brain_maze": {
       "name": "Mal de crâne digital",
@@ -8841,7 +8900,7 @@
     "if_twins_effect": {
       "name": "Fiction interactive",
       "description": "À travers un labyrinthe de petits passages se tortillant, vous trouvez un sosie.",
-      "condition": "Obtenir l'effet Twins. Si vous l'avez déjà obtenu, retournez en face de la fresque des jumelles au Digital Brain Maze."
+      "condition": "Obtenir l'effet Jumelles. Si vous l'avez déjà obtenu, retournez en face de la fresque des jumelles au Digital Brain Maze."
     },
     "candy_shoal": {
       "name": "Cube à la mode",
@@ -8880,7 +8939,7 @@
     "squirrel_iffect": {
       "name": "Adorable écureuille !",
       "description": "Regardez-moi, je suis une écureuille !",
-      "condition": "Obtenir l'effet Squirrel. Si vous l'avez déjà obtenu, retournez dans la zone principale des Magenta Roads."
+      "condition": "Obtenir l'effet Écureuil. Si vous l'avez déjà obtenu, retournez dans la zone principale des Magenta Roads."
     },
     "emperor_japanese_castle": {
       "name": "Contre-attaque !!",
@@ -8905,7 +8964,7 @@
     "ink_wash__iffect": {
       "name": "Beauté monochrome",
       "description": "Aussitôt arrivée, aussitôt repartie",
-      "condition": "Obtenir l'effet Ink Wash. Si vous l'avez déjà obtenu, retournez dans la salle où il peut être trouvé aux Steel Wilds."
+      "condition": "Obtenir l'effet Délavage. Si vous l'avez déjà obtenu, retournez dans la salle où il peut être trouvé aux Steel Wilds."
     },
     "name_isolated_house": {
       "name": "Ton nom est...",
