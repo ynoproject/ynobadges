@@ -1332,11 +1332,12 @@
     "clock_pole": {
       "name": "시간 엄수",
       "description": "시간은 금이라구!",
-      "condition": "Garden World (밤), Blue Forest, Botanical Garden, Sculpture Park, Twilight Park, Monochrome School, Sunrise Road, Pure White Lands, Critter Village에 있는 모든 시계탑들과 상호작용하기",
+      "condition": "Garden World (밤), Blue Forest, Botanical Garden (main area and Flower Path), Sculpture Park, Twilight Park, Monochrome School, Sunrise Road, Pure White Lands, Critter Village에 있는 모든 시계탑들과 상호작용하기",
       "checkbox": {
         "garden_world_clock_pole": "Garden World (밤)",
         "blue_forest_clock_pole": "Blue Forest",
-        "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "Botanical Garden",
+        "botanical_garden_clock_pole_1": "main area",
+        "botanical_garden_clock_pole_2": "Flower Path",
         "sculpture_park_clock_pole": "Sculpture Park",
         "twilight_park_clock_pole": "Twilight Park",
         "monochrome_school_clock_pole": "Monochrome School",
