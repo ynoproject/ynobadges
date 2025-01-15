@@ -1375,7 +1375,7 @@
         "phone_aquatic_cube_city|phone_fossil_lake": "Fossil Lake",
         "phone_sugar_road": "Sugar Road",
         "phone_underground_garage": "Underground Garage",
-        "phone_water_reclamation_facility": "Water Reclamation Facility: Shutter Alley",
+        "phone_water_reclamation_facility": "Water Reclamation Facility",
         "phone_dark_museum": "Dark Museum",
         "phone_dark_warehouse": "Dark Warehouse",
         "phone_parking_zone": "Parking Zone"
@@ -5656,6 +5656,66 @@
       "name": "Paysage urbain océanique",
       "description": "Une vue nostalgique à couper le souffle",
       "condition": "Visiter la zone du paysage urbain à l'Heartfelt Eclipse Sea"
+    },
+    "bunny_rubber_duck_islands": {
+      "name": "Lapinous bulleurs !",
+      "description": "Bubulle ! (Bulle !) Lapibulle ? (Bububulle !) Bububulle lapibubulle !",
+      "condition": "Interagir avec l'un des lapinous aux Rubber Duck Islands"
+    },
+    "bunny_sunken_paradise": {
+      "name": "20000 lapins sous les mers",
+      "description": "Qu'est-ce tu fais ici, mon p'tit lapinou ?",
+      "condition": "Trouver le lapinou au Sunken Paradise"
+    },
+    "teal_district": {
+      "name": "Teintes de bleu sarcelle",
+      "condition": "Visiter le Teal District"
+    },
+    "wormhole_claustrophobia": {
+      "name": "Le trou de ver",
+      "description": "Ce sol est factice !",
+      "condition": "Atteindre la Salle du Trou de Ver à Claustrophobia"
+    },
+    "sphere_claustrophobia": {
+      "name": "Orbite rotationnelle cyclopéenne",
+      "description": "Regardons-nous face à face et tournons et tournons et tournons et tournons",
+      "condition": "Atteindre la Salle de la Sphère à Claustrophobia"
+    },
+    "green_girl_emerald_c_c": {
+      "name": "Sa maison de vert émeraude",
+      "condition": "Utiliser l'effet Fée proche de la fille aux cheveux verts dans l'Emerald Crystal Cavern"
+    },
+    "silhouette_black_sphere": {
+      "name": "Rappel perçant à pic",
+      "condition": "Équiper l'effet Chaperon rouge ou Tombe à côté de la silhouette au Black Sphere World"
+    },
+    "star_whispering_palace": {
+      "name": "Étoiles et équilibre",
+      "description": "Viens prendre la poussière avec nous :3",
+      "condition": "Visiter l'entrepôt de l'étoile au Whispering Palace"
+    },
+    "vista_blood_rose_canal": {
+      "name": "Couronne de fleurs carmine",
+      "condition": "Voir la vue au Blood Rose Canal"
+    },
+    "blood_rose_canal": {
+      "name": "Doux parfum ensanglanté",
+      "condition": "Visiter le Blood Rose Canal"
+    },
+    "rendered_dreamscape": {
+      "name": "Rêves prismatiques",
+      "description": "Un voyage exotique au paradis prismatique, chaud tel le sable du désert à minuit, et rempli de rêves et chuchotements enchantés...",
+      "condition": "Visiter le Rendered Dreamscape"
+    },
+    "pillar_amoeba_woods": {
+      "name": "Pillier du Repos",
+      "description": "Quelle vue magninifique...",
+      "condition": "Atteindre le Pillier du Repos aux Amoeba Woods"
+    },
+    "statue_tov": {
+      "name": "Géant en larmes",
+      "description": "Piégé dans les profondeurs, ses laments font écho au loin, là où l'eau se reflète...",
+      "condition": "Voir la statue en larmes au Fond de la Mer de la Tomb of Velleities"
     }
   },
   "unconscious": {
@@ -8779,6 +8839,20 @@
       "name": "Détective Wormiko",
       "description": "Sur les traces de Wormiarty !",
       "condition": "Obtenir l'effet Détective. Si vous l'avez déjà obtenu, retournez à l'Ancient Civilization."
+    },
+    "monitor_realm": {
+      "name": "Branchée",
+      "description": "T'as pas l'air de comprendre.",
+      "condition": "Visiter le Monitor Realm"
+    },
+    "oceanfront_architecture": {
+      "name": "Panorama estival",
+      "description": "La brise estivale semble onirique, et les nuages au loin sont en pleine efflorescence.",
+      "condition": "Visiter l'Oceanfront Architecture"
+    },
+    "lakeside_dock": {
+      "name": "Nuit sereine",
+      "condition": "Visiter le Lakeside Dock"
     }
   },
   "nostalgic": {
