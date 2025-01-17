@@ -426,7 +426,7 @@
     "tasei_kid_witch_island": {
       "name": "Underwater Doppelgänger",
       "description": "Does he look familiar?",
-      "condition": "Encounter Tasei's Kid on the Witch's Island"
+      "condition": "Encounter Kasei's Kid on the Witch's Island"
     },
     "sewers_painting": {
       "name": "Strange Markings",
@@ -471,6 +471,11 @@
       "name": "Comfy...?",
       "description": "As long as this towel wrapping around me isn't some sort of yokai, I'll be just fine... right?",
       "condition": "Obtain the Towel effect. If you have already unlocked it, return to the main area of Wilderness."
+    },
+    "thunder_oni": {
+      "name": "Stormbringer",
+      "description": "I am the sky, and the sky is me!",
+      "condition": "Summon a clap of thunder and lightning using the Oni effect in the Dense Woods A"
     }
   },
   "2kki": {
@@ -553,7 +558,8 @@
       "condition": "Đi đến Obentou World"
     },
     "rainbow_paint": {
-      "name": "Road to Rainbow",
+      "name": "Rainbow-Colored Dreams",
+      "description": "Turn the world into your canvas",
       "condition": "Hoàn thành bức tranh trong Pencil World"
     },
     "rainbow_picture": {
@@ -858,7 +864,8 @@
       "condition": "Đi đến Dark Nexus"
     },
     "white_creature": {
-      "name": "Divide by Zero",
+      "name": "Integer Overflow",
+      "description": "Division proof?",
       "condition": "Interact with the white drooling creature in the Apartments"
     },
     "data_stream": {
@@ -960,7 +967,8 @@
       "condition": "Visit the faraway scenery in the Foliage Estate"
     },
     "sunken_city": {
-      "name": "Drowned Building",
+      "name": "Inundated Dreams",
+      "description": "\"The sound of the lost dreams still reverberates in the stagnant air. It feels... asphyxiating, to say the least.\"",
       "condition": "Reach the Sunken City"
     },
     "crocodile_dog": {
@@ -1116,8 +1124,8 @@
       "condition": "Dodge all the bowling ball men in the Bowling Zone and reach Bowling World"
     },
     "jade": {
-      "name": "Jade Sky",
-      "description": "Jade beings and jade structures",
+      "name": "Great City of Jade",
+      "description": "\"I've heard that beyond the great blue sky, there lies a city of jade with riches beyond our imagination.\"",
       "condition": "Visit the Jade Sky Hamlet"
     },
     "sea_star": {
@@ -1169,7 +1177,7 @@
       }
     },
     "scared_octopus": {
-      "name": "Scared Octopus",
+      "name": "An Octopus in Distress",
       "condition": "Using the Fairy effect, scare Tako Otoko in Atlantis"
     },
     "mini_town": {
@@ -1261,8 +1269,8 @@
       "condition": "Activate the Blood Sacrifice event in Blood World"
     },
     "scourge_of_guilt": {
-      "name": "Scourge of Guilt",
-      "description": "You monster...",
+      "name": "Flower of Death",
+      "description": "... and for you, Urotsuki, think about what you have done.",
       "condition": "Use the Chainsaw effect on the Perfume Bottle Ghost in the Shop Ruins"
     },
     "pink_bow": {
@@ -1299,7 +1307,8 @@
       "condition": "See the shadow child Urotsuki in the deepest area of the Sacred Crypt"
     },
     "red_sun": {
-      "name": "Red Sun",
+      "name": "Dawn of the Red Sun",
+      "description": "Here it comes.",
       "condition": "Attempt to use the Chainsaw effect near the lady under the red sun"
     },
     "smile_san": {
@@ -1326,11 +1335,12 @@
     "clock_pole": {
       "name": "Punctuality",
       "description": "Always be punctual!",
-      "condition": "Find and approach the clock poles in Garden World (night), Blue Forest, Botanical Garden, Sculpture Park, Twilight Park, Monochrome School, Sunrise Road, Pure White Lands and Critter Village",
+      "condition": "Find and approach the clock poles in Garden World (night), Blue Forest, Botanical Garden (main area and Flower Path), Sculpture Park, Twilight Park, Monochrome School, Sunrise Road, Pure White Lands and Critter Village",
       "checkbox": {
         "garden_world_clock_pole": "Garden World (night)",
         "blue_forest_clock_pole": "Blue Forest",
-        "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "Botanical Garden",
+        "botanical_garden_clock_pole_1": "main area",
+        "botanical_garden_clock_pole_2": "Flower Path",
         "sculpture_park_clock_pole": "Sculpture Park",
         "twilight_park_clock_pole": "Twilight Park",
         "monochrome_school_clock_pole": "Monochrome School",
@@ -1354,8 +1364,8 @@
       "condition": "See the Commando and Provost-san outside their submarine at The Docks"
     },
     "plaza": {
-      "name": "Hydroplaza",
-      "description": "It's not a city, it's a big plaza",
+      "name": "Marine War Tank",
+      "description": "Does this place sell sushi?",
       "condition": "Visit every area of Poseidon Plaza"
     },
     "robot": {
@@ -1364,7 +1374,8 @@
       "condition": "See the robot at Tesla Garden"
     },
     "green_prince": {
-      "name": "I Reached You",
+      "name": "Royal Reach",
+      "description": "huh whuh",
       "condition": "Reach and interact with the Green Prince at the City Limits"
     },
     "phone": {
@@ -1696,8 +1707,8 @@
       "condition": "See the fishes in Binary World after using the Polygon and Rainbow effects"
     },
     "maple_symphony": {
-      "name": "Symphony of Maple",
-      "description": "A good melody",
+      "name": "Maple Tune",
+      "description": "Hear the maple symphony among the autumn leaves",
       "condition": "Listen to the song from the orange ball creature in Maple Shrine"
     },
     "jiangshi": {
@@ -1788,7 +1799,8 @@
       "condition": "Enter the Carnival Town in the Victorian Drains"
     },
     "from_behind": {
-      "name": "The Shadow of Neon",
+      "name": "Saying Good-bye From Behind",
+      "description": "Very quietly I take my leave, as quietly as I came here;\nQuietly I wave good-bye, to the rosy clouds in the western sky.",
       "condition": "Watch the \"It Came From Behind\" event in Neon City"
     },
     "star_planetarium": {
@@ -1994,8 +2006,8 @@
       "condition": "Enter the Reflecting Electron Zone"
     },
     "aquarius_prison": {
-      "name": "Aquarius Prison",
-      "description": "You have to be more careful where you step!",
+      "name": "Submarine Specimen",
+      "description": "This one doesn't seem like it originated underwater...",
       "condition": "Witness the Creatures of the Power Plant event in Power Plant"
     },
     "misty_bridges_transmission": {
@@ -2304,8 +2316,7 @@
       "condition": "Face the consequences of your actions in the Head World"
     },
     "hiboushi": {
-      "name": "Lamppost Girl",
-      "description": "Only one pole in the way",
+      "name": "Smiling Hiboushi",
       "condition": "Interact with Hiboushi in Apartments"
     },
     "ripple_passage": {
@@ -3255,8 +3266,8 @@
       "condition": "Use the Wolf effect to scare the owl in Astronomical Gallery"
     },
     "hourglass_desert": {
-      "name": "The Hourglass Desert Scale",
-      "description": "A wanderer in a desert of hourglass",
+      "name": "Through Time and Sand",
+      "description": "Anubis walks along a time consuming path",
       "condition": "Enter Hourglass Desert"
     },
     "holiday_hell_fish": {
@@ -3310,8 +3321,8 @@
       "condition": "Go to the Shallows of Deceit rooftop"
     },
     "tranquil_crescent": {
-      "name": "Moonlight",
-      "description": "The light that can give us the sanity we need",
+      "name": "A Dip Under the Moonlight",
+      "description": "The Moon glows and the Mermaid swims away again and again, always the same.",
       "condition": "Visit the Moonlit Lake in Jigsaw Puzzle World"
     },
     "puppet_show": {
@@ -4276,8 +4287,8 @@
       "condition": "Equip the Chainsaw and Marginal effects near the statue in Silent Sewers"
     },
     "elevator_techno_cdm": {
-      "name": "Elevator Friendship",
-      "description": "A firm bond of friendship",
+      "name": "Comfort in One Another",
+      "description": "Hold me close...",
       "condition": "Interact with one of the girls in the elevator of the Techno Condominium"
     },
     "mahouneko_domino_cst": {
@@ -4294,8 +4305,8 @@
       "condition": "See the creatures in shape of eight change their color by using the Boy and Marginal effects on the eight floor of the Techno Condominium"
     },
     "guardian_forest_pier": {
-      "name": "Keeper of Shoals",
-      "description": "Always on the lookout, always on guard",
+      "name": "The Forest's Angel",
+      "description": "Left to guard a now forgotten place",
       "condition": "See the guardian in Forest Pier"
     },
     "town_maze": {
@@ -4454,8 +4465,8 @@
       "condition": "Visit the Mushroom Zone in Pollution District"
     },
     "tatami_room": {
-      "name": "Eight Tatami Mat Japanese-style Room",
-      "description": "A room from the underworld",
+      "name": "Small yet Cozy Abode",
+      "description": "Snore... Mimimi...",
       "condition": "Enter Tatami Room"
     },
     "creature_house_vases": {
@@ -4891,8 +4902,8 @@
       "condition": "Visit the Soldier Row"
     },
     "nichiyo_flying_fish": {
-      "name": "Private Eyes",
-      "description": "\"You can't escape my, Private Eyes!\nThey're watching you~\"",
+      "name": "Waiting for Something to Happen?",
+      "description": "\"How many times have you gone looking for me?\"",
       "condition": "Find Nichiyo-San in Flying Fish World"
     },
     "comet_infinite_library": {
@@ -4926,13 +4937,13 @@
       "condition": "Visit all of the areas of Broken City"
     },
     "rainbow_clock": {
-      "name": "Glittering Clock",
-      "description": "Sparkling clock with bright hands in a sea of colors",
+      "name": "Colorful Memories",
+      "description": "If you enjoyed the moment, then it wasn't wasted time",
       "condition": "View the giant clock in Rainbow Silhouette World"
     },
     "fishy_friends": {
-      "name": "Atlantis Jellyfish",
-      "description": "Of unparalleled wisdom and gracious blessing here are these jellyfish as a symbol of such",
+      "name": "Jelly Friends",
+      "description": "Hidden deep within the dense, long reclaimed city, a lone aquarium of serenity...",
       "condition": "Enter the Aquarium in Overgrown City"
     },
     "windswept_souls": {
@@ -5652,6 +5663,66 @@
       "name": "Seaside Cityscape",
       "description": "A nostalgic and breathtaking view",
       "condition": "Visit the cityscape area of Heartfelt Eclipse Sea"
+    },
+    "bunny_rubber_duck_islands": {
+      "name": "Bubble Bunnies!",
+      "description": "Bubble! (Bubble!) Bunny! (Bunny!) Bubble Bunnies!",
+      "condition": "Interact with one of the bunnies in Rubber Duck Islands"
+    },
+    "bunny_sunken_paradise": {
+      "name": "Bunderwater",
+      "description": "What are you doing all the way down here, little guy?",
+      "condition": "Find the bunny in Sunken Paradise"
+    },
+    "teal_district": {
+      "name": "Shades of Teal",
+      "condition": "Visit Teal District"
+    },
+    "wormhole_claustrophobia": {
+      "name": "The Wormhole",
+      "description": "This floor is a lie!",
+      "condition": "Reach the Wormhole Room in Claustrophobia"
+    },
+    "sphere_claustrophobia": {
+      "name": "Cyclopean Rotational Orbit",
+      "description": "Let's face each other and spin and spin and spin and spin",
+      "condition": "Reach the Sphere Room in Claustrophobia"
+    },
+    "green_girl_emerald_c_c": {
+      "name": "Her Green Emerald Home",
+      "condition": "Use the Fairy effect near the green-haired girl in Emerald Crystal Cavern"
+    },
+    "silhouette_black_sphere": {
+      "name": "Impaled Reminder",
+      "condition": "Equip the Red Riding Hood or Grave effect near the silhouette in Black Sphere World"
+    },
+    "star_whispering_palace": {
+      "name": "Stars and Serenity",
+      "description": "Come dust collecting with us :3",
+      "condition": "Visit the star storage in Whispering Palace"
+    },
+    "vista_blood_rose_canal": {
+      "name": "Crimson Rose Wreath",
+      "condition": "See the vista in Blood Rose Canal"
+    },
+    "blood_rose_canal": {
+      "name": "Sweet Bloodied Fragrance",
+      "condition": "Visit Blood Rose Canal"
+    },
+    "rendered_dreamscape": {
+      "name": "Prismatic Dreams",
+      "description": "A hazy trip down the prismatic paradise, warm like the desert sand at night, full of enchanted dreams and whispers...",
+      "condition": "Visit Rendered Dreamscape"
+    },
+    "pillar_amoeba_woods": {
+      "name": "Pillar of Rest",
+      "description": "What a wonderful view...",
+      "condition": "Reach the Pillar of Rest in Amoeba Woods"
+    },
+    "statue_tov": {
+      "name": "Weeping Giant",
+      "description": "Trapped below the depths, his cries echoing far, where water reflects...",
+      "condition": "See the crying statue in the Seabed of Tomb of Velleities"
     }
   },
   "unconscious": {
@@ -6630,7 +6701,8 @@
       "condition": "Enter the crashed bus in Snowy Streets"
     },
     "confused_arrows": {
-      "name": "Confused Arrows",
+      "name": "Speeding Pointers",
+      "description": "Whoa where are they going?",
       "condition": "Enter the secret area in Green World"
     },
     "chroma_cat": {
@@ -6719,7 +6791,8 @@
       "condition": "Trigger the full screen carousel event in the Misty Forest"
     },
     "koi": {
-      "name": "Serene Waters in the Shadows",
+      "name": "Koi Fish in the Overgrowth",
+      "description": "Soaking in soft sunlight radiating from above...",
       "condition": "Reach the Water Garden"
     },
     "planetarium": {
@@ -8421,8 +8494,8 @@
       "condition": "See all of Hoarder's colors with the effects in Hoarder's Room"
     },
     "eclipse": {
-      "name": "Hail the Nightmare",
-      "description": "\"Si discite tibi vis sacramentum\nErit præmium Atramentum Sanctum\"",
+      "name": "Paleblood Eclipse",
+      "description": "The Sun shall be turned into darkness, and The Moon into blood, before the great and terrible day of The Lord comes.",
       "condition": "Watch the Eclipse event in the Moth Temple"
     },
     "spinning_cat": {
@@ -8761,6 +8834,20 @@
       "name": "Detective Wormiko",
       "description": "Detective Wormiko is on the move!",
       "condition": "Obtain the Detective effect. If you have already unlocked it, return to Ancient Civilization."
+    },
+    "monitor_realm": {
+      "name": "Wired",
+      "description": "And you don't seem to understand.",
+      "condition": "Visit Monitor Realm"
+    },
+    "oceanfront_architecture": {
+      "name": "Estival Vista",
+      "description": "The summer breeze feels dreamlike, and the distant clouds are in full bloom.",
+      "condition": "Visit Oceanfront Architecture"
+    },
+    "lakeside_dock": {
+      "name": "Serene Night",
+      "condition": "Visit Lakeside Dock"
     }
   },
   "nostalgic": {

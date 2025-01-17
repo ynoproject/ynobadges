@@ -426,7 +426,7 @@
     "tasei_kid_witch_island": {
       "name": "水下二重身",
       "description": "他看上去是不是很眼熟？",
-      "condition": "在Witch's Island遇到Tasei's Kid"
+      "condition": "在Witch's Island遇到Kasei's Kid"
     },
     "sewers_painting": {
       "name": "奇异线画",
@@ -471,6 +471,11 @@
       "name": "Comfy...?",
       "description": "只要我身上裹着的这条毛巾不是什么妖怪，我就不会有事的……对吧？",
       "condition": "获得毛巾效果。若已解锁该效果，请返回Wilderness的主区域。"
+    },
+    "thunder_oni": {
+      "name": "Stormbringer",
+      "description": "I am the sky, and the sky is me!",
+      "condition": "在 Dense Woods A 使用鬼效果招雷。"
     }
   },
   "2kki": {
@@ -553,7 +558,8 @@
       "condition": "到达Obentou世界"
     },
     "rainbow_paint": {
-      "name": "七彩小径",
+      "name": "Rainbow-Colored Dreams",
+      "description": "Turn the world into your canvas",
       "condition": "完成Pencil World的绘画"
     },
     "rainbow_picture": {
@@ -858,7 +864,8 @@
       "condition": "抵达Dark Nexus"
     },
     "white_creature": {
-      "name": "除以零",
+      "name": "Integer Overflow",
+      "description": "Division proof?",
       "condition": "调查Apartments流口水的白色生物"
     },
     "data_stream": {
@@ -960,7 +967,8 @@
       "condition": "穿过Foliage Estate的隧道以观美景"
     },
     "sunken_city": {
-      "name": "沉没之厦",
+      "name": "Inundated Dreams",
+      "description": "\"The sound of the lost dreams still reverberates in the stagnant air. It feels... asphyxiating, to say the least.\"",
       "condition": "抵达Sunken City"
     },
     "crocodile_dog": {
@@ -1116,8 +1124,8 @@
       "condition": "避开Bowling Zone中的所有保龄球并抵达Bowling World"
     },
     "jade": {
-      "name": "碧玉之空",
-      "description": "翡翠城下，碧玉苍生",
+      "name": "Great City of Jade",
+      "description": "\"I've heard that beyond the great blue sky, there lies a city of jade with riches beyond our imagination.\"",
       "condition": "抵达Jade Sky Hamlet"
     },
     "sea_star": {
@@ -1169,7 +1177,7 @@
       }
     },
     "scared_octopus": {
-      "name": "受惊的章鱼",
+      "name": "An Octopus in Distress",
       "condition": "使用妖精效果惊吓Atlantis的Tako Otoko"
     },
     "mini_town": {
@@ -1261,8 +1269,8 @@
       "condition": "在Blood World中触发Blood Sacrifice事件"
     },
     "scourge_of_guilt": {
-      "name": "疚之渊",
-      "description": "你这怪物...",
+      "name": "Flower of Death",
+      "description": "... and for you, Urotsuki, think about what you have done.",
       "condition": "在Shop Ruins对香水瓶幽灵使用电锯效果"
     },
     "pink_bow": {
@@ -1299,7 +1307,8 @@
       "condition": "看见Sacred Crypt最深处的小孩流浪子之影"
     },
     "red_sun": {
-      "name": "红日",
+      "name": "Dawn of the Red Sun",
+      "description": "Here it comes.",
       "condition": "试图在红日下的女士旁边使用电锯效果"
     },
     "smile_san": {
@@ -1326,11 +1335,12 @@
     "clock_pole": {
       "name": "严守时间",
       "description": "守时守时一定要守时！",
-      "condition": "在以下地点找到并靠近对应世界的时钟：植物世界, 雨之森, 水中植物园, Sculpture Park, 月光庭院, Monochrome School, Sunrise Road, Pure White Lands, Critter Village",
+      "condition": "在以下地点找到并靠近对应世界的时钟：植物世界, 雨之森, 水中植物园(main area and Flower Path), Sculpture Park, 月光庭院, Monochrome School, Sunrise Road, Pure White Lands, Critter Village",
       "checkbox": {
         "garden_world_clock_pole": "植物世界",
         "blue_forest_clock_pole": "雨之森",
-        "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "水中植物园",
+        "botanical_garden_clock_pole_1": "main area",
+        "botanical_garden_clock_pole_2": "Flower Path",
         "sculpture_park_clock_pole": "Sculpture Park",
         "twilight_park_clock_pole": "月光庭院",
         "monochrome_school_clock_pole": "Monochrome School",
@@ -1354,13 +1364,9 @@
       "condition": "在Docks，于潜艇之外看见潜水艇二人组"
     },
     "plaza": {
-      "name": "水之广场",
-      "description": "这可不是座城市，这是片大广场",
-      "condition": "拜访波塞冬广场的每一片区域",
-      "checkbox": {
-        "plaza_1|plaza_3|plaza_4|plaza_5": "Poseidon Plaza",
-        "plaza_2": "古代遺跡世界"
-      }
+      "name": "Marine War Tank",
+      "description": "Does this place sell sushi?",
+      "condition": "拜访波塞冬广场的每一片区域"
     },
     "robot": {
       "name": "储藏室",
@@ -1368,7 +1374,8 @@
       "condition": "眺望Tesla Garden的机器人"
     },
     "green_prince": {
-      "name": "碰到你了",
+      "name": "Royal Reach",
+      "description": "huh whuh",
       "condition": "与位于City Limits的Green Prince互动"
     },
     "phone": {
@@ -1699,8 +1706,8 @@
       "condition": "使用多边形和彩虹效果看见Binary Sea的鱼"
     },
     "maple_symphony": {
-      "name": "枫之歌",
-      "description": "灿烂的旋律",
+      "name": "Maple Tune",
+      "description": "Hear the maple symphony among the autumn leaves",
       "condition": "在Maple Shrine聆听橙色球状生物的歌声"
     },
     "jiangshi": {
@@ -1791,7 +1798,8 @@
       "condition": "造访 Victorian Drains 的 Carnival Town。"
     },
     "from_behind": {
-      "name": "霓虹之影",
+      "name": "Saying Good-bye From Behind",
+      "description": "Very quietly I take my leave, as quietly as I came here;\nQuietly I wave good-bye, to the rosy clouds in the western sky.",
       "condition": "在 Neon City 观看 \"It Came From Behind\" 事件。"
     },
     "star_planetarium": {
@@ -2003,8 +2011,8 @@
       "condition": "进入 Reflecting Electron Zone"
     },
     "aquarius_prison": {
-      "name": "水牢",
-      "description": "注意脚下！",
+      "name": "Submarine Specimen",
+      "description": "This one doesn't seem like it originated underwater...",
       "condition": "在 Power Plant 触发 Creatures of the Power Plant 事件"
     },
     "misty_bridges_transmission": {
@@ -2313,8 +2321,7 @@
       "condition": "在 Head World 承受自己行为的报应"
     },
     "hiboushi": {
-      "name": "立灯少女",
-      "description": "一杆独立",
+      "name": "Smiling Hiboushi",
       "condition": "在 Apartments 与 Hiboushi 互动"
     },
     "ripple_passage": {
@@ -3268,8 +3275,8 @@
       "condition": "用狼效果惊吓Astronomical Gallery的猫头鹰"
     },
     "hourglass_desert": {
-      "name": "穿越时之沙漠",
-      "description": "沙漏沙漠中的游荡者",
+      "name": "Through Time and Sand",
+      "description": "Anubis walks along a time consuming path",
       "condition": "到达Hourglass Desert"
     },
     "holiday_hell_fish": {
@@ -3323,8 +3330,8 @@
       "condition": "抵达Shallows of Deceit的屋顶"
     },
     "tranquil_crescent": {
-      "name": "月光",
-      "description": "那光芒可以给予我们所需的理智",
+      "name": "A Dip Under the Moonlight",
+      "description": "The Moon glows and the Mermaid swims away again and again, always the same.",
       "condition": "到达Jigsaw Puzzle World的Moonlit Lake"
     },
     "puppet_show": {
@@ -4293,8 +4300,8 @@
       "condition": "在Silent Sewers的雕像附近装备电锯和非主流效果"
     },
     "elevator_techno_cdm": {
-      "name": "电梯友谊",
-      "description": "坚固的羁绊",
+      "name": "Comfort in One Another",
+      "description": "Hold me close...",
       "condition": "与Techno Condominium电梯里的女孩之一互动"
     },
     "mahouneko_domino_cst": {
@@ -4311,8 +4318,8 @@
       "condition": "用男孩和非主流效果看到Techno Condominium 8楼的8形生物变色"
     },
     "guardian_forest_pier": {
-      "name": "浅滩的守护神",
-      "description": "永远在瞭望台上保持警惕",
+      "name": "The Forest's Angel",
+      "description": "Left to guard a now forgotten place",
       "condition": "看到Forest Pier的守护神像"
     },
     "town_maze": {
@@ -4475,8 +4482,8 @@
       "condition": "到达Pollution District的Mushroom Zone"
     },
     "tatami_room": {
-      "name": "八畳和室",
-      "description": "来自冥府的房间",
+      "name": "Small yet Cozy Abode",
+      "description": "Snore... Mimimi...",
       "condition": "进入Tatami Room"
     },
     "creature_house_vases": {
@@ -4912,8 +4919,8 @@
       "condition": "抵达Soldier Row"
     },
     "nichiyo_flying_fish": {
-      "name": "私人侦探",
-      "description": "\"你无法逃脱我的私人侦探们！\n他们在看着你呢~\"",
+      "name": "Waiting for Something to Happen?",
+      "description": "\"How many times have you gone looking for me?\"",
       "condition": "在Flying Fish World找到Nichiyo-San"
     },
     "comet_infinite_library": {
@@ -4947,13 +4954,13 @@
       "condition": "抵达Broken City的所有区域"
     },
     "rainbow_clock": {
-      "name": "闪光时钟",
-      "description": "色彩之海中有着明亮的表针的时钟。",
+      "name": "Colorful Memories",
+      "description": "If you enjoyed the moment, then it wasn't wasted time",
       "condition": "在 Rainbow Silhouette World 看一下时间。"
     },
     "fishy_friends": {
-      "name": "深海水母",
-      "description": "这些水母是无与伦比的智慧和慷慨赐福的象征",
+      "name": "Jelly Friends",
+      "description": "Hidden deep within the dense, long reclaimed city, a lone aquarium of serenity...",
       "condition": "进入 Overgrown City 的水族馆。"
     },
     "windswept_souls": {
@@ -5673,6 +5680,66 @@
       "name": "Seaside Cityscape",
       "description": "A nostalgic and breathtaking view",
       "condition": "Visit the cityscape area of Heartfelt Eclipse Sea"
+    },
+    "bunny_rubber_duck_islands": {
+      "name": "Bubble Bunnies!",
+      "description": "Bubble! (Bubble!) Bunny! (Bunny!) Bubble Bunnies!",
+      "condition": "Interact with one of the bunnies in Rubber Duck Islands"
+    },
+    "bunny_sunken_paradise": {
+      "name": "Bunderwater",
+      "description": "What are you doing all the way down here, little guy?",
+      "condition": "Find the bunny in Sunken Paradise"
+    },
+    "teal_district": {
+      "name": "Shades of Teal",
+      "condition": "Visit Teal District"
+    },
+    "wormhole_claustrophobia": {
+      "name": "The Wormhole",
+      "description": "This floor is a lie!",
+      "condition": "Reach the Wormhole Room in Claustrophobia"
+    },
+    "sphere_claustrophobia": {
+      "name": "Cyclopean Rotational Orbit",
+      "description": "Let's face each other and spin and spin and spin and spin",
+      "condition": "Reach the Sphere Room in Claustrophobia"
+    },
+    "green_girl_emerald_c_c": {
+      "name": "Her Green Emerald Home",
+      "condition": "Use the Fairy effect near the green-haired girl in Emerald Crystal Cavern"
+    },
+    "silhouette_black_sphere": {
+      "name": "Impaled Reminder",
+      "condition": "Equip the Red Riding Hood or Grave effect near the silhouette in Black Sphere World"
+    },
+    "star_whispering_palace": {
+      "name": "Stars and Serenity",
+      "description": "Come dust collecting with us :3",
+      "condition": "Visit the star storage in Whispering Palace"
+    },
+    "vista_blood_rose_canal": {
+      "name": "Crimson Rose Wreath",
+      "condition": "See the vista in Blood Rose Canal"
+    },
+    "blood_rose_canal": {
+      "name": "Sweet Bloodied Fragrance",
+      "condition": "Visit Blood Rose Canal"
+    },
+    "rendered_dreamscape": {
+      "name": "Prismatic Dreams",
+      "description": "A hazy trip down the prismatic paradise, warm like the desert sand at night, full of enchanted dreams and whispers...",
+      "condition": "Visit Rendered Dreamscape"
+    },
+    "pillar_amoeba_woods": {
+      "name": "Pillar of Rest",
+      "description": "What a wonderful view...",
+      "condition": "Reach the Pillar of Rest in Amoeba Woods"
+    },
+    "statue_tov": {
+      "name": "Weeping Giant",
+      "description": "Trapped below the depths, his cries echoing far, where water reflects...",
+      "condition": "See the crying statue in the Seabed of Tomb of Velleities"
     }
   },
   "unconscious": {
@@ -6651,7 +6718,8 @@
       "condition": "进入Snowy Streets的事故巴士。"
     },
     "confused_arrows": {
-      "name": "迷惑箭头",
+      "name": "Speeding Pointers",
+      "description": "Whoa where are they going?",
       "condition": "抵达Green World的隐藏区域。"
     },
     "chroma_cat": {
@@ -6740,7 +6808,8 @@
       "condition": "在Misty Forest乘坐旋转木马。"
     },
     "koi": {
-      "name": "空游无依",
+      "name": "Koi Fish in the Overgrowth",
+      "description": "Soaking in soft sunlight radiating from above...",
       "condition": "抵达Water Garden。"
     },
     "planetarium": {
@@ -8442,8 +8511,8 @@
       "condition": "在Hoarder's Room通过变换效果看到萤火虫的所有颜色"
     },
     "eclipse": {
-      "name": "崇拜",
-      "description": "\"Si discite tibi vis sacramentum\nErit præmium Atramentum Sanctum\"",
+      "name": "Paleblood Eclipse",
+      "description": "The Sun shall be turned into darkness, and The Moon into blood, before the great and terrible day of The Lord comes.",
       "condition": "在 Moth Temple 观看日食事件。"
     },
     "spinning_cat": {
@@ -8796,6 +8865,20 @@
       "name": "名侦探虫虫子",
       "description": "名侦探虫虫子出动！",
       "condition": "获得侦探效果。若已解锁，请返回Ancient Civilization。"
+    },
+    "monitor_realm": {
+      "name": "Wired",
+      "description": "And you don't seem to understand.",
+      "condition": "Visit Monitor Realm"
+    },
+    "oceanfront_architecture": {
+      "name": "Estival Vista",
+      "description": "The summer breeze feels dreamlike, and the distant clouds are in full bloom.",
+      "condition": "Visit Oceanfront Architecture"
+    },
+    "lakeside_dock": {
+      "name": "Serene Night",
+      "condition": "Visit Lakeside Dock"
     }
   },
   "nostalgic": {

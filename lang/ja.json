@@ -481,6 +481,11 @@
       "name": "快適……？",
       "description": "この巻いてるタオルが妖怪とかじゃなければ、大丈夫……だよね？",
       "condition": "タオルを入手する、すでに入手している場合は荒野に戻る"
+    },
+    "thunder_oni": {
+      "name": "Stormbringer",
+      "description": "I am the sky, and the sky is me!",
+      "condition": "道路沿いの樹海でおにをつかって雷を落とす"
     }
   },
   "2kki": {
@@ -563,7 +568,8 @@
       "condition": "吐き気に到達する"
     },
     "rainbow_paint": {
-      "name": "虹への道",
+      "name": "Rainbow-Colored Dreams",
+      "description": "Turn the world into your canvas",
       "condition": "白い樹で絵を完成させる"
     },
     "rainbow_picture": {
@@ -868,7 +874,8 @@
       "condition": "辺境の夢に到達する"
     },
     "white_creature": {
-      "name": "ゼロ除算",
+      "name": "Integer Overflow",
+      "description": "Division proof?",
       "condition": "夢見荘で公式証明グラフに話しかける"
     },
     "data_stream": {
@@ -970,7 +977,8 @@
       "condition": "森徊の山奥に到達する"
     },
     "sunken_city": {
-      "name": "水没ビル",
+      "name": "Inundated Dreams",
+      "description": "\"The sound of the lost dreams still reverberates in the stagnant air. It feels... asphyxiating, to say the least.\"",
       "condition": "水没に到達する"
     },
     "crocodile_dog": {
@@ -1126,8 +1134,8 @@
       "condition": "神速ボールを避けて歪みボーリング場へ到達する"
     },
     "jade": {
-      "name": "翡翠の空",
-      "description": "翡翠色の建物と翡翠色のものたち",
+      "name": "Great City of Jade",
+      "description": "\"I've heard that beyond the great blue sky, there lies a city of jade with riches beyond our imagination.\"",
       "condition": "天上に到達する"
     },
     "sea_star": {
@@ -1180,7 +1188,7 @@
       }
     },
     "scared_octopus": {
-      "name": "タコ男",
+      "name": "An Octopus in Distress",
       "condition": "海底の少年にようせいを使用し正体を見る"
     },
     "mini_town": {
@@ -1272,8 +1280,8 @@
       "condition": "血の王に攻撃する"
     },
     "scourge_of_guilt": {
-      "name": "罪の意識",
-      "description": "お前は化け物だ…",
+      "name": "Flower of Death",
+      "description": "... and for you, Urotsuki, think about what you have done.",
       "condition": "廃墟商店の髪の長いドレスの人にチェーンソーを使う"
     },
     "pink_bow": {
@@ -1310,7 +1318,8 @@
       "condition": "起床点で影のうろつきに会う"
     },
     "red_sun": {
-      "name": "お天道様",
+      "name": "Dawn of the Red Sun",
+      "description": "Here it comes.",
       "condition": "さんさんタウンの女性にチェーンソーを使おうとする"
     },
     "smile_san": {
@@ -1337,11 +1346,12 @@
     "clock_pole": {
       "name": "時間厳守",
       "description": "遅刻しないように!",
-      "condition": "植物世界 雨の森 水中植物園 彫刻庭園 月明かりの庭園 モノクロ学校 夕焼けの道 白い世界 六角タイル世界で時計に近づく",
+      "condition": "植物世界 雨の森 水中植物園(main area and Flower Path) 彫刻庭園 月明かりの庭園 モノクロ学校 夕焼けの道 白い世界 六角タイル世界で時計に近づく",
       "checkbox": {
         "garden_world_clock_pole": "植物世界",
         "blue_forest_clock_pole": "雨の森",
-        "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "水中植物園",
+        "botanical_garden_clock_pole_1": "main area",
+        "botanical_garden_clock_pole_2": "Flower Path",
         "sculpture_park_clock_pole": "彫刻庭園",
         "twilight_park_clock_pole": "月明かりの庭園",
         "monochrome_school_clock_pole": "モノクロ学校",
@@ -1365,8 +1375,8 @@
       "condition": "霧の湖で潜水艦の外にいる大尉と伍長を見る"
     },
     "plaza": {
-      "name": "海神の商店街",
-      "description": "まるで一つの街のようだ",
+      "name": "Marine War Tank",
+      "description": "Does this place sell sushi?",
       "condition": "トライデントスクエアの全エリアに到達する"
     },
     "robot": {
@@ -1375,7 +1385,8 @@
       "condition": "テスラ庭園でロボットを見る"
     },
     "green_prince": {
-      "name": "君に届け",
+      "name": "Royal Reach",
+      "description": "huh whuh",
       "condition": "エスカレーターの高速エリアでまりも王に謁見する"
     },
     "phone": {
@@ -1707,8 +1718,8 @@
       "condition": "電子の海で「ポリゴン」と「にじ」を使用した後に魚を見てください"
     },
     "maple_symphony": {
-      "name": "楓の旋律",
-      "description": "良曲",
+      "name": "Maple Tune",
+      "description": "Hear the maple symphony among the autumn leaves",
       "condition": "楓神社にいる？？？？に会いに行く"
     },
     "jiangshi": {
@@ -1799,7 +1810,8 @@
       "condition": "池畔庭園の横町エリアに到達する"
     },
     "from_behind": {
-      "name": "彩の影",
+      "name": "Saying Good-bye From Behind",
+      "description": "Very quietly I take my leave, as quietly as I came here;\nQuietly I wave good-bye, to the rosy clouds in the western sky.",
       "condition": "暗彩光でタコ風船みたいなものを見る"
     },
     "star_planetarium": {
@@ -2005,8 +2017,8 @@
       "condition": "Electronに到達する"
     },
     "aquarius_prison": {
-      "name": "水瓶座の監獄",
-      "description": "足元注意！",
+      "name": "Submarine Specimen",
+      "description": "This one doesn't seem like it originated underwater...",
       "condition": "ボール工場の水槽の中に閉じ込められる"
     },
     "misty_bridges_transmission": {
@@ -2315,8 +2327,7 @@
       "condition": "頭で自分の行動の末路に向き合う"
     },
     "hiboushi": {
-      "name": "モノ美",
-      "description": "邪魔なポールは１本だけ",
+      "name": "Smiling Hiboushi",
       "condition": "夢見荘の裏道でモノ美に話しかける"
     },
     "ripple_passage": {
@@ -3270,8 +3281,8 @@
       "condition": "天体美術館でおおかみを使ってフクロウを怖がらせる"
     },
     "hourglass_desert": {
-      "name": "砂時計砂漠の秤",
-      "description": "砂時計砂漠を彷徨うもの",
+      "name": "Through Time and Sand",
+      "description": "Anubis walks along a time consuming path",
       "condition": "砂時計砂漠に到達する"
     },
     "holiday_hell_fish": {
@@ -3325,8 +3336,8 @@
       "condition": "嘘つきの街の屋上に到達する"
     },
     "tranquil_crescent": {
-      "name": "月光",
-      "description": "この光は私たちに理性を与える",
+      "name": "A Dip Under the Moonlight",
+      "description": "The Moon glows and the Mermaid swims away again and again, always the same.",
       "condition": "月湖に到達する"
     },
     "puppet_show": {
@@ -4295,8 +4306,8 @@
       "condition": "ラジオ池の黒い一反木綿にチェーンソーとマージナルを使う"
     },
     "elevator_techno_cdm": {
-      "name": "エレベーターの友情",
-      "description": "固い友情の絆",
+      "name": "Comfort in One Another",
+      "description": "Hold me close...",
       "condition": "コンドミニアムのエレベーター内で、女の子のどちらかに話しかける"
     },
     "mahouneko_domino_cst": {
@@ -4313,8 +4324,8 @@
       "condition": "コンドミニアムの8階で、おとこのことマージナルを使って、8の形をした生き物の色が変わるのを見る"
     },
     "guardian_forest_pier": {
-      "name": "浅瀬の守護者",
-      "description": "常に警戒して見張っている",
+      "name": "The Forest's Angel",
+      "description": "Left to guard a now forgotten place",
       "condition": "桟橋の森の赤ウネウネ石像を見る"
     },
     "town_maze": {
@@ -4473,8 +4484,8 @@
       "condition": "赤錆の煙突街の巨大キノコに到達する"
     },
     "tatami_room": {
-      "name": "ジャパニーズスタイルの8畳和室",
-      "description": "冥土の土産部屋",
+      "name": "Small yet Cozy Abode",
+      "description": "Snore... Mimimi...",
       "condition": "八畳和室に到達する"
     },
     "creature_house_vases": {
@@ -4910,8 +4921,8 @@
       "condition": "士官達に到達する"
     },
     "nichiyo_flying_fish": {
-      "name": "探偵",
-      "description": "\"私はあなたを見ている。絶対逃げられないよ。\"",
+      "name": "Waiting for Something to Happen?",
+      "description": "\"How many times have you gone looking for me?\"",
       "condition": "待ち人で待ち人を見つける"
     },
     "comet_infinite_library": {
@@ -4945,13 +4956,13 @@
       "condition": "ホームルの全てのエリアを訪れる"
     },
     "rainbow_clock": {
-      "name": "きらきら時計",
-      "description": "カラフルな海の中で鮮やかな秒針を持つきらめく時計",
+      "name": "Colorful Memories",
+      "description": "If you enjoyed the moment, then it wasn't wasted time",
       "condition": "きらきらの巨大な時計を見る"
     },
     "fishy_friends": {
-      "name": "アトランティスクラゲ",
-      "description": "比類なき知恵と恵み深い祝福のシンボルとして、このクラゲはここにいる",
+      "name": "Jelly Friends",
+      "description": "Hidden deep within the dense, long reclaimed city, a lone aquarium of serenity...",
       "condition": "昭和庭のくらげ水族館内部に到達する"
     },
     "windswept_souls": {
@@ -5671,6 +5682,66 @@
       "name": "Seaside Cityscape",
       "description": "A nostalgic and breathtaking view",
       "condition": "Visit the cityscape area of Heartfelt Eclipse Sea"
+    },
+    "bunny_rubber_duck_islands": {
+      "name": "Bubble Bunnies!",
+      "description": "Bubble! (Bubble!) Bunny! (Bunny!) Bubble Bunnies!",
+      "condition": "Interact with one of the bunnies in Rubber Duck Islands"
+    },
+    "bunny_sunken_paradise": {
+      "name": "Bunderwater",
+      "description": "What are you doing all the way down here, little guy?",
+      "condition": "Find the bunny in Sunken Paradise"
+    },
+    "teal_district": {
+      "name": "Shades of Teal",
+      "condition": "Visit Teal District"
+    },
+    "wormhole_claustrophobia": {
+      "name": "The Wormhole",
+      "description": "This floor is a lie!",
+      "condition": "Reach the Wormhole Room in Claustrophobia"
+    },
+    "sphere_claustrophobia": {
+      "name": "Cyclopean Rotational Orbit",
+      "description": "Let's face each other and spin and spin and spin and spin",
+      "condition": "Reach the Sphere Room in Claustrophobia"
+    },
+    "green_girl_emerald_c_c": {
+      "name": "Her Green Emerald Home",
+      "condition": "Use the Fairy effect near the green-haired girl in Emerald Crystal Cavern"
+    },
+    "silhouette_black_sphere": {
+      "name": "Impaled Reminder",
+      "condition": "Equip the Red Riding Hood or Grave effect near the silhouette in Black Sphere World"
+    },
+    "star_whispering_palace": {
+      "name": "Stars and Serenity",
+      "description": "Come dust collecting with us :3",
+      "condition": "Visit the star storage in Whispering Palace"
+    },
+    "vista_blood_rose_canal": {
+      "name": "Crimson Rose Wreath",
+      "condition": "See the vista in Blood Rose Canal"
+    },
+    "blood_rose_canal": {
+      "name": "Sweet Bloodied Fragrance",
+      "condition": "Visit Blood Rose Canal"
+    },
+    "rendered_dreamscape": {
+      "name": "Prismatic Dreams",
+      "description": "A hazy trip down the prismatic paradise, warm like the desert sand at night, full of enchanted dreams and whispers...",
+      "condition": "Visit Rendered Dreamscape"
+    },
+    "pillar_amoeba_woods": {
+      "name": "Pillar of Rest",
+      "description": "What a wonderful view...",
+      "condition": "Reach the Pillar of Rest in Amoeba Woods"
+    },
+    "statue_tov": {
+      "name": "Weeping Giant",
+      "description": "Trapped below the depths, his cries echoing far, where water reflects...",
+      "condition": "See the crying statue in the Seabed of Tomb of Velleities"
     }
   },
   "unconscious": {
@@ -6649,7 +6720,8 @@
       "condition": "Snowy Streetsで墜落したバスに入る"
     },
     "confused_arrows": {
-      "name": "混沌矢印",
+      "name": "Speeding Pointers",
+      "description": "Whoa where are they going?",
       "condition": "Green Worldの隠しエリアに到達する"
     },
     "chroma_cat": {
@@ -6738,7 +6810,8 @@
       "condition": "Misty Forestでメリーゴーランドイベントを見る"
     },
     "koi": {
-      "name": "池泉庭園",
+      "name": "Koi Fish in the Overgrowth",
+      "description": "Soaking in soft sunlight radiating from above...",
       "condition": "Water Gardenに到達する"
     },
     "planetarium": {
@@ -8440,8 +8513,8 @@
       "condition": "Hoarder's RoomでHoarderの色をエフェクトを使って全て見る"
     },
     "eclipse": {
-      "name": "悪夢にバンザイ",
-      "description": "\"Si discite tibi vis sacramentum\nErit præmium Atramentum Sanctum\"",
+      "name": "Paleblood Eclipse",
+      "description": "The Sun shall be turned into darkness, and The Moon into blood, before the great and terrible day of The Lord comes.",
       "condition": "Moth TempleでEclipseイベントを見る"
     },
     "spinning_cat": {
@@ -8794,6 +8867,20 @@
       "name": "探偵Wormiko",
       "description": "探偵Wormiko、出動！",
       "condition": "Detectiveのエフェクトを入手する、すでに入手している場合はAncient Civilizationにもう一度行く。"
+    },
+    "monitor_realm": {
+      "name": "Wired",
+      "description": "And you don't seem to understand.",
+      "condition": "Visit Monitor Realm"
+    },
+    "oceanfront_architecture": {
+      "name": "Estival Vista",
+      "description": "The summer breeze feels dreamlike, and the distant clouds are in full bloom.",
+      "condition": "Visit Oceanfront Architecture"
+    },
+    "lakeside_dock": {
+      "name": "Serene Night",
+      "condition": "Visit Lakeside Dock"
     }
   },
   "nostalgic": {

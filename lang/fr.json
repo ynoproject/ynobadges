@@ -426,7 +426,7 @@
     "tasei_kid_witch_island": {
       "name": "Sosie aquatique",
       "description": "Il a l'air familier, non ?",
-      "condition": "Rencontrer l'Enfant Tasei sur la Witch's Island"
+      "condition": "Rencontrer l'Enfant Kasei sur la Witch's Island"
     },
     "sewers_painting": {
       "name": "D'étranges marques",
@@ -471,6 +471,11 @@
       "name": "Confortable... ?",
       "description": "Du moment que cette serviette me couvrant n'est pas un yokai, tout ira bien... pas vrai ?",
       "condition": "Obtenir l'effet Serviette. Si vous l'avez déjà obtenu, retournez dans la zone principale de Wilderness."
+    },
+    "thunder_oni": {
+      "name": "Miss Tempête",
+      "description": "Je suis le ciel, et le ciel est moi",
+      "condition": "Provoquer la foudre en utilisant l'effet Oni dans les Dense Woods A"
     }
   },
   "2kki": {
@@ -553,7 +558,8 @@
       "condition": "Aller dans l'Obentou World"
     },
     "rainbow_paint": {
-      "name": "En route vers l'arc-en-ciel",
+      "name": "Rêves aux couleurs de l'arc-en-ciel",
+      "description": "Transforme le monde en ta propre toile",
       "condition": "Finir la peinture dans le Pencil World"
     },
     "rainbow_picture": {
@@ -858,7 +864,8 @@
       "condition": "Entrer dans le Dark Nexus"
     },
     "white_creature": {
-      "name": "Diviser par zéro",
+      "name": "Dépassement d'entier",
+      "description": "Preuve de la division ?",
       "condition": "Interagir avec la créature blanche baveuse dans les Apartments"
     },
     "data_stream": {
@@ -960,7 +967,8 @@
       "condition": "Visiter le lointain paysage dans le Foliage Estate"
     },
     "sunken_city": {
-      "name": "Bâtiment inondé",
+      "name": "Rêves inondés",
+      "description": "« Les échos de rêves perdus stagnent toujours dans l'air en suspens. Ce ressenti est... asphyxiant, c'est le moins que l'on puisse dire. »",
       "condition": "Atteindre la Sunken City"
     },
     "crocodile_dog": {
@@ -1116,8 +1124,8 @@
       "condition": "Esquiver tous les hommes boule de bowling dans la Bowling Zone et atteindre le Bowling World"
     },
     "jade": {
-      "name": "Ciel de jade",
-      "description": "Êtres de jade et structures de jade",
+      "name": "La phantasmée cité de jade",
+      "description": "« J'ai entendu dire qu'au-delà du grand ciel bleu, se trouve une cité de jade dont les richesses dépassent toutes nos imaginations. »",
       "condition": "Visiter le Jade Sky Hamlet"
     },
     "sea_star": {
@@ -1169,7 +1177,7 @@
       }
     },
     "scared_octopus": {
-      "name": "Poulpe effrayé",
+      "name": "Un poulpe en détresse",
       "condition": "En utilisant l'effet Fée, effrayer Tako Otoko dans Atlantis"
     },
     "mini_town": {
@@ -1261,8 +1269,8 @@
       "condition": "Activer l'événement du Sacrifice Sanguin dans le Blood World"
     },
     "scourge_of_guilt": {
-      "name": "Fléau de la culpabilité",
-      "description": "Espèce de monstre...",
+      "name": "Fleur de la mort",
+      "description": "... et pour toi, Urotsuki, pense à ce que tu as fait.",
       "condition": "Utiliser l'effet Tronçonneuse sur le fantôme de la bouteille de parfum dans les Shop Ruins"
     },
     "pink_bow": {
@@ -1299,7 +1307,8 @@
       "condition": "Voir l'enfant sombre aux traits d'Urotsuki dans les tréfonds de la Sacred Crypt"
     },
     "red_sun": {
-      "name": "Soleil rouge",
+      "name": "Coucher du soleil rouge",
+      "description": "Le voici.",
       "condition": "Essayer d'utiliser l'effet Tronçonneuse proche de la dame sous le soleil rouge"
     },
     "smile_san": {
@@ -1326,11 +1335,12 @@
     "clock_pole": {
       "name": "Ponctualité",
       "description": "Toujours être ponctuel !",
-      "condition": "Trouver et approcher les pôles d'horloges dans le Garden World (nuit), la Blue Forest, le Botanical Garden, le Sculpture Park, le Twilight Park, la Monochrome School, la Sunrise Road, les Pure White Lands et le Critter Village",
+      "condition": "Trouver et approcher les pôles d'horloges dans le Garden World (nuit), la Blue Forest, le Botanical Garden (zone principale et Passage Floral), le Sculpture Park, le Twilight Park, la Monochrome School, la Sunrise Road, les Pure White Lands et le Critter Village",
       "checkbox": {
         "garden_world_clock_pole": "Garden World (nuit)",
         "blue_forest_clock_pole": "Blue Forest",
-        "botanical_garden_clock_pole_1|botanical_garden_clock_pole_2": "Botanical Garden",
+        "botanical_garden_clock_pole_1": "zone principale",
+        "botanical_garden_clock_pole_2": "Passage Floral",
         "sculpture_park_clock_pole": "Sculpture Park",
         "twilight_park_clock_pole": "Twilight Park",
         "monochrome_school_clock_pole": "Monochrome School",
@@ -1354,8 +1364,8 @@
       "condition": "Voir le Commando et Provost-san en dehors de leur sous-marin aux Docks"
     },
     "plaza": {
-      "name": "Hydroplaza",
-      "description": "C'est pas une ville, c'est une grande place",
+      "name": "Tank de la marine",
+      "description": "Est-ce que ce lieu vend des sushis ?",
       "condition": "Visiter chaque zone de la Poseidon Plaza"
     },
     "robot": {
@@ -1364,7 +1374,8 @@
       "condition": "Voir le robot au Tesla Garden"
     },
     "green_prince": {
-      "name": "Touché !",
+      "name": "Portée princière",
+      "description": "« Comment ! tu es tombé du ciel ! »",
       "condition": "Atteindre et interagir avec le Prince Vert aux City Limits"
     },
     "phone": {
@@ -1375,7 +1386,7 @@
         "phone_aquatic_cube_city|phone_fossil_lake": "Fossil Lake",
         "phone_sugar_road": "Sugar Road",
         "phone_underground_garage": "Underground Garage",
-        "phone_water_reclamation_facility": "Water Reclamation Facility: Shutter Alley",
+        "phone_water_reclamation_facility": "Water Reclamation Facility",
         "phone_dark_museum": "Dark Museum",
         "phone_dark_warehouse": "Dark Warehouse",
         "phone_parking_zone": "Parking Zone"
@@ -1694,8 +1705,8 @@
       "condition": "Voir les poissons dans le Binary World après avoir utilisé les effets Polygone et Arc-En-Ciel"
     },
     "maple_symphony": {
-      "name": "Symphonie de Maple",
-      "description": "Une bonne mélodie",
+      "name": "Son de l'érable",
+      "description": "Entends la symphonie de l'érable se faufillant entre les feuilles d'automne",
       "condition": "Écouter la musique de la créature balle orange dans le Maple Shrine"
     },
     "jiangshi": {
@@ -1786,7 +1797,8 @@
       "condition": "Entrer dans le Carnival Town dans les Victorian Drains"
     },
     "from_behind": {
-      "name": "L'ombre du néon",
+      "name": "Dire au revoir de dos",
+      "description": "D'un silence je prends ma retraite, aussi silencieusement que ne fut ma venue ;\nD'un silence je salue au revoir, aux nuages roses du ciel occidental.",
       "condition": "Regarder l'événement « It Came From Behind » dans la Neon City"
     },
     "star_planetarium": {
@@ -1998,8 +2010,8 @@
       "condition": "Entrer dans la Reflecting Electron Zone"
     },
     "aquarius_prison": {
-      "name": "Prison aqueuse",
-      "description": "Tu dois être plus attentive quand tu marches !",
+      "name": "Spécimen sous-marin",
+      "description": "Celle-là n'a pas l'air de venir de l'océan...",
       "condition": "Faire l'événement des Creatures of the Power Plant dans la Power Plant"
     },
     "misty_bridges_transmission": {
@@ -2308,8 +2320,7 @@
       "condition": "Être confrontée à vos actes dans le Head World"
     },
     "hiboushi": {
-      "name": "Fille du lampadaire",
-      "description": "Seul un lampadaire est sur le chemin",
+      "name": "Hiboushi souriante",
       "condition": "Interagir avec Hiboushi dans les Apartments"
     },
     "ripple_passage": {
@@ -3259,8 +3270,8 @@
       "condition": "Utiliser l'effet Loup pour effrayer l'hibou dans l'Astronomical Gallery"
     },
     "hourglass_desert": {
-      "name": "L'écoulement du temps de l'Hourglass Desert",
-      "description": "Un nomade dans un désert de sabliers",
+      "name": "Par-delà le sable et le temps",
+      "description": "Anubis marche en même temps que l'écoulement du temps",
       "condition": "Entrer dans l'Hourglass Desert"
     },
     "holiday_hell_fish": {
@@ -3314,8 +3325,8 @@
       "condition": "Aller sur le toit des Shallows of Deceit"
     },
     "tranquil_crescent": {
-      "name": "Clair de lune",
-      "description": "La lumière qu'émet ce lac permet de soigner votre santé mentale",
+      "name": "Sous la lumière de la Lune",
+      "description": "La Lune brille et la sirène nage au firmament, encore et encore, ad infinitum.",
       "condition": "Visiter le Lac au Clair de Lune dans le Jigsaw Puzzle World"
     },
     "puppet_show": {
@@ -4280,8 +4291,8 @@
       "condition": "Équiper les effets Tronçonneuse et Marginal à proximité de la statue aux Silent Sewers"
     },
     "elevator_techno_cdm": {
-      "name": "Amitié de l'ascenseur",
-      "description": "Un profond lien d'amitié",
+      "name": "Réconfort par autrui",
+      "description": "Tiens-toi proche de moi...",
       "condition": "Interagir avec l'une des filles dans l'ascenseur du Techno Condominium"
     },
     "mahouneko_domino_cst": {
@@ -4298,8 +4309,8 @@
       "condition": "Voir les créatures en forme de huit changer de couleur en utilisant les effets Garçon et Marginal au huitième étage du Techno Condominium"
     },
     "guardian_forest_pier": {
-      "name": "Gardien des bancs de sable",
-      "description": "Toujours aux aguets, toujours sur le qui-vive",
+      "name": "L'ange de la forêt",
+      "description": "Laissé comme gardien dans un lieu désormais oublié",
       "condition": "Voir le gardien au Forest Pier"
     },
     "town_maze": {
@@ -4458,8 +4469,8 @@
       "condition": "Visiter la Champi-zone au Pollution District"
     },
     "tatami_room": {
-      "name": "Chambre au style japonais avec tatami",
-      "description": "Une chambre du monde sous-terrain",
+      "name": "Foyer petit mais chaleureux",
+      "description": "Rooo... Mimimi...",
       "condition": "Entrer dans la Tatami Room"
     },
     "creature_house_vases": {
@@ -4895,8 +4906,8 @@
       "condition": "Visiter la Soldier Row"
     },
     "nichiyo_flying_fish": {
-      "name": "Yeux privés",
-      "description": "« Tu ne peux pas échapper à mon regard privé !! Mes yeux sont rivés sur toi~ »",
+      "name": "T'attends que quelque chose se passe ?",
+      "description": "« Ça fait depuis combien de temps que tu me cherches ? »",
       "condition": "Trouver Nichiyo-San au Flying Fish World"
     },
     "comet_infinite_library": {
@@ -4930,13 +4941,13 @@
       "condition": "Visiter toutes les zones de la Broken City"
     },
     "rainbow_clock": {
-      "name": "Horloge brillante",
-      "description": "Une horloge étincelante avec des aiguilles brillantes dans une mer de couleurs",
+      "name": "Souvenirs colorés",
+      "description": "Si tu as profité de l'instant présent, alors ce n'était pas un gâchis de temps",
       "condition": "Voir l'horloge géante dans le Rainbow Silhouette World"
     },
     "fishy_friends": {
-      "name": "Méduse d'Atlantis",
-      "description": "D'une sagesse inégalée et d'une bénédiction gracieuse, voici les méduses, symboles de ces deux éléments",
+      "name": "Amis méduses",
+      "description": "Caché dans la profonde, et longue cité reprise par la nature, se trouve un aquarium isolé d'une sérénité sans égale...",
       "condition": "Entrer dans l'Aquarium de l'Overgrown City"
     },
     "windswept_souls": {
@@ -5656,6 +5667,66 @@
       "name": "Paysage urbain océanique",
       "description": "Une vue nostalgique à couper le souffle",
       "condition": "Visiter la zone du paysage urbain à l'Heartfelt Eclipse Sea"
+    },
+    "bunny_rubber_duck_islands": {
+      "name": "Lapinous bulleurs !",
+      "description": "Bubulle ! (Bulle !) Lapibulle ? (Bububulle !) Bububulle lapibubulle !",
+      "condition": "Interagir avec l'un des lapinous aux Rubber Duck Islands"
+    },
+    "bunny_sunken_paradise": {
+      "name": "20000 lapins sous les mers",
+      "description": "Qu'est-ce tu fais ici, mon p'tit lapinou ?",
+      "condition": "Trouver le lapinou au Sunken Paradise"
+    },
+    "teal_district": {
+      "name": "Teintes de bleu sarcelle",
+      "condition": "Visiter le Teal District"
+    },
+    "wormhole_claustrophobia": {
+      "name": "Le trou de ver",
+      "description": "Ce sol est factice !",
+      "condition": "Atteindre la Salle du Trou de Ver à Claustrophobia"
+    },
+    "sphere_claustrophobia": {
+      "name": "Orbite rotationnelle cyclopéenne",
+      "description": "Regardons-nous face à face et tournons et tournons et tournons et tournons",
+      "condition": "Atteindre la Salle de la Sphère à Claustrophobia"
+    },
+    "green_girl_emerald_c_c": {
+      "name": "Sa maison de vert émeraude",
+      "condition": "Utiliser l'effet Fée proche de la fille aux cheveux verts dans l'Emerald Crystal Cavern"
+    },
+    "silhouette_black_sphere": {
+      "name": "Rappel perçant à pic",
+      "condition": "Équiper l'effet Chaperon rouge ou Tombe à côté de la silhouette au Black Sphere World"
+    },
+    "star_whispering_palace": {
+      "name": "Étoiles et équilibre",
+      "description": "Viens prendre la poussière avec nous :3",
+      "condition": "Visiter l'entrepôt de l'étoile au Whispering Palace"
+    },
+    "vista_blood_rose_canal": {
+      "name": "Couronne de fleurs carmine",
+      "condition": "Voir la vue au Blood Rose Canal"
+    },
+    "blood_rose_canal": {
+      "name": "Doux parfum ensanglanté",
+      "condition": "Visiter le Blood Rose Canal"
+    },
+    "rendered_dreamscape": {
+      "name": "Rêves prismatiques",
+      "description": "Un voyage exotique au paradis prismatique, chaud tel le sable du désert à minuit, et rempli de rêves et chuchotements enchantés...",
+      "condition": "Visiter le Rendered Dreamscape"
+    },
+    "pillar_amoeba_woods": {
+      "name": "Pillier du Repos",
+      "description": "Quelle vue magninifique...",
+      "condition": "Atteindre le Pillier du Repos aux Amoeba Woods"
+    },
+    "statue_tov": {
+      "name": "Géant en larmes",
+      "description": "Piégé dans les profondeurs, ses laments font écho au loin, là où l'eau se reflète...",
+      "condition": "Voir la statue en larmes au Fond de la Mer de la Tomb of Velleities"
     }
   },
   "unconscious": {
@@ -6634,7 +6705,8 @@
       "condition": "Entrer dans le bus désolé des Snowy Streets"
     },
     "confused_arrows": {
-      "name": "Flèches confuses",
+      "name": "Flèches de vitesse",
+      "description": "Wouah où est-ce qu'ils vont comme ça ?",
       "condition": "Entrer dans la salle secrète du Green World"
     },
     "chroma_cat": {
@@ -6723,7 +6795,8 @@
       "condition": "Déclencher l'événement du carrousel dans la Misty Forest"
     },
     "koi": {
-      "name": "Eaux sereines tapies dans l'ombre",
+      "name": "Carpe koï dans la verdure",
+      "description": "Baigné dans une douce lumière rayonnante de là-haut...",
       "condition": "Atteindre le Water Garden"
     },
     "planetarium": {
@@ -8425,8 +8498,8 @@
       "condition": "Voir toute les couleurs du Collectionneur Invétéré en utilisant des effets dans la Hoarder's Room"
     },
     "eclipse": {
-      "name": "Cauchemar, je te salue",
-      "description": "« Si discite tibi vis sacramentum\nErit præmium Atramentum Sanctum »",
+      "name": "Éclipse sanglante",
+      "description": "Le Soleil devrait ne devenir que ténèbres, et la Lune que sang, avant que le grand et terrible règne du Seigneur ne vienne.",
       "condition": "Voir l'événement d'éclipse au Moth Temple"
     },
     "spinning_cat": {
@@ -8779,6 +8852,20 @@
       "name": "Détective Wormiko",
       "description": "Sur les traces de Wormiarty !",
       "condition": "Obtenir l'effet Détective. Si vous l'avez déjà obtenu, retournez à l'Ancient Civilization."
+    },
+    "monitor_realm": {
+      "name": "Branchée",
+      "description": "T'as pas l'air de comprendre.",
+      "condition": "Visiter le Monitor Realm"
+    },
+    "oceanfront_architecture": {
+      "name": "Panorama estival",
+      "description": "La brise estivale semble onirique, et les nuages au loin sont en pleine efflorescence.",
+      "condition": "Visiter l'Oceanfront Architecture"
+    },
+    "lakeside_dock": {
+      "name": "Nuit sereine",
+      "condition": "Visiter le Lakeside Dock"
     }
   },
   "nostalgic": {
