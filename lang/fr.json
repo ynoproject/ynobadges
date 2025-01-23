@@ -825,8 +825,8 @@
       "condition": "Atteindre Sea Lily World"
     },
     "noranyan": {
-      "name": "Noranyan",
-      "description": "Peux-tu imiawginer un gérant de miéwnagerie imiawginant miawnager une miéwnagerie imiawginaire.",
+      "name": "Miaou ?",
+      "description": "Ce chat est vraiment trop magnifique...",
       "condition": "Interagir avec Noranyan dans la Sofa Room"
     },
     "cheese": {
@@ -1074,7 +1074,8 @@
       "condition": "Rencontrer Huyure-chan sur la Dream Beach"
     },
     "lobster": {
-      "name": "Homard amical",
+      "name": "Serrage de pince",
+      "description": "Ça se voit qu'elle en pince pour moi si elle est venue jusqu'ici...",
       "condition": "Entrer dans la piscine aux Flooded Baths"
     },
     "chandelier": {
@@ -1138,11 +1139,13 @@
       "condition": "Entrer dans l'Alien Cellar"
     },
     "sea_monster": {
-      "name": "Seigneur du 20.180",
+      "name": "Seigneur des profondeurs fluorescentes",
+      "description": "Les lumières bougent... ?",
       "condition": "Rencontrer le monstre de la mer dans le Neon Sea"
     },
     "mosenite": {
-      "name": "Mosenite",
+      "name": "Yamato-e",
+      "description": "Passage rapide à une ère révolue",
       "condition": "Aller à Mosenite"
     },
     "heart": {
@@ -1426,7 +1429,8 @@
       "condition": "Entrer dans la Gray Road depuis le Techno Condominium"
     },
     "blurry": {
-      "name": "Flou",
+      "name": "Examen de la vue",
+      "description": "Je crois bien que t'auras besoin de lunettes...",
       "condition": "Voir le flou trou pour épier dans le Landolt Ring World en utilisant un certain effet"
     },
     "guillotine": {
@@ -1686,8 +1690,8 @@
       "condition": "Voir les deux chats dans le Shadow Lady Estate"
     },
     "mar_marina": {
-      "name": "Mar Marina",
-      "description": "Elle était habituée à vivre dans un hidden shoal et a bougée dans un lost shoal",
+      "name": "Bioluminescence de Marina",
+      "description": "Pourrais-tu arrêter d'éteindre la lumière ?",
       "condition": "Entrer dans la Maison de Marina, avec les lumières allumées et éteintes"
     },
     "libra_palace": {
@@ -5435,8 +5439,8 @@
       "condition": "Atteindre le portail barricadé au Complex"
     },
     "old_train_station_link": {
-      "name": "Seigneur de la frénésie des cônes",
-      "description": "Seigneur Cône séparant les profondeurs des étoiles du ciel de l'ombre de l'arc-en-ciel teinté de rêves",
+      "name": "Cône sacré du salut",
+      "description": "Le plus puissant des cônes, divisant les ténèbreuses profondeurs hadales de l'inconnu du brillant et radieux royaume de la nostalgie...",
       "condition": "Accéder à l'Old Train Station depuis l'Old Train Station B ou à l'Old Train Station B depuis l'Old Train Station"
     },
     "bw_chaotic_buildings": {
@@ -5727,6 +5731,46 @@
       "name": "Géant en larmes",
       "description": "Piégé dans les profondeurs, ses laments font écho au loin, là où l'eau se reflète...",
       "condition": "Voir la statue en larmes au Fond de la Mer de la Tomb of Velleities"
+    },
+    "dream_pool_entrance": {
+      "name": "Arrivées d'eaux percées",
+      "description": "Une excellente entrée pour la frontière des ténèbres, noignée dans les profondeurs...",
+      "condition": "Atteindre l'entrée de la Dream Pool"
+    },
+    "cube_space_dark_nexus": {
+      "name": "Vivre dans un box",
+      "description": "Un cauchemar cubique",
+      "condition": "Atteindre l'Espace du Cube au Dark Nexus"
+    },
+    "sunflower_fields_dark_nexus": {
+      "name": "Lumière de mon rêve",
+      "description": "Sentir la lumière sur ta peau et la brise d'un champ de tournesols géants et la meilleure chose pouvant être rêvée",
+      "condition": "Atteindre le Champ de Tournesols au Dark Nexus"
+    },
+    "snake_statue_azure_garden": {
+      "name": "Dragon de lapis-lazuli",
+      "description": "Bibelot sacré du jardin azuré",
+      "condition": "Trouver la statue du serpent à l'Azure Garden"
+    },
+    "polluted_town_dark_nexus": {
+      "name": "Pollution et dédain",
+      "description": "Le brouillard couvre les bâtiments délabrés, l'œil sinistre voit tout et juge ces habitants tandis que l'air pollué envahit le ciel.",
+      "condition": "Atteindre la Ville Polluée au Dark Nexus"
+    },
+    "realm_dark_nexus": {
+      "name": "La prison de l'ange",
+      "description": "L'ange regarde de là-haut, là où les condamnés ne cherchent que la liberté, espérant qu'un jour ils puissent quitter cet enfer et être pardonnés.",
+      "condition": "Atteindre le Royaume de la Damnation au Dark Nexus"
+    },
+    "azure_garden": {
+      "name": "Jardin d'azurite",
+      "description": "Des jardins de bleu cristallin se trouvant au plus profond du subconscient de quelqu'un...",
+      "condition": "Visiter l'Azure Garden"
+    },
+    "eye_room_magical_passage": {
+      "name": "Cube magique de merveilles",
+      "description": "Par delà l'étreinte des épines, les yeux jettent un sort fougace, quand la magie pleure doucement.",
+      "condition": "Atteindre la salle de l'œil au Magical Passage"
     }
   },
   "unconscious": {
@@ -6465,6 +6509,16 @@
       "name": "Fourrure cramée au feu spirituel",
       "description": "Pourquoi n'est-il pas aussi doux que d'habitude...",
       "condition": "Utiliser l'eidolon Feu d'âme sur le Dévoreur de Verres au Glass Shards Path"
+    },
+    "ghosts_moonlit_path": {
+      "name": "Bathed in Moonlight",
+      "description": "Even though you're gone, your beauty shines in the moonlight.",
+      "condition": "Interact with one of the ghosts in Moonlit Path"
+    },
+    "ruri_flesh_walls_forest": {
+      "name": "Lone Hiker",
+      "description": "Looking at this place, I would run away too.",
+      "condition": "Interact with Ruri in Flesh Walls Forest"
     }
   },
   "flow": {
@@ -6540,8 +6594,8 @@
       "condition": "Obtenir le thème de menu Orange. Si vous l'avez déjà obtenu, retournez au Star World."
     },
     "moonlight_flower": {
-      "name": "Fleur au côté lunaire",
-      "description": "Fête de la fleur arc-en-ciel !",
+      "name": "Psychedelic Flower",
+      "description": "A hidden beauty",
       "condition": "Interagir avec la fleur dans la Psychedelic Town et voir l'événement de la Fleur Arc-en-ciel"
     },
     "oreko": {
@@ -8866,6 +8920,26 @@
     "lakeside_dock": {
       "name": "Nuit sereine",
       "condition": "Visiter le Lakeside Dock"
+    },
+    "piggy_bank_effect": {
+      "name": "Wormibank",
+      "description": "Save them up!",
+      "condition": "Obtain the Piggy Bank effect. If you have already unlocked it, return to Spring World."
+    },
+    "doll_effect_tsushin": {
+      "name": "Little Dollie",
+      "description": "How adorable...",
+      "condition": "Obtain the Doll effect. If you have already unlocked it, return to Plush Grave."
+    },
+    "summer_outfit_effect": {
+      "name": "Summer Haircut",
+      "description": "A shorter hair is perfect for this season, don't you think?",
+      "condition": "Obtain the Summer Outfit effect. If you have already unlocked it, return to the hair salon in Oceanfront Architecture."
+    },
+    "magic_cube_effect": {
+      "name": "Low-poly Fitness",
+      "description": "In life there's Wormi-blocks",
+      "condition": "Obtain the Magic Cube effect. If you have already unlocked it, return where it can be found in Low-poly Town."
     }
   },
   "nostalgic": {
@@ -9056,6 +9130,15 @@
     "name_isolated_house": {
       "name": "Ton nom est...",
       "condition": "Recevoir votre nom dans l'Isolated House"
+    },
+    "lycoris_world": {
+      "name": "Tranquil Tracheophytes",
+      "condition": "Visit Lycoris World"
+    },
+    "colors_paint_world": {
+      "name": "Little Artist",
+      "description": "Bring colors to my world!",
+      "condition": "Use all of the colors in Paint World"
     }
   },
   "oneshot": {

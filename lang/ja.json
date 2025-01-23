@@ -835,8 +835,8 @@
       "condition": "クリノイデアに到達する"
     },
     "noranyan": {
-      "name": "のらにゃん",
-      "description": "にゃにゃめにゃにゃじゅうにゃにゃどのにゃらびでにゃくにゃくいにゃにゃくにゃにゃはんにゃにゃだいにゃんにゃくにゃらべてにゃがにゃがめ。",
+      "name": "Meow?",
+      "description": "This is one cool cat...",
       "condition": "ソファで人型になっているネコに話しかける"
     },
     "cheese": {
@@ -1084,7 +1084,8 @@
       "condition": "沼の底にいるゴーグル君を訪ねる"
     },
     "lobster": {
-      "name": "ヘイガニ",
+      "name": "Get Lobstered",
+      "description": "Lobster? I hardly know her...",
       "condition": "浸水浴(水中エリア)に到達する"
     },
     "chandelier": {
@@ -1148,11 +1149,13 @@
       "condition": "格納庫に到達する"
     },
     "sea_monster": {
-      "name": "深海の主",
+      "name": "Lord of the Fluorescent Deep",
+      "description": "The lights are moving...?",
       "condition": "ネオン海で怪魚を目撃する"
     },
     "mosenite": {
-      "name": "平安小町",
+      "name": "Yamato-e",
+      "description": "Passing through a bygone time",
       "condition": "平安小町に到達する"
     },
     "heart": {
@@ -1438,7 +1441,8 @@
       "condition": "コンドミニアムから街中の通路に到達する"
     },
     "blurry": {
-      "name": "視力検査",
+      "name": "Eye Exam",
+      "description": "Seems like you need glasses...",
       "condition": "ランドルト環をマージナルで見る"
     },
     "guillotine": {
@@ -1699,8 +1703,8 @@
       "condition": "黒魔女の屋敷の寝室にいる2匹のねこを見る"
     },
     "mar_marina": {
-      "name": "青色の眼鏡をかけた人",
-      "description": "彼女は以前、浅瀬に住んでいました。",
+      "name": "Marina Bioluminescence",
+      "description": "Could you stop turning the lights off?",
       "condition": "浅瀬の家の照明を点滅させる"
     },
     "libra_palace": {
@@ -5450,8 +5454,8 @@
       "condition": "第二閉塞の夜の湿地の最奥にあるバリケードを見る"
     },
     "old_train_station_link": {
-      "name": "狂いコーンの王",
-      "description": "夢をまとった虹色の影の空から、星の深淵を隔てるコーンの王",
+      "name": "Sacred Cone of Salvation",
+      "description": "The mightiest cone that divides the dark hadal depths of the unknown from the bright radiant realm of nostalgia...",
       "condition": "第三閉塞から電車、もしくは電車から第三閉塞へ行く"
     },
     "bw_chaotic_buildings": {
@@ -5742,6 +5746,46 @@
       "name": "涙を流す巨人",
       "description": "深淵の底に閉じ込められ、彼の叫び声は遠くまで響き渡り、水は反射する",
       "condition": "Butterflyの水底にある人の像を見る"
+    },
+    "dream_pool_entrance": {
+      "name": "Burst Water Pipes",
+      "description": "A good entrance to the frontier of darkness, drowning in the depths...",
+      "condition": "Reach the entrance of the Dream Pool"
+    },
+    "cube_space_dark_nexus": {
+      "name": "Living in a Cubicle",
+      "description": "A cubic nightmare",
+      "condition": "Reach the Cube Space in the Dark Nexus"
+    },
+    "sunflower_fields_dark_nexus": {
+      "name": "Light from my Dream",
+      "description": "Feeling the light on your skin and the breeze from a field of giant sunflowers is the best thing you can dream of",
+      "condition": "Reach the Sunflower Fields in the Dark Nexus"
+    },
+    "snake_statue_azure_garden": {
+      "name": "Lapis Lazuli Wyvern",
+      "description": "Sacred ornament of the Azure Garden",
+      "condition": "Find the snake statue in the Azure Garden"
+    },
+    "polluted_town_dark_nexus": {
+      "name": "Polluted with Scorn",
+      "description": "Smog covers the derelict buildings, the sinister eye sees all and casts judgment on them as the polluted air rounds through the sky.",
+      "condition": "Reach the Polluted Town in the Dark Nexus"
+    },
+    "realm_dark_nexus": {
+      "name": "The Angel's Prison",
+      "description": "The angel looks over, as the damned reach out for freedom. Hoping that someday they can leave this hellscape and be forgiven.",
+      "condition": "Reach the Realm of Damnation in the Dark Nexus"
+    },
+    "azure_garden": {
+      "name": "Azurite Garden",
+      "description": "Pristine blue gardens located deep within one's subconciousness...",
+      "condition": "Visit Azure Garden"
+    },
+    "eye_room_magical_passage": {
+      "name": "Magical Cube of Wonders",
+      "description": "Through the thorn’s embrace, eyes behold the fleeting spell, magic softly weeps.",
+      "condition": "Reach the eye room in Magical Passage"
     }
   },
   "unconscious": {
@@ -6480,6 +6524,16 @@
       "name": "けがわこげこげになっちゃった",
       "description": "ねぇ、やっぱフワフワがよかったのにな……",
       "condition": "ガラス片通路の咀嚼する生物に魂の火のエイドラを使う"
+    },
+    "ghosts_moonlit_path": {
+      "name": "Bathed in Moonlight",
+      "description": "Even though you're gone, your beauty shines in the moonlight.",
+      "condition": "Interact with one of the ghosts in Moonlit Path"
+    },
+    "ruri_flesh_walls_forest": {
+      "name": "Lone Hiker",
+      "description": "Looking at this place, I would run away too.",
+      "condition": "Interact with Ruri in Flesh Walls Forest"
     }
   },
   "flow": {
@@ -6555,8 +6609,8 @@
       "condition": "オレンジのメニューテーマを解除する、すでに解除済みの場合は解除した場所に行く"
     },
     "moonlight_flower": {
-      "name": "ムーンサイドの花",
-      "description": "虹色フラワーパーティ！",
+      "name": "Psychedelic Flower",
+      "description": "A hidden beauty",
       "condition": "虹色花畑にある花を調べて、虹色の花イベントを見る"
     },
     "oreko": {
@@ -8881,6 +8935,26 @@
     "lakeside_dock": {
       "name": "静寂の夜",
       "condition": "Lakeside Dockに到達する"
+    },
+    "piggy_bank_effect": {
+      "name": "Wormibank",
+      "description": "Save them up!",
+      "condition": "Obtain the Piggy Bank effect. If you have already unlocked it, return to Spring World."
+    },
+    "doll_effect_tsushin": {
+      "name": "Little Dollie",
+      "description": "How adorable...",
+      "condition": "Obtain the Doll effect. If you have already unlocked it, return to Plush Grave."
+    },
+    "summer_outfit_effect": {
+      "name": "Summer Haircut",
+      "description": "A shorter hair is perfect for this season, don't you think?",
+      "condition": "Obtain the Summer Outfit effect. If you have already unlocked it, return to the hair salon in Oceanfront Architecture."
+    },
+    "magic_cube_effect": {
+      "name": "Low-poly Fitness",
+      "description": "In life there's Wormi-blocks",
+      "condition": "Obtain the Magic Cube effect. If you have already unlocked it, return where it can be found in Low-poly Town."
     }
   },
   "nostalgic": {
@@ -9071,6 +9145,15 @@
     "name_isolated_house": {
       "name": "あなたの名前は……",
       "condition": "Isolated Houseでなまえを入手する"
+    },
+    "lycoris_world": {
+      "name": "Tranquil Tracheophytes",
+      "condition": "Visit Lycoris World"
+    },
+    "colors_paint_world": {
+      "name": "Little Artist",
+      "description": "Bring colors to my world!",
+      "condition": "Use all of the colors in Paint World"
     }
   },
   "oneshot": {
