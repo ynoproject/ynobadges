@@ -825,8 +825,8 @@
       "condition": "Sea Lily World에 도달하기"
     },
     "noranyan": {
-      "name": "노라냥",
-      "description": "냥은 고냥이로소이다냐, 이름은 냐직 없다냐.",
+      "name": "Meow?",
+      "description": "This is one cool cat...",
       "condition": "Sofa Room에 있는 Noranyan NPC와 상호작용하기"
     },
     "cheese": {
@@ -1074,7 +1074,8 @@
       "condition": "Dream Beach에 있는 후유레짱(Huyure-chan) NPC를 찾기"
     },
     "lobster": {
-      "name": "친절한 랍스터 씨",
+      "name": "Get Lobstered",
+      "description": "Lobster? I hardly know her...",
       "condition": "Flooded Baths에 있는 수영장에 들어가기"
     },
     "chandelier": {
@@ -1138,11 +1139,13 @@
       "condition": "Alien Cellar에 입장하기"
     },
     "sea_monster": {
-      "name": "20.180의 지배자",
+      "name": "Lord of the Fluorescent Deep",
+      "description": "The lights are moving...?",
       "condition": "Neon Sea에서 바다 괴물을 만나기"
     },
     "mosenite": {
-      "name": "헤이안풍 마을",
+      "name": "Yamato-e",
+      "description": "Passing through a bygone time",
       "condition": "Heian Era Village를 방문하기"
     },
     "heart": {
@@ -1427,7 +1430,8 @@
       "condition": "Techno Condominium에서 Gray Road으로 이동하기"
     },
     "blurry": {
-      "name": "흐릿한",
+      "name": "Eye Exam",
+      "description": "Seems like you need glasses...",
       "condition": "Landolt Ring World에서 특정 이펙트를 사용하여 작은 구멍을 살펴보기"
     },
     "guillotine": {
@@ -1687,8 +1691,8 @@
       "condition": "Shadow Lady Estate의 침실에서 고양이 두 마리를 보기"
     },
     "mar_marina": {
-      "name": "마리아나",
-      "description": "저 여성분, 예전에 Hidden Shoal 근처에서 살다가 요번에 Lost Shoal로 이사했대요.",
+      "name": "Marina Bioluminescence",
+      "description": "Could you stop turning the lights off?",
       "condition": "Marina's House의 전원을 켜고 끈 상태의 방에 들어가기"
     },
     "libra_palace": {
@@ -5434,8 +5438,8 @@
       "condition": "Reach the barricaded gate in the Complex"
     },
     "old_train_station_link": {
-      "name": "Lord of the Frenzied Cones",
-      "description": "Lord Cone that separates the depths of the stars from the sky of the rainbow umbral tinged with dreams",
+      "name": "Sacred Cone of Salvation",
+      "description": "The mightiest cone that divides the dark hadal depths of the unknown from the bright radiant realm of nostalgia...",
       "condition": "Access Old Train Station from Old Train Station B or Old Train Station B from Old Train Station"
     },
     "bw_chaotic_buildings": {
@@ -5726,6 +5730,46 @@
       "name": "Weeping Giant",
       "description": "Trapped below the depths, his cries echoing far, where water reflects...",
       "condition": "See the crying statue in the Seabed of Tomb of Velleities"
+    },
+    "dream_pool_entrance": {
+      "name": "Burst Water Pipes",
+      "description": "A good entrance to the frontier of darkness, drowning in the depths...",
+      "condition": "Reach the entrance of the Dream Pool"
+    },
+    "cube_space_dark_nexus": {
+      "name": "Living in a Cubicle",
+      "description": "A cubic nightmare",
+      "condition": "Reach the Cube Space in the Dark Nexus"
+    },
+    "sunflower_fields_dark_nexus": {
+      "name": "Light from my Dream",
+      "description": "Feeling the light on your skin and the breeze from a field of giant sunflowers is the best thing you can dream of",
+      "condition": "Reach the Sunflower Fields in the Dark Nexus"
+    },
+    "snake_statue_azure_garden": {
+      "name": "Lapis Lazuli Wyvern",
+      "description": "Sacred ornament of the Azure Garden",
+      "condition": "Find the snake statue in the Azure Garden"
+    },
+    "polluted_town_dark_nexus": {
+      "name": "Polluted with Scorn",
+      "description": "Smog covers the derelict buildings, the sinister eye sees all and casts judgment on them as the polluted air rounds through the sky.",
+      "condition": "Reach the Polluted Town in the Dark Nexus"
+    },
+    "realm_dark_nexus": {
+      "name": "The Angel's Prison",
+      "description": "The angel looks over, as the damned reach out for freedom. Hoping that someday they can leave this hellscape and be forgiven.",
+      "condition": "Reach the Realm of Damnation in the Dark Nexus"
+    },
+    "azure_garden": {
+      "name": "Azurite Garden",
+      "description": "Pristine blue gardens located deep within one's subconciousness...",
+      "condition": "Visit Azure Garden"
+    },
+    "eye_room_magical_passage": {
+      "name": "Magical Cube of Wonders",
+      "description": "Through the thorn’s embrace, eyes behold the fleeting spell, magic softly weeps.",
+      "condition": "Reach the eye room in Magical Passage"
     }
   },
   "unconscious": {
@@ -6464,6 +6508,16 @@
       "name": "My Fur was Burnt to a Crisp",
       "description": "I wish it was fluffy like usual...",
       "condition": "Use the Soulfire eidolon on the Glass Eater in Glass Shards Path"
+    },
+    "ghosts_moonlit_path": {
+      "name": "Bathed in Moonlight",
+      "description": "Even though you're gone, your beauty shines in the moonlight.",
+      "condition": "Interact with one of the ghosts in Moonlit Path"
+    },
+    "ruri_flesh_walls_forest": {
+      "name": "Lone Hiker",
+      "description": "Looking at this place, I would run away too.",
+      "condition": "Interact with Ruri in Flesh Walls Forest"
     }
   },
   "flow": {
@@ -6539,8 +6593,8 @@
       "condition": "메뉴 타입 오렌지를 잠금해제 하기. 만약 이미 얻었을 경우, 메뉴 타입을 발견했던 장소에 도달하기"
     },
     "moonlight_flower": {
-      "name": "문사이드 꽃",
-      "description": "무지개 꽃 파티닷!",
+      "name": "Psychedelic Flower",
+      "description": "A hidden beauty",
       "condition": "환각의 시가지에 위치한 무지개 꽃을 상호작용하여 이벤트를 보기"
     },
     "oreko": {
@@ -8865,6 +8919,26 @@
     "lakeside_dock": {
       "name": "Serene Night",
       "condition": "Visit Lakeside Dock"
+    },
+    "piggy_bank_effect": {
+      "name": "Wormibank",
+      "description": "Save them up!",
+      "condition": "Obtain the Piggy Bank effect. If you have already unlocked it, return to Spring World."
+    },
+    "doll_effect_tsushin": {
+      "name": "Little Dollie",
+      "description": "How adorable...",
+      "condition": "Obtain the Doll effect. If you have already unlocked it, return to Plush Grave."
+    },
+    "summer_outfit_effect": {
+      "name": "Summer Haircut",
+      "description": "A shorter hair is perfect for this season, don't you think?",
+      "condition": "Obtain the Summer Outfit effect. If you have already unlocked it, return to the hair salon in Oceanfront Architecture."
+    },
+    "magic_cube_effect": {
+      "name": "Low-poly Fitness",
+      "description": "In life there's Wormi-blocks",
+      "condition": "Obtain the Magic Cube effect. If you have already unlocked it, return to Low-poly Town."
     }
   },
   "nostalgic": {
@@ -9055,6 +9129,15 @@
     "name_isolated_house": {
       "name": "Your Name Is...",
       "condition": "Receive your name in the Isolated House"
+    },
+    "lycoris_world": {
+      "name": "Tranquil Tracheophytes",
+      "condition": "Visit Lycoris World"
+    },
+    "colors_paint_world": {
+      "name": "Little Artist",
+      "description": "Bring colors to my world!",
+      "condition": "Use all of the colors in Paint World"
     }
   },
   "oneshot": {
