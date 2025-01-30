@@ -267,7 +267,7 @@
       "condition": "흑백 세계의 모노에와 상호작용하기"
     },
     "teleport_bros": {
-      "name": "블록 미로의 형제",
+      "name": "The Brothers in the World of Cubes",
       "condition": "블록 미로에서 형제 NPC 근처에서 고양이 이펙트를 사용하기"
     },
     "poniko_cat": {
@@ -901,8 +901,8 @@
       "condition": "케이크 이펙트를 끼고 디저트 공주(Sweets Musume) NPC와 상호작용하기"
     },
     "smile": {
-      "name": "미소의 세상",
-      "description": "얼굴 좀 펴!",
+      "name": "Smiling Urotsuki",
+      "description": "Normal girl, normal smile...",
       "condition": "Smiling Trees World에 있는 집에 입장하기"
     },
     "glitch_road": {
@@ -1254,8 +1254,8 @@
       }
     },
     "poker": {
-      "name": "도박장",
-      "description": "동작 그만, 밑장빼기냐?",
+      "name": "Gambler's Curse",
+      "description": "Why the mean poker face?",
       "condition": "Despair Road의 Poker Zone에 들어가기"
     },
     "rainbow_ruins": {
@@ -2614,8 +2614,8 @@
       }
     },
     "cyclop_holiday_hell": {
-      "name": "쓸쓸한 주민",
-      "description": "스스로 살아가기 위해 홀로 남겨진 생명체",
+      "name": "Forsaken Watcher",
+      "description": "It's you who he observes.",
       "condition": "Holiday Hell의 파란 외눈박이 생명체를 바라보기"
     },
     "phonograph_galaxy": {
@@ -5770,6 +5770,64 @@
       "name": "Magical Cube of Wonders",
       "description": "Through the thorn’s embrace, eyes behold the fleeting spell, magic softly weeps.",
       "condition": "Reach the eye room in Magical Passage"
+    },
+    "orange_forest_bird": {
+      "name": "Ambivalent Turkey",
+      "description": "The corridor sentinel",
+      "condition": "See the orange bird creature in the Orange Forest"
+    },
+    "swamp_azure_garden": {
+      "name": "The Forbidden Swamp",
+      "condition": "Visit the Forbidden Swamp area of the Azure Garden"
+    },
+    "seahorse_3d_underworld": {
+      "name": "The Phone is Ringing",
+      "description": "Will you answer it?",
+      "condition": "Find the seahorse in 3D Underworld"
+    },
+    "smile_blue_house_road": {
+      "name": "Face in the Face",
+      "description": "I can feel multiple emotions in one face.",
+      "condition": "Find the secret smile in Blue House Road"
+    },
+    "doors_game_islands": {
+      "name": "Thousand Doors",
+      "description": "What is your favorite door?",
+      "condition": "Use the red magic door in Garden World, the green magic door in Bishop Cathedral, and the yellow magic door in Board Game Islands"
+    },
+    "pawn_domino_maze": {
+      "name": "The Balloon Murder",
+      "description": "There are consequences to everything",
+      "condition": "Chainsaw the lonely pawn in Domino Maze"
+    },
+    "pogo_domino_maze": {
+      "name": "Boing Boing Boing",
+      "description": "Time to (po)go!",
+      "condition": "Ride the pogo stick in Domino Maze"
+    },
+    "kiddo_tomato_hole": {
+      "name": "Stars Under the Tomato Sauce",
+      "condition": "Interact with Shouji-kun with the School Boy effect in the Tomato Hole of Domino Maze"
+    },
+    "eyeball_fliperama_hall": {
+      "name": "But Here's the Peeper",
+      "description": "Do eye spy you or do you speye me?",
+      "condition": "Equip the Eyeball Bomb effect near the eyeball creature in Fliperama Hall's restroom"
+    },
+    "banana_bishop_cathedral": {
+      "name": "Midnight Snack",
+      "description": "Cathedral this big deserves a banana for scale",
+      "condition": "Obtain the banana in Bishop Cathedral. If you have already unlocked it, return to Bishop Cathedral."
+    },
+    "vm_man_tomato_hole": {
+      "name": "Perplexing Polygons",
+      "description": "I'm ok, just leave me alone...",
+      "condition": "See all of the variants of the lonely man near in the Tomato Hole of Domino Maze"
+    },
+    "myriad_blossoms": {
+      "name": "Is it Mist or Clouds?",
+      "description": "Come now, come now ~ Let's go and see them ~",
+      "condition": "Shinto Shrine 내부의 Sakura Path 서브 에리어에 도달하기"
     }
   },
   "unconscious": {
@@ -6518,6 +6576,16 @@
       "name": "Lone Hiker",
       "description": "Looking at this place, I would run away too.",
       "condition": "Interact with Ruri in Flesh Walls Forest"
+    },
+    "weird_girl_dark_archives": {
+      "name": "The Shiggy Wiggy",
+      "description": "She's weird... ly cool!",
+      "condition": "Find the Weird Girl in Dark Archives"
+    },
+    "sandbox_unconscious": {
+      "name": "Wildflower Haven",
+      "description": "A haven can exist anywhere if you allow it to be one",
+      "condition": "Visit Sandbox"
     }
   },
   "flow": {
@@ -7556,6 +7624,11 @@
       "name": "시간이 쓸어간 큐브",
       "description": "먼 옛날에 만들어진 고대의 경이로움은 발견되기를 줄곧 기다리고 있었다",
       "condition": "Cubic Ruins를 방문하기"
+    },
+    "cat_spirit_shrines": {
+      "name": "Sleepy Kitty",
+      "description": "Don’t disturb its cat-nap!",
+      "condition": "Find the cat in the Spirit Shrines"
     }
   },
   "amillusion": {
@@ -7700,6 +7773,11 @@
       "name": "Killer Chicken",
       "description": "This chicken is not normal",
       "condition": "Mad 열쇠를 사용하여 Chicken Revenge 이벤트를 감상하기"
+    },
+    "ski_hill_event": {
+      "name": "Faster Than a Snow Monster",
+      "description": "Aren't you overdoing it a bit?",
+      "condition": "Ski Hill 이벤트를 보기"
     }
   },
   "muma": {
@@ -8708,6 +8786,11 @@
       "name": "Irving and the Bunny",
       "description": "Big fluffy rabbit!",
       "condition": "Obtain the Dust Bunny effect. If you have already unlocked it, return where it can be found in Attic World."
+    },
+    "vampirism_effect_oversomnia": {
+      "name": "Malicious Memory",
+      "description": "I hope they're alright.",
+      "condition": "Obtain the Vampirism effect. If you have already unlocked it, return where it can be found in the isolated section of Gloomy Wetlands."
     }
   },
   "tsushin": {
@@ -8939,6 +9022,41 @@
       "name": "Low-poly Fitness",
       "description": "In life there's Wormi-blocks",
       "condition": "Obtain the Magic Cube effect. If you have already unlocked it, return to Low-poly Town."
+    },
+    "light_bug_effect": {
+      "name": "Nightlight",
+      "description": "Toggle the dark away!",
+      "condition": "Obtain the Light Bug effect. If you have already unlocked it, return to Streetlight Wetlands."
+    },
+    "vm_island_tropics": {
+      "name": "Midsummer Paradise",
+      "description": "A secret haven amidst the waves",
+      "condition": "See the day and night versions of the vending machine island in Tropics"
+    },
+    "ending_1_tsushin": {
+      "name": "Unanswered Call",
+      "description": "\"I'm unable to answer the phone right now. Please leave your name and number, I'll get back to you as soon as I can.\"",
+      "condition": "See the ending #1"
+    },
+    "carousel_amusement_park": {
+      "name": "Mouse Carousel",
+      "description": "Round and round we go!",
+      "condition": "Ride the carousel in Amusement Park"
+    },
+    "photo_amusement_park": {
+      "name": "Photo Stickers",
+      "description": "Capture the moments!",
+      "condition": "Take a photo in the Amusement Park"
+    },
+    "maid_effect_tsushin": {
+      "name": "Let's Play Maids!",
+      "description": "I won't bite... this time!",
+      "condition": "Obtain the Maid effect. If you have already unlocked it, return to Majestic Garden."
+    },
+    "maid_effect_action_tsushin": {
+      "name": "Silly Maid",
+      "description": "Oh no, the cup is broken!",
+      "condition": "Trigger the Maid effect's action"
     }
   },
   "nostalgic": {
@@ -9030,6 +9148,16 @@
       "name": "Overdose, You and Me Dearly~",
       "description": "I wanna see clearly...",
       "condition": "Interact with the bloody straw in Juice Sea"
+    },
+    "nostalgic_ending": {
+      "name": "I'm Sorry, Mom",
+      "description": "Yet I still love you, after all you've done to me.",
+      "condition": "See the ending"
+    },
+    "eggs_breakfast_world": {
+      "name": "Noisy Eggs",
+      "description": "I wonder if there's an entire egg zoo.",
+      "condition": "Interact with the two noisy eggs in Breakfast World"
     }
   },
   "if": {
