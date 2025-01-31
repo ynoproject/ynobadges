@@ -5789,7 +5789,12 @@
     "doors_game_islands": {
       "name": "Thousand Doors",
       "description": "What is your favorite door?",
-      "condition": "Use the red magic door in Garden World, the green magic door in Bishop Cathedral, and the yellow magic door in Board Game Islands"
+      "condition": "Use the green magic door in Garden World, the yellow magic door in Bishop Cathedral, and the red magic door in Board Game Islands",
+      "checkbox": {
+        "doors_game_islands_1|doors_game_islands_1_b": "green magic door in Garden World",
+        "doors_game_islands_2|doors_game_islands_2_b": "red magic door in Board Game Islands",
+        "doors_game_islands_3|doors_game_islands_3_b": "yellow magic door in Bishop Cathedral"
+      }
     },
     "pawn_domino_maze": {
       "name": "The Balloon Murder",
@@ -5818,7 +5823,7 @@
     "vm_man_tomato_hole": {
       "name": "Perplexing Polygons",
       "description": "I'm ok, just leave me alone...",
-      "condition": "See all of the variants of the lonely man near in the Tomato Hole of Domino Maze"
+      "condition": "See all of the variants of the lonely man in the Tomato Hole of Domino Maze"
     },
     "myriad_blossoms": {
       "name": "Is it Mist or Clouds?",
@@ -9037,7 +9042,7 @@
     "carousel_amusement_park": {
       "name": "Mouse Carousel",
       "description": "Round and round we go!",
-      "condition": "Ride the carousel in Amusement Park"
+      "condition": "Ride the carousel in the Amusement Park"
     },
     "photo_amusement_park": {
       "name": "Photo Stickers",
