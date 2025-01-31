@@ -267,7 +267,7 @@
       "condition": "Perdre de vue Monoe dans le White Desert"
     },
     "teleport_bros": {
-      "name": "Warpo et Loople",
+      "name": "Frères du monde des cubes",
       "condition": "Utiliser l'effet Chat à côté de Warpo et de Loople dans le Teleport Maze"
     },
     "poniko_cat": {
@@ -901,8 +901,8 @@
       "condition": "Interagir avec Sweets Musume en utilisant l'effet Gâteau"
     },
     "smile": {
-      "name": "Monde Souriant",
-      "description": "Cesse de faire la mou !",
+      "name": "Urotsuki souriante",
+      "description": "Fille ordinaire, sourire ordinaire...",
       "condition": "Entrer dans la maison dans Smiling Trees World"
     },
     "glitch_road": {
@@ -1254,8 +1254,8 @@
       }
     },
     "poker": {
-      "name": "Zone des paris",
-      "description": "Vous ne pouvez pas gagner dans ce genre de jeu",
+      "name": "Malédiction du parieur",
+      "description": "Pourquoi tu fais cette tête ? T'as plus un rond ?",
       "condition": "Entrer dans la Poker Zone à la Despair Road"
     },
     "rainbow_ruins": {
@@ -2619,8 +2619,8 @@
       }
     },
     "cyclop_holiday_hell": {
-      "name": "L'habitant mélancolique",
-      "description": "Une créature isolée ne pouvant uniquement se débrouiller seule.",
+      "name": "Observateur oublié",
+      "description": "C'est bel et bien toi qu'il observe.",
       "condition": "Observer le cyclope bleu dans l'Holiday Hell"
     },
     "phonograph_galaxy": {
@@ -4041,7 +4041,7 @@
       "condition": "Atteindre le Rivage Crabe au Fish Oil Swamp"
     },
     "fish_oil_swamp_angel": {
-      "name": "Ange du Marais",
+      "name": "Ange du marais",
       "description": "Descendue des cieux pour le Fish Oil Swamp, descendue des marais pour l'au-delà.",
       "condition": "Tronçonner la fille ange au Fish Oil Swamp"
     },
@@ -5771,6 +5771,69 @@
       "name": "Cube magique de merveilles",
       "description": "Par delà l'étreinte des épines, les yeux jettent un sort fougace, quand la magie pleure doucement.",
       "condition": "Atteindre la salle de l'œil au Magical Passage"
+    },
+    "orange_forest_bird": {
+      "name": "Dinde hésitante",
+      "description": "La sentinelle du couloir",
+      "condition": "Voir la créature ressemblant à un oiseau orange dans l'Orange Forest"
+    },
+    "swamp_azure_garden": {
+      "name": "Le Marais Interdit",
+      "condition": "Visiter la zone du Marais Interdit à l'Azure Garden"
+    },
+    "seahorse_3d_underworld": {
+      "name": "Le téléphone sonne",
+      "description": "Est-ce que tu vas répondre ?",
+      "condition": "Trouver l'hippocampe au 3D Underworld"
+    },
+    "smile_blue_house_road": {
+      "name": "Visage dans le visage",
+      "description": "Je peux ressentir plusieurs émotions en un seul visage.",
+      "condition": "Trouver le sourire caché à la Blue House Road"
+    },
+    "doors_game_islands": {
+      "name": "Télé-portes à gogo",
+      "description": "Entre portes, on se dit tout : alors, c'est laquelle ta préférée ?",
+      "condition": "Utiliser la porte verte magique au Garden World, la porte jaune magique à la Bishop Cathedral et la porte rouge magique aux Board Game Islands",
+      "checkbox": {
+        "doors_game_islands_1|doors_game_islands_1_b": "la porte verte magique au Garden World",
+        "doors_game_islands_2|doors_game_islands_2_b": "la porte rouge magique aux Board Game Islands",
+        "doors_game_islands_3|doors_game_islands_3_b": "la porte jaune magique à la Bishop Cathedral"
+      }
+    },
+    "pawn_domino_maze": {
+      "name": "Ballon éclaté",
+      "description": "Chaque chose amène ses propres conséquences",
+      "condition": "Tronçonner le pion solitaire au Domino Maze"
+    },
+    "pogo_domino_maze": {
+      "name": "Boing boing boing",
+      "description": "Pas besoin d'ailes quand on peut s'envoler avec ça !",
+      "condition": "Monter sur le bâton sauteur au Domino Maze"
+    },
+    "kiddo_tomato_hole": {
+      "name": "Stellines et sauce tomate",
+      "condition": "Interagir avec Shouji-kun avec l'effet Gakuran au Trou Tomate du Domino Maze"
+    },
+    "eyeball_fliperama_hall": {
+      "name": "Mais voilà l'œillet",
+      "description": "Est-ce qu'œil je t'espiœil ou est-ce qu'œil tu m'espiœil ?",
+      "condition": "Équiper l'effet Bombe-Œil près de la créature cyclope aux toilettes du Fliperama Hall"
+    },
+    "banana_bishop_cathedral": {
+      "name": "Goûter au beau milieu de la nuit",
+      "description": "Les cathédrales de cette envergure méritent d'avoir une banane comme échelle de taille",
+      "condition": "Obtenir la banane à la Bishop Cathedral. Si vous l'avez déjà obtenue, retournez à la Bishop Cathedral."
+    },
+    "vm_man_tomato_hole": {
+      "name": "Polygones surprenants",
+      "description": "Je vais bien, laisse-moi tranquille...",
+      "condition": "Voir toutes les variantes de l'homme solitaire au Trou Tomate du Domino Maze"
+    },
+    "myriad_blossoms": {
+      "name": "Est-ce de la brume ou des nuages ?",
+      "description": "Viens ici, viens par là ~ Viens et observe-les ~",
+      "condition": "Atteindre le Passage Sakura depuis le Shinto Shrine"
     }
   },
   "unconscious": {
@@ -5795,8 +5858,8 @@
       "condition": "Activer la boombox à l'alcôve de Burning Building"
     },
     "blueprint_world_full": {
-      "name": "Plans de construction oniriques",
-      "description": "Une projection...",
+      "name": "Architecte onirique",
+      "description": "Ordonnant mon monde spirituel",
       "condition": "Visiter toutes les sections du Blueprint World"
     },
     "heart_forget_me_not": {
@@ -6519,6 +6582,16 @@
       "name": "Randonneuse isolée",
       "description": "En regardant ce lieu, moi aussi j'aurais envie de m'enfuir.",
       "condition": "Interagir avec Ruri à la Flesh Walls Forest"
+    },
+    "weird_girl_dark_archives": {
+      "name": "La trorigolo",
+      "description": "Elle est bizarre... ment top !",
+      "condition": "Trouver la Fille Bizarre aux Dark Archives"
+    },
+    "sandbox_unconscious": {
+      "name": "Havre des fleurs sauvages",
+      "description": "Un havre peut exister n'importe où si il est autorisé à en être un",
+      "condition": "Visiter Sandbox"
     }
   },
   "flow": {
@@ -7557,6 +7630,11 @@
       "name": "Cubes figés dans le temps",
       "description": "Une ancienne merveille construite en des temps immémoriaux, n'attendant plus qu'à être découverte.",
       "condition": "Entrer dans les Cubic Ruins"
+    },
+    "cat_spirit_shrines": {
+      "name": "Chacha raplapla",
+      "description": "Ne dérange pas cha petite chieste !",
+      "condition": "Trouver le chat dans les Spirit Shrines"
     }
   },
   "amillusion": {
@@ -7701,6 +7779,11 @@
       "name": "Terminacoq",
       "description": "Ce poulet est un peu barjot on dirait",
       "condition": "Déclencher l'événement de la Revanche des Poulets avec la clé Fou"
+    },
+    "ski_hill_event": {
+      "name": "Plus rapide qu'un yéti sur planches",
+      "description": "T'en fais pas un peu trop ?",
+      "condition": "Compléter l'événement de la Piste de Ski"
     }
   },
   "muma": {
@@ -8709,6 +8792,11 @@
       "name": "Irving et le lapin",
       "description": "Un gros lapinou tout doux !",
       "condition": "Obtenir l'effet Lapin de poussière. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé dans l'Attic World."
+    },
+    "vampirism_effect_oversomnia": {
+      "name": "Mauvais souvenir",
+      "description": "J'espère qu'ils vont bien.",
+      "condition": "Obtenir l'effet Vampirisme. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé dans la section isolée des Gloomy Wetlands."
     }
   },
   "tsushin": {
@@ -8940,6 +9028,41 @@
       "name": "Fitness basse résolution",
       "description": "Dans la vie, y a des Wormi-blocs",
       "condition": "Obtenir l'effet Cube magique. Si vous l'avez déjà obtenu, retournez à la Low-poly Town."
+    },
+    "light_bug_effect": {
+      "name": "Lumière de nuit",
+      "description": "Pour éloigner les ténèbres de ces lieux !",
+      "condition": "Obtenir l'effet Luciole. Si vous l'avez déjà obtenu, retournez aux Streetlight Wetlands."
+    },
+    "vm_island_tropics": {
+      "name": "Paradis estival",
+      "description": "Un havre caché parmi les vagues",
+      "condition": "Voir les versions jour et nuit de l'île au distributeur automatique aux Tropics"
+    },
+    "ending_1_tsushin": {
+      "name": "Appel laissé sur répondeur",
+      "description": "« Désolé, je ne peux répondre à votre message en ce moment. Veuillez laisser votre nom et votre numéro, je vous rappelerai dès que possible. »",
+      "condition": "Voir la fin #1"
+    },
+    "carousel_amusement_park": {
+      "name": "Manège enchanté",
+      "description": "Et un tour et un tour et un tour !",
+      "condition": "Monter sur le manège à l'Amusement Park"
+    },
+    "photo_amusement_park": {
+      "name": "Stickers photo",
+      "description": "Capturer l'instant présent !",
+      "condition": "Prendre une photo à l'Amusement Park"
+    },
+    "maid_effect_tsushin": {
+      "name": "Jouons aux servantes !",
+      "description": "Je ne mordrais pas... cette fois-ci !",
+      "condition": "Obtenir l'effet Servante. Si vous l'avez déjà obtenu, retournez au Majestic Garden."
+    },
+    "maid_effect_action_tsushin": {
+      "name": "Servante maladroite",
+      "description": "Oh non, la tasse s'est brisée !",
+      "condition": "Déclencher l'action de l'effet Servante"
     }
   },
   "nostalgic": {
@@ -9031,6 +9154,16 @@
       "name": "Paille ensanglantée géante",
       "description": "Y a-t-il des géants pour boire avec de telles pailles ?",
       "condition": "Interagir avec la paille ensanglantée au Juice Sea"
+    },
+    "nostalgic_ending": {
+      "name": "Pardon, Maman",
+      "description": "Mais je t'aime toujours, malgré tout ce que tu m'as fait.",
+      "condition": "Voir la fin"
+    },
+    "eggs_breakfast_world": {
+      "name": "Œufs brouyants",
+      "description": "Je me demande si un zoo d'œufs existe.",
+      "condition": "Interagir avec les deux œufs bruyants au Breakfast World"
     }
   },
   "if": {
@@ -9290,7 +9423,7 @@
     "moon_light_sands": {
       "name": "Sables lumineux",
       "description": "La lune se reflète sur la surface sableuse grâce à sa brillance.",
-      "condition": "Visiter les Moon Light Sands"
+      "condition": "Visiter les Moonlit Sands"
     },
     "rose_girl_c_plate_world": {
       "name": "Secret à l'eau de rose",
