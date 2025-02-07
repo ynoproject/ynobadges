@@ -879,7 +879,8 @@
       "condition": "Mushroom World에 위치한 자판기와 상호작용하여 돈을 뺏기기"
     },
     "crown_of_spirits": {
-      "name": "정령관",
+      "name": "Spirit-Bearer \"Deserving\"",
+      "description": "Taking the right steps",
       "condition": "Spirit Capital의 Underwater section 서브 에리어에서 가장 끝에 위치한 방에 입장하기"
     },
     "drunk": {
@@ -972,8 +973,8 @@
       "condition": "Sunken City에 도달하기"
     },
     "crocodile_dog": {
-      "name": "원유회",
-      "description": "악어멍멍이 파티닷!",
+      "name": "It's a Monster Party!",
+      "description": "Aren't these crocodile dogs just the cutest?",
       "condition": "Garden World에서 열린 Monster Party에 참가하기"
     },
     "celestial": {
@@ -1161,8 +1162,8 @@
       "condition": "자판기로 999 체력 포인트에 도달하기 (꿈에서 깰 때 수여됨)"
     },
     "square_ruins": {
-      "name": "Luminous Cube of Hadal Depths",
-      "description": "These cubic structures are a hazy memory from a dream dreamt long ago...",
+      "name": "Submerged Memory - Luminescent Ruin",
+      "description": "These cubic structures exist as a hazy memory from a dream dreamt long ago...",
       "condition": "Viridian Wetlands로 향하는 오래된 유적을 발견하기"
     },
     "egg": {
@@ -1315,8 +1316,8 @@
       "condition": "붉은 태양 아래에 있는 여인에게 전기톱 이펙트를 사용하기"
     },
     "smile_san": {
-      "name": "함박 웃음",
-      "description": "이히히히히흐흐헤헤하하하",
+      "name": "Cacophony of Cackles",
+      "description": "Hehehahaha!",
       "condition": "스마일 씨(Smile-san) NPC 옆에서 검은 전화기 이펙트를 사용하기"
     },
     "classified": {
@@ -1435,7 +1436,8 @@
       "condition": "Landolt Ring World에서 특정 이펙트를 사용하여 작은 구멍을 살펴보기"
     },
     "guillotine": {
-      "name": "단두대",
+      "name": "Servant of Evil",
+      "description": "Oh my- it's teatime!",
       "condition": "우로츠키의 처형 이벤트를 감상하기"
     },
     "wifi": {
@@ -1504,7 +1506,8 @@
       "condition": "Dream Mexico에서 죽음을 기리기"
     },
     "crown_of_sorrow": {
-      "name": "비애의 왕관",
+      "name": "Deception-Bearer \"Oneirophobia\"",
+      "description": "Taking the wrong steps",
       "condition": "Time Trial Mode를 켜고 Spirit Capital의 복도의 끝에 위치한 방에 {TIME} 이내로 도달하기"
     },
     "the_liar": {
@@ -2871,8 +2874,8 @@
       "condition": "Overgrown Condominium에 있는 이상한 모습의 공사중 표지판을 발로 차기"
     },
     "depths_gorge": {
-      "name": "해저협곡",
-      "description": "해구 속으로 가라앉거나, 떠오른다",
+      "name": "Drowning Dream - Hadal Ruin",
+      "description": "Now, take a deep breath before falling into the deepest of dreams...",
       "condition": "Square Ruins에서 Depths 로 이동하는 이벤트를 보기"
     },
     "evil_quatuor": {
@@ -4003,8 +4006,8 @@
       "condition": "See the Ending #1. If you have already watched it, see it again from the Data menu of the computer."
     },
     "dream_wanderer": {
-      "name": "Wanderer",
-      "description": "The one who walks through a thousand dreams",
+      "name": "A Breeze Leading to Home",
+      "description": "\"... because in the end, what other choice do we have other than keep on moving foward?\"",
       "condition": "See the Ending #2. If you have already watched it, see it again from the Data menu of the computer."
     },
     "dreaming_doll": {
@@ -4309,7 +4312,7 @@
     "techno_cdm_eight": {
       "name": "888",
       "description": "Group of eight shape-eight creatures on the eighth floor",
-      "condition": "See the creatures in shape of eight change their color by using the Boy and Marginal effects on the eight floor of the Techno Condominium"
+      "condition": "See the creatures in shape of eight change their color by using the Boy and Marginal effects on the eighth floor of the Techno Condominium"
     },
     "guardian_forest_pier": {
       "name": "The Forest's Angel",
@@ -5458,8 +5461,8 @@
       "condition": "See the Strange Subject in Overgrown City"
     },
     "planetarium_sky": {
-      "name": "March of Cronos",
-      "description": "Stars that once woke comets",
+      "name": "Stardust Origins",
+      "description": "The energy of the cosmos feels at its strongest here...",
       "condition": "At the end of Planetarium, make the camera pan up to reveal the sky"
     },
     "conic_house_hidden_shoal": {
@@ -5827,12 +5830,111 @@
     "vm_man_tomato_hole": {
       "name": "Perplexing Polygons",
       "description": "I'm ok, just leave me alone...",
-      "condition": "See all of the variants of the lonely man in the Tomato Hole of Domino Maze"
+      "condition": "Equip the Lantern effect near the lonely man in the Tomato Hole of Domino Maze"
     },
     "myriad_blossoms": {
       "name": "Is it Mist or Clouds?",
       "description": "Come now, come now ~ Let's go and see them ~",
       "condition": "Shinto Shrine 내부의 Sakura Path 서브 에리어에 도달하기"
+    },
+    "maiko_sakura_forest": {
+      "name": "Sakusagi",
+      "description": "Sakura, sakura ~ across the spring sky, as far as the eye can see ~",
+      "condition": "Trigger the Maiko event in Sakura Forest"
+    },
+    "gros_fish_watching_waters": {
+      "name": "Go Fish!",
+      "description": "Hang in there, big guy...",
+      "condition": "Enter the giant fish room in Watching Waters"
+    },
+    "2kki_menu_83": {
+      "name": "Tomato Hole: The Game Pizza Theme",
+      "description": "Pizza time!!",
+      "condition": "Obtain the menu type 83. If you have already unlocked it, return to the Domino Maze."
+    },
+    "vibrant_funhouse": {
+      "name": "Urotsuki's Mysterious Fun Mansion",
+      "description": "There are plenty of rooms here",
+      "condition": "Visit Vibrant Funhouse"
+    },
+    "fliperama_hall": {
+      "name": "Synthwave Arcade",
+      "description": "In the hour.",
+      "condition": "Visit Fliperama Hall"
+    },
+    "restroom_fliperama_hall": {
+      "name": "Entering the Pipes",
+      "description": "Isn't there a better route?",
+      "condition": "Visit the restroom of Fliperama Hall"
+    },
+    "photo_domino_maze": {
+      "name": "Paparazzi!!",
+      "description": "I know it's a bit invasive, but it won't kill her",
+      "condition": "Be photographed by the camera paparazzi in Domino Maze"
+    },
+    "bar_domino_maze": {
+      "name": "Cyber Tomato Bar",
+      "description": "Bip bip!",
+      "condition": "Visit the bar in Domino Maze"
+    },
+    "scissors_domino_maze": {
+      "name": "Deadly Whirlwind",
+      "description": "The cold spiral of death.",
+      "condition": "Complete the scissors girl event in the Tomato Hole of Domino Maze"
+    },
+    "tarnished_chocolate_world": {
+      "name": "Cursed Chocolate",
+      "description": "DO NOT CONSUME",
+      "condition": "Visit Tarnished Chocolate World"
+    },
+    "wires_binary_world": {
+      "name": "Cocoon of Cables",
+      "description": "Hanging above, trapped within this wiry prison...",
+      "condition": "See the woman tangled in wires in Binary World"
+    },
+    "bear_n_bot_flooded_baths": {
+      "name": "Bear-N-Bot",
+      "description": "Flooded Baths' favorite armored drink vendor!",
+      "condition": "Interact with the bear or robot at the drink stand in Flooded Baths"
+    },
+    "moth_girl_moth_world": {
+      "name": "Light Source!",
+      "condition": "Interact with the moth girl with the Lantern effect in Moth World"
+    },
+    "stellar_faerie_hollow": {
+      "name": "Subterranean Twilight",
+      "description": "In the absence of a night sky, the fairies form their own.",
+      "condition": "Visit the stellar passage in Faerie Hollow"
+    },
+    "red_girl_ballerine_forest": {
+      "name": "Eye of Wrath",
+      "description": "Sinners shall be punished.",
+      "condition": "Get crushed by the red girl in Ballerina Forest"
+    },
+    "cutscene_ink_forest": {
+      "name": "Merciful Forgiveness",
+      "description": "Time heals all wounds...",
+      "condition": "Reach the top of the tower and view the cutscene in Ink Forest"
+    },
+    "skyline_highway": {
+      "name": "Shock of the New",
+      "description": "Comin' out of the industrial age",
+      "condition": "Visit Skyline Highway"
+    },
+    "woman_psy_letter_world": {
+      "name": "Character's Grey Memory in Colorful World",
+      "description": "Every characters have meanings.",
+      "condition": "Interact with the character 画 and see the woman in Psychedelic Letter World"
+    },
+    "demoscene_tapestry_club": {
+      "name": "Dance All Night",
+      "description": "When you go through the big hole, you find yourself in a club with a lot of fun.",
+      "condition": "Visit Demoscene Tapestry Club"
+    },
+    "ghost_cafe_urban_under": {
+      "name": "Spectral Abode",
+      "description": "Make yourself at home",
+      "condition": "Visit the Ghost Cafe in Urban Underworld"
     }
   },
   "unconscious": {
@@ -7783,6 +7885,11 @@
       "name": "Faster Than a Snow Monster",
       "description": "Aren't you overdoing it a bit?",
       "condition": "Ski Hill 이벤트를 보기"
+    },
+    "science_museum": {
+      "name": "Getting All Around the Science",
+      "description": "Hello, Danaë!",
+      "condition": "Science Museum의 모든 홀을 방문하기"
     }
   },
   "muma": {
@@ -8328,7 +8435,7 @@
     },
     "black_hair_soutarou": {
       "name": "Black Hair",
-      "condition": "Obtain the Black Hair effect. If you have already unlocked it, return in the Factory."
+      "condition": "Obtain the Black Hair effect. If you have already unlocked it, return to the Factory."
     }
   },
   "ultraviolet": {

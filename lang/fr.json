@@ -879,7 +879,8 @@
       "condition": "Se faire avoir par le distributeur automatique du Mushroom World"
     },
     "crown_of_spirits": {
-      "name": "Couronne d'esprits",
+      "name": "Porteuse d'âmes « Méritant »",
+      "description": "Sur la bonne voie",
       "condition": "Entrer dans la salle à la fin de l'allée de Spirit Capital"
     },
     "drunk": {
@@ -972,8 +973,8 @@
       "condition": "Atteindre la Sunken City"
     },
     "crocodile_dog": {
-      "name": "Fête au Jardin",
-      "description": "C'est une fête de chien-crocodile !",
+      "name": "C'est une maison de monstres !",
+      "description": "Est-ce que ces crocodiles ne seraient pas à croquer ?",
       "condition": "Entrer dans la Fête des Monstres dans le Garden World"
     },
     "celestial": {
@@ -1161,8 +1162,8 @@
       "condition": "Atteindre 999 points de cœur grâce aux distributeurs automatiques (obtenu après s'être réveillé)"
     },
     "square_ruins": {
-      "name": "Cube lumineux des profondeurs hadales",
-      "description": "Ces structures cubiques sont un vague souvenir d'un rêve rêvé il a de cela des lustres...",
+      "name": "Souvenir englouti - ruine luminescente",
+      "description": "Ces structures cubiques existent tels un souvenir d'un rêve rêvé il y a de cela longtemps...",
       "condition": "Trouver les vieilles ruines menant aux Viridian Wetlands"
     },
     "egg": {
@@ -1315,8 +1316,8 @@
       "condition": "Essayer d'utiliser l'effet Tronçonneuse proche de la dame sous le soleil rouge"
     },
     "smile_san": {
-      "name": "Le grand rire",
-      "description": "HaHaHaHaHaHaHaHaHaHaHaHaHa",
+      "name": "Vacarme de rires",
+      "description": "Hi hi hi ha ha ha !",
       "condition": "Utiliser l'effet Téléphone à côté de Smile-san"
     },
     "classified": {
@@ -1434,7 +1435,8 @@
       "condition": "Voir le flou trou pour épier dans le Landolt Ring World en utilisant un certain effet"
     },
     "guillotine": {
-      "name": "Guillotine",
+      "name": "Servante du mal",
+      "description": "Eh bah- quel beau spectacle, c'est l'heure de rentrer maintenant !",
       "condition": "Assister à l'exécution d'Urotsuki"
     },
     "wifi": {
@@ -1503,7 +1505,8 @@
       "condition": "Honorer la mort dans Dream Mexico"
     },
     "crown_of_sorrow": {
-      "name": "Couronne de la tristesse",
+      "name": "Porteuse de déceptions « Onirophobie »",
+      "description": "Sur la mauvaise voie",
       "condition": "Entrer dans la salle à la fin de la route du Spirit Capital en {TIME} ou moins en course contre-la-montre"
     },
     "the_liar": {
@@ -2876,8 +2879,8 @@
       "condition": "Frapper le panneau de construction inhabituel dans l'Overgrown Condominium"
     },
     "depths_gorge": {
-      "name": "Gorge des Depths",
-      "description": "Noie-toi dans les Depths. Ou élève-toi...",
+      "name": "Rêve en chute libre - ruine hadale",
+      "description": "Maintenant, prend une profonde respiration avant de t'engouffrer au plus profond du monde des rêves...",
       "condition": "Voir l'entrée menant aux Depths dans les Square Ruins"
     },
     "evil_quatuor": {
@@ -4004,8 +4007,8 @@
       "condition": "Voir la fin #1. Si vous l'avez déjà visionnée, revisionnez-là depuis le menu Data de l'ordinateur."
     },
     "dream_wanderer": {
-      "name": "Vagabonde",
-      "description": "Celle qui marchait à travers des milliers de rêves",
+      "name": "Nouveau départ",
+      "description": "« ... car au final, quels autres choix avons-nous dans la vie si ce n'est d'avancer ? »",
       "condition": "Voir la fin #2. Si vous l'avez déjà visionnée, revisionnez-là depuis le menu Data de l'ordinateur."
     },
     "dreaming_doll": {
@@ -5459,8 +5462,8 @@
       "condition": "Voir l'Étrange Cobaye à l'Overgrown City"
     },
     "planetarium_sky": {
-      "name": "Marche de Cronos",
-      "description": "Étoiles qui étaient une fois réveillées comètes",
+      "name": "Poussières d'étoile originelles",
+      "description": "L'énergie du cosmos bat son plein ici...",
       "condition": "À la fin du Planetarium, faire la caméra se lever au ciel"
     },
     "conic_house_hidden_shoal": {
@@ -5828,12 +5831,111 @@
     "vm_man_tomato_hole": {
       "name": "Polygones surprenants",
       "description": "Je vais bien, laisse-moi tranquille...",
-      "condition": "Voir toutes les variantes de l'homme solitaire au Trou Tomate du Domino Maze"
+      "condition": "Équiper l'effet Lanterne à coté de l'homme solitaire au Trou Tomate du Domino Maze"
     },
     "myriad_blossoms": {
       "name": "Est-ce de la brume ou des nuages ?",
       "description": "Viens ici, viens par là ~ Viens et observe-les ~",
       "condition": "Atteindre le Passage Sakura depuis le Shinto Shrine"
+    },
+    "maiko_sakura_forest": {
+      "name": "Sakusagi",
+      "description": "Sakura, sakura ~ couvrant le ciel printanier, jusqu'où l'œil peut voir ~",
+      "condition": "Déclencher l'événement Maiko à la Sakura Forest"
+    },
+    "gros_fish_watching_waters": {
+      "name": "Une grosse prise !",
+      "description": "Accroche-toi, mon gars...",
+      "condition": "Entrer dans la salle du poisson géant aux Watching Waters"
+    },
+    "2kki_menu_83": {
+      "name": "Trou Tomate : Thème du Jeu Pizza",
+      "description": "Cowabunga, c'est l'heure de se manger une pizza !!",
+      "condition": "Obtenir le style de menu 83. Si vous l'avez déjà débloqué, retournez au Domino Maze."
+    },
+    "vibrant_funhouse": {
+      "name": "Manoir marrant mystérieux d'Urotsuki",
+      "description": "Il y a tout plein de salles ici",
+      "condition": "Visiter le Vibrant Funhouse"
+    },
+    "fliperama_hall": {
+      "name": "Arcade synthwave",
+      "description": "Dans l'heure.",
+      "condition": "Visiter le Fliperama Hall"
+    },
+    "restroom_fliperama_hall": {
+      "name": "Entrer dans les tuyaux",
+      "description": "Y a pas une meilleure route ?",
+      "condition": "Visiter les toilettes au Fliperama Hall"
+    },
+    "photo_domino_maze": {
+      "name": "Paparazzi !!",
+      "description": "Je sais qu'elle en a pas envie, mais c'est bon, ça va pas la tuer",
+      "condition": "Se faire photographier par Photorazzi au Domino Maze"
+    },
+    "bar_domino_maze": {
+      "name": "Cyber-bar tomate",
+      "description": "Souhaiteriez-vous une bipière ?",
+      "condition": "Visiter le bar au Domino Maze"
+    },
+    "scissors_domino_maze": {
+      "name": "Tourbillon mortel",
+      "description": "La froide spirale de la mort.",
+      "condition": "Compléter l'événement de la fille aux ciseaux au Trou Tomate du Domino Maze"
+    },
+    "tarnished_chocolate_world": {
+      "name": "Chocolat cancérogène",
+      "description": "NE PAS CONSOMMER",
+      "condition": "Visiter le Tarnished Chocolate World"
+    },
+    "wires_binary_world": {
+      "name": "Cocon de câbles",
+      "description": "Suspendue là-haut, piégée dans cette prison de fils...",
+      "condition": "Voir la femme emmêlée dans des câbles au Binary World"
+    },
+    "bear_n_bot_flooded_baths": {
+      "name": "Boîte2conserve-Krizzli",
+      "description": "Les vendeurs de boissons en armure favoris des Flooded Baths !",
+      "condition": "Interagir avec l'ours ou le robot au stand de boissons aux Flooded Baths"
+    },
+    "moth_girl_moth_world": {
+      "name": "Une source de lumière !",
+      "condition": "Interagir avec le papillon de nuit avec l'effet Lanterne au Moth World"
+    },
+    "stellar_faerie_hollow": {
+      "name": "Crépuscule souterrain",
+      "description": "En l'absence d'un ciel nocturne, les fées forment le leur.",
+      "condition": "Visiter le passage stellaire au Faerie Hollow"
+    },
+    "red_girl_ballerine_forest": {
+      "name": "Œil de la colère divine",
+      "description": "Les pécheurs doivent être punis.",
+      "condition": "Se faire broyer par la fille rouge à la Ballerina Forest"
+    },
+    "cutscene_ink_forest": {
+      "name": "Clémence et pardon",
+      "description": "Le temps panse toutes les blessures...",
+      "condition": "Atteindre le sommet de la tour et voir la cinématique à la Ink Forest"
+    },
+    "skyline_highway": {
+      "name": "Choc révolutionnaire",
+      "description": "Sortie de l'âge industriel à la 3ème sortie à gauche",
+      "condition": "Visiter la Skyline Highway"
+    },
+    "woman_psy_letter_world": {
+      "name": "Souvenir gris d'un caractère dans un monde coloré",
+      "description": "Tous les caractères ont un sens.",
+      "condition": "Interagir avec le caractère 画 et voir la femme au Psychedelic Letter World"
+    },
+    "demoscene_tapestry_club": {
+      "name": "Danse jusqu'au bout de la nuit",
+      "description": "En traversant l'énorme faille, vous vous retrouvez dans un club où l'amusement est le maître mot.",
+      "condition": "Visiter le Demoscene Tapestry Club"
+    },
+    "ghost_cafe_urban_under": {
+      "name": "Demeure spectrale",
+      "description": "Tu es ici comme chez toi",
+      "condition": "Visiter le Café Fantomatique de l'Urban Underworld"
     }
   },
   "unconscious": {
@@ -7784,6 +7886,11 @@
       "name": "Plus rapide qu'un yéti sur planches",
       "description": "T'en fais pas un peu trop ?",
       "condition": "Compléter l'événement de la Piste de Ski"
+    },
+    "science_museum": {
+      "name": "Tour de la science",
+      "description": "Bonjour, Danaë !",
+      "condition": "Explorer chaque hall du Science Museum"
     }
   },
   "muma": {

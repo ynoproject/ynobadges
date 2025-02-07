@@ -889,7 +889,8 @@
       "condition": "きのこ世界の自動販売機で購入する"
     },
     "crown_of_spirits": {
-      "name": "魂の冠",
+      "name": "Spirit-Bearer \"Deserving\"",
+      "description": "Taking the right steps",
       "condition": "断崖の奥にある小部屋に到達する"
     },
     "drunk": {
@@ -982,8 +983,8 @@
       "condition": "水没に到達する"
     },
     "crocodile_dog": {
-      "name": "ワニ犬フィーバー",
-      "description": "ワニ犬フィーバー！",
+      "name": "It's a Monster Party!",
+      "description": "Aren't these crocodile dogs just the cutest?",
       "condition": "ワニ犬フィーバー！を見る"
     },
     "celestial": {
@@ -1171,8 +1172,8 @@
       "condition": "自販機の効果でHP999を超えた状態で現実部屋に行く"
     },
     "square_ruins": {
-      "name": "超深海で発光するキューブ",
-      "description": "これらの立方体構造は、遠い昔に見た夢の中のかすかな記憶だ…",
+      "name": "Submerged Memory - Luminescent Ruin",
+      "description": "These cubic structures exist as a hazy memory from a dream dreamt long ago...",
       "condition": "ビリジアン湿地に続く古代遺跡を探索する"
     },
     "egg": {
@@ -1326,8 +1327,8 @@
       "condition": "さんさんタウンの女性にチェーンソーを使おうとする"
     },
     "smile_san": {
-      "name": "big smile",
-      "description": "ｱﾊﾊハハ八八ﾉヽﾉヽノヽノ＼/＼",
+      "name": "Cacophony of Cackles",
+      "description": "Hehehahaha!",
       "condition": "スミレさんの部屋でくろでんわを使う"
     },
     "classified": {
@@ -1446,7 +1447,8 @@
       "condition": "ランドルト環をマージナルで見る"
     },
     "guillotine": {
-      "name": "ギロチン",
+      "name": "Servant of Evil",
+      "description": "Oh my- it's teatime!",
       "condition": "うろつきの処刑を見る"
     },
     "wifi": {
@@ -1515,7 +1517,8 @@
       "condition": "メヒコで花を手向ける"
     },
     "crown_of_sorrow": {
-      "name": "悲壮の冠",
+      "name": "Deception-Bearer \"Oneirophobia\"",
+      "description": "Taking the wrong steps",
       "condition": "Time Trial Modeで{TIME}以内に断崖の小部屋に到達する"
     },
     "the_liar": {
@@ -2887,8 +2890,8 @@
       "condition": "繫栄巣の変わった工事中看板を蹴る"
     },
     "depths_gorge": {
-      "name": "深淵への峡谷",
-      "description": "深淵へと溺れるか、浮かび上がるか",
+      "name": "Drowning Dream - Hadal Ruin",
+      "description": "Now, take a deep breath before falling into the deepest of dreams...",
       "condition": "石の遺跡のみなぞこへの入口を見る"
     },
     "evil_quatuor": {
@@ -4019,8 +4022,8 @@
       "condition": "ED#1を見る"
     },
     "dream_wanderer": {
-      "name": "おわりなんていらない",
-      "description": "新たな夢の始まり",
+      "name": "A Breeze Leading to Home",
+      "description": "\"... because in the end, what other choice do we have other than keep on moving foward?\"",
       "condition": "ED#2を見る"
     },
     "dreaming_doll": {
@@ -5474,8 +5477,8 @@
       "condition": "白地で巨大な喫煙者を見る"
     },
     "planetarium_sky": {
-      "name": "クロノスの行進",
-      "description": "かつて彗星と化した星",
+      "name": "Stardust Origins",
+      "description": "The energy of the cosmos feels at its strongest here...",
       "condition": "星洞で上空を見上げる"
     },
     "conic_house_hidden_shoal": {
@@ -5843,12 +5846,111 @@
     "vm_man_tomato_hole": {
       "name": "不可解なポリゴン",
       "description": "大丈夫だから、ほっといてくれよ…",
-      "condition": "トマト奈落の赤い二本足生物にエフェクトを使ってすべての反応を見る"
+      "condition": "Equip the Lantern effect near the lonely man in the Tomato Hole of Domino Maze"
     },
     "myriad_blossoms": {
       "name": "霧か雲か？",
       "description": "さあさあいらっしゃい、彼に会いに行こう～！",
       "condition": "和室迷路を経由し高台の桜に到達する"
+    },
+    "maiko_sakura_forest": {
+      "name": "Sakusagi",
+      "description": "Sakura, sakura ~ across the spring sky, as far as the eye can see ~",
+      "condition": "Trigger the Maiko event in Sakura Forest"
+    },
+    "gros_fish_watching_waters": {
+      "name": "Go Fish!",
+      "description": "Hang in there, big guy...",
+      "condition": "Enter the giant fish room in Watching Waters"
+    },
+    "2kki_menu_83": {
+      "name": "Tomato Hole: The Game Pizza Theme",
+      "description": "Pizza time!!",
+      "condition": "Obtain the menu type 83. If you have already unlocked it, return to the Domino Maze."
+    },
+    "vibrant_funhouse": {
+      "name": "Urotsuki's Mysterious Fun Mansion",
+      "description": "There are plenty of rooms here",
+      "condition": "Visit Vibrant Funhouse"
+    },
+    "fliperama_hall": {
+      "name": "Synthwave Arcade",
+      "description": "In the hour.",
+      "condition": "Visit Fliperama Hall"
+    },
+    "restroom_fliperama_hall": {
+      "name": "Entering the Pipes",
+      "description": "Isn't there a better route?",
+      "condition": "Visit the restroom of Fliperama Hall"
+    },
+    "photo_domino_maze": {
+      "name": "Paparazzi!!",
+      "description": "I know it's a bit invasive, but it won't kill her",
+      "condition": "Be photographed by the camera paparazzi in Domino Maze"
+    },
+    "bar_domino_maze": {
+      "name": "Cyber Tomato Bar",
+      "description": "Bip bip!",
+      "condition": "Visit the bar in Domino Maze"
+    },
+    "scissors_domino_maze": {
+      "name": "Deadly Whirlwind",
+      "description": "The cold spiral of death.",
+      "condition": "Complete the scissors girl event in the Tomato Hole of Domino Maze"
+    },
+    "tarnished_chocolate_world": {
+      "name": "Cursed Chocolate",
+      "description": "DO NOT CONSUME",
+      "condition": "Visit Tarnished Chocolate World"
+    },
+    "wires_binary_world": {
+      "name": "Cocoon of Cables",
+      "description": "Hanging above, trapped within this wiry prison...",
+      "condition": "See the woman tangled in wires in Binary World"
+    },
+    "bear_n_bot_flooded_baths": {
+      "name": "Bear-N-Bot",
+      "description": "Flooded Baths' favorite armored drink vendor!",
+      "condition": "Interact with the bear or robot at the drink stand in Flooded Baths"
+    },
+    "moth_girl_moth_world": {
+      "name": "Light Source!",
+      "condition": "Interact with the moth girl with the Lantern effect in Moth World"
+    },
+    "stellar_faerie_hollow": {
+      "name": "Subterranean Twilight",
+      "description": "In the absence of a night sky, the fairies form their own.",
+      "condition": "Visit the stellar passage in Faerie Hollow"
+    },
+    "red_girl_ballerine_forest": {
+      "name": "Eye of Wrath",
+      "description": "Sinners shall be punished.",
+      "condition": "Get crushed by the red girl in Ballerina Forest"
+    },
+    "cutscene_ink_forest": {
+      "name": "Merciful Forgiveness",
+      "description": "Time heals all wounds...",
+      "condition": "Reach the top of the tower and view the cutscene in Ink Forest"
+    },
+    "skyline_highway": {
+      "name": "Shock of the New",
+      "description": "Comin' out of the industrial age",
+      "condition": "Visit Skyline Highway"
+    },
+    "woman_psy_letter_world": {
+      "name": "Character's Grey Memory in Colorful World",
+      "description": "Every characters have meanings.",
+      "condition": "Interact with the character 画 and see the woman in Psychedelic Letter World"
+    },
+    "demoscene_tapestry_club": {
+      "name": "Dance All Night",
+      "description": "When you go through the big hole, you find yourself in a club with a lot of fun.",
+      "condition": "Visit Demoscene Tapestry Club"
+    },
+    "ghost_cafe_urban_under": {
+      "name": "Spectral Abode",
+      "description": "Make yourself at home",
+      "condition": "Visit the Ghost Cafe in Urban Underworld"
     }
   },
   "unconscious": {
@@ -7799,6 +7901,11 @@
       "name": "スノーモンスターより速く",
       "description": "ちょっとやりすぎじゃない？",
       "condition": "Ski Hillイベントを見る"
+    },
+    "science_museum": {
+      "name": "Getting All Around the Science",
+      "description": "Hello, Danaë!",
+      "condition": "Science Museumの全てのホールに到達する"
     }
   },
   "muma": {
