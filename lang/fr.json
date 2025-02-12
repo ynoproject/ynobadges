@@ -4159,8 +4159,8 @@
       "condition": "Traverser les neuf étages du Techno Condominium"
     },
     "tch_condominium_ghost": {
-      "name": "Jardinier fantomatique néon",
-      "description": "Pour que les fleurs du quatrième étage soient si belles, quelqu'un doit bien devoir s'en préoccuper.",
+      "name": "Curiosité en balade",
+      "description": "Les alentours ont l'air vide, jusqu'à ce que vous jetiez un coup d'œil à ces signes cachés.",
       "condition": "Interagir avec le fantôme du quatrième étage au Techno Condominium"
     },
     "b_w_challenge": {
@@ -5936,6 +5936,45 @@
       "name": "Demeure spectrale",
       "description": "Tu es ici comme chez toi",
       "condition": "Visiter le Café Fantomatique de l'Urban Underworld"
+    },
+    "akabeko_basement_oddities": {
+      "name": "Akabeko",
+      "description": "J'espère que t'es pas une balance, c'est ma cachette ici...",
+      "condition": "Rencontrer Akabeko au Basement of Oddities"
+    },
+    "2kki_menu_75": {
+      "name": "Princesse de la rancœur",
+      "description": "Est-ce que ça valait le coup ? (Probablement.)",
+      "condition": "Obtenir le style de menu 75. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Crescent Tile World."
+    },
+    "cetus_statue_poseidon_plaza": {
+      "name": "Cetus, To Thalássio Téras.",
+      "description": "Émissaire de Poséidon, je te punie pour ton arrogance.",
+      "condition": "Voir la statue de Cétus à la Poseidon Plaza"
+    },
+    "girl_dream_precint": {
+      "name": "Représailles",
+      "description": "Protège tes bien-aimés",
+      "condition": "Tronçonner la fille aux cheveux turquoises avec une écharpe au Dream Precint"
+    },
+    "creature_downfall_garden_a": {
+      "name": "Le caresseur",
+      "condition": "Se faire caresser par la créature au Downfall Garden A"
+    },
+    "neck_somber_establishment": {
+      "name": "Long cou violet",
+      "description": "Urotsuki a mangé quelque chose de pas bon !",
+      "condition": "Voir l'Urotsuki au long cou dans la sous-zone secrète de Somber Establishment"
+    },
+    "plant_girl_moss_world": {
+      "name": "Nature bienveillante",
+      "description": "Laisse-moi panser tes blessures, ma mignonne",
+      "condition": "Laisser la fille plante vous soigner en utilisant l'effet Plâtre au Moss World"
+    },
+    "glittering_desert": {
+      "name": "Désert au crépuscule",
+      "description": "Détendue dans une atmosphère scintillante",
+      "condition": "Visiter le Glittering Desert"
     }
   },
   "unconscious": {
@@ -7649,6 +7688,11 @@
         "totsutsuki_trainyard": "Basement",
         "kubotsuki_basement": "Lavender Trainyard"
       }
+    },
+    "mouth_corroded_dream": {
+      "name": "Faux sourire",
+      "description": "Sourire pour ignorer la souffrance ne marchera pas.",
+      "condition": "Voir la télévision avec la femme à la bouche saignante au Corroded Dream"
     }
   },
   "braingirl": {
@@ -8097,6 +8141,11 @@
     "sands_of_time_sands": {
       "name": "Là où les secondes passent, le sable reste",
       "condition": "Obtenir le souvenir sablier. Si vous l'avez déjà obtenu, retournez à Sands of Time."
+    },
+    "pink_snowscape": {
+      "name": "La couleur de l'hiver",
+      "description": "Par une douce matinée, où la neige chutait...",
+      "condition": "Visiter le Pink Snowscape"
     }
   },
   "genie": {
@@ -8273,6 +8322,11 @@
       "name": "Le secret du laboratoire",
       "description": "J'espère qu'il ne va pas sortir de son tube...",
       "condition": "Voir la créature dans un tube au Laboratory B"
+    },
+    "space_rocket_station": {
+      "name": "Rêve astral",
+      "description": "Par-delà les nuages, les soucis nous passent au dessus de nous",
+      "condition": "Déclencher l'événement Dans l'Espace à la Rocket Station"
     }
   },
   "mikan": {
@@ -8437,6 +8491,18 @@
     "black_hair_soutarou": {
       "name": "Cheveux noirs",
       "condition": "Obtenir l'effet Cheveux noirs. Si vous l'avez déjà obtenu, retournez dans la Factory."
+    },
+    "tabe": {
+      "name": "Fruit croquant",
+      "condition": "Marquer 500 points à TA_BE_"
+    },
+    "tabe_silver": {
+      "name": "Fruit délicieux",
+      "condition": "Marquer 1000 points à TA_BE_"
+    },
+    "tabe_gold": {
+      "name": "Fruit aux 202 carats",
+      "condition": "Marquer 2000 points à TA_BE_"
     }
   },
   "ultraviolet": {
@@ -9541,6 +9607,15 @@
       "name": "Quelque chose d'inoubliable... ?",
       "description": "Aah, tu étais à mes côtés. Depuis toujours, en fait...",
       "condition": "Faire une pose après avoir obtenu la possession Bouteille Plastique"
+    },
+    "fisherman_sunset_grassland": {
+      "name": "Pêcheur à l'étang",
+      "condition": "Trouver le pêcheur au Sunset Grassland"
+    },
+    "classic_property": {
+      "name": "Garçon désopilant d'antan",
+      "description": "Psst, va regarder ton PC.",
+      "condition": "Obtenir la propriété Classique. Si vous l'avez déjà obtenue, retournez là où elle peut être trouvée au PC Game."
     }
   }
 }
