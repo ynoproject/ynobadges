@@ -5989,7 +5989,12 @@
     "green_haired_detective": {
       "name": "La Détective Mimi",
       "description": "Et comme tout bon détective, elle est encore et toujours à la recherche de quelque chose.",
-      "condition": "Trouver la détective aux cheveux verts dans la chambre privée et la salle de détective au Dream Precinct, ainsi qu'au Shaded Hallways"
+      "condition": "Trouver la détective aux cheveux verts dans la chambre privée et la salle de détective au Dream Precinct, ainsi qu'aux Shaded Hallways",
+      "checkbox": {
+        "green_haired_detective_2": "la chambre privée",
+        "green_haired_detective_1": "la salle de détective",
+        "green_haired_detective_3": "aux Shaded Hallways"
+      }
     },
     "fallen_star_craters": {
       "name": "La tête dans les étoiles",
@@ -6028,7 +6033,11 @@
     },
     "green_haired_faerie_sunken": {
       "name": "Sourire captivant",
-      "condition": "Trouver la fille aux cheveux verts foncés au Faerie Hollow et interagir avec elle au Sunken Spore Sea"
+      "condition": "Trouver la fille aux cheveux verts foncés au Faerie Hollow et interagir avec elle au Sunken Spore Sea",
+      "checkbox": {
+        "green_haired_faerie": "Trouver la fille aux cheveux verts foncés au Faerie Hollow",
+        "green_haired_sunken": "interagir avec elle au Sunken Spore Sea"
+      }
     },
     "princess_crescent_tile_world": {
       "name": "Princesse illuminée",

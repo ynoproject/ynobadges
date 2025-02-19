@@ -6002,7 +6002,12 @@
     "green_haired_detective": {
       "name": "Detective Girl",
       "description": "She is still looking for something today.",
-      "condition": "Find the green-haired detective girl in the private room and the detective room in Dream Precinct, and in Shaded Hallways"
+      "condition": "Find the green-haired detective girl in the private room and the detective room in Dream Precinct, and in Shaded Hallways",
+      "checkbox": {
+        "green_haired_detective_2": "the private room",
+        "green_haired_detective_1": "the detective room",
+        "green_haired_detective_3": "in Shaded Hallways"
+      }
     },
     "fallen_star_craters": {
       "name": "Go Crazy Go Crazy Boy",
@@ -6041,7 +6046,11 @@
     },
     "green_haired_faerie_sunken": {
       "name": "Captivating Smile",
-      "condition": "Find the dark green-haired woman in Faerie Hollow and interact with her in the Sunken Spore Sea"
+      "condition": "Find the dark green-haired woman in Faerie Hollow and interact with her in the Sunken Spore Sea",
+      "checkbox": {
+        "green_haired_faerie": "Find the dark green-haired woman in Faerie Hollow",
+        "green_haired_sunken": "interact with her in the Sunken Spore Sea"
+      }
     },
     "princess_crescent_tile_world": {
       "name": "Illuminated Princess",
