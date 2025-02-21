@@ -781,7 +781,8 @@
       "condition": "进入Ruined Garden的密室"
     },
     "moai_bro": {
-      "name": "摩艾小哥",
+      "name": "Moai, Bro!",
+      "description": "Free my boy Moai Bro he didn't do anything wrong",
       "condition": "闯入Sea of Clouds的Moai Bro Prison"
     },
     "hebiko": {
@@ -1003,8 +1004,7 @@
       "condition": "抵达Undersea Temple"
     },
     "acrophobia": {
-      "name": "恐高症",
-      "description": "01001000 01100101 01101100 01101100 01101111",
+      "name": "Data-bent Sunset",
       "condition": "使用兔耳效果，让Industrial Towers的Glitchman将时间变为夜晚"
     },
     "dream_fishing": {
@@ -4163,8 +4163,8 @@
       "condition": "看到Pollution District的巨大行星"
     },
     "tcn_condominium_floors": {
-      "name": "线性相等建筑",
-      "description": "一栋坐落于梦醒森林中央的孤独九层楼。",
+      "name": "Linear Technology Complex",
+      "description": "An abandoned condominium in the snow, home of the spirits.",
       "condition": "走遍Techno Condominium的9个楼层"
     },
     "tch_condominium_ghost": {
@@ -4609,8 +4609,8 @@
       "condition": "到达Jade Block Mounds"
     },
     "lorn_tower_age": {
-      "name": "时间就是银子",
-      "description": "时间比银子或者任何物质财富都要珍贵。",
+      "name": "Regret of Aging",
+      "description": "The sands of time weaken her body",
       "condition": "使用小孩和长高效果与Lorn Tower的床交互，并触发Old Age事件"
     },
     "book_pleasure_street": {
@@ -4971,8 +4971,8 @@
       "condition": "进入Overgrown City的水族馆。"
     },
     "windswept_souls": {
-      "name": "风吹深渊",
-      "description": "在风沙下被埋没。",
+      "name": "Windswept Wilds",
+      "description": "The hollow shell of a former civilization now submerged under scarlet sand and the turquoise sky",
       "condition": "在高塔上眺望荒漠"
     },
     "2kki_wolf_effect": {
@@ -5164,8 +5164,8 @@
       "condition": "在HOZO中得到8000分"
     },
     "fisherman_victorian_drains": {
-      "name": "传奇钓鱼佬",
-      "description": "来自于池畔庭院的勇敢钓鱼佬",
+      "name": "Lonely Fisherman",
+      "description": "Fishing forever in your life, alone in your thoughts",
       "condition": "与Victorian Drains的钓鱼佬互动"
     },
     "chaser_cof": {
@@ -5485,8 +5485,8 @@
       "condition": "在Hidden Shoal找到锥形房屋"
     },
     "decaying_sun": {
-      "name": "衰退日轮",
-      "description": "草木覆盖的永恒日轮",
+      "name": "The Sun that Lost its Light",
+      "description": "Scattered symbols of a brighter past buried deep within the overcast skies of time...",
       "condition": "在Forest Pier和Deserted Town找到衰退的日轮",
       "checkbox": {
         "decaying_sun_forest_pier": "Forest Pier",
@@ -5874,7 +5874,7 @@
     "fliperama_hall": {
       "name": "合成器波街机厅",
       "description": "In the hour.",
-      "condition": "抵达Fliperama Hall"
+      "condition": "Visit the main part of Fliperama Hall"
     },
     "restroom_fliperama_hall": {
       "name": "钻管道",
@@ -5988,6 +5988,74 @@
       "name": "暮光沙漠",
       "description": "在微光中律动",
       "condition": "抵达Glittering Desert"
+    },
+    "twintails_effect": {
+      "name": "The Wolf of Infinite Dream",
+      "description": "Essence of twintails",
+      "condition": "Obtain the Twintails effect. If you have already unlocked it, return where it can be found at The Deciding Street."
+    },
+    "quarter_flats": {
+      "name": "Ceramic Islands",
+      "description": "Perfect place to enjoy a boat ride",
+      "condition": "Visit Quarter Flats"
+    },
+    "green_haired_detective": {
+      "name": "Detective Girl",
+      "description": "She is still looking for something today.",
+      "condition": "Find the green-haired detective girl in the private room and the detective room in Dream Precinct, and in Shaded Hallways",
+      "checkbox": {
+        "green_haired_detective_2": "the private room",
+        "green_haired_detective_1": "the detective room",
+        "green_haired_detective_3": "in Shaded Hallways"
+      }
+    },
+    "fallen_star_craters": {
+      "name": "Go Crazy Go Crazy Boy",
+      "description": "oh yeahboy ooouh yead",
+      "condition": "Visit Fallen Star Craters"
+    },
+    "files_check_disk_nexus": {
+      "name": "Monochromatic Effects",
+      "description": "It's mine, not yours.",
+      "condition": "Collect all of the files in Check-Disk Nexus"
+    },
+    "maiko_glitch_hell": {
+      "name": "Instructions for Maiko",
+      "description": "Did you happen to forget how to play the game with this effect?",
+      "condition": "Interact with the white red eye creature changing your menu type to a green one in Glitch Hell while using the Maiko effect"
+    },
+    "slime_railway_rice_field": {
+      "name": "Pastry Enthusiast",
+      "description": "You made this slime's day",
+      "condition": "Equip the Cake effect near the slime in the abandoned railway of Rice Field"
+    },
+    "spiral_face_colorless_carnival": {
+      "name": "The Spiraling World",
+      "description": "What's wrong? Feeling hypnotized??",
+      "condition": "Interact with Spiral Face in Colorless Carnival"
+    },
+    "ufo_humanity_world": {
+      "name": "UFO Invasion!",
+      "description": "Alien came to earth for humanity research!",
+      "condition": "See the UFO in the Pink Haven of Humanity World"
+    },
+    "star_technicolor_towers": {
+      "name": "Astral Haven",
+      "description": "A perfect place for stargazing",
+      "condition": "Visit the starry sub-area of Technicolor Towers"
+    },
+    "green_haired_faerie_sunken": {
+      "name": "Captivating Smile",
+      "condition": "Find the dark green-haired woman in Faerie Hollow and interact with her in the Sunken Spore Sea",
+      "checkbox": {
+        "green_haired_faerie": "Find the dark green-haired woman in Faerie Hollow",
+        "green_haired_sunken": "interact with her in the Sunken Spore Sea"
+      }
+    },
+    "princess_crescent_tile_world": {
+      "name": "Illuminated Princess",
+      "description": "Keep the lights on, please!",
+      "condition": "See all of the reactions of the Princess in Crescent Tile World"
     }
   },
   "unconscious": {
@@ -6739,13 +6807,23 @@
     },
     "weird_girl_dark_archives": {
       "name": "The Shiggy Wiggy",
-      "description": "她好怪……怪酷的！",
+      "description": "You found me!",
       "condition": "找到Dark Archives的Weird Girl"
     },
     "sandbox_unconscious": {
       "name": "野花避难所",
       "description": "只要你允许它的存在，避难所可以存在于任何地方。",
       "condition": "抵达Sandbox"
+    },
+    "drain_girl_wisteria_grove": {
+      "name": "Sewer Lass",
+      "description": "Oh Lady of the Drain, what is your wisdom?",
+      "condition": "Find the Drain Girl in Wisteria Grove"
+    },
+    "prince_faithful_shoals": {
+      "name": "The Same Sunrise",
+      "description": "... as it ever is",
+      "condition": "Reach the Prince's Sunrise at the Faithful Shoals"
     }
   },
   "flow": {
@@ -6964,6 +7042,16 @@
     "oreko_hole_deadhole": {
       "name": "深渊回响",
       "condition": "生锈之后，在Hole：Deadhole看到Oreko消失。"
+    },
+    "headphones_effect_flow": {
+      "name": "Jamming Out",
+      "description": "Grooving through horrors that are beyond my comprehension",
+      "condition": "Obtain the Headphones effect. If you have already unlocked it, return to Music World."
+    },
+    "kaibutsu_blood_maze": {
+      "name": "Godspeed You! Shinsoku Kaibutsu",
+      "description": "I think they've had one energy drink too many...",
+      "condition": "Get caught by the Shinsoku Kaibutsu in the Blood Maze"
     }
   },
   "prayers": {

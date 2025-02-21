@@ -781,7 +781,8 @@
       "condition": "Найдите секретную комнату в Ruined Garden."
     },
     "moai_bro": {
-      "name": "Братан Моай",
+      "name": "Moai, Bro!",
+      "description": "Free my boy Moai Bro he didn't do anything wrong",
       "condition": "Войдите в Тюрьму братана Моая в Sea of Clouds."
     },
     "hebiko": {
@@ -1003,8 +1004,7 @@
       "condition": "Войдите в Undersea Temple."
     },
     "acrophobia": {
-      "name": "Акрофобия",
-      "description": "11010000 10011111 11010001 10000000 11010000 10111000 11010000 10110010 11010000 10110101 11010001 10000010",
+      "name": "Data-bent Sunset",
       "condition": "Переключите время на ночь в Industrial Towers, провзаимодействовав с Человеком-Глюком, надев кроличьи уши."
     },
     "dream_fishing": {
@@ -4060,7 +4060,7 @@
     "karma_pleasure_street": {
       "name": "Instant Karma",
       "description": "... You kind of deserved that.",
-      "condition": "Chainsaw the blue haired woman in one of the houses in Pleasure Street"
+      "condition": "Chainsaw the blue-haired woman in one of the houses in Pleasure Street"
     },
     "beach_challenge": {
       "name": "Beach Bum",
@@ -4149,8 +4149,8 @@
       "condition": "See the giant planet in Pollution District"
     },
     "tcn_condominium_floors": {
-      "name": "Linear Equation Architecture",
-      "description": "A lonely nine-storey building in the middle of a snowy forest",
+      "name": "Linear Technology Complex",
+      "description": "An abandoned condominium in the snow, home of the spirits.",
       "condition": "Pass through the nine floors of the Techno Condominium"
     },
     "tch_condominium_ghost": {
@@ -4591,8 +4591,8 @@
       "condition": "Enter Jade Block Mounds"
     },
     "lorn_tower_age": {
-      "name": "Time is Silver",
-      "description": "Time is worth much more than silver or any material good.",
+      "name": "Regret of Aging",
+      "description": "The sands of time weaken her body",
       "condition": "Interact with the Lorn Tower's bed while using the Child and Stretch effects, and trigger the Old Age event"
     },
     "book_pleasure_street": {
@@ -4953,8 +4953,8 @@
       "condition": "Доберитесь до Аквариума в Overgrown City."
     },
     "windswept_souls": {
-      "name": "Windswept Depths",
-      "description": "Submerged under sand and wind.",
+      "name": "Windswept Wilds",
+      "description": "The hollow shell of a former civilization now submerged under scarlet sand and the turquoise sky",
       "condition": "Узрите пустошь с одной из башен."
     },
     "2kki_wolf_effect": {
@@ -5146,8 +5146,8 @@
       "condition": "Наберите 8000 очков в HOZO."
     },
     "fisherman_victorian_drains": {
-      "name": "Legendary Fisherman",
-      "description": "A brave fisherman from the Victorian Drains",
+      "name": "Lonely Fisherman",
+      "description": "Fishing forever in your life, alone in your thoughts",
       "condition": "Interact with the fisherman in Victorian Drains"
     },
     "chaser_cof": {
@@ -5467,8 +5467,8 @@
       "condition": "Find the conic house in Hidden Shoal"
     },
     "decaying_sun": {
-      "name": "Decadent Sun",
-      "description": "The eternal sun of overgrown",
+      "name": "The Sun that Lost its Light",
+      "description": "Scattered symbols of a brighter past buried deep within the overcast skies of time...",
       "condition": "Find the decaying sun in Forest Pier and in the Deserted Town",
       "checkbox": {
         "decaying_sun_forest_pier": "Forest Pier",
@@ -5856,7 +5856,7 @@
     "fliperama_hall": {
       "name": "Synthwave Arcade",
       "description": "In the hour.",
-      "condition": "Visit Fliperama Hall"
+      "condition": "Visit the main part of Fliperama Hall"
     },
     "restroom_fliperama_hall": {
       "name": "Entering the Pipes",
@@ -5970,6 +5970,74 @@
       "name": "Twilight Desert",
       "description": "Vibing in a glimmering atmosphere",
       "condition": "Visit Glittering Desert"
+    },
+    "twintails_effect": {
+      "name": "The Wolf of Infinite Dream",
+      "description": "Essence of twintails",
+      "condition": "Obtain the Twintails effect. If you have already unlocked it, return where it can be found at The Deciding Street."
+    },
+    "quarter_flats": {
+      "name": "Ceramic Islands",
+      "description": "Perfect place to enjoy a boat ride",
+      "condition": "Visit Quarter Flats"
+    },
+    "green_haired_detective": {
+      "name": "Detective Girl",
+      "description": "She is still looking for something today.",
+      "condition": "Find the green-haired detective girl in the private room and the detective room in Dream Precinct, and in Shaded Hallways",
+      "checkbox": {
+        "green_haired_detective_2": "the private room",
+        "green_haired_detective_1": "the detective room",
+        "green_haired_detective_3": "in Shaded Hallways"
+      }
+    },
+    "fallen_star_craters": {
+      "name": "Go Crazy Go Crazy Boy",
+      "description": "oh yeahboy ooouh yead",
+      "condition": "Visit Fallen Star Craters"
+    },
+    "files_check_disk_nexus": {
+      "name": "Monochromatic Effects",
+      "description": "It's mine, not yours.",
+      "condition": "Collect all of the files in Check-Disk Nexus"
+    },
+    "maiko_glitch_hell": {
+      "name": "Instructions for Maiko",
+      "description": "Did you happen to forget how to play the game with this effect?",
+      "condition": "Interact with the white red eye creature changing your menu type to a green one in Glitch Hell while using the Maiko effect"
+    },
+    "slime_railway_rice_field": {
+      "name": "Pastry Enthusiast",
+      "description": "You made this slime's day",
+      "condition": "Equip the Cake effect near the slime in the abandoned railway of Rice Field"
+    },
+    "spiral_face_colorless_carnival": {
+      "name": "The Spiraling World",
+      "description": "What's wrong? Feeling hypnotized??",
+      "condition": "Interact with Spiral Face in Colorless Carnival"
+    },
+    "ufo_humanity_world": {
+      "name": "UFO Invasion!",
+      "description": "Alien came to earth for humanity research!",
+      "condition": "See the UFO in the Pink Haven of Humanity World"
+    },
+    "star_technicolor_towers": {
+      "name": "Astral Haven",
+      "description": "A perfect place for stargazing",
+      "condition": "Visit the starry sub-area of Technicolor Towers"
+    },
+    "green_haired_faerie_sunken": {
+      "name": "Captivating Smile",
+      "condition": "Find the dark green-haired woman in Faerie Hollow and interact with her in the Sunken Spore Sea",
+      "checkbox": {
+        "green_haired_faerie": "Find the dark green-haired woman in Faerie Hollow",
+        "green_haired_sunken": "interact with her in the Sunken Spore Sea"
+      }
+    },
+    "princess_crescent_tile_world": {
+      "name": "Illuminated Princess",
+      "description": "Keep the lights on, please!",
+      "condition": "See all of the reactions of the Princess in Crescent Tile World"
     }
   },
   "unconscious": {
@@ -6721,13 +6789,23 @@
     },
     "weird_girl_dark_archives": {
       "name": "The Shiggy Wiggy",
-      "description": "She's weird... ly cool!",
+      "description": "You found me!",
       "condition": "Find the Weird Girl in Dark Archives"
     },
     "sandbox_unconscious": {
       "name": "Wildflower Haven",
       "description": "A haven can exist anywhere if you allow it to be one",
       "condition": "Visit Sandbox"
+    },
+    "drain_girl_wisteria_grove": {
+      "name": "Sewer Lass",
+      "description": "Oh Lady of the Drain, what is your wisdom?",
+      "condition": "Find the Drain Girl in Wisteria Grove"
+    },
+    "prince_faithful_shoals": {
+      "name": "The Same Sunrise",
+      "description": "... as it ever is",
+      "condition": "Reach the Prince's Sunrise at the Faithful Shoals"
     }
   },
   "flow": {
@@ -6946,6 +7024,16 @@
     "oreko_hole_deadhole": {
       "name": "Abyssal Echo",
       "condition": "As Rust, see Oreko disappear in Hole's Deadhole"
+    },
+    "headphones_effect_flow": {
+      "name": "Jamming Out",
+      "description": "Grooving through horrors that are beyond my comprehension",
+      "condition": "Obtain the Headphones effect. If you have already unlocked it, return to Music World."
+    },
+    "kaibutsu_blood_maze": {
+      "name": "Godspeed You! Shinsoku Kaibutsu",
+      "description": "I think they've had one energy drink too many...",
+      "condition": "Get caught by the Shinsoku Kaibutsu in the Blood Maze"
     }
   },
   "prayers": {

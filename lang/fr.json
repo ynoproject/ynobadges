@@ -781,7 +781,8 @@
       "condition": "Trouver la salle secrète dans le Ruined Garden"
     },
     "moai_bro": {
-      "name": "Frérot Moai",
+      "name": "Frérot, pourquoi t'es là ??",
+      "description": "Libérez mon poteau Frérot Moai il a rien fait de mal",
       "condition": "Entrer dans la Prison du Frérot Moai dans la Sea of Clouds"
     },
     "hebiko": {
@@ -1003,8 +1004,7 @@
       "condition": "Entrer dans l'Undersea Temple"
     },
     "acrophobia": {
-      "name": "Acrophobie",
-      "description": "01000010 01101111 01101110 01110011 01101111 01101001 01110010",
+      "name": "Crépuscule à la pliure des données",
       "condition": "Changer le moment de la journée pour la nuit aux Industrial Towers en interagissant avec Glitchman avec l'effet Oreilles de lapin"
     },
     "dream_fishing": {
@@ -4154,8 +4154,8 @@
       "condition": "Voir la géante planète au Pollution District"
     },
     "tcn_condominium_floors": {
-      "name": "Architecture en équation linéaire",
-      "description": "Une bâtisse à neuf étages isolée au milieu d'une forêt enneigée",
+      "name": "Complexe à la technologie linéaire",
+      "description": "Un immeuble abandonné dans la neige, terre des esprits.",
       "condition": "Traverser les neuf étages du Techno Condominium"
     },
     "tch_condominium_ghost": {
@@ -4596,8 +4596,8 @@
       "condition": "Visiter les Jade Block Mounds"
     },
     "lorn_tower_age": {
-      "name": "Le temps c'est de l'argent",
-      "description": "Le temps vaut bien plus que l'argent ou tout bien matériel.",
+      "name": "Regrets du vieillisement",
+      "description": "Les sables du temps ont affaibli son corps",
       "condition": "Interagir avec le lit de la Lorn Tower en utilisant les effets Enfant et Étirement, et déclencher l'événement du Vieil Âge"
     },
     "book_pleasure_street": {
@@ -4958,8 +4958,8 @@
       "condition": "Entrer dans l'Aquarium de l'Overgrown City"
     },
     "windswept_souls": {
-      "name": "Profondeurs des terres battues par le vent",
-      "description": "Submergé sous le sable et le vent.",
+      "name": "Terres sauvages battues par le vent",
+      "description": "La coquille vide d'une ancienne civilisation désormais submergée sous le sable écarlate et le ciel turquoise",
       "condition": "Voir les terres désertées depuis l'une des tours"
     },
     "2kki_wolf_effect": {
@@ -5151,8 +5151,8 @@
       "condition": "Marquer 8000 points à HOZO"
     },
     "fisherman_victorian_drains": {
-      "name": "Pêcheur légendaire",
-      "description": "Un brave pêcheur des Victorian Drains",
+      "name": "Pêcheur isolé",
+      "description": "Pêchant pour l'éternité, seul avec ses pensées",
       "condition": "Interagir avec le pêcheur aux Victorian Drains"
     },
     "chaser_cof": {
@@ -5472,8 +5472,8 @@
       "condition": "Trouver la maison conique à l'Hidden Shoal"
     },
     "decaying_sun": {
-      "name": "Soleil délabré",
-      "description": "Le soleil éternel envahi par la végétation",
+      "name": "Le Soleil qui a perdu sa lumière",
+      "description": "Des symboles éparpillés d'un passé plus glorieux enfoncés profondément dans les cieux nuageux du temps...",
       "condition": "Trouver le soleil délabré à la Forest Pier et à la Deserted Town",
       "checkbox": {
         "decaying_sun_forest_pier": "Forest Pier",
@@ -5861,7 +5861,7 @@
     "fliperama_hall": {
       "name": "Arcade synthwave",
       "description": "Dans l'heure.",
-      "condition": "Visiter le Fliperama Hall"
+      "condition": "Visiter la zone principale du Fliperama Hall"
     },
     "restroom_fliperama_hall": {
       "name": "Entrer dans les tuyaux",
@@ -5975,6 +5975,74 @@
       "name": "Désert au crépuscule",
       "description": "Détendue dans une atmosphère scintillante",
       "condition": "Visiter le Glittering Desert"
+    },
+    "twintails_effect": {
+      "name": "Yandere de la rue de la décision",
+      "description": "« Hé ! C'est qui qui m'a appelé au tél et qui m'a laissé en plan me forçant à refaire toute la queue ??? Si j'le vois, il va s'en prendre des coups de pied, grrrrr !! »",
+      "condition": "Obtenir l'effet Couettes. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à The Deciding Street."
+    },
+    "quarter_flats": {
+      "name": "Îles en céramique",
+      "description": "Le lieu parfait pour profiter d'une petite balade en bateau",
+      "condition": "Visiter les Quarter Flats"
+    },
+    "green_haired_detective": {
+      "name": "La Détective Mimi",
+      "description": "Et comme tout bon détective, elle est encore et toujours à la recherche de quelque chose.",
+      "condition": "Trouver la détective aux cheveux verts dans la chambre privée et la salle de détective au Dream Precinct, ainsi qu'aux Shaded Hallways",
+      "checkbox": {
+        "green_haired_detective_2": "la chambre privée",
+        "green_haired_detective_1": "la salle de détective",
+        "green_haired_detective_3": "aux Shaded Hallways"
+      }
+    },
+    "fallen_star_craters": {
+      "name": "La tête dans les étoiles",
+      "description": "Le firmament à portée de main",
+      "condition": "Visiter les Fallen Star Craters"
+    },
+    "files_check_disk_nexus": {
+      "name": "Effets monochromatiques",
+      "description": "Ce sont les miens, pas les tiens.",
+      "condition": "Obtenir tous les fichiers au Check-Disk Nexus"
+    },
+    "maiko_glitch_hell": {
+      "name": "Instructions pour Maiko",
+      "description": "T'aurais pas juste oublié comment on joue en équipant cet effet, à tout hasard ?",
+      "condition": "Interagir avec la créature blanche à l'œil rouge changeant votre style de menu en un style vert au Glitch Hell en utilisant l'effet Maiko"
+    },
+    "slime_railway_rice_field": {
+      "name": "Gaga de gâteaux",
+      "description": "Ce slime est aux anges !",
+      "condition": "Équiper l'effet Gâteau à côté du slime sur la voie ferrée abandonnée du Rice Field"
+    },
+    "spiral_face_colorless_carnival": {
+      "name": "Monde en spirale",
+      "description": "Quelque chose ne va pas ? Tu te sens hypnotisée ??",
+      "condition": "Interagir avec Tête de Spirale au Colorless Carnival"
+    },
+    "ufo_humanity_world": {
+      "name": "Les OVNIs débarquent !",
+      "description": "Les aliens sont venus sur Terre pour faire des recherches sur les humains !",
+      "condition": "Voir l'OVNI à l'Havre Rose de l'Humanity World"
+    },
+    "star_technicolor_towers": {
+      "name": "Havre astral",
+      "description": "Un lieu idéal pour admirer les étoiles",
+      "condition": "Visiter la sous-zone au ciel étoilé aux Technicolor Towers"
+    },
+    "green_haired_faerie_sunken": {
+      "name": "Sourire captivant",
+      "condition": "Trouver la fille aux cheveux verts foncés au Faerie Hollow et interagir avec elle au Sunken Spore Sea",
+      "checkbox": {
+        "green_haired_faerie": "Trouver la fille aux cheveux verts foncés au Faerie Hollow",
+        "green_haired_sunken": "interagir avec elle au Sunken Spore Sea"
+      }
+    },
+    "princess_crescent_tile_world": {
+      "name": "Princesse illuminée",
+      "description": "N'éteins surtout pas la lumière ! Euh, non, c'est pas que j'ai peur du noir, mais... on voit rien quand y a pas de lumière, voilà !",
+      "condition": "Voir toutes les réactions de la Princesse au Crescent Tile World"
     }
   },
   "unconscious": {
@@ -6726,13 +6794,23 @@
     },
     "weird_girl_dark_archives": {
       "name": "La trorigolo",
-      "description": "Elle est bizarre... ment top !",
+      "description": "Tu m'as trouvé !",
       "condition": "Trouver la Fille Bizarre aux Dark Archives"
     },
     "sandbox_unconscious": {
       "name": "Havre des fleurs sauvages",
       "description": "Un havre peut exister n'importe où si il est autorisé à en être un",
       "condition": "Visiter Sandbox"
+    },
+    "drain_girl_wisteria_grove": {
+      "name": "Fille des égouts",
+      "description": "Oh Damoiselle de la Canalisation, quelle est votre bénédiction ?",
+      "condition": "Trouver la Fille de la Canalisation à la Wisteria Grove"
+    },
+    "prince_faithful_shoals": {
+      "name": "La même aube",
+      "description": "... comme elle a toujours été",
+      "condition": "Atteindre l'Aube du Prince aux Faithful Shoals"
     }
   },
   "flow": {
@@ -6951,6 +7029,16 @@
     "oreko_hole_deadhole": {
       "name": "Écho abyssal",
       "condition": "En tant que Rust, voir Oreko disparaître au Trou Mort de Hole"
+    },
+    "headphones_effect_flow": {
+      "name": "Groove du monde musical",
+      "description": "Vibrant sur des horreurs au-delà de ma compréhension",
+      "condition": "Obtenir l'effet Casque audio. Si vous l'avez déjà obtenu, retournez au Music World."
+    },
+    "kaibutsu_blood_maze": {
+      "name": "Le chasseur le plus rapide de l'ouest - Shinsoku Kaibutsu",
+      "description": "J'crois bien qu'il a pris trop de caféine...",
+      "condition": "Se faire attraper par le Shinsoku Kaibutsu au Blood Maze"
     }
   },
   "prayers": {
