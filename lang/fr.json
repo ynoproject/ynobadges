@@ -6033,10 +6033,11 @@
     },
     "green_haired_faerie_sunken": {
       "name": "Sourire captivant",
-      "condition": "Trouver la fille aux cheveux verts foncés au Faerie Hollow et interagir avec elle au Sunken Spore Sea",
+      "condition": "Trouver la fille aux cheveux verts foncés au Faerie Hollow, aux Strawberry Outskirts et interagir avec elle au Sunken Spore Sea",
       "checkbox": {
         "green_haired_faerie": "Trouver la fille aux cheveux verts foncés au Faerie Hollow",
-        "green_haired_sunken": "interagir avec elle au Sunken Spore Sea"
+        "green_haired_sunken": "interagir avec elle au Sunken Spore Sea",
+        "green_haired_strawberry": "aux Strawberry Outskirts"
       }
     },
     "princess_crescent_tile_world": {
@@ -6721,7 +6722,7 @@
     "glass_shard_path": {
       "name": "Vitres colorées",
       "description": "Pour les amoureux de la pluie et du verre",
-      "condition": "Visiter le Glass Shard Path"
+      "condition": "Visiter le Glass Shards Path"
     },
     "outside_primeval_edifice": {
       "name": "Jardin céleste d'antan",
