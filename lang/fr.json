@@ -476,6 +476,35 @@
       "name": "Miss Tempête",
       "description": "Je suis le ciel, et le ciel est moi",
       "condition": "Provoquer la foudre en utilisant l'effet Oni dans les Dense Woods A"
+    },
+    "snow_woman_effect": {
+      "name": "L'esprit de la neige",
+      "description": "Cet ancien esprit revient posséder ton propre corps",
+      "condition": "Obtenir l'effet Femme des neiges. Si vous l'avez déjà obtenu, retournez au Snow World."
+    },
+    "flute_effect": {
+      "name": "Notes flottantes",
+      "condition": "Obtenir l'effet Flûte. Si vous l'avez déjà obtenu, retournez dans la Salle de la Flûte au Mall."
+    },
+    "midget_effect": {
+      "name": "La Marche des Mini",
+      "description": "Nous sommes peut-être petites, mais nous sommes nombreuses !",
+      "condition": "Obtenir l'effet Naine. Si vous l'avez déjà obtenu, retournez au Candle World."
+    },
+    "witch_effect": {
+      "name": "Mado la petite sorcière",
+      "description": "Wouah, elle peut voler sur son balai ! Tu penses qu'elle peut aussi livrer du courrier ?",
+      "condition": "Obtenir l'effet Sorcière. Si vous l'avez déjà obtenu, retournez at the end of the Witch's Island."
+    },
+    "hat_and_scarf_effect": {
+      "name": "Chaleur",
+      "description": "N'attrape pas froid !",
+      "condition": "Obtenir l'effet Écharpe et Bonnet. Si vous l'avez déjà obtenu, retournez au Block World."
+    },
+    "kitchen_knife_effect": {
+      "name": "Lame aiguisée",
+      "description": "Une lame aussi aiguisée que vos sens",
+      "condition": "Obtenir l'effet Couteau. Si vous l'avez déjà obtenu, retournez au Dark World."
     }
   },
   "2kki": {
@@ -1636,8 +1665,8 @@
       "condition": "Activer l'événement de la Salle de Clonage dans le Red Brick Maze"
     },
     "rainbow_towers_ufo": {
-      "name": "Objet Volant Non Identifié",
-      "description": "Attrapé par le radar !",
+      "name": "Objet Virevoltant Non Incroyable",
+      "description": "C'est vraiment comme ça que les aliens se déplacent ???",
       "condition": "Voir l'ovni passer à côté de vous dans les Rainbow Towers"
     },
     "vending_machine_factory_balcony": {
@@ -4209,8 +4238,8 @@
       "condition": "Voir la créature d'orbe gouttant aux Fake Apartments"
     },
     "rat_king_pleasure_street": {
-      "name": "Roi Rat",
-      "description": "Nous sommes peut-être petits, mais nous faisons régner l'ordre.",
+      "name": "Reine rate corrompue",
+      "description": "Hein ?!? Pourquoi t'as fait ça ?! T'as perdu la tête ?!",
       "condition": "Voir le Roi Rat à la Pleasure Street"
     },
     "diary_graveyard_repent": {
@@ -6044,6 +6073,55 @@
       "name": "Princesse illuminée",
       "description": "N'éteins surtout pas la lumière ! Euh, non, c'est pas que j'ai peur du noir, mais... on voit rien quand y a pas de lumière, voilà !",
       "condition": "Voir toutes les réactions de la Princesse au Crescent Tile World"
+    },
+    "cliff_gsc_mountain_ring": {
+      "name": "Le loup solitaire",
+      "description": "Tu crois qu'il pense à quoi ?",
+      "condition": "Atteindre la zone de la falaise à la Grayscale Mountain Ring"
+    },
+    "fossil_decrepit_village": {
+      "name": "Dévoreur d'antan",
+      "description": "Il a plus trop l'air de s'accrocher à la vie, lui...",
+      "condition": "Trouver le fossile accroché au Decrepit Village"
+    },
+    "trombone_old_train_station": {
+      "name": "Une musique nommée silence",
+      "description": "La performance de quelqu'un doit sûrement toujours être en cours.",
+      "condition": "Trouver le trombone à l'Old Train Station"
+    },
+    "ghost_rose_manor": {
+      "name": "Un habitant fantomatique",
+      "description": "Trouver la Dame Fantôme en face du Rose Manor"
+    },
+    "green_dress_garden_festival": {
+      "name": "Beauté du jardin",
+      "description": "Cette robe est jolie, ce jardin est magnifique... il y a des roses et des fleurs partout... c'est le jardin de mes rêves !",
+      "condition": "Équiper le masque de la robe verte au Garden Festival"
+    },
+    "wolf_vitamin_world": {
+      "name": "Le loup vitamine",
+      "description": "Il a l'air en forme, le loulou !",
+      "condition": "Interagir avec l'un des loups en utilisant l'effet Loup Vitamin World"
+    },
+    "cat_sweet_pink_docks": {
+      "name": "Chieste du chat",
+      "description": "Oups ! Je ne voulais pas déranger le chat pendant sa sieste...",
+      "condition": "Interagir avec le chat aux Sweet Pink Docks"
+    },
+    "scarf_dream_precint": {
+      "name": "Représailles",
+      "description": "Protège tes bien-aimés",
+      "condition": "Tronçonner la fille aux cheveux turquoises avec une écharpe au Dream Precint"
+    },
+    "king_serpentine_pyramid": {
+      "name": "Cela satisfait Sa Majesté",
+      "description": "Sa Majesté n'adore que les spectacles des plus divertissants.",
+      "condition": "Faire sourire le Roi Cobra à la Serpentine Pyramid"
+    },
+    "rainbow_wolf_mask": {
+      "name": "Costume canin coloré",
+      "description": "Les couleurs, Urotsuki! Les couleurs ! Vives... et colorées !",
+      "condition": "Équiper le masque Arc-En-Ciel + Loup au Binding Site"
     }
   },
   "unconscious": {
@@ -7800,7 +7878,8 @@
       "condition": "Activer la boombox dans le Grasslands Labyrinth"
     },
     "shrine_garden": {
-      "name": "Repos & fleurs blanches",
+      "name": "Orbe fissuré",
+      "description": "Prend garde",
       "condition": "Déclencher l'événement dans les Spirit Shrines"
     },
     "vista": {
