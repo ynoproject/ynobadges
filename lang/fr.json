@@ -6121,6 +6121,53 @@
       "name": "Costume canin coloré",
       "description": "Les couleurs, Urotsuki! Les couleurs ! Vives... et colorées !",
       "condition": "Équiper le masque Arc-En-Ciel + Loup au Binding Site"
+    },
+    "patchwork_playroom_spin": {
+      "name": "La tête qui tourne",
+      "condition": "Utiliser l'effet Fée ou Astronaute à côté du duo dans la Salle de Jeux Patchwork de The Pansy Path"
+    },
+    "water_edge_check_park": {
+      "name": "Chambre bleue outremer",
+      "condition": "Atteindre le Parc à Carreaux Bleus au Water's Edge"
+    },
+    "faceless_endless_apartments": {
+      "name": "Trouble interne",
+      "description": "De quoi essayes-tu de te cacher ?",
+      "condition": "Rencontrer l'Urotsuki sans visage aux Endless Apartments"
+    },
+    "smiley_face_deck_rave": {
+      "name": "Surcharge d'extase",
+      "description": "FAIS TA MOUE À L'ENVERS =)",
+      "condition": "Déclencher l'événement de la RAVE PAQUET au Smiley Face DECK"
+    },
+    "ghosts_pumpkin_city": {
+      "name": "Farces fantomatiques",
+      "description": "De sombres spectres souriants sortent pour socialiser !",
+      "condition": "Voir toutes les réactions des fantômes à la Pumpkin City"
+    },
+    "tsugihagi_kun_patchwork": {
+      "name": "Tsugihagi-kun",
+      "description": "Recouds-moi ça !",
+      "condition": "Équiper le masque Tsugihagi-kun dans la Salle de Jeux Patchwork de The Pansy Path"
+    },
+    "roux_art_exposition": {
+      "name": "Œil de l'observateur",
+      "description": "« Le corps humain est comme une œuvre d'art : nombreux sont ces admirateurs, mais son créateur ne partage pas le même engouement. » -T. Uroh",
+      "condition": "Trouver la peinture distordue d'Urotsuki dans l'Art Exposition"
+    },
+    "sea_sponge_path": {
+      "name": "Crique du lumen",
+      "description": "Là où la lumière rencontre la mer",
+      "condition": "Atteindre le Passage Éponge de Mer au Star Ocean"
+    },
+    "sunken_paradise": {
+      "name": "Voile abyssal",
+      "condition": "Visiter le Sunken Paradise"
+    },
+    "2kki_menu_44": {
+      "name": "Refuge des étoiles retraitées",
+      "description": "« Même dans des lieux désolés, la vie trouve toujours de quoi se frayer un chemin pour briller. »",
+      "condition": "Obtenir le style de menu 44. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Pastel Chalk World."
     }
   },
   "unconscious": {
@@ -6889,6 +6936,16 @@
       "name": "La même aube",
       "description": "... comme elle a toujours été",
       "condition": "Atteindre l'Aube du Prince aux Faithful Shoals"
+    },
+    "april_september_sleep": {
+      "name": "Long roupillon",
+      "description": "J'suis fatigué... juste 5 mois de plus...",
+      "condition": "Dormir d'April vers September"
+    },
+    "rooftop_stonelit_hollow": {
+      "name": "Sommet du coucher de soleil",
+      "description": "Un crépuscule éternel.",
+      "condition": "Atteindre le toit de Stonelit Hollow"
     }
   },
   "flow": {
@@ -6927,7 +6984,8 @@
       }
     },
     "dark_city": {
-      "name": "Sombre ville",
+      "name": "Visage psychédélique",
+      "description": "Un cadeau provenant d'un visiteur d'un autre plan de l'existence",
       "condition": "Interagir avec l'alien dans la Psychedelic Town"
     },
     "red_eye": {
