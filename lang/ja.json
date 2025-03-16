@@ -6183,6 +6183,84 @@
       "name": "憩いの星の集落",
       "description": "\"荒れ果てた土地でも、生命は生きる道を見つけて咲き誇るのだ\"",
       "condition": "メニュータイプ44を取得する。すでに入手している場合は、見つけた場所に行く"
+    },
+    "wind_tunnel": {
+      "name": "Spinner Tunnel",
+      "description": "If the wind can make this spin, how strong is the wind?",
+      "condition": "Visit the Wind Tunnel"
+    },
+    "bathhouse_hop_springs": {
+      "name": "The Warmest Pond",
+      "description": "Oh, to be a frog in a hot spring...",
+      "condition": "Visit the bathhouse area in Hop Springs"
+    },
+    "crab_dog_beach_b_inf": {
+      "name": "They're Crab Dogs!",
+      "description": "They're... crogs...? Dabs...??",
+      "condition": "Reach the Crab Dog Beach of Beachside Infirmary"
+    },
+    "sunset_pastel_dream_sea": {
+      "name": "Fabricated Peace",
+      "description": "A peaceful sunset awaits you at the end of the maze... but is it really peaceful?",
+      "condition": "See the sunset in the Sargat Layer of Pastel Dream Sea"
+    },
+    "girl_communal_workspace": {
+      "name": "Lone Musician",
+      "condition": "Reach the room of the girl in Communal Workspace"
+    },
+    "rainbow_fox_paper_jungle": {
+      "name": "Jungle's Only Bartender",
+      "description": "Are those drinks made out of paper too?",
+      "condition": "Enter the house of the Rainbow Kitsune in Paper Jungle"
+    },
+    "bath_keeper_hop_springs": {
+      "name": "CEO's Inconveniently Located Bathhouse",
+      "description": "\"Miss Client, if you're not renting our services, kindly retire yourself from our establishment.\"",
+      "condition": "See all of the reactions of the bath keeper in Hop Springs"
+    },
+    "alien_mask_alien_wasteland": {
+      "name": "Extraterrestrial Creature",
+      "condition": "Equip the alien mask in Alien Wasteland"
+    },
+    "rabbelle_mask_hellish_village": {
+      "name": "The Beautiful Bunny",
+      "description": "Locked away in a cage far from all",
+      "condition": "Equip the Rabbelle mask in the bird cage of Hellish Village"
+    },
+    "cheese_lady_cheese_world": {
+      "name": "A Tiny, Tiny, Clever Commander",
+      "description": "\"They say that cheese just can't compare to certain other red foods.\"",
+      "condition": "Equip the cheese lady mask in Cheese World"
+    },
+    "church_legacy_nexus": {
+      "name": "The Monochrome Church",
+      "description": "A lightless world lives among the purple sands",
+      "condition": "See the church in the Legacy Nexus"
+    },
+    "kiwi_mask_alien_wasteland": {
+      "name": "Kiwi",
+      "description": "Although flightless, it holds the power of creativity",
+      "condition": "Equip the Kiwi Painter mask in Alien Wasteland"
+    },
+    "bug_maid_worm_labyrinth": {
+      "name": "Mothra and Phillip",
+      "description": "Surrounded by fragrant light, I abandoned everything еxcept for you.",
+      "condition": "Interact with the bug maid in Worm Labyrinth"
+    },
+    "black_hole_legacy_of_ruin": {
+      "name": "Swirling...",
+      "description": "The singularity that eats away remnants of a ruined dream",
+      "condition": "Interact with the black hole in Legacy of Ruin"
+    },
+    "mask_storage_mask_tst_map": {
+      "name": "A Perfect End",
+      "description": "What could be a better reward after a journey like that",
+      "condition": "Equip the mask storage mask in TST MAP"
+    },
+    "museum_of_cur_connect": {
+      "name": "Curious Museum",
+      "description": "Welcome to the museum!",
+      "condition": "Visit the inside of the Museum of Curiosities and unlock all of its connections"
     }
   },
   "unconscious": {
@@ -6235,8 +6313,8 @@
       "condition": "プラネタリウム庭園に到達する"
     },
     "mr_pivoine_train_station": {
-      "name": "駅員さん",
-      "description": "彼は花が好きだが、特に芍薬が好きだ。",
+      "name": "Ticket to Ride",
+      "description": "All aboard!",
       "condition": "駅で駅員さんからチケットを購入する"
     },
     "people_palace_dungeon": {
@@ -7241,8 +7319,8 @@
       "condition": "Foodエフェクトがある部屋に入る"
     },
     "submarine_cat_eyes": {
-      "name": "海洋恐怖症",
-      "description": "深淵をのぞくとき、深淵もまたこちらをのぞいているのだ",
+      "name": "Cat Eyes",
+      "description": "Meow~",
       "condition": "沈没船で猫の目のイベントを見る"
     },
     "lookout_point": {
@@ -8386,6 +8464,11 @@
       "name": "冬の彩り",
       "description": "雪降る穏やかな朝……",
       "condition": "Pink Snowscapeに到達する"
+    },
+    "bunny_first_steps": {
+      "name": "Muma and the Rabbits",
+      "description": "Would you like to be friends with me?",
+      "condition": "Lift one of the rabbits in First Steps"
     }
   },
   "genie": {

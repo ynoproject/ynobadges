@@ -6168,6 +6168,84 @@
       "name": "Refuge des étoiles retraitées",
       "description": "« Même dans des lieux désolés, la vie trouve toujours de quoi se frayer un chemin pour briller. »",
       "condition": "Obtenir le style de menu 44. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Pastel Chalk World."
+    },
+    "wind_tunnel": {
+      "name": "Tunnel des tourniquets",
+      "description": "Si le vent arrive à les faire tourner, à quel point est-il fort ?",
+      "condition": "Visiter le Wind Tunnel"
+    },
+    "bathhouse_hop_springs": {
+      "name": "La mare la plus chaude",
+      "description": "Oh, être une grenouille dans une source chaude...",
+      "condition": "Visiter la zone des bains publics aux Hop Springs"
+    },
+    "crab_dog_beach_b_inf": {
+      "name": "Ce sont des crabe-chiens !",
+      "description": "Ce sont des criens ? Ou des chabes... ??",
+      "condition": "Atteindre la Plage des Crabe-chiens à la Beachside Infirmary"
+    },
+    "sunset_pastel_dream_sea": {
+      "name": "Paix faite de toute pièce",
+      "description": "Un paisible couche de soleil vous attend à la fin du labyrinthe... mais est-il vraiment si paisible ?",
+      "condition": "Voir le coucher de soleil de la Couche Sargat au Pastel Dream Sea"
+    },
+    "girl_communal_workspace": {
+      "name": "Musicienne isolée",
+      "condition": "Atteindre la chambre de la fille au Communal Workspace"
+    },
+    "rainbow_fox_paper_jungle": {
+      "name": "Le barman de la jungle",
+      "description": "Est-ce que ces boissons sont aussi faites de papier ?",
+      "condition": "Entrer dans la maison de la Renarde Arc-en-ciel à la Paper Jungle"
+    },
+    "bath_keeper_hop_springs": {
+      "name": "Bains publics de la proprio mal placés",
+      "description": "« Chère demoiselle, si vous ne voulez pas de nos services, alors veuillez sagement partir de notre établissement. »",
+      "condition": "Voir toutes les réactions de la gérante des bains aux Hop Springs"
+    },
+    "alien_mask_alien_wasteland": {
+      "name": "Créature hors de ce monde",
+      "condition": "Équiper le masque alien à l'Alien Wasteland"
+    },
+    "rabbelle_mask_hellish_village": {
+      "name": "La maline lapine",
+      "description": "Enfermé dans une cage loin de tout",
+      "condition": "Équiper le masque Rabbelle dans la cage à oiseaux de l'Hellish Village"
+    },
+    "cheese_lady_cheese_world": {
+      "name": "La p'tite maestra maligne",
+      "description": "« Ils disent que le fromage ne vaut rien comparé à certains aliments rouges... »",
+      "condition": "Équiper le masque de la Dame Fromage au Cheese World"
+    },
+    "church_legacy_nexus": {
+      "name": "L'église monochrome",
+      "description": "Un monde sans lumière vit parmi les sables violets",
+      "condition": "Voir l'église au Legacy Nexus"
+    },
+    "kiwi_mask_alien_wasteland": {
+      "name": "Kiwi",
+      "description": "Avoir des plumes, c'est bien, les utiliser pour embellir le monde, c'est mieux !",
+      "condition": "Équiper le masque du Peintre Kiwi Alien Wasteland"
+    },
+    "bug_maid_worm_labyrinth": {
+      "name": "Nyx et Trix",
+      "description": "Entouré d'une douce lumière frangrante, j'ai tout abandonné pour toi.",
+      "condition": "Interagir avec la servante insecte au Worm Labyrinth"
+    },
+    "black_hole_legacy_of_ruin": {
+      "name": "Spiralant...",
+      "description": "La singularité qui dévore les restes d'un rêve ruiné",
+      "condition": "Interagir avec le trou noir à Legacy of Ruin"
+    },
+    "mask_storage_mask_tst_map": {
+      "name": "Une fin parfaite",
+      "description": "Après un tel voyage, y aurait-il pu avoir une meilleure récompense que ça ?",
+      "condition": "Équiper le masque du stockage de masques à la TST MAP"
+    },
+    "museum_of_cur_connect": {
+      "name": "Un musée des plus curieux",
+      "description": "Bienvenue dans notre musée !",
+      "condition": "Visiter l'intérieur du Museum of Curiosities et débloquer toutes ses connexions"
     }
   },
   "unconscious": {
@@ -6220,8 +6298,8 @@
       "condition": "Visiter le Planetarium Garden"
     },
     "mr_pivoine_train_station": {
-      "name": "Monsieur Pivoine",
-      "description": "Son obsession pour les fleurs était telle que nous avons dû l'enfermer dans une station de train.",
+      "name": "Un ticket pour le train",
+      "description": "Allez, tous à bord !",
       "condition": "Acheter un ticket à Monsieur Pivoine à la Train Station"
     },
     "people_palace_dungeon": {
@@ -7226,8 +7304,8 @@
       "condition": "Entrer dans la salle contenant la prière Nourriture"
     },
     "submarine_cat_eyes": {
-      "name": "Thalassophobie",
-      "description": "Quand tu observes dans un abysse pour un long moment, l'abysse te regarde en retour.",
+      "name": "Yeux de chat",
+      "description": "Miaou~",
       "condition": "Voir l'événement de l'Underwater Ship Cat Eyes dans l'Underwater Ship"
     },
     "lookout_point": {
@@ -8371,6 +8449,11 @@
       "name": "La couleur de l'hiver",
       "description": "Par une douce matinée, où la neige chutait...",
       "condition": "Visiter le Pink Snowscape"
+    },
+    "bunny_first_steps": {
+      "name": "Muma et les lapinous",
+      "description": "« Est-ce que vous voulez bien être mes amis ? »",
+      "condition": "Soulever l'un des lapins aux First Steps"
     }
   },
   "genie": {
