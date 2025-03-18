@@ -505,6 +505,11 @@
       "name": "Lame aiguisée",
       "description": "Une lame aussi aiguisée que vos sens",
       "condition": "Obtenir l'effet Couteau. Si vous l'avez déjà obtenu, retournez au Dark World."
+    },
+    "nasu_ruby": {
+      "name": "A Useless Award",
+      "description": "A cheap award made of plastic",
+      "condition": "Marquer exactement 290 points dans la version secrète de NASU"
     }
   },
   "2kki": {
@@ -6246,6 +6251,36 @@
       "name": "Un musée des plus curieux",
       "description": "Bienvenue dans notre musée !",
       "condition": "Visiter l'intérieur du Museum of Curiosities et débloquer toutes ses connexions"
+    },
+    "maiko_effect": {
+      "name": "Démonstration respectueuse",
+      "description": "Un petit geste va de pair !",
+      "condition": "Obtenir l'effet Maiko. Si vous l'avez déjà obtenu, retournez à l'intérieur du Shinto Shrine."
+    },
+    "light_graveyard_of _rep": {
+      "name": "Prédiction du danger",
+      "description": "On laisse pas du feu à l'air libre, ici !",
+      "condition": "Utiliser l'effet Lanterne dans la pièce rose du Graveyard of Repentance"
+    },
+    "kagami_mochi_golden_sunset": {
+      "name": "Umochuki",
+      "description": "Un mochiii~ c'est trop chou !!!",
+      "condition": "Équiper le masque Kagami Mochi au Golden Sunset Estate"
+    },
+    "sheep_mask": {
+      "name": "Mouton au dodo",
+      "description": "J'me demande si il compte les moutons ?",
+      "condition": "Équiper le masque mouton aux Urotsuki's Dream Apartments"
+    },
+    "menu_styles_nerium_lab": {
+      "name": "Filles lauriers",
+      "description": "Wouah... elles sont jolies...",
+      "condition": "Essayer les deux styles de menu au Nerium Lab"
+    },
+    "rose_factory": {
+      "name": "Roses résistantes",
+      "description": "« Dans toute la pléthore de machins mécaniques éparpillés dans l'usine, des boutons de rose ont poussé à l'extrémité de la lumière, lumière crépusculaire. »",
+      "condition": "Visiter la Rose Factory"
     }
   },
   "unconscious": {
@@ -7253,6 +7288,11 @@
       "name": "Le chasseur le plus rapide de l'ouest - Shinsoku Kaibutsu",
       "description": "J'crois bien qu'il a pris trop de caféine...",
       "condition": "Se faire attraper par le Shinsoku Kaibutsu au Blood Maze"
+    },
+    "plant_action_flow": {
+      "name": "Poumons floraux",
+      "description": "Bleh.",
+      "condition": "Déclencher l'action de l'effet Plante dans un lieu pluvieux"
     }
   },
   "prayers": {
@@ -7995,6 +8035,11 @@
       "name": "Faux sourire",
       "description": "Sourire pour ignorer la souffrance ne marchera pas.",
       "condition": "Voir la télévision avec la femme à la bouche saignante au Corroded Dream"
+    },
+    "anglerfish_the_abyss": {
+      "name": "Rôdeur des abysses",
+      "description": "N'aie pas peur des ténèbres des profondeurs abyssales, aie peur de ce qui se cache en leurs seins.",
+      "condition": "Révéler le poisson-lanterne à The Abyss"
     }
   },
   "braingirl": {
@@ -9278,6 +9323,25 @@
       "name": "Mauvais souvenir",
       "description": "J'espère qu'ils vont bien.",
       "condition": "Obtenir l'effet Vampirisme. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé dans la section isolée des Gloomy Wetlands."
+    },
+    "cardboard_basement_world": {
+      "name": "Cachette secrète",
+      "description": "Il adore ses lapinous !",
+      "condition": "Voir le gars à la tête en carton au Basement World"
+    },
+    "sleepy_electro_metro": {
+      "name": "T'es électrisé !",
+      "description": "Ils peuvent pas arrêter de briller comme ça ça me fait peur",
+      "condition": "Trouver la personne dormant dans l'atelier de la Metro Zone et trouver le patron de l'Electro Tower",
+      "checkbox": {
+        "sleepy_metro": "Trouver la personne dormant dans l'atelier de la Metro Zone",
+        "sleepy_electro": "trouver le patron de l'Electro Tower"
+      }
+    },
+    "radon_noble_gas_district": {
+      "name": "Canette radieuse",
+      "description": "100% sans danger pour l'estomac ! Qui n'aime pas les échantillons gratuits ?",
+      "condition": "Acheter un radon du distributeur automatique au Noble Gas District"
     }
   },
   "tsushin": {

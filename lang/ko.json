@@ -505,6 +505,11 @@
       "name": "Shiny Knife",
       "description": "You can see your reflection in the blade",
       "condition": "Obtain the Kitchen Knife effect. If you have already unlocked it, return to Dark World."
+    },
+    "nasu_ruby": {
+      "name": "A Useless Award",
+      "description": "A cheap award made of plastic",
+      "condition": "Score exactly 290 points in the secret mode of NASU"
     }
   },
   "2kki": {
@@ -6245,6 +6250,36 @@
       "name": "Curious Museum",
       "description": "Welcome to the museum!",
       "condition": "Visit the inside of the Museum of Curiosities and unlock all of its connections"
+    },
+    "maiko_effect": {
+      "name": "Show Some Respect",
+      "description": "A little gesture goes a long way!",
+      "condition": "Obtain the Maiko effect. If you have already unlocked it, return inside the Shinto Shrine."
+    },
+    "light_graveyard_of _rep": {
+      "name": "Danger Prediction",
+      "description": "No open flames allowed!",
+      "condition": "Use the Lantern effect in the pink room of Graveyard of Repentance"
+    },
+    "kagami_mochi_golden_sunset": {
+      "name": "Kagami Uro",
+      "description": "Mochiii~ so cute!!!",
+      "condition": "Equip the Kagami Mochi mask in Golden Sunset Estate"
+    },
+    "sheep_mask": {
+      "name": "Sheep Asleep",
+      "description": "I wonder if it’s counting sheep?",
+      "condition": "Equip the sheep mask in Urotsuki's Dream Apartments"
+    },
+    "menu_styles_nerium_lab": {
+      "name": "Nerium Girls",
+      "description": "Girls... pretty...",
+      "condition": "Try the two menu styles at the Nerium Lab"
+    },
+    "rose_factory": {
+      "name": "Resilient Roses",
+      "description": "\"Amidst the myriads of mechanizations scattered inside this factory, rosebuds grew on the edge of light, the light of the sunsetting sky.\"",
+      "condition": "Visit Rose Factory"
     }
   },
   "unconscious": {
@@ -7252,6 +7287,11 @@
       "name": "Godspeed You! Shinsoku Kaibutsu",
       "description": "I think they've had one energy drink too many...",
       "condition": "Get caught by the Shinsoku Kaibutsu in the Blood Maze"
+    },
+    "plant_action_flow": {
+      "name": "Floral Lungs",
+      "description": "Blegh.",
+      "condition": "Trigger the Plant effect's action in a rainy place"
     }
   },
   "prayers": {
@@ -7994,6 +8034,11 @@
       "name": "False Smile",
       "description": "Smiling through the pain won't help.",
       "condition": "See the TV with the woman with the bleeding mouth in Corroded Dream"
+    },
+    "anglerfish_the_abyss": {
+      "name": "Abyssal Lurker",
+      "description": "Do not fear the dark ocean depths, fear what hides within them.",
+      "condition": "Reveal the anglerfish in The Abyss"
     }
   },
   "braingirl": {
@@ -9277,6 +9322,25 @@
       "name": "Malicious Memory",
       "description": "I hope they're alright.",
       "condition": "Obtain the Vampirism effect. If you have already unlocked it, return where it can be found in the isolated section of Gloomy Wetlands."
+    },
+    "cardboard_basement_world": {
+      "name": "Secret Hideout",
+      "description": "They love their bunnies!",
+      "condition": "Reach the cartoon head guy in Basement World"
+    },
+    "sleepy_electro_metro": {
+      "name": "You're Electric!",
+      "description": "Can they stop glowing like that it's kind of creeping me out",
+      "condition": "Find the person sleeping in the workshop of Metro Zone and the head honcho of Electro Tower",
+      "checkbox": {
+        "sleepy_metro": "Find the person sleeping in the workshop of Metro Zone",
+        "sleepy_electro": "the head honcho of Electro Tower"
+      }
+    },
+    "radon_noble_gas_district": {
+      "name": "Jar o' Radon",
+      "description": "100% safe to ingest! Who doesn't love a free sample?",
+      "condition": "Buy a radon from the vending machine in the Noble Gas District"
     }
   },
   "tsushin": {
