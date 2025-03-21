@@ -515,6 +515,11 @@
       "name": "ピカピカのナイフ",
       "description": "刃の部分に自分の顔が映ってる",
       "condition": "ほうちょうのエフェクトを入手する、すでに入手している場合は暗闇の世界にもう一度行く。"
+    },
+    "nasu_ruby": {
+      "name": "Consolation Prize",
+      "description": "A cheap award made of plastic",
+      "condition": "Score exactly 290 points in the secret mode of NASU"
     }
   },
   "2kki": {
@@ -1229,8 +1234,8 @@
       "condition": "代価移住に到達する"
     },
     "block_person": {
-      "name": "分銅くん",
-      "description": "歩く分銅になっちゃった？！",
+      "name": "Goofy Block",
+      "description": "I'm a goofy block! (yeah!)",
       "condition": "煉瓦ダンジョンで分銅くんに変身する"
     },
     "madotsukis_room": {
@@ -1366,8 +1371,8 @@
       "condition": "AGAINSTITUTIONに潜入する"
     },
     "mysterious_maid": {
-      "name": "エプロン姉さん",
-      "description": "妙に誰かと似ている...",
+      "name": "Omnipresent Maid",
+      "description": "A mysterious lady wandering through your dreams.",
       "condition": "病院 空中公園 廃線 工事にいるエプロン姿の女性に話しかける",
       "checkbox": {
         "m_m_hospital": "病院",
@@ -2257,8 +2262,8 @@
       "condition": "光と水面の教会エリアに到達する"
     },
     "shadow_forest": {
-      "name": "黒魔女公園",
-      "description": "なぜ戻ってきた？",
+      "name": "The Ladies' Secret Forest",
+      "description": "They say that the forest has secrets behind its thin layer of forest wall.",
       "condition": "公園世界裏に到達する"
     },
     "spring_breeze": {
@@ -3782,8 +3787,8 @@
       "condition": "味噌神社でおみくじを引く"
     },
     "big_red_factory": {
-      "name": "深紅の捕食者",
-      "description": "ケーキのエフェクトになるのはよくないアイデアだったかもしれない",
+      "name": "Insatiable Scarlet",
+      "description": "You could have at least said \"hi\"...",
       "condition": "廃工場の赤口に食べられる"
     },
     "twintail_chan_marginal": {
@@ -4012,8 +4017,8 @@
       "condition": "ネリウムラボで猛毒乙女の末路を見届ける"
     },
     "herb_cat_pls_street": {
-      "name": "ネコ吸い",
-      "description": "穏やかな一服",
+      "name": "Catnip",
+      "description": "It'll all be better soon.",
       "condition": "歓楽通りの猫カフェで猫耳店主に話しかける"
     },
     "mouse_furnace_pls_street": {
@@ -6261,6 +6266,36 @@
       "name": "好奇心を掻き立てる博物館",
       "description": "ようこそ博物館へ！",
       "condition": "奇妙な博物館の中を見て回り、すべての接続を解放する"
+    },
+    "maiko_effect": {
+      "name": "Show Some Respect",
+      "description": "A little gesture goes a long way!",
+      "condition": "Obtain the Maiko effect. If you have already unlocked it, return inside the Shinto Shrine."
+    },
+    "light_graveyard_of _rep": {
+      "name": "Danger Prediction",
+      "description": "No open flames allowed!",
+      "condition": "Use the Lantern effect in the pink room of Graveyard of Repentance"
+    },
+    "kagami_mochi_golden_sunset": {
+      "name": "Kagami Uro",
+      "description": "Mochiii~ so cute!!!",
+      "condition": "Equip the Kagami Mochi mask in Golden Sunset Estate"
+    },
+    "sheep_mask": {
+      "name": "Sheep Asleep",
+      "description": "I wonder if it’s counting sheep?",
+      "condition": "Equip the sheep mask in Urotsuki's Dream Apartments"
+    },
+    "menu_styles_nerium_lab": {
+      "name": "Nerium Girls",
+      "description": "Girls... pretty...",
+      "condition": "Try the two menu styles at the Nerium Lab"
+    },
+    "rose_factory": {
+      "name": "Resilient Roses",
+      "description": "\"Amidst the myriads of mechanizations scattered inside this factory, rosebuds grew on the edge of light, the light of the sunsetting sky.\"",
+      "condition": "Visit Rose Factory"
     }
   },
   "unconscious": {
@@ -7268,6 +7303,11 @@
       "name": "ゴッドスピード・ユー!・シンソク・カイブツ",
       "description": "エナドリ飲みすぎたのかな……",
       "condition": "血液広間で神速のカイブツに捕まる"
+    },
+    "plant_action_flow": {
+      "name": "Floral Lungs",
+      "description": "Blegh.",
+      "condition": "Trigger the Plant effect's action in a rainy place"
     }
   },
   "prayers": {
@@ -8010,6 +8050,11 @@
       "name": "作り笑い",
       "description": "痛みをこらえて笑っても、何の解決にもならない。",
       "condition": "Corroded Dreamで口から血を流している女性が映ったテレビを見る"
+    },
+    "anglerfish_the_abyss": {
+      "name": "Abyssal Lurker",
+      "description": "Do not fear the dark ocean depths, fear what hides within them.",
+      "condition": "Reveal the anglerfish in The Abyss"
     }
   },
   "braingirl": {
@@ -9293,6 +9338,25 @@
       "name": "悪意に満ちた記憶",
       "description": "彼らが無事だったらいいな。",
       "condition": "Vampirismのエフェクトを入手する、すでに入手している場合はGloomy Wetlandsの隔離エリアの見つけた場所に行く。"
+    },
+    "cardboard_basement_world": {
+      "name": "Secret Hideout",
+      "description": "They love their bunnies!",
+      "condition": "Reach the cartoon head guy in Basement World"
+    },
+    "sleepy_electro_metro": {
+      "name": "You're Electric!",
+      "description": "Can they stop glowing like that it's kind of creeping me out",
+      "condition": "Find the person sleeping in the workshop of Metro Zone and the head honcho of Electro Tower",
+      "checkbox": {
+        "sleepy_metro": "Find the person sleeping in the workshop of Metro Zone",
+        "sleepy_electro": "the head honcho of Electro Tower"
+      }
+    },
+    "radon_noble_gas_district": {
+      "name": "Jar o' Radon",
+      "description": "100% safe to ingest! Who doesn't love a free sample?",
+      "condition": "Buy a radon from the vending machine in the Noble Gas District"
     }
   },
   "tsushin": {
@@ -9447,8 +9511,8 @@
       "condition": "Body Part ExhibitionでGoth Dressのエフェクトを取得する"
     },
     "bar_ancient_civilization": {
-      "name": "古代の飲料",
-      "description": "価値のある飲み物です！",
+      "name": "Cheers!",
+      "description": "It's orange juice!",
       "condition": "Ancient Civilizationのbarに到達する"
     },
     "microwave_library": {

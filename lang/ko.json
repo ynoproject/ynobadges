@@ -505,6 +505,11 @@
       "name": "Shiny Knife",
       "description": "You can see your reflection in the blade",
       "condition": "Obtain the Kitchen Knife effect. If you have already unlocked it, return to Dark World."
+    },
+    "nasu_ruby": {
+      "name": "Consolation Prize",
+      "description": "A cheap award made of plastic",
+      "condition": "Score exactly 290 points in the secret mode of NASU"
     }
   },
   "2kki": {
@@ -1218,8 +1223,8 @@
       "condition": "Mini-Town에 입장하기"
     },
     "block_person": {
-      "name": "블록 인간",
-      "description": "내가 블록 인간이라니!?",
+      "name": "Goofy Block",
+      "description": "I'm a goofy block! (yeah!)",
       "condition": "Red Brick Maze에서 블록 인간으로 변신하기"
     },
     "madotsukis_room": {
@@ -1355,8 +1360,8 @@
       "condition": "Clandestine Research Laboratory에 도달하기"
     },
     "mysterious_maid": {
-      "name": "신비로운 메이드",
-      "description": "그녀는 누군가와 묘하게 닮았다...",
+      "name": "Omnipresent Maid",
+      "description": "A mysterious lady wandering through your dreams.",
       "condition": "Hospital, Sky Kingdom, Train Tracks, Construction Frame Building 에 있는 모든 신비로운 메이드(Mysterious Maid) NPC를 찾아 상호작용하기",
       "checkbox": {
         "m_m_hospital": "Hospital",
@@ -2245,8 +2250,8 @@
       "condition": "Rose Church의 메인 구역에 도달하기"
     },
     "shadow_forest": {
-      "name": "그늘진 숲",
-      "description": "왜 다시 돌아온 거야?",
+      "name": "The Ladies' Secret Forest",
+      "description": "They say that the forest has secrets behind its thin layer of forest wall.",
       "condition": "Shadow Woman Forest 이벤트를 보기"
     },
     "spring_breeze": {
@@ -3761,8 +3766,8 @@
       "condition": "Shinto Shrine에서 운세를 뽑기"
     },
     "big_red_factory": {
-      "name": "선홍색의 포식자",
-      "description": "케이크 이펙트를 가지고 있는 게 안 좋은 생각이라는 건 알고 있었는데",
+      "name": "Insatiable Scarlet",
+      "description": "You could have at least said \"hi\"...",
       "condition": "Abandoned Factory에서 커다란 붉은 것과 마주치기"
     },
     "twintail_chan_marginal": {
@@ -3996,8 +4001,8 @@
       "condition": "Trigger the Toxic Corruption event in Nerium Lab"
     },
     "herb_cat_pls_street": {
-      "name": "Tranquil Cat",
-      "description": "Quietly smoking, thinking of nothing",
+      "name": "Catnip",
+      "description": "It'll all be better soon.",
       "condition": "Interact with the cat-like creature in the Coffee Shop on Pleasure Street"
     },
     "mouse_furnace_pls_street": {
@@ -6245,6 +6250,36 @@
       "name": "Curious Museum",
       "description": "Welcome to the museum!",
       "condition": "Visit the inside of the Museum of Curiosities and unlock all of its connections"
+    },
+    "maiko_effect": {
+      "name": "Show Some Respect",
+      "description": "A little gesture goes a long way!",
+      "condition": "Obtain the Maiko effect. If you have already unlocked it, return inside the Shinto Shrine."
+    },
+    "light_graveyard_of _rep": {
+      "name": "Danger Prediction",
+      "description": "No open flames allowed!",
+      "condition": "Use the Lantern effect in the pink room of Graveyard of Repentance"
+    },
+    "kagami_mochi_golden_sunset": {
+      "name": "Kagami Uro",
+      "description": "Mochiii~ so cute!!!",
+      "condition": "Equip the Kagami Mochi mask in Golden Sunset Estate"
+    },
+    "sheep_mask": {
+      "name": "Sheep Asleep",
+      "description": "I wonder if it’s counting sheep?",
+      "condition": "Equip the sheep mask in Urotsuki's Dream Apartments"
+    },
+    "menu_styles_nerium_lab": {
+      "name": "Nerium Girls",
+      "description": "Girls... pretty...",
+      "condition": "Try the two menu styles at the Nerium Lab"
+    },
+    "rose_factory": {
+      "name": "Resilient Roses",
+      "description": "\"Amidst the myriads of mechanizations scattered inside this factory, rosebuds grew on the edge of light, the light of the sunsetting sky.\"",
+      "condition": "Visit Rose Factory"
     }
   },
   "unconscious": {
@@ -7252,6 +7287,11 @@
       "name": "Godspeed You! Shinsoku Kaibutsu",
       "description": "I think they've had one energy drink too many...",
       "condition": "Get caught by the Shinsoku Kaibutsu in the Blood Maze"
+    },
+    "plant_action_flow": {
+      "name": "Floral Lungs",
+      "description": "Blegh.",
+      "condition": "Trigger the Plant effect's action in a rainy place"
     }
   },
   "prayers": {
@@ -7994,6 +8034,11 @@
       "name": "False Smile",
       "description": "Smiling through the pain won't help.",
       "condition": "See the TV with the woman with the bleeding mouth in Corroded Dream"
+    },
+    "anglerfish_the_abyss": {
+      "name": "Abyssal Lurker",
+      "description": "Do not fear the dark ocean depths, fear what hides within them.",
+      "condition": "Reveal the anglerfish in The Abyss"
     }
   },
   "braingirl": {
@@ -9277,6 +9322,25 @@
       "name": "Malicious Memory",
       "description": "I hope they're alright.",
       "condition": "Obtain the Vampirism effect. If you have already unlocked it, return where it can be found in the isolated section of Gloomy Wetlands."
+    },
+    "cardboard_basement_world": {
+      "name": "Secret Hideout",
+      "description": "They love their bunnies!",
+      "condition": "Reach the cartoon head guy in Basement World"
+    },
+    "sleepy_electro_metro": {
+      "name": "You're Electric!",
+      "description": "Can they stop glowing like that it's kind of creeping me out",
+      "condition": "Find the person sleeping in the workshop of Metro Zone and the head honcho of Electro Tower",
+      "checkbox": {
+        "sleepy_metro": "Find the person sleeping in the workshop of Metro Zone",
+        "sleepy_electro": "the head honcho of Electro Tower"
+      }
+    },
+    "radon_noble_gas_district": {
+      "name": "Jar o' Radon",
+      "description": "100% safe to ingest! Who doesn't love a free sample?",
+      "condition": "Buy a radon from the vending machine in the Noble Gas District"
     }
   },
   "tsushin": {
@@ -9431,8 +9495,8 @@
       "condition": "Obtain the Goth Dress effect. If you have already unlocked it, return to Body Part Exhibition."
     },
     "bar_ancient_civilization": {
-      "name": "Ancient Gear Drink",
-      "description": "A drink of high value!",
+      "name": "Cheers!",
+      "description": "It's orange juice!",
       "condition": "Visit the bar in Ancient Civilization"
     },
     "microwave_library": {

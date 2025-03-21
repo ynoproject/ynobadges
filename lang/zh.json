@@ -505,6 +505,11 @@
       "name": "Shiny Knife",
       "description": "You can see your reflection in the blade",
       "condition": "Obtain the Kitchen Knife effect. If you have already unlocked it, return to Dark World."
+    },
+    "nasu_ruby": {
+      "name": "Consolation Prize",
+      "description": "A cheap award made of plastic",
+      "condition": "Score exactly 290 points in the secret mode of NASU"
     }
   },
   "2kki": {
@@ -1218,8 +1223,8 @@
       "condition": "进入Mini Town"
     },
     "block_person": {
-      "name": "方块人",
-      "description": "我方了？！",
+      "name": "Goofy Block",
+      "description": "I'm a goofy block! (yeah!)",
       "condition": "在Red Brick Maze里变身方块人"
     },
     "madotsukis_room": {
@@ -1355,8 +1360,8 @@
       "condition": "进入Clandestine Research Laboratory"
     },
     "mysterious_maid": {
-      "name": "神秘女仆",
-      "description": "她与某人有种奇怪的相似之处...",
+      "name": "Omnipresent Maid",
+      "description": "A mysterious lady wandering through your dreams.",
       "condition": "在以下每个地方找到神秘女仆并与其互动: Hospital, Sky Kingdom, Train Tracks, Construction Frame Building",
       "checkbox": {
         "m_m_hospital": "Hospital",
@@ -2251,8 +2256,8 @@
       "condition": "踏入Rose Church的正厅"
     },
     "shadow_forest": {
-      "name": "暗影之林",
-      "description": "欢迎回来",
+      "name": "The Ladies' Secret Forest",
+      "description": "They say that the forest has secrets behind its thin layer of forest wall.",
       "condition": "回到Shadow Woman Forest"
     },
     "spring_breeze": {
@@ -3769,8 +3774,8 @@
       "condition": "在Shinto Shrine进行梦占卜"
     },
     "big_red_factory": {
-      "name": "猩红吞噬者",
-      "description": "我就知道有个蛋糕效果不是好事",
+      "name": "Insatiable Scarlet",
+      "description": "You could have at least said \"hi\"...",
       "condition": "在Abandoned Factory遇到Big Red"
     },
     "twintail_chan_marginal": {
@@ -4004,8 +4009,8 @@
       "condition": "在Nerium Lab触发Toxic Corruption事件"
     },
     "herb_cat_pls_street": {
-      "name": "安静的猫",
-      "description": "静静地吸烟，什么也不想",
+      "name": "Catnip",
+      "description": "It'll all be better soon.",
       "condition": "在Pleasure Street的咖啡店里和猫形生物互动"
     },
     "mouse_furnace_pls_street": {
@@ -6259,6 +6264,36 @@
       "name": "Curious Museum",
       "description": "Welcome to the museum!",
       "condition": "Visit the inside of the Museum of Curiosities and unlock all of its connections"
+    },
+    "maiko_effect": {
+      "name": "Show Some Respect",
+      "description": "A little gesture goes a long way!",
+      "condition": "Obtain the Maiko effect. If you have already unlocked it, return inside the Shinto Shrine."
+    },
+    "light_graveyard_of _rep": {
+      "name": "Danger Prediction",
+      "description": "No open flames allowed!",
+      "condition": "Use the Lantern effect in the pink room of Graveyard of Repentance"
+    },
+    "kagami_mochi_golden_sunset": {
+      "name": "Kagami Uro",
+      "description": "Mochiii~ so cute!!!",
+      "condition": "Equip the Kagami Mochi mask in Golden Sunset Estate"
+    },
+    "sheep_mask": {
+      "name": "Sheep Asleep",
+      "description": "I wonder if it’s counting sheep?",
+      "condition": "Equip the sheep mask in Urotsuki's Dream Apartments"
+    },
+    "menu_styles_nerium_lab": {
+      "name": "Nerium Girls",
+      "description": "Girls... pretty...",
+      "condition": "Try the two menu styles at the Nerium Lab"
+    },
+    "rose_factory": {
+      "name": "Resilient Roses",
+      "description": "\"Amidst the myriads of mechanizations scattered inside this factory, rosebuds grew on the edge of light, the light of the sunsetting sky.\"",
+      "condition": "Visit Rose Factory"
     }
   },
   "unconscious": {
@@ -7266,6 +7301,11 @@
       "name": "Godspeed You! Shinsoku Kaibutsu",
       "description": "I think they've had one energy drink too many...",
       "condition": "Get caught by the Shinsoku Kaibutsu in the Blood Maze"
+    },
+    "plant_action_flow": {
+      "name": "Floral Lungs",
+      "description": "Blegh.",
+      "condition": "Trigger the Plant effect's action in a rainy place"
     }
   },
   "prayers": {
@@ -8008,6 +8048,11 @@
       "name": "假笑",
       "description": "实际上微笑不能减少你的痛苦。",
       "condition": "在Corroded Dream的电视上看到口吐鲜血的女人"
+    },
+    "anglerfish_the_abyss": {
+      "name": "Abyssal Lurker",
+      "description": "Do not fear the dark ocean depths, fear what hides within them.",
+      "condition": "Reveal the anglerfish in The Abyss"
     }
   },
   "braingirl": {
@@ -9291,6 +9336,25 @@
       "name": "恶意的记忆",
       "description": "我希望他们还好。",
       "condition": "获得吸血效果。若已获得，请返回Gloomy Wetlands中获得它的地方。"
+    },
+    "cardboard_basement_world": {
+      "name": "Secret Hideout",
+      "description": "They love their bunnies!",
+      "condition": "Reach the cartoon head guy in Basement World"
+    },
+    "sleepy_electro_metro": {
+      "name": "You're Electric!",
+      "description": "Can they stop glowing like that it's kind of creeping me out",
+      "condition": "Find the person sleeping in the workshop of Metro Zone and the head honcho of Electro Tower",
+      "checkbox": {
+        "sleepy_metro": "Find the person sleeping in the workshop of Metro Zone",
+        "sleepy_electro": "the head honcho of Electro Tower"
+      }
+    },
+    "radon_noble_gas_district": {
+      "name": "Jar o' Radon",
+      "description": "100% safe to ingest! Who doesn't love a free sample?",
+      "condition": "Buy a radon from the vending machine in the Noble Gas District"
     }
   },
   "tsushin": {
@@ -9445,8 +9509,8 @@
       "condition": "在White DesertBody Part Exhibition获得哥特裙子效果"
     },
     "bar_ancient_civilization": {
-      "name": "Ancient Gear Drink",
-      "description": "高价饮料！",
+      "name": "Cheers!",
+      "description": "It's orange juice!",
       "condition": "到达Ancient Civilization的酒吧"
     },
     "microwave_library": {
