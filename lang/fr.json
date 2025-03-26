@@ -571,20 +571,21 @@
     },
     "neon_highway": {
       "name": "Souvenir néon",
-      "condition": "Aller dans le Neon Highway"
+      "condition": "Visiter le Neon Highway"
     },
     "crying_eyes": {
       "name": "100 pleurs",
       "description": "Ils ont tout vu.",
-      "condition": "Utiliser l'effet Bombe-Œil dans la Cavernes aux Yeux en Pleurs dans le Cloudy World"
+      "condition": "Utiliser l'effet Bombe-Œil dans la Cavernes aux Yeux en Pleurs au Cloudy World"
     },
     "black_king": {
       "name": "Roi noir",
-      "condition": "Entrer dans le plateau d'échec du Chess World"
+      "condition": "Aller au plateau d'échec du Chess World"
     },
     "silver_whale": {
-      "name": "Océan argenté",
-      "condition": "Repérer une baleine dans le Silver Mansion"
+      "name": "Baleine argentée",
+      "description": "Nageant éternellement dans un bassin intergalactique sans fin.",
+      "condition": "Trouver la baleine dans le Silver Mansion"
     },
     "obentou": {
       "name": "Obentou",
@@ -856,7 +857,8 @@
       "condition": "Atteindre la salle finale dans la Rusted Factory en {TIME} ou moins en course contre-la-montre"
     },
     "sea_lily": {
-      "name": "Nénuphar arc-en-ciel",
+      "name": "Lys de mer brillant",
+      "description": "Des crinoïdes branchés et vifs !",
       "condition": "Atteindre Sea Lily World"
     },
     "noranyan": {
