@@ -505,6 +505,11 @@
       "name": "Shiny Knife",
       "description": "You can see your reflection in the blade",
       "condition": "Obtain the Kitchen Knife effect. If you have already unlocked it, return to Dark World."
+    },
+    "nasu_ruby": {
+      "name": "Consolation Prize",
+      "description": "A cheap award made of plastic",
+      "condition": "Score exactly 290 points in the secret mode of NASU"
     }
   },
   "2kki": {
@@ -1218,8 +1223,8 @@
       "condition": "进入Mini Town"
     },
     "block_person": {
-      "name": "方块人",
-      "description": "我方了？！",
+      "name": "Goofy Block",
+      "description": "I'm a goofy block! (yeah!)",
       "condition": "在Red Brick Maze里变身方块人"
     },
     "madotsukis_room": {
@@ -1355,8 +1360,8 @@
       "condition": "进入Clandestine Research Laboratory"
     },
     "mysterious_maid": {
-      "name": "神秘女仆",
-      "description": "她与某人有种奇怪的相似之处...",
+      "name": "Omnipresent Maid",
+      "description": "A mysterious lady wandering through your dreams.",
       "condition": "在以下每个地方找到神秘女仆并与其互动: Hospital, Sky Kingdom, Train Tracks, Construction Frame Building",
       "checkbox": {
         "m_m_hospital": "Hospital",
@@ -2251,8 +2256,8 @@
       "condition": "踏入Rose Church的正厅"
     },
     "shadow_forest": {
-      "name": "暗影之林",
-      "description": "欢迎回来",
+      "name": "The Ladies' Secret Forest",
+      "description": "They say that the forest has secrets behind its thin layer of forest wall.",
       "condition": "回到Shadow Woman Forest"
     },
     "spring_breeze": {
@@ -3769,8 +3774,8 @@
       "condition": "在Shinto Shrine进行梦占卜"
     },
     "big_red_factory": {
-      "name": "猩红吞噬者",
-      "description": "我就知道有个蛋糕效果不是好事",
+      "name": "Insatiable Scarlet",
+      "description": "You could have at least said \"hi\"...",
       "condition": "在Abandoned Factory遇到Big Red"
     },
     "twintail_chan_marginal": {
@@ -4004,8 +4009,8 @@
       "condition": "在Nerium Lab触发Toxic Corruption事件"
     },
     "herb_cat_pls_street": {
-      "name": "安静的猫",
-      "description": "静静地吸烟，什么也不想",
+      "name": "Catnip",
+      "description": "It'll all be better soon.",
       "condition": "在Pleasure Street的咖啡店里和猫形生物互动"
     },
     "mouse_furnace_pls_street": {
@@ -5997,7 +6002,7 @@
     "girl_dream_precint": {
       "name": "报复",
       "description": "保护你珍视的人们",
-      "condition": "在Dream Precint用链锯袭击绿发围巾女孩"
+      "condition": "Chainsaw the leader with turquoise hair in Dream Precinct"
     },
     "creature_downfall_garden_a": {
       "name": "揉捏者",
@@ -6121,10 +6126,9 @@
       "description": "Oops! I didn't mean to disturb the cat's sleep.",
       "condition": "Interact with the cat at Sweet Pink Docks"
     },
-    "scarf_dream_precint": {
-      "name": "Retaliation",
-      "description": "Protect your loved ones",
-      "condition": "Chainsaw the turquoise-haired girl with a scarf in Dream Precint"
+    "tower_animism": {
+      "name": "Apocalyptic Megalopolis",
+      "condition": "Pan up to see the sky tower in Animism"
     },
     "king_serpentine_pyramid": {
       "name": "This Pleases The King",
@@ -6135,6 +6139,161 @@
       "name": "Colorful Canine Costume",
       "description": "The colors, Urotsuki! The colors!",
       "condition": "Equip the Rainbow + Wolf mask in Binding Site"
+    },
+    "patchwork_playroom_spin": {
+      "name": "Roundabout",
+      "condition": "Use the Fairy or Spacesuit effects near the duo in the Patchwork Playroom of The Pansy Path"
+    },
+    "water_edge_check_park": {
+      "name": "Ultramarine Chamber",
+      "condition": "Reach the Blue Checkered Park in Water's Edge"
+    },
+    "faceless_endless_apartments": {
+      "name": "Inner Turmoil",
+      "description": "What is it that you're hiding from?",
+      "condition": "Encounter Faceless Urotsuki in Endless Apartments"
+    },
+    "smiley_face_deck_rave": {
+      "name": "Ecstasy Overload",
+      "description": "TURN THAT FROWN UPSIDE DOWN =)",
+      "condition": "Trigger the DECK RAVE event in Smiley Face DECK"
+    },
+    "ghosts_pumpkin_city": {
+      "name": "Ghoulish Foolery",
+      "description": "Grim grinning ghosts come out to socialize!",
+      "condition": "View all of the ghosts' reactions in Pumpkin City"
+    },
+    "tsugihagi_kun_patchwork": {
+      "name": "Tsugihagi-kun",
+      "description": "Patch it out!",
+      "condition": "Equip the Tsugihagi-kun mask in the Patchwork Playroom of The Pansy Path"
+    },
+    "roux_art_exposition": {
+      "name": "Eye of the Beholder",
+      "description": "\"The human body is like a piece of art: many adore it, but the owner loathes it.\" -T",
+      "condition": "Find the warped painting of Urotsuki in the Art Exposition"
+    },
+    "sea_sponge_path": {
+      "name": "Lumen Cove",
+      "description": "Where the light meets the sea",
+      "condition": "Reach the Sea Sponge Path of Star Ocean"
+    },
+    "sunken_paradise": {
+      "name": "Abyssal Veil",
+      "condition": "Visit the Sunken Paradise"
+    },
+    "2kki_menu_44": {
+      "name": "Village of the Resting Stars",
+      "description": "\"Even in desolate areas, life still finds its way to bloom its way forth.\"",
+      "condition": "Obtain the menu type 44. If you have already unlocked it, return where it can be found in Pastel Chalk World."
+    },
+    "wind_tunnel": {
+      "name": "Spinner Tunnel",
+      "description": "If the wind can make this spin, how strong is the wind?",
+      "condition": "Visit the Wind Tunnel"
+    },
+    "bathhouse_hop_springs": {
+      "name": "The Warmest Pond",
+      "description": "Oh, to be a frog in a hot spring...",
+      "condition": "Visit the bathhouse area in Hop Springs"
+    },
+    "crab_dog_beach_b_inf": {
+      "name": "They're Crab Dogs!",
+      "description": "They're... crogs...? Dabs...??",
+      "condition": "Reach the Crab Dog Beach of Beachside Infirmary"
+    },
+    "sunset_pastel_dream_sea": {
+      "name": "Fabricated Peace",
+      "description": "A peaceful sunset awaits you at the end of the maze... but is it really peaceful?",
+      "condition": "See the sunset in the Sargat Layer of Pastel Dream Sea"
+    },
+    "girl_communal_workspace": {
+      "name": "Lone Musician",
+      "condition": "Reach the room of the girl in Communal Workspace"
+    },
+    "rainbow_fox_paper_jungle": {
+      "name": "Jungle's Only Bartender",
+      "description": "Are those drinks made out of paper too?",
+      "condition": "Enter the house of the Rainbow Kitsune in Paper Jungle"
+    },
+    "bath_keeper_hop_springs": {
+      "name": "CEO's Inconveniently Located Bathhouse",
+      "description": "\"Miss Client, if you're not renting our services, kindly retire yourself from our establishment.\"",
+      "condition": "See all of the reactions of the bath keeper in Hop Springs"
+    },
+    "alien_mask_alien_wasteland": {
+      "name": "Extraterrestrial Creature",
+      "condition": "Equip the alien mask in Alien Wasteland"
+    },
+    "rabbelle_mask_hellish_village": {
+      "name": "The Beautiful Bunny",
+      "description": "Locked away in a cage far from all",
+      "condition": "Equip the Rabbelle mask in the bird cage of Hellish Village"
+    },
+    "cheese_lady_cheese_world": {
+      "name": "A Tiny, Tiny, Clever Commander",
+      "description": "\"They say that cheese just can't compare to certain other red foods.\"",
+      "condition": "Equip the cheese lady mask in Cheese World"
+    },
+    "church_legacy_nexus": {
+      "name": "The Monochrome Church",
+      "description": "A lightless world lives among the purple sands",
+      "condition": "See the church in the Legacy Nexus"
+    },
+    "kiwi_mask_alien_wasteland": {
+      "name": "Kiwi",
+      "description": "Although flightless, it holds the power of creativity",
+      "condition": "Equip the Kiwi Painter mask in Alien Wasteland"
+    },
+    "bug_maid_worm_labyrinth": {
+      "name": "Mothra and Phillip",
+      "description": "Surrounded by fragrant light, I abandoned everything еxcept for you.",
+      "condition": "Interact with the bug maid in Worm Labyrinth"
+    },
+    "black_hole_legacy_of_ruin": {
+      "name": "Swirling...",
+      "description": "The singularity that eats away remnants of a ruined dream",
+      "condition": "Interact with the black hole in Legacy of Ruin"
+    },
+    "mask_storage_mask_tst_map": {
+      "name": "A Perfect End",
+      "description": "What could be a better reward after a journey like that",
+      "condition": "Equip the mask storage mask in TST MAP"
+    },
+    "museum_of_cur_connect": {
+      "name": "Curious Museum",
+      "description": "Welcome to the museum!",
+      "condition": "Visit the inside of the Museum of Curiosities and unlock all of its connections"
+    },
+    "maiko_effect": {
+      "name": "Show Some Respect",
+      "description": "A little gesture goes a long way!",
+      "condition": "Obtain the Maiko effect. If you have already unlocked it, return inside the Shinto Shrine."
+    },
+    "light_graveyard_of _rep": {
+      "name": "Danger Prediction",
+      "description": "No open flames allowed!",
+      "condition": "Use the Lantern effect in the pink room of Graveyard of Repentance"
+    },
+    "kagami_mochi_golden_sunset": {
+      "name": "Kagami Uro",
+      "description": "Mochiii~ so cute!!!",
+      "condition": "Equip the Kagami Mochi mask in Golden Sunset Estate"
+    },
+    "sheep_mask": {
+      "name": "Sheep Asleep",
+      "description": "I wonder if it’s counting sheep?",
+      "condition": "Equip the sheep mask in Urotsuki's Dream Apartments"
+    },
+    "menu_styles_nerium_lab": {
+      "name": "Nerium Girls",
+      "description": "Girls... pretty...",
+      "condition": "Try the two menu styles at the Nerium Lab"
+    },
+    "rose_factory": {
+      "name": "Resilient Roses",
+      "description": "\"Amidst the myriads of mechanizations scattered inside this factory, rosebuds grew on the edge of light, the light of the sunsetting sky.\"",
+      "condition": "Visit Rose Factory"
     }
   },
   "unconscious": {
@@ -6187,8 +6346,8 @@
       "condition": "到达Planetarium Garden"
     },
     "mr_pivoine_train_station": {
-      "name": "Monsieur Pivoine",
-      "description": "他很喜欢花，但特别是月季！",
+      "name": "Ticket to Ride",
+      "description": "All aboard!",
       "condition": "在Train Station的Monsieur Pivoine处买到火车票"
     },
     "people_palace_dungeon": {
@@ -6903,6 +7062,16 @@
       "name": "The Same Sunrise",
       "description": "... as it ever is",
       "condition": "Reach the Prince's Sunrise at the Faithful Shoals"
+    },
+    "april_september_sleep": {
+      "name": "Lengthy Slumber",
+      "description": "Just 5 more months...",
+      "condition": "Sleep from April into September"
+    },
+    "rooftop_stonelit_hollow": {
+      "name": "Sunset Summit",
+      "description": "An eternal dusk.",
+      "condition": "Reach the rooftop of Stonelit Hollow"
     }
   },
   "flow": {
@@ -6941,7 +7110,8 @@
       }
     },
     "dark_city": {
-      "name": "暗之都",
+      "name": "Psychedelic Visage",
+      "description": "A gift from a visitor from another plane of reality",
       "condition": "与Psychedelic Town的外星人互动。"
     },
     "red_eye": {
@@ -7131,6 +7301,11 @@
       "name": "Godspeed You! Shinsoku Kaibutsu",
       "description": "I think they've had one energy drink too many...",
       "condition": "Get caught by the Shinsoku Kaibutsu in the Blood Maze"
+    },
+    "plant_action_flow": {
+      "name": "Floral Lungs",
+      "description": "Blegh.",
+      "condition": "Trigger the Plant effect's action in a rainy place"
     }
   },
   "prayers": {
@@ -7182,8 +7357,8 @@
       "condition": "进入食物祈愿所在的房间。"
     },
     "submarine_cat_eyes": {
-      "name": "深海恐惧症",
-      "description": "凝视深渊过久，深渊将回以凝视。",
+      "name": "Cat Eyes",
+      "description": "Meow~",
       "condition": "见证Underwater Ship中的Cat Eyes Event事件。"
     },
     "lookout_point": {
@@ -7873,6 +8048,11 @@
       "name": "假笑",
       "description": "实际上微笑不能减少你的痛苦。",
       "condition": "在Corroded Dream的电视上看到口吐鲜血的女人"
+    },
+    "anglerfish_the_abyss": {
+      "name": "Abyssal Lurker",
+      "description": "Do not fear the dark ocean depths, fear what hides within them.",
+      "condition": "Reveal the anglerfish in The Abyss"
     }
   },
   "braingirl": {
@@ -8327,6 +8507,11 @@
       "name": "冬之色",
       "description": "在一个柔和的清晨里下着雪……",
       "condition": "抵达Pink Snowscape"
+    },
+    "bunny_first_steps": {
+      "name": "Muma and the Rabbits",
+      "description": "Would you like to be friends with me?",
+      "condition": "Lift one of the rabbits in First Steps"
     }
   },
   "genie": {
@@ -9151,6 +9336,25 @@
       "name": "恶意的记忆",
       "description": "我希望他们还好。",
       "condition": "获得吸血效果。若已获得，请返回Gloomy Wetlands中获得它的地方。"
+    },
+    "cardboard_basement_world": {
+      "name": "Secret Hideout",
+      "description": "They love their bunnies!",
+      "condition": "Reach the cartoon head guy in Basement World"
+    },
+    "sleepy_electro_metro": {
+      "name": "You're Electric!",
+      "description": "Can they stop glowing like that it's kind of creeping me out",
+      "condition": "Find the person sleeping in the workshop of Metro Zone and the head honcho of Electro Tower",
+      "checkbox": {
+        "sleepy_metro": "Find the person sleeping in the workshop of Metro Zone",
+        "sleepy_electro": "the head honcho of Electro Tower"
+      }
+    },
+    "radon_noble_gas_district": {
+      "name": "Jar o' Radon",
+      "description": "100% safe to ingest! Who doesn't love a free sample?",
+      "condition": "Buy a radon from the vending machine in the Noble Gas District"
     }
   },
   "tsushin": {
@@ -9305,8 +9509,8 @@
       "condition": "在White DesertBody Part Exhibition获得哥特裙子效果"
     },
     "bar_ancient_civilization": {
-      "name": "Ancient Gear Drink",
-      "description": "高价饮料！",
+      "name": "Cheers!",
+      "description": "It's orange juice!",
       "condition": "到达Ancient Civilization的酒吧"
     },
     "microwave_library": {

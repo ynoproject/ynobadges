@@ -505,6 +505,11 @@
       "name": "Lame aiguisée",
       "description": "Une lame aussi aiguisée que vos sens",
       "condition": "Obtenir l'effet Couteau. Si vous l'avez déjà obtenu, retournez au Dark World."
+    },
+    "nasu_ruby": {
+      "name": "Prix de consolation",
+      "description": "À ce prix-là, elle aurait pu être en chocolat...",
+      "condition": "Marquer exactement 290 points dans le mode secret de NASU"
     }
   },
   "2kki": {
@@ -1218,8 +1223,8 @@
       "condition": "Entrer dans Mini-Town"
     },
     "block_person": {
-      "name": "Bloc sur pattes",
-      "description": "Je me suis transformé en un bloc sur pattes ?!",
+      "name": "Rigobloc",
+      "description": "Je suis un rigobloc ! (Yahou !)",
       "condition": "Se transformer en bloc sur patte dans le Red Brick Maze"
     },
     "madotsukis_room": {
@@ -1355,8 +1360,8 @@
       "condition": "Entrer dans le Clandestine Research Laboratory"
     },
     "mysterious_maid": {
-      "name": "Mystérieuse Domestique",
-      "description": "Elle porte une étrange ressemblance avec quelqu'un...",
+      "name": "Servante omniprésente",
+      "description": "Une mystérieuse dame se baladant dans vos rêves.",
       "condition": "Trouver et interagir avec la Mystérieuse domestique dans chacun des lieux suivants : Hospital, Sky Kingdom, Train Tracks, Construction Frame Building",
       "checkbox": {
         "m_m_hospital": "Hospital",
@@ -2250,8 +2255,8 @@
       "condition": "Entrer dans la salle principale de la Rose Church"
     },
     "shadow_forest": {
-      "name": "Shadow Forest",
-      "description": "Pourquoi es-tu revenue ?",
+      "name": "La forêt secrète des dames",
+      "description": "Il est dit que la forêt cache des secrets derrière ses fines couches de murs d'arbres.",
       "condition": "Entrer dans la Shadow Woman Forest"
     },
     "spring_breeze": {
@@ -3766,8 +3771,8 @@
       "condition": "Recevoir une bénédiction onrique au Shinto Shrine"
     },
     "big_red_factory": {
-      "name": "Dévoreur écarlate",
-      "description": "Je savais qu'avoir l'effet Gâteau sur moi ne serait pas une bonne idée...",
+      "name": "Insatiable être écarlate",
+      "description": "T'aurais au moins pu dire bonjour...",
       "condition": "Rencontrer le Grand Rouge dans l'Abandoned Factory"
     },
     "twintail_chan_marginal": {
@@ -3997,8 +4002,8 @@
       "condition": "Déclencher l'événement de Corruption toxique dans le Nerium Lab"
     },
     "herb_cat_pls_street": {
-      "name": "Chat tranquille",
-      "description": "Fumant tranquillement, ne pensant à rien",
+      "name": "Juste une p'tite chieste...",
+      "description": "Tout ira mieux bientôt.",
       "condition": "Interagir avec la créature semblable à un chat au Café de la Pleasure Street"
     },
     "mouse_furnace_pls_street": {
@@ -5984,7 +5989,7 @@
     "girl_dream_precint": {
       "name": "Représailles",
       "description": "Protège tes bien-aimés",
-      "condition": "Tronçonner la fille aux cheveux turquoises avec une écharpe au Dream Precint"
+      "condition": "Tronçonner la meneuse aux cheveux turquoises au Dream Precinct"
     },
     "creature_downfall_garden_a": {
       "name": "Le caresseur",
@@ -6108,10 +6113,9 @@
       "description": "Oups ! Je ne voulais pas déranger le chat pendant sa sieste...",
       "condition": "Interagir avec le chat aux Sweet Pink Docks"
     },
-    "scarf_dream_precint": {
-      "name": "Représailles",
-      "description": "Protège tes bien-aimés",
-      "condition": "Tronçonner la fille aux cheveux turquoises avec une écharpe au Dream Precint"
+    "tower_animism": {
+      "name": "Mégalopole apocalyptique",
+      "condition": "Admirer la tour à Animism"
     },
     "king_serpentine_pyramid": {
       "name": "Cela satisfait Sa Majesté",
@@ -6122,6 +6126,161 @@
       "name": "Costume canin coloré",
       "description": "Les couleurs, Urotsuki! Les couleurs ! Vives... et colorées !",
       "condition": "Équiper le masque Arc-En-Ciel + Loup au Binding Site"
+    },
+    "patchwork_playroom_spin": {
+      "name": "La tête qui tourne",
+      "condition": "Utiliser l'effet Fée ou Astronaute à côté du duo dans la Salle de Jeux Patchwork de The Pansy Path"
+    },
+    "water_edge_check_park": {
+      "name": "Chambre bleue outremer",
+      "condition": "Atteindre le Parc à Carreaux Bleus au Water's Edge"
+    },
+    "faceless_endless_apartments": {
+      "name": "Trouble interne",
+      "description": "De quoi essayes-tu de te cacher ?",
+      "condition": "Rencontrer l'Urotsuki sans visage aux Endless Apartments"
+    },
+    "smiley_face_deck_rave": {
+      "name": "Surcharge d'extase",
+      "description": "FAIS TA MOUE À L'ENVERS =)",
+      "condition": "Déclencher l'événement de la RAVE PAQUET au Smiley Face DECK"
+    },
+    "ghosts_pumpkin_city": {
+      "name": "Farces fantomatiques",
+      "description": "De sombres spectres souriants sortent pour socialiser !",
+      "condition": "Voir toutes les réactions des fantômes à la Pumpkin City"
+    },
+    "tsugihagi_kun_patchwork": {
+      "name": "Tsugihagi-kun",
+      "description": "Recouds-moi ça !",
+      "condition": "Équiper le masque Tsugihagi-kun dans la Salle de Jeux Patchwork de The Pansy Path"
+    },
+    "roux_art_exposition": {
+      "name": "Œil de l'observateur",
+      "description": "« Le corps humain est comme une œuvre d'art : nombreux sont ces admirateurs, mais son créateur ne partage pas le même engouement. » -T. Uroh",
+      "condition": "Trouver la peinture distordue d'Urotsuki dans l'Art Exposition"
+    },
+    "sea_sponge_path": {
+      "name": "Crique du lumen",
+      "description": "Là où la lumière rencontre la mer",
+      "condition": "Atteindre le Passage Éponge de Mer au Star Ocean"
+    },
+    "sunken_paradise": {
+      "name": "Voile abyssal",
+      "condition": "Visiter le Sunken Paradise"
+    },
+    "2kki_menu_44": {
+      "name": "Refuge des étoiles retraitées",
+      "description": "« Même dans des lieux désolés, la vie trouve toujours de quoi se frayer un chemin pour briller. »",
+      "condition": "Obtenir le style de menu 44. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Pastel Chalk World."
+    },
+    "wind_tunnel": {
+      "name": "Tunnel des tourniquets",
+      "description": "Si le vent arrive à les faire tourner, à quel point est-il fort ?",
+      "condition": "Visiter le Wind Tunnel"
+    },
+    "bathhouse_hop_springs": {
+      "name": "La mare la plus chaude",
+      "description": "Oh, être une grenouille dans une source chaude...",
+      "condition": "Visiter la zone des bains publics aux Hop Springs"
+    },
+    "crab_dog_beach_b_inf": {
+      "name": "Ce sont des crabe-chiens !",
+      "description": "Ce sont des criens ? Ou des chabes... ??",
+      "condition": "Atteindre la Plage des Crabe-chiens à la Beachside Infirmary"
+    },
+    "sunset_pastel_dream_sea": {
+      "name": "Paix faite de toute pièce",
+      "description": "Un paisible couche de soleil vous attend à la fin du labyrinthe... mais est-il vraiment si paisible ?",
+      "condition": "Voir le coucher de soleil de la Couche Sargat au Pastel Dream Sea"
+    },
+    "girl_communal_workspace": {
+      "name": "Musicienne isolée",
+      "condition": "Atteindre la chambre de la fille au Communal Workspace"
+    },
+    "rainbow_fox_paper_jungle": {
+      "name": "Le barman de la jungle",
+      "description": "Est-ce que ces boissons sont aussi faites de papier ?",
+      "condition": "Entrer dans la maison de la Renarde Arc-en-ciel à la Paper Jungle"
+    },
+    "bath_keeper_hop_springs": {
+      "name": "Bains publics de la proprio mal placés",
+      "description": "« Chère demoiselle, si vous ne voulez pas de nos services, alors veuillez sagement partir de notre établissement. »",
+      "condition": "Voir toutes les réactions de la gérante des bains aux Hop Springs"
+    },
+    "alien_mask_alien_wasteland": {
+      "name": "Créature hors de ce monde",
+      "condition": "Équiper le masque alien à l'Alien Wasteland"
+    },
+    "rabbelle_mask_hellish_village": {
+      "name": "La maline lapine",
+      "description": "Enfermé dans une cage loin de tout",
+      "condition": "Équiper le masque Rabbelle dans la cage à oiseaux de l'Hellish Village"
+    },
+    "cheese_lady_cheese_world": {
+      "name": "La p'tite maestra maligne",
+      "description": "« Ils disent que le fromage ne vaut rien comparé à certains aliments rouges... »",
+      "condition": "Équiper le masque de la Dame Fromage au Cheese World"
+    },
+    "church_legacy_nexus": {
+      "name": "L'église monochrome",
+      "description": "Un monde sans lumière vit parmi les sables violets",
+      "condition": "Voir l'église au Legacy Nexus"
+    },
+    "kiwi_mask_alien_wasteland": {
+      "name": "Kiwi",
+      "description": "Avoir des plumes, c'est bien, les utiliser pour embellir le monde, c'est mieux !",
+      "condition": "Équiper le masque du Peintre Kiwi Alien Wasteland"
+    },
+    "bug_maid_worm_labyrinth": {
+      "name": "Nyx et Trix",
+      "description": "Entouré d'une douce lumière frangrante, j'ai tout abandonné pour toi.",
+      "condition": "Interagir avec la servante insecte au Worm Labyrinth"
+    },
+    "black_hole_legacy_of_ruin": {
+      "name": "Spiralant...",
+      "description": "La singularité qui dévore les restes d'un rêve ruiné",
+      "condition": "Interagir avec le trou noir à Legacy of Ruin"
+    },
+    "mask_storage_mask_tst_map": {
+      "name": "Une fin parfaite",
+      "description": "Après un tel voyage, y aurait-il pu avoir une meilleure récompense que ça ?",
+      "condition": "Équiper le masque du stockage de masques à la TST MAP"
+    },
+    "museum_of_cur_connect": {
+      "name": "Un musée des plus curieux",
+      "description": "Bienvenue dans notre musée !",
+      "condition": "Visiter l'intérieur du Museum of Curiosities et débloquer toutes ses connexions"
+    },
+    "maiko_effect": {
+      "name": "Démonstration respectueuse",
+      "description": "Un petit geste va de pair !",
+      "condition": "Obtenir l'effet Maiko. Si vous l'avez déjà obtenu, retournez à l'intérieur du Shinto Shrine."
+    },
+    "light_graveyard_of _rep": {
+      "name": "Prédiction du danger",
+      "description": "On laisse pas du feu à l'air libre, ici !",
+      "condition": "Utiliser l'effet Lanterne dans la pièce rose du Graveyard of Repentance"
+    },
+    "kagami_mochi_golden_sunset": {
+      "name": "Umochuki",
+      "description": "Un mochiii~ c'est trop chou !!!",
+      "condition": "Équiper le masque Kagami Mochi au Golden Sunset Estate"
+    },
+    "sheep_mask": {
+      "name": "Mouton au dodo",
+      "description": "J'me demande si il compte les moutons ?",
+      "condition": "Équiper le masque mouton aux Urotsuki's Dream Apartments"
+    },
+    "menu_styles_nerium_lab": {
+      "name": "Filles lauriers",
+      "description": "Wouah... elles sont jolies...",
+      "condition": "Essayer les deux styles de menu au Nerium Lab"
+    },
+    "rose_factory": {
+      "name": "Roses résistantes",
+      "description": "« Dans toute la pléthore de machins mécaniques éparpillés dans l'usine, des boutons de rose ont poussé à l'extrémité de la lumière, lumière crépusculaire. »",
+      "condition": "Visiter la Rose Factory"
     }
   },
   "unconscious": {
@@ -6174,8 +6333,8 @@
       "condition": "Visiter le Planetarium Garden"
     },
     "mr_pivoine_train_station": {
-      "name": "Monsieur Pivoine",
-      "description": "Son obsession pour les fleurs était telle que nous avons dû l'enfermer dans une station de train.",
+      "name": "Un ticket pour le train",
+      "description": "Allez, tous à bord !",
       "condition": "Acheter un ticket à Monsieur Pivoine à la Train Station"
     },
     "people_palace_dungeon": {
@@ -6890,6 +7049,16 @@
       "name": "La même aube",
       "description": "... comme elle a toujours été",
       "condition": "Atteindre l'Aube du Prince aux Faithful Shoals"
+    },
+    "april_september_sleep": {
+      "name": "Long roupillon",
+      "description": "J'suis fatigué... juste 5 mois de plus...",
+      "condition": "Dormir d'April vers September"
+    },
+    "rooftop_stonelit_hollow": {
+      "name": "Sommet du coucher de soleil",
+      "description": "Un crépuscule éternel.",
+      "condition": "Atteindre le toit de Stonelit Hollow"
     }
   },
   "flow": {
@@ -6928,7 +7097,8 @@
       }
     },
     "dark_city": {
-      "name": "Sombre ville",
+      "name": "Visage psychédélique",
+      "description": "Un cadeau provenant d'un visiteur d'un autre plan de l'existence",
       "condition": "Interagir avec l'alien dans la Psychedelic Town"
     },
     "red_eye": {
@@ -7118,6 +7288,11 @@
       "name": "Le chasseur le plus rapide de l'ouest - Shinsoku Kaibutsu",
       "description": "J'crois bien qu'il a pris trop de caféine...",
       "condition": "Se faire attraper par le Shinsoku Kaibutsu au Blood Maze"
+    },
+    "plant_action_flow": {
+      "name": "Poumons floraux",
+      "description": "Bleh.",
+      "condition": "Déclencher l'action de l'effet Plante dans un lieu pluvieux"
     }
   },
   "prayers": {
@@ -7169,8 +7344,8 @@
       "condition": "Entrer dans la salle contenant la prière Nourriture"
     },
     "submarine_cat_eyes": {
-      "name": "Thalassophobie",
-      "description": "Quand tu observes dans un abysse pour un long moment, l'abysse te regarde en retour.",
+      "name": "Yeux de chat",
+      "description": "Miaou~",
       "condition": "Voir l'événement de l'Underwater Ship Cat Eyes dans l'Underwater Ship"
     },
     "lookout_point": {
@@ -7860,6 +8035,11 @@
       "name": "Faux sourire",
       "description": "Sourire pour ignorer la souffrance ne marchera pas.",
       "condition": "Voir la télévision avec la femme à la bouche saignante au Corroded Dream"
+    },
+    "anglerfish_the_abyss": {
+      "name": "Rôdeur des abysses",
+      "description": "N'aie pas peur des ténèbres des profondeurs abyssales, aie peur de ce qui se cache en leurs seins.",
+      "condition": "Révéler le poisson-lanterne à The Abyss"
     }
   },
   "braingirl": {
@@ -8314,6 +8494,11 @@
       "name": "La couleur de l'hiver",
       "description": "Par une douce matinée, où la neige chutait...",
       "condition": "Visiter le Pink Snowscape"
+    },
+    "bunny_first_steps": {
+      "name": "Muma et les lapinous",
+      "description": "« Est-ce que vous voulez bien être mes amis ? »",
+      "condition": "Soulever l'un des lapins aux First Steps"
     }
   },
   "genie": {
@@ -9138,6 +9323,25 @@
       "name": "Mauvais souvenir",
       "description": "J'espère qu'ils vont bien.",
       "condition": "Obtenir l'effet Vampirisme. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé dans la section isolée des Gloomy Wetlands."
+    },
+    "cardboard_basement_world": {
+      "name": "Cachette secrète",
+      "description": "Il adore ses lapinous !",
+      "condition": "Voir le gars à la tête en carton au Basement World"
+    },
+    "sleepy_electro_metro": {
+      "name": "T'es électrisé !",
+      "description": "Ils peuvent pas arrêter de briller comme ça ça me fait peur",
+      "condition": "Trouver la personne dormant dans l'atelier de la Metro Zone et trouver le patron de l'Electro Tower",
+      "checkbox": {
+        "sleepy_metro": "Trouver la personne dormant dans l'atelier de la Metro Zone",
+        "sleepy_electro": "trouver le patron de l'Electro Tower"
+      }
+    },
+    "radon_noble_gas_district": {
+      "name": "Canette radieuse",
+      "description": "100% sans danger pour l'estomac ! Qui n'aime pas les échantillons gratuits ?",
+      "condition": "Acheter un radon du distributeur automatique au Noble Gas District"
     }
   },
   "tsushin": {
@@ -9292,8 +9496,8 @@
       "condition": "Obtenir l'effet Robe gothique. Si vous l'avez déjà obtenu, retournez au Body Part Exhibition."
     },
     "bar_ancient_civilization": {
-      "name": "Boisson d'un autre temps",
-      "description": "Une boisson à haute valeur, énergétique et économique !",
+      "name": "Santé !",
+      "description": "C'est du jus d'orange !",
       "condition": "Visiter le bar dans l'Ancient Civilization"
     },
     "microwave_library": {
