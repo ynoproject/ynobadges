@@ -593,7 +593,8 @@
       "condition": "平行四辺形チェスの大広間に到達する"
     },
     "silver_whale": {
-      "name": "シルバーオーシャン",
+      "name": "Silver Whale",
+      "description": "Eternally swimming in an intergalactic infinite pool.",
       "condition": "銀洋館でクジラを見る"
     },
     "obentou": {
@@ -866,7 +867,8 @@
       "condition": "Time Trial Modeで{TIME}以内に錆び果てた塔の果ての部屋に到達する"
     },
     "sea_lily": {
-      "name": "虹のウミユリ",
+      "name": "Sparkling Sea Lily",
+      "description": "Funky and vibrant crinoids!",
       "condition": "クリノイデアに到達する"
     },
     "noranyan": {
@@ -3332,8 +3334,8 @@
       "condition": "雪恋墓卵で漁船と宇宙を見る"
     },
     "doppelganger_room": {
-      "name": "静かなドッペルゲンガー",
-      "description": "ちょっと視点を変えてみよう",
+      "name": "My Reflection",
+      "description": "A haven of silence in the sea of noise",
       "condition": "鏡の夢部屋に到達する"
     },
     "hallucination_laboratory": {
@@ -5379,8 +5381,8 @@
       "condition": "バグ扉部屋イベントを見る。すでに見たことがある場合、扉部屋に戻る"
     },
     "hat_nexus_c_v_complete": {
-      "name": "シミュラクラ",
-      "description": "帽子…ええ、ただの\"帽子\"。それ以上のなにものでもない。",
+      "name": "Hat Collection",
+      "description": "Try them on and remember the time we've spent together",
       "condition": "六角タイル世界で、すべての帽子を集めてかぶる"
     },
     "aurora_lake": {
@@ -6296,6 +6298,26 @@
       "name": "回復力のあるバラ",
       "description": "\"工場内に点在する無数の機械たちの隙間から、黄昏の光に照らされたバラのつぼみが伸びている\"",
       "condition": "廃墟のバラ工場に到達する"
+    },
+    "chainlink_purple_world": {
+      "name": "Plance Dants",
+      "description": "(Pssst, they like the Fairy effect)",
+      "condition": "Reach the Chainlink Path of Garden World from Purple World"
+    },
+    "gachapon_plains": {
+      "name": "Capsules",
+      "description": "I got the one I wanted! Yay!",
+      "condition": "Visit Gachapon Plains"
+    },
+    "insect_clover_ponds": {
+      "name": "Water Bugs",
+      "description": "I wonder what these interesting insects are?",
+      "condition": "Reveal pink bugs by using the Insect effect in Clover Ponds"
+    },
+    "pastel_mall_thrift": {
+      "name": "Toiletbound",
+      "description": "The legendary lavatory lake cryptid!",
+      "condition": "Reach the isolated section of Pastel Mall accessible from the Thrift Shop"
     }
   },
   "unconscious": {
@@ -7074,6 +7096,46 @@
       "name": "Sunset Summit",
       "description": "An eternal dusk.",
       "condition": "Reach the rooftop of Stonelit Hollow"
+    },
+    "frozentsuki_snow_lake": {
+      "name": "Failed Rescue",
+      "description": "I just wanted to help...",
+      "condition": "Attempt to free the Frozen Minnatsuki at Snow Lake"
+    },
+    "bull_ritual_room": {
+      "name": "The Thief",
+      "description": "Now they roam free... thanks to you!",
+      "condition": "Free Tauros in the ritual room of the Scarlet River. If already done, return to the ritual room."
+    },
+    "squid_divinity_eternal_communion": {
+      "name": "Cephalord",
+      "description": "Praise the Squid Lord",
+      "condition": "See the Squid God in Eternal Communion"
+    },
+    "blue_tile_complex": {
+      "name": "What a Mess!",
+      "description": "It's covered in the blue ooze!",
+      "condition": "Find the room covered in blue liquid in Tile Complex"
+    },
+    "rat_eidolon": {
+      "name": "Oh Shoot, a Rat!",
+      "description": "*squeak squeak*",
+      "condition": "Obtain the Rodentia eidolon. If you have already unlocked it, return where it can be found in the City."
+    },
+    "heart_flesh_walls_forest": {
+      "name": "Beating Rave",
+      "description": "Let me hear your heartbeat fading away",
+      "condition": "Trigger the Beating Heart event in Flesh Walls Forest"
+    },
+    "basalt_fields": {
+      "name": "Mummy, I'm Scared",
+      "description": "Bandaged spirits adorn the sky.",
+      "condition": "Visit Basalt Fields"
+    },
+    "neon_light_exhibition": {
+      "name": "Neon Party",
+      "description": "We like to party!",
+      "condition": "Visit Neon Light Exhibition"
     }
   },
   "flow": {
@@ -9623,6 +9685,24 @@
       "name": "おバカなメイド",
       "description": "あぁ、コップが割れちゃった！",
       "condition": "Maidのエフェクトで動作を見る"
+    },
+    "sushi_monitor_realm": {
+      "name": "Subaquatic Buffet",
+      "description": "This view is so nice, I may never want to wake up.",
+      "condition": "Reach the sushi aquarium in Monitor Realm"
+    },
+    "mascot_costume_effect": {
+      "name": "Identity Crisis",
+      "condition": "Obtain the Mascot Costume effect. If you have already unlocked it, return where it can be found in the Amusement Park."
+    },
+    "eyeball_foot_effect": {
+      "name": "Foot Blob",
+      "condition": "Obtain the Eyeball Foot effect. If you have already unlocked it, return where it can be found in the Residential Building."
+    },
+    "cow_office_building": {
+      "name": "Frozen Meat",
+      "description": "Is that a cow?",
+      "condition": "See the frozen cow in Office Building"
     }
   },
   "nostalgic": {

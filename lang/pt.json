@@ -583,7 +583,8 @@
       "condition": "Entre no tabuleiro de xadrez de Chess World"
     },
     "silver_whale": {
-      "name": "Oceano de Prata",
+      "name": "Silver Whale",
+      "description": "Eternally swimming in an intergalactic infinite pool.",
       "condition": "Ache uma baleia em Silver Mansion"
     },
     "obentou": {
@@ -856,7 +857,8 @@
       "condition": "Entre na sala final de Rusted Factory em {TIME} ou menos no modo Time Trial Mode"
     },
     "sea_lily": {
-      "name": "Lírio do Mar Arco-Íris",
+      "name": "Sparkling Sea Lily",
+      "description": "Funky and vibrant crinoids!",
       "condition": "Chegue em Sea Lily World"
     },
     "noranyan": {
@@ -3316,8 +3318,8 @@
       "condition": "Veja a paisagem noturna com o barco de pesca no Holiday Hell"
     },
     "doppelganger_room": {
-      "name": "Sósia Estática",
-      "description": "Uma pequena mudança de perspectiva.",
+      "name": "My Reflection",
+      "description": "A haven of silence in the sea of noise",
       "condition": "Entre na Doppelgänger Room no Static Labyrinth"
     },
     "hallucination_laboratory": {
@@ -5359,8 +5361,8 @@
       "condition": "Conclua o evento Corrupted Nexus. Se você já o viu, retorne em The Nexus."
     },
     "hat_nexus_c_v_complete": {
-      "name": "Simulacro",
-      "description": "Chapéus, certo... Apenas chapéus... Não sejam ingénuos e pensem que são apenas \"chapéus\" e nada mais",
+      "name": "Hat Collection",
+      "description": "Try them on and remember the time we've spent together",
       "condition": "Complete o Hat-Nexus do Critter Village coletando todos os chapéus e equipando-os lá"
     },
     "aurora_lake": {
@@ -6276,6 +6278,26 @@
       "name": "Resilient Roses",
       "description": "\"Amidst the myriads of mechanizations scattered inside this factory, rosebuds grew on the edge of light, the light of the sunsetting sky.\"",
       "condition": "Visit Rose Factory"
+    },
+    "chainlink_purple_world": {
+      "name": "Plance Dants",
+      "description": "(Pssst, they like the Fairy effect)",
+      "condition": "Reach the Chainlink Path of Garden World from Purple World"
+    },
+    "gachapon_plains": {
+      "name": "Capsules",
+      "description": "I got the one I wanted! Yay!",
+      "condition": "Visit Gachapon Plains"
+    },
+    "insect_clover_ponds": {
+      "name": "Water Bugs",
+      "description": "I wonder what these interesting insects are?",
+      "condition": "Reveal pink bugs by using the Insect effect in Clover Ponds"
+    },
+    "pastel_mall_thrift": {
+      "name": "Toiletbound",
+      "description": "The legendary lavatory lake cryptid!",
+      "condition": "Reach the isolated section of Pastel Mall accessible from the Thrift Shop"
     }
   },
   "unconscious": {
@@ -7054,6 +7076,46 @@
       "name": "Sunset Summit",
       "description": "An eternal dusk.",
       "condition": "Reach the rooftop of Stonelit Hollow"
+    },
+    "frozentsuki_snow_lake": {
+      "name": "Failed Rescue",
+      "description": "I just wanted to help...",
+      "condition": "Attempt to free the Frozen Minnatsuki at Snow Lake"
+    },
+    "bull_ritual_room": {
+      "name": "The Thief",
+      "description": "Now they roam free... thanks to you!",
+      "condition": "Free Tauros in the ritual room of the Scarlet River. If already done, return to the ritual room."
+    },
+    "squid_divinity_eternal_communion": {
+      "name": "Cephalord",
+      "description": "Praise the Squid Lord",
+      "condition": "See the Squid God in Eternal Communion"
+    },
+    "blue_tile_complex": {
+      "name": "What a Mess!",
+      "description": "It's covered in the blue ooze!",
+      "condition": "Find the room covered in blue liquid in Tile Complex"
+    },
+    "rat_eidolon": {
+      "name": "Oh Shoot, a Rat!",
+      "description": "*squeak squeak*",
+      "condition": "Obtain the Rodentia eidolon. If you have already unlocked it, return where it can be found in the City."
+    },
+    "heart_flesh_walls_forest": {
+      "name": "Beating Rave",
+      "description": "Let me hear your heartbeat fading away",
+      "condition": "Trigger the Beating Heart event in Flesh Walls Forest"
+    },
+    "basalt_fields": {
+      "name": "Mummy, I'm Scared",
+      "description": "Bandaged spirits adorn the sky.",
+      "condition": "Visit Basalt Fields"
+    },
+    "neon_light_exhibition": {
+      "name": "Neon Party",
+      "description": "We like to party!",
+      "condition": "Visit Neon Light Exhibition"
     }
   },
   "flow": {
@@ -9602,6 +9664,24 @@
       "name": "Silly Maid",
       "description": "Oh no, the cup is broken!",
       "condition": "Trigger the Maid effect's action"
+    },
+    "sushi_monitor_realm": {
+      "name": "Subaquatic Buffet",
+      "description": "This view is so nice, I may never want to wake up.",
+      "condition": "Reach the sushi aquarium in Monitor Realm"
+    },
+    "mascot_costume_effect": {
+      "name": "Identity Crisis",
+      "condition": "Obtain the Mascot Costume effect. If you have already unlocked it, return where it can be found in the Amusement Park."
+    },
+    "eyeball_foot_effect": {
+      "name": "Foot Blob",
+      "condition": "Obtain the Eyeball Foot effect. If you have already unlocked it, return where it can be found in the Residential Building."
+    },
+    "cow_office_building": {
+      "name": "Frozen Meat",
+      "description": "Is that a cow?",
+      "condition": "See the frozen cow in Office Building"
     }
   },
   "nostalgic": {

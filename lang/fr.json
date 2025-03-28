@@ -571,20 +571,21 @@
     },
     "neon_highway": {
       "name": "Souvenir néon",
-      "condition": "Aller dans le Neon Highway"
+      "condition": "Visiter le Neon Highway"
     },
     "crying_eyes": {
       "name": "100 pleurs",
       "description": "Ils ont tout vu.",
-      "condition": "Utiliser l'effet Bombe-Œil dans la Cavernes aux Yeux en Pleurs dans le Cloudy World"
+      "condition": "Utiliser l'effet Bombe-Œil dans la Cavernes aux Yeux en Pleurs au Cloudy World"
     },
     "black_king": {
       "name": "Roi noir",
-      "condition": "Entrer dans le plateau d'échec du Chess World"
+      "condition": "Aller au plateau d'échec du Chess World"
     },
     "silver_whale": {
-      "name": "Océan argenté",
-      "condition": "Repérer une baleine dans le Silver Mansion"
+      "name": "Baleine argentée",
+      "description": "Nageant éternellement dans un bassin intergalactique sans fin.",
+      "condition": "Trouver la baleine dans le Silver Mansion"
     },
     "obentou": {
       "name": "Obentou",
@@ -856,7 +857,8 @@
       "condition": "Atteindre la salle finale dans la Rusted Factory en {TIME} ou moins en course contre-la-montre"
     },
     "sea_lily": {
-      "name": "Nénuphar arc-en-ciel",
+      "name": "Lys de mer brillant",
+      "description": "Des crinoïdes branchés et vifs !",
       "condition": "Atteindre Sea Lily World"
     },
     "noranyan": {
@@ -1584,7 +1586,7 @@
     },
     "infinite_library_mirror": {
       "name": "Désorientée",
-      "description": "Invoque ta réflection dans un miroir passé le semi-infini.",
+      "description": "Invoque ton reflet dans un miroir passé le semi-infini.",
       "condition": "Regarde-toi dans le miroir et atteindre Static Noise Hell depuis l'Infinite Library"
     },
     "rainbow_tiles_glitch": {
@@ -1938,7 +1940,7 @@
       "condition": "Trouver l'étrange cottage sur une île entourée par des fleurs blanches dans l'Abandoned Factory"
     },
     "reflect_one": {
-      "name": "Réflection de soi",
+      "name": "Reflet de soi",
       "description": "Un souvenir distant de seulement soi.",
       "condition": "Atteindre la zone de la Plage aux Montagnes Jumelles dans la Mirror Room"
     },
@@ -3321,8 +3323,8 @@
       "condition": "Voir le paysage nocturne avec le bateau de pêche dans l'Holiday Hell"
     },
     "doppelganger_room": {
-      "name": "Copie statique",
-      "description": "Un léger changement de perspective.",
+      "name": "Mon reflet",
+      "description": "Un havre de silence dans une mer de bruit",
       "condition": "Entrer dans la Chambre du Sosie dans le Static Labyrinth"
     },
     "hallucination_laboratory": {
@@ -5364,8 +5366,8 @@
       "condition": "Compléter l'événement du Nexus Corrompu. Si vous l'avez déjà vu, retournez à The Nexus."
     },
     "hat_nexus_c_v_complete": {
-      "name": "Effigie",
-      "description": "Des chapeaux, oui... « Juste des chapeaux »... Ne soit pas naïve et ne croit pas que ce sont juste de vulgaires « chapeaux » et rien de plus",
+      "name": "Collection de chapeaux",
+      "description": "Essaie-les et souviens-toi du temps passé ensemble",
       "condition": "Compléter le Chapeau-Nexus du Critter Village en collectant tous les chapeaux et en les mettant tous là-bas"
     },
     "aurora_lake": {
@@ -6281,6 +6283,26 @@
       "name": "Roses résistantes",
       "description": "« Dans toute la pléthore de machins mécaniques éparpillés dans l'usine, des boutons de rose ont poussé à l'extrémité de la lumière, lumière crépusculaire. »",
       "condition": "Visiter la Rose Factory"
+    },
+    "chainlink_purple_world": {
+      "name": "Danse des plantes",
+      "description": "(Pssst, elles aiment l'effet Fée)",
+      "condition": "Atteindre le Passage des Grilles Murales du Garden World depuis le Purple World"
+    },
+    "gachapon_plains": {
+      "name": "Capsules",
+      "description": "J'ai eu celle que je voulais ! Ouais !",
+      "condition": "Visiter les Gachapon Plains"
+    },
+    "insect_clover_ponds": {
+      "name": "Araignées d'eau",
+      "description": "Je me demande c'est quel type d'insecte, ça...",
+      "condition": "Révéler les insectes roses en utilisant l'effet Insecte aux Clover Ponds"
+    },
+    "pastel_mall_thrift": {
+      "name": "Moll Ness",
+      "description": "La légendaire créature du centre commercial !",
+      "condition": "Atteindre la section isolée du Pastel Mall accessible depuis le Thrift Shop"
     }
   },
   "unconscious": {
@@ -7059,6 +7081,46 @@
       "name": "Sommet du coucher de soleil",
       "description": "Un crépuscule éternel.",
       "condition": "Atteindre le toit de Stonelit Hollow"
+    },
+    "frozentsuki_snow_lake": {
+      "name": "Sauvetage raté",
+      "description": "Je voulais juste l'aider...",
+      "condition": "Essayer de libérer la Minnatsuki Gelée au Snow Lake"
+    },
+    "bull_ritual_room": {
+      "name": "Le voleur",
+      "description": "Et maintenant ils sont libres... grâce à toi !",
+      "condition": "Libérer Tauros de la salle rituelle de la Scarlet River. Si vous l'avez déjà fait, retournez dans la salle rituelle."
+    },
+    "squid_divinity_eternal_communion": {
+      "name": "Calamaestro",
+      "description": "Priez le Seigneur Calamar",
+      "condition": "Voir la Divinité Calamar à Eternal Communion"
+    },
+    "blue_tile_complex": {
+      "name": "Quel bazar !",
+      "description": "C'est couvert d'un liquide bleu !",
+      "condition": "Trouver la salle couverte de liquide bleu au Tile Complex"
+    },
+    "rat_eidolon": {
+      "name": "Rattention, rongeur à trois heures !",
+      "description": "*scouic scouic*",
+      "condition": "Obtenir l'eidolon Rodentia. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à City."
+    },
+    "heart_flesh_walls_forest": {
+      "name": "Battement de la rave",
+      "description": "Laisse-moi entendre ton battement de cœur partir au loin",
+      "condition": "Déclencher l'événement du Battement de Cœur à la Flesh Walls Forest"
+    },
+    "basalt_fields": {
+      "name": "Maman, j'ai peur",
+      "description": "Des esprits couverts de bandages ornent le ciel.",
+      "condition": "Visiter les Basalt Fields"
+    },
+    "neon_light_exhibition": {
+      "name": "Fête néon",
+      "description": "On aime faire la fête !",
+      "condition": "Visiter le Neon Light Exhibition"
     }
   },
   "flow": {
@@ -8326,9 +8388,9 @@
       "condition": "Entrer dans l'Empty Museum"
     },
     "crystal_reflection": {
-      "name": "Réflection",
+      "name": "Reflet",
       "description": "Le cristal vous regarde en retour.",
-      "condition": "Contempler la réflection de Muma dans Blue Flow"
+      "condition": "Contempler le reflet de Muma dans Blue Flow"
     },
     "new_enemy": {
       "name": "Un nouvel ennemi",
@@ -9608,6 +9670,24 @@
       "name": "Servante maladroite",
       "description": "Oh non, la tasse s'est brisée !",
       "condition": "Déclencher l'action de l'effet Servante"
+    },
+    "sushi_monitor_realm": {
+      "name": "Buffet subaquatique",
+      "description": "Ce lieu est tellement joli, je ne suis pas sûr d'avoir envie de me réveiller.",
+      "condition": "Atteindre l'aquarium sushi au Monitor Realm"
+    },
+    "mascot_costume_effect": {
+      "name": "Crise identitaire",
+      "condition": "Obtenir l'effet Costume de mascotte. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à l'Amusement Park."
+    },
+    "eyeball_foot_effect": {
+      "name": "Blob pied",
+      "condition": "Obtenir l'effet Pied-œil. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Residential Building."
+    },
+    "cow_office_building": {
+      "name": "Chair en vol",
+      "description": "Est-ce une vache ?",
+      "condition": "Voir la vache lévitante à l'Office Building"
     }
   },
   "nostalgic": {
