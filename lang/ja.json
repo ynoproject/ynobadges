@@ -6318,6 +6318,49 @@
       "name": "トイレのおばけ",
       "description": "トイレホールに住まう伝説の未確認生命体！",
       "condition": "深淵マーケット:マーケット(トイレホール側)に到達する"
+    },
+    "gourd_metallic_plate_world": {
+      "name": "Gourd Folk",
+      "condition": "See the Gourd Folk event in Metallic Plate World"
+    },
+    "lupin_legacy_of_ruin": {
+      "name": "What is That?",
+      "description": "A scribble? A mess? A balloon animal?",
+      "condition": "Reach the third area in Legacy of Ruin"
+    },
+    "outskirts_usugurai_residence": {
+      "name": "The Bat-Wolf that Watched the Outskirts",
+      "description": "\"Aren't you bored from sitting up there all day?\"",
+      "condition": "Reach the outskirts of Usugurai Residence"
+    },
+    "chocolate_high_rise_building": {
+      "name": "Dango and Chocolate",
+      "description": "The sweetest combination!",
+      "condition": "Reach Chocolate World from High-rise Building"
+    },
+    "sepia_cloud_gardens": {
+      "name": "100 Dreams",
+      "condition": "Visit Sepia Cloud Gardens"
+    },
+    "jungle_grand_scientific_museum": {
+      "name": "Museum's Grand Outdoors",
+      "description": "Some funky looking creatures you are!",
+      "condition": "Visit the Tropical Jungle of Grand Scientific Museum"
+    },
+    "galactic_park": {
+      "name": "Little Starry Paradise",
+      "description": "A beautiful, starry park 🌠",
+      "condition": "Visit Galactic Park"
+    },
+    "jigsaw_junction": {
+      "name": "Puzzle Pieces",
+      "description": "We go together just right!",
+      "condition": "Visit Jigsaw Junction"
+    },
+    "tree_of_life_b": {
+      "name": "Life and Death",
+      "description": "Spes enim est arboris, si praecisum fuerit, quod iterum germinetur, et non cessabit pampinus eius.",
+      "condition": "Chainsaw the Tree of Life at the Blood Cell Sea"
     }
   },
   "unconscious": {
@@ -8576,6 +8619,11 @@
       "name": "むまとうさぎ",
       "description": "お友達になりませんか？",
       "condition": "First Stepsでうさぎを持ち上げる"
+    },
+    "maison_de_muma": {
+      "name": "Maison Blanche",
+      "description": "Who would live all the way out here?",
+      "condition": "Reach House"
     }
   },
   "genie": {
@@ -9940,7 +9988,8 @@
       "condition": "不浄の地の崖にある金庫でガスマスクを入手する"
     },
     "silver_barrens": {
-      "name": "Temp Badge Name (Do not translate)",
+      "name": "Queen of Silver",
+      "description": "\"Chess keeps my mind busy.\"",
       "condition": "不浄の地の採掘場でシルバーとチェスをする"
     },
     "dream_barrens": {
@@ -9972,6 +10021,11 @@
       "name": "Temp Badge Name (Do not translate)",
       "condition": "峡谷の村で羊飼いのラムの世話を手伝う"
     },
+    "plant_girl_ruins_glen": {
+      "name": "Self-Contained Universe",
+      "description": "\"Thank you for granting my last wish, Savior...\"",
+      "condition": "Lend the lightbulb to the plant girl in the Ruins of Glen"
+    },
     "dream_glen": {
       "name": "美味しい夢",
       "description": "居心地の良い夢？",
@@ -10002,11 +10056,12 @@
       "condition": "ニコは世界を救った。"
     },
     "niko_home_ending": {
-      "name": "Temp Badge Name (Do not translate)",
+      "name": "Goodbye to a World",
+      "description": "Maybe it was inevitable...",
       "condition": "救世主はいなくなった。この世界の全ての希望は消滅した。"
     },
     "flower_ending": {
-      "name": "Temp Badge Name (Do not translate)",
+      "name": "Rebirth",
       "condition": "エンディングで花の成長を見届ける"
     }
   },
