@@ -991,8 +991,8 @@
       "condition": "Interagir avec le blob rouge à la Despair Road"
     },
     "puni": {
-      "name": "Cinq Puni",
-      "description": "Oh, comme c'est mignon",
+      "name": "Compagnon amical",
+      "description": "Oh, quelle mignonne petite créature !",
       "condition": "Se transformer en Puni au Dream Park"
     },
     "mechanical_heart": {
@@ -6303,6 +6303,49 @@
       "name": "Moll Ness",
       "description": "La légendaire créature du centre commercial !",
       "condition": "Atteindre la section isolée du Pastel Mall accessible depuis le Thrift Shop"
+    },
+    "gourd_metallic_plate_world": {
+      "name": "Gentlegourdes",
+      "condition": "Voir l'événement des gentlegourdes au Metallic Plate World"
+    },
+    "lupin_legacy_of_ruin": {
+      "name": "Qu'est-ce que c'est que ça ?",
+      "description": "Est-ce un gribouillage ? Un bazar ? Un ballon animal ?",
+      "condition": "Atteindre la troisième zone de Legacy of Ruin"
+    },
+    "outskirts_usugurai_residence": {
+      "name": "La chauve-souloup qui observait la périphérie",
+      "description": "« Tu trouves pas ça ennuyant de rester assis toute la journée ? »",
+      "condition": "Atteindre la périphérie de l'Usugurai Residence"
+    },
+    "chocolate_high_rise_building": {
+      "name": "Choco-dango",
+      "description": "Rien de plus sucré que du choco-dango !",
+      "condition": "Atteindre le Chocolate World depuis l'High-rise Building"
+    },
+    "sepia_cloud_gardens": {
+      "name": "Cieux aux 100 rêves",
+      "condition": "Visiter les Sepia Cloud Gardens"
+    },
+    "jungle_grand_scientific_museum": {
+      "name": "Les grandes portes ouvertes du musée",
+      "description": "Eh bah, ces créatures sont drôlement fascinantes !",
+      "condition": "Visiter la Jungle Tropicale du Grand Scientific Museum"
+    },
+    "galactic_park": {
+      "name": "Petit paradis étoilé",
+      "description": "Un magnifique parc étoilé 🌠",
+      "condition": "Visiter le Galactic Park"
+    },
+    "jigsaw_junction": {
+      "name": "Pièces de puzzle",
+      "description": "Tu penses que ce sont les canards qui ont réussi les puzzles ?",
+      "condition": "Visiter le Jigsaw Junction"
+    },
+    "tree_of_life_b": {
+      "name": "Vie et mort",
+      "description": "Spes enim est arboris, si praecisum fuerit, quod iterum germinetur, et non cessabit pampinus eius.",
+      "condition": "Tronçonner l'arbre de vie à la Blood Cell Sea"
     }
   },
   "unconscious": {
@@ -6757,7 +6800,7 @@
     "phanton_wisteria_grove": {
       "name": "La dernière danse du Revenant",
       "description": "Ne laisse pas tes ailes rester en repli p'tit fantôme, il te reste toujours une dernière danse à exécuter.",
-      "condition": "Trouver le Revenant Glycine à la Wisteria Grove"
+      "condition": "Obtenir le thème de menu Papillon. Si vous l'avez déjà obtenu, retournez à la Wisteria Grove."
     },
     "minna_punish_mono_msl": {
       "name": "Lutte futile",
@@ -8561,6 +8604,11 @@
       "name": "Muma et les lapinous",
       "description": "« Est-ce que vous voulez bien être mes amis ? »",
       "condition": "Soulever l'un des lapins aux First Steps"
+    },
+    "maison_de_muma": {
+      "name": "Maison immaculée",
+      "description": "Qui pourrait vivre dans un tel lieu ?",
+      "condition": "Atteindre l'House"
     }
   },
   "genie": {
@@ -9298,8 +9346,8 @@
       "condition": "Subir les conséquences de vos actes après avoir tué la Fille Girouette"
     },
     "overlook_oil_world": {
-      "name": "Soleil de pétrole",
-      "description": "Une montagne surplombant le pétrole",
+      "name": "Imminent",
+      "description": "Quelque chose au loin.",
       "condition": "Visiter l'Overlook dans l'Oil World"
     },
     "noise_room": {
@@ -9925,7 +9973,8 @@
       "condition": "Obtenir le masque à gaz dans le coffre-fort aux Falaises des Barrens"
     },
     "silver_barrens": {
-      "name": "Temp Badge Name (Do not translate)",
+      "name": "La reine d'argent",
+      "description": "« Jouer aux échecs m'occupe l'esprit. »",
       "condition": "Jouer une partie d'échecs contre Silver dans l'Installation Minière des Barrens"
     },
     "dream_barrens": {
@@ -9957,6 +10006,11 @@
       "name": "Temp Badge Name (Do not translate)",
       "condition": "Aider le berger à diriger ses béliers au Village de Glen"
     },
+    "plant_girl_ruins_glen": {
+      "name": "Biome replié sur lui-même",
+      "description": "« Merci de m'avoir accordé mon dernier souhait, Sauveur... »",
+      "condition": "Prêter l'ampoule à la fille plante aux Ruines de Glen"
+    },
     "dream_glen": {
       "name": "Un régal de rêve",
       "description": "Un rêve douillet ?",
@@ -9987,11 +10041,12 @@
       "condition": "Niko a sauvé le monde."
     },
     "niko_home_ending": {
-      "name": "Temp Badge Name (Do not translate)",
-      "condition": "Le sauveur est mort. Tout espoir pour le monde est perdu."
+      "name": "En revoir au monde",
+      "description": "Peut-être que c'était inévitable...",
+      "condition": "Le sauveur est parti. Tout espoir pour le monde est perdu."
     },
     "flower_ending": {
-      "name": "Temp Badge Name (Do not translate)",
+      "name": "Renaissance",
       "condition": "Voir la fleur pousser pendant la fin"
     }
   },

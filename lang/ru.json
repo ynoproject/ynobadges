@@ -991,8 +991,8 @@
       "condition": "Дотроньтесь до красного сгустка на Despair Road."
     },
     "puni": {
-      "name": "Пять Пуни",
-      "description": "О, как мило.",
+      "name": "Friendly Companion",
+      "description": "Oh my, what a cute creature!",
       "condition": "Превратитесь в Пуни в Dream Park."
     },
     "mechanical_heart": {
@@ -4171,7 +4171,7 @@
     },
     "sour_void": {
       "name": "Easy Peasy, Lemon Squeezy",
-      "description": "Sour as the Sour Void!",
+      "description": "Lemons are pretty tasty, though they're a lil' sour!",
       "condition": "Reach Sour Void"
     },
     "maiden_snowy_village": {
@@ -6298,6 +6298,49 @@
       "name": "Toiletbound",
       "description": "The legendary lavatory lake cryptid!",
       "condition": "Reach the isolated section of Pastel Mall accessible from the Thrift Shop"
+    },
+    "gourd_metallic_plate_world": {
+      "name": "Gourd Folk",
+      "condition": "See the Gourd Folk event in Metallic Plate World"
+    },
+    "lupin_legacy_of_ruin": {
+      "name": "What is That?",
+      "description": "A scribble? A mess? A balloon animal?",
+      "condition": "Reach the third area in Legacy of Ruin"
+    },
+    "outskirts_usugurai_residence": {
+      "name": "The Bat-Wolf that Watched the Outskirts",
+      "description": "\"Aren't you bored from sitting up there all day?\"",
+      "condition": "Reach the outskirts of Usugurai Residence"
+    },
+    "chocolate_high_rise_building": {
+      "name": "Dango and Chocolate",
+      "description": "The sweetest combination!",
+      "condition": "Reach Chocolate World from High-rise Building"
+    },
+    "sepia_cloud_gardens": {
+      "name": "100 Dreams",
+      "condition": "Visit Sepia Cloud Gardens"
+    },
+    "jungle_grand_scientific_museum": {
+      "name": "Museum's Grand Outdoors",
+      "description": "Some funky looking creatures you are!",
+      "condition": "Visit the Tropical Jungle of Grand Scientific Museum"
+    },
+    "galactic_park": {
+      "name": "Little Starry Paradise",
+      "description": "A beautiful, starry park 🌠",
+      "condition": "Visit Galactic Park"
+    },
+    "jigsaw_junction": {
+      "name": "Puzzle Pieces",
+      "description": "We go together just right!",
+      "condition": "Visit Jigsaw Junction"
+    },
+    "tree_of_life_b": {
+      "name": "Life and Death",
+      "description": "Spes enim est arboris, si praecisum fuerit, quod iterum germinetur, et non cessabit pampinus eius.",
+      "condition": "Chainsaw the Tree of Life at the Blood Cell Sea"
     }
   },
   "unconscious": {
@@ -6752,7 +6795,7 @@
     "phanton_wisteria_grove": {
       "name": "The Phantom Last Dance",
       "description": "Don't let your wings remain down little ghost, there is still a whole dance ahead.",
-      "condition": "Find the Wisteria Phantom in Wisteria Grove"
+      "condition": "Obtain the Butterfly menu theme. If you have already unlocked it, return where it can be found in Wisteria Grove."
     },
     "minna_punish_mono_msl": {
       "name": "Futile Struggle",
@@ -8556,6 +8599,11 @@
       "name": "Muma and the Rabbits",
       "description": "Would you like to be friends with me?",
       "condition": "Lift one of the rabbits in First Steps"
+    },
+    "maison_de_muma": {
+      "name": "Maison Blanche",
+      "description": "Who would live all the way out here?",
+      "condition": "Reach House"
     }
   },
   "genie": {
@@ -9293,8 +9341,8 @@
       "condition": "Face the consequences of killing the Wind Vane Girl"
     },
     "overlook_oil_world": {
-      "name": "Oil Sun",
-      "description": "A mountain over oil",
+      "name": "Looming",
+      "description": "Something in the distance.",
       "condition": "Visit Overlook in Oil World"
     },
     "noise_room": {
@@ -9920,7 +9968,8 @@
       "condition": "Obtain the gas mask in the vault at the Cliffs of the Barrens"
     },
     "silver_barrens": {
-      "name": "Temp Badge Name (Do not translate)",
+      "name": "Queen of Silver",
+      "description": "\"Chess keeps my mind busy.\"",
       "condition": "Play a game of chess against Silver in the Mining Facility of Barrens"
     },
     "dream_barrens": {
@@ -9952,6 +10001,11 @@
       "name": "Temp Badge Name (Do not translate)",
       "condition": "Help the shepherd to herd his rams in Glen's Village"
     },
+    "plant_girl_ruins_glen": {
+      "name": "Self-Contained Universe",
+      "description": "\"Thank you for granting my last wish, Savior...\"",
+      "condition": "Lend the lightbulb to the plant girl in the Ruins of Glen"
+    },
     "dream_glen": {
       "name": "Delicious Dream",
       "description": "A cozy dream?",
@@ -9982,11 +10036,12 @@
       "condition": "Niko saved the world."
     },
     "niko_home_ending": {
-      "name": "Temp Badge Name (Do not translate)",
+      "name": "Goodbye to a World",
+      "description": "Maybe it was inevitable...",
       "condition": "The savior is gone. All hope for the world is lost."
     },
     "flower_ending": {
-      "name": "Temp Badge Name (Do not translate)",
+      "name": "Rebirth",
       "condition": "See the flower grow during the ending"
     }
   },
