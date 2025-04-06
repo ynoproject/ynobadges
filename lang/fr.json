@@ -10124,5 +10124,73 @@
       "description": "Psst, va regarder ton PC.",
       "condition": "Obtenir la propriété Classique. Si vous l'avez déjà obtenue, retournez là où elle peut être trouvée au PC Game."
     }
+  },
+  "fog": {
+    "leon_laptop_perk": {
+      "name": "N=1",
+      "description": "Regarde-moi cette bête ! C'est du tout nouveau !",
+      "condition": "En tant que Leon, obtenir le perk Laptop. Si vous l'avez déjà obtenu, retournez dans la Leon's Dream Bedroom."
+    },
+    "fedora_office_complex": {
+      "name": "Fantôme de Leon",
+      "condition": "Trouver le Fédora déguisé en Leon dans l'Aile Ouest de l'Office Complex"
+    },
+    "martha_perks": {
+      "name": "Souvenir insupportable",
+      "description": "Mais qu'as-tu fait ?",
+      "condition": "En tant que Tegan, obtenir le perk Martha’s Voice, et obtenir le perk Bloody Knife. En tant que Leon, obtenir le perk Martha’s Beanie. Si vous les avez déjà obtenus, retournez là où ils peuvent être trouvés, respectivement dans le Dreamer Lab, dans la Corpse Cabin du Nature World et dans l'EGA Dead End.",
+      "checkbox": {
+        "martha_voice_perk": "obtenir le perk Martha’s Voice",
+        "bloody_knife_perk": "obtenir le perk Bloody Knife",
+        "martha_beanie_perk": "obtenir le perk Martha’s Beanie"
+      }
+    },
+    "blue_creep_side_world": {
+      "name": "Créature évitant les têtes rouges",
+      "description": "« J'te le répète, ils sont pas naturels ! »",
+      "condition": "En tant que Tegan ou Emory, voir le Tordu Bleu au Side World"
+    },
+    "main_room_office_complex": {
+      "name": "Arrête de me regarder !",
+      "condition": "Atteindre la salle principale de l'Office Complex"
+    },
+    "tegan_grayscale_effect": {
+      "name": "Désaturé",
+      "description": "Pas seul, mais tout de même malheureux...",
+      "condition": "En tant que Tegan, obtenir l'effet Grayscale. Si vous l'avez déjà obtenu, retournez au Nothingness."
+    },
+    "glitch_world_error": {
+      "name": "Sous-script hors plage",
+      "description": "Un événement invalide a été spécifié.",
+      "condition": "En tant que Leon ou Tegan, essayer de tuer la créature visage au Glitch World et déclencher l'événement"
+    },
+    "tegan_leon_bedroom": {
+      "name": "Par la porte de derrière",
+      "description": "T'es pas censé aller là...",
+      "condition": "Essayer d'accéder la Tegan's Dream Bedroom en tant que Leon, et essayer d'accéder la Leon's Dream Bedroom en tant que Tegan",
+      "checkbox": {
+        "tegan_bedroom_leon": "Essayer d'accéder la Tegan's Dream Bedroom en tant que Leon",
+        "leon_bedroom_tegan": "essayer d'accéder la Leon's Dream Bedroom en tant que Tegan"
+      }
+    },
+    "tegan_clown_effect": {
+      "name": "Facéties du clown",
+      "description": "Honk honk !",
+      "condition": "En tant que Tegan, obtenir l'effet Clown. Si vous l'avez déjà obtenu, retournez dans la Salle du Générateur du Color World."
+    },
+    "bed_spacey_area": {
+      "name": "Espace isolant",
+      "description": "... Tu te souviens ? Il ne reste plus que moi.",
+      "condition": "Dormir dans le lit des Captain's Quarters de la Space Station et dans le lit de la Lindsey's Bedroom",
+      "checkbox": {
+        "captain_quarters_space_station": "Dormir dans le lit des Captain's Quarters de la Space Station",
+        "bed_lindsey_bedroom": "dans le lit de la Lindsey's Bedroom"
+      }
+    },
+    "good_bye_stranger": {
+      "name": "PAS D'ÉCHAPPATOIRE",
+      "description": "Comment est-ce que je peux sortir de cet ENDROIT !?",
+      "condition": "Se faire attraper dans le dernier niveau de Good-bye Stranger"
+    }
   }
 }
