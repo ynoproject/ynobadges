@@ -10143,69 +10143,69 @@
   "fog": {
     "leon_laptop_perk": {
       "name": "N=1",
-      "description": "Check it out! It's brand spankin' new!",
-      "condition": "As Leon, obtain the Laptop perk. If you have already unlocked it, return to Leon's Dream Bedroom."
+      "description": "要チェック！最新型！",
+      "condition": "LeonでLaptopのperkを入手する、すでに入手している場合はLeon's Dream Bedroomにもう一度行く。"
     },
     "fedora_office_complex": {
-      "name": "Ghost of Leon",
-      "condition": "Find the Fedora disguised as Leon in the West Wing of the Office Complex"
+      "name": "Leonの霊",
+      "condition": "Office ComplexのWest WingでLeonに変装したFedoraを見つける"
     },
     "martha_perks": {
-      "name": "Unbearable Reminiscence",
-      "description": "What have you done?",
-      "condition": "As Tegan, obtain the Martha’s Voice perk, and obtain the Bloody Knife perk. As Leon, obtain the Martha’s Beanie perk. If you have already obtained them, return where they can be found, respectively in the Dreamer Lab, in the Corpse Cabin of Nature World, and in EGA Dead End.",
+      "name": "耐えられない思い出",
+      "description": "何をしたんだ？",
+      "condition": "TeganでMartha’s VoiceのperkとBloody Knifeのperkを入手し、LeonでMartha’s Beanieのperkを入手する。すでに入手している場合は、それぞれDreamer Lab、Nature WorldのCorpse Cabin、EGA Dead Endの見つけた場所にもう一度行く。",
       "checkbox": {
-        "martha_voice_perk": "obtain the Martha’s Voice perk",
-        "bloody_knife_perk": "obtain the Bloody Knife perk",
-        "martha_beanie_perk": "obtain the Martha’s Beanie perk"
+        "martha_voice_perk": "Martha’s Voiceのperk",
+        "bloody_knife_perk": "Bloody Knifeのperk",
+        "martha_beanie_perk": "Martha’s Beanieのperk"
       }
     },
     "blue_creep_side_world": {
-      "name": "Creature that Doesn't Look at Redheads",
-      "description": "\"I'm telling you, they aren't natural!\"",
-      "condition": "As either Tegan or Emory, see the Blue Creep in the Side World"
+      "name": "赤毛に見向きもしない生物",
+      "description": "「あれはな、自然なものじゃないんだ！」",
+      "condition": "TeganかEmoryのどちらかでSide WorldのBlue Creepを見る"
     },
     "main_room_office_complex": {
-      "name": "Stop Looking at Me!",
-      "condition": "Reach the main room of Office Complex"
+      "name": "こっちみんな",
+      "condition": "Office Complexのメインルームに到達する"
     },
     "tegan_grayscale_effect": {
-      "name": "Desaturate",
-      "description": "Not alone, yet lonely...",
-      "condition": "As Tegan, obtain the Grayscale effect. If you have already unlocked it, return to Nothingness."
+      "name": "褪色",
+      "description": "一人じゃないけど、孤独だ……",
+      "condition": "TeganでGrayscaleのエフェクトを入手する、すでに入手している場合はNothingnessにもう一度行く。"
     },
     "glitch_world_error": {
-      "name": "Subscript Out of Range",
-      "description": "The event you're trying to access doesn't exist",
-      "condition": "As either Leon or Tegan, attempt to kill the face creature in Glitch World and trigger the event"
+      "name": "配列変数の添字の値が指定の範囲を超えています",
+      "description": "指定されたイベントは存在しません",
+      "condition": "LeonかTeganのどちらかでの顔の生物を殺害してイベントを見る"
     },
     "tegan_leon_bedroom": {
-      "name": "Into the Backdoor",
-      "description": "You're not supposed to go there...",
-      "condition": "Try to access Tegan's Dream Bedroom as Leon, and try to access Leon's Dream Bedroom as Tegan",
+      "name": "イントゥ・バックドア",
+      "description": "そこは行っちゃダメ……",
+      "condition": "LeonでTegan's Dream Bedroomに入ろうとし、TeganでLeon's Dream Bedroomに入ろうとする",
       "checkbox": {
-        "tegan_bedroom_leon": "Try to access Tegan's Dream Bedroom as Leon",
-        "leon_bedroom_tegan": "try to access Leon's Dream Bedroom as Tegan"
+        "tegan_bedroom_leon": "LeonでTegan's Dream Bedroomに入ろうとし",
+        "leon_bedroom_tegan": "TeganでLeon's Dream Bedroomに入ろうとする"
       }
     },
     "tegan_clown_effect": {
-      "name": "Just Clowning Around",
-      "description": "Honk honk!",
-      "condition": "As Tegan, obtain the Clown effect. If you have already unlocked it, return to the Power Room of Color World."
+      "name": "ただの道化",
+      "description": "ホッホー！",
+      "condition": "TeganでClownのエフェクトを入手する、すでに入手している場合はColor WorldのPower Roomにもう一度行く。"
     },
     "bed_spacey_area": {
-      "name": "Solitary Space",
-      "description": "... Remember? I'm the only one left.",
-      "condition": "Sleep in the bed of the Captain's Quarters in the Space Station and in Lindsey's Bedroom",
+      "name": "孤高の空間",
+      "description": "……覚えてる？残ったのは自分だけ。",
+      "condition": "Space StationのCaptain's QuartersとLindsey's Bedroomのベッドで眠る",
       "checkbox": {
-        "captain_quarters_space_station": "Captain's Quarters in the Space Station",
+        "captain_quarters_space_station": "Space StationのCaptain's Quarters",
         "bed_lindsey_bedroom": "Lindsey's Bedroom"
       }
     },
     "good_bye_stranger": {
-      "name": "NO WAY OUT",
-      "description": "How can I get out of THIS?",
-      "condition": "Get caught in the last level of Good-bye Stranger"
+      "name": "もう逃げられない",
+      "description": "どう逃げ出せって言うんだ？",
+      "condition": "Good-bye Strangerの最後のレベルで捕まる"
     }
   }
 }
