@@ -1172,7 +1172,8 @@
       "condition": "让干涸的Calcarina Sea重新恢复生机"
     },
     "alien_cellar": {
-      "name": "异星集群",
+      "name": "Alien Intelligence",
+      "description": "We're afraid that we can't let you go further.",
       "condition": "进入Alien Cellar"
     },
     "sea_monster": {
@@ -3393,8 +3394,8 @@
       "condition": "在Celestial Garden的蓝色生物之间使用平交道效果"
     },
     "green_neon_world": {
-      "name": "明亮的丰收",
-      "description": "充满明亮闪耀光辉的原野",
+      "name": "Ethereal Lumifield",
+      "description": "Even forgotten, they glimmer like echoes of stardust.",
       "condition": "抵达Green Neon World。"
     },
     "mountain_range_scenery": {
@@ -3554,10 +3555,6 @@
       "name": "满月",
       "description": "美丽星空",
       "condition": "在Techno Condominium用狼或兔耳效果看到天空中的满月"
-    },
-    "luminous_lake_statue": {
-      "name": "山不在高，有龙则灵",
-      "condition": "到达Luminous Lake的Dragon Peak并在望远镜里看到龙"
     },
     "evergreen_woods_vm": {
       "name": "你来这干啥呀？！",
@@ -3808,8 +3805,8 @@
       "condition": "看到在Pure White Lands吹肥皂泡的Shimako"
     },
     "angler_depths_docks": {
-      "name": "暗影深渊鮟鱇",
-      "description": "一条穿越深海的友好鮟鱇",
+      "name": "Diving in the Depths",
+      "description": "Where the abyssal blues drown out the red",
       "condition": "到达Streetlight Docks的Angler's Depths区域"
     },
     "axolotl_abode": {
@@ -4630,8 +4627,8 @@
       "condition": "在Visine World的Eye Shop里锯掉箱子，并找到她的箱子的新居民。"
     },
     "overgrown_gate": {
-      "name": "伊甸园",
-      "description": " \"庭院\"之门",
+      "name": "Daydream in the Forest Corridor",
+      "description": "Go beyond the light within the water's surface.",
       "condition": "到达Overgrown Gate"
     },
     "robot_hand_hub": {
@@ -6347,7 +6344,7 @@
     },
     "galactic_park": {
       "name": "小小星天",
-      "description": "美丽的，星光闪耀的公园 🌠",
+      "description": "美丽的，星光闪耀的公园 ☆",
       "condition": "抵达Galactic Park"
     },
     "jigsaw_junction": {
@@ -7177,6 +7174,51 @@
       "name": "霓虹派对",
       "description": "我们爱派对！",
       "condition": "抵达Neon Light Exhibition"
+    },
+    "dance_spiral_limb_passage": {
+      "name": "Dance of the Rokurokubi",
+      "description": "Come join the fun.",
+      "condition": "Trigger the Spiral Dance event in Spiral Limb Passage"
+    },
+    "red_friend_sabbatical_complex": {
+      "name": "Friend Shaped",
+      "description": "Don't cry big one!",
+      "condition": "Find the Red Friend in Sabbatical Complex"
+    },
+    "cephalo_hyper_road_maze": {
+      "name": "Tenta-Cool DJ",
+      "description": "This party got me all kraken up!",
+      "condition": "Interact with Cephalo P. in Hyper Road Maze"
+    },
+    "unconscious_toy_world": {
+      "name": "Nostophobia",
+      "description": "Childhood memories caked in soot.",
+      "condition": "Visit Toy World"
+    },
+    "joy_district": {
+      "name": "=)",
+      "description": "The local cuisine here is just exquisite. Have you tasted the leather shoes yet? =)",
+      "condition": "Visit Joy District"
+    },
+    "picnic_sylvan_trails": {
+      "name": "Amanitaceae",
+      "description": "When you listen to the musicaria of the agaric, do you see them too?",
+      "condition": "Find the mushroom girls' picnic in Sylvan Trails"
+    },
+    "statues_moth_garden": {
+      "name": "Statues in the Lanternlight",
+      "description": "Statues' last tour",
+      "condition": "Find the two white creatures at the end of the lantern-lit boardwalk in Moth Garden"
+    },
+    "bunny_monster_manuscripts": {
+      "name": "Buneye",
+      "description": "Eye see you!",
+      "condition": "Find the giant bunny in water in Monster Manuscripts"
+    },
+    "achromatic_positive_hellscape": {
+      "name": "White Happy",
+      "description": "IN THE END NONE OF THIS IS REAL",
+      "condition": "Visit Achromatic Positive Hellscape"
     }
   },
   "flow": {
@@ -7411,6 +7453,11 @@
       "name": "肺生花",
       "description": "嗝呃。",
       "condition": "在下雨的地方触发植物效果的特殊动作"
+    },
+    "orange_slime_apartments": {
+      "name": "Blob Buddy",
+      "description": "A joyful jelly appears!",
+      "condition": "Interact with the orange slime in the Apartments"
     }
   },
   "prayers": {
@@ -9264,8 +9311,8 @@
       "condition": "抵达Rainy Village: Vampire's House。"
     },
     "neptune": {
-      "name": "海神",
-      "description": "浓厚的大气层下，封印着能掌握宇宙奥秘的钥匙。",
+      "name": "Vagus",
+      "description": "Could spring ever bloom in a planet of endless winter...?",
       "condition": "抵达Underwater B: Neptune。"
     },
     "clock_cat": {

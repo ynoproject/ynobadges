@@ -1172,7 +1172,8 @@
       "condition": "Encha o Calcarina Sea"
     },
     "alien_cellar": {
-      "name": "Amálgamo",
+      "name": "Alien Intelligence",
+      "description": "We're afraid that we can't let you go further.",
       "condition": "Entre no Alien Cellar"
     },
     "sea_monster": {
@@ -3383,8 +3384,8 @@
       "condition": "Use o efeito Railroad Crossing entre as criaturas azuis no Celestial Garden"
     },
     "green_neon_world": {
-      "name": "Colheita Luminosa",
-      "description": "Campos de luzes brilhantes e reluzentes",
+      "name": "Ethereal Lumifield",
+      "description": "Even forgotten, they glimmer like echoes of stardust.",
       "condition": "Visite o Green Neon World"
     },
     "mountain_range_scenery": {
@@ -3546,10 +3547,6 @@
       "name": "Lua Cheia",
       "description": "Linda noite estrelada.",
       "condition": "Olhe para o céu com o efeito Wolf ou Bunny Ears no telhado do Techno Condominium"
-    },
-    "luminous_lake_statue": {
-      "name": "Dragão do Pico",
-      "condition": "Visite o Dragon's Peak no Luminous Lake e veja o dragão pelo telescópio"
     },
     "evergreen_woods_vm": {
       "name": "Por que você viria para cá?",
@@ -3800,8 +3797,8 @@
       "condition": "Veja Shimako soprando bolhas em Pure White Lands"
     },
     "angler_depths_docks": {
-      "name": "Tamboril Abissal Sombrio",
-      "description": "Um simpático tamboril que atravessa e corta o mar abissal",
+      "name": "Diving in the Depths",
+      "description": "Where the abyssal blues drown out the red",
       "condition": "Entre na subárea Angler's Depths no Streetlight Docks"
     },
     "axolotl_abode": {
@@ -4612,8 +4609,8 @@
       "condition": "Encontre a nova ocupante da caixa de Hakoko na Eye Shop do Visine World depois de fazê-la desaparecer"
     },
     "overgrown_gate": {
-      "name": "Éden",
-      "description": "Os portões do \" Jardim\"",
+      "name": "Daydream in the Forest Corridor",
+      "description": "Go beyond the light within the water's surface.",
       "condition": "Visite o Overgrown Gate"
     },
     "robot_hand_hub": {
@@ -6329,7 +6326,7 @@
     },
     "galactic_park": {
       "name": "Little Starry Paradise",
-      "description": "A beautiful, starry park 🌠",
+      "description": "A beautiful, starry park ☆",
       "condition": "Visit Galactic Park"
     },
     "jigsaw_junction": {
@@ -7159,6 +7156,51 @@
       "name": "Neon Party",
       "description": "We like to party!",
       "condition": "Visit Neon Light Exhibition"
+    },
+    "dance_spiral_limb_passage": {
+      "name": "Dance of the Rokurokubi",
+      "description": "Come join the fun.",
+      "condition": "Trigger the Spiral Dance event in Spiral Limb Passage"
+    },
+    "red_friend_sabbatical_complex": {
+      "name": "Friend Shaped",
+      "description": "Don't cry big one!",
+      "condition": "Find the Red Friend in Sabbatical Complex"
+    },
+    "cephalo_hyper_road_maze": {
+      "name": "Tenta-Cool DJ",
+      "description": "This party got me all kraken up!",
+      "condition": "Interact with Cephalo P. in Hyper Road Maze"
+    },
+    "unconscious_toy_world": {
+      "name": "Nostophobia",
+      "description": "Childhood memories caked in soot.",
+      "condition": "Visit Toy World"
+    },
+    "joy_district": {
+      "name": "=)",
+      "description": "The local cuisine here is just exquisite. Have you tasted the leather shoes yet? =)",
+      "condition": "Visit Joy District"
+    },
+    "picnic_sylvan_trails": {
+      "name": "Amanitaceae",
+      "description": "When you listen to the musicaria of the agaric, do you see them too?",
+      "condition": "Find the mushroom girls' picnic in Sylvan Trails"
+    },
+    "statues_moth_garden": {
+      "name": "Statues in the Lanternlight",
+      "description": "Statues' last tour",
+      "condition": "Find the two white creatures at the end of the lantern-lit boardwalk in Moth Garden"
+    },
+    "bunny_monster_manuscripts": {
+      "name": "Buneye",
+      "description": "Eye see you!",
+      "condition": "Find the giant bunny in water in Monster Manuscripts"
+    },
+    "achromatic_positive_hellscape": {
+      "name": "White Happy",
+      "description": "IN THE END NONE OF THIS IS REAL",
+      "condition": "Visit Achromatic Positive Hellscape"
     }
   },
   "flow": {
@@ -7393,6 +7435,11 @@
       "name": "Floral Lungs",
       "description": "Blegh.",
       "condition": "Trigger the Plant effect's action in a rainy place"
+    },
+    "orange_slime_apartments": {
+      "name": "Blob Buddy",
+      "description": "A joyful jelly appears!",
+      "condition": "Interact with the orange slime in the Apartments"
     }
   },
   "prayers": {
@@ -9245,8 +9292,8 @@
       "condition": "Entre em Vampire's House"
     },
     "neptune": {
-      "name": "Poseidon",
-      "description": "O planeta de gelo que continha a chave para tudo, o Véu.",
+      "name": "Vagus",
+      "description": "Could spring ever bloom in a planet of endless winter...?",
       "condition": "Visite Neptune"
     },
     "clock_cat": {

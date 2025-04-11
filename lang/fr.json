@@ -1172,7 +1172,8 @@
       "condition": "Remplir le Calcarina Sea"
     },
     "alien_cellar": {
-      "name": "Cluster",
+      "name": "Intelligence des aliens",
+      "description": "J'ai bien peur que vous ne puissiez aller plus loin.",
       "condition": "Entrer dans l'Alien Cellar"
     },
     "sea_monster": {
@@ -3388,8 +3389,8 @@
       "condition": "Utiliser l'effet Croisement entre les créatures bleues dans le Celestial Garden"
     },
     "green_neon_world": {
-      "name": "Brillante récolte",
-      "description": "Champs de brillance et de lumineuses lumières",
+      "name": "Champ lumineux irréel",
+      "description": "Mêmes oubliés, ils brillent toujours tels des échos de poussières d'étoiles.",
       "condition": "Visiter le Green Neon World"
     },
     "mountain_range_scenery": {
@@ -3551,10 +3552,6 @@
       "name": "Pleine lune",
       "description": "Quel magnifique ciel étoilé...",
       "condition": "Regarder le ciel sur le toit du Techno Condominium avec l'effet Loup ou Oreilles de lapin équipé"
-    },
-    "luminous_lake_statue": {
-      "name": "Pic du Dragon",
-      "condition": "Visiter le Pic du Dragon au Luminous Lake et voir le dragon à travers le télescope"
     },
     "evergreen_woods_vm": {
       "name": "Pourquoi es-tu venue ici !?",
@@ -3805,8 +3802,8 @@
       "condition": "Voir Shimako en train de souffler des bulles aux Pure White Lands"
     },
     "angler_depths_docks": {
-      "name": "Poissons-pêcheurs obscurs des abysses",
-      "description": "Un poisson pêcheur amical qui traverse et coupe à travers la mer abyssale",
+      "name": "Plongée vers les profondeurs",
+      "description": "Là où le bleu abyssal noie le rouge",
       "condition": "Entrer dans la sous-zone des Profondeurs des Pêcheurs aux Streetlight Docks"
     },
     "axolotl_abode": {
@@ -4617,8 +4614,8 @@
       "condition": "Trouver le nouvel occupant de la boîte d'Hakoko dans la Boutique Œil du Visine World après l'avoir fait partir"
     },
     "overgrown_gate": {
-      "name": "Éden",
-      "description": "Les portes du « Jardin »",
+      "name": "Somnolence au sentier forestier",
+      "description": "Va au-delà de la lumière dans la surface de l'eau.",
       "condition": "Visiter l'Overgrown Gate"
     },
     "robot_hand_hub": {
@@ -6334,7 +6331,7 @@
     },
     "galactic_park": {
       "name": "Petit paradis étoilé",
-      "description": "Un magnifique parc étoilé 🌠",
+      "description": "Un magnifique parc étoilé ☆",
       "condition": "Visiter le Galactic Park"
     },
     "jigsaw_junction": {
@@ -7164,6 +7161,51 @@
       "name": "Fête néon",
       "description": "On aime faire la fête !",
       "condition": "Visiter le Neon Light Exhibition"
+    },
+    "dance_spiral_limb_passage": {
+      "name": "Danse du Rokurokubi",
+      "description": "Viens te joindre au fun.",
+      "condition": "Déclencher l'événement de la Danse Spirale au Spiral Limb Passage"
+    },
+    "red_friend_sabbatical_complex": {
+      "name": "Forme amicale",
+      "description": "Ne pleure pas, grand ami !",
+      "condition": "Trouver l'Ami Rouge au Sabbatical Complex"
+    },
+    "cephalo_hyper_road_maze": {
+      "name": "DJ Tenta-captivant",
+      "description": "Ouah, les gens ici sont tous des krakens !",
+      "condition": "Interagir avec Céphalo P. à l'Hyper Road Maze"
+    },
+    "unconscious_toy_world": {
+      "name": "Nostophobie",
+      "description": "Des souvenirs d'enfance couverts de poussière.",
+      "condition": "Visiter le Toy World"
+    },
+    "joy_district": {
+      "name": "=)",
+      "description": "La gastronomie locale ici est tout simplement exquise. Par ailleurs, as-tu déjà goûté à la spécialité locale, les chaussures en cuir ? =)",
+      "condition": "Visiter le Joy District"
+    },
+    "picnic_sylvan_trails": {
+      "name": "Amanitaceae",
+      "description": "Lorsque tu écoutes la musicaria des agarics, est-ce que tu les vois aussi ?",
+      "condition": "Trouver le pique-nique des filles champignons aux Sylvan Trails"
+    },
+    "statues_moth_garden": {
+      "name": "Statues et lampions",
+      "description": "La dernière virée des statues",
+      "condition": "Trouver les deux créatures blanches à la fin du ponton aux lampions au Moth Garden"
+    },
+    "bunny_monster_manuscripts": {
+      "name": "Lapinœil",
+      "description": "J'œil te vois !",
+      "condition": "Trouver le lapin géant dans l'eau aux Monster Manuscripts"
+    },
+    "achromatic_positive_hellscape": {
+      "name": "Blanc heureux",
+      "description": "AU FINAL RIEN DE TOUT CELA N'EST RÉEL",
+      "condition": "Visiter l'Achromatic Positive Hellscape"
     }
   },
   "flow": {
@@ -7398,6 +7440,11 @@
       "name": "Poumons floraux",
       "description": "Bleh.",
       "condition": "Déclencher l'action de l'effet Plante dans un lieu pluvieux"
+    },
+    "orange_slime_apartments": {
+      "name": "Slime sympathique",
+      "description": "Une gelée gluante apparaît !",
+      "condition": "Interagir avec le slime orange aux Apartments"
     }
   },
   "prayers": {
@@ -9251,8 +9298,8 @@
       "condition": "Entrer dans la Vampire's House"
     },
     "neptune": {
-      "name": "Poséidon",
-      "description": "La planète de glace qui est la clé de tout, le Voile.",
+      "name": "Vagus",
+      "description": "Le printemps pourrait-il fleurir un jour sur une planète où l'hiver est éternel... ?",
       "condition": "Visiter Neptune"
     },
     "clock_cat": {

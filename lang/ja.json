@@ -1182,7 +1182,8 @@
       "condition": "満潮のカルカリナ海を訪れる"
     },
     "alien_cellar": {
-      "name": "集合体恐怖症",
+      "name": "Alien Intelligence",
+      "description": "We're afraid that we can't let you go further.",
       "condition": "格納庫に到達する"
     },
     "sea_monster": {
@@ -3399,8 +3400,8 @@
       "condition": "楽園の水色三つ足生物にふみきりを使う"
     },
     "green_neon_world": {
-      "name": "輝きの収穫",
-      "description": "明るく輝く光の畑",
+      "name": "Ethereal Lumifield",
+      "description": "Even forgotten, they glimmer like echoes of stardust.",
       "condition": "光畑に到達する"
     },
     "mountain_range_scenery": {
@@ -3567,10 +3568,6 @@
       "name": "満月",
       "description": "美しい星月夜。",
       "condition": "星見屋上でおおかみかうさみみで空を見上げる"
-    },
-    "luminous_lake_statue": {
-      "name": "頂の龍",
-      "condition": "夢徨龍リオドリムスを訪れ、望遠鏡で龍を見る"
     },
     "evergreen_woods_vm": {
       "name": "なぜこんなところに行くのですか?",
@@ -3821,8 +3818,8 @@
       "condition": "白い世界でシャボン玉をしている縞子を見つける"
     },
     "angler_depths_docks": {
-      "name": "闇に潜むアンコウ",
-      "description": "暗闇の深海を横切る友好的なアンコウ",
+      "name": "Diving in the Depths",
+      "description": "Where the abyssal blues drown out the red",
       "condition": "釣り堀のアンコウの深海に到達する"
     },
     "axolotl_abode": {
@@ -4632,8 +4629,8 @@
       "condition": "目薬川の目薬屋さんで、箱子の別の姿を見る"
     },
     "overgrown_gate": {
-      "name": "エデン",
-      "description": "「ガーデン」のゲート",
+      "name": "Daydream in the Forest Corridor",
+      "description": "Go beyond the light within the water's surface.",
       "condition": "光と水面に到達する"
     },
     "robot_hand_hub": {
@@ -6349,7 +6346,7 @@
     },
     "galactic_park": {
       "name": "ちいさな星空の楽園",
-      "description": "星々が美しくきらめく公園 🌠",
+      "description": "星々が美しくきらめく公園 ☆",
       "condition": "虚空に到達する"
     },
     "jigsaw_junction": {
@@ -7179,6 +7176,51 @@
       "name": "ネオンパーティー",
       "description": "みんなパーティ大好き！",
       "condition": "ネオンライト通路に到達する"
+    },
+    "dance_spiral_limb_passage": {
+      "name": "Dance of the Rokurokubi",
+      "description": "Come join the fun.",
+      "condition": "Trigger the Spiral Dance event in Spiral Limb Passage"
+    },
+    "red_friend_sabbatical_complex": {
+      "name": "Friend Shaped",
+      "description": "Don't cry big one!",
+      "condition": "Find the Red Friend in Sabbatical Complex"
+    },
+    "cephalo_hyper_road_maze": {
+      "name": "Tenta-Cool DJ",
+      "description": "This party got me all kraken up!",
+      "condition": "Interact with Cephalo P. in Hyper Road Maze"
+    },
+    "unconscious_toy_world": {
+      "name": "Nostophobia",
+      "description": "Childhood memories caked in soot.",
+      "condition": "Visit Toy World"
+    },
+    "joy_district": {
+      "name": "=)",
+      "description": "The local cuisine here is just exquisite. Have you tasted the leather shoes yet? =)",
+      "condition": "Visit Joy District"
+    },
+    "picnic_sylvan_trails": {
+      "name": "Amanitaceae",
+      "description": "When you listen to the musicaria of the agaric, do you see them too?",
+      "condition": "Find the mushroom girls' picnic in Sylvan Trails"
+    },
+    "statues_moth_garden": {
+      "name": "Statues in the Lanternlight",
+      "description": "Statues' last tour",
+      "condition": "Find the two white creatures at the end of the lantern-lit boardwalk in Moth Garden"
+    },
+    "bunny_monster_manuscripts": {
+      "name": "Buneye",
+      "description": "Eye see you!",
+      "condition": "Find the giant bunny in water in Monster Manuscripts"
+    },
+    "achromatic_positive_hellscape": {
+      "name": "White Happy",
+      "description": "IN THE END NONE OF THIS IS REAL",
+      "condition": "Visit Achromatic Positive Hellscape"
     }
   },
   "flow": {
@@ -7413,6 +7455,11 @@
       "name": "花の肺",
       "description": "はぁ。",
       "condition": "雨が降る場所でしょくぶつのエフェクトの動作を見る"
+    },
+    "orange_slime_apartments": {
+      "name": "Blob Buddy",
+      "description": "A joyful jelly appears!",
+      "condition": "Interact with the orange slime in the Apartments"
     }
   },
   "prayers": {
@@ -9266,8 +9313,8 @@
       "condition": "Vampire's Houseに入る"
     },
     "neptune": {
-      "name": "ポセイドン",
-      "description": "すべての鍵を握る氷の惑星、ヴェール。",
+      "name": "Vagus",
+      "description": "Could spring ever bloom in a planet of endless winter...?",
       "condition": "Neptuneに到達する"
     },
     "clock_cat": {

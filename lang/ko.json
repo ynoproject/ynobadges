@@ -1172,7 +1172,8 @@
       "condition": "Calcarina Sea에 물을 채우기"
     },
     "alien_cellar": {
-      "name": "클러스터",
+      "name": "Alien Intelligence",
+      "description": "We're afraid that we can't let you go further.",
       "condition": "Alien Cellar에 입장하기"
     },
     "sea_monster": {
@@ -3383,8 +3384,8 @@
       "condition": "Celestial Garden의 푸른 생명체 사이에서 건널목 이펙트를 사용하기"
     },
     "green_neon_world": {
-      "name": "빛나는 수확철",
-      "description": "빛의 들판, 반짝이는 발광체들",
+      "name": "Ethereal Lumifield",
+      "description": "Even forgotten, they glimmer like echoes of stardust.",
       "condition": "Green Neon World를 방문하기"
     },
     "mountain_range_scenery": {
@@ -3546,10 +3547,6 @@
       "name": "보름달",
       "description": "별이 빛나는 아름다운 밤",
       "condition": "Techno Condominium의 옥상에서 늑대 또는 토끼귀 이펙트를 착용하고 하늘을 올려다 보기"
-    },
-    "luminous_lake_statue": {
-      "name": "우뚝 솟은 용",
-      "condition": "Luminous Lake의 Dragon's Peak 서브 에리어를 방문하고 망원경을 통해 용을 보기"
     },
     "evergreen_woods_vm": {
       "name": "여길 왜 가는 거야!?",
@@ -3800,8 +3797,8 @@
       "condition": "Pure White Lands에서 시마코 NPC가 비눗방울을 불고 있는 모습을 보기"
     },
     "angler_depths_docks": {
-      "name": "그늘진 심해아귀",
-      "description": "심해를 건너고 가르는 정겨운 아귀",
+      "name": "Diving in the Depths",
+      "description": "Where the abyssal blues drown out the red",
       "condition": "Streetlight Docks의 Angler's Depths 서브 에리어에 입장하기"
     },
     "axolotl_abode": {
@@ -4616,8 +4613,8 @@
       "condition": "Find the new occupant of Hakoko's box in the Eye Shop of Visine World after making her be gone"
     },
     "overgrown_gate": {
-      "name": "Eden",
-      "description": "The gates of the \"Garden\"",
+      "name": "Daydream in the Forest Corridor",
+      "description": "Go beyond the light within the water's surface.",
       "condition": "Visit Overgrown Gate"
     },
     "robot_hand_hub": {
@@ -6333,7 +6330,7 @@
     },
     "galactic_park": {
       "name": "Little Starry Paradise",
-      "description": "A beautiful, starry park 🌠",
+      "description": "A beautiful, starry park ☆",
       "condition": "Visit Galactic Park"
     },
     "jigsaw_junction": {
@@ -7163,6 +7160,51 @@
       "name": "Neon Party",
       "description": "We like to party!",
       "condition": "Visit Neon Light Exhibition"
+    },
+    "dance_spiral_limb_passage": {
+      "name": "Dance of the Rokurokubi",
+      "description": "Come join the fun.",
+      "condition": "Trigger the Spiral Dance event in Spiral Limb Passage"
+    },
+    "red_friend_sabbatical_complex": {
+      "name": "Friend Shaped",
+      "description": "Don't cry big one!",
+      "condition": "Find the Red Friend in Sabbatical Complex"
+    },
+    "cephalo_hyper_road_maze": {
+      "name": "Tenta-Cool DJ",
+      "description": "This party got me all kraken up!",
+      "condition": "Interact with Cephalo P. in Hyper Road Maze"
+    },
+    "unconscious_toy_world": {
+      "name": "Nostophobia",
+      "description": "Childhood memories caked in soot.",
+      "condition": "Visit Toy World"
+    },
+    "joy_district": {
+      "name": "=)",
+      "description": "The local cuisine here is just exquisite. Have you tasted the leather shoes yet? =)",
+      "condition": "Visit Joy District"
+    },
+    "picnic_sylvan_trails": {
+      "name": "Amanitaceae",
+      "description": "When you listen to the musicaria of the agaric, do you see them too?",
+      "condition": "Find the mushroom girls' picnic in Sylvan Trails"
+    },
+    "statues_moth_garden": {
+      "name": "Statues in the Lanternlight",
+      "description": "Statues' last tour",
+      "condition": "Find the two white creatures at the end of the lantern-lit boardwalk in Moth Garden"
+    },
+    "bunny_monster_manuscripts": {
+      "name": "Buneye",
+      "description": "Eye see you!",
+      "condition": "Find the giant bunny in water in Monster Manuscripts"
+    },
+    "achromatic_positive_hellscape": {
+      "name": "White Happy",
+      "description": "IN THE END NONE OF THIS IS REAL",
+      "condition": "Visit Achromatic Positive Hellscape"
     }
   },
   "flow": {
@@ -7397,6 +7439,11 @@
       "name": "Floral Lungs",
       "description": "Blegh.",
       "condition": "Trigger the Plant effect's action in a rainy place"
+    },
+    "orange_slime_apartments": {
+      "name": "Blob Buddy",
+      "description": "A joyful jelly appears!",
+      "condition": "Interact with the orange slime in the Apartments"
     }
   },
   "prayers": {
@@ -9250,8 +9297,8 @@
       "condition": "Vampire's House에 입장하기"
     },
     "neptune": {
-      "name": "포세이돈",
-      "description": "모든 것의 열쇠를 쥔 얼음 행성, 베일.",
+      "name": "Vagus",
+      "description": "Could spring ever bloom in a planet of endless winter...?",
       "condition": "Neptune을 방문하기"
     },
     "clock_cat": {
