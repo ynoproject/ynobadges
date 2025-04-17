@@ -510,6 +510,18 @@
       "name": "Consolation Prize",
       "description": "A cheap award made of plastic",
       "condition": "Score exactly 290 points in the secret mode of NASU"
+    },
+    "staircase_nikki": {
+      "name": "Nightmarish Descent",
+      "description": "Did you really lie on all those beds to get this? Weird",
+      "condition": "Reach Staircase of Hands from Madotsuki's Dream Room, Block World, Snow World, Candle World, and Number World",
+      "checkbox": {
+        "staircase_hands_1": "Madotsuki's Dream Room",
+        "staircase_hands_2": "Block World",
+        "staircase_hands_3": "Snow World",
+        "staircase_hands_4": "Candle World",
+        "staircase_hands_5": "Number World"
+      }
     }
   },
   "2kki": {
@@ -1815,8 +1827,8 @@
       "condition": "Enter Rainy Apartments"
     },
     "techno_karaoke": {
-      "name": "Techno Karaoke",
-      "description": "* A small riot *",
+      "name": "Virtual Rave Night",
+      "description": "Like to join in?",
       "condition": "Interact with the Pink Girl in the Karaoke room in Virtual City"
     },
     "tomato_world": {
@@ -6334,6 +6346,60 @@
       "name": "Life and Death",
       "description": "Spes enim est arboris, si praecisum fuerit, quod iterum germinetur, et non cessabit pampinus eius.",
       "condition": "Chainsaw the Tree of Life at the Blood Cell Sea"
+    },
+    "rotten_sea": {
+      "name": "Marine Snow",
+      "description": "The basin for all rotten things.",
+      "condition": "Visit Rotten Sea"
+    },
+    "bunny_ears_animated_hub": {
+      "name": "Bunimation",
+      "description": "Guaranteed to keep the vegetable supplies in check. Might possibly become a hat.",
+      "condition": "Equip the Bunny Ears effect near the shapeshifting statue in Animated Hub"
+    },
+    "neon_caves": {
+      "name": "Neon Den",
+      "description": "The dance of the neon creatures!!",
+      "condition": "Visit Neon Caves"
+    },
+    "snake_woman_snowdrop_garden": {
+      "name": "Snowy Hisstress",
+      "description": "Pleassse learn sssome mannersss.",
+      "condition": "Attempt to chainsaw the snake woman in Snowdrop Garden"
+    },
+    "frenetic_alt": {
+      "name": "Transfiguration",
+      "description": "Flowers, faces, flowers, faces, flowers, eyes, eyes, eyes, gaze...",
+      "condition": "See the main area of Frenetic in its alternative state"
+    },
+    "silkworm_forest": {
+      "name": "Fragile Lifecycle",
+      "condition": "Visit Silkworm Forest"
+    },
+    "ninja_oriental_dojo": {
+      "name": "I Saw Through It!",
+      "description": "Oops, close call...",
+      "condition": "Attempt to chainsaw the ninja in Oriental Dojo"
+    },
+    "lovers_alrescha_sea": {
+      "name": "Lover Mermaids",
+      "description": "Connected by hearts, Separated by glass.",
+      "condition": "Find the true identity of the two lovers in Alrescha Sea"
+    },
+    "windmill_barcode_plains": {
+      "name": "Bitcrushed Breezes",
+      "description": "Guess you could say the winds are... accelerating",
+      "condition": "Reach the Windmill Lake of Barcode Plains"
+    },
+    "purple_orb_floral_nexus": {
+      "name": "Luminous Florus",
+      "description": "Which color do you like more?",
+      "condition": "Interact with the purple orb in Floral Nexus"
+    },
+    "twisted_cone_world_mask": {
+      "name": "... And Now I'm a Wizard",
+      "description": "A funky hat for a funky gal",
+      "condition": "Equip the cone hat mask in Twisted Cone World"
     }
   },
   "unconscious": {
@@ -7197,6 +7263,16 @@
       "name": "White Happy",
       "description": "IN THE END NONE OF THIS IS REAL",
       "condition": "Visit Achromatic Positive Hellscape"
+    },
+    "cheshi_monster_manuscripts": {
+      "name": "A Strange Guide",
+      "description": "I wonder where he'll take me...",
+      "condition": "Interact with Cheshi in Monster Manuscripts"
+    },
+    "comfy_cabin_snowy_world": {
+      "name": "Hot Cocoa",
+      "description": "Coming in from the cold just feels so nice.",
+      "condition": "Equip the comfy costume in the Cabin of Snowy World"
     }
   },
   "flow": {
@@ -8426,6 +8502,10 @@
       "name": "Getting All Around the Science",
       "description": "Hello, Danaë!",
       "condition": "Explore every hall in the Science Museum"
+    },
+    "door_smugglers_hideout": {
+      "name": "I Gently Open the Door...",
+      "condition": "Reach the room of the hanged man in Smugglers' Hideout"
     }
   },
   "muma": {
@@ -9969,6 +10049,11 @@
       "name": "Little Artist",
       "description": "Bring colors to my world!",
       "condition": "Use all of the colors in Paint World"
+    },
+    "prisoner_prison_chambers": {
+      "name": "Just Visiting!",
+      "description": "It's actually not so bad in here! Just don't stand in the bottom-right corner.",
+      "condition": "Interact with the lone prisoner in Prison Chambers"
     }
   },
   "oneshot": {
