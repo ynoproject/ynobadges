@@ -522,15 +522,15 @@
       "condition": "NASUの隠れたモードで290点ちょうどを取る"
     },
     "staircase_nikki": {
-      "name": "Nightmarish Descent",
-      "description": "Did you really lie on all those beds to get this? Weird",
-      "condition": "Reach Staircase of Hands from Madotsuki's Dream Room, Block World, Snow World, Candle World, and Number World",
+      "name": "悪夢のような下降",
+      "description": "本当にベッドに入るだけでこんなところまで？妙だな",
+      "condition": "夢のマイルーム、ブロックの世界、雪の世界、蝋燭の世界、ベッドとタンス部屋からベッドの中の階段に到達する",
       "checkbox": {
-        "staircase_hands_1": "Madotsuki's Dream Room",
-        "staircase_hands_2": "Block World",
-        "staircase_hands_3": "Snow World",
-        "staircase_hands_4": "Candle World",
-        "staircase_hands_5": "Number World"
+        "staircase_hands_1": "夢のマイルーム",
+        "staircase_hands_2": "ブロックの世界",
+        "staircase_hands_3": "雪の世界",
+        "staircase_hands_4": "蝋燭の世界",
+        "staircase_hands_5": "ベッドとタンス部屋"
       }
     }
   },
@@ -7244,59 +7244,59 @@
       "condition": "ネオンライト通路に到達する"
     },
     "dance_spiral_limb_passage": {
-      "name": "Dance of the Rokurokubi",
-      "description": "Come join the fun.",
-      "condition": "Trigger the Spiral Dance event in Spiral Limb Passage"
+      "name": "ろくろ首ダンス",
+      "description": "一緒に楽しもう。",
+      "condition": "螺旋肢の通路で捻じれの踊りイベントを見る"
     },
     "red_friend_sabbatical_complex": {
-      "name": "Friend Shaped",
-      "description": "Don't cry big one!",
-      "condition": "Find the Red Friend in Sabbatical Complex"
+      "name": "かわいいかたち",
+      "description": "泣かないで、おっきな子！",
+      "condition": "廃病院で赤色の友達を見つける"
     },
     "cephalo_hyper_road_maze": {
-      "name": "Tenta-Cool DJ",
-      "description": "This party got me all kraken up!",
-      "condition": "Interact with Cephalo P. in Hyper Road Maze"
+      "name": "DJテンタクール",
+      "description": "みんなを巻き込むパーティーだ！",
+      "condition": "ネオン道路迷路のネオンDJに話しかける"
     },
     "unconscious_toy_world": {
-      "name": "Nostophobia",
-      "description": "Childhood memories caked in soot.",
-      "condition": "Visit Toy World"
+      "name": "帰郷恐怖症",
+      "description": "煤にまみれた幼い頃の記憶。",
+      "condition": "おもちゃの家に到達する"
     },
     "joy_district": {
-      "name": "=)",
-      "description": "The local cuisine here is just exquisite. Have you tasted the leather shoes yet? =)",
-      "condition": "Visit Joy District"
+      "name": "(╹◡╹)",
+      "description": "ここの郷土料理は絶品だよ。革靴はもう味わった？ (╹◡╹)",
+      "condition": "夜光の街に到達する"
     },
     "picnic_sylvan_trails": {
-      "name": "Amanitaceae",
-      "description": "When you listen to the musicaria of the agaric, do you see them too?",
-      "condition": "Find the mushroom girls' picnic in Sylvan Trails"
+      "name": "テングタケ科",
+      "description": "テングダケのウキウキノコな曲を聞いたら、あなたもあの子たちが見えるかもしれないね？",
+      "condition": "精霊の森でピクニックを楽しむ妖精たちを見つける"
     },
     "statues_moth_garden": {
-      "name": "Statues in the Lanternlight",
-      "description": "Statues' last tour",
-      "condition": "Find the two white creatures at the end of the lantern-lit boardwalk in Moth Garden"
+      "name": "ランタンに照らされた像",
+      "description": "像の終末旅行",
+      "condition": "蛾の森で色とりどりのランタンに照らされた橋の先にいるのっぽクリーチャーを見つける"
     },
     "bunny_monster_manuscripts": {
-      "name": "Buneye",
-      "description": "Eye see you!",
-      "condition": "Find the giant bunny in water in Monster Manuscripts"
+      "name": "ウサ見",
+      "description": "さよウサら！",
+      "condition": "おとぎ話の巨大ウサギを見つける"
     },
     "achromatic_positive_hellscape": {
-      "name": "White Happy",
+      "name": "ホワイトハッピー",
       "description": "IN THE END NONE OF THIS IS REAL",
-      "condition": "Visit Achromatic Positive Hellscape"
+      "condition": "無彩色地獄に到達する"
     },
     "cheshi_monster_manuscripts": {
-      "name": "A Strange Guide",
-      "description": "I wonder where he'll take me...",
-      "condition": "Interact with Cheshi in Monster Manuscripts"
+      "name": "奇妙なガイド",
+      "description": "どこに連れてかれるんだろう……",
+      "condition": "おとぎ話でチシャ猫に話しかける"
     },
     "comfy_cabin_snowy_world": {
-      "name": "Hot Cocoa",
-      "description": "Coming in from the cold just feels so nice.",
-      "condition": "Equip the comfy costume in the Cabin of Snowy World"
+      "name": "ホットココア",
+      "description": "暖かい家に帰ってくるのは心地がいい",
+      "condition": "雪景色のコテージ内で冬服に着替える"
     }
   },
   "flow": {
@@ -7533,9 +7533,9 @@
       "condition": "雨が降る場所でしょくぶつのエフェクトの動作を見る"
     },
     "orange_slime_apartments": {
-      "name": "Blob Buddy",
-      "description": "A joyful jelly appears!",
-      "condition": "Interact with the orange slime in the Apartments"
+      "name": "どろどろの相棒",
+      "description": "うれしそうな　スライムが　あらわれた！",
+      "condition": "アパートにいるオレンジ色の生物に話しかける"
     }
   },
   "prayers": {
@@ -8528,8 +8528,8 @@
       "condition": "Science Museumの全てのホールに到達する"
     },
     "door_smugglers_hideout": {
-      "name": "I Gently Open the Door...",
-      "condition": "Reach the room of the hanged man in Smugglers' Hideout"
+      "name": "私はゆっくりとドアを開ける",
+      "condition": "Smugglers' Hideoutの首を吊った人がいる部屋に到達する"
     }
   },
   "muma": {
@@ -9394,7 +9394,7 @@
     },
     "neptune": {
       "name": "Vagus",
-      "description": "Could spring ever bloom in a planet of endless winter...?",
+      "description": "果てしない冬の惑星に冬が訪れることはあるのだろうか……？",
       "condition": "Neptuneに到達する"
     },
     "clock_cat": {
@@ -10089,9 +10089,9 @@
       "condition": "Paint Worldで全ての色の絵の具を使う"
     },
     "prisoner_prison_chambers": {
-      "name": "Just Visiting!",
-      "description": "It's actually not so bad in here! Just don't stand in the bottom-right corner.",
-      "condition": "Interact with the lone prisoner in Prison Chambers"
+      "name": "会いに来ただけ！",
+      "description": "ここはそんなに悪いところじゃないよ！右下に立たなければね。",
+      "condition": "Prison Chambersの孤独な囚人に話しかける"
     }
   },
   "oneshot": {
