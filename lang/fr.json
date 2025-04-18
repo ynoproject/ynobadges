@@ -510,6 +510,18 @@
       "name": "Prix de consolation",
       "description": "À ce prix-là, elle aurait pu être en chocolat...",
       "condition": "Marquer exactement 290 points dans le mode secret de NASU"
+    },
+    "staircase_nikki": {
+      "name": "Descente cauchemardesque",
+      "description": "Rêver dans un rêve... tu dors si peu que ça ? Vraiment ?",
+      "condition": "Atteindre le Staircase of Hands depuis Madotsuki's Dream Room, Block World, Snow World, Candle World et Number World",
+      "checkbox": {
+        "staircase_hands_1": "Madotsuki's Dream Room",
+        "staircase_hands_2": "Block World",
+        "staircase_hands_3": "Snow World",
+        "staircase_hands_4": "Candle World",
+        "staircase_hands_5": "Number World"
+      }
     }
   },
   "2kki": {
@@ -1818,8 +1830,8 @@
       "condition": "Entrer dans les Rainy Apartments"
     },
     "techno_karaoke": {
-      "name": "Karaoké techno",
-      "description": "Qu'est-ce que tu dis ? J'entends rien avec tout ce bruit !",
+      "name": "Fête nocturne virtuelle",
+      "description": "Veux-tu nous rejoindre ?",
       "condition": "Interagir avec la Fille Rose dans la salle de Karaoké de la Virtual City"
     },
     "tomato_world": {
@@ -6343,6 +6355,60 @@
       "name": "Vie et mort",
       "description": "Spes enim est arboris, si praecisum fuerit, quod iterum germinetur, et non cessabit pampinus eius.",
       "condition": "Tronçonner l'arbre de vie à la Blood Cell Sea"
+    },
+    "rotten_sea": {
+      "name": "Profondeurs obscures",
+      "description": "Le bassin de toutes les choses pourries.",
+      "condition": "Visiter la Rotten Sea"
+    },
+    "bunny_ears_animated_hub": {
+      "name": "Lapimation",
+      "description": "Assurez-vous de garder des légumes en quantité suffisante. Pourrait devenir un chapeau, mais rien de sûr.",
+      "condition": "Équiper l'effet Oreilles de lapin à coté de la statue se transformant à l'Animated Hub"
+    },
+    "neon_caves": {
+      "name": "Antre néon",
+      "description": "La danse des créatures néons !!",
+      "condition": "Visiter les Neon Caves"
+    },
+    "snake_woman_snowdrop_garden": {
+      "name": "Majesssssté enneigée",
+      "description": "Ma trèèès chèèère, apprends à bieeeen te comporter.",
+      "condition": "Essayer de tronçonner la femme serpent au Snowdrop Garden"
+    },
+    "frenetic_alt": {
+      "name": "Transfiguration",
+      "description": "Des fleurs, des visages, et un regard, un regard...",
+      "condition": "Voir la zone principale de Frenetic dans son état alternatif"
+    },
+    "silkworm_forest": {
+      "name": "Cycle de vie fragile",
+      "condition": "Visiter la Silkworm Forest"
+    },
+    "ninja_oriental_dojo": {
+      "name": "T'as cru que je verrais pas ça, hein ?",
+      "description": "Oups, j'avais presque réussi...",
+      "condition": "Essayer de tronçonner la ninja à l'Oriental Dojo"
+    },
+    "lovers_alrescha_sea": {
+      "name": "Sirènes amantes",
+      "description": "Liées par des cœurs, séparées par des lunettes.",
+      "condition": "Révéler la véritable identité des deux amants à l'Alrescha Sea"
+    },
+    "windmill_barcode_plains": {
+      "name": "Brises monochromes",
+      "description": "Qu'importe le lieu, une chose est sûre, le vent souffle.",
+      "condition": "Atteindre le Lac Moulin à Vent aux Barcode Plains"
+    },
+    "purple_orb_floral_nexus": {
+      "name": "Fleur lumineuse",
+      "description": "Alors, tu préfères quelle couleur ?",
+      "condition": "Interagir avec l'orbe violet au Floral Nexus"
+    },
+    "twisted_cone_world_mask": {
+      "name": "Icône des cônes",
+      "description": "Quiconque ayant travaillé dans le BTP reconnaîtra ce chapeau singulier, aimé de toutes et tous pour sa sécurisation des lieux... bien qu'on préfère le voir partir au plus vite une fois les travaux finis.",
+      "condition": "Équiper le masque chapeau cône au Twisted Cone World"
     }
   },
   "unconscious": {
@@ -7206,6 +7272,16 @@
       "name": "Blanc heureux",
       "description": "AU FINAL RIEN DE TOUT CELA N'EST RÉEL",
       "condition": "Visiter l'Achromatic Positive Hellscape"
+    },
+    "cheshi_monster_manuscripts": {
+      "name": "Un guide étrange",
+      "description": "Je me demande où est-ce qu'il va m'emmener...",
+      "condition": "Interagir avec Cheshi aux Monster Manuscripts"
+    },
+    "comfy_cabin_snowy_world": {
+      "name": "Chocolat chaud",
+      "description": "Venir ici en sortant du froid de l'hiver, ça fait tellement du bien...",
+      "condition": "Équiper la tenue bien au chaud au Chalet de Snowy World"
     }
   },
   "flow": {
@@ -8435,6 +8511,10 @@
       "name": "Tour de la science",
       "description": "Bonjour, Danaë !",
       "condition": "Explorer chaque hall du Science Museum"
+    },
+    "door_smugglers_hideout": {
+      "name": "J'ouvre doucement la porte...",
+      "condition": "Atteindre la salle de l'homme pendu au Smugglers' Hideout"
     }
   },
   "muma": {
@@ -9992,6 +10072,11 @@
       "name": "P'tite artiste",
       "description": "Ramène toutes les couleurs dans mon monde !",
       "condition": "Utiliser toutes les couleurs dans le Paint World"
+    },
+    "prisoner_prison_chambers": {
+      "name": "Petite visite de prison !",
+      "description": "C'est pas si mal ici en vrai ! Juste, ne va pas dans le coin en bas à droite...",
+      "condition": "Interagir avec le prisonnier isolé aux Prison Chambers"
     }
   },
   "oneshot": {
