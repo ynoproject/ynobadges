@@ -478,49 +478,49 @@
       "condition": "Invoca un estruendo de rayos y centellas usando el efecto Demonio en el Bosque Denso A"
     },
     "snow_woman_effect": {
-      "name": "The Snowy Spirit",
-      "description": "This ancient spirit returns incarnated in your own body",
-      "condition": "Obtain the Snow Woman effect. If you have already unlocked it, return to Snow World."
+      "name": "El Espíritu de la Nieve",
+      "description": "Este antiguo espíritu regresa encarnado en tu propio cuerpo.",
+      "condition": "Obtén el efecto Mujer de la Nieve. Si ya lo has desbloqueado, regresa al Mundo Nevado."
     },
     "flute_effect": {
-      "name": "Floating Notes",
-      "condition": "Obtain the Flute effect. If you have already unlocked it, return to the Flute room in the Mall."
+      "name": "Notas Flotantes",
+      "condition": "Obtén el efecto Flauta. Si ya lo has desbloqueado, regresa al Centro Comercial."
     },
     "midget_effect": {
-      "name": "March of the Minis",
-      "description": "We are one! We are many!",
-      "condition": "Obtain the Midget effect. If you have already unlocked it, return to Candle World."
+      "name": "La Marcha de los Minis",
+      "description": "¡Somos uno! ¡Somos muchos!",
+      "condition": "Obtén el efecto Enano. Si ya lo has desbloqueado, regresa al Mundo de las velas."
     },
     "witch_effect": {
-      "name": "Yume Witchi",
-      "description": "A magical girl with an amazing, floating broom! (Note: Results may be disappointing. If dissatisfied, consider riding a bicycle.)",
-      "condition": "Obtain the Witch effect. If you have already unlocked it, return at the end of the Witch's Island."
+      "name": "Yume Brujita",
+      "description": "¡Una chica mágica con una increible escoba flotante! (Nota: Los resultados pueden ser deceptionantes. En caso de no sentirse satisfecho, considere montar una bicicleta.",
+      "condition": "Obtén el efecto Bruja. Si ya lo has desbloqueado regresa al final de La Isla de la Bruja."
     },
     "hat_and_scarf_effect": {
-      "name": "Warmth",
-      "description": "Don't catch a cold!",
-      "condition": "Obtain the Hat & Scarf effect. If you have already unlocked it, return to Block World."
+      "name": "Calidez",
+      "description": "¡No te resfríes!",
+      "condition": "Obtén el efecto Gorro y Bufanda. Si ya lo has desbloqueado, regresa al Mundo de los bloques."
     },
     "kitchen_knife_effect": {
-      "name": "Shiny Knife",
-      "description": "You can see your reflection in the blade",
-      "condition": "Obtain the Kitchen Knife effect. If you have already unlocked it, return to Dark World."
+      "name": "Cuchillo Brillante",
+      "description": "Puedes ver tu reflejo en el cuchillo.",
+      "condition": "Obtén el efecto Cuchillo de Cocina. Si ya lo has desbloqueado, regresa al Mundo Oscuro."
     },
     "nasu_ruby": {
-      "name": "Consolation Prize",
-      "description": "A cheap award made of plastic",
-      "condition": "Score exactly 290 points in the secret mode of NASU"
+      "name": "Premio de Consolación",
+      "description": "Un premio barato hecho de plástico.",
+      "condition": "Obtén exactamente 290 puntos en el modo secreto de NASU"
     },
     "staircase_nikki": {
-      "name": "Nightmarish Descent",
-      "description": "Did you really lie on all those beds to get this? Weird",
-      "condition": "Reach Staircase of Hands from Madotsuki's Dream Room, Block World, Snow World, Candle World, and Number World",
+      "name": "Descenso Pesadillesco",
+      "description": "¿Realmente te recostaste en todas esas camas para obtener esto? Que raro.",
+      "condition": "Llega a la Escalera de las Manos desde Cuarto Onírico de Madotsuki, Mundo de los Bloques, Mundo Nevado, Mundo de las velas y Mundo Numérico",
       "checkbox": {
-        "staircase_hands_1": "Madotsuki's Dream Room",
-        "staircase_hands_2": "Block World",
-        "staircase_hands_3": "Snow World",
-        "staircase_hands_4": "Candle World",
-        "staircase_hands_5": "Number World"
+        "staircase_hands_1": "Cuarto Onírico de Madotsuki",
+        "staircase_hands_2": "Mundo de los Bloques",
+        "staircase_hands_3": "Mundo Nevado",
+        "staircase_hands_4": "Mundo de las velas",
+        "staircase_hands_5": "Mundo Numérico"
       }
     }
   },
@@ -968,7 +968,7 @@
       "condition": "Using the Glasses or Grave effect, see the ghostly inhabitants of the Ancient Hydrangea City"
     },
     "originator_garden": {
-      "name": "Myths and Origins",
+      "name": "Secrets Unraveled",
       "condition": "Enter the main area of the Originator Garden"
     },
     "bsides": {
@@ -6165,7 +6165,7 @@
     "roux_art_exposition": {
       "name": "Eye of the Beholder",
       "description": "\"The human body is like a piece of art: many adore it, but the owner loathes it.\" -T",
-      "condition": "Find the warped painting of Urotsuki in the Art Exposition"
+      "condition": "Interact with the warped painting of Urotsuki in the Art Exposition"
     },
     "sea_sponge_path": {
       "name": "Lumen Cove",
@@ -7308,6 +7308,41 @@
       "name": "Hot Cocoa",
       "description": "Coming in from the cold just feels so nice.",
       "condition": "Equip the comfy costume in the Cabin of Snowy World"
+    },
+    "guitarist_sunset_woods": {
+      "name": "Sunset Serenade",
+      "description": "... I think I'll stay here.",
+      "condition": "Listen to the guitarist's song in the Sunset Woods"
+    },
+    "moon_clockwork_backstage": {
+      "name": "Mechanical Moon",
+      "description": "Above the stage, in golden tune, hovers the clockwork-crafted moon.",
+      "condition": "See the moon in Clockwork Backstage"
+    },
+    "mantis_shattered_realm": {
+      "name": "He Getting Jiggy with It!",
+      "description": "Dancing by their lonesome... well at least the music is catchy!",
+      "condition": "See the tall guy in the small room in Shattered Realm"
+    },
+    "zen_garden": {
+      "name": "Gardens of Sand",
+      "description": "A delicate and serene garden of rocks and white sand",
+      "condition": "Visit Zen Garden"
+    },
+    "fox_fantasy_forest": {
+      "name": "The Art of Taming",
+      "description": "If you tame me, you will be unique in all the world to me and I shall be unique in all the world to you.",
+      "condition": "Find and interact with the Mystic Fox in Fantasy Forest"
+    },
+    "tooth_menu_sickly_sweet": {
+      "name": "Sweet Temptation",
+      "description": "There's no escape now",
+      "condition": "Obtain the Tooth Decay menu theme. If you have already unlocked it, return where it can be found in Sickly Sweet."
+    },
+    "tree_flesh_pit": {
+      "name": "The Forest That Hates You",
+      "description": "Mess with the trees, SNAP go your knees.",
+      "condition": "Interact with the tree leading to Flesh Pit during the Tree Attack event in Untamed Forest"
     }
   },
   "flow": {
