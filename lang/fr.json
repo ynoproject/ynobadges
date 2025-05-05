@@ -7561,7 +7561,7 @@
     "cat_rainbow_maze": {
       "name": "Chat rouille",
       "description": "Oh, un adorable chaton aux couleurs de la neige !",
-      "condition": "Obtenir l'effet Chat. Si vous l'avez déjà obtenu, retournez là où l'effet peut être trouvé au Rainbow Maze."
+      "condition": "Obtenir l'effet Chat. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Rainbow Maze."
     },
     "oreko_hole_deadhole": {
       "name": "Écho abyssal",
@@ -7591,6 +7591,30 @@
       "name": "Péché et exécution",
       "description": "Abandonne tout espoir, toi qui en est venue là.",
       "condition": "Accéder à Hell en utilisant la guillotine en Prison"
+    },
+    "whistle_effect_flow": {
+      "name": "Arbitre à l'ouest",
+      "condition": "Obtenir l'effet Sifflet. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Visceral World."
+    },
+    "viscera_effect": {
+      "name": "Boyaux à l'air libre",
+      "description": "Quel foutoir...",
+      "condition": "Obtenir l'effet Viscères. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Womb Maze."
+    },
+    "broom_effect_flow": {
+      "name": "Sabi la petite sorcière",
+      "description": "« Je m'appelle Sabi et je suis une sorcière ! »",
+      "condition": "Obtenir l'effet Balai. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Famicom World."
+    },
+    "uniform_effect_flow": {
+      "name": "Retour à l'école !",
+      "description": "Au moins l'uniforme ici est sympa !",
+      "condition": "Obtenir l'effet Uniforme. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à la School."
+    },
+    "dress_effect_flow": {
+      "name": "Robe enneigée parfumée",
+      "description": "Une jolie robe que j'aurais aimée.",
+      "condition": "Obtenir l'effet Robe. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Snow World."
     }
   },
   "prayers": {
@@ -9353,6 +9377,11 @@
       "name": "Urbanisation fantomatique",
       "description": "Il y avait une grosse coupure de courant cette nuit là-bas",
       "condition": "Voir la vue depuis le balcon du Banquet Hall"
+    },
+    "android_effect": {
+      "name": "Andromède violette",
+      "description": "Le vrai rêve de puissance.",
+      "condition": "Obtenir l'effet Gynoïde. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à la Space Station."
     }
   },
   "sheawaits": {
@@ -9654,6 +9683,16 @@
       "name": "Canette radieuse",
       "description": "100% sans danger pour l'estomac ! Qui n'aime pas les échantillons gratuits ?",
       "condition": "Acheter un radon du distributeur automatique au Noble Gas District"
+    },
+    "gargoyle_effect": {
+      "name": "Brave souvenir",
+      "description": "Au sein d'un labyrinthe de remparts de château se trouvait une statue de gargouille solitaire. Même si son travail est de s'asseoir là pour éloigner le mal, elle doit parfois se sentir seule.",
+      "condition": "Obtenir l'effet Gargouille. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé aux Ramparts."
+    },
+    "wendigo_effect": {
+      "name": "Étrange souvenir",
+      "description": "Au fin fond d'une forêt d'arbres écarlates se trouvait un grand monstre. Ses yeux brillaient d'une lueur rouge sang, ravivant en moi des souvenirs refoulés.",
+      "condition": "Obtenir l'effet Wendigo. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Scarlet World."
     }
   },
   "tsushin": {
