@@ -40,11 +40,11 @@
     },
     "vm_bronze": {
       "name": "Achador de Máquinas de Venda Bronze",
-      "condition": "Complete 10 Expedições de Buscas de Maquina de Vendas"
+      "condition": "Complete 15 Expedições de Buscas de Maquina de Vendas"
     },
     "vm_silver": {
       "name": "Achador de Máquinas de Venda Prata",
-      "condition": "Complete 25 Expedições de Buscas de Maquina de Vendas"
+      "condition": "Complete 30 Expedições de Buscas de Maquina de Vendas"
     },
     "vm_gold": {
       "name": "Achador de Máquinas de Venda Ouro",
@@ -52,11 +52,11 @@
     },
     "vm_platinum": {
       "name": "Achador de Máquinas de Venda Platina",
-      "condition": "Complete 100 Expedições de Buscas de Maquina de Vendas"
+      "condition": "Complete 75 Expedições de Buscas de Maquina de Vendas"
     },
     "vm_diamond": {
       "name": "Achador de Máquinas de Venda Diamante",
-      "condition": "Complete 200 Expedições de Buscas de Maquina de Vendas"
+      "condition": "Complete 100 Expedições de Buscas de Maquina de Vendas"
     },
     "exp_amulet": {
       "name": "Amuleto do Expedicionista",
@@ -527,27 +527,27 @@
   "2kki": {
     "compass": {
       "name": "Complecionista de Expedição",
-      "condition": "Conclua expedições de 30% dos locais disponíveis"
+      "condition": "Complete expeditions to 25 unique locations"
     },
     "compass_bronze": {
       "name": "Complecionista de Expedição Bronze",
-      "condition": "Conclua expedições de 50% dos locais disponíveis"
+      "condition": "Complete expeditions to 50 unique locations"
     },
     "compass_silver": {
       "name": "Complecionista de Expedição Prata",
-      "condition": "Conclua expedições de 70% dos locais disponíveis"
+      "condition": "Complete expeditions to 100 unique locations"
     },
     "compass_gold": {
       "name": "Complecionista de Expedição Ouro",
-      "condition": "Conclua expedições de 80% dos locais disponíveis"
+      "condition": "Complete expeditions to 200 unique locations"
     },
     "compass_platinum": {
       "name": "Complecionista de Expedição Platina",
-      "condition": "Conclua expedições de 90% dos locais disponíveis"
+      "condition": "Complete expeditions to 400 unique locations"
     },
     "compass_diamond": {
       "name": "Complecionista de Expidição Diamante",
-      "condition": "Conclua expedições de 95% dos locais disponíveis"
+      "condition": "Complete expeditions to 800 unique locations"
     },
     "uro_trophy_bronze": {
       "name": "Troféu Urotsuki de Bronze",
@@ -7586,6 +7586,30 @@
       "name": "Guilt & Execution",
       "description": "Abandon hope all ye who enter here.",
       "condition": "Access Hell using the guillotine in Prison"
+    },
+    "whistle_effect_flow": {
+      "name": "Rusty Referee",
+      "condition": "Obtain the Whistle effect. If you have already unlocked it, return where it can be found in Visceral World."
+    },
+    "viscera_effect": {
+      "name": "Spill Your Guts",
+      "description": "What a mess...",
+      "condition": "Obtain the Viscera effect. If you have already unlocked it, return where it can be found in Womb Maze."
+    },
+    "broom_effect_flow": {
+      "name": "Sabi's Delivery Service",
+      "description": "You'll truly feel alive every day.",
+      "condition": "Obtain the Broom effect. If you have already unlocked it, return where it can be found in Famicom World."
+    },
+    "uniform_effect_flow": {
+      "name": "Back at School!",
+      "description": "At least the uniform is nice!",
+      "condition": "Obtain the Uniform effect. If you have already unlocked it, return where it can be found in School."
+    },
+    "dress_effect_flow": {
+      "name": "Fragrance Snowy Dress",
+      "description": "A nice pretty dress I would've liked.",
+      "condition": "Obtain the Dress effect. If you have already unlocked it, return where it can be found in Snow World."
     }
   },
   "prayers": {
@@ -9347,6 +9371,11 @@
       "name": "Urbanização Fantasma",
       "description": "Houve um grande apagão hoje à noite na região",
       "condition": "Veja a vista da sacada do Banquet Hall"
+    },
+    "android_effect": {
+      "name": "Violet Andromeda",
+      "description": "Now you're dreaming with power.",
+      "condition": "Obtain the Android effect. If you have already unlocked it, return where it can be found in Space Station."
     }
   },
   "sheawaits": {
@@ -9648,6 +9677,16 @@
       "name": "Jar o' Radon",
       "description": "100% safe to ingest! Who doesn't love a free sample?",
       "condition": "Buy a radon from the vending machine in the Noble Gas District"
+    },
+    "gargoyle_effect": {
+      "name": "Brave Memory",
+      "description": "Within a maze of castle ramparts was a lonesome gargoyle statue. Even if their job is to sit there warding off evil, it must get lonely sometimes.",
+      "condition": "Obtain the Gargoyle effect. If you have already unlocked it, return where it can be found in Ramparts."
+    },
+    "wendigo_effect": {
+      "name": "Unwanted Memories",
+      "description": "Deep within a forest of scarlet trees was a tall monster. Its eyes glowed with a color similar to that of blood, unwanted memories arose in me.",
+      "condition": "Obtain the Wendigo effect. If you have already unlocked it, return where it can be found in Scarlet World."
     }
   },
   "tsushin": {
