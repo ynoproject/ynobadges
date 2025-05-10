@@ -40,11 +40,11 @@
     },
     "vm_bronze": {
       "name": "Бронзовый искатель торговых автоматов",
-      "condition": "Завершите 10 походов Искателя торговых автоматов."
+      "condition": "Завершите 15 походов Искателя торговых автоматов."
     },
     "vm_silver": {
       "name": "Серебряный искатель торговых автоматов",
-      "condition": "Завершите 25 походов Искателя торговых автоматов."
+      "condition": "Завершите 30 походов Искателя торговых автоматов."
     },
     "vm_gold": {
       "name": "Золотой искатель торговых автоматов",
@@ -52,11 +52,11 @@
     },
     "vm_platinum": {
       "name": "Платиновый искатель торговых автоматов",
-      "condition": "Завершите 100 походов Искателя торговых автоматов."
+      "condition": "Завершите 75 походов Искателя торговых автоматов."
     },
     "vm_diamond": {
       "name": "Алмазный Искатель Торговых Автоматов",
-      "condition": "Завершите 200 походов Искателя торговых автоматов."
+      "condition": "Завершите 100 походов Искателя торговых автоматов."
     },
     "exp_amulet": {
       "name": "Амулет путешественника",
@@ -527,27 +527,27 @@
   "2kki": {
     "compass": {
       "name": "Медаль путешественника",
-      "condition": "Совершите походы в 30% доступных локаций."
+      "condition": "Complete expeditions to 25 unique locations"
     },
     "compass_bronze": {
       "name": "Бронзовая медаль путешественника",
-      "condition": "Совершите походы в 50% доступных локаций."
+      "condition": "Complete expeditions to 50 unique locations"
     },
     "compass_silver": {
       "name": "Серебряная медаль путешественника",
-      "condition": "Совершите походы в 70% доступных локаций."
+      "condition": "Complete expeditions to 100 unique locations"
     },
     "compass_gold": {
       "name": "Золотая медаль путешественника",
-      "condition": "Совершите походы в 80% доступных локаций."
+      "condition": "Complete expeditions to 200 unique locations"
     },
     "compass_platinum": {
       "name": "Платиновая медаль путешественника",
-      "condition": "Совершите походы в 90% доступных локаций."
+      "condition": "Complete expeditions to 400 unique locations"
     },
     "compass_diamond": {
       "name": "Алмазная медаль путешественника",
-      "condition": "Совершите походы в 95% доступных локаций."
+      "condition": "Complete expeditions to 800 unique locations"
     },
     "uro_trophy_bronze": {
       "name": "Бронзовый трофей Уроцуки",
@@ -7586,6 +7586,30 @@
       "name": "Guilt & Execution",
       "description": "Abandon hope all ye who enter here.",
       "condition": "Access Hell using the guillotine in Prison"
+    },
+    "whistle_effect_flow": {
+      "name": "Rusty Referee",
+      "condition": "Obtain the Whistle effect. If you have already unlocked it, return where it can be found in Visceral World."
+    },
+    "viscera_effect": {
+      "name": "Spill Your Guts",
+      "description": "What a mess...",
+      "condition": "Obtain the Viscera effect. If you have already unlocked it, return where it can be found in Womb Maze."
+    },
+    "broom_effect_flow": {
+      "name": "Sabi's Delivery Service",
+      "description": "You'll truly feel alive every day.",
+      "condition": "Obtain the Broom effect. If you have already unlocked it, return where it can be found in Famicom World."
+    },
+    "uniform_effect_flow": {
+      "name": "Back at School!",
+      "description": "At least the uniform is nice!",
+      "condition": "Obtain the Uniform effect. If you have already unlocked it, return where it can be found in School."
+    },
+    "dress_effect_flow": {
+      "name": "Fragrance Snowy Dress",
+      "description": "A nice pretty dress I would've liked.",
+      "condition": "Obtain the Dress effect. If you have already unlocked it, return where it can be found in Snow World."
     }
   },
   "prayers": {
@@ -9348,6 +9372,11 @@
       "name": "Ghost Urbanization",
       "description": "There was a big blackout tonight down there",
       "condition": "See the view from the balcony in Banquet Hall"
+    },
+    "android_effect": {
+      "name": "Violet Andromeda",
+      "description": "Now you're dreaming with power.",
+      "condition": "Obtain the Android effect. If you have already unlocked it, return where it can be found in Space Station."
     }
   },
   "sheawaits": {
@@ -9649,6 +9678,16 @@
       "name": "Jar o' Radon",
       "description": "100% safe to ingest! Who doesn't love a free sample?",
       "condition": "Buy a radon from the vending machine in the Noble Gas District"
+    },
+    "gargoyle_effect": {
+      "name": "Brave Memory",
+      "description": "Within a maze of castle ramparts was a lonesome gargoyle statue. Even if their job is to sit there warding off evil, it must get lonely sometimes.",
+      "condition": "Obtain the Gargoyle effect. If you have already unlocked it, return where it can be found in Ramparts."
+    },
+    "wendigo_effect": {
+      "name": "Unwanted Memories",
+      "description": "Deep within a forest of scarlet trees was a tall monster. Its eyes glowed with a color similar to that of blood, unwanted memories arose in me.",
+      "condition": "Obtain the Wendigo effect. If you have already unlocked it, return where it can be found in Scarlet World."
     }
   },
   "tsushin": {
