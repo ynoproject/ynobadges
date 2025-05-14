@@ -522,6 +522,16 @@
         "staircase_hands_4": "Candle World",
         "staircase_hands_5": "Number World"
       }
+    },
+    "hair_effects": {
+      "name": "Folie des coupes de cheveux",
+      "description": "Pourquoi se contenter d'une coupe quand on peut en avoir quatre ?",
+      "condition": "Obtenir les effets Longs cheveux, Blonde, et Cheveux cacas. Si vous les avez déjà obtenus, retournez là où ils peuvent être trouvés.",
+      "checkbox": {
+        "long_hair_effect": "Longs cheveux",
+        "blonde_hair_effect": "Blonde",
+        "poo_hair_effect": "Cheveux cacas"
+      }
     }
   },
   "2kki": {
@@ -6439,6 +6449,101 @@
       "name": "Fleurs et lumière",
       "description": "« Qui a eu la brillante idée de mettre des lumières scintillantes dans une zone aussi humide et ténèbreuse ? Mouais bon. Au moins, tout ça révèle la beauté des fleurs. »",
       "condition": "Visiter le Cluster of Flowers"
+    },
+    "cliff_forlorn_beach_house": {
+      "name": "Étrange géant",
+      "description": "... est-ce qu'il t'attendait ?",
+      "condition": "Atteindre la zone de la falaise à la Forlorn Beach House"
+    },
+    "carlos_salsa_desert": {
+      "name": "Charlos",
+      "description": "¿Prefieres salsa roja o verde?",
+      "condition": "Interagir avec l'un des Charlos au Salsa Desert"
+    },
+    "cliff_burgundy_flats": {
+      "name": "Cieux carmins",
+      "description": "Un paysage paisible.",
+      "condition": "Voir la vue depuis la falaise aux Burgundy Flats"
+    },
+    "cheese_connoisseur": {
+      "name": "Salers la nouvelle !",
+      "description": "Dis « Cheese »...",
+      "condition": "Visiter le Cheese World, la Cheesecake Mountain, le Dark Cheese Hell, la Mouse Den et la Cheese House au Toy World",
+      "checkbox": {
+        "cheese_world": "Cheese World",
+        "cheesecake_mountain": "Cheesecake Mountain",
+        "dark_cheese_hell": "Dark Cheese Hell",
+        "mouse_den": "Mouse Den",
+        "cheese_house": "Cheese House au Toy World"
+      }
+    },
+    "yellow_geometries": {
+      "name": "Fresques brillants par la lueur du soleil",
+      "condition": "Visiter les Yellow Geometries"
+    },
+    "sniper_san_roof_bc": {
+      "name": "Mortido",
+      "description": "Je déciderai comment cette histoire prendra fin.",
+      "condition": "Voir Sniper-san sur le toit de la Blissful Clinic"
+    },
+    "snowfall_pier": {
+      "name": "Quais hivernaux",
+      "condition": "Visiter le Snowfall Pier"
+    },
+    "girl_grape_mall": {
+      "name": "Attrait étrange",
+      "description": "Je ne suis pas sûre qu'elle aime ça...",
+      "condition": "Utiliser l'effet Lunettes ou Haniwa à côté de la fille sur le toit du Grape Mall"
+    },
+    "uro_static_noise_hell": {
+      "name": "Ma doublure",
+      "description": "Un cœur battant dans un labyrinthe de lignes de balayage",
+      "condition": "Compléter l'événement Auto-possesion au Static Noise Hell"
+    },
+    "tissue_effect": {
+      "name": "Marcher sur ses mouchoirs",
+      "description": "Un moyen très original pour retrouver son chemin.",
+      "condition": "Obtenir l'effet Mouchoir. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au White Fern World."
+    },
+    "cyborg_windy_factory": {
+      "name": "Fille Cyborg",
+      "description": "Est-elle en train de surveiller la ville nuageuse ? Attends, où est-ce qu'elle est partie ?",
+      "condition": "Interagir avec la Fille Cyborg à la Windy Factory"
+    },
+    "tiled_canvas": {
+      "name": "Tuiles nostalgiques 🎼",
+      "description": "Souvenirs d'une magnifique mélodie et des lumières vacillantes dans ce monde 🎵",
+      "condition": "Visiter le Tiled Canvas"
+    },
+    "crimson_park": {
+      "name": "Parc cramoisi",
+      "description": "Verdure sans vert",
+      "condition": "Visiter le Crimson Park"
+    },
+    "2kki_menu_100": {
+      "name": "Échappée déjantée",
+      "description": "Réussi à éviter les conséquences de tes propres actions",
+      "condition": "Obtenir le style de menu 100. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé aux Glitched Digits."
+    },
+    "radiant_waters": {
+      "name": "Lanterne bioluminescente",
+      "description": "Ces lanternes de pierre éparpillées retiennent la lumière des champignons bioluminescents et de l'herbe.",
+      "condition": "Visiter les Radiant Waters"
+    },
+    "house_rockbound_beach": {
+      "name": "Bazar arc-en-ciel",
+      "description": "Que vas-t-il faire avec ça !?",
+      "condition": "Visiter la maison de la Rockbound Beach"
+    },
+    "sink_catalog_eyelo": {
+      "name": "Œil de Wa",
+      "description": "Tu m'as tellement manqué.",
+      "condition": "Interagir avec la quatrième photo au Sink Catalog avec l'effet Tombe"
+    },
+    "dragon_spirit_capital": {
+      "name": "Roi des esprits",
+      "description": "Il surveille les lieux pour les garder en paix.",
+      "condition": "Équiper l'effet Fée en face du dragon à la Spirit Capital"
     }
   },
   "unconscious": {
@@ -7347,6 +7452,21 @@
       "name": "La forêt qui te déteste",
       "description": "Qui embête les arbres, fait ses adieux au monde.",
       "condition": "Interagir avec l'arbre menant au Flesh Pit pendant l'événement de Vengeance des Arbres à l'Untamed Forest"
+    },
+    "youth_alphabet_city": {
+      "name": "Gou gou gah gah",
+      "description": "Ouin ouin alfabêteu siti",
+      "condition": "Équiper l'eidolon Jouvence dans l'Alphabet City"
+    },
+    "hla_still_alive": {
+      "name": "Vœux de dévouement",
+      "description": "Aveuglés par la haine, noyés dans l'amour.",
+      "condition": "Survivre pendant 5 minutes de nuit à Hostile Love Abyss. Si vous avez déjà atteint ce temps, retournez à Hostile Love Abyss."
+    },
+    "star_cosmic_woods": {
+      "name": "Étoile rose",
+      "description": "N'oublie pas que le Soleil est aussi une étoile !",
+      "condition": "Interagir avec l'étoile aux Cosmic Woods"
     }
   },
   "flow": {
@@ -8076,6 +8196,11 @@
       "name": "Connexion Onirique",
       "description": "Qui sont-ils ?",
       "condition": "Visiter toutes les chambres des rêveurs au Meta-Nexus"
+    },
+    "bald_effect": {
+      "name": "Vert-chauve",
+      "description": "Ils repousseront.",
+      "condition": "Obtenir l'effet Chauve. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à l'Ice World."
     }
   },
   "unevendream": {
@@ -9977,6 +10102,16 @@
       "name": "Chair en vol",
       "description": "Est-ce une vache ?",
       "condition": "Voir la vache lévitante à l'Office Building"
+    },
+    "lotus_marsh": {
+      "name": "Floraison azurée",
+      "description": "Un lieu paisible pour pêcher~",
+      "condition": "Visiter le Lotus Marsh"
+    },
+    "goth_doll_effects": {
+      "name": "Cosplay de la poupée",
+      "description": "Porter de jolies robes est tellement amusant ! Tu pourrais presque en perdre ta tête, haha.",
+      "condition": "Combiner les effets Robe gothique et Poupée"
     }
   },
   "nostalgic": {
