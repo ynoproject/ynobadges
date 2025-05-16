@@ -522,6 +522,16 @@
         "staircase_hands_4": "Candle World",
         "staircase_hands_5": "Number World"
       }
+    },
+    "hair_effects": {
+      "name": "Bad Hair Day",
+      "description": "Why have one hairstyle when you can have four?",
+      "condition": "Obtain the Long Hair, Blonde, and Poo Hair effect. If you have already unlocked them, return where they can be found.",
+      "checkbox": {
+        "long_hair_effect": "Long Hair",
+        "blonde_hair_effect": "Blonde",
+        "poo_hair_effect": "Poo Hair"
+      }
     }
   },
   "2kki": {
@@ -1585,8 +1595,8 @@
       }
     },
     "garden_of_dreams": {
-      "name": "Khu vườn mộng mơ",
-      "description": "Giữa thế giới trong mơ này, có những khu vườn không bao giờ ngừng trải rộng.",
+      "name": "Dreaming Trees",
+      "description": "When a sapling is planted within a dream, it will eventually grow to be as spectacular as the dreamer themselves.",
       "condition": "Tương tác hoặc đến phòng cây cối ở Mountaintop Ruins, Blood Cell Sea (bao gồm trạng thái Qliphothic), Graffiti Maze, Shinto Shrine, Azure Garden, Scenic Outlook, và Evergreen Woods",
       "checkbox": {
         "mountainview_ruins_tree": "Mountaintop Ruins",
@@ -6435,6 +6445,101 @@
       "name": "From Pipes to Lamp Posts and Flowers",
       "description": "\"Whose idea it was to put twinkling lights in a damp, dark area like this? Well, whatever. At the very least, it highlights the beauty of these flowers\"",
       "condition": "Visit Cluster of Flowers"
+    },
+    "cliff_forlorn_beach_house": {
+      "name": "Strange Giant",
+      "description": "... was he waiting for you?",
+      "condition": "Reach the cliff area in Forlorn Beach House"
+    },
+    "carlos_salsa_desert": {
+      "name": "Carlos the Nacho Cats",
+      "description": "¿Prefieres salsa roja o verde?",
+      "condition": "Interact with one of the Carlos cats in Salsa Desert"
+    },
+    "cliff_burgundy_flats": {
+      "name": "Ember Skies",
+      "description": "A peaceful scene.",
+      "condition": "See the view from the cliff in Burgundy Flats"
+    },
+    "cheese_connoisseur": {
+      "name": "Cheesed To Meet You",
+      "description": "Say 'Cheese'...",
+      "condition": "Visit Cheese World, Cheesecake Mountain, Dark Cheese Hell, Mouse Den and the Cheese House in Toy World",
+      "checkbox": {
+        "cheese_world": "Cheese World",
+        "cheesecake_mountain": "Cheesecake Mountain",
+        "dark_cheese_hell": "Dark Cheese Hell",
+        "mouse_den": "Mouse Den",
+        "cheese_house": "Cheese House in Toy World"
+      }
+    },
+    "yellow_geometries": {
+      "name": "Murals Glowing With the Strength of a Sun",
+      "condition": "Visit Yellow Geometries"
+    },
+    "sniper_san_roof_bc": {
+      "name": "Mortido",
+      "description": "I'll decide how this story ends.",
+      "condition": "See Sniper-san on the roof of the Blissful Clinic"
+    },
+    "snowfall_pier": {
+      "name": "Dark Winter Docks",
+      "condition": "Visit Snowfall Pier"
+    },
+    "girl_grape_mall": {
+      "name": "Cheeky Concord",
+      "description": "I'm not sure she likes that...",
+      "condition": "Use the Glasses or Haniwa effect near the girl at the top of the Grape Mall"
+    },
+    "uro_static_noise_hell": {
+      "name": "My Replacement",
+      "description": "A beating heart in the labyrinth of scanlines",
+      "condition": "Complete the Possessed by Yourself event at the Static Noise Hell"
+    },
+    "tissue_effect": {
+      "name": "Walking in Your Tissues",
+      "description": "A glorious way to find your way back.",
+      "condition": "Obtain the Tissue effect. If you have already unlocked it, return where it can be found in White Fern World."
+    },
+    "cyborg_windy_factory": {
+      "name": "Cyborg Girl",
+      "description": "Watching over the cloudy city? Wait, where did she go?",
+      "condition": "Interact with the Cyborg Daughter in Windy Factory"
+    },
+    "tiled_canvas": {
+      "name": "Nostalgic Tiles 🎼",
+      "description": "About the memories of a beautiful melody and lights that flicker in this world🎵",
+      "condition": "Visit Tiled Canvas"
+    },
+    "crimson_park": {
+      "name": "Crimson Park",
+      "description": "Greenery devoid of green",
+      "condition": "Visit Crimson Park"
+    },
+    "2kki_menu_100": {
+      "name": "The Greatest Escape",
+      "description": "Succeed in avoiding the consequences of your own actions",
+      "condition": "Obtain the menu type 100. If you have already unlocked it, return where it can be found in Glitched Digits."
+    },
+    "radiant_waters": {
+      "name": "Bioluminescent Lantern",
+      "description": "These scattered stone lanterns hold the light from the accompanying bioluminescent mushrooms and grass.",
+      "condition": "Visit Radiant Waters"
+    },
+    "house_rockbound_beach": {
+      "name": "Junk in the Trunk",
+      "description": "What's he gonna do with all that!?",
+      "condition": "Visit the house of Rockbound Beach"
+    },
+    "sink_catalog_eyelo": {
+      "name": "Eye of Wa",
+      "description": "I missed you so much.",
+      "condition": "Interact with the fourth photo in Sink Catalog with the Grave effect"
+    },
+    "dragon_spirit_capital": {
+      "name": "King of the Spirits",
+      "description": "He watches over them in peace and comfort.",
+      "condition": "Equip the Fairy effect in front of the dragon in Spirit Capital"
     }
   },
   "unconscious": {
@@ -7343,6 +7448,21 @@
       "name": "The Forest That Hates You",
       "description": "Mess with the trees, SNAP go your knees.",
       "condition": "Interact with the tree leading to Flesh Pit during the Tree Attack event in Untamed Forest"
+    },
+    "youth_alphabet_city": {
+      "name": "Goo Gaa Babu",
+      "description": "Wawa goo gaa Alphabet City",
+      "condition": "Equip the Youth eidolon in Alphabet City"
+    },
+    "hla_still_alive": {
+      "name": "Vows of Devotion",
+      "description": "Blinded by hatred, drowning in love.",
+      "condition": "Survive for 5 minutes in Hostile Love Abyss at night. If you have previously reached this time, return to Hostile Love Abyss."
+    },
+    "star_cosmic_woods": {
+      "name": "Pink Star",
+      "description": "Remember the sun is also a star!",
+      "condition": "Interact with the star in Cosmic Woods"
     }
   },
   "flow": {
@@ -8072,6 +8192,11 @@
       "name": "Dream Connection",
       "description": "Who are they?",
       "condition": "Visit all of the dreamers' rooms in the Meta-Nexus"
+    },
+    "bald_effect": {
+      "name": "Greened Baldy",
+      "description": "It'll grow back.",
+      "condition": "Obtain the Bald effect. If you have already unlocked it, return where it can be found in Ice World."
     }
   },
   "unevendream": {
@@ -8174,8 +8299,8 @@
       "condition": "Get a hermit crab from a vending machine"
     },
     "mimic": {
-      "name": "Mimic Engineer",
-      "description": "Way of The Dreamy Mime",
+      "name": "Upside-Down",
+      "description": "It's something isn't it?",
       "condition": "Enter the Upside-Down event's area"
     },
     "cube_racing": {
@@ -9959,6 +10084,16 @@
       "name": "Frozen Meat",
       "description": "Is that a cow?",
       "condition": "See the frozen cow in Office Building"
+    },
+    "lotus_marsh": {
+      "name": "Azure Bloom",
+      "description": "A peaceful place for fishing~",
+      "condition": "Visit Lotus Marsh"
+    },
+    "goth_doll_effects": {
+      "name": "Doll's Dress-Up",
+      "description": "Wearing pretty dresses is so fun, you might end up losing your head.",
+      "condition": "Combine the Goth Dress and Doll effects"
     }
   },
   "nostalgic": {
@@ -10197,7 +10332,8 @@
       "condition": "Reach the Barrens"
     },
     "gas_mask_barrens": {
-      "name": "Temp Badge Name (Do not translate)",
+      "name": "Gas Mask",
+      "description": "Gas mask on, time to step on the gas!",
       "condition": "Obtain the gas mask in the vault at the Cliffs of the Barrens"
     },
     "silver_barrens": {
