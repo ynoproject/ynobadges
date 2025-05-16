@@ -534,13 +534,13 @@
       }
     },
     "hair_effects": {
-      "name": "Bad Hair Day",
-      "description": "Why have one hairstyle when you can have four?",
-      "condition": "Obtain the Long Hair, Blonde, and Poo Hair effect. If you have already unlocked them, return where they can be found.",
+      "name": "髪型が決まらない",
+      "description": "四種類もあるのに１つしか選べないなんて！",
+      "condition": "ロングヘアー、ブロンド、ウンコヘアーのエフェクトを入手する、すでに入手している場合はそれらを見つけた場所にもう一度行く。",
       "checkbox": {
-        "long_hair_effect": "Long Hair",
-        "blonde_hair_effect": "Blonde",
-        "poo_hair_effect": "Poo Hair"
+        "long_hair_effect": "ロングヘアー",
+        "blonde_hair_effect": "ブロンド",
+        "poo_hair_effect": "ウンコヘアー"
       }
     }
   },
@@ -7469,19 +7469,19 @@
       "condition": "原生林で木を燃やしてイベント中に赤い傷のある木を調べる"
     },
     "youth_alphabet_city": {
-      "name": "Goo Gaa Babu",
+      "name": "バブ～",
       "description": "Wawa goo gaa Alphabet City",
-      "condition": "Equip the Youth eidolon in Alphabet City"
+      "condition": "アルファベット街で若者のエイドラを使う"
     },
     "hla_still_alive": {
-      "name": "Vows of Devotion",
-      "description": "Blinded by hatred, drowning in love.",
-      "condition": "Survive for 5 minutes in Hostile Love Abyss at night. If you have previously reached this time, return to Hostile Love Abyss."
+      "name": "献身の誓い",
+      "description": "憎しみに目が暗み、愛に溺れる。",
+      "condition": "夜の愛憎の深淵で5分生き残る、既に5分生き残ったことがある場合は愛憎の深淵にもう一度行く。"
     },
     "star_cosmic_woods": {
-      "name": "Pink Star",
-      "description": "Remember the sun is also a star!",
-      "condition": "Interact with the star in Cosmic Woods"
+      "name": "ピンクスター",
+      "description": "太陽も星の一つなことを忘れないで！",
+      "condition": "煌めく森にあるお星さまを調べる"
     }
   },
   "flow": {
@@ -8213,9 +8213,9 @@
       "condition": "Meta-Nexusで全ての夢想家の部屋を訪れる"
     },
     "bald_effect": {
-      "name": "Greened Baldy",
-      "description": "It'll grow back.",
-      "condition": "Obtain the Bald effect. If you have already unlocked it, return where it can be found in Ice World."
+      "name": "グリーンハゲ",
+      "description": "また生えてくるよ。",
+      "condition": "つるつるのエフェクトを入手する、すでに入手している場合はIce Worldの見つけた場所に行く。"
     }
   },
   "unevendream": {
@@ -8319,7 +8319,7 @@
     },
     "mimic": {
       "name": "Upside-Down",
-      "description": "It's something isn't it?",
+      "description": "何かあるんだろう？",
       "condition": "Upside-Down eventのエリアに到達する"
     },
     "cube_racing": {
@@ -10119,14 +10119,14 @@
       "condition": "Office Buildingで凍った牛を見る"
     },
     "lotus_marsh": {
-      "name": "Azure Bloom",
-      "description": "A peaceful place for fishing~",
-      "condition": "Visit Lotus Marsh"
+      "name": "空色の花",
+      "description": "ここは静かで釣りにピッタリ～",
+      "condition": "Lotus Marshに到達する"
     },
     "goth_doll_effects": {
-      "name": "Doll's Dress-Up",
-      "description": "Wearing pretty dresses is so fun, you might end up losing your head.",
-      "condition": "Combine the Goth Dress and Doll effects"
+      "name": "着せ替え人形",
+      "description": "Wormikoちゃん可愛すぎて顔無い",
+      "condition": "Goth DressとDollのエフェクトを組み合わせる"
     }
   },
   "nostalgic": {
@@ -10365,8 +10365,8 @@
       "condition": "不浄の地に到達する"
     },
     "gas_mask_barrens": {
-      "name": "Gas Mask",
-      "description": "Gas mask on, time to step on the gas!",
+      "name": "ガスマスク",
+      "description": "ガスマスクを付けて、ガスの中に踏み込む時！",
       "condition": "不浄の地の崖にある金庫でガスマスクを入手する"
     },
     "silver_barrens": {
