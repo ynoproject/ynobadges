@@ -542,6 +542,11 @@
         "blonde_hair_effect": "ブロンド",
         "poo_hair_effect": "ウンコヘアー"
       }
+    },
+    "big_red_sewers": {
+      "name": "Devilish Glutton",
+      "description": "Waiter, more children please!",
+      "condition": "Get eaten by Big Red in the Sewers"
     }
   },
   "2kki": {
@@ -6526,8 +6531,8 @@
       "condition": "強風工場:行き止まりでサイボーグの女性に話しかける"
     },
     "tiled_canvas": {
-      "name": "ノスタルジックなタイル 🎼",
-      "description": "美しい旋律と思い出、そしてこの世界で揺らめく灯りの記憶について歌おう🎵",
+      "name": "ノスタルジックなタイル",
+      "description": "美しい旋律と思い出、そしてこの世界で揺らめく灯りの記憶について歌おう",
       "condition": "ネオンパティナに到達する"
     },
     "crimson_park": {
@@ -6559,6 +6564,55 @@
       "name": "精霊たちの王",
       "description": "彼は静けさと安心の中、彼らを見守っている",
       "condition": "断崖:王様竜の部屋で、王様竜にようせいのエフェクトを使用する"
+    },
+    "cat_floating_park": {
+      "name": "Itty Bitty Kitty",
+      "description": "Y'know like, nya!",
+      "condition": "Interact with the cat in Floating Park"
+    },
+    "serenade_girl_tricolor_room": {
+      "name": "Cherished Old Memory",
+      "description": "I hope we meet again, one day...",
+      "condition": "Interact with the girl in the Serenade sub-area of Tricolor Room while using the Child effect"
+    },
+    "blood_underground_base": {
+      "name": "Strange Drains",
+      "description": "What is this red stuff?",
+      "condition": "Find a stain of blood in Underground Base"
+    },
+    "silhouette_autumn_pastel_ruins": {
+      "name": "Black Figure",
+      "description": "Hello! Have you been here all along?",
+      "condition": "Reveal the black silhouette on the swing set in Autumn Pastel Plains"
+    },
+    "alien_world": {
+      "name": "Alien Rave",
+      "description": "I never thought aliens would sound so cute!",
+      "condition": "Visit Alien World"
+    },
+    "lush_cells": {
+      "name": "Forgotten Park",
+      "description": "At last, a moment of respite...",
+      "condition": "Visit Lush Cells"
+    },
+    "glitched_digits": {
+      "name": "Glitched Limbs",
+      "description": "Please proceed to the emergency exit.",
+      "condition": "Visit Glitched Digits"
+    },
+    "satellite_midnight_manor": {
+      "name": "Satelite of Serenity",
+      "description": "The moonlit lake seems mesmerizing...",
+      "condition": "Find the Manor's Satellite in Midnight Manor"
+    },
+    "robot_robotic_slaves_tunnel": {
+      "name": "TAKE ME WITH YOU",
+      "description": "Would you let it out?",
+      "condition": "Reveal the huge droid-like robot in Robotic Slaves Tunnel"
+    },
+    "opal_archives_tt": {
+      "name": "Bejeweled Alum",
+      "condition": "Start the Opal Archives' ballroom dance event in {TIME} or less in Time Trial Mode"
     }
   },
   "unconscious": {
@@ -8216,6 +8270,11 @@
       "name": "グリーンハゲ",
       "description": "また生えてくるよ。",
       "condition": "つるつるのエフェクトを入手する、すでに入手している場合はIce Worldの見つけた場所に行く。"
+    },
+    "zapnef_glitch_world": {
+      "name": "ZApped into the Game",
+      "description": "plae ZApNeF is the beast, itsooki is good and bets in geaem play game p,.ls",
+      "condition": "Complete the fake ZApNeF level in Glitch World"
     }
   },
   "unevendream": {
@@ -8408,7 +8467,7 @@
     "totsu_x_ray": {
       "name": "レントゲン",
       "description": "なんでも見える",
-      "condition": "Kaomoji Mallでレントゲンを撮る"
+      "condition": "Hat Parkでレントゲンを撮る"
     },
     "enamored_yellow": {
       "name": "ムチュウ",
@@ -8749,6 +8808,10 @@
     "door_smugglers_hideout": {
       "name": "私はゆっくりとドアを開ける",
       "condition": "Smugglers' Hideoutの首を吊った人がいる部屋に到達する"
+    },
+    "tv_roxane_japanese_area": {
+      "name": "Pipiru Piru Piru Pipiru Pi~",
+      "condition": "Turn on the TV in Roxane's House in the Japanese Area"
     }
   },
   "muma": {
@@ -9833,6 +9896,11 @@
       "name": "望まない記憶",
       "description": "緋色の木々が生い茂る森の奥深くに、背の高い怪物がいた。その瞳は血のような色に輝いており、望まない記憶を思い起こさせた。",
       "condition": "Wendigoのエフェクトを入手する、すでに入手している場合はScarlet Worldの見つけた場所に行く。"
+    },
+    "death_row_ventilation_passage": {
+      "name": "The Birth of the Ouroboros",
+      "description": "Deep within the vent, an embryonic creature pulsed inside living flesh. Its very sight tore at the soul.",
+      "condition": "Reach Death Row from Ventilation Passage"
     }
   },
   "tsushin": {
@@ -10127,6 +10195,20 @@
       "name": "着せ替え人形",
       "description": "Wormikoちゃん可愛すぎて顔無い",
       "condition": "Goth DressとDollのエフェクトを組み合わせる"
+    },
+    "rainy_islands_nini_detective": {
+      "name": "Her Face",
+      "condition": "Use the Detective effect next to Nini in Rainy Islands' house"
+    },
+    "rainy_islands_nini": {
+      "name": "Nini!",
+      "description": "She's literally a cowgirl!",
+      "condition": "Reveal Nini's normal, secret and true versions in Rainy Islands' house",
+      "checkbox": {
+        "rainy_islands_nini_normal": "normal",
+        "rainy_islands_nini_detective": "secret",
+        "rainy_islands_nini_vboa": "true"
+      }
     }
   },
   "nostalgic": {
