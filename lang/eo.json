@@ -532,6 +532,11 @@
         "blonde_hair_effect": "Blonde",
         "poo_hair_effect": "Poo Hair"
       }
+    },
+    "big_red_sewers": {
+      "name": "Devilish Glutton",
+      "description": "Waiter, more children please!",
+      "condition": "Get eaten by Big Red in the Sewers"
     }
   },
   "2kki": {
@@ -6539,6 +6544,55 @@
       "name": "King of the Spirits",
       "description": "He watches over them in peace and comfort.",
       "condition": "Equip the Fairy effect in front of the dragon in Spirit Capital"
+    },
+    "cat_floating_park": {
+      "name": "Itty Bitty Kitty",
+      "description": "Y'know like, nya!",
+      "condition": "Interact with the cat in Floating Park"
+    },
+    "serenade_girl_tricolor_room": {
+      "name": "Cherished Old Memory",
+      "description": "I hope we meet again, one day...",
+      "condition": "Interact with the girl in the Serenade sub-area of Tricolor Room while using the Child effect"
+    },
+    "blood_underground_base": {
+      "name": "Strange Drains",
+      "description": "What is this red stuff?",
+      "condition": "Find a stain of blood in Underground Base"
+    },
+    "silhouette_autumn_pastel_ruins": {
+      "name": "Black Figure",
+      "description": "Hello! Have you been here all along?",
+      "condition": "Reveal the black silhouette on the swing set in Autumn Pastel Plains"
+    },
+    "alien_world": {
+      "name": "Alien Rave",
+      "description": "I never thought aliens would sound so cute!",
+      "condition": "Visit Alien World"
+    },
+    "lush_cells": {
+      "name": "Forgotten Park",
+      "description": "At last, a moment of respite...",
+      "condition": "Visit Lush Cells"
+    },
+    "glitched_digits": {
+      "name": "Glitched Limbs",
+      "description": "Please proceed to the emergency exit.",
+      "condition": "Visit Glitched Digits"
+    },
+    "satellite_midnight_manor": {
+      "name": "Satelite of Serenity",
+      "description": "The moonlit lake seems mesmerizing...",
+      "condition": "Find the Manor's Satellite in Midnight Manor"
+    },
+    "robot_robotic_slaves_tunnel": {
+      "name": "TAKE ME WITH YOU",
+      "description": "Would you let it out?",
+      "condition": "Reveal the huge droid-like robot in Robotic Slaves Tunnel"
+    },
+    "opal_archives_tt": {
+      "name": "Bejeweled Alum",
+      "condition": "Start the Opal Archives' ballroom dance event in {TIME} or less in Time Trial Mode"
     }
   },
   "unconscious": {
@@ -8196,6 +8250,11 @@
       "name": "Greened Baldy",
       "description": "It'll grow back.",
       "condition": "Obtain the Bald effect. If you have already unlocked it, return where it can be found in Ice World."
+    },
+    "zapnef_glitch_world": {
+      "name": "ZApped into the Game",
+      "description": "plae ZApNeF is the beast, itsooki is good and bets in geaem play game p,.ls",
+      "condition": "Complete the fake ZApNeF level in Glitch World"
     }
   },
   "unevendream": {
@@ -8729,6 +8788,10 @@
     "door_smugglers_hideout": {
       "name": "I Gently Open the Door...",
       "condition": "Reach the room of the hanged man in Smugglers' Hideout"
+    },
+    "tv_roxane_japanese_area": {
+      "name": "Pipiru Piru Piru Pipiru Pi~",
+      "condition": "Turn on the TV in Roxane's House in the Japanese Area"
     }
   },
   "muma": {
@@ -9813,6 +9876,11 @@
       "name": "Unwanted Memories",
       "description": "Deep within a forest of scarlet trees was a tall monster. Its eyes glowed with a color similar to that of blood, unwanted memories arose in me.",
       "condition": "Obtain the Wendigo effect. If you have already unlocked it, return where it can be found in Scarlet World."
+    },
+    "death_row_ventilation_passage": {
+      "name": "The Birth of the Ouroboros",
+      "description": "Deep within the vent, an embryonic creature pulsed inside living flesh. Its very sight tore at the soul.",
+      "condition": "Reach Death Row from Ventilation Passage"
     }
   },
   "tsushin": {
@@ -10093,6 +10161,20 @@
       "name": "Doll's Dress-Up",
       "description": "Wearing pretty dresses is so fun, you might end up losing your head.",
       "condition": "Combine the Goth Dress and Doll effects"
+    },
+    "rainy_islands_nini_detective": {
+      "name": "Her Face",
+      "condition": "Use the Detective effect next to Nini in Rainy Islands' house"
+    },
+    "rainy_islands_nini": {
+      "name": "Nini!",
+      "description": "She's literally a cowgirl!",
+      "condition": "Reveal Nini's normal, secret and true versions in Rainy Islands' house",
+      "checkbox": {
+        "rainy_islands_nini_normal": "normal",
+        "rainy_islands_nini_detective": "secret",
+        "rainy_islands_nini_vboa": "true"
+      }
     }
   },
   "nostalgic": {

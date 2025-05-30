@@ -532,6 +532,11 @@
         "blonde_hair_effect": "Blonde",
         "poo_hair_effect": "Cheveux cacas"
       }
+    },
+    "big_red_sewers": {
+      "name": "Glouton démoniaque",
+      "description": "Serveur, un peu plus d'enfants s'il vous plaît !",
+      "condition": "Se faire avaler par le Grand Rouge aux Sewers"
     }
   },
   "2kki": {
@@ -6544,6 +6549,55 @@
       "name": "Roi des esprits",
       "description": "Il surveille les lieux pour les garder en paix.",
       "condition": "Équiper l'effet Fée en face du dragon à la Spirit Capital"
+    },
+    "cat_floating_park": {
+      "name": "Gaga du chacha",
+      "description": "Chalut, miaouu !",
+      "condition": "Interagir avec le chat au Floating Park"
+    },
+    "serenade_girl_tricolor_room": {
+      "name": "Doux souvenir chéri",
+      "description": "J'espère qu'on pourra se revoir un jour...",
+      "condition": "Interagir avec la fille dans la sous-zone de Serenade dans la Tricolor Room en utilisant l'effet Enfant"
+    },
+    "blood_underground_base": {
+      "name": "Étranges traces",
+      "description": "Une étrange substance rouge ? Qu'est-ce que c'est ?",
+      "condition": "Trouver une tache de sang dans l'Underground Base"
+    },
+    "silhouette_autumn_pastel_ruins": {
+      "name": "Silhouette noire",
+      "description": "Salut ! T'es ici depuis combien de temps ?",
+      "condition": "Révéler la silhouette noire sur la balançoire aux Autumn Pastel Plains"
+    },
+    "alien_world": {
+      "name": "Rave des aliens",
+      "description": "J'aurais jamais cru que des aliens puissent être aussi mignons !",
+      "condition": "Visiter l'Alien World"
+    },
+    "lush_cells": {
+      "name": "Parc oublié",
+      "description": "Enfin, un moment de répit...",
+      "condition": "Visiter les Lush Cells"
+    },
+    "glitched_digits": {
+      "name": "Membres bugués",
+      "description": "Veuillez vous diriger vers la sortie de secours.",
+      "condition": "Visiter les Glitched Digits"
+    },
+    "satellite_midnight_manor": {
+      "name": "Satellite solitaire",
+      "description": "Le lac au clair de lune semble envoûtant...",
+      "condition": "Trouver le Satellite du Manoir au Midnight Manor"
+    },
+    "robot_robotic_slaves_tunnel": {
+      "name": "AMÈNE-MOI AVEC TOI",
+      "description": "Le ferais-tu sortir ?",
+      "condition": "Révéler le robot géant semblable à un androïde au Robotic Slaves Tunnel"
+    },
+    "opal_archives_tt": {
+      "name": "Alun paré de bijoux",
+      "condition": "Déclencher l'événement de danse de bal dans les Opal Archives en {TIME} ou moins en course contre-la-montre"
     }
   },
   "unconscious": {
@@ -8201,6 +8255,11 @@
       "name": "Vert-chauve",
       "description": "Ils repousseront.",
       "condition": "Obtenir l'effet Chauve. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à l'Ice World."
+    },
+    "zapnef_glitch_world": {
+      "name": "Le 256ème niveau",
+      "description": "Euh... j'avais pas souvenir qu'un tel niveau existait...",
+      "condition": "Compléter le faux niveau de ZApNeF au Glitch World"
     }
   },
   "unevendream": {
@@ -8734,6 +8793,10 @@
     "door_smugglers_hideout": {
       "name": "J'ouvre doucement la porte...",
       "condition": "Atteindre la salle de l'homme pendu au Smugglers' Hideout"
+    },
+    "tv_roxane_japanese_area": {
+      "name": "Pipiru piru piru pipiru pi~",
+      "condition": "Allumer la télévision dans la Maison de Roxane dans la Japanese Area"
     }
   },
   "muma": {
@@ -9818,6 +9881,11 @@
       "name": "Étrange souvenir",
       "description": "Au fin fond d'une forêt d'arbres écarlates se trouvait un grand monstre. Ses yeux brillaient d'une lueur rouge sang, ravivant en moi des souvenirs refoulés.",
       "condition": "Obtenir l'effet Wendigo. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Scarlet World."
+    },
+    "death_row_ventilation_passage": {
+      "name": "La naissance de l'ouroboros",
+      "description": "Cachée dans le conduit, une créature embryonnaire battant dans de la chair fraîche. Sa simple vue déchire l'âme.",
+      "condition": "Atteindre Death Row depuis le Ventilation Passage"
     }
   },
   "tsushin": {
@@ -10112,6 +10180,20 @@
       "name": "Cosplay de la poupée",
       "description": "Porter de jolies robes est tellement amusant ! Tu pourrais presque en perdre ta tête, haha.",
       "condition": "Combiner les effets Robe gothique et Poupée"
+    },
+    "rainy_islands_nini_detective": {
+      "name": "Son visage",
+      "condition": "Utiliser l'effet Détective à côté de Nini dans la maison de Rainy Islands"
+    },
+    "rainy_islands_nini": {
+      "name": "Nini !",
+      "description": "Elle est quand même vache, Nini !",
+      "condition": "Révéler la version normale, secrète et véritable de Nini dans la maison de Rainy Islands",
+      "checkbox": {
+        "rainy_islands_nini_normal": "normale",
+        "rainy_islands_nini_detective": "secrète",
+        "rainy_islands_nini_vboa": "véritable"
+      }
     }
   },
   "nostalgic": {
