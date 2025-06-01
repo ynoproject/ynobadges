@@ -1,8 +1,12 @@
 {
   "group": "2_el",
   "bp": 15,
-  "reqType": "tag",
-  "reqString": "sheep_mask",
+  "reqType": "tags",
+  "reqStrings": [
+    "sheep_mask",
+    "sheep_mask_b"
+  ],
+  "reqCount": 1,
   "map": 171,
   "art": "dawnchorrus",
   "batch": 154
