@@ -6617,6 +6617,39 @@
     "opal_archives_tt": {
       "name": "Bejeweled Alum",
       "condition": "Start the Opal Archives' ballroom dance event in {TIME} or less in Time Trial Mode"
+    },
+    "moonlit_pier": {
+      "name": "Bathe in Moonlight",
+      "description": "Moonlight sleeps veiled, river flows silent",
+      "condition": "Visit Moonlit Pier"
+    },
+    "inverted_pitch_black_plateau": {
+      "name": "Void in my Heart",
+      "description": "You... found me...?",
+      "condition": "Equip the inverted Urotsuki mask where it can be found in Pitch Black Plateau"
+    },
+    "lemon_jelly_citrus_springs": {
+      "name": "Sour Girl",
+      "description": "Don't turn her into lemonade, please.",
+      "condition": "Find lemon jelly in Citrus Springs"
+    },
+    "snake_monolith_jungle": {
+      "name": "Serpent of the Jungle",
+      "description": "Will you trust in him?",
+      "condition": "Find the snake in Monolith Jungle"
+    },
+    "waiya_usugurai_wire": {
+      "name": "Waiyamichi",
+      "condition": "Interact with Waiyamichi in Usugurai Residence and Interconnected Wire World",
+      "checkbox": {
+        "waiya_usugurai": "Usugurai Residence",
+        "waiya_wire": "Interconnected Wire World"
+      }
+    },
+    "sub_research_center_screen": {
+      "name": "Artificial Friend",
+      "description": "I l0v3 l34rn1ng 4b0ut y0u!",
+      "condition": "Use effects to see all the reactions from the face on the screen in Subterranean Research Center"
     }
   },
   "unconscious": {
@@ -7540,6 +7573,49 @@
       "name": "Pink Star",
       "description": "Remember the sun is also a star!",
       "condition": "Interact with the star in Cosmic Woods"
+    },
+    "banana_apartment_towers": {
+      "name": "Sweet Companion",
+      "description": "It's peanut butter jelly time!",
+      "condition": "Interact with the banana in Apartment Towers"
+    },
+    "outline_girl_sandstone_resort": {
+      "name": "Mystique Resident",
+      "description": "Is this your room?",
+      "condition": "Find Outline Girl in Sandstone Resort"
+    },
+    "molly_moth_garden": {
+      "name": "Sage of the Dark Night",
+      "description": "I'm reading a book right now, could you please not bother me?",
+      "condition": "Interact with Molly in Moth Garden"
+    },
+    "stare_shattered_realm": {
+      "name": "Eyes on Me",
+      "description": "You just can't look away",
+      "condition": "Trigger The Stare event in Shattered Realm"
+    },
+    "sunrise_disintegrating_pillars": {
+      "name": "World's End Sunrise",
+      "description": "A glimmer of hope in a long-dead world",
+      "condition": "Trigger the Sunrise at the End of the World event in Disintegrating Pillars"
+    },
+    "soapy_baths_soap": {
+      "name": "*glub*",
+      "description": "It did not taste like strawberries...",
+      "condition": "Get the soap bar and soap water from a vending machine at Soapy Baths",
+      "checkbox": {
+        "soapy_baths_soap_1": "soap bar",
+        "soapy_baths_soap_2": "soap water"
+      }
+    },
+    "fall_forest": {
+      "name": "That Watching Eye",
+      "description": "It's already too late to undo what you've done.",
+      "condition": "Trigger the fall event in Forest"
+    },
+    "lottery_parlor": {
+      "name": "Shadow Minna Money Gang",
+      "condition": "Visit Lottery Parlor"
     }
   },
   "flow": {
@@ -10427,6 +10503,16 @@
       "name": "就来看看！",
       "description": "其实这里没有那么糟！",
       "condition": "与Prison Chambers中孤独的囚犯互动"
+    },
+    "curse_ice_temple": {
+      "name": "Break",
+      "description": "You are already dead.",
+      "condition": "Trigger the Ice Voodoo Curse event in Ice Temple"
+    },
+    "anchor_effect": {
+      "name": "Beyond the Horizon",
+      "description": "Captain Shimitsuki is here!",
+      "condition": "Obtain the Anchor effect. If you have already unlocked it, return where it can be found in Streetlamp World."
     }
   },
   "oneshot": {

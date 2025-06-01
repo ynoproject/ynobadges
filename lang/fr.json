@@ -6603,6 +6603,39 @@
     "opal_archives_tt": {
       "name": "Alun paré de bijoux",
       "condition": "Déclencher l'événement de danse de bal dans les Opal Archives en {TIME} ou moins en course contre-la-montre"
+    },
+    "moonlit_pier": {
+      "name": "Baignée dans la lumière de la lune",
+      "description": "La lumière de la lune dort voilée, là où la rivière coule silencieusement",
+      "condition": "Visiter le Moonlit Pier"
+    },
+    "inverted_pitch_black_plateau": {
+      "name": "Vide dans mon cœur",
+      "description": "Tu m'as... trouvée ?",
+      "condition": "Équiper le masque d'Urotsuki inversé là où il peut être trouvé au Pitch Black Plateau"
+    },
+    "lemon_jelly_citrus_springs": {
+      "name": "Fille amère",
+      "description": "Ne la transforme pas en limonade, s'il te plaît...",
+      "condition": "Trouver Angela Citron aux Citrus Springs"
+    },
+    "snake_monolith_jungle": {
+      "name": "Serpent de la jungle",
+      "description": "Auras-tu confiance en lui ?",
+      "condition": "Trouver le serpent à la Monolith Jungle"
+    },
+    "waiya_usugurai_wire": {
+      "name": "Waiyamichi",
+      "condition": "Interagir avec Waiyamichi à l'Usugurai Residence et à l'Interconnected Wire World",
+      "checkbox": {
+        "waiya_usugurai": "l'Usugurai Residence",
+        "waiya_wire": "l'Interconnected Wire World"
+      }
+    },
+    "sub_research_center_screen": {
+      "name": "Ami artificiel",
+      "description": "J'41m3 4ppr3ndr3 d35 ch0535 5ur t01 !",
+      "condition": "Utiliser des effets pour voir toutes les réactions du visage sur l'écran au Subterranean Research Center"
     }
   },
   "unconscious": {
@@ -7526,6 +7559,49 @@
       "name": "Étoile rose",
       "description": "N'oublie pas que le Soleil est aussi une étoile !",
       "condition": "Interagir avec l'étoile aux Cosmic Woods"
+    },
+    "banana_apartment_towers": {
+      "name": "Doux compagnon",
+      "description": "Pourquoi tu fais cette tête ? Garde la banane !",
+      "condition": "Interagir avec la banane aux Apartment Towers"
+    },
+    "outline_girl_sandstone_resort": {
+      "name": "Résidente mystique",
+      "description": "Est-ce ta chambre ?",
+      "condition": "Trouver la Fille Contour au Sandstone Resort"
+    },
+    "molly_moth_garden": {
+      "name": "Sage de la nuit sombre",
+      "description": "« Je suis en train de lire, pourrais-tu ne pas me déranger ? »",
+      "condition": "Interagir avec Molly au Moth Garden"
+    },
+    "stare_shattered_realm": {
+      "name": "Yeux intrigués",
+      "description": "Tu ne peux juste pas t'empêcher de regarder",
+      "condition": "Déclencher l'événement du Regard au Shattered Realm"
+    },
+    "sunrise_disintegrating_pillars": {
+      "name": "Lever du Soleil au Bout du Monde",
+      "description": "Une lueur d'espoir dans un monde depuis longtemps mort",
+      "condition": "Déclencher l'événement du Lever du Soleil au Bout du Monde aux Disintegrating Pillars"
+    },
+    "soapy_baths_soap": {
+      "name": "*gloups*",
+      "description": "C'est bizarre, ça avait pas le goût de fraise...",
+      "condition": "Obtenir le savon et l'eau savonneuse du distributeur automatique aux Soapy Baths",
+      "checkbox": {
+        "soapy_baths_soap_1": "le savon",
+        "soapy_baths_soap_2": "l'eau savonneuse"
+      }
+    },
+    "fall_forest": {
+      "name": "Œil de garde",
+      "description": "Il est déjà trop tard pour te repentir de tes actions.",
+      "condition": "Déclencher l'événement de chute à Forest"
+    },
+    "lottery_parlor": {
+      "name": "Maniaques de la loterie",
+      "condition": "Visiter le Lottery Parlor"
     }
   },
   "flow": {
@@ -10413,6 +10489,16 @@
       "name": "Petite visite de prison !",
       "description": "C'est pas si mal ici en vrai ! Juste, ne va pas dans le coin en bas à droite...",
       "condition": "Interagir avec le prisonnier isolé aux Prison Chambers"
+    },
+    "curse_ice_temple": {
+      "name": "Shimitsuki de glace",
+      "description": "Tu ne le sais pas encore, mais tu es déjà mort.",
+      "condition": "Déclencher l'événement de la Malédiction du Vaudou de Glace au Ice Temple"
+    },
+    "anchor_effect": {
+      "name": "Par-delà l'horizon",
+      "description": "Capitaine Shimitsuki aux commandes !",
+      "condition": "Obtenir l'effet Marinette. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Streetlamp World."
     }
   },
   "oneshot": {
