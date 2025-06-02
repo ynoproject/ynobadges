@@ -544,9 +544,9 @@
       }
     },
     "big_red_sewers": {
-      "name": "Devilish Glutton",
-      "description": "Waiter, more children please!",
-      "condition": "Get eaten by Big Red in the Sewers"
+      "name": "悪魔じみた大食漢",
+      "description": "店員さん、もっと子供ちょうだい！",
+      "condition": "赤い顔の部屋で赤い顔に食べられる"
     }
   },
   "2kki": {
@@ -1460,16 +1460,21 @@
     "phone": {
       "name": "MVP",
       "description": "最も便利な電話",
-      "condition": "石切 化石湖 砂糖道 自販倉庫 シャッター通り 博物館リベンジ チタババ parking zoneの八ヶ所で公衆電話を使用する",
+      "condition": "Use the phone shortcut to Urotsuki's Dream Apartments in 10 of the following locations: Aquatic Cube City, Fossil Lake, Sugar Road, Underground Garage, Water Reclamation Facility, Dark Museum, Dark Warehouse, Parking Zone, Eyeberry Orchard, Legacy Nexus, Lemonade Edifice, Originator Garden, RGB Spectral Passage",
       "checkbox": {
-        "phone_aquatic_cube_city": "石切",
-        "phone_fossil_lake": "化石湖",
-        "phone_sugar_road": "砂糖道",
-        "phone_underground_garage": "自販倉庫",
-        "phone_water_reclamation_facility": "シャッター通り",
-        "phone_dark_museum": "博物館リベンジ",
-        "phone_dark_warehouse": "チタババ",
-        "phone_parking_zone": "parking zone"
+        "phone_aquatic_cube_city": "Aquatic Cube City",
+        "phone_fossil_lake": "Fossil Lake",
+        "phone_sugar_road": "Sugar Road",
+        "phone_underground_garage": "Underground Garage",
+        "phone_water_reclamation_facility": "Water Reclamation Facility",
+        "phone_dark_museum": "Dark Museum",
+        "phone_dark_warehouse": "Dark Warehouse",
+        "phone_parking_zone": "Parking Zone",
+        "phone_eyeberry_orchard": "Eyeberry Orchard",
+        "phone_legacy_nexus": "Legacy Nexus",
+        "lemonade_office_phone": "Lemonade Edifice",
+        "phone_originator_garden": "Originator Garden",
+        "phone_rgb_spectral_passage": "RGB Spectral Passage"
       }
     },
     "butterfly_passage": {
@@ -6613,6 +6618,39 @@
     "opal_archives_tt": {
       "name": "宝石のように輝く私とあなた",
       "condition": "Time Trial Modeで{TIME}以内に浮遊書庫のダンスイベントを見る"
+    },
+    "moonlit_pier": {
+      "name": "Bathe in Moonlight",
+      "description": "Moonlight sleeps veiled, river flows silent",
+      "condition": "Visit Moonlit Pier"
+    },
+    "inverted_pitch_black_plateau": {
+      "name": "Void in my Heart",
+      "description": "You... found me...?",
+      "condition": "Equip the inverted Urotsuki mask where it can be found in Pitch Black Plateau"
+    },
+    "lemon_jelly_citrus_springs": {
+      "name": "Sour Girl",
+      "description": "Don't turn her into lemonade, please.",
+      "condition": "Find lemon jelly in Citrus Springs"
+    },
+    "snake_monolith_jungle": {
+      "name": "Serpent of the Jungle",
+      "description": "Will you trust in him?",
+      "condition": "Find the snake in Monolith Jungle"
+    },
+    "waiya_usugurai_wire": {
+      "name": "Waiyamichi",
+      "condition": "Interact with Waiyamichi in Usugurai Residence and Interconnected Wire World",
+      "checkbox": {
+        "waiya_usugurai": "Usugurai Residence",
+        "waiya_wire": "Interconnected Wire World"
+      }
+    },
+    "sub_research_center_screen": {
+      "name": "Artificial Friend",
+      "description": "I l0v3 l34rn1ng 4b0ut y0u!",
+      "condition": "Use effects to see all the reactions from the face on the screen in Subterranean Research Center"
     }
   },
   "unconscious": {
@@ -7536,6 +7574,49 @@
       "name": "ピンクスター",
       "description": "太陽も星の一つなことを忘れないで！",
       "condition": "煌めく森にあるお星さまを調べる"
+    },
+    "banana_apartment_towers": {
+      "name": "Sweet Companion",
+      "description": "It's peanut butter jelly time!",
+      "condition": "Interact with the banana in Apartment Towers"
+    },
+    "outline_girl_sandstone_resort": {
+      "name": "Mystique Resident",
+      "description": "Is this your room?",
+      "condition": "Find Outline Girl in Sandstone Resort"
+    },
+    "molly_moth_garden": {
+      "name": "Sage of the Dark Night",
+      "description": "I'm reading a book right now, could you please not bother me?",
+      "condition": "Interact with Molly in Moth Garden"
+    },
+    "stare_shattered_realm": {
+      "name": "Eyes on Me",
+      "description": "You just can't look away",
+      "condition": "Trigger The Stare event in Shattered Realm"
+    },
+    "sunrise_disintegrating_pillars": {
+      "name": "World's End Sunrise",
+      "description": "A glimmer of hope in a long-dead world",
+      "condition": "Trigger the Sunrise at the End of the World event in Disintegrating Pillars"
+    },
+    "soapy_baths_soap": {
+      "name": "*glub*",
+      "description": "It did not taste like strawberries...",
+      "condition": "Get the soap bar and soap water from a vending machine at Soapy Baths",
+      "checkbox": {
+        "soapy_baths_soap_1": "soap bar",
+        "soapy_baths_soap_2": "soap water"
+      }
+    },
+    "fall_forest": {
+      "name": "That Watching Eye",
+      "description": "It's already too late to undo what you've done.",
+      "condition": "Trigger the fall event in Forest"
+    },
+    "lottery_parlor": {
+      "name": "Shadow Minna Money Gang",
+      "condition": "Visit Lottery Parlor"
     }
   },
   "flow": {
@@ -8272,9 +8353,9 @@
       "condition": "つるつるのエフェクトを入手する、すでに入手している場合はIce Worldの見つけた場所に行く。"
     },
     "zapnef_glitch_world": {
-      "name": "ZApped into the Game",
-      "description": "plae ZApNeF is the beast, itsooki is good and bets in geaem play game p,.ls",
-      "condition": "Complete the fake ZApNeF level in Glitch World"
+      "name": "画面酔い",
+      "description": "ZApNeFをプﾚﾚイ　ﾚいつきは最高のｹﾞ　ゲームをプレイし？？くだ..",
+      "condition": "Glitch Worldの偽のZApNeFのレベルを完了する"
     }
   },
   "unevendream": {
@@ -8810,8 +8891,8 @@
       "condition": "Smugglers' Hideoutの首を吊った人がいる部屋に到達する"
     },
     "tv_roxane_japanese_area": {
-      "name": "Pipiru Piru Piru Pipiru Pi~",
-      "condition": "Turn on the TV in Roxane's House in the Japanese Area"
+      "name": "ぴぴるぴるぴるぴぴるぴ～",
+      "condition": "Japanese AreaのRoxane's Houseのテレビを点ける"
     }
   },
   "muma": {
@@ -9898,9 +9979,9 @@
       "condition": "Wendigoのエフェクトを入手する、すでに入手している場合はScarlet Worldの見つけた場所に行く。"
     },
     "death_row_ventilation_passage": {
-      "name": "The Birth of the Ouroboros",
-      "description": "Deep within the vent, an embryonic creature pulsed inside living flesh. Its very sight tore at the soul.",
-      "condition": "Reach Death Row from Ventilation Passage"
+      "name": "ウロボロスの誕生",
+      "description": "通気口の奥深くで、胎児のような生物が生きた肉の中で脈打つ。それただ一つの光景が魂を引き裂いた。",
+      "condition": "Ventilation PassageからDeath Rowに行く"
     }
   },
   "tsushin": {
@@ -10197,17 +10278,17 @@
       "condition": "Goth DressとDollのエフェクトを組み合わせる"
     },
     "rainy_islands_nini_detective": {
-      "name": "Her Face",
-      "condition": "Use the Detective effect next to Nini in Rainy Islands' house"
+      "name": "彼女の顔",
+      "condition": "Rainy Islandsの家にいるNiniの近くでDetectiveのエフェクトを使う"
     },
     "rainy_islands_nini": {
       "name": "Nini!",
-      "description": "She's literally a cowgirl!",
-      "condition": "Reveal Nini's normal, secret and true versions in Rainy Islands' house",
+      "description": "文字通りのカウガール！",
+      "condition": "Rainy Islands' houseにいるNiniの通常、シークレット、真実のバージョンを発見する。",
       "checkbox": {
-        "rainy_islands_nini_normal": "normal",
-        "rainy_islands_nini_detective": "secret",
-        "rainy_islands_nini_vboa": "true"
+        "rainy_islands_nini_normal": "通常",
+        "rainy_islands_nini_detective": "シークレット",
+        "rainy_islands_nini_vboa": "真実"
       }
     }
   },
@@ -10423,6 +10504,16 @@
       "name": "会いに来ただけ！",
       "description": "ここはそんなに悪いところじゃないよ！右下に立たなければね。",
       "condition": "Prison Chambersの孤独な囚人に話しかける"
+    },
+    "curse_ice_temple": {
+      "name": "Break",
+      "description": "You are already dead.",
+      "condition": "Trigger the Ice Voodoo Curse event in Ice Temple"
+    },
+    "anchor_effect": {
+      "name": "Beyond the Horizon",
+      "description": "Captain Shimitsuki is here!",
+      "condition": "Obtain the Anchor effect. If you have already unlocked it, return where it can be found in Streetlamp World."
     }
   },
   "oneshot": {
