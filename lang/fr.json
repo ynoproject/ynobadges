@@ -1555,10 +1555,6 @@
       "description": "Arriverez-vous à le manger en entier ?",
       "condition": "Obtenir le gâteau de mariage dans un distributeur automatique"
     },
-    "green_monster": {
-      "name": "Monstre vert",
-      "condition": "Interagir avec le monstre vert dans le Foliage Estate"
-    },
     "nail_lady": {
       "name": "Clou à la dérive",
       "description": "Percuter le clou à la dérive",
@@ -2012,7 +2008,7 @@
       "condition": "Trouver les mains dans l'Azure Garden, Forbidden Swamp, Foliage Estate, Dark Nexus, et Garden of Treachery",
       "checkbox": {
         "hands_azure": "Azure Garden",
-        "hands_foliage": "Foliage Estate",
+        "hands_foliage|hands_foliage_b": "Foliage Estate",
         "hands_forbidden": "Forbidden Swamp",
         "hands_dark": "Dark Nexus",
         "hands_treachery": "Garden of Treachery"
@@ -2574,7 +2570,7 @@
       "description": "Tu es partie si loin depuis là où tu viens.",
       "condition": "Visiter les lieux suivants où les Montagnes Jumelles peuvent être vues au loin : Foliage Estate (Panorama), Flying Fish World (Campagne Onirique), Mirror Room (Plage), Bleak Future, Saturated Eyeball Zone, Rainy Apartments, Red Sky Cliff (Carrefour Éclaboussure), Wind Turbine Plateau, Bathhouse",
       "checkbox": {
-        "tw_foliage": "Foliage Estate",
+        "foliage_estate_scenery": "Foliage Estate",
         "tw_fish": "Flying Fish World",
         "tw_mirror": "Mirror Room",
         "tw_bleak": "Bleak Future",

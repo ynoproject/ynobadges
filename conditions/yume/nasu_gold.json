@@ -1,10 +1,14 @@
 {
   "map": 155,
-  "switchId": 215,
-  "switchValue": false,
+  "switchIds": [
+    "212",
+    "215"
+  ],
+  "switchValues": [
+    true,
+    false
+  ],
   "varId": 88,
   "varValue": 3000,
-  "varOp": ">=",
-  "trigger": "picture",
-  "value": "000000000114"
+  "varOp": ">="
 }

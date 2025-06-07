@@ -1556,10 +1556,6 @@
       "description": "Você vai comer tudo isso?",
       "condition": "Obtnha o bolo de casamento de uma das máquina de venda automática"
     },
-    "green_monster": {
-      "name": "Monstro Verde",
-      "condition": "Interaja com o monstro verde no Foliage Estate"
-    },
     "nail_lady": {
       "name": "Prego Solto",
       "description": "Martele o último prego solto",
@@ -2013,7 +2009,7 @@
       "condition": "Encontre as mãos em Azure Garden, Forbidden Swamp, Foliage Estate, Dark Nexus, e Garden of Treachery",
       "checkbox": {
         "hands_azure": "Azure Garden",
-        "hands_foliage": "Foliage Estate",
+        "hands_foliage|hands_foliage_b": "Foliage Estate",
         "hands_forbidden": "Forbidden Swamp",
         "hands_dark": "Dark Nexus",
         "hands_treachery": "Garden of Treachery"
@@ -2569,7 +2565,7 @@
       "description": "Você chegou tão longe do ponto de partida.",
       "condition": "Visite as seguintes áreas com as Montanhas Gêmeas vistas à distância: Foliage Estate (Overlook), Flying Fish World (Dream Scene), Mirror Room (Beach), Bleak Future, Saturated Eyeball Zone, Rainy Apartments, Red Sky Cliff (Splash Streetway), Wind Turbine Plateau, Bathhouse",
       "checkbox": {
-        "tw_foliage": "Foliage Estate (Overlook)",
+        "foliage_estate_scenery": "Foliage Estate (Overlook)",
         "tw_fish": "Flying Fish World (Dream Scene)",
         "tw_mirror": "Mirror Room (Beach)",
         "tw_bleak": "Bleak Future",

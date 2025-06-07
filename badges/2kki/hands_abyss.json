@@ -1,13 +1,24 @@
 {
   "group": "4_ch",
   "bp": 30,
-  "reqType": "tags",
-  "reqStrings": [
-    "hands_azure",
-    "hands_foliage",
-    "hands_forbidden",
-    "hands_dark",
-    "hands_treachery"
+  "reqType": "tagArrays",
+  "reqStringArrays": [
+    [
+      "hands_azure"
+    ],
+    [
+      "hands_foliage",
+      "hands_foliage_b"
+    ],
+    [
+      "hands_forbidden"
+    ],
+    [
+      "hands_dark"
+    ],
+    [
+      "hands_treachery"
+    ]
   ],
   "reqCount": 5,
   "art": "latui & wiki0dd",

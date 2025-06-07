@@ -1556,10 +1556,6 @@
       "description": "Bạn có định ăn hết nó không?",
       "condition": "Mua được bánh cưới từ máy bán hàng tự động"
     },
-    "green_monster": {
-      "name": "Quái vật xanh lá",
-      "condition": "Tương tác với con quái vật màu xanh lá ở Foliage Estate"
-    },
     "nail_lady": {
       "name": "Đinh lỏng",
       "description": "Đinh lỏng thì phải đóng xuống",
@@ -2014,7 +2010,7 @@
       "condition": "Tìm những bàn tay trong Azure Garden, Forbidden Swamp, Foliage Estate, Dark Nexus, và Garden of Treachery",
       "checkbox": {
         "hands_azure": "Azure Garden",
-        "hands_foliage": "Foliage Estate",
+        "hands_foliage|hands_foliage_b": "Foliage Estate",
         "hands_forbidden": "Forbidden Swamp",
         "hands_dark": "Dark Nexus",
         "hands_treachery": "Garden of Treachery"
@@ -2570,7 +2566,7 @@
       "description": "Bạn đã chứng kiến rất nhiều để đến điểm này.",
       "condition": "Đến thăm những khu vực sau có phong cảnh từ xa của Twin Mountains: Foliage Estate (Overlook), Flying Fish World (Dream Scene), Mirror Room (Beach), Bleak Future, Saturated Eyeball Zone, Rainy Apartments, Red Sky Cliff (Splash Streetway), Wind Turbine Plateau, Bathhouse",
       "checkbox": {
-        "tw_foliage": "Foliage Estate (Overlook)",
+        "foliage_estate_scenery": "Foliage Estate (Overlook)",
         "tw_fish": "Flying Fish World (Dream Scene)",
         "tw_mirror": "Mirror Room (Beach)",
         "tw_bleak": "Bleak Future",

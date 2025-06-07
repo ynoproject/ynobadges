@@ -1567,10 +1567,6 @@
       "description": "これ...一人で食べるの?",
       "condition": "自動販売機でウエディングケーキを買う"
     },
-    "green_monster": {
-      "name": "緑の怪物",
-      "condition": "森徊で緑の生物と交流する"
-    },
     "nail_lady": {
       "name": "Ms.ゲッペル",
       "description": "出る釘を打つ",
@@ -2025,7 +2021,7 @@
       "condition": "蒼園、禁足、森徊、辺境の夢、怒哀階段の手を見つける",
       "checkbox": {
         "hands_azure": "蒼園",
-        "hands_foliage": "森徊",
+        "hands_foliage|hands_foliage_b": "森徊",
         "hands_forbidden": "禁足",
         "hands_dark": "辺境の夢",
         "hands_treachery": "怒哀階段"
@@ -2581,7 +2577,7 @@
       "description": "始まりの場所からここまで来たんですね。",
       "condition": "双子山が見える、森徊(山奥)、夕焼け、心象(心象エリア)、夢の夢部屋、彩愛蝶、rainyday、ハザマ、風力高原、銭湯を訪れる",
       "checkbox": {
-        "tw_foliage": "森徊(山奥)",
+        "foliage_estate_scenery": "森徊(山奥)",
         "tw_fish": "夕焼け",
         "tw_mirror": "心象(心象エリア)",
         "tw_bleak": "夢の夢部屋",

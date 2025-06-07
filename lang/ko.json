@@ -1556,10 +1556,6 @@
       "description": "이걸 다 먹을 생각이야?",
       "condition": "자판기에서 웨딩 케이크를 구매하기"
     },
-    "green_monster": {
-      "name": "녹색 괴물",
-      "condition": "Foliage Estate의 녹색 괴물과 상호작용하기"
-    },
     "nail_lady": {
       "name": "헐거워진 못",
       "description": "헐거운 못에 망치질",
@@ -2013,7 +2009,7 @@
       "condition": "Azure Garden, Forbidden Swamp, Foliage Estate, Dark Nexus, Garden of Treachery에서 손들을 찾아내기",
       "checkbox": {
         "hands_azure": "Azure Garden",
-        "hands_foliage": "Foliage Estate",
+        "hands_foliage|hands_foliage_b": "Foliage Estate",
         "hands_forbidden": "Forbidden Swamp",
         "hands_dark": "Dark Nexus",
         "hands_treachery": "Garden of Treachery"
@@ -2569,7 +2565,7 @@
       "description": "처음 시작된 장소로부터 이렇게나 멀리까지 왔구나.",
       "condition": "다음의 구역에서 쌍둥이 산이 보이는 장소들을 방문하기: Foliage Estate (Overlook 서브 에리어), Flying Fish World (Dream Scene 서브 에리어), Mirror Room (Beach 서브 에리어), Bleak Future, Saturated Eyeball Zone, Rainy Apartments, Red Sky Cliff (Splash Streetway 서브 에리어), Wind Turbine Plateau, Bathhouse",
       "checkbox": {
-        "tw_foliage": "Foliage Estate (Overlook 서브 에리어)",
+        "foliage_estate_scenery": "Foliage Estate (Overlook 서브 에리어)",
         "tw_fish": "Flying Fish World (Dream Scene 서브 에리어)",
         "tw_mirror": "Mirror Room (Beach 서브 에리어)",
         "tw_bleak": "Bleak Future",
