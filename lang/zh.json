@@ -1556,10 +1556,6 @@
       "description": "……必须一个人吃完吗？",
       "condition": "从自贩机里买到婚庆蛋糕"
     },
-    "green_monster": {
-      "name": "绿色怪物",
-      "condition": "调查Foliage Estate的绿色生物"
-    },
     "nail_lady": {
       "name": "旋转螺钉",
       "description": "钉紧点儿",
@@ -2014,7 +2010,7 @@
       "condition": "找到Azure Garden，Forbidden Swamp，Foliage Estate，Dark Nexus和Garden of Treachery中的手",
       "checkbox": {
         "hands_azure": "Azure Garden",
-        "hands_foliage": "Foliage Estate",
+        "hands_foliage|hands_foliage_b": "Foliage Estate",
         "hands_forbidden": "Forbidden Swamp",
         "hands_dark": "Dark Nexus",
         "hands_treachery": "Garden of Treachery"
@@ -2576,7 +2572,7 @@
       "description": "漫漫归途。",
       "condition": "抵达下列有双峰山的区域：Foliage Estate，Flying Fish World，Mirror Room，Bleak Future，Saturated Eyeball Zone，Rainy Apartments，Red Sky Cliff (Splash Streetway)，Wind Turbine Plateau，Bathhouse。",
       "checkbox": {
-        "tw_foliage": "Foliage Estate",
+        "foliage_estate_scenery": "Foliage Estate",
         "tw_fish": "Flying Fish World",
         "tw_mirror": "Mirror Room",
         "tw_bleak": "Bleak Future",
