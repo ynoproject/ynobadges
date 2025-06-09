@@ -532,6 +532,11 @@
         "blonde_hair_effect": "Blonde",
         "poo_hair_effect": "Poo Hair"
       }
+    },
+    "big_red_sewers": {
+      "name": "Devilish Glutton",
+      "description": "Waiter, more children please!",
+      "condition": "Get eaten by Big Red in the Sewers"
     }
   },
   "2kki": {
@@ -1444,7 +1449,7 @@
     "phone": {
       "name": "СВА",
       "description": "Самый Важный Аппарат",
-      "condition": "Используйте телефон к Urotsuki's Dream Apartments во всех 8 локациях: Aquatic Cube City, Fossil Lake, Sugar Road, Underground Garage, Water Reclamation Facility, Dark Museum, Dark Warehouse и Parking Zone.",
+      "condition": "Use the phone shortcut to Urotsuki's Dream Apartments in 10 of the following locations: Aquatic Cube City, Fossil Lake, Sugar Road, Underground Garage, Water Reclamation Facility, Dark Museum, Dark Warehouse, Parking Zone, Eyeberry Orchard, Legacy Nexus, Lemonade Edifice, Originator Garden, RGB Spectral Passage",
       "checkbox": {
         "phone_aquatic_cube_city": "Aquatic Cube City",
         "phone_fossil_lake": "Fossil Lake",
@@ -1453,7 +1458,12 @@
         "phone_water_reclamation_facility": "Water Reclamation Facility",
         "phone_dark_museum": "Dark Museum",
         "phone_dark_warehouse": "Dark Warehouse",
-        "phone_parking_zone": "Parking Zone"
+        "phone_parking_zone": "Parking Zone",
+        "phone_eyeberry_orchard": "Eyeberry Orchard",
+        "phone_legacy_nexus": "Legacy Nexus",
+        "lemonade_office_phone": "Lemonade Edifice",
+        "phone_originator_garden": "Originator Garden",
+        "phone_rgb_spectral_passage": "RGB Spectral Passage"
       }
     },
     "butterfly_passage": {
@@ -6506,8 +6516,8 @@
       "condition": "Interact with the Cyborg Daughter in Windy Factory"
     },
     "tiled_canvas": {
-      "name": "Nostalgic Tiles 🎼",
-      "description": "About the memories of a beautiful melody and lights that flicker in this world🎵",
+      "name": "Nostalgic Tiles",
+      "description": "About the memories of a beautiful melody and lights that flicker in this world",
       "condition": "Visit Tiled Canvas"
     },
     "crimson_park": {
@@ -6539,6 +6549,88 @@
       "name": "King of the Spirits",
       "description": "He watches over them in peace and comfort.",
       "condition": "Equip the Fairy effect in front of the dragon in Spirit Capital"
+    },
+    "cat_floating_park": {
+      "name": "Itty Bitty Kitty",
+      "description": "Y'know like, nya!",
+      "condition": "Interact with the cat in Floating Park"
+    },
+    "serenade_girl_tricolor_room": {
+      "name": "Cherished Old Memory",
+      "description": "I hope we meet again, one day...",
+      "condition": "Interact with the girl in the Serenade sub-area of Tricolor Room while using the Child effect"
+    },
+    "blood_underground_base": {
+      "name": "Strange Drains",
+      "description": "What is this red stuff?",
+      "condition": "Find a stain of blood in Underground Base"
+    },
+    "silhouette_autumn_pastel_ruins": {
+      "name": "Black Figure",
+      "description": "Hello! Have you been here all along?",
+      "condition": "Reveal the black silhouette on the swing set in Autumn Pastel Plains"
+    },
+    "alien_world": {
+      "name": "Alien Rave",
+      "description": "I never thought aliens would sound so cute!",
+      "condition": "Visit Alien World"
+    },
+    "lush_cells": {
+      "name": "Forgotten Park",
+      "description": "At last, a moment of respite...",
+      "condition": "Visit Lush Cells"
+    },
+    "glitched_digits": {
+      "name": "Glitched Limbs",
+      "description": "Please proceed to the emergency exit.",
+      "condition": "Visit Glitched Digits"
+    },
+    "satellite_midnight_manor": {
+      "name": "Satelite of Serenity",
+      "description": "The moonlit lake seems mesmerizing...",
+      "condition": "Find the Manor's Satellite in Midnight Manor"
+    },
+    "robot_robotic_slaves_tunnel": {
+      "name": "TAKE ME WITH YOU",
+      "description": "Would you let it out?",
+      "condition": "Reveal the huge droid-like robot in Robotic Slaves Tunnel"
+    },
+    "opal_archives_tt": {
+      "name": "Bejeweled Alum",
+      "condition": "Start the Opal Archives' ballroom dance event in {TIME} or less in Time Trial Mode"
+    },
+    "moonlit_pier": {
+      "name": "Bathe in Moonlight",
+      "description": "Moonlight sleeps veiled, river flows silent",
+      "condition": "Visit Moonlit Pier"
+    },
+    "inverted_pitch_black_plateau": {
+      "name": "Void in my Heart",
+      "description": "You... found me...?",
+      "condition": "Equip the inverted Urotsuki mask where it can be found in Pitch Black Plateau"
+    },
+    "lemon_jelly_citrus_springs": {
+      "name": "Sour Girl",
+      "description": "Don't turn her into lemonade, please.",
+      "condition": "Find lemon jelly in Citrus Springs"
+    },
+    "snake_monolith_jungle": {
+      "name": "Serpent of the Jungle",
+      "description": "Will you trust in him?",
+      "condition": "Find the snake in Monolith Jungle"
+    },
+    "waiya_usugurai_wire": {
+      "name": "Waiyamichi",
+      "condition": "Interact with Waiyamichi in Usugurai Residence and Interconnected Wire World",
+      "checkbox": {
+        "waiya_usugurai": "Usugurai Residence",
+        "waiya_wire": "Interconnected Wire World"
+      }
+    },
+    "sub_research_center_screen": {
+      "name": "Artificial Friend",
+      "description": "I l0v3 l34rn1ng 4b0ut y0u!",
+      "condition": "Use effects to see all the reactions from the face on the screen in Subterranean Research Center"
     }
   },
   "unconscious": {
@@ -7462,6 +7554,49 @@
       "name": "Pink Star",
       "description": "Remember the sun is also a star!",
       "condition": "Interact with the star in Cosmic Woods"
+    },
+    "banana_apartment_towers": {
+      "name": "Sweet Companion",
+      "description": "It's peanut butter jelly time!",
+      "condition": "Interact with the banana in Apartment Towers"
+    },
+    "outline_girl_sandstone_resort": {
+      "name": "Mystique Resident",
+      "description": "Is this your room?",
+      "condition": "Find Outline Girl in Sandstone Resort"
+    },
+    "molly_moth_garden": {
+      "name": "Sage of the Dark Night",
+      "description": "I'm reading a book right now, could you please not bother me?",
+      "condition": "Interact with Molly in Moth Garden"
+    },
+    "stare_shattered_realm": {
+      "name": "Eyes on Me",
+      "description": "You just can't look away",
+      "condition": "Trigger The Stare event in Shattered Realm"
+    },
+    "sunrise_disintegrating_pillars": {
+      "name": "World's End Sunrise",
+      "description": "A glimmer of hope in a long-dead world",
+      "condition": "Trigger the Sunrise at the End of the World event in Disintegrating Pillars"
+    },
+    "soapy_baths_soap": {
+      "name": "*glub*",
+      "description": "It did not taste like strawberries...",
+      "condition": "Get the soap bar and soap water from a vending machine at Soapy Baths",
+      "checkbox": {
+        "soapy_baths_soap_1": "soap bar",
+        "soapy_baths_soap_2": "soap water"
+      }
+    },
+    "fall_forest": {
+      "name": "That Watching Eye",
+      "description": "It's already too late to undo what you've done.",
+      "condition": "Trigger the fall event in Forest"
+    },
+    "lottery_parlor": {
+      "name": "Shadow Minna Money Gang",
+      "condition": "Visit Lottery Parlor"
     }
   },
   "flow": {
@@ -8196,6 +8331,11 @@
       "name": "Greened Baldy",
       "description": "It'll grow back.",
       "condition": "Obtain the Bald effect. If you have already unlocked it, return where it can be found in Ice World."
+    },
+    "zapnef_glitch_world": {
+      "name": "ZApped into the Game",
+      "description": "plae ZApNeF is the beast, itsooki is good and bets in geaem play game p,.ls",
+      "condition": "Complete the fake ZApNeF level in Glitch World"
     }
   },
   "unevendream": {
@@ -8388,7 +8528,7 @@
     "totsu_x_ray": {
       "name": "Рёнтген",
       "description": "Можно увидеть всё.",
-      "condition": "Пройдите через Рентген в Центре Каомодзи."
+      "condition": "Take X-rays in the Hat Park"
     },
     "enamored_yellow": {
       "name": "Влюблённые",
@@ -8729,6 +8869,10 @@
     "door_smugglers_hideout": {
       "name": "I Gently Open the Door...",
       "condition": "Reach the room of the hanged man in Smugglers' Hideout"
+    },
+    "tv_roxane_japanese_area": {
+      "name": "Pipiru Piru Piru Pipiru Pi~",
+      "condition": "Turn on the TV in Roxane's House in the Japanese Area"
     }
   },
   "muma": {
@@ -9813,6 +9957,11 @@
       "name": "Unwanted Memories",
       "description": "Deep within a forest of scarlet trees was a tall monster. Its eyes glowed with a color similar to that of blood, unwanted memories arose in me.",
       "condition": "Obtain the Wendigo effect. If you have already unlocked it, return where it can be found in Scarlet World."
+    },
+    "death_row_ventilation_passage": {
+      "name": "The Birth of the Ouroboros",
+      "description": "Deep within the vent, an embryonic creature pulsed inside living flesh. Its very sight tore at the soul.",
+      "condition": "Reach Death Row from Ventilation Passage"
     }
   },
   "tsushin": {
@@ -10107,6 +10256,20 @@
       "name": "Doll's Dress-Up",
       "description": "Wearing pretty dresses is so fun, you might end up losing your head.",
       "condition": "Combine the Goth Dress and Doll effects"
+    },
+    "rainy_islands_nini_detective": {
+      "name": "Her Face",
+      "condition": "Use the Detective effect next to Nini in Rainy Islands' house"
+    },
+    "rainy_islands_nini": {
+      "name": "Nini!",
+      "description": "She's literally a cowgirl!",
+      "condition": "Reveal Nini's normal, secret and true versions in Rainy Islands' house",
+      "checkbox": {
+        "rainy_islands_nini_normal": "normal",
+        "rainy_islands_nini_detective": "secret",
+        "rainy_islands_nini_vboa": "true"
+      }
     }
   },
   "nostalgic": {
@@ -10321,6 +10484,16 @@
       "name": "Just Visiting!",
       "description": "It's actually not so bad in here! Just don't stand in the bottom-right corner.",
       "condition": "Interact with the lone prisoner in Prison Chambers"
+    },
+    "curse_ice_temple": {
+      "name": "Break",
+      "description": "You are already dead.",
+      "condition": "Trigger the Ice Voodoo Curse event in Ice Temple"
+    },
+    "anchor_effect": {
+      "name": "Beyond the Horizon",
+      "description": "Captain Shimitsuki is here!",
+      "condition": "Obtain the Anchor effect. If you have already unlocked it, return where it can be found in Streetlamp World."
     }
   },
   "oneshot": {
@@ -10454,7 +10627,7 @@
     },
     "qiu_qin_zabu_un": {
       "name": "Unpredictable Connection",
-      "description": "How did she got here?! No, the right question should be why am I here?!",
+      "description": "How did she get here?! No, the right question is why am I here?!",
       "condition": "Find Qiu Qin and Zabu"
     },
     "light_invisible_ink": {
