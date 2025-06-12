@@ -1018,8 +1018,8 @@
       "condition": "调查Despair Road上的红色肉块"
     },
     "puni": {
-      "name": "Friendly Companion",
-      "description": "Oh my, what a cute creature!",
+      "name": "友好陪伴",
+      "description": "诶呀妈呀，萌死我了！",
       "condition": "在梦想公园变身为Puni"
     },
     "mechanical_heart": {
@@ -1449,7 +1449,7 @@
     "phone": {
       "name": "MVP",
       "description": "最有价值电话",
-      "condition": "Use the phone shortcut to Urotsuki's Dream Apartments in 10 of the following locations: Aquatic Cube City, Fossil Lake, Sugar Road, Underground Garage, Water Reclamation Facility, Dark Museum, Dark Warehouse, Parking Zone, Eyeberry Orchard, Legacy Nexus, Lemonade Edifice, Originator Garden, RGB Spectral Passage",
+      "condition": "使用以下10个地点的电话捷径到达Urotsuki's Dream Apartments：Aquatic Cube City, Fossil Lake, Sugar Road, Underground Garage, Water Reclamation Facility, Dark Museum, Dark Warehouse, Parking Zone, Eyeberry Orchard, Legacy Nexus, Lemonade Edifice, Originator Garden, RGB Spectral Passage",
       "checkbox": {
         "phone_aquatic_cube_city": "Aquatic Cube City",
         "phone_fossil_lake": "Fossil Lake",
@@ -2450,7 +2450,7 @@
     },
     "ug_lake_singer": {
       "name": "相谈甚欢",
-      "description": "他想找个伴...",
+      "description": "他想找个伴……",
       "condition": "从两个方向和Underground Lake一楼的绿色生物搭话"
     },
     "appururi_bat": {
@@ -3538,8 +3538,8 @@
       "description": "越陈越香",
       "condition": "在Japan Town，找到Ghost Maiko，用眼镜效果找到一个孤立房间里隐藏的生物，并与Kanban Otoko和News Man对话",
       "checkbox": {
-        "japan_town_hotel|japan_town_glasses": "逆さ宿",
-        "japan_town_otoko|japan_town_news_man": "Japan Town"
+        "japan_town_hotel|japan_town_glasses": "用眼镜效果找到一个孤立房间里隐藏的生物",
+        "japan_town_otoko|japan_town_news_man": "News Man"
       }
     },
     "himalayan_lighthouse": {
@@ -4296,7 +4296,7 @@
     },
     "chainsaw_library": {
       "name": "激光制导因果报应",
-      "description": "Play violent games, win violent prizes.",
+      "description": "通过玩暴力游戏获得的奖励也会是暴力。",
       "condition": "攻击Library阅读室里的女孩"
     },
     "butcher_chainsaw": {
@@ -6199,7 +6199,7 @@
     "roux_art_exposition": {
       "name": "旁观之眼",
       "description": "\"人体就像一幅画：很多人喜爱，但主人却厌恶它。\" -T",
-      "condition": "Interact with the warped painting of Urotsuki in the Art Exposition"
+      "condition": "找到Art Exposition中扭曲的Urotsuki画像"
     },
     "sea_sponge_path": {
       "name": "辉光海湾",
@@ -6615,37 +6615,37 @@
       "condition": "在计时模式中在{TIME}以内开始Opal Archives的舞会事件"
     },
     "moonlit_pier": {
-      "name": "Bathe in Moonlight",
-      "description": "Moonlight sleeps veiled, river flows silent",
-      "condition": "Visit Moonlit Pier"
+      "name": "沐浴月光",
+      "description": "月光在面纱后沉眠，河水在无声地流淌",
+      "condition": "抵达Moonlit Pier"
     },
     "inverted_pitch_black_plateau": {
-      "name": "Void in my Heart",
-      "description": "You... found me...?",
-      "condition": "Equip the inverted Urotsuki mask where it can be found in Pitch Black Plateau"
+      "name": "我内心的空虚",
+      "description": "你……找到我了……？",
+      "condition": "在Pitch Black Plateau找到并装备反色Urotsuki面具"
     },
     "lemon_jelly_citrus_springs": {
-      "name": "Sour Girl",
-      "description": "Don't turn her into lemonade, please.",
-      "condition": "Find lemon jelly in Citrus Springs"
+      "name": "酸娘",
+      "description": "请不要把他变成柠檬水。",
+      "condition": "在Citrus Springs找到lemon jelly"
     },
     "snake_monolith_jungle": {
-      "name": "Serpent of the Jungle",
-      "description": "Will you trust in him?",
-      "condition": "Find the snake in Monolith Jungle"
+      "name": "密林之蛇",
+      "description": "你会信任它吗？",
+      "condition": "找到Monolith Jungle的蛇"
     },
     "waiya_usugurai_wire": {
       "name": "Waiyamichi",
-      "condition": "Interact with Waiyamichi in Usugurai Residence and Interconnected Wire World",
+      "condition": "在Usugurai Residence和Interconnected Wire World与Waiyamichi互动",
       "checkbox": {
         "waiya_usugurai": "Usugurai Residence",
         "waiya_wire": "Interconnected Wire World"
       }
     },
     "sub_research_center_screen": {
-      "name": "Artificial Friend",
-      "description": "I l0v3 l34rn1ng 4b0ut y0u!",
-      "condition": "Use effects to see all the reactions from the face on the screen in Subterranean Research Center"
+      "name": "人造友人",
+      "description": "我喜欢了解你！",
+      "condition": "在Subterranean Research Center通过改变和使用效果看到屏幕上脸的所有反应"
     }
   },
   "unconscious": {
@@ -7571,47 +7571,47 @@
       "condition": "与Cosmic Woods的星星互动"
     },
     "banana_apartment_towers": {
-      "name": "Sweet Companion",
-      "description": "It's peanut butter jelly time!",
-      "condition": "Interact with the banana in Apartment Towers"
+      "name": "甜美陪伴",
+      "description": "是花生黄油布丁时间！",
+      "condition": "与Apartment Towers的香蕉互动"
     },
     "outline_girl_sandstone_resort": {
-      "name": "Mystique Resident",
-      "description": "Is this your room?",
-      "condition": "Find Outline Girl in Sandstone Resort"
+      "name": "神秘住人",
+      "description": "这是你的房间吗？",
+      "condition": "在Sandstone Resort找到Outline Girl"
     },
     "molly_moth_garden": {
-      "name": "Sage of the Dark Night",
-      "description": "I'm reading a book right now, could you please not bother me?",
-      "condition": "Interact with Molly in Moth Garden"
+      "name": "暗夜贤者",
+      "description": "我在看书，请你不要打扰我，好吗？",
+      "condition": "在Moth Garden与Molly互动"
     },
     "stare_shattered_realm": {
-      "name": "Eyes on Me",
-      "description": "You just can't look away",
-      "condition": "Trigger The Stare event in Shattered Realm"
+      "name": "看着我",
+      "description": "你只是无法移开视线。",
+      "condition": "在Shattered Realm触发The Stare事件"
     },
     "sunrise_disintegrating_pillars": {
-      "name": "World's End Sunrise",
-      "description": "A glimmer of hope in a long-dead world",
-      "condition": "Trigger the Sunrise at the End of the World event in Disintegrating Pillars"
+      "name": "世末日出",
+      "description": "在早已死去的世界里窥见一瞥希望",
+      "condition": "在Disintegrating Pillars触发Sunrise at the End of the World事件"
     },
     "soapy_baths_soap": {
       "name": "*glub*",
-      "description": "It did not taste like strawberries...",
-      "condition": "Get the soap bar and soap water from a vending machine at Soapy Baths",
+      "description": "不是草莓味……",
+      "condition": "在Soapy Baths的自贩机买到肥皂块和肥皂水",
       "checkbox": {
-        "soapy_baths_soap_1": "soap bar",
-        "soapy_baths_soap_2": "soap water"
+        "soapy_baths_soap_1": "肥皂块",
+        "soapy_baths_soap_2": "肥皂水"
       }
     },
     "fall_forest": {
-      "name": "That Watching Eye",
-      "description": "It's already too late to undo what you've done.",
-      "condition": "Trigger the fall event in Forest"
+      "name": "观察之眼",
+      "description": "现在想反悔已经来不及了。",
+      "condition": "在Forest触发fall事件"
     },
     "lottery_parlor": {
-      "name": "Shadow Minna Money Gang",
-      "condition": "Visit Lottery Parlor"
+      "name": "暗影Minna货币帮",
+      "condition": "抵达Lottery Parlor"
     }
   },
   "flow": {
@@ -8001,7 +8001,7 @@
       "condition": "进入Planetarium取得天界效果的房间。"
     },
     "hospital_event": {
-      "name": "患者 001",
+      "name": "患者001",
       "description": "我的老伙计Eric也是这样的。",
       "condition": "在Hospital见证事件。"
     },
@@ -10263,27 +10263,27 @@
       "condition": "在Office Building看到冷冻奶牛"
     },
     "lotus_marsh": {
-      "name": "Azure Bloom",
-      "description": "A peaceful place for fishing~",
-      "condition": "Visit Lotus Marsh"
+      "name": "天蓝花朵",
+      "description": "钓鱼的好地方~",
+      "condition": "抵达Lotus Marsh"
     },
     "goth_doll_effects": {
-      "name": "Doll's Dress-Up",
-      "description": "Wearing pretty dresses is so fun, you might end up losing your head.",
-      "condition": "Combine the Goth Dress and Doll effects"
+      "name": "换装人偶",
+      "description": "穿上漂亮裙子虽然很有趣，但你有可能因此掉脑袋。",
+      "condition": "组合哥特裙和洋娃娃效果"
     },
     "rainy_islands_nini_detective": {
-      "name": "Her Face",
-      "condition": "Use the Detective effect next to Nini in Rainy Islands' house"
+      "name": "她的容颜",
+      "condition": "在Rainy Islands的房屋里，在Nini身边使用侦探效果"
     },
     "rainy_islands_nini": {
       "name": "Nini!",
-      "description": "She's literally a cowgirl!",
-      "condition": "Reveal Nini's normal, secret and true versions in Rainy Islands' house",
+      "description": "她是字面意思上的奶牛娘！",
+      "condition": "在Rainy Islands的房屋里看到Nini的正常、隐藏、真实形态",
       "checkbox": {
-        "rainy_islands_nini_normal": "normal",
-        "rainy_islands_nini_detective": "secret",
-        "rainy_islands_nini_vboa": "true"
+        "rainy_islands_nini_normal": "正常",
+        "rainy_islands_nini_detective": "隐藏",
+        "rainy_islands_nini_vboa": "真实"
       }
     }
   },
@@ -10501,14 +10501,14 @@
       "condition": "与Prison Chambers中孤独的囚犯互动"
     },
     "curse_ice_temple": {
-      "name": "Break",
-      "description": "You are already dead.",
-      "condition": "Trigger the Ice Voodoo Curse event in Ice Temple"
+      "name": "破冰",
+      "description": "你已经死了。",
+      "condition": "在Ice Temple触发Ice Voodoo Curse事件"
     },
     "anchor_effect": {
-      "name": "Beyond the Horizon",
-      "description": "Captain Shimitsuki is here!",
-      "condition": "Obtain the Anchor effect. If you have already unlocked it, return where it can be found in Streetlamp World."
+      "name": "越过地平线",
+      "description": "Shimitsuki船长在此！",
+      "condition": "获得效果锚。若已获得，请返回Streetlamp World中获得该效果处。"
     }
   },
   "oneshot": {
