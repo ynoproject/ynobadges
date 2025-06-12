@@ -1552,10 +1552,6 @@
       "description": "Are you going to eat it all?",
       "condition": "Get the wedding cake from a vending machine"
     },
-    "green_monster": {
-      "name": "Green Monster",
-      "condition": "Interact with the green monster at the Foliage Estate"
-    },
     "nail_lady": {
       "name": "Loose Nail",
       "description": "Hammer the loose nail",
@@ -2010,7 +2006,7 @@
       "condition": "Find the hands in Azure Garden, Forbidden Swamp, Foliage Estate, Dark Nexus, and Garden of Treachery",
       "checkbox": {
         "hands_azure": "Azure Garden",
-        "hands_foliage": "Foliage Estate",
+        "hands_foliage|hands_foliage_b": "Foliage Estate",
         "hands_forbidden": "Forbidden Swamp",
         "hands_dark": "Dark Nexus",
         "hands_treachery": "Garden of Treachery"
@@ -2566,7 +2562,7 @@
       "description": "You've come so far from where you started.",
       "condition": "Visit the following areas with the Twin Mountains seen in the distance: Foliage Estate (Overlook), Flying Fish World (Dream Scene), Mirror Room (Beach), Bleak Future, Saturated Eyeball Zone, Rainy Apartments, Red Sky Cliff (Splash Streetway), Wind Turbine Plateau, Bathhouse",
       "checkbox": {
-        "tw_foliage": "Foliage Estate (Overlook)",
+        "foliage_estate_scenery": "Foliage Estate (Overlook)",
         "tw_fish": "Flying Fish World (Dream Scene)",
         "tw_mirror": "Mirror Room (Beach)",
         "tw_bleak": "Bleak Future",
