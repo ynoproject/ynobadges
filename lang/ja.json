@@ -516,11 +516,6 @@
       "description": "刃の部分に自分の顔が映ってる",
       "condition": "ほうちょうのエフェクトを入手する、すでに入手している場合は暗闇の世界にもう一度行く。"
     },
-    "nasu_ruby": {
-      "name": "残念賞",
-      "description": "プラスチック製の安っぽい賞",
-      "condition": "NASUの隠れたモードで290点ちょうどを取る"
-    },
     "staircase_nikki": {
       "name": "悪夢のような下降",
       "description": "本当にベッドに入るだけでこんなところまで？妙だな",
@@ -1002,7 +997,7 @@
       "checkbox": {
         "downfall_garden_b": "嘔吐庭(血反吐エリア)",
         "sparkling_dimension_b": "黒潰れ(街灯と木のエリア)",
-        "opal_ruins_b": "ミサロジー(反富裕側)",
+        "opal_ruins_b|opal_ruins_b_b": "ミサロジー(反富裕側)",
         "fuchsia_suburbs_b": "反富裕(始祖庭側)"
       }
     },
@@ -2522,7 +2517,7 @@
       "condition": "スケッチの大樹に到達する"
     },
     "carousel_oriental": {
-      "name": "メリーゴーランド",
+      "name": "Mood Swings",
       "description": "回レ回レ回レ回レ",
       "condition": "黒潰れの人から6つの世界を回る",
       "checkbox": {
@@ -5606,10 +5601,6 @@
       "description": "今日のがくランクエストはここまでだよ、学ラン君！",
       "condition": "高台でがくランのエフェクトを身につけ、景色を見る"
     },
-    "space_2kki": {
-      "name": "美しい空虚",
-      "condition": "宇宙に到達する"
-    },
     "hourglass_s_sky_coast": {
       "name": "背の高いタイマー",
       "description": "砂の使い道はひとつ",
@@ -6254,20 +6245,10 @@
       "name": "地球外生命体",
       "condition": "おぼろ異星で小さなエイリアンのお面を装備する"
     },
-    "rabbelle_mask_hellish_village": {
-      "name": "魅惑のバニー",
-      "description": "遠く遠くの檻に閉じ込められたウサギちゃん",
-      "condition": "黄泉瓦の町でおさげのウサギ仮面のお面を装備する"
-    },
     "cheese_lady_cheese_world": {
       "name": "小さな小さな賢将",
       "description": "\"チーズなんて赤色の薄い食べ物は食べてらんないだとさ\"",
       "condition": "チーズ楼で紫服のチーズ少女のお面を装備する"
-    },
-    "church_legacy_nexus": {
-      "name": "モノクロチャペル",
-      "description": "紫の砂漠の中に佇む光のない世界",
-      "condition": "扉部屋遺構:チャペルで望遠鏡を覗き込む"
     },
     "kiwi_mask_alien_wasteland": {
       "name": "なりきりキーウィ！",
@@ -6283,11 +6264,6 @@
       "name": "渦巻いて…",
       "description": "廃れた夢の残骸を飲み込む特異点",
       "condition": "裏扉部屋遺構:オレンジ色の部屋で渦を巻く何かを調べる"
-    },
-    "mask_storage_mask_tst_map": {
-      "name": "完璧なエンド",
-      "description": "長い旅のあとのご褒美としてはこれ以上のものはないな！",
-      "condition": "ﾃｽﾄﾏｯﾌﾟで紫のお面ロッカーのお面を装備する"
     },
     "museum_of_cur_connect": {
       "name": "好奇心を掻き立てる博物館",

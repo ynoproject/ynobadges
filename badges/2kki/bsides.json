@@ -2,12 +2,21 @@
   "group": "4_ch",
   "order": 8,
   "bp": 30,
-  "reqType": "tags",
-  "reqStrings": [
-    "downfall_garden_b",
-    "sparkling_dimension_b",
-    "opal_ruins_b",
-    "fuchsia_suburbs_b"
+  "reqType": "tagArrays",
+  "reqStringArrays": [
+    [
+      "downfall_garden_b"
+    ],
+    [
+      "sparkling_dimension_b"
+    ],
+    [
+      "opal_ruins_b",
+      "opal_ruins_b_b"
+    ],
+    [
+      "fuchsia_suburbs_b"
+    ]
   ],
   "art": "Río",
   "batch": 3

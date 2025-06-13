@@ -506,11 +506,6 @@
       "description": "你看到它映出你的倒影",
       "condition": "获得菜刀效果。若已获得，请返回Dark World。"
     },
-    "nasu_ruby": {
-      "name": "安慰奖",
-      "description": "塑料制的便宜奖牌",
-      "condition": "在NASU秘技模式中刚好获得290分"
-    },
     "staircase_nikki": {
       "name": "降入梦魇",
       "description": "你真的为了得到这个徽章而睡在了所有的床上？真是个怪人",
@@ -992,7 +987,7 @@
       "checkbox": {
         "downfall_garden_b": "Downfall Garden B",
         "sparkling_dimension_b": "Sparkling Dimension B",
-        "opal_ruins_b": "Opal Ruins B",
+        "opal_ruins_b|opal_ruins_b_b": "Opal Ruins B",
         "fuchsia_suburbs_b": "Fuchsia Suburbs B"
       }
     },
@@ -2517,7 +2512,7 @@
       "condition": "进入Sketch Plains连接的 GB Forest。"
     },
     "carousel_oriental": {
-      "name": "旋转木马",
+      "name": "Mood Swings",
       "description": "摇啊摇，摇啊摇...",
       "condition": "进入Oriental Pub与传送npc连接的六个连接点（Test Facility、Holiday Hell、Ice Cream Islands、Tribulation Complex、Platformer World、Abandoned Grounds）。",
       "checkbox": {
@@ -3907,7 +3902,7 @@
     "graffiti_passage_a": {
       "name": "纸上恐慌",
       "description": "一个染红的发现。",
-      "condition": "站上Graffiti Passage的红色あ"
+      "condition": "站上Doodle Path的红色あ"
     },
     "witch_heaven": {
       "name": "魔法天国",
@@ -4442,7 +4437,7 @@
     "penguin_gb_corrupt": {
       "name": "终极神器",
       "description": "你不应该碰那个的……",
-      "condition": "调查Penguin GB Game的发光红色球体"
+      "condition": "调查Penguin Game的发光红色球体"
     },
     "house_abyssal_garden": {
       "name": "我没在看……",
@@ -4470,7 +4465,7 @@
     "penguin_gb_game": {
       "name": "虚拟企鹅",
       "description": "我虽然不是企鹅学专家，但这衣服是真舒服！",
-      "condition": "完成Penguin GB Game"
+      "condition": "完成Penguin Game"
     },
     "megusuri_uri_visine": {
       "name": "眼药水贩子",
@@ -5605,10 +5600,6 @@
       "description": "辛苦了，Gakuran-kun。",
       "condition": "在Monster's Jaw使用学生制服效果并观看剧情。"
     },
-    "space_2kki": {
-      "name": "虚空美景",
-      "condition": "抵达Space"
-    },
     "hourglass_s_sky_coast": {
       "name": "高大计时器",
       "description": "对的，这么多沙子就只是用来做这个的。",
@@ -6253,20 +6244,10 @@
       "name": "地外生物",
       "condition": "在Alien Wasteland装备外星人面具"
     },
-    "rabbelle_mask_hellish_village": {
-      "name": "美兔",
-      "description": "被锁在远离一切的笼中",
-      "condition": "在Hellish Village鸟笼中装备Rabbelle面具"
-    },
     "cheese_lady_cheese_world": {
       "name": "聪明的小司令",
       "description": "\"他们说奶酪无法和其他红色食物相比。\"",
       "condition": "在Cheese World装备cheese lady的面具"
-    },
-    "church_legacy_nexus": {
-      "name": "黑白教堂",
-      "description": "紫砂之中的无光世界",
-      "condition": "在Legacy Nexus看到教堂"
     },
     "kiwi_mask_alien_wasteland": {
       "name": "几维鸟",
@@ -6282,11 +6263,6 @@
       "name": "旋转……",
       "description": "吞噬碎梦残片的奇点",
       "condition": "与Legacy of Ruin的黑洞互动"
-    },
-    "mask_storage_mask_tst_map": {
-      "name": "完美结局",
-      "description": "没有什么比这样的奖励更适合如此的旅途",
-      "condition": "在TST MAP装备面具库面具"
     },
     "museum_of_cur_connect": {
       "name": "好奇博物馆",

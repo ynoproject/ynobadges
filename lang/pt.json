@@ -506,11 +506,6 @@
       "description": "You can see your reflection in the blade",
       "condition": "Obtain the Kitchen Knife effect. If you have already unlocked it, return to Dark World."
     },
-    "nasu_ruby": {
-      "name": "Consolation Prize",
-      "description": "A cheap award made of plastic",
-      "condition": "Score exactly 290 points in the secret mode of NASU"
-    },
     "staircase_nikki": {
       "name": "Nightmarish Descent",
       "description": "Did you really lie on all those beds to get this? Weird",
@@ -992,7 +987,7 @@
       "checkbox": {
         "downfall_garden_b": "Downfall Garden B",
         "sparkling_dimension_b": "Sparkling Dimension B",
-        "opal_ruins_b": "Opal Ruins B",
+        "opal_ruins_b|opal_ruins_b_b": "Opal Ruins B",
         "fuchsia_suburbs_b": "Fuchsia Suburbs B"
       }
     },
@@ -2510,7 +2505,7 @@
       "condition": "Entre na GB Forest pelo Sketch Plains"
     },
     "carousel_oriental": {
-      "name": "Carrossel",
+      "name": "Mood Swings",
       "description": "Roda e roda e roda...",
       "condition": "Visite os 6 mundos retratados sem usar a warp de Oriental Pub",
       "checkbox": {
@@ -3894,7 +3889,7 @@
     "graffiti_passage_a": {
       "name": "Pânico no Papel",
       "description": "Uma descoberta de cor vermelha.",
-      "condition": "Pisar o azulejo vermelho あ em Graffiti Passage"
+      "condition": "Pisar o azulejo vermelho あ em Doodle Path"
     },
     "witch_heaven": {
       "name": "Paraíso Mágico",
@@ -4427,7 +4422,7 @@
     "penguin_gb_corrupt": {
       "name": "O Artefato Lendário",
       "description": "Você não deve tocar nisso...",
-      "condition": "Interaja com a esfera vermelha piscante no Penguin GB Game"
+      "condition": "Interaja com a esfera vermelha piscante no Penguin Game"
     },
     "house_abyssal_garden": {
       "name": "Não estou olhando...",
@@ -4455,7 +4450,7 @@
     "penguin_gb_game": {
       "name": "Penguin Virtual",
       "description": "Posso não ser um especialista em pinguinologia, mas esse traje é realmente confortável!",
-      "condition": "Complete o Penguin GB Game"
+      "condition": "Complete o Penguin Game"
     },
     "megusuri_uri_visine": {
       "name": "Vendedor de Colírios",
@@ -5586,10 +5581,6 @@
       "description": "Já deu de gakuran quest por hoje, Gakuran-kun",
       "condition": "Use o efeito de School Boy no Monster's Jaw e veja a cutscene curta"
     },
-    "space_2kki": {
-      "name": "The Beautiful Void",
-      "condition": "Reach Space"
-    },
     "hourglass_s_sky_coast": {
       "name": "Tall Timer",
       "description": "Well that's one use for all that sand",
@@ -6234,20 +6225,10 @@
       "name": "Extraterrestrial Creature",
       "condition": "Equip the alien mask in Alien Wasteland"
     },
-    "rabbelle_mask_hellish_village": {
-      "name": "The Beautiful Bunny",
-      "description": "Locked away in a cage far from all",
-      "condition": "Equip the Rabbelle mask in the bird cage of Hellish Village"
-    },
     "cheese_lady_cheese_world": {
       "name": "A Tiny, Tiny, Clever Commander",
       "description": "\"They say that cheese just can't compare to certain other red foods.\"",
       "condition": "Equip the cheese lady mask in Cheese World"
-    },
-    "church_legacy_nexus": {
-      "name": "A Igreja Monocromática",
-      "description": "Um mundo sem luz vive no meio das areias roxas",
-      "condition": "Veja a igreja no Legacy Nexus"
     },
     "kiwi_mask_alien_wasteland": {
       "name": "Kiwi",
@@ -6263,11 +6244,6 @@
       "name": "Swirling...",
       "description": "The singularity that eats away remnants of a ruined dream",
       "condition": "Interact with the black hole in Legacy of Ruin"
-    },
-    "mask_storage_mask_tst_map": {
-      "name": "A Perfect End",
-      "description": "What could be a better reward after a journey like that",
-      "condition": "Equip the mask storage mask in TST MAP"
     },
     "museum_of_cur_connect": {
       "name": "Curious Museum",

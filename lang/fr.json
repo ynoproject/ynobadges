@@ -506,11 +506,6 @@
       "description": "Une lame aussi aiguisée que vos sens",
       "condition": "Obtenir l'effet Couteau. Si vous l'avez déjà obtenu, retournez au Dark World."
     },
-    "nasu_ruby": {
-      "name": "Prix de consolation",
-      "description": "À ce prix-là, elle aurait pu être en chocolat...",
-      "condition": "Marquer exactement 290 points dans le mode secret de NASU"
-    },
     "staircase_nikki": {
       "name": "Descente cauchemardesque",
       "description": "Rêver dans un rêve... tu dors si peu que ça ? Vraiment ?",
@@ -992,7 +987,7 @@
       "checkbox": {
         "downfall_garden_b": "Downfall Garden B",
         "sparkling_dimension_b": "Sparkling Dimension B",
-        "opal_ruins_b": "Opal Ruins B",
+        "opal_ruins_b|opal_ruins_b_b": "Opal Ruins B",
         "fuchsia_suburbs_b": "Fuchsia Suburbs B"
       }
     },
@@ -2515,7 +2510,7 @@
       "condition": "Entrer dans la GB Forest se trouvant dans les Sketch Plains"
     },
     "carousel_oriental": {
-      "name": "Carrousel",
+      "name": "Saute d'humeur",
       "description": "Et on tourne, et on tourne, et on tourne...",
       "condition": "Visiter les 6 mondes présents sur le badge sans utiliser le téléporteur présent dans l'Oriental Pub (Test Facility, Holiday Hell, Ice Cream Islands, Tribulation Complex, Platformer World, Abandoned Grounds)",
       "checkbox": {
@@ -3899,7 +3894,7 @@
     "graffiti_passage_a": {
       "name": "Panique papier",
       "description": "Une découverte teintée de rouge",
-      "condition": "Marcher sur la tuile あ rouge au Graffiti Passage"
+      "condition": "Marcher sur la tuile あ rouge au Doodle Path"
     },
     "witch_heaven": {
       "name": "Paradis magique",
@@ -4432,7 +4427,7 @@
     "penguin_gb_corrupt": {
       "name": "L'artéfacte légendaire",
       "description": "Tu ne devrais pas toucher à ça...",
-      "condition": "Interagir avec l'orbe rouge clignotant au Jeu du Pingouin GB"
+      "condition": "Interagir avec l'orbe rouge clignotant à Penguin Game"
     },
     "house_abyssal_garden": {
       "name": "Je ne regarde pas...",
@@ -4460,7 +4455,7 @@
     "penguin_gb_game": {
       "name": "Le pingouin qui glisse le plus loin",
       "description": "Je suis peut-être pas une experte en pingouins mais cette tenue est très confortable !",
-      "condition": "Compléter le Jeu du Pingouin GB"
+      "condition": "Compléter le Penguin Game"
     },
     "megusuri_uri_visine": {
       "name": "Marchand de larmes",
@@ -5591,10 +5586,6 @@
       "description": "Assez de balades pour aujourd'hui, Gakuran-kun",
       "condition": "Utiliser l'effet Gakuran dans la Monster's Jaw et voir la courte scène"
     },
-    "space_2kki": {
-      "name": "Le magnifique vide",
-      "condition": "Atteindre le Space"
-    },
     "hourglass_s_sky_coast": {
       "name": "Minuteur géant",
       "description": "Eh bien, c'est une façon originale d'utiliser tout ce sable, je suppose...",
@@ -6239,20 +6230,10 @@
       "name": "Créature hors de ce monde",
       "condition": "Équiper le masque alien à l'Alien Wasteland"
     },
-    "rabbelle_mask_hellish_village": {
-      "name": "La maline lapine",
-      "description": "Enfermé dans une cage loin de tout",
-      "condition": "Équiper le masque Rabbelle dans la cage à oiseaux de l'Hellish Village"
-    },
     "cheese_lady_cheese_world": {
       "name": "La p'tite maestra maligne",
       "description": "« Ils disent que le fromage ne vaut rien comparé à certains aliments rouges... »",
       "condition": "Équiper le masque de la Dame Fromage au Cheese World"
-    },
-    "church_legacy_nexus": {
-      "name": "L'église monochrome",
-      "description": "Un monde sans lumière vit parmi les sables violets",
-      "condition": "Voir l'église au Legacy Nexus"
     },
     "kiwi_mask_alien_wasteland": {
       "name": "Kiwi",
@@ -6268,11 +6249,6 @@
       "name": "Spiralant...",
       "description": "La singularité qui dévore les restes d'un rêve ruiné",
       "condition": "Interagir avec le trou noir à Legacy of Ruin"
-    },
-    "mask_storage_mask_tst_map": {
-      "name": "Une fin parfaite",
-      "description": "Après un tel voyage, y aurait-il pu avoir une meilleure récompense que ça ?",
-      "condition": "Équiper le masque du stockage de masques à la TST MAP"
     },
     "museum_of_cur_connect": {
       "name": "Un musée des plus curieux",
