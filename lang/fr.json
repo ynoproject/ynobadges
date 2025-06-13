@@ -506,11 +506,6 @@
       "description": "Une lame aussi aiguisée que vos sens",
       "condition": "Obtenir l'effet Couteau. Si vous l'avez déjà obtenu, retournez au Dark World."
     },
-    "nasu_ruby": {
-      "name": "Prix de consolation",
-      "description": "À ce prix-là, elle aurait pu être en chocolat...",
-      "condition": "Marquer exactement 290 points dans le mode secret de NASU"
-    },
     "staircase_nikki": {
       "name": "Descente cauchemardesque",
       "description": "Rêver dans un rêve... tu dors si peu que ça ? Vraiment ?",
@@ -992,7 +987,7 @@
       "checkbox": {
         "downfall_garden_b": "Downfall Garden B",
         "sparkling_dimension_b": "Sparkling Dimension B",
-        "opal_ruins_b": "Opal Ruins B",
+        "opal_ruins_b|opal_ruins_b_b": "Opal Ruins B",
         "fuchsia_suburbs_b": "Fuchsia Suburbs B"
       }
     },
@@ -2515,7 +2510,7 @@
       "condition": "Entrer dans la GB Forest se trouvant dans les Sketch Plains"
     },
     "carousel_oriental": {
-      "name": "Carrousel",
+      "name": "Saute d'humeur",
       "description": "Et on tourne, et on tourne, et on tourne...",
       "condition": "Visiter les 6 mondes présents sur le badge sans utiliser le téléporteur présent dans l'Oriental Pub (Test Facility, Holiday Hell, Ice Cream Islands, Tribulation Complex, Platformer World, Abandoned Grounds)",
       "checkbox": {
@@ -3899,7 +3894,7 @@
     "graffiti_passage_a": {
       "name": "Panique papier",
       "description": "Une découverte teintée de rouge",
-      "condition": "Marcher sur la tuile あ rouge au Graffiti Passage"
+      "condition": "Marcher sur la tuile あ rouge au Doodle Path"
     },
     "witch_heaven": {
       "name": "Paradis magique",
@@ -4432,7 +4427,7 @@
     "penguin_gb_corrupt": {
       "name": "L'artéfacte légendaire",
       "description": "Tu ne devrais pas toucher à ça...",
-      "condition": "Interagir avec l'orbe rouge clignotant au Jeu du Pingouin GB"
+      "condition": "Interagir avec l'orbe rouge clignotant à Penguin Game"
     },
     "house_abyssal_garden": {
       "name": "Je ne regarde pas...",
@@ -4460,7 +4455,7 @@
     "penguin_gb_game": {
       "name": "Le pingouin qui glisse le plus loin",
       "description": "Je suis peut-être pas une experte en pingouins mais cette tenue est très confortable !",
-      "condition": "Compléter le Jeu du Pingouin GB"
+      "condition": "Compléter le Penguin Game"
     },
     "megusuri_uri_visine": {
       "name": "Marchand de larmes",
@@ -5591,10 +5586,6 @@
       "description": "Assez de balades pour aujourd'hui, Gakuran-kun",
       "condition": "Utiliser l'effet Gakuran dans la Monster's Jaw et voir la courte scène"
     },
-    "space_2kki": {
-      "name": "Le magnifique vide",
-      "condition": "Atteindre le Space"
-    },
     "hourglass_s_sky_coast": {
       "name": "Minuteur géant",
       "description": "Eh bien, c'est une façon originale d'utiliser tout ce sable, je suppose...",
@@ -6239,20 +6230,10 @@
       "name": "Créature hors de ce monde",
       "condition": "Équiper le masque alien à l'Alien Wasteland"
     },
-    "rabbelle_mask_hellish_village": {
-      "name": "La maline lapine",
-      "description": "Enfermé dans une cage loin de tout",
-      "condition": "Équiper le masque Rabbelle dans la cage à oiseaux de l'Hellish Village"
-    },
     "cheese_lady_cheese_world": {
       "name": "La p'tite maestra maligne",
       "description": "« Ils disent que le fromage ne vaut rien comparé à certains aliments rouges... »",
       "condition": "Équiper le masque de la Dame Fromage au Cheese World"
-    },
-    "church_legacy_nexus": {
-      "name": "L'église monochrome",
-      "description": "Un monde sans lumière vit parmi les sables violets",
-      "condition": "Voir l'église au Legacy Nexus"
     },
     "kiwi_mask_alien_wasteland": {
       "name": "Kiwi",
@@ -6268,11 +6249,6 @@
       "name": "Spiralant...",
       "description": "La singularité qui dévore les restes d'un rêve ruiné",
       "condition": "Interagir avec le trou noir à Legacy of Ruin"
-    },
-    "mask_storage_mask_tst_map": {
-      "name": "Une fin parfaite",
-      "description": "Après un tel voyage, y aurait-il pu avoir une meilleure récompense que ça ?",
-      "condition": "Équiper le masque du stockage de masques à la TST MAP"
     },
     "museum_of_cur_connect": {
       "name": "Un musée des plus curieux",
@@ -6632,6 +6608,83 @@
       "name": "Ami artificiel",
       "description": "J'41m3 4ppr3ndr3 d35 ch0535 5ur t01 !",
       "condition": "Utiliser des effets pour voir toutes les réactions du visage sur l'écran au Subterranean Research Center"
+    },
+    "sunrise_drink": {
+      "name": "Cocktail sunburn",
+      "description": "*Tchin ! Tchin !* Santé !",
+      "condition": "Visiter les bars dans les lieux suivants : Japan Town, The Baddies Bar, Eyeball Archives, Cyber Bar, Cocktail Lounge, Aquamarine Cave, Spaceship, Oriental Pub, Water Reclamation Facility",
+      "checkbox": {
+        "underground_bar": "Japan Town",
+        "baddies_bar_bar": "The Baddies Bar",
+        "eyeball_archives_bar": "Eyeball Archives",
+        "cyber_bar": "Cyber Bar",
+        "aquamarine_cave_bar": "Aquamarine Cave",
+        "spaceship_bar": "Spaceship",
+        "orential_pub": "Oriental Pub",
+        "water_facility_bar": "Water Reclamation Facility",
+        "cocktail_lounge": "Cocktail Lounge"
+      }
+    },
+    "jester_mask_apartments": {
+      "name": "Joker onirique",
+      "description": "Je peux rêver de tout.",
+      "condition": "Équiper le masque de bouffon aux Blue Apartments ou aux Fake Apartments"
+    },
+    "snail_coral_shoal": {
+      "name": "Escargot coralien",
+      "description": "Un grand ami doté d'une grande coquille !",
+      "condition": "Trouver l'escargot au Coral Shoal"
+    },
+    "sea_challenge": {
+      "name": "Par-delà la mer des rêves",
+      "description": "Je me noie dans les profondeurs de mon esprit...",
+      "condition": "Visiter les mondes aquatiques suivants : Atlantis, Star Ocean, Ocean Floor, Depths, Neon Sea, Ocean Subsurface, Aquatic Cube City, Rotten Sea, Tomb of Velleities, Gentle Sea, Watching Waters, Streetlight Docks (Profondeurs des Pêcheurs), Sunken Paradise, Sunken Spore Sea",
+      "checkbox": {
+        "atlantis": "Atlantis",
+        "star_ocean": "Star Ocean",
+        "ocean_floor": "Ocean Floor",
+        "depths": "Depths",
+        "neon_sea": "Neon Sea",
+        "ocean_subsurface": "Ocean Subsurface",
+        "aquatic_cube_city": "Aquatic Cube City",
+        "rotten_sea": "Rotten Sea",
+        "tomb_of_velleities": "Tomb of Velleities",
+        "gentle_sea": "Gentle Sea",
+        "watching_waters": "Watching Waters",
+        "angler_depths_docks": "Streetlight Docks (Profondeurs des Pêcheurs)",
+        "sunken_paradise": "Sunken Paradise",
+        "sunken_spore_sea": "Sunken Spore Sea"
+      }
+    },
+    "industrial_challenge": {
+      "name": "Paradis industriels aux quatre coins du rêve",
+      "condition": "Visiter les mondes industriels suivants : Industrial Maze, Industrial Towers, Rusted Factory, Rusted City, Pollution District, Steam Engine, Suspended Steamworks, Rusty Urban Complex, Aureate Clockworks",
+      "checkbox": {
+        "industrial_maze": "Industrial Maze",
+        "industrial_towers": "Industrial Towers",
+        "rusted_factory": "Rusted Factory",
+        "rusted_city": "Rusted City",
+        "pollution_district": "Pollution District",
+        "steam_engine": "Steam Engine",
+        "suspended_steamworks": "Suspended Steamworks",
+        "rusty_urban_complex": "Rusty Urban Complex",
+        "aureate_clockworks": "Aureate Clockworks"
+      }
+    },
+    "candlelit_factory_room": {
+      "name": "Salle calme",
+      "description": "Comment ce bonhomme de neige fait-il pour ne pas fondre ?",
+      "condition": "Visiter la salle éclairée à la bougie à la Candlelit Factory"
+    },
+    "fountain_butterfly_garden": {
+      "name": "Vœux cultivés",
+      "description": "J'aurai jamais cru que mon souhait aurait pu se réaliser aussi rapidement...",
+      "condition": "Jeter une pièce dans la fontaine du Butterfly Garden"
+    },
+    "drum_effect": {
+      "name": "Des barres d'amusement !",
+      "description": "Est-ce qu'Urotsuki est à la taille du baril ? Ou est-ce que le baril est à la taille d'Urotsuki ?",
+      "condition": "Obtenir l'effet Baril. Si vous l'avez déjà obtenu, retournez dans l'Onyx Tile World."
     }
   },
   "unconscious": {
@@ -7598,6 +7651,11 @@
     "lottery_parlor": {
       "name": "Maniaques de la loterie",
       "condition": "Visiter le Lottery Parlor"
+    },
+    "landscape_karoushi": {
+      "name": "Répit après le travail",
+      "description": "Une pause bien méritée après avoir tant travaillé dans ces bureaux.",
+      "condition": "Atteindre la zone de paysage à Karoushi"
     }
   },
   "flow": {
@@ -7866,6 +7924,11 @@
       "name": "Robe enneigée parfumée",
       "description": "Une jolie robe que j'aurais aimée.",
       "condition": "Obtenir l'effet Robe. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Snow World."
+    },
+    "dresses_submarine_village": {
+      "name": ".fashion",
+      "description": "Je suis peut-être un peu bizarre, mais au moins je suis jolie.",
+      "condition": "Mettre les deux robes au Submarine Village"
     }
   },
   "prayers": {
@@ -8175,6 +8238,11 @@
       "name": "Anciens temps, certes, mais rêves passés",
       "description": "Essaies-tu de te rappeler de tes souvenirs dans le monde onirique ? Les anciens temps te manque, pas vrai ?",
       "condition": "Obtenir l'alter Nostalgique. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à la Train Station."
+    },
+    "dd_systems": {
+      "name": "Carnet de voyage",
+      "description": "Une fois que tu auras placé un marque-page pour garder en mémoire ton épopée, repartons à l'aventure.",
+      "condition": "Obtenir tous les systèmes et retourner dans votre chambre"
     }
   },
   "someday": {
@@ -9095,6 +9163,21 @@
       "name": "Maison immaculée",
       "description": "Qui pourrait vivre dans un tel lieu ?",
       "condition": "Atteindre l'House"
+    },
+    "muma_fric_in_rich": {
+      "name": "Souvenir ? Pas nécessaire !",
+      "description": "Tout l'or du monde !",
+      "condition": "Obtenir toutes les pièces sans obtenir le moindre souvenir, puis lire le texte aux First Steps"
+    },
+    "star_ride_muma": {
+      "name": "Rêve parsemé d'étoiles",
+      "description": "Tout cela semble si réel...",
+      "condition": "Déclencher l'événement de Balade en Étoile sur le balcon de la Bedroom"
+    },
+    "rabbit_blue_flow": {
+      "name": "Bronzage en milieu hostile",
+      "description": "Même ici, il a l'air de si bien se reposer...",
+      "condition": "Voir un lapin sur un transat à Blue Flow"
     }
   },
   "genie": {
@@ -9713,6 +9796,11 @@
         "day_palace": "Day Palace",
         "night_palace": "Night Palace"
       }
+    },
+    "the_star_card": {
+      "name": "La comète de Noelia",
+      "description": "Celle-là n'était pas assez grande pour exterminer les dinosaures...",
+      "condition": "Déclencher l'événement du Crash de la Météorite et obtenir la carte L'Étoile. Si vous l'avez déjà obtenu, déclenchez une fois de plus l'événement du Crash de la Météorite et retournez à The Nexus."
     }
   },
   "oversomnia": {
@@ -9963,6 +10051,11 @@
       "name": "La naissance de l'ouroboros",
       "description": "Cachée dans le conduit, une créature embryonnaire battant dans de la chair fraîche. Sa simple vue déchire l'âme.",
       "condition": "Atteindre Death Row depuis le Ventilation Passage"
+    },
+    "ov_dream_journal": {
+      "name": "Journal des rêves",
+      "description": "Un long voyage, parsemé de mondes mystérieux et de gens merveilleux, touche à son terme.",
+      "condition": "Compléter le journal des rêves et le consulter"
     }
   },
   "tsushin": {
