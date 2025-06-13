@@ -6628,6 +6628,83 @@
       "name": "Artificial Friend",
       "description": "I l0v3 l34rn1ng 4b0ut y0u!",
       "condition": "Use effects to see all the reactions from the face on the screen in Subterranean Research Center"
+    },
+    "sunrise_drink": {
+      "name": "Sunburn Cocktail",
+      "description": "*Clink!*",
+      "condition": "Visit the bars in the following locations: Japan Town, The Baddies Bar, Eyeball Archives, Cyber Bar, Cocktail Lounge, Aquamarine Cave, Spaceship, Oriental Pub, Water Reclamation Facility",
+      "checkbox": {
+        "underground_bar": "Japan Town",
+        "baddies_bar_bar": "The Baddies Bar",
+        "eyeball_archives_bar": "Eyeball Archives",
+        "cyber_bar": "Cyber Bar",
+        "aquamarine_cave_bar": "Aquamarine Cave",
+        "spaceship_bar": "Spaceship",
+        "orential_pub": "Oriental Pub",
+        "water_facility_bar": "Water Reclamation Facility",
+        "cocktail_lounge": "Cocktail Lounge"
+      }
+    },
+    "jester_mask_apartments": {
+      "name": "Dream Joker",
+      "description": "I can dream anything.",
+      "condition": "Equip the Jester mask in Blue Apartments or Fake Apartments"
+    },
+    "snail_coral_shoal": {
+      "name": "Coral Snail",
+      "description": "One big shell-y friend!",
+      "condition": "Find the snail in Coral Shoal"
+    },
+    "sea_challenge": {
+      "name": "Through the Sea of Dreams",
+      "description": "Drowning within the depths of my mind...",
+      "condition": "Visit the following underwater worlds: Atlantis, Star Ocean, Ocean Floor, Depths, Neon Sea, Ocean Subsurface, Aquatic Cube City, Rotten Sea, Tomb of Velleities, Gentle Sea, Watching Waters, Streetlight Docks (Angler's Depths), Sunken Paradise, and Sunken Spore Sea",
+      "checkbox": {
+        "atlantis": "Atlantis",
+        "star_ocean": "Star Ocean",
+        "ocean_floor": "Ocean Floor",
+        "depths": "Depths",
+        "neon_sea": "Neon Sea",
+        "ocean_subsurface": "Ocean Subsurface",
+        "aquatic_cube_city": "Aquatic Cube City",
+        "rotten_sea": "Rotten Sea",
+        "tomb_of_velleities": "Tomb of Velleities",
+        "gentle_sea": "Gentle Sea",
+        "watching_waters": "Watching Waters",
+        "angler_depths_docks": "Streetlight Docks (Angler's Depths)",
+        "sunken_paradise": "Sunken Paradise",
+        "sunken_spore_sea": "Sunken Spore Sea"
+      }
+    },
+    "industrial_challenge": {
+      "name": "Industrial Realms All Around",
+      "condition": "Visit the following industrial worlds: Industrial Maze, Industrial Towers, Rusted Factory, Rusted City, Pollution District, Steam Engine, Suspended Steamworks, Rusty Urban Complex, and Aureate Clockworks",
+      "checkbox": {
+        "industrial_maze": "Industrial Maze",
+        "industrial_towers": "Industrial Towers",
+        "rusted_factory": "Rusted Factory",
+        "rusted_city": "Rusted City",
+        "pollution_district": "Pollution District",
+        "steam_engine": "Steam Engine",
+        "suspended_steamworks": "Suspended Steamworks",
+        "rusty_urban_complex": "Rusty Urban Complex",
+        "aureate_clockworks": "Aureate Clockworks"
+      }
+    },
+    "candlelit_factory_room": {
+      "name": "Calm Room",
+      "description": "How is that snowman not melting?",
+      "condition": "Visit the candlelit room in Candlelit Factory"
+    },
+    "fountain_butterfly_garden": {
+      "name": "Cultivated Wishes",
+      "description": "Didn't expect that wish to come true so quickly...",
+      "condition": "Throw a coin in the fountain in Butterfly Garden"
+    },
+    "drum_effect": {
+      "name": "Drum 'n' Fun!",
+      "description": "Urotsuki sized drum? Or drum sized Urotsuki?",
+      "condition": "Obtain the Drum effect. If you have already unlocked it, return to Onyx Tile World."
     }
   },
   "unconscious": {
@@ -7594,6 +7671,11 @@
     "lottery_parlor": {
       "name": "Shadow Minna Money Gang",
       "condition": "Visit Lottery Parlor"
+    },
+    "landscape_karoushi": {
+      "name": "Workload Respite",
+      "description": "A necessary break from the office.",
+      "condition": "Reach the landscape area of Karoushi"
     }
   },
   "flow": {
@@ -7862,6 +7944,11 @@
       "name": "Fragrance Snowy Dress",
       "description": "A nice pretty dress I would've liked.",
       "condition": "Obtain the Dress effect. If you have already unlocked it, return where it can be found in Snow World."
+    },
+    "dresses_submarine_village": {
+      "name": ".fashion",
+      "description": "I may be sick but at least I'm cute.",
+      "condition": "Put on the two dresses in Submarine Village"
     }
   },
   "prayers": {
@@ -8171,6 +8258,11 @@
       "name": "Old Times, yet Past Dreams",
       "description": "Are you recollecting your memories in the dream world? We miss old times, don't we?",
       "condition": "Obtain the Nostalgic alter. If you have already unlocked it, return where it can be found at the Train Station."
+    },
+    "dd_systems": {
+      "name": "Bookmark your Journey",
+      "description": "Once you've placed a bookmark in your journey, let's set out again.",
+      "condition": "Obtain all of the systems and return to your room"
     }
   },
   "someday": {
@@ -9091,6 +9183,21 @@
       "name": "Maison Blanche",
       "description": "Who would live all the way out here?",
       "condition": "Reach House"
+    },
+    "muma_fric_in_rich": {
+      "name": "Memory? Not Needed!",
+      "description": "All the coins in the world!",
+      "condition": "Collect all of the coins without collecting any memory, then read the text in First Steps"
+    },
+    "star_ride_muma": {
+      "name": "Starry Dream",
+      "description": "It feels so real...",
+      "condition": "Trigger the Star Ride event on the balcony of Bedroom"
+    },
+    "rabbit_blue_flow": {
+      "name": "Bunwind",
+      "description": "So comfy...",
+      "condition": "See a rabbit on the lounge chair in Blue Flow"
     }
   },
   "genie": {
@@ -9709,6 +9816,11 @@
         "day_palace": "Day Palace",
         "night_palace": "Night Palace"
       }
+    },
+    "the_star_card": {
+      "name": "Noelia's Comet",
+      "description": "This one wasn't quite big enough to wipe out the dinosaurs...",
+      "condition": "Witness the Meteor Crash event and obtain The Star card. If you have already unlocked it, trigger again the Meteor Crash event and return to The Nexus."
     }
   },
   "oversomnia": {
@@ -9959,6 +10071,11 @@
       "name": "The Birth of the Ouroboros",
       "description": "Deep within the vent, an embryonic creature pulsed inside living flesh. Its very sight tore at the soul.",
       "condition": "Reach Death Row from Ventilation Passage"
+    },
+    "ov_dream_journal": {
+      "name": "Dream Journal",
+      "description": "A long journey, full of mysterious worlds and fantastic individuals, comes to an end.",
+      "condition": "Complete the Dream Journal and consult it"
     }
   },
   "tsushin": {
