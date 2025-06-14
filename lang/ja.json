@@ -1782,7 +1782,7 @@
     },
     "rainbow_fish": {
       "name": "Rainbow Fish",
-      "condition": "電子の海で「ポリゴン」と「にじ」を使用した後に魚を見てください"
+      "condition": "電子の海で「ポリゴン」と「にじ」を使用した後に魚を見る"
     },
     "maple_symphony": {
       "name": "メープルチューン",
@@ -5029,8 +5029,8 @@
       "condition": "昭和庭のくらげ水族館内部に到達する"
     },
     "windswept_souls": {
-      "name": "Windswept Wilds",
-      "description": "The hollow shell of a former civilization now submerged under scarlet sand and the turquoise sky",
+      "name": "風に吹かれる荒野",
+      "description": "かつての文明の空虚な残骸が、今は深紅の砂とターコイズの空の下に埋もれている",
       "condition": "砂と風の塔のから荒涼とした大地を眺める"
     },
     "2kki_wolf_effect": {
@@ -6625,81 +6625,81 @@
       "condition": "夢研究所の顔モニターにエフェクトを使用してすべての反応を見る"
     },
     "sunrise_drink": {
-      "name": "Sunburn Cocktail",
-      "description": "*Clink!*",
-      "condition": "Visit the bars in the following locations: Japan Town, The Baddies Bar, Eyeball Archives, Cyber Bar, Cocktail Lounge, Aquamarine Cave, Spaceship, Oriental Pub, Water Reclamation Facility",
+      "name": "日焼けしたカクテル",
+      "description": "「乾杯！」",
+      "condition": "以下の場所を訪れる：BAR、お広い:会員制バー、旋律の珈琲店、電脳海館、砂地と地下:バー、宇宙船:バー、黒潰れ、シャッター通り:小部屋、カクテル",
       "checkbox": {
-        "underground_bar": "Japan Town",
-        "baddies_bar_bar": "The Baddies Bar",
-        "eyeball_archives_bar": "Eyeball Archives",
-        "cyber_bar": "Cyber Bar",
-        "aquamarine_cave_bar": "Aquamarine Cave",
-        "spaceship_bar": "Spaceship",
-        "orential_pub": "Oriental Pub",
-        "water_facility_bar": "Water Reclamation Facility",
-        "cocktail_lounge": "Cocktail Lounge"
+        "underground_bar": "BAR",
+        "baddies_bar_bar": "お広い:会員制バー",
+        "eyeball_archives_bar": "旋律の珈琲店",
+        "cyber_bar": "電脳海館",
+        "aquamarine_cave_bar": "砂地と地下:バー",
+        "spaceship_bar": "宇宙船:バー",
+        "orential_pub": "黒潰れ",
+        "water_facility_bar": "シャッター通り:小部屋",
+        "cocktail_lounge": "カクテル"
       }
     },
     "jester_mask_apartments": {
-      "name": "Dream Joker",
-      "description": "I can dream anything.",
-      "condition": "Equip the Jester mask in Blue Apartments or Fake Apartments"
+      "name": "夢の道化師",
+      "description": "どーんな夢でも見られる！",
+      "condition": "摩天迷楼ホテルもしくは偽うろつき邸で、ジェスターハットのお面を身につける"
     },
     "snail_coral_shoal": {
-      "name": "Coral Snail",
-      "description": "One big shell-y friend!",
-      "condition": "Find the snail in Coral Shoal"
+      "name": "サンゴ礁のカタツムリ",
+      "description": "とても大きな、貝のおともだち！",
+      "condition": "コーラルビーチでカタツムリを見つける"
     },
     "sea_challenge": {
-      "name": "Through the Sea of Dreams",
-      "description": "Drowning within the depths of my mind...",
-      "condition": "Visit the following underwater worlds: Atlantis, Star Ocean, Ocean Floor, Depths, Neon Sea, Ocean Subsurface, Aquatic Cube City, Rotten Sea, Tomb of Velleities, Gentle Sea, Watching Waters, Streetlight Docks (Angler's Depths), Sunken Paradise, and Sunken Spore Sea",
+      "name": "夢の海を越えて",
+      "description": "私の心の深淵に溺れていく……",
+      "condition": "以下の水中世界を訪れる：海底、深海、湖底、みなぞこ、ネオン海、地下の海、石切、浸腐海、Butterfly、優しい海、悲蒼海、釣り堀:海底、星命の澱み、光るキノコの世界",
       "checkbox": {
-        "atlantis": "Atlantis",
-        "star_ocean": "Star Ocean",
-        "ocean_floor": "Ocean Floor",
-        "depths": "Depths",
-        "neon_sea": "Neon Sea",
-        "ocean_subsurface": "Ocean Subsurface",
-        "aquatic_cube_city": "Aquatic Cube City",
-        "rotten_sea": "Rotten Sea",
-        "tomb_of_velleities": "Tomb of Velleities",
-        "gentle_sea": "Gentle Sea",
-        "watching_waters": "Watching Waters",
-        "angler_depths_docks": "Streetlight Docks (Angler's Depths)",
-        "sunken_paradise": "Sunken Paradise",
-        "sunken_spore_sea": "Sunken Spore Sea"
+        "atlantis": "海底",
+        "star_ocean": "深海",
+        "ocean_floor": "湖底",
+        "depths": "みなぞこ",
+        "neon_sea": "ネオン海",
+        "ocean_subsurface": "地下の海",
+        "aquatic_cube_city": "石切",
+        "rotten_sea": "浸腐海",
+        "tomb_of_velleities": "Butterfly:最奥",
+        "gentle_sea": "優しい海",
+        "watching_waters": "悲蒼海",
+        "angler_depths_docks": "釣り堀:海底",
+        "sunken_paradise": "星命の澱み",
+        "sunken_spore_sea": "光るキノコの世界"
       }
     },
     "industrial_challenge": {
-      "name": "Industrial Realms All Around",
-      "condition": "Visit the following industrial worlds: Industrial Maze, Industrial Towers, Rusted Factory, Rusted City, Pollution District, Steam Engine, Suspended Steamworks, Rusty Urban Complex, and Aureate Clockworks",
+      "name": "工業世界を制覇！",
+      "condition": "以下の工業系世界を訪れる：蒸気工場、葬塔場、錆び果てた塔、錆びた街、赤錆の煙突街、蒸気機関、赤錆工場、錆鉄、金紫時計塔",
       "checkbox": {
-        "industrial_maze": "Industrial Maze",
-        "industrial_towers": "Industrial Towers",
-        "rusted_factory": "Rusted Factory",
-        "rusted_city": "Rusted City",
-        "pollution_district": "Pollution District",
-        "steam_engine": "Steam Engine",
-        "suspended_steamworks": "Suspended Steamworks",
-        "rusty_urban_complex": "Rusty Urban Complex",
-        "aureate_clockworks": "Aureate Clockworks"
+        "industrial_maze": "蒸気工場",
+        "industrial_towers": "葬塔場",
+        "rusted_factory": "錆び果てた塔",
+        "rusted_city": "錆びた街",
+        "pollution_district": "赤錆の煙突街",
+        "steam_engine": "蒸気機関",
+        "suspended_steamworks": "赤錆工場",
+        "rusty_urban_complex": "錆鉄",
+        "aureate_clockworks": "金紫時計塔"
       }
     },
     "candlelit_factory_room": {
-      "name": "Calm Room",
-      "description": "How is that snowman not melting?",
-      "condition": "Visit the candlelit room in Candlelit Factory"
+      "name": "静けさの部屋",
+      "description": "あの雪だるま、なんで溶けてないの？",
+      "condition": "誘拐路地:ろうそく部屋に到達する"
     },
     "fountain_butterfly_garden": {
-      "name": "Cultivated Wishes",
-      "description": "Didn't expect that wish to come true so quickly...",
-      "condition": "Throw a coin in the fountain in Butterfly Garden"
+      "name": "願いの花園",
+      "description": "その願いがすぐ叶うなんて思わなかった……",
+      "condition": "バタフライガーデンの噴水にコインを投げ入れる"
     },
     "drum_effect": {
-      "name": "Drum 'n' Fun!",
-      "description": "Urotsuki sized drum? Or drum sized Urotsuki?",
-      "condition": "Obtain the Drum effect. If you have already unlocked it, return to Onyx Tile World."
+      "name": "ドラムでドン！",
+      "description": "うろつきサイズのドラムかん？それともドラムかんサイズのうろつき？",
+      "condition": "ドラムかんのエフェクトを入手する。すでに入手している場合、大理石世界に到達する"
     }
   },
   "unconscious": {
