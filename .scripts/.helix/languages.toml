@@ -1,0 +1,7 @@
+[language-server.deno]
+command = "deno"
+args = ["lsp"]
+
+[[language]]
+name = "typescript"
+language-servers = ["deno"]
