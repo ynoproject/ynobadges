@@ -532,6 +532,11 @@
       "name": "Glouton démoniaque",
       "description": "Serveur, un peu plus d'enfants s'il vous plaît !",
       "condition": "Se faire avaler par le Grand Rouge aux Sewers"
+    },
+    "barracks_settlement": {
+      "name": "Terre et pylônes",
+      "description": "De la terre et des pylônes, des trous et des barraques...",
+      "condition": "Visiter les Barracks Settlement"
     }
   },
   "2kki": {
@@ -6685,6 +6690,26 @@
       "name": "Des barres d'amusement !",
       "description": "Est-ce qu'Urotsuki est à la taille du baril ? Ou est-ce que le baril est à la taille d'Urotsuki ?",
       "condition": "Obtenir l'effet Baril. Si vous l'avez déjà obtenu, retournez dans l'Onyx Tile World."
+    },
+    "eldritch_sands_of_self": {
+      "name": "Archange de l'oneirophobie",
+      "description": "Deviens le maître divin de tes fantômes et de tes cauchemars.",
+      "condition": "Voir l'Urotsuki fantomatique aux Sands of Self"
+    },
+    "s_chan_s_hell_maze": {
+      "name": "Exécution inversée",
+      "description": "C'est pas si amusant que ça, tu trouves pas ?",
+      "condition": "Tronçonner Spear-chan au Spear Hell Maze"
+    },
+    "tree_spore_forest": {
+      "name": "Tu as provoqué un arbre...",
+      "description": "Tu n'as que ce que tu mérites...",
+      "condition": "Tronçonner l'arbre avec un visage et subir les conséquences de vos actions à la Spore Forest"
+    },
+    "graffiti_garage": {
+      "name": "Taggage",
+      "description": "Créativité et relaxation",
+      "condition": "Visiter le Graffiti Garage"
     }
   },
   "unconscious": {
@@ -7656,6 +7681,26 @@
       "name": "Répit après le travail",
       "description": "Une pause bien méritée après avoir tant travaillé dans ces bureaux.",
       "condition": "Atteindre la zone de paysage à Karoushi"
+    },
+    "severance_bleeding_ladders": {
+      "name": "Jusqu'à ce que la mort nous sépare",
+      "description": "Et lorsque cela arrivera, nous nous retrouverons dans l'au-delà.",
+      "condition": "Déclencher l'événement de Séparation aux Bleeding Ladders"
+    },
+    "amanita_eidolon": {
+      "name": "Dame Amanite",
+      "description": "Suivant les champignons éparpillés sur les sentiers~",
+      "condition": "Obtenir l'eidolon Amanite. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé aux Sylvan Trails."
+    },
+    "fairy_m_m_monster_manuscripts": {
+      "name": "Magicien fou",
+      "description": "Tu es désormais un vieux chat, mon cher petit bouffon !",
+      "condition": "Interagir avec Marraine la Mauvaise Fée après avoir rencontré Cheshi aux Monster Manuscripts"
+    },
+    "autumnal_equinox": {
+      "name": "Des feuilles partout !",
+      "description": "Miam miam !",
+      "condition": "Visiter l'Autumnal Equinox"
     }
   },
   "flow": {
@@ -7727,7 +7772,7 @@
       "condition": "Interagir avec la télé dans la salle de Sabitsuki jusqu'à ce qu'un sourire apparaîsse à l'écran"
     },
     "orange": {
-      "name": "Meilleurs amis pour la vie",
+      "name": "Meilleurs amies pour la vie",
       "description": "Peut-être y a-t-il quelque chose de bon dans ce monde",
       "condition": "Obtenir le thème de menu Orange. Si vous l'avez déjà obtenu, retournez au Star World."
     },
@@ -7929,6 +7974,11 @@
       "name": ".fashion",
       "description": "Je suis peut-être un peu bizarre, mais au moins je suis jolie.",
       "condition": "Mettre les deux robes au Submarine Village"
+    },
+    "oreko_broken": {
+      "name": "Pires amies pour la vie",
+      "description": "N'y a-t-il aucun bien dans ce monde ?",
+      "condition": "Tuer Oreko en faisant baisser son amitié à -30"
     }
   },
   "prayers": {
@@ -8405,6 +8455,11 @@
       "name": "Le 256ème niveau",
       "description": "Euh... j'avais pas souvenir qu'un tel niveau existait...",
       "condition": "Compléter le faux niveau de ZApNeF au Glitch World"
+    },
+    "sun_space_world": {
+      "name": "Brûlure des rétines",
+      "description": "Eh bien... tu t'attendais à quoi, en même temps...",
+      "condition": "Essayer d'interagir avec le Soleil au Space World"
     }
   },
   "unevendream": {
@@ -8691,6 +8746,21 @@
       "name": "Rôdeur des abysses",
       "description": "N'aie pas peur des ténèbres des profondeurs abyssales, aie peur de ce qui se cache en leurs seins.",
       "condition": "Révéler le poisson-lanterne à The Abyss"
+    },
+    "anti_seer_puppet_theater": {
+      "name": "Maître des marionnettes",
+      "description": "Aveuglé par moi, tu ne vois plus rien",
+      "condition": "Déclencher l'événement Anti-Voyant au Puppet Theater"
+    },
+    "jelly_cube_lake": {
+      "name": "Cubes en gelée",
+      "description": "Je me demande combien de temps ça me prendra pour manger toute cette gelée.",
+      "condition": "Visiter le Jelly Cube Lake"
+    },
+    "peeper_winter_village": {
+      "name": "Palais des pious-pious",
+      "description": "Aussi beau ce... palais soit-il, aucune critique ne sera tolérée envers les pious-pious.",
+      "condition": "Trouver la salle des pious-pious au Winter Village"
     }
   },
   "braingirl": {
@@ -9801,6 +9871,11 @@
       "name": "La comète de Noelia",
       "description": "Celle-là n'était pas assez grande pour exterminer les dinosaures...",
       "condition": "Déclencher l'événement du Crash de la Météorite et aller à The Nexus"
+    },
+    "the_fool_card": {
+      "name": "Le Fou",
+      "description": "Le choix idiotique d'une idiote qui aime sentir l'idiotie idiote d'une pauvre idiote.",
+      "condition": "Obtenir la carte Le Fou. Si vous l'avez déjà obtenue, retournez là où elle peut être trouvée au Hedge Maze."
     }
   },
   "oversomnia": {
@@ -10465,6 +10540,11 @@
       "name": "Œufs brouyants",
       "description": "Je me demande si un zoo d'œufs existe.",
       "condition": "Interagir avec les deux œufs bruyants au Breakfast World"
+    },
+    "tree_sleeping_flowers": {
+      "name": "Bonne nuit.",
+      "description": "Tu seras ici bientôt.",
+      "condition": "Voir l'arbre des rêves aux Sleeping Flowers"
     }
   },
   "if": {
