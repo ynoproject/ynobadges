@@ -4482,8 +4482,8 @@
       }
     },
     "rgb_passage": {
-      "name": "RGB地砖通路",
-      "description": "owari2 by sakai",
+      "name": "RGB Hardcore",
+      "description": "So colorful, but something's off.",
       "condition": "进入RGB Passage"
     },
     "debug_badge": {
@@ -4883,8 +4883,8 @@
       "condition": "在Sunset Road，装备小红帽效果之后与任意一个苹果生物互动"
     },
     "turquoise_city_lady": {
-      "name": "Cheri Cheri Lady",
-      "description": "在有着绿松石色屋顶的世界中居住的淑女",
+      "name": "Lady in Turquoise",
+      "description": "Just you and me.",
       "condition": "在Turquoise Cityscape找到绿松石色衣服的女士，并在她身边使用晴天娃娃和黑电话效果",
       "checkbox": {
         "turquoise_city_lady_teru": "晴天娃娃",
@@ -6315,8 +6315,8 @@
       "condition": "抵达Gachapon Plains"
     },
     "insect_clover_ponds": {
-      "name": "水虫",
-      "description": "我想知道这些有趣的昆虫到底是什么？",
+      "name": "The Pond Dancing Bugs",
+      "description": "Congratulations. You just annoyed the water bugs.",
       "condition": "在Clover Ponds使用虫效果看到粉色甲虫"
     },
     "pastel_mall_thrift": {
@@ -6724,6 +6724,51 @@
       "name": "Tagging",
       "description": "Creativity and relaxation",
       "condition": "Visit Graffiti Garage"
+    },
+    "dove_sweet_medical_utopia": {
+      "name": "Peaceful Dove",
+      "description": "Finding peace in a world of chaos is not easy",
+      "condition": "Interact with the dove while using the Child effect in Sweet Medical Utopia"
+    },
+    "fire_world_music": {
+      "name": "Fire Track",
+      "description": "They say the music was what caught the world on fire.",
+      "condition": "Change the music in Fire World"
+    },
+    "green_clawtree_forest": {
+      "name": "Sitting Pretty",
+      "description": "Unbothered. In his lane. Flourishing.",
+      "condition": "Find the sitting green creature in Clawtree Forest"
+    },
+    "laugh_visine_world": {
+      "name": "The Giggler",
+      "description": "LAUGHTER IS THE BEST MEDICINE!! :)",
+      "condition": "Reach the twitching eye face room in Visine World"
+    },
+    "rock_calico_forest": {
+      "name": "The Rock Cat's Homeland",
+      "description": "What a nice view",
+      "condition": "Reach the rock cat's area in Calico Forest"
+    },
+    "hidden_glowing_stars_world": {
+      "name": "Illustrated Sun",
+      "description": "Handdrawn!",
+      "condition": "Enter the hidden room in Glowing Stars World"
+    },
+    "respite_2kki": {
+      "name": "Scenic Beauty",
+      "description": "Blue sky reflection",
+      "condition": "Visit Respite"
+    },
+    "face_dark_museum": {
+      "name": "Screamer on The Wall",
+      "description": "Who's the creepiest of them all?",
+      "condition": "Find the bloody face in Dark Museum"
+    },
+    "luminous_lake_statue": {
+      "name": "Dragon's Peak",
+      "description": "The majestic dragon overlooking the gentle twilight lake...",
+      "condition": "到达Luminous Lake的Dragon Peak并在望远镜里看到龙"
     }
   },
   "unconscious": {
@@ -7715,6 +7760,26 @@
       "name": "Leaves Everywhere!",
       "description": "crunch crunch",
       "condition": "Visit Autumnal Equinox"
+    },
+    "cat_cafe_wintery_trails": {
+      "name": "Certified Cat Petter",
+      "description": "Kitty! What are you doing here?!",
+      "condition": "Pet the cat in the Cafe Bar of Wintery Trails"
+    },
+    "spirit_parade_down": {
+      "name": "Professional Parade Speedbump",
+      "description": "What did you think was gonna happen...",
+      "condition": "Get trampled in Spirit Parade"
+    },
+    "youth_eidolon_surreal_zoo": {
+      "name": "Grown-up Perspective",
+      "description": "I remember this place differently...",
+      "condition": "Use the Youth eidolon in Surreal Zoo"
+    },
+    "mallard_platforms": {
+      "name": "Quack O'Clock",
+      "description": "Quack... Quack... Quack...",
+      "condition": "Visit Mallard Platforms"
     }
   },
   "flow": {
@@ -7993,6 +8058,11 @@
       "name": "Worst Friends Forever",
       "description": "Is there no good in the world?",
       "condition": "Kill Oreko by lowering her friendship to -30"
+    },
+    "revolver_effect": {
+      "name": "Warning",
+      "description": "Five chimes skyward, then shadows come",
+      "condition": "Obtain the Revolver effect. If you have already unlocked it, return where it can be found in Hole."
     }
   },
   "prayers": {
@@ -8775,6 +8845,11 @@
       "name": "Peeper's Party",
       "description": "You are currently being consumed by a pile of fluffy birds, don't try to resist or you may become one of them.",
       "condition": "Find the peeper's room in Winter Village"
+    },
+    "snail_effect": {
+      "name": "Boing!",
+      "description": "I'm the bounciest snail of all the dream world!",
+      "condition": "Obtain the Snail effect. If you have already unlocked it, return where it can be found in Snail Palace."
     }
   },
   "braingirl": {
@@ -9959,8 +10034,8 @@
       "condition": "找到Cold Storage的巨型兔子。"
     },
     "green_river": {
-      "name": "梦境衔尾蛇",
-      "description": "起点亦是终点？",
+      "name": "Green Water",
+      "description": "Good night, Irving.",
       "condition": "抵达Green River的尽头。"
     },
     "boiling_water_orchard": {
@@ -10682,6 +10757,11 @@
       "name": "越过地平线",
       "description": "Shimitsuki船长在此！",
       "condition": "获得效果锚。若已获得，请返回Streetlamp World中获得该效果处。"
+    },
+    "parasol_effect_if": {
+      "name": "Oracle Dawn",
+      "description": "This sunlight is too bright for me...",
+      "condition": "Obtain the Parasol effect. If you have already unlocked it, return where it can be found in Colored Block World."
     }
   },
   "oneshot": {

@@ -4483,8 +4483,8 @@
       "condition": "目玉薬で3つのパターンの目薬売りを見つけて話しかける"
     },
     "rgb_passage": {
-      "name": "RGBのタイル通路",
-      "description": "owari2 by sakai",
+      "name": "RGB Hardcore",
+      "description": "So colorful, but something's off.",
       "condition": "嘔吐庭側からネオン通路に到達する"
     },
     "debug_badge": {
@@ -4884,8 +4884,8 @@
       "condition": "リンゴ野原にいるリンゴの人にあかずきんを装備して話しかける"
     },
     "turquoise_city_lady": {
-      "name": "Cheri Cheri Lady",
-      "description": "ターコイズブルーの屋上の貴婦人",
+      "name": "Lady in Turquoise",
+      "description": "Just you and me.",
       "condition": "ターコイズの街並みにいる帽子をかぶった貴婦人の近くで、てるてるぼうずとくろでんわを使用する",
       "checkbox": {
         "turquoise_city_lady_teru": "てるてるぼうず",
@@ -6316,8 +6316,8 @@
       "condition": "カプセルに到達する"
     },
     "insect_clover_ponds": {
-      "name": "水生昆虫",
-      "description": "この興味深い虫たちはなんだろう…？",
+      "name": "The Pond Dancing Bugs",
+      "description": "Congratulations. You just annoyed the water bugs.",
       "condition": "四葉池でむしのエフェクトを使用し、ピンク色の虫を出現させる"
     },
     "pastel_mall_thrift": {
@@ -6725,6 +6725,51 @@
       "name": "壁の落書き",
       "description": "創造と癒やしのひとときを",
       "condition": "裏路字に到達する"
+    },
+    "dove_sweet_medical_utopia": {
+      "name": "Peaceful Dove",
+      "description": "Finding peace in a world of chaos is not easy",
+      "condition": "Interact with the dove while using the Child effect in Sweet Medical Utopia"
+    },
+    "fire_world_music": {
+      "name": "Fire Track",
+      "description": "They say the music was what caught the world on fire.",
+      "condition": "Change the music in Fire World"
+    },
+    "green_clawtree_forest": {
+      "name": "Sitting Pretty",
+      "description": "Unbothered. In his lane. Flourishing.",
+      "condition": "Find the sitting green creature in Clawtree Forest"
+    },
+    "laugh_visine_world": {
+      "name": "The Giggler",
+      "description": "LAUGHTER IS THE BEST MEDICINE!! :)",
+      "condition": "Reach the twitching eye face room in Visine World"
+    },
+    "rock_calico_forest": {
+      "name": "The Rock Cat's Homeland",
+      "description": "What a nice view",
+      "condition": "Reach the rock cat's area in Calico Forest"
+    },
+    "hidden_glowing_stars_world": {
+      "name": "Illustrated Sun",
+      "description": "Handdrawn!",
+      "condition": "Enter the hidden room in Glowing Stars World"
+    },
+    "respite_2kki": {
+      "name": "Scenic Beauty",
+      "description": "Blue sky reflection",
+      "condition": "Visit Respite"
+    },
+    "face_dark_museum": {
+      "name": "Screamer on The Wall",
+      "description": "Who's the creepiest of them all?",
+      "condition": "Find the bloody face in Dark Museum"
+    },
+    "luminous_lake_statue": {
+      "name": "Dragon's Peak",
+      "description": "The majestic dragon overlooking the gentle twilight lake...",
+      "condition": "夢徨龍リオドリムスを訪れ、望遠鏡で龍を見る"
     }
   },
   "unconscious": {
@@ -7716,6 +7761,26 @@
       "name": "葉っぱだらけ！!",
       "description": "カサカサ",
       "condition": "秋霖の森に到達する"
+    },
+    "cat_cafe_wintery_trails": {
+      "name": "Certified Cat Petter",
+      "description": "Kitty! What are you doing here?!",
+      "condition": "Pet the cat in the Cafe Bar of Wintery Trails"
+    },
+    "spirit_parade_down": {
+      "name": "Professional Parade Speedbump",
+      "description": "What did you think was gonna happen...",
+      "condition": "Get trampled in Spirit Parade"
+    },
+    "youth_eidolon_surreal_zoo": {
+      "name": "Grown-up Perspective",
+      "description": "I remember this place differently...",
+      "condition": "Use the Youth eidolon in Surreal Zoo"
+    },
+    "mallard_platforms": {
+      "name": "Quack O'Clock",
+      "description": "Quack... Quack... Quack...",
+      "condition": "Visit Mallard Platforms"
     }
   },
   "flow": {
@@ -7994,6 +8059,11 @@
       "name": "永遠の最悪の友達",
       "description": "この世界に良いことなんてあるのか？",
       "condition": "友好度を-30まで下げてオレ子を殺害する"
+    },
+    "revolver_effect": {
+      "name": "Warning",
+      "description": "Five chimes skyward, then shadows come",
+      "condition": "Obtain the Revolver effect. If you have already unlocked it, return where it can be found in Hole."
     }
   },
   "prayers": {
@@ -8776,6 +8846,11 @@
       "name": "ピーパーパーティー",
       "description": "あなたは今、ふわふわの鳥たちに包囲されています。抵抗しないでください。さもないと、あなたもその一羽になってしまうかもしれません。",
       "condition": "Winter Villageでpeeperの部屋を見つける"
+    },
+    "snail_effect": {
+      "name": "Boing!",
+      "description": "I'm the bounciest snail of all the dream world!",
+      "condition": "Obtain the Snail effect. If you have already unlocked it, return where it can be found in Snail Palace."
     }
   },
   "braingirl": {
@@ -9960,8 +10035,8 @@
       "condition": "Cold Storageで巨大ウサギを見つける"
     },
     "green_river": {
-      "name": "夢幻のウロボロス",
-      "description": "流転の終わり？それとも始まり？",
+      "name": "Green Water",
+      "description": "Good night, Irving.",
       "condition": "Green Riverに飛び込み、エンディングを見る"
     },
     "boiling_water_orchard": {
@@ -10683,6 +10758,11 @@
       "name": "地平線の彼方",
       "description": "キャプテン・しみつきがやってきた！",
       "condition": "いかりのエフェクトを入手する、すでに入手している場合はStreetlamp Worldの見つけた場所に行く。"
+    },
+    "parasol_effect_if": {
+      "name": "Oracle Dawn",
+      "description": "This sunlight is too bright for me...",
+      "condition": "Obtain the Parasol effect. If you have already unlocked it, return where it can be found in Colored Block World."
     }
   },
   "oneshot": {
