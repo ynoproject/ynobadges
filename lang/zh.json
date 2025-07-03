@@ -3136,7 +3136,8 @@
       "condition": "在Overgrown City找到尽头的遗迹。。"
     },
     "shinto_curse_chaser": {
-      "name": "复仇诅咒",
+      "name": "Deep Hatred",
+      "description": "I'll go to hell, but only if I can drag you along with me.",
       "condition": "在Shinto Shrine被挂画附近的追逐者抓住。"
     },
     "teru_teru_bozu_pond": {
@@ -6137,7 +6138,7 @@
     },
     "green_dress_garden_festival": {
       "name": "庭园美人",
-      "description": "洋裙精致，庭园绮丽……玫瑰遍地……甚合我意！",
+      "description": "What a lovely day, exploring the garden",
       "condition": "在Garden Festival装备绿裙子面具"
     },
     "wolf_vitamin_world": {
@@ -6769,6 +6770,45 @@
       "name": "Dragon's Peak",
       "description": "The majestic dragon overlooking the gentle twilight lake...",
       "condition": "到达Luminous Lake的Dragon Peak并在望远镜里看到龙"
+    },
+    "2kki_menu_59": {
+      "name": "Moonlit Enchantress",
+      "description": "She stands illuminated by the moonlight that pours gently through the window",
+      "condition": "Obtain the menu type 59. If you have already unlocked it, return where it can be found in Shadow Lady Estate."
+    },
+    "lantern_rural_stfl_field": {
+      "name": "Caged Dawn",
+      "description": "Golden glow, tender touch, velvet cage",
+      "condition": "Visit the interior of the large lantern in Rural Starflower Field"
+    },
+    "deity_olympus_ruins": {
+      "name": "Guardian of Olympus",
+      "description": "Sacred Protector overlooking the once powerful, long fallen megalopolis...",
+      "condition": "See the deity in Olympus Ruins"
+    },
+    "chainsaw_tv_tvland": {
+      "name": "TURN IT OFF!",
+      "description": "Television and violence don't mix well...",
+      "condition": "Attempt to chainsaw the TV creature in TVLand"
+    },
+    "maze_the_desktop": {
+      "name": "Inside My Computer",
+      "description": "Walking out and about in my desktop...",
+      "condition": "Visit the maze area of The Desktop"
+    },
+    "creature_shallow_pathways": {
+      "name": "Straw-san",
+      "condition": "See the drinking creature in Shallow Pathways"
+    },
+    "spaceship_pollution_district": {
+      "name": "Spaceship Viewing Area",
+      "description": "Woah! What a beautiful scenery!",
+      "condition": "Reach the Spaceship Viewing area in Pollution District"
+    },
+    "dendra_crimson_park": {
+      "name": "Sprouted Beauty",
+      "description": "Is that a tree in her head...?",
+      "condition": "Interact with Dendra in Crimson Park"
     }
   },
   "unconscious": {
@@ -7780,6 +7820,21 @@
       "name": "Quack O'Clock",
       "description": "Quack... Quack... Quack...",
       "condition": "Visit Mallard Platforms"
+    },
+    "vm_lonely_citadel": {
+      "name": "Wait! Don't Go Near- CRUNCH!",
+      "description": "... well so much for getting a drink there.",
+      "condition": "See the falling vending machine in Lonely Citadel"
+    },
+    "time_isles": {
+      "name": "Seeds of Time",
+      "description": "Sands in the glass, hands on the clock\nTime moves ever onward - tick tock tick tock",
+      "condition": "Visit Time Isles"
+    },
+    "inverted_park": {
+      "name": "Faint Light",
+      "description": "A walk through silence",
+      "condition": "Visit Inverted Park"
     }
   },
   "flow": {
@@ -8063,6 +8118,16 @@
       "name": "Warning",
       "description": "Five chimes skyward, then shadows come",
       "condition": "Obtain the Revolver effect. If you have already unlocked it, return where it can be found in Hole."
+    },
+    "tv_effect_flow": {
+      "name": "Channel Surfing",
+      "description": "Can this thing run Silent Hill?",
+      "condition": "Obtain the Television effect. If you have already unlocked it, return where it can be found in Machine Nation."
+    },
+    "drawings_submarine_corridors": {
+      "name": "Crazed Scribblings",
+      "description": "The markings, what do they mean?",
+      "condition": "See all the drawings in Submarine Corridors"
     }
   },
   "prayers": {
@@ -8377,6 +8442,11 @@
       "name": "Bookmark your Journey",
       "description": "Once you've placed a bookmark in your journey, let's set out again.",
       "condition": "Obtain all of the systems and return to your room"
+    },
+    "dream_district": {
+      "name": "The Street of Lanterns",
+      "description": "A place to rest before you continue your adventure to a deeper dream.",
+      "condition": "Visit Dream District"
     }
   },
   "someday": {
@@ -8850,6 +8920,11 @@
       "name": "Boing!",
       "description": "I'm the bounciest snail of all the dream world!",
       "condition": "Obtain the Snail effect. If you have already unlocked it, return where it can be found in Snail Palace."
+    },
+    "star_cactus_desert": {
+      "name": "Prickly Stellar Lifeforms",
+      "description": "I better not mess with this cactus or it'll eventually get me seeing stars!",
+      "condition": "Visit Star Cactus Desert"
     }
   },
   "braingirl": {
@@ -9889,6 +9964,11 @@
       "name": "紫罗兰天女",
       "description": "现在梦中的你有了力量。",
       "condition": "获得效果Android。若已获得，请返回Space Station中获得它的位置。"
+    },
+    "coat_and_muffler_effect": {
+      "name": "Warm & Cozy",
+      "description": "Now, if only I had some hot cocoa...",
+      "condition": "Obtain the Coat & Muffler effect. If you have already unlocked it, return to Pastel Block World."
     }
   },
   "sheawaits": {

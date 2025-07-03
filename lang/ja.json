@@ -3141,7 +3141,8 @@
       "condition": "昭和庭:河川エリアで石碑と骨のオブジェを見る"
     },
     "shinto_curse_chaser": {
-      "name": "復讐の呪い",
+      "name": "Deep Hatred",
+      "description": "I'll go to hell, but only if I can drag you along with me.",
       "condition": "和室迷路で追いかけに捕まる"
     },
     "teru_teru_bozu_pond": {
@@ -6138,7 +6139,7 @@
     },
     "green_dress_garden_festival": {
       "name": "庭園に佇む美",
-      "description": "このドレスは可愛いし、庭はとても美しいし、お花があちこちに咲いていて……まさに私好みの空間！",
+      "description": "What a lovely day, exploring the garden",
       "condition": "ガーデンフェスティバルで白い服が入ったバスケットを調べておめかしする"
     },
     "wolf_vitamin_world": {
@@ -6770,6 +6771,45 @@
       "name": "龍の頂",
       "description": "優雅な龍が夕暮れの湖を見守る……",
       "condition": "夢徨龍リオドリムスを訪れ、望遠鏡で龍を見る"
+    },
+    "2kki_menu_59": {
+      "name": "Moonlit Enchantress",
+      "description": "She stands illuminated by the moonlight that pours gently through the window",
+      "condition": "Obtain the menu type 59. If you have already unlocked it, return where it can be found in Shadow Lady Estate."
+    },
+    "lantern_rural_stfl_field": {
+      "name": "Caged Dawn",
+      "description": "Golden glow, tender touch, velvet cage",
+      "condition": "Visit the interior of the large lantern in Rural Starflower Field"
+    },
+    "deity_olympus_ruins": {
+      "name": "Guardian of Olympus",
+      "description": "Sacred Protector overlooking the once powerful, long fallen megalopolis...",
+      "condition": "See the deity in Olympus Ruins"
+    },
+    "chainsaw_tv_tvland": {
+      "name": "TURN IT OFF!",
+      "description": "Television and violence don't mix well...",
+      "condition": "Attempt to chainsaw the TV creature in TVLand"
+    },
+    "maze_the_desktop": {
+      "name": "Inside My Computer",
+      "description": "Walking out and about in my desktop...",
+      "condition": "Visit the maze area of The Desktop"
+    },
+    "creature_shallow_pathways": {
+      "name": "Straw-san",
+      "condition": "See the drinking creature in Shallow Pathways"
+    },
+    "spaceship_pollution_district": {
+      "name": "Spaceship Viewing Area",
+      "description": "Woah! What a beautiful scenery!",
+      "condition": "Reach the Spaceship Viewing area in Pollution District"
+    },
+    "dendra_crimson_park": {
+      "name": "Sprouted Beauty",
+      "description": "Is that a tree in her head...?",
+      "condition": "Interact with Dendra in Crimson Park"
     }
   },
   "unconscious": {
@@ -7781,6 +7821,21 @@
       "name": "アヒル時",
       "description": "グワッ……グワッ……グワッ……",
       "condition": "マガモ池に到達する"
+    },
+    "vm_lonely_citadel": {
+      "name": "Wait! Don't Go Near- CRUNCH!",
+      "description": "... well so much for getting a drink there.",
+      "condition": "See the falling vending machine in Lonely Citadel"
+    },
+    "time_isles": {
+      "name": "Seeds of Time",
+      "description": "Sands in the glass, hands on the clock\nTime moves ever onward - tick tock tick tock",
+      "condition": "Visit Time Isles"
+    },
+    "inverted_park": {
+      "name": "Faint Light",
+      "description": "A walk through silence",
+      "condition": "Visit Inverted Park"
     }
   },
   "flow": {
@@ -8064,6 +8119,16 @@
       "name": "警告",
       "description": "５回の合図が鳴り響く時、あなたに闇が訪れる",
       "condition": "けんじゅうのエフェクトを入手する、すでに入手している場合はゴミの見つけた場所に行く。"
+    },
+    "tv_effect_flow": {
+      "name": "Channel Surfing",
+      "description": "Can this thing run Silent Hill?",
+      "condition": "Obtain the Television effect. If you have already unlocked it, return where it can be found in Machine Nation."
+    },
+    "drawings_submarine_corridors": {
+      "name": "Crazed Scribblings",
+      "description": "The markings, what do they mean?",
+      "condition": "See all the drawings in Submarine Corridors"
     }
   },
   "prayers": {
@@ -8378,6 +8443,11 @@
       "name": "あなたの旅路に栞を",
       "description": "旅路に栞を挟んだら、もう一度出発しよう。",
       "condition": "全てのシステムを入手して自室に戻る"
+    },
+    "dream_district": {
+      "name": "The Street of Lanterns",
+      "description": "A place to rest before you continue your adventure to a deeper dream.",
+      "condition": "Visit Dream District"
     }
   },
   "someday": {
@@ -8851,6 +8921,11 @@
       "name": "ボヨン！",
       "description": "夢世界一の跳ねるカタツムリ！",
       "condition": "Snailのエフェクトを入手する、すでに入手している場合はSnail Palaceの見つけた場所に行く。"
+    },
+    "star_cactus_desert": {
+      "name": "Prickly Stellar Lifeforms",
+      "description": "I better not mess with this cactus or it'll eventually get me seeing stars!",
+      "condition": "Visit Star Cactus Desert"
     }
   },
   "braingirl": {
@@ -9890,6 +9965,11 @@
       "name": "バイオレット・アンドロメダ",
       "description": "夢見る力",
       "condition": "アンドロイドのエフェクトを入手する、すでに入手している場合は宇宙船　内部の見つけた場所に行く。"
+    },
+    "coat_and_muffler_effect": {
+      "name": "Warm & Cozy",
+      "description": "Now, if only I had some hot cocoa...",
+      "condition": "Obtain the Coat & Muffler effect. If you have already unlocked it, return to Pastel Block World."
     }
   },
   "sheawaits": {

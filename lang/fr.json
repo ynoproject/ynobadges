@@ -3130,7 +3130,8 @@
       "condition": "Voir La Chose Qui a Détruite le Monde dans l'Overgrown City"
     },
     "shinto_curse_chaser": {
-      "name": "Malédiction vengeresse",
+      "name": "Profonde haine",
+      "description": "J'irai dans l'au-delà, mais seulement si je t'y emmène avec moi.",
       "condition": "Se faire attraper par le chasseur dans le Shinto Shrine"
     },
     "teru_teru_bozu_pond": {
@@ -6123,7 +6124,7 @@
     },
     "green_dress_garden_festival": {
       "name": "Beauté du jardin",
-      "description": "Cette robe est jolie, ce jardin est magnifique... il y a des roses et des fleurs partout... c'est le jardin de mes rêves !",
+      "description": "Quelle belle journée, et quel beau jardin !",
       "condition": "Équiper le masque de la robe verte au Garden Festival"
     },
     "wolf_vitamin_world": {
@@ -6755,6 +6756,45 @@
       "name": "Pic du Dragon",
       "description": "Le dragon majestueux surplombant le doux lac au crépuscule...",
       "condition": "Visiter le Pic du Dragon au Luminous Lake et voir le dragon à travers le télescope"
+    },
+    "2kki_menu_59": {
+      "name": "Séductrice au clair de lune",
+      "description": "Illuminée par le clair de lune, d'une douce lueur sortant doucement de la fenêtre",
+      "condition": "Obtenir le style de menu 59. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Shadow Lady Estate."
+    },
+    "lantern_rural_stfl_field": {
+      "name": "Lueur en cage",
+      "description": "Lueur dorée, doux toucher, cage de velours",
+      "condition": "Visiter l'intérieur de la grande lanterne au Rural Starflower Field"
+    },
+    "deity_olympus_ruins": {
+      "name": "Gardienne d'Olympe",
+      "description": "Protectrice sacrée surplombant la mégalopole depuis longtemps tombée, autrefois resplendissante...",
+      "condition": "Voir la déesse aux Olympus Ruins"
+    },
+    "chainsaw_tv_tvland": {
+      "name": "ÉTEINS-LE !",
+      "description": "La télévision et la violence ne se marient pas...",
+      "condition": "Essayer de tronçonner la créature télévision au TVLand"
+    },
+    "maze_the_desktop": {
+      "name": "Dans mon ordinateur",
+      "description": "Entrée et sortie du monde digital...",
+      "condition": "Visiter la zone labyrinthique à The Desktop"
+    },
+    "creature_shallow_pathways": {
+      "name": "M. Paille",
+      "condition": "Voir la créature buvant aux Shallow Pathways"
+    },
+    "spaceship_pollution_district": {
+      "name": "Paysage du Vaisseau Spatial",
+      "description": "Wouah ! Quelle magnifique vue !",
+      "condition": "Atteindre la zone de Paysage du Vaisseau Spatial au Pollution District"
+    },
+    "dendra_crimson_park": {
+      "name": "Jeune pousse",
+      "description": "Est-ce un arbre dans ses cheveux... ?",
+      "condition": "Interagir avec Dendra au Crimson Park"
     }
   },
   "unconscious": {
@@ -7766,6 +7806,21 @@
       "name": "Midi et couac",
       "description": "Couac... couac... couac...",
       "condition": "Visiter les Mallard Platforms"
+    },
+    "vm_lonely_citadel": {
+      "name": "Attends ! Ne t'approche pa- BOUM !",
+      "description": "... malheureusement le sang n'est pas très consommable ici...",
+      "condition": "Voir le distributeur automatique tomber à la Lonely Citadel"
+    },
+    "time_isles": {
+      "name": "Graines du temps",
+      "description": "Sable dans le verre, aiguilles sur l'horloge\nLe temps ne fait qu'avancer - tic toc tic toc",
+      "condition": "Visiter les Time Isles"
+    },
+    "inverted_park": {
+      "name": "Faible lumière",
+      "description": "Une marche à travers le silence",
+      "condition": "Visiter l'Inverted Park"
     }
   },
   "flow": {
@@ -8049,6 +8104,16 @@
       "name": "Attention",
       "description": "Cinq coups dans le ciel, et les ombres viendront",
       "condition": "Obtenir l'effet Revolver. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à Hole."
+    },
+    "tv_effect_flow": {
+      "name": "Changement de chaîne",
+      "description": "C'est quoi le numéro de la chaîne neige ?",
+      "condition": "Obtenir l'effet Télévision. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à Machine Nation."
+    },
+    "drawings_submarine_corridors": {
+      "name": "Dessins loufoques",
+      "description": "Ces dessins, que signifient-ils ?",
+      "condition": "Voir tous les dessins aux Submarine Corridors"
     }
   },
   "prayers": {
@@ -8363,6 +8428,11 @@
       "name": "Carnet de voyage",
       "description": "Une fois que tu auras placé un marque-page pour garder en mémoire ton épopée, repartons à l'aventure.",
       "condition": "Obtenir tous les systèmes et retourner dans votre chambre"
+    },
+    "dream_district": {
+      "name": "La rue des lampions",
+      "description": "Un lieu où se reposer avant de se plonger plus profondément dans les rêves.",
+      "condition": "Visiter le Dream District"
     }
   },
   "someday": {
@@ -8836,6 +8906,11 @@
       "name": "Boing !",
       "description": "Je suis l'escargot le plus rebondissant du monde onirique !",
       "condition": "Obtenir l'effet Escargot. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Snail Palace."
+    },
+    "star_cactus_desert": {
+      "name": "Formes de vie stellaires piquantes",
+      "description": "Je ferais mieux de ne pas jouer avec ce cactus ou je risque bien de voir des étoiles !",
+      "condition": "Visiter le Star Cactus Desert"
     }
   },
   "braingirl": {
@@ -9875,6 +9950,11 @@
       "name": "Andromède violette",
       "description": "Le vrai rêve de puissance.",
       "condition": "Obtenir l'effet Gynoïde. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à la Space Station."
+    },
+    "coat_and_muffler_effect": {
+      "name": "Tenue douillette",
+      "description": "Si seulement j'avais du chocolat chaud avec cette tenue...",
+      "condition": "Obtenir l'effet Manteau et écharpe. Si vous l'avez déjà obtenu, retournez au Pastel Block World."
     }
   },
   "sheawaits": {
