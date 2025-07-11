@@ -4138,17 +4138,16 @@
       "condition": "锯掉Pleasure Street某座房屋里的蓝发女人"
     },
     "beach_challenge": {
-      "name": "海滩流浪者",
-      "description": "他们说盐水可以治愈一切",
-      "condition": "到达Mixed Beach、Dream Beach、Grand Beach、Realistic Beach、Blood Red Beach",
+      "name": "Beach Episode",
+      "description": "Wish you were here!",
+      "condition": "到达Mixed Beach、Dream Beach、Grand Beach、Realistic Beach、Rockbound Beach、Blood Red Beach",
       "checkbox": {
         "beach_mixed_a|beach_mixed_b": "Mixed Beach",
-        "beach_dream": "Dream Beach",
-        "beach_dream_b": "Dream Beach",
+        "beach_dream|beach_dream_b": "Dream Beach",
         "beach_grand": "Grand Beach",
         "beach_realistic_a|beach_realistic_b|beach_realistic_c|beach_realistic_d|beach_realistic_e|beach_realistic_f": "Realistic Beach",
-        "beach_blood_red_a": "Blood Red Beach",
-        "beach_blood_red_b": "Blood Red Beach"
+        "beach_rockbound": "Rockbound Beach",
+        "beach_blood_red_a|beach_blood_red_b": "Blood Red Beach"
       }
     },
     "wintry_attendant": {
