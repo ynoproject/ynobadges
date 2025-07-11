@@ -4130,14 +4130,15 @@
       "condition": "Tronçonner la femme aux cheveux bleus dans l'une des maisons de la Pleasure Street"
     },
     "beach_challenge": {
-      "name": "Repos au bord de la plage",
-      "description": "Ils disent que l'eau de mer peut tout soigner",
-      "condition": "Visiter les lieux suivants : Mixed Beach, Dream Beach, Grand Beach, Realistic Beach, Blood Red Beach",
+      "name": "Épisode plage",
+      "description": "Si seulement tu pouvais venir !",
+      "condition": "Visiter les lieux suivants : Mixed Beach, Dream Beach, Grand Beach, Realistic Beach, Rockbound Beach, Blood Red Beach",
       "checkbox": {
         "beach_mixed_a|beach_mixed_b": "Mixed Beach",
         "beach_dream|beach_dream_b": "Dream Beach",
         "beach_grand": "Grand Beach",
         "beach_realistic_a|beach_realistic_b|beach_realistic_c|beach_realistic_d|beach_realistic_e|beach_realistic_f": "Realistic Beach",
+        "beach_rockbound": "Rockbound Beach",
         "beach_blood_red_a|beach_blood_red_b": "Blood Red Beach"
       }
     },
@@ -6013,7 +6014,7 @@
     "girl_dream_precint": {
       "name": "Représailles",
       "description": "Protège tes bien-aimés",
-      "condition": "Tronçonner la meneuse aux cheveux turquoises au Dream Precinct"
+      "condition": "Tronçonner la Cheffe de la Police aux cheveux turquoises au Dream Precinct"
     },
     "creature_downfall_garden_a": {
       "name": "Le caresseur",
@@ -6795,6 +6796,39 @@
       "name": "Jeune pousse",
       "description": "Est-ce un arbre dans ses cheveux... ?",
       "condition": "Interagir avec Dendra au Crimson Park"
+    },
+    "moai_checkerboard_clubhouse": {
+      "name": "Moai banane",
+      "description": "Au moins ici, on risque pas de marcher dessus...",
+      "condition": "Voir le moai au Checkerboard Clubhouse"
+    },
+    "lady_photographic_field": {
+      "name": "Moulins à vent merveilleux",
+      "condition": "Trouver la dame géante au Photographic Field"
+    },
+    "cat_pillar_vivian_room": {
+      "name": "Rave du chaton",
+      "description": "Que fais donc ce gros bouton... wouah !",
+      "condition": "Interagir avec le pilier chat dans la Chambre de Vivian du Balloon Park"
+    },
+    "peach_teru_bridge_swamp_islands": {
+      "name": "Teru Teru Bōzu couleur pêche",
+      "description": "Toujours présents, qu'importe qu'il pleuve ou qu'il fasse beau",
+      "condition": "Voir les teru teru bōzu couleur pêche aux Bridge Swamp Islands"
+    },
+    "pink_udg_runo_warehouse": {
+      "name": "Mignon bonnet rose",
+      "description": "Je ne fais qu'un avec les runes désormais !",
+      "condition": "Équiper le masque Bonnet Rose dans l'Underground Runological Warehouse"
+    },
+    "acoustic_lounge": {
+      "name": "Salle d'attente crépusculaire",
+      "condition": "Visiter l'Acoustic Lounge"
+    },
+    "golden_chinatown_maple_f": {
+      "name": "Nouvel an chinois",
+      "description": "Les rues brillent de mille feux pour les fêtes.",
+      "condition": "Visiter le Quartier Chinois Doré de la Maple Forest"
     }
   },
   "unconscious": {
@@ -7821,6 +7855,26 @@
       "name": "Faible lumière",
       "description": "Une marche à travers le silence",
       "condition": "Visiter l'Inverted Park"
+    },
+    "visage_eidolon": {
+      "name": "Vanité continue",
+      "description": "Cherchant la vérité, mais portant le masque de la tromperie ?",
+      "condition": "Obtenir l'eidolon Visage. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Moonlit Path."
+    },
+    "trashcan_gasoline_alleys": {
+      "name": "Premier arrivé, premier servi...",
+      "description": "Alors, qu'est-ce qu'on a ded... ahhhh !",
+      "condition": "Trouver une créature étrange en ouvrant une poubelle aux Gasoline Alleys"
+    },
+    "top_trepid_towers": {
+      "name": "Sur le toit du monde",
+      "description": "Je suis tellement haute !",
+      "condition": "Atteindre le sommet des Trepid Towers"
+    },
+    "eggtopia_rainbow_being": {
+      "name": "Tœuf chez les œufs",
+      "description": "Même si ce lieu est tout nœuf, ça reste le dernier cri en termes de tœufs !",
+      "condition": "Trouver l'être noir-arc-en-ciel à Eggtopia"
     }
   },
   "flow": {
@@ -8433,6 +8487,16 @@
       "name": "La rue des lampions",
       "description": "Un lieu où se reposer avant de se plonger plus profondément dans les rêves.",
       "condition": "Visiter le Dream District"
+    },
+    "verdant_alter": {
+      "name": "Utopie florale",
+      "description": "L'appel de tous les esprits de la nature vous encercle et vous fait lentement devenir l'un des leurs.",
+      "condition": "Obtenir l'alter Verdoyant. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à l'Old Factory."
+    },
+    "dark_eden": {
+      "name": "Paradis flétri",
+      "description": "Le serpent m'a piégé, donc j'ai mangé le fruit.",
+      "condition": "Visiter le Dark Eden"
     }
   },
   "someday": {
@@ -9760,6 +9824,11 @@
       "name": "Télécran observateur",
       "description": "Est-ce qu'elle... me juge ?",
       "condition": "Allumer la télévision aux Dark Sewers"
+    },
+    "cursed_room_migraine_hallways": {
+      "name": "Salle Maudite",
+      "description": "Une boîte isolée « coincée »",
+      "condition": "Déclencher l'événement de la Salle Maudite aux Migraine Hallways. Si vous l'avez déjà complété, essayez de retourner dans la salle."
     }
   },
   "ultraviolet": {
@@ -10031,6 +10100,11 @@
       "name": "Le Fou",
       "description": "Le choix idiotique d'une idiote qui aime sentir l'idiotie idiote d'une pauvre idiote.",
       "condition": "Obtenir la carte Le Fou. Si vous l'avez déjà obtenue, retournez là où elle peut être trouvée au Hedge Maze."
+    },
+    "jester_path": {
+      "name": "Bouffonneries de la court",
+      "description": "Heh heh heh, c'est l'heure de semer le chaos !",
+      "condition": "Visiter le Jester's Path"
     }
   },
   "oversomnia": {
@@ -10594,6 +10668,11 @@
         "rainy_islands_nini_detective": "secrète",
         "rainy_islands_nini_vboa": "véritable"
       }
+    },
+    "zombie_effect_tsushin": {
+      "name": "Résurrection",
+      "description": "Grrr, grrrr !",
+      "condition": "Obtenir l'effet Zombie. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Zombie Apartment."
     }
   },
   "nostalgic": {

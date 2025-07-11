@@ -4125,14 +4125,15 @@
       "condition": "Chainsaw the blue-haired woman in one of the houses in Pleasure Street"
     },
     "beach_challenge": {
-      "name": "Beach Bum",
-      "description": "They say salt water cures everything",
-      "condition": "Visit Mixed Beach, Dream Beach, Grand Beach, Realistic Beach, and Blood Red Beach",
+      "name": "Beach Episode",
+      "description": "Wish you were here!",
+      "condition": "Visit Mixed Beach, Dream Beach, Grand Beach, Realistic Beach, Rockbound Beach and Blood Red Beach",
       "checkbox": {
         "beach_mixed_a|beach_mixed_b": "Mixed Beach",
         "beach_dream|beach_dream_b": "Dream Beach",
         "beach_grand": "Grand Beach",
         "beach_realistic_a|beach_realistic_b|beach_realistic_c|beach_realistic_d|beach_realistic_e|beach_realistic_f": "Realistic Beach",
+        "beach_rockbound": "Rockbound Beach",
         "beach_blood_red_a|beach_blood_red_b": "Blood Red Beach"
       }
     },
@@ -6008,7 +6009,7 @@
     "girl_dream_precint": {
       "name": "Retaliation",
       "description": "Protect your loved ones",
-      "condition": "Chainsaw the leader with turquoise hair in Dream Precinct"
+      "condition": "Chainsaw the Police Chief with turquoise hair in Dream Precinct"
     },
     "creature_downfall_garden_a": {
       "name": "The Squisher",
@@ -6790,6 +6791,39 @@
       "name": "Sprouted Beauty",
       "description": "Is that a tree in her head...?",
       "condition": "Interact with Dendra in Crimson Park"
+    },
+    "moai_checkerboard_clubhouse": {
+      "name": "Banana Moai",
+      "description": "Make like a banana, and SPLAT!",
+      "condition": "See the moai in Checkerboard Clubhouse"
+    },
+    "lady_photographic_field": {
+      "name": "Perfect Pinwheels",
+      "condition": "Find the giant lady in Photographic Field"
+    },
+    "cat_pillar_vivian_room": {
+      "name": "Rave Kitty",
+      "description": "What does this button do... woah!",
+      "condition": "Interact with the cat pillar in Vivian's Room in Balloon Park"
+    },
+    "peach_teru_bridge_swamp_islands": {
+      "name": "Peach Teru Teru Bōzu",
+      "description": "Always here, no matter rain or shine",
+      "condition": "See the peach teru teru bōzu at Bridge Swamp Islands"
+    },
+    "pink_udg_runo_warehouse": {
+      "name": "Matching Cute Beanie",
+      "description": "Now I’m with the runes as one!",
+      "condition": "Equip the Pink Beanie mask in Underground Runological Warehouse"
+    },
+    "acoustic_lounge": {
+      "name": "Sundown Lounge",
+      "condition": "Visit Acoustic Lounge"
+    },
+    "golden_chinatown_maple_f": {
+      "name": "Chinese New Year",
+      "description": "The streets shine bright in celebration.",
+      "condition": "Visit the Golden Chinatown in Maple Forest"
     }
   },
   "unconscious": {
@@ -7816,6 +7850,26 @@
       "name": "Faint Light",
       "description": "A walk through silence",
       "condition": "Visit Inverted Park"
+    },
+    "visage_eidolon": {
+      "name": "Carry-On Vanity",
+      "description": "Doth verity but wear the mask of falsehood?",
+      "condition": "Obtain the Visage eidolon. If you have already unlocked it, return where it can be found in Moonlit Path."
+    },
+    "trashcan_gasoline_alleys": {
+      "name": "Giving You The Stinkeye",
+      "description": "Peeka-PEW!",
+      "condition": "Find an odd creature while opening a trashcan in Gasoline Alleys"
+    },
+    "top_trepid_towers": {
+      "name": "On Top of the World",
+      "description": "I'm so high up!",
+      "condition": "Reach the top of the Trepid Towers"
+    },
+    "eggtopia_rainbow_being": {
+      "name": "Eggsposed",
+      "description": "Eggstraordinary! You met someone truly eggceptional!",
+      "condition": "Find the black rainbow being in Eggtopia"
     }
   },
   "flow": {
@@ -8428,6 +8482,16 @@
       "name": "The Street of Lanterns",
       "description": "A place to rest before you continue your adventure to a deeper dream.",
       "condition": "Visit Dream District"
+    },
+    "verdant_alter": {
+      "name": "Floral Utopia",
+      "description": "The call of every spirit of the nature embraces you and slowly makes you part of it.",
+      "condition": "Obtain the Verdant alter. If you have already unlocked it, return where it can be found in Old Factory."
+    },
+    "dark_eden": {
+      "name": "Wilted Paradise",
+      "description": "The snake tricked me, so I ate the fruit.",
+      "condition": "Visit Dark Eden"
     }
   },
   "someday": {
@@ -9755,6 +9819,11 @@
       "name": "It Watches",
       "description": "Is it... judging me?",
       "condition": "Turn ON the TV in the Dark Sewers"
+    },
+    "cursed_room_migraine_hallways": {
+      "name": "Cursed Room",
+      "description": "A lone \"stranded\" box",
+      "condition": "Trigger the Cursed Room event in Migraine Hallways. If you have already completed it, try to return in the room."
     }
   },
   "ultraviolet": {
@@ -10026,6 +10095,11 @@
       "name": "The Fool",
       "description": "Foolish fool who foolishly dreams of foolish dreams...",
       "condition": "Obtain The Fool card. If you have already unlocked it, return where it can be found in Hedge Maze."
+    },
+    "jester_path": {
+      "name": "Court Mischief",
+      "description": "Uee hee hee, let's cause some chaos!",
+      "condition": "Visit Jester's Path"
     }
   },
   "oversomnia": {
@@ -10575,6 +10649,11 @@
         "rainy_islands_nini_detective": "secret",
         "rainy_islands_nini_vboa": "true"
       }
+    },
+    "zombie_effect_tsushin": {
+      "name": "Rise From the Grave",
+      "description": "Cat scratch, cat scratch!",
+      "condition": "Obtain the Zombie effect. If you have already unlocked it, return where it can be found in Zombie Apartment."
     }
   },
   "nostalgic": {
