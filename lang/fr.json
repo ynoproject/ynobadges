@@ -443,8 +443,8 @@
       "condition": "Visiter le White Desert A depuis le Block World"
     },
     "mall_underground_link": {
-      "name": "Ascenseurs farceurs",
-      "description": "Un certain toit attend votre arrivée.",
+      "name": "Vous montez ?",
+      "description": "Deuxième étage.",
       "condition": "Prendre le passage à sens unique menant de l'Underground World au Mall"
     },
     "crick_in_the_neck": {
@@ -5068,8 +5068,7 @@
       "condition": "Atteindre le Glitch Hell"
     },
     "alto_2kki": {
-      "name": "FM Poisson Volant",
-      "description": "Radio Pois-son",
+      "name": "Thons et tubes frais !",
       "condition": "Visiter Alto"
     },
     "flower_lily_path": {
@@ -6117,7 +6116,7 @@
     "trombone_old_train_station": {
       "name": "Une musique nommée silence",
       "description": "La performance de quelqu'un doit sûrement toujours être en cours.",
-      "condition": "Trouver le trombone à l'Old Train Station"
+      "condition": "Trouver la trompette à l'Old Train Station"
     },
     "ghost_rose_manor": {
       "name": "Un habitant fantomatique",
@@ -6263,8 +6262,8 @@
       "condition": "Visiter l'intérieur du Museum of Curiosities et débloquer toutes ses connexions"
     },
     "maiko_effect": {
-      "name": "Démonstration respectueuse",
-      "description": "Un petit geste va de pair !",
+      "name": "Gracieuse maiko",
+      "description": "Tu as démontré du respect.",
       "condition": "Obtenir l'effet Maiko. Si vous l'avez déjà obtenu, retournez à l'intérieur du Shinto Shrine."
     },
     "light_graveyard_of _rep": {
@@ -6829,6 +6828,36 @@
       "name": "Nouvel an chinois",
       "description": "Les rues brillent de mille feux pour les fêtes.",
       "condition": "Visiter le Quartier Chinois Doré de la Maple Forest"
+    },
+    "eye_window_tt": {
+      "name": "Fléau d'antan",
+      "description": "Un graffiti obscur a tissé la malédiction oculaire qui pourrait être une petite fraction de ce qui était autrefois, amenant au réveil d'une insurrection primaire un jour",
+      "condition": "Aller au Visine World depuis le Garden of Treachery en {TIME} ou moins en course contre-la-montre"
+    },
+    "glitch_kaprekar_number_zone": {
+      "name": "Constante de Kaprekar",
+      "description": "Ça doit être un point fixé dans un algorithme mathématique spécifique...",
+      "condition": "Atteindre la salle buguée au Kaprekar Number Zone"
+    },
+    "ancient_blue_battlefield": {
+      "name": "Légendes médiévales",
+      "description": "Et tandis que la bataille n'en finit point, nos cris de guerre n'en ressortent que plus forts.",
+      "condition": "Visiter l'Ancient Blue Battlefield"
+    },
+    "hall_of_flesh": {
+      "name": "Lune teintée pourpre",
+      "description": "Au dessous de nous, un vaste être pourpre nous observe en silence.",
+      "condition": "Visiter l'Hall of Flesh"
+    },
+    "vm_wheat_field": {
+      "name": "Observation",
+      "description": "Fin observateur, faim d'observateur...",
+      "condition": "Acheter un goûter au distributeur automatique avec un œil au Wheat Field"
+    },
+    "bed_spiders_nest": {
+      "name": "Repas servi sur un lit d'argent",
+      "description": "Il te trouve à croquer...",
+      "condition": "Dormir dans le lit au Spiders' Nest"
     }
   },
   "unconscious": {
@@ -7875,6 +7904,26 @@
       "name": "Tœuf chez les œufs",
       "description": "Même si ce lieu est tout nœuf, ça reste le dernier cri en termes de tœufs !",
       "condition": "Trouver l'être noir-arc-en-ciel à Eggtopia"
+    },
+    "imago_eidolon": {
+      "name": "Lépidoptère scintillant",
+      "description": "Guidant la lumière des lampes et les phalènes à travers la nuit.",
+      "condition": "Obtenir l'eidolon Imago. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Moth Garden."
+    },
+    "deity_ghost_village": {
+      "name": "Observateur dans le ciel",
+      "description": "Est-ce que tu vois ce que je vois ?",
+      "condition": "Trouver la divinité au Ghost Village"
+    },
+    "bubble_rave": {
+      "name": "Bulles et cœurs dansants",
+      "description": "Nettoyons tout !",
+      "condition": "Visiter la Bubble Rave"
+    },
+    "oracle_menu_theme": {
+      "name": "Oquam",
+      "description": "Il a une montre avec une aiguille pour les minutes, une aiguille pour les millénaires, et une aiguille pour l'éternité.",
+      "condition": "Obtenir le thème de menu Oracle. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé aux Optical Offices."
     }
   },
   "flow": {
@@ -8152,7 +8201,7 @@
     "oreko_broken": {
       "name": "Pires amies pour la vie",
       "description": "N'y a-t-il aucun bien dans ce monde ?",
-      "condition": "Tuer Oreko en faisant baisser son amitié à -30"
+      "condition": "Tuer Oreko en faisant baisser son amitié à -30, puis retourner la voir chez elle"
     },
     "revolver_effect": {
       "name": "Attention",
@@ -8168,6 +8217,16 @@
       "name": "Dessins loufoques",
       "description": "Ces dessins, que signifient-ils ?",
       "condition": "Voir tous les dessins aux Submarine Corridors"
+    },
+    "gas_mask_effect_flow": {
+      "name": "Masque tactique",
+      "description": "Il garde le mauvais air au loin.",
+      "condition": "Obtenir l'effet Masque à gaz. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé aux Plant Corridors."
+    },
+    "arms_effect_flow": {
+      "name": "État mental critique",
+      "description": "Après un effondrement psychologique, il n'y a pas de retour arrière vers l'innocence.",
+      "condition": "Obtenir l'effet Bras. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Microorganism World."
     }
   },
   "prayers": {
@@ -8195,7 +8254,8 @@
       "condition": "Entrer dans la salle secrète du Green World"
     },
     "chroma_cat": {
-      "name": "Chat en clé chroma",
+      "name": "Boule de poils buguée",
+      "description": "J'arrive pas à t'entendre, tu me fais bug- M̴͖͛ǐ̶̭a̵̻͌o̴̲͂u̵͇̕ !",
       "condition": "Atteindre les tréfonds du Glitch World"
     },
     "sunflower": {
@@ -8975,6 +9035,11 @@
       "name": "Formes de vie stellaires piquantes",
       "description": "Je ferais mieux de ne pas jouer avec ce cactus ou je risque bien de voir des étoiles !",
       "condition": "Visiter le Star Cactus Desert"
+    },
+    "butterfly_effect_ud": {
+      "name": "Je suis ton petit papillon~",
+      "description": "Le plus beau de tous les papillons",
+      "condition": "Obtenir l'effet Papillon. Si vous l'avez déjà obtenu, retournez au Fast Food World."
     }
   },
   "braingirl": {
@@ -9462,6 +9527,11 @@
       "name": "Bronzage en milieu hostile",
       "description": "Même ici, il a l'air de si bien se reposer...",
       "condition": "Voir un lapin sur un transat à Blue Flow"
+    },
+    "rabbits_sugar_maze": {
+      "name": "Heure du thé chez le lapins",
+      "description": "En retard ! En retard ! J'ai rendez-vous quelque part !",
+      "condition": "Voir les deux lapins profiter d'une collation au Sugar Maze"
     }
   },
   "genie": {
@@ -10024,6 +10094,11 @@
       "name": "Tenue douillette",
       "description": "Si seulement j'avais du chocolat chaud avec cette tenue...",
       "condition": "Obtenir l'effet Manteau et écharpe. Si vous l'avez déjà obtenu, retournez au Pastel Block World."
+    },
+    "magician_effect_uv": {
+      "name": "Magicienne rêveuse",
+      "description": "Ici vivait une fille, qui rêvait de devenir magicienne un jour",
+      "condition": "Obtenir l'effet Magicienne. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à la Floating Library."
     }
   },
   "sheawaits": {
@@ -10966,7 +11041,8 @@
       "condition": "Essayer d'équiper le T-shirt babiole"
     },
     "shepherd_glen": {
-      "name": "Temp Badge Name (Do not translate)",
+      "name": "Le meilleur de tous les bergers !",
+      "description": "Le sauveur des béliers !",
       "condition": "Aider le berger à diriger ses béliers au Village de Glen"
     },
     "plant_girl_ruins_glen": {
