@@ -443,8 +443,8 @@
       "condition": "从Block World进入White Desert A"
     },
     "mall_underground_link": {
-      "name": "电梯坏了",
-      "description": "某个屋顶等待着你的到来。",
+      "name": "Going Up?",
+      "description": "First floor",
       "condition": "从Underground World单向地到达Mall"
     },
     "crick_in_the_neck": {
@@ -5080,8 +5080,7 @@
       "condition": "抵达Glitch Hell"
     },
     "alto_2kki": {
-      "name": "FM飞鱼",
-      "description": "蒸汽鱼波",
+      "name": "Flyin' Fresh Tunas!",
       "condition": "抵达Alto"
     },
     "flower_lily_path": {
@@ -6129,7 +6128,7 @@
     "trombone_old_train_station": {
       "name": "一首名为静寂的歌在",
       "description": "某人的表演一定还在继续。",
-      "condition": "在Old Train Station找到长号"
+      "condition": "Find the trumpet in the Old Train Station"
     },
     "ghost_rose_manor": {
       "name": "苍白住人",
@@ -6275,8 +6274,8 @@
       "condition": "抵达Museum of Curiosities内部并解锁其全部连接"
     },
     "maiko_effect": {
-      "name": "展示尊敬",
-      "description": "非常实用的动作！",
+      "name": "My, My, Maiko",
+      "description": "You've shown some respect.",
       "condition": "获得舞姬效果。若已解锁，请返回Shinto Shrine。"
     },
     "light_graveyard_of _rep": {
@@ -6841,6 +6840,36 @@
       "name": "Chinese New Year",
       "description": "The streets shine bright in celebration.",
       "condition": "Visit the Golden Chinatown in Maple Forest"
+    },
+    "eye_window_tt": {
+      "name": "Scourge of the Past",
+      "description": "Black graffiti has woven the ocular curse that may be a tiny fraction of what once was, one day the primal insurrection will wake up",
+      "condition": "Go to Visine World from the Garden of Treachery in {TIME} or less in Time Trial Mode"
+    },
+    "glitch_kaprekar_number_zone": {
+      "name": "Kaprekar's Constant",
+      "description": "This must have been a fixed point in a specific mathematical algorithm...",
+      "condition": "Reach the glitched room in Kaprekar Number Zone"
+    },
+    "ancient_blue_battlefield": {
+      "name": "Medieval Legends",
+      "description": "And as the battle rages on and on, our warcries echo far and strong.",
+      "condition": "Visit Ancient Blue Battlefield"
+    },
+    "hall_of_flesh": {
+      "name": "Crimson-Stained Moon",
+      "description": "Above us, a vast crimson watches in silence.",
+      "condition": "Visit Hall of Flesh"
+    },
+    "vm_wheat_field": {
+      "name": "Observation",
+      "description": "Always watching...",
+      "condition": "Buy from the vending machine with an eye in Wheat Field"
+    },
+    "bed_spiders_nest": {
+      "name": "No Fangs- I Mean, No Thanks!",
+      "description": "He just wants to tuck you in...",
+      "condition": "Sleep in the bed in Spiders' Nest"
     }
   },
   "unconscious": {
@@ -7887,6 +7916,26 @@
       "name": "Eggsposed",
       "description": "Eggstraordinary! You met someone truly eggceptional!",
       "condition": "Find the black rainbow being in Eggtopia"
+    },
+    "imago_eidolon": {
+      "name": "Glimmering Lepidoptera",
+      "description": "Guiding lights of lamps and moths throughout the night.",
+      "condition": "Obtain the Imago eidolon. If you have already unlocked it, return where it can be found in Moth Garden."
+    },
+    "deity_ghost_village": {
+      "name": "Watcher in The Sky",
+      "description": "Do you see what I see?",
+      "condition": "Find the deity in Ghost Village"
+    },
+    "bubble_rave": {
+      "name": "Dancing Bubbles and Hearts",
+      "description": "Let's wash it all away",
+      "condition": "Visit Bubble Rave"
+    },
+    "oracle_menu_theme": {
+      "name": "Oquam",
+      "description": "He's got a watch with a minuite hand, millenium hand, and an eon hand.",
+      "condition": "Obtain the Oracle menu theme. If you have already unlocked it, return where it can be found in Optical Offices."
     }
   },
   "flow": {
@@ -8164,7 +8213,7 @@
     "oreko_broken": {
       "name": "Worst Friends Forever",
       "description": "Is there no good in the world?",
-      "condition": "Kill Oreko by lowering her friendship to -30"
+      "condition": "Kill Oreko by lowering her friendship to -30, then return see her in her room"
     },
     "revolver_effect": {
       "name": "Warning",
@@ -8180,6 +8229,16 @@
       "name": "Crazed Scribblings",
       "description": "The markings, what do they mean?",
       "condition": "See all the drawings in Submarine Corridors"
+    },
+    "gas_mask_effect_flow": {
+      "name": "Tactical Mask",
+      "description": "Keeps bad air out.",
+      "condition": "Obtain the Gas Mask effect. If you have already unlocked it, return where it can be found in Plant Corridors."
+    },
+    "arms_effect_flow": {
+      "name": "At Risk Mental State",
+      "description": "After a psychological collapse, there is no regression to innocence.",
+      "condition": "Obtain the Arms effect. If you have already unlocked it, return where it can be found in Microorganism World."
     }
   },
   "prayers": {
@@ -8207,7 +8266,8 @@
       "condition": "抵达Green World的隐藏区域。"
     },
     "chroma_cat": {
-      "name": "色键猫",
+      "name": "Glitchy Fluffball",
+      "description": "I can’t hear you, you’re breaking up- M̴̍͆e̷͛̒o̵͗͝ẅ̸́̆!",
       "condition": "抵达Glitch World的深处。"
     },
     "sunflower": {
@@ -8987,6 +9047,11 @@
       "name": "Prickly Stellar Lifeforms",
       "description": "I better not mess with this cactus or it'll eventually get me seeing stars!",
       "condition": "Visit Star Cactus Desert"
+    },
+    "butterfly_effect_ud": {
+      "name": "I'm Your Little Butterfly",
+      "description": "The prettiest butterfly of them all",
+      "condition": "Obtain the Butterfly effect. If you have already unlocked it, return to Fast Food World."
     }
   },
   "braingirl": {
@@ -9474,6 +9539,11 @@
       "name": "Bunwind",
       "description": "So comfy...",
       "condition": "See a rabbit on the lounge chair in Blue Flow"
+    },
+    "rabbits_sugar_maze": {
+      "name": "Bunny Tea Time",
+      "description": "They are late! They are late! For a very important date!",
+      "condition": "See the two rabbits enjoying sugar in the Sugar Maze"
     }
   },
   "genie": {
@@ -10036,6 +10106,11 @@
       "name": "Warm & Cozy",
       "description": "Now, if only I had some hot cocoa...",
       "condition": "Obtain the Coat & Muffler effect. If you have already unlocked it, return to Pastel Block World."
+    },
+    "magician_effect_uv": {
+      "name": "Dreaming Magician",
+      "description": "There lived a girl, who dreamed to be a magician someday",
+      "condition": "Obtain the Magician effect. If you have already unlocked it, return where it can be found in Floating Library."
     }
   },
   "sheawaits": {
@@ -10978,7 +11053,8 @@
       "condition": "尝试装备新潮T恤衫"
     },
     "shepherd_glen": {
-      "name": "Temp Badge Name (Do not translate)",
+      "name": "The Best Shepherd, EVER!",
+      "description": "Savior of the rams!",
       "condition": "在Glen的村庄帮牧羊人放羊"
     },
     "plant_girl_ruins_glen": {

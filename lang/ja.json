@@ -453,8 +453,8 @@
       "condition": "ブロックの世界から白黒世界に行く"
     },
     "mall_underground_link": {
-      "name": "壊れたエレベーター",
-      "description": "とある屋上があなたを待っている",
+      "name": "Going Up?",
+      "description": "First floor",
       "condition": "エレベーター前の通路からデパートへ到達する"
     },
     "crick_in_the_neck": {
@@ -5083,8 +5083,7 @@
       "condition": "混沌の坩堝に到達する"
     },
     "alto_2kki": {
-      "name": "FMフライングフィッシュ",
-      "description": "ラジオフィッシュウェーブ",
+      "name": "Flyin' Fresh Tunas!",
       "condition": "ラジオウェーブに到達する"
     },
     "flower_lily_path": {
@@ -6132,7 +6131,7 @@
     "trombone_old_train_station": {
       "name": "静寂という名の歌",
       "description": "誰かの演奏はきっと今でも続いている",
-      "condition": "第三閉塞:線路上エリアでラッパを見つける"
+      "condition": "Find the trumpet in the Old Train Station"
     },
     "ghost_rose_manor": {
       "name": "不気味な住人",
@@ -6278,8 +6277,8 @@
       "condition": "奇妙な博物館の中を見て回り、すべての接続を解放する"
     },
     "maiko_effect": {
-      "name": "敬意を示して",
-      "description": "眇眇たる手先の所作が、華やかな美を演出する",
+      "name": "My, My, Maiko",
+      "description": "You've shown some respect.",
       "condition": "まいこのエフェクトを取得する。すでに入手している場合は、見つけた場所に行く"
     },
     "light_graveyard_of _rep": {
@@ -6813,37 +6812,67 @@
       "condition": "赤の庭園で頭から木の生えた子どもに話しかける"
     },
     "moai_checkerboard_clubhouse": {
-      "name": "Banana Moai",
-      "description": "Make like a banana, and SPLAT!",
-      "condition": "See the moai in Checkerboard Clubhouse"
+      "name": "バナナモアイ",
+      "description": "バナナのように滑って…ドカーン！",
+      "condition": "湛水宮でバナナモアイを見つける"
     },
     "lady_photographic_field": {
-      "name": "Perfect Pinwheels",
-      "condition": "Find the giant lady in Photographic Field"
+      "name": "完璧なかざぐるま",
+      "condition": "上陸:澱み沼で巨大な女性を見つける"
     },
     "cat_pillar_vivian_room": {
-      "name": "Rave Kitty",
-      "description": "What does this button do... woah!",
-      "condition": "Interact with the cat pillar in Vivian's Room in Balloon Park"
+      "name": "レイヴ・キティ",
+      "description": "このボタンって押したら何が…うわっ！",
+      "condition": "バルーンランド:赤色クセっ毛少女の部屋でネコの機械を調べる"
     },
     "peach_teru_bridge_swamp_islands": {
-      "name": "Peach Teru Teru Bōzu",
-      "description": "Always here, no matter rain or shine",
-      "condition": "See the peach teru teru bōzu at Bridge Swamp Islands"
+      "name": "桃色てるてる",
+      "description": "晴れても雨でも、いつでもここにいるよ",
+      "condition": "湖上の橋で桃色てるてるを見つける"
     },
     "pink_udg_runo_warehouse": {
-      "name": "Matching Cute Beanie",
-      "description": "Now I’m with the runes as one!",
-      "condition": "Equip the Pink Beanie mask in Underground Runological Warehouse"
+      "name": "おそろいキュートポンポン帽",
+      "description": "今や私は叉人と一体になるの！",
+      "condition": "叉人の世界でピンクのポンポン帽のお面を装備する"
     },
     "acoustic_lounge": {
-      "name": "Sundown Lounge",
-      "condition": "Visit Acoustic Lounge"
+      "name": "夕暮れラウンジ",
+      "condition": "Interludeに到達する"
     },
     "golden_chinatown_maple_f": {
-      "name": "Chinese New Year",
-      "description": "The streets shine bright in celebration.",
-      "condition": "Visit the Golden Chinatown in Maple Forest"
+      "name": "旧正月",
+      "description": "街はお祝いの光で輝いている",
+      "condition": "タケノコの山:祭りエリアに到達する"
+    },
+    "eye_window_tt": {
+      "name": "Scourge of the Past",
+      "description": "Black graffiti has woven the ocular curse that may be a tiny fraction of what once was, one day the primal insurrection will wake up",
+      "condition": "Go to Visine World from the Garden of Treachery in {TIME} or less in Time Trial Mode"
+    },
+    "glitch_kaprekar_number_zone": {
+      "name": "Kaprekar's Constant",
+      "description": "This must have been a fixed point in a specific mathematical algorithm...",
+      "condition": "Reach the glitched room in Kaprekar Number Zone"
+    },
+    "ancient_blue_battlefield": {
+      "name": "Medieval Legends",
+      "description": "And as the battle rages on and on, our warcries echo far and strong.",
+      "condition": "Visit Ancient Blue Battlefield"
+    },
+    "hall_of_flesh": {
+      "name": "Crimson-Stained Moon",
+      "description": "Above us, a vast crimson watches in silence.",
+      "condition": "Visit Hall of Flesh"
+    },
+    "vm_wheat_field": {
+      "name": "Observation",
+      "description": "Always watching...",
+      "condition": "Buy from the vending machine with an eye in Wheat Field"
+    },
+    "bed_spiders_nest": {
+      "name": "No Fangs- I Mean, No Thanks!",
+      "description": "He just wants to tuck you in...",
+      "condition": "Sleep in the bed in Spiders' Nest"
     }
   },
   "unconscious": {
@@ -7890,6 +7919,26 @@
       "name": "ばれたまご",
       "description": "エッグい！たまたまごんなレアキャラに会えるなんて！",
       "condition": "卵想郷で黒もじゃ虹生物を見つける"
+    },
+    "imago_eidolon": {
+      "name": "Glimmering Lepidoptera",
+      "description": "Guiding lights of lamps and moths throughout the night.",
+      "condition": "Obtain the Imago eidolon. If you have already unlocked it, return where it can be found in Moth Garden."
+    },
+    "deity_ghost_village": {
+      "name": "Watcher in The Sky",
+      "description": "Do you see what I see?",
+      "condition": "Find the deity in Ghost Village"
+    },
+    "bubble_rave": {
+      "name": "Dancing Bubbles and Hearts",
+      "description": "Let's wash it all away",
+      "condition": "Visit Bubble Rave"
+    },
+    "oracle_menu_theme": {
+      "name": "Oquam",
+      "description": "He's got a watch with a minuite hand, millenium hand, and an eon hand.",
+      "condition": "Obtain the Oracle menu theme. If you have already unlocked it, return where it can be found in Optical Offices."
     }
   },
   "flow": {
@@ -8167,7 +8216,7 @@
     "oreko_broken": {
       "name": "永遠の最悪の友達",
       "description": "この世界に良いことなんてあるのか？",
-      "condition": "友好度を-30まで下げてオレ子を殺害する"
+      "condition": "Kill Oreko by lowering her friendship to -30, then return see her in her room"
     },
     "revolver_effect": {
       "name": "警告",
@@ -8183,6 +8232,16 @@
       "name": "狂った落書き",
       "description": "この模様、何か意味があるのか？",
       "condition": "水牢入り口の飛び出す絵を全て見る"
+    },
+    "gas_mask_effect_flow": {
+      "name": "Tactical Mask",
+      "description": "Keeps bad air out.",
+      "condition": "Obtain the Gas Mask effect. If you have already unlocked it, return where it can be found in Plant Corridors."
+    },
+    "arms_effect_flow": {
+      "name": "At Risk Mental State",
+      "description": "After a psychological collapse, there is no regression to innocence.",
+      "condition": "Obtain the Arms effect. If you have already unlocked it, return where it can be found in Microorganism World."
     }
   },
   "prayers": {
@@ -8210,7 +8269,8 @@
       "condition": "Arrow Laneに到達する"
     },
     "chroma_cat": {
-      "name": "クロマキーキャット",
+      "name": "Glitchy Fluffball",
+      "description": "I can’t hear you, you’re breaking up- M̴̍͆e̷͛̒o̵͗͝ẅ̸́̆!",
       "condition": "Glitch Worldの深部に到達する"
     },
     "sunflower": {
@@ -8990,6 +9050,11 @@
       "name": "星のとげとげ生命体",
       "description": "サボテンに触れたら、倒れて頭上に星が見えるかもしれない！",
       "condition": "Star Cactus Desertに到達する"
+    },
+    "butterfly_effect_ud": {
+      "name": "I'm Your Little Butterfly",
+      "description": "The prettiest butterfly of them all",
+      "condition": "Obtain the Butterfly effect. If you have already unlocked it, return to Fast Food World."
     }
   },
   "braingirl": {
@@ -9477,6 +9542,11 @@
       "name": "のんびりうさぎ",
       "description": "すっごく快適……",
       "condition": "Blue Flowでラウンジチェアに座るウサギを見る"
+    },
+    "rabbits_sugar_maze": {
+      "name": "Bunny Tea Time",
+      "description": "They are late! They are late! For a very important date!",
+      "condition": "See the two rabbits enjoying sugar in the Sugar Maze"
     }
   },
   "genie": {
@@ -10039,6 +10109,11 @@
       "name": "ぬくもりとやすらぎ",
       "description": "あとはホットココアさえあれば……",
       "condition": "コートとマフラーのエフェクトを入手する、すでに入手している場合は玩具にもう一度行く。"
+    },
+    "magician_effect_uv": {
+      "name": "Dreaming Magician",
+      "description": "There lived a girl, who dreamed to be a magician someday",
+      "condition": "Obtain the Magician effect. If you have already unlocked it, return where it can be found in Floating Library."
     }
   },
   "sheawaits": {
@@ -10981,7 +11056,8 @@
       "condition": "ノベルティTシャツを着ようとする"
     },
     "shepherd_glen": {
-      "name": "Temp Badge Name (Do not translate)",
+      "name": "The Best Shepherd, EVER!",
+      "description": "Savior of the rams!",
       "condition": "峡谷の村で羊飼いのラムの世話を手伝う"
     },
     "plant_girl_ruins_glen": {
