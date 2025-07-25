@@ -861,7 +861,8 @@
       }
     },
     "cosmic_cube": {
-      "name": "Cube cosmique",
+      "name": "Cubes de cosmos",
+      "description": "Des prismes d'infinité dans un jardin galactique brillant",
       "condition": "Atteindre le Cosmic Cube World"
     },
     "firehead": {
@@ -4880,8 +4881,8 @@
       }
     },
     "puzzle_scattered_sky_fld": {
-      "name": "Berceuse des montagnes jumelles",
-      "description": "Repose-toi de temps en temps !",
+      "name": "Vue éparpillée",
+      "description": "Un paysage qui est éparpillé tout aux alentours.",
       "condition": "Atteindre la fin du puzzle aux Scattered Sky Fields"
     },
     "penseur_crimson_chair": {
@@ -5248,7 +5249,7 @@
     "drink_bench": {
       "name": "Pause rafraîchissante",
       "description": "La vue devient plus plaisante une fois combinée avec le goût sucré d'un soda",
-      "condition": "Acheter un soda du distributeur automatique et le boire sur le banc à Forest Pier et sur le balcon du Travel Hotel",
+      "condition": "Acheter un soda provenant du distributeur automatique et le boire sur le banc à Forest Pier et sur le balcon du Travel Hotel",
       "checkbox": {
         "drink_forest_pier": "Forest Pier",
         "drink_travel_hotel": "balcon du Travel Hotel"
@@ -5307,7 +5308,7 @@
     "drink_stone_world": {
       "name": "Expiré",
       "description": "J'aurais dû regarder la date avant...",
-      "condition": "Acheter une boisson du distributeur automatique au Stone World"
+      "condition": "Acheter une boisson provenant du distributeur automatique au Stone World"
     },
     "infinite_pools": {
       "name": "Sublimité",
@@ -5529,8 +5530,8 @@
       "condition": "À la fin du Planetarium, faire la caméra se lever au ciel"
     },
     "conic_house_hidden_shoal": {
-      "name": "Maison conique cachée",
-      "description": "Tu vas peut-être pas me croire, mais cette maison a une longue histoire",
+      "name": "Demeure isolée",
+      "description": "Avait-elle même pu être visitée, jadis ?",
       "condition": "Trouver la maison conique à l'Hidden Shoal"
     },
     "decaying_sun": {
@@ -6832,7 +6833,7 @@
     "eye_window_tt": {
       "name": "Fléau d'antan",
       "description": "Un graffiti obscur a tissé la malédiction oculaire qui pourrait être une petite fraction de ce qui était autrefois, amenant au réveil d'une insurrection primaire un jour",
-      "condition": "Aller au Visine World depuis le Garden of Treachery en {TIME} ou moins en course contre-la-montre"
+      "condition": "Atteindre la fin du Garden of Treachery en {TIME} ou moins en course contre-la-montre"
     },
     "glitch_kaprekar_number_zone": {
       "name": "Constante de Kaprekar",
@@ -6858,6 +6859,43 @@
       "name": "Repas servi sur un lit d'argent",
       "description": "Il te trouve à croquer...",
       "condition": "Dormir dans le lit au Spiders' Nest"
+    },
+    "hourglass_spiked_storm": {
+      "name": "Le calme après la tempête",
+      "condition": "Trouver le sablier à la Spiked Storm"
+    },
+    "sky_s_and_c_monuments": {
+      "name": "Bleu réconfortant",
+      "description": "Le chagrin s'est envolé...",
+      "condition": "Rendre le ciel bleu à Sorrow and Comfort Monuments"
+    },
+    "fish_low_tide_sands": {
+      "name": "Poisson dans le ciel",
+      "description": "Les poissons... volent ?",
+      "condition": "Voir le poisson à Low Tide Sands"
+    },
+    "boolean_plains": {
+      "name": "Formes en fluctuation",
+      "condition": "Visiter les Boolean Plains"
+    },
+    "lovestruck_realm": {
+      "name": "Royaume des nounours amoureux",
+      "description": "Dans le vide obscur émergea une terre brillant de rouge, remplie de visages souriants, de cœurs à la dérive, et d'ours géants sous une lune cramoisie.",
+      "condition": "Visiter le Lovestruck Realm"
+    },
+    "blue_sanctuary": {
+      "name": "Tranquillité",
+      "description": "Si ce sanctuaire est bleu, pourquoi les lapins sont roses ?",
+      "condition": "Visiter le Blue Sanctuary"
+    },
+    "cinnabar_new_japan_town": {
+      "name": "Fille aux cheveux rouges",
+      "description": "Mais, c'est la fille de l'arrêt de bus !!",
+      "condition": "Visiter la Chambre de Cinnabar à New Japan Town"
+    },
+    "lezaxzasea_docks": {
+      "name": "Lanternes flottantes",
+      "condition": "Visiter les Lezaxzasea Docks"
     }
   },
   "unconscious": {
@@ -7912,7 +7950,7 @@
     },
     "deity_ghost_village": {
       "name": "Observateur dans le ciel",
-      "description": "Est-ce que tu vois ce que je vois ?",
+      "description": "Peux-tu voir ce que je vois ?",
       "condition": "Trouver la divinité au Ghost Village"
     },
     "bubble_rave": {
@@ -7924,6 +7962,26 @@
       "name": "Oquam",
       "description": "Il a une montre avec une aiguille pour les minutes, une aiguille pour les millénaires, et une aiguille pour l'éternité.",
       "condition": "Obtenir le thème de menu Oracle. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé aux Optical Offices."
+    },
+    "screens_windowed_landscape": {
+      "name": "Scopophobie",
+      "description": "Je ne veux pas regarder !!",
+      "condition": "Interagir avec tous les écrans au Windowed Landscape"
+    },
+    "sled_wintery_trails": {
+      "name": "Course de luges !",
+      "description": "3, 2, 1, partez !",
+      "condition": "Descendre la colline en luge aux Wintery Trails"
+    },
+    "face_lonely_citadel": {
+      "name": "Le témoin silencieux",
+      "description": "Sous son regard observateur, tu n'es jamais seule...",
+      "condition": "Voir le visage à la Lonely Citadel"
+    },
+    "baseball_garden": {
+      "name": "Entraînement local",
+      "description": "Et le point est marqué pour Minnatsuki !",
+      "condition": "Équiper le masque de tenue de baseball là où il peut être trouvé au Garden"
     }
   },
   "flow": {
@@ -8724,6 +8782,11 @@
       "name": "Brûlure des rétines",
       "description": "Eh bien... tu t'attendais à quoi, en même temps...",
       "condition": "Essayer d'interagir avec le Soleil au Space World"
+    },
+    "1_up_8_bit_world": {
+      "name": "Vie supplémentaire",
+      "description": "Chaque vie compte, même celles gagnées dans le monde des rêves.",
+      "condition": "Obtenir une vie supplémentaire avec le champignon du 8-bit World"
     }
   },
   "unevendream": {
@@ -9040,6 +9103,11 @@
       "name": "Je suis ton petit papillon~",
       "description": "Le plus beau de tous les papillons",
       "condition": "Obtenir l'effet Papillon. Si vous l'avez déjà obtenu, retournez au Fast Food World."
+    },
+    "angel_rosetta_cliff": {
+      "name": "Falaise de Rosette",
+      "description": "Qu'est-ce qu'elle dit ?",
+      "condition": "Voir l'ange sur la Falaise de Rosette des Violet Caves"
     }
   },
   "braingirl": {
@@ -10414,7 +10482,7 @@
     "radon_noble_gas_district": {
       "name": "Canette radieuse",
       "description": "100% sans danger pour l'estomac ! Qui n'aime pas les échantillons gratuits ?",
-      "condition": "Acheter un radon du distributeur automatique au Noble Gas District"
+      "condition": "Acheter un radon provenant du distributeur automatique au Noble Gas District"
     },
     "gargoyle_effect": {
       "name": "Brave souvenir",
@@ -10435,6 +10503,11 @@
       "name": "Journal des rêves",
       "description": "Un long voyage, parsemé de mondes mystérieux et de gens merveilleux, touche à son terme.",
       "condition": "Compléter le journal des rêves et le consulter"
+    },
+    "hazelnut_gloomy_wetlands": {
+      "name": "Machine à la noix",
+      "description": "On devient ce que l'on consomme.",
+      "condition": "Acheter une noisette provenant du distributeur automatique des Gloomy Wetlands"
     }
   },
   "tsushin": {
@@ -10748,6 +10821,11 @@
       "name": "Résurrection",
       "description": "Grrr, grrrr !",
       "condition": "Obtenir l'effet Zombie. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Zombie Apartment."
+    },
+    "fire_axe_effect": {
+      "name": "Moi et ma hache",
+      "description": "Tchac tchac tchac !",
+      "condition": "Obtenir l'effet Hache à incendie. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé aux Stairs and Sundries."
     }
   },
   "nostalgic": {

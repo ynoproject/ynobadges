@@ -861,7 +861,8 @@
       }
     },
     "cosmic_cube": {
-      "name": "Cosmic Cube",
+      "name": "Cubes Of Cosmos",
+      "description": "Prisms of infinity in a glittering galactic garden",
       "condition": "Reach Cosmic Cube World"
     },
     "firehead": {
@@ -4875,8 +4876,8 @@
       }
     },
     "puzzle_scattered_sky_fld": {
-      "name": "Twin Mountains Lullaby",
-      "description": "Rest sometimes",
+      "name": "Scattered Scenery",
+      "description": "A view that is scattered all around.",
       "condition": "Reach the end of the puzzle in Scattered Sky Fields"
     },
     "penseur_crimson_chair": {
@@ -5524,8 +5525,8 @@
       "condition": "At the end of Planetarium, make the camera pan up to reveal the sky"
     },
     "conic_house_hidden_shoal": {
-      "name": "Hidden Conic House",
-      "description": "You may not believe it, but this house has a long history",
+      "name": "Isolated Abode",
+      "description": "Was there ever a time that you could've entered it?",
       "condition": "Find the conic house in Hidden Shoal"
     },
     "decaying_sun": {
@@ -6827,7 +6828,7 @@
     "eye_window_tt": {
       "name": "Scourge of the Past",
       "description": "Black graffiti has woven the ocular curse that may be a tiny fraction of what once was, one day the primal insurrection will wake up",
-      "condition": "Go to Visine World from the Garden of Treachery in {TIME} or less in Time Trial Mode"
+      "condition": "Reach the end of Garden of Treachery in {TIME} or less in Time Trial Mode"
     },
     "glitch_kaprekar_number_zone": {
       "name": "Kaprekar's Constant",
@@ -6853,6 +6854,43 @@
       "name": "No Fangs- I Mean, No Thanks!",
       "description": "He just wants to tuck you in...",
       "condition": "Sleep in the bed in Spiders' Nest"
+    },
+    "hourglass_spiked_storm": {
+      "name": "Spiked Timing",
+      "condition": "Find the hourglass in Spiked Storm"
+    },
+    "sky_s_and_c_monuments": {
+      "name": "Comfort Blue",
+      "description": "Sorrow has gone...",
+      "condition": "Turn the sky blue in Sorrow and Comfort Monuments"
+    },
+    "fish_low_tide_sands": {
+      "name": "Fish In The Sky",
+      "description": "Floating...?",
+      "condition": "See the fish in Low Tide Sands"
+    },
+    "boolean_plains": {
+      "name": "Shifting Shapes",
+      "condition": "Visit Boolean Plains"
+    },
+    "lovestruck_realm": {
+      "name": "Lovestruck Realm Bears",
+      "description": "In the dark void emerged a glowing red land, filled with smiling faces, drifting hearts, and giant bears beneath a crimson moon.",
+      "condition": "Visit Lovestruck Realm"
+    },
+    "blue_sanctuary": {
+      "name": "Tranquility",
+      "description": "If this sanctuary is blue, why are the bunnies pink?",
+      "condition": "Visit Blue Sanctuary"
+    },
+    "cinnabar_new_japan_town": {
+      "name": "Red Girl",
+      "description": "The girl at the bus stop earlier!",
+      "condition": "Visit Cinnabar's Room in New Japan Town"
+    },
+    "lezaxzasea_docks": {
+      "name": "Floating Lanterns",
+      "condition": "Visit Lezaxzasea Docks"
     }
   },
   "unconscious": {
@@ -7907,7 +7945,7 @@
     },
     "deity_ghost_village": {
       "name": "Watcher in The Sky",
-      "description": "Do you see what I see?",
+      "description": "Can you see what I see?",
       "condition": "Find the deity in Ghost Village"
     },
     "bubble_rave": {
@@ -7917,8 +7955,28 @@
     },
     "oracle_menu_theme": {
       "name": "Oquam",
-      "description": "He's got a watch with a minuite hand, millenium hand, and an eon hand.",
+      "description": "He's got a watch with a minute hand, millenium hand, and an eon hand.",
       "condition": "Obtain the Oracle menu theme. If you have already unlocked it, return where it can be found in Optical Offices."
+    },
+    "screens_windowed_landscape": {
+      "name": "Scopophobia",
+      "description": "I don't want to look!!",
+      "condition": "Interact with all the screens in Windowed Landscape"
+    },
+    "sled_wintery_trails": {
+      "name": "Sled Race!",
+      "description": "3, 2, 1, go!",
+      "condition": "Sled down the hill in Wintery Trails"
+    },
+    "face_lonely_citadel": {
+      "name": "The Silent Witness",
+      "description": "Under their watchful gaze, you are never alone...",
+      "condition": "See the face in Lonely Citadel"
+    },
+    "baseball_garden": {
+      "name": "Batter Up!",
+      "description": "And that's a run for Minnatsuki!",
+      "condition": "Equip the baseball outfit mask where it can be found in Garden"
     }
   },
   "flow": {
@@ -8719,6 +8777,11 @@
       "name": "Burnt Into Your Eyes",
       "description": "Well... what were you expecting",
       "condition": "Attempt to interact with the Sun in Space World"
+    },
+    "1_up_8_bit_world": {
+      "name": "Get a Life!",
+      "description": "You get an extra Itsuki for every one of these you receive.",
+      "condition": "Get a 1-UP from the mushroom in 8-bit World"
     }
   },
   "unevendream": {
@@ -9035,6 +9098,11 @@
       "name": "I'm Your Little Butterfly",
       "description": "The prettiest butterfly of them all",
       "condition": "Obtain the Butterfly effect. If you have already unlocked it, return to Fast Food World."
+    },
+    "angel_rosetta_cliff": {
+      "name": "Rosetta's Cliff",
+      "description": "What's she saying?",
+      "condition": "See the angel on the Rosetta Cliff of Violet Caves"
     }
   },
   "braingirl": {
@@ -10430,6 +10498,11 @@
       "name": "Dream Journal",
       "description": "A long journey, full of mysterious worlds and fantastic individuals, comes to an end.",
       "condition": "Complete the Dream Journal and consult it"
+    },
+    "hazelnut_gloomy_wetlands": {
+      "name": "Going Nuts",
+      "description": "You are what you eat.",
+      "condition": "Buy an hazelnut from the vending machine in Gloomy Wetlands"
     }
   },
   "tsushin": {
@@ -10729,6 +10802,11 @@
       "name": "Rise From the Grave",
       "description": "Cat scratch, cat scratch!",
       "condition": "Obtain the Zombie effect. If you have already unlocked it, return where it can be found in Zombie Apartment."
+    },
+    "fire_axe_effect": {
+      "name": "Me & My Axe",
+      "description": "Chop chop chop!",
+      "condition": "Obtain the Fire Axe effect. If you have already unlocked it, return where it can be found in Stairs and Sundries."
     }
   },
   "nostalgic": {
