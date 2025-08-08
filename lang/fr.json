@@ -537,6 +537,11 @@
       "name": "Terre et pylônes",
       "description": "De la terre et des pylônes, des trous et des barraques...",
       "condition": "Visiter les Barracks Settlement"
+    },
+    "nasu_ruby": {
+      "name": "NASU en carton",
+      "description": "Un prix fait à la main pour avoir réalisé une telle prouesse !",
+      "condition": "Marquer exactement 290 points dans le mode secret de NASU"
     }
   },
   "2kki": {
@@ -6930,6 +6935,96 @@
       "name": "Glaces à l'eau !!",
       "description": "Quand les choses sont amers, tu redonnes le goût au reste",
       "condition": "Visiter le Popsicle Park"
+    },
+    "wake_up_elysium_pools": {
+      "name": "Simili-martyr",
+      "description": "Vous ne m'aurez jamais vivant.",
+      "condition": "Déclencher l'événement de réveil aux Elysium Pools"
+    },
+    "person_decrepit_dwellings": {
+      "name": "Voyageur mystique",
+      "description": "Je suis le monarque de tout ce que j'observe, je suis le propriétaire de tout ce qui se trouve.",
+      "condition": "Rencontrer la personne assise aux Decrepit Dwellings"
+    },
+    "sushi_color_capital": {
+      "name": "Tournée de sushi",
+      "description": "Tu préfères lequel, thon, œuf, saumon ou poulpe ?",
+      "condition": "Visiter la section isolée du Sushi Belt World accessible depuis la Color Capital"
+    },
+    "shunned_street_grave": {
+      "name": "Liés par le destin",
+      "description": "Même si la mort nous sépare.",
+      "condition": "Utiliser l'effet Tombe en face de la tombe à la Shunned Street"
+    },
+    "somniphobia_exit": {
+      "name": "Passe un bon cauchemar",
+      "description": "Je n'arrive pas du tout à dormir.",
+      "condition": "Aller au Grease Desert depuis Somniphobia"
+    },
+    "tanuki_port_city": {
+      "name": "Procyonidés de la ville portuaire",
+      "description": "Joli chapeau !",
+      "condition": "Voir le tanuki avec un couvre-chef à Port City"
+    },
+    "convenience_ext_somber_establishment": {
+      "name": "Sombre supérette",
+      "description": "C'est tellement pratique d'avoir une supérette dans un tel lieu !",
+      "condition": "Voir l'extérieur de la supérette au Somber Establishment"
+    },
+    "sniper_san_blissful_clinic_plaster": {
+      "name": "Amie avec Sniper-san",
+      "description": "Maintenant, on se ressemble !",
+      "condition": "S'asseoir à côté de Sniper-san à la Blissful Clinic avec l'effet Plâtre équipé"
+    },
+    "tsuki_binary_path_ethnic_world": {
+      "name": "Secret mis au placard",
+      "description": "Que fais-tu ici ?",
+      "condition": "Trouver ???-tsuki dans la section isolée du Passage Binaire de l'Ethnic World"
+    },
+    "bean_vendor_glowfruit_garden": {
+      "name": "Du jus d'haricot ?",
+      "description": "« J'espère que t'apprécieras. C'est une vieille recette de famille. »",
+      "condition": "Acheter un haricot au vendeur du Glowfruit Garden"
+    },
+    "mask_storage_mask_tst_map": {
+      "name": "Une boîte remplie de masques",
+      "description": "Que se trouve-t-il dans la boîte ?",
+      "condition": "Équiper le masque du stockage de masques à la TST MAP"
+    },
+    "angel_blood_chalice_desolation": {
+      "name": "Coupe volante remplie de sang",
+      "description": "Du sang pour la coupe !",
+      "condition": "Apercevoir l'Ange Calice survoler le Blood Chalice Desolation"
+    },
+    "insect_glowing_hives": {
+      "name": "Joyeux insectes colorés",
+      "description": "Je veux tous les câliner !",
+      "condition": "Utiliser l'effet Insecte aux Glowing Hives"
+    },
+    "bodacious_rotation_station": {
+      "name": "Révolutions radicales",
+      "description": "Un p'tit tour et puis s'en va !",
+      "condition": "Visiter la Bodacious Rotation Station"
+    },
+    "grave_effect": {
+      "name": "Repose en paix",
+      "description": "Ici repose en paix notre Urotsuki adorée...",
+      "condition": "Obtenir l'effet Tombe. Si vous l'avez déjà obtenu, retournez au Graveyard World."
+    },
+    "teru_golden_forest": {
+      "name": "Tournez-vous !",
+      "description": "Tu as leur attention !",
+      "condition": "Équiper l'effet Teru Teru Bōzu à la fin de la Forêt Dorée du Ghastly Dumpsite"
+    },
+    "figure_lonely_mint_cemetary": {
+      "name": "Fossoyeur",
+      "description": "J'ai l'endroit parfait pour toi.",
+      "condition": "Se faire attraper par la silhoutte à la robe jaune en utilisant l'effet Tombe au Lonely Mint Cemetery"
+    },
+    "rice_dumpling_plateau": {
+      "name": "Boîte à bento",
+      "description": "Hmmm, ch'est trop bon !!",
+      "condition": "Visiter le Rice Dumpling Plateau"
     }
   },
   "unconscious": {
@@ -8036,6 +8131,16 @@
       "name": "A.M.I.S.",
       "description": "Bouger oui, mais funky !",
       "condition": "Déclencher l'événement de la Danse des Créatures aux Candy Tile Halls"
+    },
+    "soulfire_eidolon": {
+      "name": "Chaînes décomposées",
+      "description": "Ô toi, dont l'âme depuis longtemps s'est décomposée",
+      "condition": "Obtenir l'eidolon Feu d'âme. Si vous l'avez déjà obtenu, retournez au Sky Mausoleum."
+    },
+    "sit_somewhere_commons": {
+      "name": "C'est pas contre toi, mais...",
+      "description": ".-_-.",
+      "condition": "Déclencher l'événement de On Va S'Asseoir Autre Part aux Commons"
     }
   },
   "flow": {
@@ -8198,12 +8303,12 @@
     "hole_in_girl": {
       "name": "Jolie statue",
       "description": "Un lieu secret à travers un trou dans un visage.",
-      "condition": "Atteindre hole in girl"
+      "condition": "Atteindre Hole in Girl"
     },
     "hole_in_sugar_girl": {
       "name": "Une étrange femme",
       "description": "C'est un bien bel endroit...",
-      "condition": "Se rendre aux limites de hole in girl et rencontrer quelqu'un de spécial"
+      "condition": "Se rendre aux limites de Hole in Girl et rencontrer quelqu'un de spécial"
     },
     "wastewater_eye": {
       "name": "Vue rouge de l'œil",
@@ -8669,6 +8774,11 @@
       "name": "Paradis flétri",
       "description": "Le serpent m'a piégé, donc j'ai mangé le fruit.",
       "condition": "Visiter le Dark Eden"
+    },
+    "glassy_alter": {
+      "name": "Lumière de nuit humaine !",
+      "description": "Elle n'a pas besoin de lampe torche, elle en est une !",
+      "condition": "Obtenir l'alter Vitreux. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à la Lamp Forest."
     }
   },
   "someday": {
@@ -8851,6 +8961,11 @@
       "name": "Veine forestière",
       "description": "La chance sourit aux audacieux... lors de balades en forêt !",
       "condition": "Interagir avec le trèfle à quatre feuilles à Forest"
+    },
+    "rainbow_beach": {
+      "name": "Rivage coloré",
+      "description": "Après chaque pluie vient un arc-en-ciel",
+      "condition": "Faire apparaître un arc-en-ciel à la Beach"
     }
   },
   "unevendream": {
@@ -9428,6 +9543,16 @@
     "tv_roxane_japanese_area": {
       "name": "Pipiru piru piru pipiru pi~",
       "condition": "Allumer la télévision dans la Maison de Roxane dans la Japanese Area"
+    },
+    "la_pigne_bouteille": {
+      "name": "Bienvenue à La Pigne !",
+      "description": "Profite bien de la vue et de ces délicieuses sucreries, mon amie !",
+      "condition": "Commander quelque chose au stand de La Pigne"
+    },
+    "alien_saturn_telecom_world": {
+      "name": "Tends l'oreille",
+      "description": "Peux-tu nous entendre ? Es-tu là ? Comment est l'autre côté ?",
+      "condition": "Voir l'alien sur l'une des structures du Saturn Telecom World"
     }
   },
   "muma": {
@@ -10236,6 +10361,11 @@
       "name": "Magicienne rêveuse",
       "description": "Ici vivait une fille, qui rêvait de devenir magicienne un jour",
       "condition": "Obtenir l'effet Magicienne. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à la Floating Library."
+    },
+    "miko_effect": {
+      "name": "Mystérieux bâton d'exorcisme",
+      "description": "As-tu fais des offrandes au sanctuaire ?",
+      "condition": "Obtenir l'effet Miko. Si vous l'avez déjà obtenu, retournez à la fin du Shrine Labyrinth."
     }
   },
   "sheawaits": {
@@ -10321,6 +10451,11 @@
     "the_emperor_card": {
       "name": "Accoutrement familier",
       "condition": "Obtenir la carte L'Empereur. Si vous l'avez déjà obtenue, retournez là où elle peut être trouvée au Alessandre's Manor."
+    },
+    "blackout_tavern_village": {
+      "name": "Ajoutez ça à ma note !",
+      "description": "Ugh- allez, une de plus... !",
+      "condition": "Déclencher l'événement du Trou de Mémoire à la Taverne du Village"
     }
   },
   "oversomnia": {
@@ -10909,6 +11044,11 @@
       "name": "Maison onirique et pièce",
       "description": "Une pièce de théâtre n'est que la réflexion de l'esprit.",
       "condition": "Voir les deux variantes du Dollhouse Village"
+    },
+    "azure_park": {
+      "name": "Verger bleu",
+      "description": "Au fin fond du jardin, dans un parc bleu, tu me trouveras, avec mon cœur bleu.",
+      "condition": "Visiter l'Azure Park"
     }
   },
   "nostalgic": {
@@ -11323,6 +11463,11 @@
       "name": "Garçon désopilant d'antan",
       "description": "Psst, va regarder ton PC.",
       "condition": "Obtenir la propriété Classique. Si vous l'avez déjà obtenue, retournez là où elle peut être trouvée au PC Game."
+    },
+    "yun_yin_moonlit_sands": {
+      "name": "Un regard inquisiteur",
+      "description": "Les yeux parlent plus clairement que les lèvres.",
+      "condition": "Voir les réactions de Yun et Yin aux propriétés Vide et Bouteille Plas. aux Moonlit Sands"
     }
   },
   "fog": {

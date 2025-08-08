@@ -537,6 +537,11 @@
       "name": "Dirt and Pylons",
       "description": "Dirt and pylons, holes and houses...",
       "condition": "Visit Barracks Settlement"
+    },
+    "nasu_ruby": {
+      "name": "Cardboard NASU",
+      "description": "A handmade prize for achieving this goal!",
+      "condition": "Score exactly 290 points in NASU EX"
     }
   },
   "2kki": {
@@ -3051,7 +3056,7 @@
     "blob_scared": {
       "name": "EEEEEK!!!",
       "description": "Got you good.",
-      "condition": "Scare off the while blob creature by using the Marginal effect"
+      "condition": "Scare off the white blob creature by using the Marginal effect"
     },
     "eyeberry_orchard": {
       "name": "Cyan Orchard",
@@ -6925,6 +6930,96 @@
       "name": "Popsicles!!",
       "description": "When things taste bitter, you make it all better",
       "condition": "Visit Popsicle Park"
+    },
+    "wake_up_elysium_pools": {
+      "name": "Martyrish",
+      "description": "You'll never take me alive.",
+      "condition": "Trigger the wake up event in Elysium Pools"
+    },
+    "person_decrepit_dwellings": {
+      "name": "Mystique Wanderer",
+      "description": "I am the monarch of all I survey, I own the whole world.",
+      "condition": "Encounter the sitting person in Decrepit Dwellings"
+    },
+    "sushi_color_capital": {
+      "name": "Spinning Sushi",
+      "description": "Which do you like, tuna, egg, flatfish, or octopus?",
+      "condition": "Visit the isolated section of Sushi Belt World accessible from Color Capital"
+    },
+    "shunned_street_grave": {
+      "name": "Of the Living, of the Dead",
+      "description": "Even if death parts us.",
+      "condition": "Use the Grave effect in front of the grave in Shunned Street"
+    },
+    "somniphobia_exit": {
+      "name": "Have a Nice Nightmare",
+      "description": "I can't sleep at all.",
+      "condition": "Go to Grease Desert from Somniphobia"
+    },
+    "tanuki_port_city": {
+      "name": "Port City Procyonid",
+      "description": "Nice hat!",
+      "condition": "See the tanuki with a hat in Port City"
+    },
+    "convenience_ext_somber_establishment": {
+      "name": "Somber Convenience",
+      "description": "How convenient to have a store in a place like this!",
+      "condition": "See the exterior of the convenience store in Somber Establishment"
+    },
+    "sniper_san_blissful_clinic_plaster": {
+      "name": "Friends with Sniper-san",
+      "description": "Now we match!",
+      "condition": "Sit next to Sniper-san in Blissful Clinic with the Plaster Cast effect equipped"
+    },
+    "tsuki_binary_path_ethnic_world": {
+      "name": "Closeted Secret",
+      "description": "What are you doing here?",
+      "condition": "Find ???-tsuki in the isolated section of the Binary Path of Ethnic World"
+    },
+    "bean_vendor_glowfruit_garden": {
+      "name": "Bean Juice?",
+      "description": "\"Hope ya like it. it's a family recipe.\"",
+      "condition": "Buy a bean from the vendor in Glowfruit Garden"
+    },
+    "mask_storage_mask_tst_map": {
+      "name": "A Box Full of Masks",
+      "description": "What's in the box?",
+      "condition": "Equip the Mask Storage mask in TST MAP"
+    },
+    "angel_blood_chalice_desolation": {
+      "name": "Flying Blood Goblet",
+      "description": "Blood for the blood cup!",
+      "condition": "Witness the Angel Chalice fly by in Blood Chalice Desolation"
+    },
+    "insect_glowing_hives": {
+      "name": "Colorful Jolly Bugs",
+      "description": "I want to hug them all!",
+      "condition": "Use the Insect effect in Glowing Hives"
+    },
+    "bodacious_rotation_station": {
+      "name": "Radical Revolutions",
+      "description": "Spinning the day away!",
+      "condition": "Visit Bodacious Rotation Station"
+    },
+    "grave_effect": {
+      "name": "Resting in Peace",
+      "description": "Here lies our beloved Urotsuki...",
+      "condition": "Obtain the Grave effect. If you have already unlocked it, return to Graveyard World."
+    },
+    "teru_golden_forest": {
+      "name": "Turn Around!",
+      "description": "You've got their attention!",
+      "condition": "Equip the Teru Teru Bōzu effect at the end of the Golden Forest of Ghastly Dumpsite"
+    },
+    "figure_lonely_mint_cemetary": {
+      "name": "Gravekeeper",
+      "description": "I have just the place for you.",
+      "condition": "Get caught by the figure in a yellow robe while using the Grave effect in Lonely Mint Cemetery"
+    },
+    "rice_dumpling_plateau": {
+      "name": "Onigiri Lunch Box",
+      "description": "yum yum yum",
+      "condition": "Visit Rice Dumpling Plateau"
     }
   },
   "unconscious": {
@@ -8031,6 +8126,16 @@
       "name": "F.R.I.E.N.D.S.",
       "description": "Getting down and funky!",
       "condition": "Trigger the Critter Dance event in Candy Tile Halls"
+    },
+    "soulfire_eidolon": {
+      "name": "Decayed Shackles",
+      "description": "Thy soul hath, long since decayed",
+      "condition": "Obtain the Soulfire eidolon. If you have already unlocked it, return in Sky Mausoleum."
+    },
+    "sit_somewhere_commons": {
+      "name": "No Hard Feelings",
+      "description": ".-_-.",
+      "condition": "Trigger the We'll Sit Somewhere Else event in Commons"
     }
   },
   "flow": {
@@ -8193,12 +8298,12 @@
     "hole_in_girl": {
       "name": "Sweet Statue",
       "description": "A secret place through a hole in a face.",
-      "condition": "Reach hole in girl"
+      "condition": "Reach Hole in Girl"
     },
     "hole_in_sugar_girl": {
       "name": "A Strange Woman",
       "description": "This is a nice spot...",
-      "condition": "Navigate to the end of hole in girl and see a specific someone"
+      "condition": "Navigate to the end of Hole in Girl and see a specific someone"
     },
     "wastewater_eye": {
       "name": "Red Seeing",
@@ -8664,6 +8769,11 @@
       "name": "Wilted Paradise",
       "description": "The snake tricked me, so I ate the fruit.",
       "condition": "Visit Dark Eden"
+    },
+    "glassy_alter": {
+      "name": "Human Nightlight!",
+      "description": "She doesn't need a nightlight, she is one!",
+      "condition": "Obtain the Glassy alter. If you have already unlocked it, return where it can be found in Lamp Forest."
     }
   },
   "someday": {
@@ -8846,6 +8956,11 @@
       "name": "I'm So Lucky, Lucky!",
       "description": "You can fool yourself, I promise it will help, now every single day I just wanna hear you saying!",
       "condition": "Interact with the four-leaf clover in Forest"
+    },
+    "rainbow_beach": {
+      "name": "Colorful Shore",
+      "description": "After every rain comes a rainbow",
+      "condition": "Make a rainbow appear at the Beach"
     }
   },
   "unevendream": {
@@ -9423,6 +9538,16 @@
     "tv_roxane_japanese_area": {
       "name": "Pipiru Piru Piru Pipiru Pi~",
       "condition": "Turn on the TV in Roxane's House in the Japanese Area"
+    },
+    "la_pigne_bouteille": {
+      "name": "Welcome to La Pigne!",
+      "description": "Enjoy the view and the tasty treats my friend!",
+      "condition": "Order something from the shop in La Pigne"
+    },
+    "alien_saturn_telecom_world": {
+      "name": "Listen Up",
+      "description": "Can you hear us? Are you there? What's it like on the other side?",
+      "condition": "See the alien on top of one of the structures in Saturn Telecom World"
     }
   },
   "muma": {
@@ -10231,6 +10356,11 @@
       "name": "Dreaming Magician",
       "description": "There lived a girl, who dreamed to be a magician someday",
       "condition": "Obtain the Magician effect. If you have already unlocked it, return where it can be found in Floating Library."
+    },
+    "miko_effect": {
+      "name": "Mysterious Exorcism Stick",
+      "description": "Have you put your offering in the shrine?",
+      "condition": "Obtain the Miko effect. If you have already unlocked it, return at the end of the Shrine Labyrinth."
     }
   },
   "sheawaits": {
@@ -10316,6 +10446,11 @@
     "the_emperor_card": {
       "name": "Familiar Attire",
       "condition": "Obtain The Emperor card. If you have already unlocked it, return where it can be found in Alessandre's Manor."
+    },
+    "blackout_tavern_village": {
+      "name": "Put It On My Tab!",
+      "description": "Just one more...",
+      "condition": "Trigger the Blackout event in the Tavern of Village"
     }
   },
   "oversomnia": {
@@ -10890,6 +11025,11 @@
       "name": "Play in the Dream House",
       "description": "A room is a reflection of the mind.",
       "condition": "See the two variants of Dollhouse Village"
+    },
+    "azure_park": {
+      "name": "Blue Orchard",
+      "description": "Deep in the garden, in a blue park, there you will find me, with my blue heart.",
+      "condition": "Visit Azure Park"
     }
   },
   "nostalgic": {
@@ -11304,6 +11444,11 @@
       "name": "Silly Boi of the Past",
       "description": "Psst, go check your computer.",
       "condition": "Obtain the Classic property. If you have already unlocked it, return where it can be found in the PC Game."
+    },
+    "yun_yin_moonlit_sands": {
+      "name": "A Following Gaze",
+      "description": "Eyes speak more eloquently than lips.",
+      "condition": "See Yun and Yin's reactions to the Emptiness and Plastic Bottle properties in Moonlit Sands"
     }
   },
   "fog": {
