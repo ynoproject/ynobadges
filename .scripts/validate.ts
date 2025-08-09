@@ -3,6 +3,7 @@
 import { object, string, boolean, number, parse, picklist, array, partial, pipe, check, checkItems, type InferInput } from "https://esm.sh/valibot@1.1.0";
 
 const Ops = picklist(['=', '<', '>', '<=', '>=', '!=', '>=<']);
+const badgeIdMaxLength = 32;
 
 const TCondition = partial(object({
   map: number(),
@@ -114,6 +115,9 @@ if (import.meta.main) (async function() {
     for await (const fileEntry of Deno.readDir(gameDir)) {
       if (!fileEntry.isFile || !fileEntry.name.endsWith('.json')) continue;
       const name = fileEntry.name.replace(/\.json$/, '');
+      if (name.length > badgeIdMaxLength) {
+        emit('error', `badgeId ${name} is longer than ${badgeIdMaxLength} chars`);
+      }
       try {
         const data = JSON.parse(await Deno.readTextFile(join(gameDir, fileEntry.name)));
         const badge = parse(TBadge, data);
