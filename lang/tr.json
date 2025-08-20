@@ -9624,7 +9624,15 @@
     "tournee_aerobus": {
       "name": "The Enchanted Bus Ride",
       "description": "The flying bus sometimes drifts to strange places!",
-      "condition": "Get on the Aerobus from Danaë's Dream Balcony, Corrupted Notebook, La Pigne, Coco Desert, EPACSE, and Rainbow Screw Floor"
+      "condition": "Get on the Aerobus from Danaë's Dream Balcony, Corrupted Notebook, La Pigne, Coco Desert, EPACSE, and Rainbow Screw Floor",
+      "checkbox": {
+        "aerobus_balcony": "Danaë's Dream Balcony",
+        "aerobus_notebook": "Corrupted Notebook",
+        "aerobus_la_pigne": "La Pigne",
+        "aerobus_coco": "Coco Desert",
+        "aerobus_epacse": "EPACSE",
+        "aerobus_screw_floor": "Rainbow Screw Floor"
+      }
     }
   },
   "muma": {
