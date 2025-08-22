@@ -7035,6 +7035,78 @@
       "name": "Poupée Hina ayant perdu la tête",
       "description": "Oh, c'était pas censé arriver...",
       "condition": "Visiter la Maiden Outlook"
+    },
+    "reclaimed_town": {
+      "name": "Retour à la nature",
+      "description": "Un vieux village, dont les souvenirs ont été perdus avec le temps...",
+      "condition": "Visiter la Reclaimed Town"
+    },
+    "night_sky_underneath": {
+      "name": "Souvenir mélancolique",
+      "description": "Un ciel nocturne vu par des yeux d'enfant",
+      "condition": "Atteindre la zone du ciel étoilé à Underneath"
+    },
+    "sunlit_mural_meadow": {
+      "name": "Prairie de fresques",
+      "description": "Une paisible petite prairie, située au loin des ports.",
+      "condition": "Visiter la Sunlit Mural Meadow"
+    },
+    "pudding_head_worksite": {
+      "name": "Puru puru pudding",
+      "description": "Je ne peux penser qu'à des choses sucrées",
+      "condition": "Équiper le masque de la Tête Pudding là où il peut être trouvé à Worksite"
+    },
+    "teddy_bear_land": {
+      "name": "Nounours-kun",
+      "description": "Du miel ? Pfff, laisse-moi rire ! Mon pêché mignon, c'est le sang ! Slurp, slurp~ !",
+      "condition": "Visiter le Teddy Bear Land"
+    },
+    "fight_castle_kingdom_trees": {
+      "name": "Balle évitée",
+      "description": "Dans un sens, j'ai gagné",
+      "condition": "Repousser la créature diablotine au château du Kingdom of Trees"
+    },
+    "2kki_menu_104": {
+      "name": "Sous le bleu des profondeurs",
+      "description": "Une fleur isolée florissant parmi le bleu abyssal.",
+      "condition": "Obtenir le style de menu 104. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à Frozen Stratosphere."
+    },
+    "crowbar_abyss": {
+      "name": "Matériel abîmé",
+      "description": "Nous n'étions pas prêts, d'aileurs, pour d'éventuelles conséquences inattendues.",
+      "condition": "Visiter le Crowbar Abyss"
+    },
+    "outlook_heartclipse_sea_sniper": {
+      "name": "La véritable mer",
+      "description": "Cette vue est celle de la mer dans mon cœur.",
+      "condition": "Voir la vue maritime de l'Heartfelt Eclipse Sea en utilisant le masque Sniper-san"
+    },
+    "2kki_menu_77": {
+      "name": "Fleur - Côté : A",
+      "description": "Musique pour fleurs si appréciée qu'elle pourrait transformer des gnomes en nains de jardin.",
+      "condition": "Obtenir le style de menu 77. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à Alto."
+    },
+    "fushigi_vibrant_smile_world": {
+      "name": "Exécution et vision malicieuse",
+      "condition": "Voir l'expressions normale et l'expression terrifiée de Fushigi-san au VIBRANT SMILE WORLD",
+      "checkbox": {
+        "fushigi_vibrant_smile_world_1": "l'expressions normale",
+        "fushigi_vibrant_smile_world_2": "l'expression terrifiée"
+      }
+    },
+    "scholar_strawberry_milk_sea": {
+      "name": "Délicieuse mort",
+      "description": "Joyeuse mauvaise fin !",
+      "condition": "Voir le cadavre de l'Écolière Toxique après avoir atteint la Strawberry Milk Sea depuis le Nerium Lab"
+    },
+    "bloodied_geometry_abyss": {
+      "name": "Géométrie rougeâtre",
+      "condition": "Aller au Geometry World depuis le Bloodied Geometry Abyss"
+    },
+    "red_steel_tower_sea_floor": {
+      "name": "Air et acier",
+      "description": "Là où les câbles rencontrent le vent",
+      "condition": "Atteindre la Tour Métallique Rouge du Seafloor Dungeon"
     }
   },
   "unconscious": {
@@ -8568,6 +8640,11 @@
       "name": "Sanctuaire teinté",
       "description": "Tu tombes dans mes pattes, tu tombes dans les pattes de tout le monde",
       "condition": "Énerver toutes les Chimikos au Miko Shrine"
+    },
+    "shovel_prayer": {
+      "name": "Prière d'exclusion",
+      "description": "Te mets pas en travers de mon chemin",
+      "condition": "Atteindre la salle de la prière Pelle dans l'Industrial Maze"
     }
   },
   "deepdreams": {
@@ -9578,6 +9655,19 @@
       "name": "Tends l'oreille",
       "description": "Peux-tu nous entendre ? Es-tu là ? Comment est l'autre côté ?",
       "condition": "Voir l'alien sur l'une des structures du Saturn Telecom World"
+    },
+    "tournee_aerobus": {
+      "name": "La tournée enchantée du bus",
+      "description": "Le bus volant dérape parfois vers d'étranges lieux !",
+      "condition": "Monter sur l'Aérobus depuis la Danaë's Dream Balcony, le Corrupted Notebook, La Pigne, le Coco Desert, EPACSE, et le Rainbow Screw Floor",
+      "checkbox": {
+        "aerobus_balcony": "la Danaë's Dream Balcony",
+        "aerobus_notebook": "le Corrupted Notebook",
+        "aerobus_la_pigne": "La Pigne",
+        "aerobus_coco": "le Coco Desert",
+        "aerobus_epacse": "EPACSE",
+        "aerobus_screw_floor": "le Rainbow Screw Floor"
+      }
     }
   },
   "muma": {
@@ -10186,6 +10276,11 @@
       "name": "Salle Maudite",
       "description": "Une boîte isolée « coincée »",
       "condition": "Déclencher l'événement de la Salle Maudite aux Migraine Hallways. Si vous l'avez déjà complété, essayez de retourner dans la salle."
+    },
+    "flight_dirt_field": {
+      "name": "Envol miaougistral",
+      "description": "La plupart des chats ne volent peut-être pas, mais celui-là le peut !",
+      "condition": "Déclencher l'événement d'Envol du Chat Noir à la Tour du Dirt Field"
     }
   },
   "ultraviolet": {
@@ -10746,6 +10841,11 @@
       "name": "Étrange endroit souterrain",
       "description": "Le berceau des... chats ?",
       "condition": "Visiter les Vile Tunnels"
+    },
+    "chaser_punishment": {
+      "name": "La punition du monde",
+      "description": "Tu ne peux pas échapper aux conséquences de tes actions.",
+      "condition": "Après avoir obtenu 25 PV ou plus en un seul rêve, subir la Punition des Chasseurs dans l'un des mondes du Nexus"
     }
   },
   "tsushin": {
@@ -11074,6 +11174,16 @@
       "name": "Verger bleu",
       "description": "Au fin fond du jardin, dans un parc bleu, tu me trouveras, avec mon cœur bleu.",
       "condition": "Visiter l'Azure Park"
+    },
+    "head_space": {
+      "name": "Têtes et tours",
+      "description": "T'as pas le tournis ?",
+      "condition": "Visiter l'Head Space"
+    },
+    "urban_cityscape": {
+      "name": "Enveloppé par la nuit urbaine",
+      "description": "Ciel nocturne azuré et lumières de nuit vives.",
+      "condition": "Visiter l'Urban Cityscape"
     }
   },
   "nostalgic": {
