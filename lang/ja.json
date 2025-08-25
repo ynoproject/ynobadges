@@ -8560,8 +8560,8 @@
       "condition": "Broken Clock Parkで単眼生物の部屋を探す"
     },
     "koraiyn": {
-      "name": "Koraiyn",
-      "description": "Koraiynって何？",
+      "name": "コーレイン",
+      "description": "コーレインって何？",
       "condition": "GB Towerの頂上に到達する"
     },
     "missingno": {
@@ -8596,11 +8596,11 @@
     },
     "all_prayers": {
       "name": "クリフハンガー",
-      "condition": "全てのprayersを手に入れて扉部屋に行く"
+      "condition": "全てのイノリを手に入れて扉部屋に行く"
     },
     "food_room": {
       "name": "Bon Appetit",
-      "condition": "Foodエフェクトがある部屋に入る"
+      "condition": "食べ物のエフェクトがある部屋に入る"
     },
     "submarine_cat_eyes": {
       "name": "猫の目",
@@ -8615,7 +8615,7 @@
     "phantom_symbols": {
       "name": "幻影のシンボル",
       "description": "自分自身の霊の目撃者になる",
-      "condition": "Symbols Mazeで幽霊のFluoretteに話しかける"
+      "condition": "Symbols Mazeで幽霊のフロレットに話しかける"
     },
     "all_seeing_graffiti": {
       "name": "千里眼壁",
@@ -8657,9 +8657,9 @@
       "condition": "Miko Shrineにいる全てのChimikoを怒らせる"
     },
     "shovel_prayer": {
-      "name": "Exclusion Prayer",
-      "description": "Don't stand in front of me",
-      "condition": "Reach the room of the Shovel prayer in Industrial Maze"
+      "name": "排除の祈り",
+      "description": "私の前に立たないで",
+      "condition": "Industrial Mazeのシャベルのイノリがある部屋に到達する"
     }
   },
   "deepdreams": {
@@ -9672,9 +9672,9 @@
       "condition": "Saturn Telecom Worldの構造物の上にいるエイリアンを見る"
     },
     "tournee_aerobus": {
-      "name": "The Enchanted Bus Ride",
-      "description": "The flying bus sometimes drifts to strange places!",
-      "condition": "Get on the Aerobus from Danaë's Dream Balcony, Corrupted Notebook, La Pigne, Coco Desert, EPACSE, and Rainbow Screw Floor",
+      "name": "魔法のバスの旅",
+      "description": "空を駆けるそのバスは、時折ふしぎな世界へと迷い込む",
+      "condition": "Danaë's Dream Balcony、Corrupted Notebook、La Pigne、Coco Desert、EPACSE、Rainbow Screw Floorのバス停からAerobusに乗る",
       "checkbox": {
         "aerobus_balcony": "Danaë's Dream Balcony",
         "aerobus_notebook": "Corrupted Notebook",
@@ -10293,9 +10293,9 @@
       "condition": "Migraine HallwaysでCursed Roomイベントを見る、すでに見た場合はもう一度その部屋に向かう。"
     },
     "flight_dirt_field": {
-      "name": "Taking Flight",
-      "description": "Most cats can't fly, but this one certainly can!",
-      "condition": "Trigger the Black Cat Flight event in the Tower of Dirt Field"
+      "name": "飛翔",
+      "description": "ほとんどの猫は飛べないけど、この猫は間違いなく飛べる！",
+      "condition": "Dirt Fieldの塔でBlack Cat Flightイベントを見る"
     }
   },
   "ultraviolet": {
@@ -10858,9 +10858,9 @@
       "condition": "Vile Tunnelsに到達する"
     },
     "chaser_punishment": {
-      "name": "The Punishment of the World",
-      "description": "You can't escape the consequences of your actions.",
-      "condition": "After getting 25 HP or more in a single dream, suffer the Chaser Punishment in one of the Nexus worlds"
+      "name": "世界からの罰",
+      "description": "自分の行いの因果からは逃れられない。",
+      "condition": "一度の夢で２５以上のＨＰを得て、いずれかのNexusから行ける世界で追いかけからの罰を受ける"
     }
   },
   "tsushin": {
@@ -11191,14 +11191,14 @@
       "condition": "Azure Parkに到達する"
     },
     "head_space": {
-      "name": "Headspin",
-      "description": "Aren't you dizzy?",
-      "condition": "Visit Head Space"
+      "name": "ヘッドスピン",
+      "description": "目が回らないの？",
+      "condition": "Head Spaceに到達する"
     },
     "urban_cityscape": {
-      "name": "Embraced by the Urban Night",
-      "description": "Azure night sky, vibrant city lights.",
-      "condition": "Visit Urban Cityscape"
+      "name": "都会の夜に包まれて",
+      "description": "蒼い夜空、煌めく街の灯り。",
+      "condition": "Urban Cityscapeに到達する"
     }
   },
   "nostalgic": {
