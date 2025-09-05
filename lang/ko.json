@@ -11000,6 +11000,18 @@
       "name": "The Punishment of the World",
       "description": "You can't escape the consequences of your actions.",
       "condition": "After getting 25 HP or more in a single dream, suffer the Chaser Punishment in one of the Nexus worlds"
+    },
+    "skeleton_key_pick_pro": {
+      "name": "Key to the Unknown",
+      "description": "I wonder what mysterious things I'll uncover with this...",
+      "condition": "Use the Skeleton Key effect to unlock locked doors in Weather Station, Outback Roads, Pool World, Rainy Village, Garden Centre",
+      "checkbox": {
+        "skeleton_key_weather_station": "Weather Station",
+        "skeleton_key_outback_roads": "Outback Roads",
+        "magic_8_ball_room": "Pool World",
+        "skeleton_key_rainy_village": "Rainy Village",
+        "skeleton_key_garden_centre": "Garden Centre"
+      }
     }
   },
   "tsushin": {
