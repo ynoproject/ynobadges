@@ -7162,6 +7162,26 @@
       "name": "Pendule décorative",
       "description": "Et la voilà... oh... elle est partie... OH, elle est de retour !",
       "condition": "Visiter l'Ornament World"
+    },
+    "sign_room_fake_apartments": {
+      "name": "Signalisation",
+      "description": "Quelle direction faut-il suivre... ?",
+      "condition": "Visiter la Salle des Panneaux aux Fake Apartments"
+    },
+    "wrinkled_fields": {
+      "name": "Pluie sans fin",
+      "description": "Travaux sous pluie couleur lavande",
+      "condition": "Visiter les Wrinkled Fields"
+    },
+    "geode_valley": {
+      "name": "Crevasse de cristaux colorés",
+      "description": "Une mer de diamants bruts",
+      "condition": "Visiter la Geode Valley"
+    },
+    "carnage_carnival_girl": {
+      "name": "Monodrame d'une fille monochrome",
+      "description": "Meneuse de rubans éparpillés et d'innombrables épines.",
+      "condition": "Aller à la Forest of Reflections depuis le Carnage Carnival"
     }
   },
   "unconscious": {
@@ -8636,6 +8656,11 @@
       "name": "Que serait un monde sans musique ?",
       "description": "C'est si vide, si silencieux.",
       "condition": "Tuer les 3 guitaristes au Submarine Village, puis se faire attraper par les habitants vous pourchassant"
+    },
+    "corrupted_purity_womb_maze": {
+      "name": "Antre des affamés",
+      "description": "Fais attention où tu marches... ils meurent de faim.",
+      "condition": "Atteindre la Pureté Corrompue au Womb Maze"
     }
   },
   "prayers": {
@@ -8745,6 +8770,16 @@
       "name": "Prière d'exclusion",
       "description": "Te mets pas en travers de mon chemin",
       "condition": "Atteindre la salle de la prière Pelle dans l'Industrial Maze"
+    },
+    "outlands": {
+      "name": "Bougies et bienvenue",
+      "description": "Pourquoi me regardent-ils ?",
+      "condition": "Visiter les Outlands"
+    },
+    "hidden_room_spirit_town": {
+      "name": "Observateurs obscurs",
+      "description": "Ils observent... constamment... mais qui observe les observateurs ?",
+      "condition": "Trouver la salle cachée à la Spirit Town"
     }
   },
   "deepdreams": {
@@ -9499,6 +9534,11 @@
       "name": "Piscines qui coulent",
       "description": "J'aimerais tellement pouvoir être comme la lanterne",
       "condition": "Visiter les Abandoned Pools"
+    },
+    "urinal_smile_town": {
+      "name": "Fontaine onirique",
+      "description": "Ouvrez grand vos mirettes et admirez cet urinoir géant dans le ciel !",
+      "condition": "Trouver l'urinoir à Smile Town"
     }
   },
   "braingirl": {
@@ -10961,6 +11001,18 @@
       "name": "La punition du monde",
       "description": "Tu ne peux pas échapper aux conséquences de tes actions.",
       "condition": "Après avoir obtenu 25 PV ou plus en un seul rêve, subir la Punition des Chasseurs dans l'un des mondes du Nexus"
+    },
+    "skeleton_key_pick_pro": {
+      "name": "Clé vers l'inconnu",
+      "description": "J'me demande bien quels mystérieux secrets j'vais bien pouvoir trouver avec ça...",
+      "condition": "Utiliser l'effet Clé squelette pour déverrouiller les portes verrouillées à Weather Station, Outback Roads, Pool World, Rainy Village et Garden Centre",
+      "checkbox": {
+        "skeleton_key_weather_station": "Weather Station",
+        "skeleton_key_outback_roads": "Outback Roads",
+        "magic_8_ball_room": "Pool World",
+        "skeleton_key_rainy_village": "Rainy Village",
+        "skeleton_key_garden_centre": "Garden Centre"
+      }
     }
   },
   "tsushin": {

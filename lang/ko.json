@@ -7161,6 +7161,26 @@
       "name": "Ornament Pendulum",
       "description": "And there it goes... oh... it's gone... OH, it's back!",
       "condition": "Visit Ornament World"
+    },
+    "sign_room_fake_apartments": {
+      "name": "Signage",
+      "description": "What direction to follow...?",
+      "condition": "Visit the Sign Room in Fake Apartments"
+    },
+    "wrinkled_fields": {
+      "name": "Everlasting Rain",
+      "description": "Seems a little... crinkly?",
+      "condition": "Visit Wrinkled Fields"
+    },
+    "geode_valley": {
+      "name": "Crevasse Of Crystal Clusters",
+      "description": "A sea of diamonds in the rough",
+      "condition": "Visit Geode Valley"
+    },
+    "carnage_carnival_girl": {
+      "name": "Monodrama of a Monochrome Girl",
+      "description": "The guidance of scattered ribbons and countless thorns.",
+      "condition": "Go to Forest of Reflections from Carnage Carnival"
     }
   },
   "unconscious": {
@@ -8635,6 +8655,11 @@
       "name": "What Would a World Be Without Music?",
       "description": "It feels so empty, so quiet.",
       "condition": "Kill the 3 guitarists in the Submarine Village, then allow yourself to be caught by the non-guitarists that chase you"
+    },
+    "corrupted_purity_womb_maze": {
+      "name": "Den of the Famished Ones",
+      "description": "Mind your step... it hungers.",
+      "condition": "Reach Corrupted Purity in the Womb Maze"
     }
   },
   "prayers": {
@@ -8744,6 +8769,16 @@
       "name": "Exclusion Prayer",
       "description": "Don't stand in front of me",
       "condition": "Reach the room of the Shovel prayer in Industrial Maze"
+    },
+    "outlands": {
+      "name": "Candle-lit Welcome",
+      "description": "Why are they staring at me?",
+      "condition": "Visit the Outlands"
+    },
+    "hidden_room_spirit_town": {
+      "name": "Watchers of the Ways",
+      "description": "They're watching... always watching... but who watches the watchers?",
+      "condition": "Find the hidden room in Spirit Town"
     }
   },
   "deepdreams": {
@@ -9498,6 +9533,11 @@
       "name": "Sinking Pools",
       "description": "I wish I could just be like the lantern",
       "condition": "Visit Abandoned Pools"
+    },
+    "urinal_smile_town": {
+      "name": "Dream Fountain",
+      "description": "Gaze your eyes upon the giant urinal in the sky",
+      "condition": "Find the urinal in Smile Town"
     }
   },
   "braingirl": {
@@ -10960,6 +11000,18 @@
       "name": "The Punishment of the World",
       "description": "You can't escape the consequences of your actions.",
       "condition": "After getting 25 HP or more in a single dream, suffer the Chaser Punishment in one of the Nexus worlds"
+    },
+    "skeleton_key_pick_pro": {
+      "name": "Key to the Unknown",
+      "description": "I wonder what mysterious things I'll uncover with this...",
+      "condition": "Use the Skeleton Key effect to unlock locked doors in Weather Station, Outback Roads, Pool World, Rainy Village, Garden Centre",
+      "checkbox": {
+        "skeleton_key_weather_station": "Weather Station",
+        "skeleton_key_outback_roads": "Outback Roads",
+        "magic_8_ball_room": "Pool World",
+        "skeleton_key_rainy_village": "Rainy Village",
+        "skeleton_key_garden_centre": "Garden Centre"
+      }
     }
   },
   "tsushin": {
