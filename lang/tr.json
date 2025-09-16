@@ -7214,6 +7214,47 @@
       "name": "Cascade of Youth",
       "description": "Chill, relax",
       "condition": "Find the waterfall in Radiant Waters"
+    },
+    "heart_creature_natl": {
+      "name": "Red Velvet Valentine",
+      "description": "In your strangest, sweetest dreams, there lies a heart- a cordiform friend that beats just for you.",
+      "condition": "Find the heart creature where it can be found in Celestial Night, Cocktail Lounge (room and roof), Shop Ruins, and Strawberry Milk Sea",
+      "checkbox": {
+        "heart_creature_celestial_night": "Celestial Night",
+        "heart_creature_cocktail_roof": "roof",
+        "heart_creature_cocktail_room_a|heart_creature_cocktail_room_b|heart_creature_cocktail_room_c": "room",
+        "heart_creature_shop_ruins": "Shop Ruins",
+        "heart_creature_strawberry_milk": "Strawberry Milk Sea"
+      }
+    },
+    "snowdrop_garden": {
+      "name": "So... Do You Like Snowdrops?",
+      "description": "Maybe get a scarf, wouldn't you?",
+      "condition": "Visit Snowdrop Garden"
+    },
+    "litter_heaven": {
+      "name": "Recycler's Paradise",
+      "description": "Is this where all the good litter goes?",
+      "condition": "Visit Litter Heaven"
+    },
+    "still_life": {
+      "name": "Eternalized Nature",
+      "condition": "Visit Still Life"
+    },
+    "moonlit_pharmacy_society": {
+      "name": "Remembered Me?",
+      "description": "But darling, you still can't forget me, can you?",
+      "condition": "Go to Secret Society from Moonlit Pharmacy"
+    },
+    "headless_flooded_hotel": {
+      "name": "Beheaded Maiden",
+      "description": "Who could've bestowed such a gruesome fate upon you?",
+      "condition": "See the headless woman in Flooded Hotel"
+    },
+    "memory_game_fliperama": {
+      "name": "Long-Term Memory",
+      "description": "You've wandered through the maze of retro classics, solved tricky puzzles and stopped time, creeped through the depths of the basement, and breached your way through security. Now claim your prize, and train your brain, to fix what has been broken by you.",
+      "condition": "Obtain the MEMORY GAME.exe minigame. If you have already unlocked it, return where it can be found in Fliperama Hall."
     }
   },
   "unconscious": {
@@ -8380,6 +8421,35 @@
       "name": "Submersion of a Vague Silhouette",
       "description": "A parting rain that bids you not to leave.",
       "condition": "Interact with the Rain Girl in Industrial Waters"
+    },
+    "maid_mask_sandstone_resort": {
+      "name": "At Your Service, Master!",
+      "description": "Cute, clever, and always one step ahead - your perfect maid is here!",
+      "condition": "Equip the maid mask where it can be found in Sandstone Resort"
+    },
+    "fishbone_path_corrupted_school": {
+      "name": "Veiled in Silence",
+      "description": "Where the flower sleeps in monochrome silence",
+      "condition": "Reach the Fishbone Path of Corrupted School"
+    },
+    "strange_channel_sunset_woods": {
+      "name": "Please Stand By",
+      "description": "We're currently experiencing technical difficulties.",
+      "condition": "Trigger the Strange Channel event in Sunset Woods"
+    },
+    "effigy_dim_nexus": {
+      "name": "My Model",
+      "description": "A representation of this world",
+      "condition": "Trigger the Effigy event in Dim Nexus"
+    },
+    "flower_girl_corrupted_school": {
+      "name": "Fading Scent of an Ephemeral Bloom",
+      "description": "Is it a kind of corrupted brilliance, or pure chaos? The thought alone gives me a faint dizziness.",
+      "condition": "See the Flower Girl in her normal and corrupted versions in Corrupted School",
+      "checkbox": {
+        "flower_girl_corrupted_school_n": "normal",
+        "flower_girl_corrupted_school_c": "corrupted"
+      }
     }
   },
   "flow": {
@@ -8698,6 +8768,11 @@
       "name": "Den of the Famished Ones",
       "description": "Mind your step... it hungers.",
       "condition": "Reach Corrupted Purity in the Womb Maze"
+    },
+    "corpse_effect": {
+      "name": "Reanimated",
+      "description": "Die for me, living dead girl...",
+      "condition": "Obtain the Corpse effect. If you have already unlocked it, return where it can be found in Prison."
     }
   },
   "prayers": {
@@ -9235,6 +9310,11 @@
       "name": "Colorful Shore",
       "description": "After every rain comes a rainbow",
       "condition": "Make a rainbow appear at the Beach"
+    },
+    "relaxing_room_school": {
+      "name": "A Peace Long Gone",
+      "description": "Wish I could be there...",
+      "condition": "Visit the Relaxing Room in School World"
     }
   },
   "unevendream": {
@@ -9576,6 +9656,11 @@
       "name": "Dream Fountain",
       "description": "Gaze your eyes upon the giant urinal in the sky",
       "condition": "Find the urinal in Smile Town"
+    },
+    "nightcap_effect": {
+      "name": "Plunging into Dreamland",
+      "description": "Ready to slip into the dreamland!",
+      "condition": "Obtain the Nightcap effect. If you have already unlocked it, return where it can be found in the Sky Path of the Star Field."
     }
   },
   "braingirl": {
@@ -10277,6 +10362,11 @@
       "name": "Shutter Bathed in Blood",
       "description": "Miss, care for a photo to mark our little encounter? No need to be so tense... it's just a keepsake.",
       "condition": "Interact with the Blood Girl in the Sea of Blood"
+    },
+    "red_sight": {
+      "name": "Red Raging Corridor",
+      "description": "Congratulations! You are now safe! Or... are you?",
+      "condition": "Reach Red Sight"
     }
   },
   "mikan": {
