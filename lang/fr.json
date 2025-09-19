@@ -7182,6 +7182,116 @@
       "name": "Monodrame d'une fille monochrome",
       "description": "Meneuse de rubans éparpillés et d'innombrables épines.",
       "condition": "Aller à la Forest of Reflections depuis le Carnage Carnival"
+    },
+    "sunken_girl_ship_pastel_sea": {
+      "name": "Fille du fond marin",
+      "description": "Ne sois pas aussi violente dans cette salle...",
+      "condition": "Voir toutes les réactions de la Fille des Profondeurs au Manoir du Navire Englouti de la Pastel Dream Sea"
+    },
+    "winter_petal_nebula": {
+      "name": "Violette cosmique",
+      "description": "Une floraison céleste prospérante dans les passages gelés du cosmos.",
+      "condition": "Visiter la Winter Petal Nebula"
+    },
+    "cake_bwr_room": {
+      "name": "Pour moi ?!?",
+      "description": "Qui a parlé de mensonge ?",
+      "condition": "Interagir avec la fille de la Salle Blanche-Noire-Rouge du White Lily Laboratory en utilisant l'effet Gâteau"
+    },
+    "false_guardians_trial_veracity": {
+      "name": "Acceptation",
+      "description": "Seulement après avoir tout enduré, on peut commencer à voir clairement",
+      "condition": "Voir les formes véritables des False Guardians aux False Guardians' Trials"
+    },
+    "shin_sotsu_temple": {
+      "name": "Protecteur des rêves... ?",
+      "description": "As-tu créé ce rêve ? Ou vas-tu le détruire... ?",
+      "condition": "Rencontrer Shin et Sotsu aux Shadowy Caves"
+    },
+    "shunned_street_hill": {
+      "name": "Écho au clair de lune de nous deux",
+      "description": "Seuls la lune et nous conservont les souvenirs de ces jours heureux.",
+      "condition": "Voir les deux filles en même temps dans la zone panoramique de la Shunned Street"
+    },
+    "amethyst_ocean": {
+      "name": "Racines stroboscopiques",
+      "description": "Algue arc-en-ciel dans un monde mauve",
+      "condition": "Visiter l'Amethyst Ocean"
+    },
+    "waterfall_radiant_ruins": {
+      "name": "Cascade de jouvence",
+      "description": "Calme et sereine",
+      "condition": "Trouver la cascade aux Radiant Waters"
+    },
+    "heart_creature_natl": {
+      "name": "Amant écarlate de velours",
+      "description": "Dans tes rêves les plus étranges et les plus doux, gît un coeur - un ami cordiforme battant la chamade rien que pour toi.",
+      "condition": "Trouver la créature cœur là où elle peut être trouvée à Celestial Night, Cocktail Lounge (salle et toit), Shop Ruins et Strawberry Milk Sea",
+      "checkbox": {
+        "heart_creature_celestial_night": "Celestial Night",
+        "heart_creature_cocktail_roof": "toit",
+        "heart_creature_cocktail_room_a|heart_creature_cocktail_room_b|heart_creature_cocktail_room_c": "salle",
+        "heart_creature_shop_ruins": "Shop Ruins",
+        "heart_creature_strawberry_milk": "Strawberry Milk Sea"
+      }
+    },
+    "snowdrop_garden": {
+      "name": "Donc... tu aimes les perce-neiges ?",
+      "description": "Tu ferais mieux de mettre une écharpe, tu penses pas ?",
+      "condition": "Visiter le Snowdrop Garden"
+    },
+    "litter_heaven": {
+      "name": "Paradis des recycleurs",
+      "description": "Est-ce ici que tous les bons détritus partent ?",
+      "condition": "Visiter le Litter Heaven"
+    },
+    "still_life": {
+      "name": "Nature éternelle",
+      "condition": "Visiter Still Life"
+    },
+    "moonlit_pharmacy_society": {
+      "name": "Tu ne m'as pas oublié ?",
+      "description": "Mais chéri, tu ne peux toujours pas m'ignorer et m'oublier, pas vrai ?",
+      "condition": "Aller à Secret Society depuis la Moonlit Pharmacy"
+    },
+    "headless_flooded_hotel": {
+      "name": "Jeune fille sans tête",
+      "description": "Qui aurait bien pu te faire subir un tel sort tragique ?",
+      "condition": "Voir la femme sans tête au Flooded Hotel"
+    },
+    "memory_game_fliperama": {
+      "name": "Mémoire merveilleuse",
+      "description": "Tu as navigué dans un labyrinthe de classiques rétro, tu as résolu des puzzles ardus et arrêté le temps, tu t'es faufilée dans les profondeurs du sous-sol, et tu t'es frayée un chemin à travers la sécurité. Maintenant, reçois le prix de ton dur labeur et fais marcher tes neurones, pour réparer ce qui a été brisé en toi.",
+      "condition": "Obtenir le mini-jeu MEMORY GAME.exe. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Fliperama Hall."
+    },
+    "person_abandoned_underpass": {
+      "name": "Géant observateur",
+      "description": "Wouah",
+      "condition": "Voir le Géant à l'Abandoned Underpass"
+    },
+    "rustic_forest_park": {
+      "name": "Orangerie oubliée",
+      "condition": "Visiter le Rustic Forest Park"
+    },
+    "seal_blue_cactus_islands": {
+      "name": "Selkie magique violette !!!",
+      "description": "Elle a été forcée de devenir humaine lorsque tu as mis tes lunettes",
+      "condition": "Trouver le phoque aux Blue Cactus Islands et révéler son identité"
+    },
+    "farmland_sunset": {
+      "name": "Champs ambre et coucher cramoisi",
+      "description": "Les oreilles dorées oscillent et murmurent la direction du vent.",
+      "condition": "Visit MAP3460 (do not translate)"
+    },
+    "girl_crystal_waters": {
+      "name": "Cristal pur",
+      "description": "Sa véritable identité est intrigante.",
+      "condition": "Trouver le nounours aux Crystal Waters"
+    },
+    "priestess_v_bamboo_forest": {
+      "name": "Colère de la prêtresse féline",
+      "description": "Elle est mignonne. Elle est sacrée. Elle est furax !",
+      "condition": "Énerver la prêtresse à la Vermilion Bamboo Forest"
     }
   },
   "unconscious": {
@@ -8343,6 +8453,50 @@
       "name": "Le lécheur machiavélique",
       "description": "Je suis... celui qui lèche...",
       "condition": "Caresser le lapin géant au ASCII World"
+    },
+    "rain_girl_industrial_waters": {
+      "name": "Immersion d'une vague silhouette",
+      "description": "Une pluie d'au revoir t'invitant à ne pas partir.",
+      "condition": "Interagir avec la Fille de la Pluie aux Industrial Waters"
+    },
+    "maid_mask_sandstone_resort": {
+      "name": "À votre service, Maître !",
+      "description": "Mignonne, maline, et avec toujours un coup d'avance - votre servante parfaite est là !",
+      "condition": "Équiper le masque de servante là où il peut être trouvé au Sandstone Resort"
+    },
+    "fishbone_path_corrupted_school": {
+      "name": "Recouvert de silence",
+      "description": "Là où la fleur repose dans un silence monochrome",
+      "condition": "Atteindre le Passage Arêtes de la Corrupted School"
+    },
+    "strange_channel_sunset_woods": {
+      "name": "Veuillez patienter...",
+      "description": "Nous rencontrons actuellement des problèmes techniques.",
+      "condition": "Déclencher l'événement de l'Étrange Chaîne aux Sunset Woods"
+    },
+    "effigy_dim_nexus": {
+      "name": "Mon modèle",
+      "description": "Une représentation de ce monde",
+      "condition": "Déclencher l'événement Effigie au Dim Nexus"
+    },
+    "flower_girl_corrupted_school": {
+      "name": "Dissipation d'un parfum d'une floraison éphémère",
+      "description": "Est-ce une sorte d'éclat corrompu, ou purement de chaos ? Cette pensée à elle seule me donne un léger vertige.",
+      "condition": "Voir la Fille Fleur dans sa version normale et sa version corrompue à la Corrupted School",
+      "checkbox": {
+        "flower_girl_corrupted_school_n": "normale",
+        "flower_girl_corrupted_school_c": "corrompue"
+      }
+    },
+    "lovers_bridge": {
+      "name": "Ailes pures dans la nuit",
+      "description": "Là où les oiseaux roucoulent",
+      "condition": "Visiter le Lover's Bridge"
+    },
+    "snow_vista_aerial_virtue": {
+      "name": "Océan glacé",
+      "description": "La où la souveraine des neiges marche, les océans, même les plus rouges, perdent leur couleur",
+      "condition": "Amener la neige au Panorama d'Aerial Virtue"
     }
   },
   "flow": {
@@ -8661,6 +8815,11 @@
       "name": "Antre des affamés",
       "description": "Fais attention où tu marches... ils meurent de faim.",
       "condition": "Atteindre la Pureté Corrompue au Womb Maze"
+    },
+    "corpse_effect": {
+      "name": "Réanimée",
+      "description": "Meurt pour moi, jeune fille mourante...",
+      "condition": "Obtenir l'effet Cadavre. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à la Prison."
     }
   },
   "prayers": {
@@ -9198,6 +9357,11 @@
       "name": "Rivage coloré",
       "description": "Après chaque pluie vient un arc-en-ciel",
       "condition": "Faire apparaître un arc-en-ciel à la Beach"
+    },
+    "relaxing_room_school": {
+      "name": "Paix depuis longtemps disparue",
+      "description": "J'aurais tellement voulu y être...",
+      "condition": "Visiter la Salle Reposante au School World"
     }
   },
   "unevendream": {
@@ -9539,6 +9703,11 @@
       "name": "Fontaine onirique",
       "description": "Ouvrez grand vos mirettes et admirez cet urinoir géant dans le ciel !",
       "condition": "Trouver l'urinoir à Smile Town"
+    },
+    "nightcap_effect": {
+      "name": "Plongeon dans le pays des rêves",
+      "description": "Je suis prête à rejoindre le monde des rêves !",
+      "condition": "Obtenir l'effet Bonnet de nuit. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Passage Céleste du Star Field."
     }
   },
   "braingirl": {
@@ -9813,6 +9982,11 @@
         "aerobus_epacse": "EPACSE",
         "aerobus_screw_floor": "le Rainbow Screw Floor"
       }
+    },
+    "holy_sea": {
+      "name": "Ascension au paradis",
+      "description": "Envolons-nous tous très, très haut dans le ciel",
+      "condition": "Atteindre l'Holy Sea"
     }
   },
   "muma": {
@@ -10235,6 +10409,21 @@
       "name": "Rêve astral",
       "description": "Par-delà les nuages, les soucis nous passent au dessus de nous",
       "condition": "Déclencher l'événement Dans l'Espace à la Rocket Station"
+    },
+    "blood_girl_sea_of_blood": {
+      "name": "Œillet baigné de sang",
+      "description": "Mademoiselle, pourrions-nous faire une photo ensemble pour marquer notre petite rencontre ? Nul besoin d'être si tendue... ce n'est qu'un simple souvenir.",
+      "condition": "Interagir avec la Fille Ensanglantée à la Sea of Blood"
+    },
+    "red_sight": {
+      "name": "Couloir rouge sang",
+      "description": "Félicitations ! Tu es désormais en sécurité ! Ou... l'es-tu vraiment ?",
+      "condition": "Atteindre la Red Sight"
+    },
+    "cat_3d_mecha_path": {
+      "name": "Tu m'as trouvé !",
+      "description": "Les chatons cachés se cachent dans de charmants chemins que les chafouins chercheurs cherchent chaotiquement",
+      "condition": "Révéler le chat invisible au 3D Mecha Path"
     }
   },
   "mikan": {
@@ -10431,6 +10620,11 @@
       "name": "Désolé, je mourais de faim.",
       "description": "C'est tellement répugnant, mais je ne peux pas m'arrêter.",
       "condition": "Voir la fin #3"
+    },
+    "projector_room_muzou": {
+      "name": "Projection du regret",
+      "description": "Pour voir ta propre erreur",
+      "condition": "Visiter la Projector Room"
     }
   },
   "ultraviolet": {
@@ -11462,6 +11656,11 @@
       "name": "Bonne nuit.",
       "description": "Tu seras ici bientôt.",
       "condition": "Voir l'arbre des rêves aux Sleeping Flowers"
+    },
+    "orgel_house_tricolor_park": {
+      "name": "Là où le soleil et la lune observent et alternent",
+      "description": "Bienvenue dans ma chambre !",
+      "condition": "Éteindre les lumières dans la Maison Orgel du Tricolor Park"
     }
   },
   "if": {
