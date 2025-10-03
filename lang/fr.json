@@ -5920,7 +5920,7 @@
     "2kki_menu_83": {
       "name": "Trou Tomate : Thème du Jeu Pizza",
       "description": "Cowabunga, c'est l'heure de se manger une pizza !!",
-      "condition": "Obtenir le style de menu 83. Si vous l'avez déjà débloqué, retournez au Domino Maze."
+      "condition": "Obtenir le style de menu 83. Si vous l'avez déjà obtenu, retournez au Domino Maze."
     },
     "vibrant_funhouse": {
       "name": "Manoir marrant mystérieux d'Urotsuki",
@@ -6024,7 +6024,7 @@
     "girl_dream_precint": {
       "name": "Représailles",
       "description": "Protège tes bien-aimés",
-      "condition": "Tronçonner la Cheffe de la Police aux cheveux turquoises au Dream Precinct"
+      "condition": "Tronçonner la Détective aux cheveux turquoises au Dream Precinct"
     },
     "creature_downfall_garden_a": {
       "name": "Le caresseur",
@@ -7281,7 +7281,7 @@
     "farmland_sunset": {
       "name": "Champs ambre et coucher cramoisi",
       "description": "Les oreilles dorées oscillent et murmurent la direction du vent.",
-      "condition": "Visit MAP3460 (do not translate)"
+      "condition": "Voir la vue panoramique aux Barley Docks"
     },
     "girl_crystal_waters": {
       "name": "Cristal pur",
@@ -7351,6 +7351,61 @@
       "name": "Rêve rouillé",
       "description": "Là-haut, tout là-haut, un rêve rouillé de là où nous appartenons",
       "condition": "Visiter la Rusted City"
+    },
+    "himawari_mask_garden_festival": {
+      "name": "Yoru no Himawari",
+      "description": "Plantons un jardin ensemble !",
+      "condition": "Équiper le masque de Mme Himawari au Garden Festival"
+    },
+    "sanguine_stare": {
+      "name": "Saignant mais optimiste",
+      "description": "Même en faisant face au désespoir, je souris gaiement.",
+      "condition": "Visiter le Sanguine Stare"
+    },
+    "head_blood_chalice_desolation": {
+      "name": "Humain aux airs de calice",
+      "description": "Laisse au moins quelque chose pour que les autres puissent boire !",
+      "condition": "Voir la tête humaine calice au Blood Chalice Desolation"
+    },
+    "onigiri_mttop_pleasure_street": {
+      "name": "Bain public à ciel ouvert et onigiri",
+      "description": "Rafraîchis-toi l'esprit et le corps !",
+      "condition": "Atteindre le Sommet Onigiri à la Pleasure Street"
+    },
+    "tunnel_udw_amuse_park": {
+      "name": "Un millier de salutations",
+      "description": "Bienvenue à l'endroit le plus humide sur terre !",
+      "condition": "Atteindre le Tunnel Aquatique à l'Underwater Amusement Park"
+    },
+    "fox_blood_rose_canal": {
+      "name": "Silence éloquent",
+      "description": "Dans une terre silencieuse où les mots humains ont disparu, je reste avec les roses, t'appelant d'un murmure aphone.",
+      "condition": "Trouver la fille renarde au Blood Rose Canal"
+    },
+    "cocktail_lounge_florist_area": {
+      "name": "Moments spéciaux",
+      "description": "C'est si beau que ça empoisonne...",
+      "condition": "Aller au Cocktail lounge depuis Florist"
+    },
+    "snowman_world_vendor": {
+      "name": "Vendeur neigeux",
+      "description": "Vous n'êtes pas sûr qu'il soit vivant, ou qu'il soit une création purement humaine. Dans les deux cas, cela reste une expérience de pensée très intéressante.",
+      "condition": "Acheter quelque chose du bonhomme de neige au Snowman World"
+    },
+    "ghost_rice_field": {
+      "name": "Presque disparu...",
+      "description": "... mais pas encore oublié",
+      "condition": "Révéler le fantôme sur les rails de train en utilisant l'effet Lunettes au Rice Field"
+    },
+    "lila_spacey_retreat": {
+      "name": "Chat spatial",
+      "description": "Pourquoi ne pas s'asseoir et se reposer un peu ?",
+      "condition": "Interagir avec Lila à Spacey Retreat"
+    },
+    "yellow_dancer_calico_forest": {
+      "name": "Danseur des bois",
+      "description": "Y a juste besoin d'une boombox et tout est prêt !",
+      "condition": "Rencontrer le danseur jaune à la Calico Forest"
     }
   },
   "unconscious": {
@@ -8253,7 +8308,7 @@
     "tooth_menu_sickly_sweet": {
       "name": "Douce tentation",
       "description": "Tu ne peux plus sortir maintenant",
-      "condition": "Obtenir le thème de menu Carie. Si vous l'avez déjà débloqué, retournez là où il peut être trouvé à Sickly Sweet."
+      "condition": "Obtenir le thème de menu Carie. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à Sickly Sweet."
     },
     "tree_flesh_pit": {
       "name": "La forêt qui te déteste",
@@ -8571,6 +8626,21 @@
       "name": "Hypnotiseur",
       "description": "Démons de violet et de vert passeront, violent devant vous ils seront",
       "condition": "Déclencher l'événement du Démon Stroboscopique au Neo Aztec Club"
+    },
+    "sweet_menu": {
+      "name": "Que le show commence !",
+      "description": "Sous le projecteur, le rideau se lève enfin.",
+      "condition": "Obtenir le thème de menu Sucrerie. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Sweets Circus."
+    },
+    "neon_glasses_rgb_sewers": {
+      "name": "Fièvre du Samedi Soir",
+      "description": "Alors je danse, je danse, je danse !!!",
+      "condition": "Équiper le masque lunettes néon là où il peut être trouvé aux RGB Sewers"
+    },
+    "nancy_stellar_basin": {
+      "name": "À tes côtés",
+      "description": "Tout ce que je demande, c'est de pouvoir m'asseoir à tes côtés silencieusement.",
+      "condition": "S'asseoir à côté de Nancy au Stellar Basin"
     }
   },
   "flow": {
@@ -8894,6 +8964,15 @@
       "name": "Réanimée",
       "description": "Meurt pour moi, jeune fille mourante...",
       "condition": "Obtenir l'effet Cadavre. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à la Prison."
+    },
+    "cleaner_ending": {
+      "name": "Bienfaisance froide",
+      "condition": "Voir la Fin de la Femme de Ménage"
+    },
+    "night_visit_deterioration": {
+      "name": "La violence qui pourrissait dans les ténèbres",
+      "description": "À une masse de cheveux de la violence.",
+      "condition": "Voir entièrement l'événement de Visite Nocturne à Deterioration"
     }
   },
   "prayers": {
@@ -9876,6 +9955,11 @@
       "name": "Souvenir oublié rappelé",
       "description": "De la verdure se rassemble et pousse dans ces souvenirs manquants.",
       "condition": "Obtenir le Thème de Menu Mousse. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Shrine Garden."
+    },
+    "electric_light_effect": {
+      "name": "Électricité de poche",
+      "description": "Le fardeau de Mikan est-il d'apporter la lumière ?",
+      "condition": "Obtenir l'effet Lumière. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé dans la sous-zone Ascension du Jardin du Shrine Garden."
     }
   },
   "amillusion": {
@@ -10169,12 +10253,12 @@
     "ok_drinks": {
       "name": "Meilleures boissons",
       "description": "Tu veux boire quelque chose ? OK te fournira les meilleures boissons gazeuses",
-      "condition": "Aller voir les deux publicités dans les rues de Chicago"
+      "condition": "Voir les deux publicités dans les rues de Chicago"
     },
     "best_thief": {
       "name": "Meilleure voleuse DE TOUT LES TEMPS !",
       "description": "Il est toujours bon de rappeler quand on organise un grand braquage !",
-      "condition": "Avoir le souvenir Diamant de débloqué et aller sur la Carte de Chicago"
+      "condition": "Aller à Chicago après avoir obtenu le souvenir Diamant"
     },
     "rockin_settlement": {
       "name": "Rockin'",
@@ -10307,6 +10391,11 @@
       "name": "Heure du thé chez le lapins",
       "description": "En retard ! En retard ! J'ai rendez-vous quelque part !",
       "condition": "Voir les deux lapins profiter d'une collation au Sugar Maze"
+    },
+    "music_room": {
+      "name": "Pas à pas",
+      "description": "Remémore-toi des pas que tu as fait, en te servant de la musique comme guide.",
+      "condition": "Visiter la Music Room"
     }
   },
   "genie": {
@@ -11629,6 +11718,11 @@
       "name": "Fête en pyjama lunaire",
       "description": "Un monde tout doux sans gravité rempli de bonnes humeurs dans mon doux pyjama !",
       "condition": "Obtenir l'effet Pyjama. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à Moon."
+    },
+    "hand_puppet_effect": {
+      "name": "Doux théâtre",
+      "description": "« Salut ! Moi c'est Wormiko ! Et moi, c'est Miniko ! Bonjour !! »",
+      "condition": "Obtenir l'effet Marionnette. Si vous l'avez déjà obtenu, retournez à Seaside."
     }
   },
   "nostalgic": {
@@ -11868,6 +11962,11 @@
       "name": "Oracle de l'aube",
       "description": "La lumière du soleil est trop éblouissante pour moi...",
       "condition": "Obtenir l'effet Parasol. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Colored Block World."
+    },
+    "bass_effect": {
+      "name": "Fille familière",
+      "description": "Nous avions les mêmes passe-temps et des goûts similaires... Nous étions des amies proches, pas vrai ? Ou bien... ?",
+      "condition": "Voir la variante de l'effet Basse"
     }
   },
   "oneshot": {

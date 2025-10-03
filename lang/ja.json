@@ -7366,6 +7366,61 @@
       "name": "Rusted Dream",
       "description": "Up, up above, a rusted dream of where we belong",
       "condition": "Visit Rusted City"
+    },
+    "himawari_mask_garden_festival": {
+      "name": "Yoru no Himawari",
+      "description": "Let's plant a garden together!",
+      "condition": "Equip Ms. Himawari mask in Garden Festival"
+    },
+    "sanguine_stare": {
+      "name": "Bloodied yet Optimistic",
+      "description": "Even in the face of despair, I smile with glee.",
+      "condition": "Visit Sanguine Stare"
+    },
+    "head_blood_chalice_desolation": {
+      "name": "Human Looking Chalice",
+      "description": "At least leave something for the others to drink!",
+      "condition": "See the human head chalice in Blood Chalice Desolation"
+    },
+    "onigiri_mttop_pleasure_street": {
+      "name": "Onigiri Open-air Bath",
+      "description": "Refresh your body and mind!",
+      "condition": "Reach the Onigiri Mountaintop in Pleasure Street"
+    },
+    "tunnel_udw_amuse_park": {
+      "name": "A Thousand Greetings",
+      "description": "Welcome to the wettest place on earth!",
+      "condition": "Reach the Water Tunnel of Underwater Amusement Park"
+    },
+    "fox_blood_rose_canal": {
+      "name": "Eloquent Silence",
+      "description": "In a silent land where no human words remain, I stay with the roses, calling to you in a voiceless whisper.",
+      "condition": "Find the fox girl in Blood Rose Canal"
+    },
+    "cocktail_lounge_florist_area": {
+      "name": "特別なひとり時間",
+      "description": "酔いしれるほどに美しい…",
+      "condition": "花屋からカクテルに到達する"
+    },
+    "snowman_world_vendor": {
+      "name": "Snowy Vendor",
+      "description": "You're not sure it's alive or a manmade creation. Either way, it's a funny thing to think about.",
+      "condition": "Buy a snack from the snowman in Snowman World"
+    },
+    "ghost_rice_field": {
+      "name": "Almost Gone",
+      "description": "But not quite forgotten",
+      "condition": "Reveal the ghost on the train tracks by using the Glasses effect in Rice Field"
+    },
+    "lila_spacey_retreat": {
+      "name": "Space Cat",
+      "description": "Why not sit down and relax a bit?",
+      "condition": "Interact with Lila in Spacey Retreat"
+    },
+    "yellow_dancer_calico_forest": {
+      "name": "Forest Dancer",
+      "description": "All you need is a boom box and you're set!",
+      "condition": "Encounter the yellow dancer in Calico Forest"
     }
   },
   "unconscious": {
@@ -8586,6 +8641,21 @@
       "name": "催眠術師",
       "description": "紫と緑の悪魔たちが、燦然と画面を駆けていくだろう",
       "condition": "ネオン民族クラブで点滅するタイルを調べてイベントを見る"
+    },
+    "sweet_menu": {
+      "name": "Let the Show Begin!",
+      "description": "Bathed in spotlight, the curtain rises now.",
+      "condition": "Obtain the Sweet menu theme. If you have already unlocked it, return where it can be found in Sweets Circus."
+    },
+    "neon_glasses_rgb_sewers": {
+      "name": "Can't Stop the Feeling",
+      "description": "So just dance, dance, dance!",
+      "condition": "Equip the neon glasses mask where it can be found in RGB Sewers"
+    },
+    "nancy_stellar_basin": {
+      "name": "Beside You",
+      "description": "All I ask is to sit quietly by your side.",
+      "condition": "Sit next to Nancy in Stellar Basin"
     }
   },
   "flow": {
@@ -8909,6 +8979,15 @@
       "name": "蘇生",
       "description": "私のために死んでくれ、生ける屍の少女よ……",
       "condition": "したいのエフェクトを入手する、すでに入手している場合は末路の見つけた場所に行く。"
+    },
+    "cleaner_ending": {
+      "name": "冷徹な恩情",
+      "condition": "See the Cleaner Ending"
+    },
+    "night_visit_deterioration": {
+      "name": "Violence That Festered in the Dark",
+      "description": "A hair’s breadth away from violence.",
+      "condition": "Fully see the Night Visit event in Deterioration"
     }
   },
   "prayers": {
@@ -9891,6 +9970,11 @@
       "name": "忘れられた記憶の回収",
       "description": "記憶の彼方には緑のモノが満ちる",
       "condition": "メニュータイプ「コケ」を入手する、すでに入手している場合はShrine Gardenの見つけた場所に行く。"
+    },
+    "electric_light_effect": {
+      "name": "Handy Electricity",
+      "description": "Is Mikan's burden light?",
+      "condition": "Obtain the Electric Light effect. If you have already unlocked it, return where it can be found in the Garden Ascend sub-area of Shrine Garden."
     }
   },
   "amillusion": {
@@ -10322,6 +10406,11 @@
       "name": "ウサギのお茶会",
       "description": "遅刻だ！遅刻だ！大事な予定があるのに！",
       "condition": "Sugar Mazeで砂糖を楽しむ２羽のウサギを見る"
+    },
+    "music_room": {
+      "name": "Steps Along the Way",
+      "description": "Reflect on the steps you've taken, with music as your guide.",
+      "condition": "Visit the Music Room"
     }
   },
   "genie": {
@@ -11644,6 +11733,11 @@
       "name": "月面パジャマパーティー",
       "description": "ふわふわな身軽な世界、やわらかなパジャマで楽しい気分！",
       "condition": "Pajamasのエフェクトを入手する、すでに入手している場合はMoonの見つけた場所に行く。"
+    },
+    "hand_puppet_effect": {
+      "name": "Fluffy Theater",
+      "description": "My little friend!",
+      "condition": "Obtain the Hand Puppet effect. If you have already unlocked it, return to Seaside."
     }
   },
   "nostalgic": {
@@ -11883,6 +11977,11 @@
       "name": "天啓の夜明け",
       "description": "日差しが眩しすぎる……",
       "condition": "ひがさのエフェクトを入手する、すでに入手している場合はColored Block Worldの見つけた場所に行く。"
+    },
+    "bass_effect": {
+      "name": "A girl I Recognize",
+      "description": "We had the same hobbies, matching things... We were close friends, right? Or...?",
+      "condition": "See the variant of the Bass effect"
     }
   },
   "oneshot": {

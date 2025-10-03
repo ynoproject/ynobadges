@@ -6036,7 +6036,7 @@
     "girl_dream_precint": {
       "name": "报复",
       "description": "保护你珍视的人们",
-      "condition": "尝试在Dream Precinct锯掉绿发头领"
+      "condition": "Chainsaw the Detective with turquoise hair in Dream Precinct"
     },
     "creature_downfall_garden_a": {
       "name": "揉捏者",
@@ -7293,7 +7293,7 @@
     "farmland_sunset": {
       "name": "琥珀田野与绯色黄昏",
       "description": "金黄的麦浪聆听着风的低语。",
-      "condition": "Visit MAP3460 (do not translate)"
+      "condition": "See the view from Barley Docks"
     },
     "girl_crystal_waters": {
       "name": "凝视水晶",
@@ -7363,6 +7363,61 @@
       "name": "Rusted Dream",
       "description": "Up, up above, a rusted dream of where we belong",
       "condition": "Visit Rusted City"
+    },
+    "himawari_mask_garden_festival": {
+      "name": "Yoru no Himawari",
+      "description": "Let's plant a garden together!",
+      "condition": "Equip Ms. Himawari mask in Garden Festival"
+    },
+    "sanguine_stare": {
+      "name": "Bloodied yet Optimistic",
+      "description": "Even in the face of despair, I smile with glee.",
+      "condition": "Visit Sanguine Stare"
+    },
+    "head_blood_chalice_desolation": {
+      "name": "Human Looking Chalice",
+      "description": "At least leave something for the others to drink!",
+      "condition": "See the human head chalice in Blood Chalice Desolation"
+    },
+    "onigiri_mttop_pleasure_street": {
+      "name": "Onigiri Open-air Bath",
+      "description": "Refresh your body and mind!",
+      "condition": "Reach the Onigiri Mountaintop in Pleasure Street"
+    },
+    "tunnel_udw_amuse_park": {
+      "name": "A Thousand Greetings",
+      "description": "Welcome to the wettest place on earth!",
+      "condition": "Reach the Water Tunnel of Underwater Amusement Park"
+    },
+    "fox_blood_rose_canal": {
+      "name": "Eloquent Silence",
+      "description": "In a silent land where no human words remain, I stay with the roses, calling to you in a voiceless whisper.",
+      "condition": "Find the fox girl in Blood Rose Canal"
+    },
+    "cocktail_lounge_florist_area": {
+      "name": "Special Moments",
+      "description": "So beautiful it intoxicates...",
+      "condition": "Go to Cocktail lounge from Florist"
+    },
+    "snowman_world_vendor": {
+      "name": "Snowy Vendor",
+      "description": "You're not sure it's alive or a manmade creation. Either way, it's a funny thing to think about.",
+      "condition": "Buy a snack from the snowman in Snowman World"
+    },
+    "ghost_rice_field": {
+      "name": "Almost Gone",
+      "description": "But not quite forgotten",
+      "condition": "Reveal the ghost on the train tracks by using the Glasses effect in Rice Field"
+    },
+    "lila_spacey_retreat": {
+      "name": "Space Cat",
+      "description": "Why not sit down and relax a bit?",
+      "condition": "Interact with Lila in Spacey Retreat"
+    },
+    "yellow_dancer_calico_forest": {
+      "name": "Forest Dancer",
+      "description": "All you need is a boom box and you're set!",
+      "condition": "Encounter the yellow dancer in Calico Forest"
     }
   },
   "unconscious": {
@@ -8583,6 +8638,21 @@
       "name": "Hypnotizer",
       "description": "Demons of purple and green, will fiercely run past your screen",
       "condition": "Trigger the Strobe Demon event in Neo Aztec Club"
+    },
+    "sweet_menu": {
+      "name": "Let the Show Begin!",
+      "description": "Bathed in spotlight, the curtain rises now.",
+      "condition": "Obtain the Sweet menu theme. If you have already unlocked it, return where it can be found in Sweets Circus."
+    },
+    "neon_glasses_rgb_sewers": {
+      "name": "Can't Stop the Feeling",
+      "description": "So just dance, dance, dance!",
+      "condition": "Equip the neon glasses mask where it can be found in RGB Sewers"
+    },
+    "nancy_stellar_basin": {
+      "name": "Beside You",
+      "description": "All I ask is to sit quietly by your side.",
+      "condition": "Sit next to Nancy in Stellar Basin"
     }
   },
   "flow": {
@@ -8906,6 +8976,15 @@
       "name": "起死回生",
       "description": "为我而死吧，活死人少女……",
       "condition": "获得尸体效果。若已获得，请返回Prison中获得该效果处。"
+    },
+    "cleaner_ending": {
+      "name": "Unsentimental Benevolence",
+      "condition": "See the Cleaner Ending"
+    },
+    "night_visit_deterioration": {
+      "name": "Violence That Festered in the Dark",
+      "description": "A hair’s breadth away from violence.",
+      "condition": "Fully see the Night Visit event in Deterioration"
     }
   },
   "prayers": {
@@ -9888,6 +9967,11 @@
       "name": "Forgotten Memory Reclaimed",
       "description": "Gathering green grows within missing memories.",
       "condition": "Obtain the Moss menu theme. If you have already unlocked it, return where it can be found in the Shrine Garden."
+    },
+    "electric_light_effect": {
+      "name": "Handy Electricity",
+      "description": "Is Mikan's burden light?",
+      "condition": "Obtain the Electric Light effect. If you have already unlocked it, return where it can be found in the Garden Ascend sub-area of Shrine Garden."
     }
   },
   "amillusion": {
@@ -10319,6 +10403,11 @@
       "name": "兔兔茶歇",
       "description": "他们晚了！他们晚了！这可是很重要的约会！",
       "condition": "在Sugar Maze看到吃糖的两只兔子"
+    },
+    "music_room": {
+      "name": "Steps Along the Way",
+      "description": "Reflect on the steps you've taken, with music as your guide.",
+      "condition": "Visit the Music Room"
     }
   },
   "genie": {
@@ -11641,6 +11730,11 @@
       "name": "月球睡衣派对",
       "description": "毛绒绒的失重世界和睡衣里的快乐氛围！",
       "condition": "获得睡衣效果。若已解锁，请返回Moon中获得该效果处。"
+    },
+    "hand_puppet_effect": {
+      "name": "Fluffy Theater",
+      "description": "My little friend!",
+      "condition": "Obtain the Hand Puppet effect. If you have already unlocked it, return to Seaside."
     }
   },
   "nostalgic": {
@@ -11880,6 +11974,11 @@
       "name": "黎明神谕",
       "description": "这阳光对我来说太亮了……",
       "condition": "获得阳伞效果。若已获得，请返回Colored Block World获得该效果处。"
+    },
+    "bass_effect": {
+      "name": "A girl I Recognize",
+      "description": "We had the same hobbies, matching things... We were close friends, right? Or...?",
+      "condition": "See the variant of the Bass effect"
     }
   },
   "oneshot": {
