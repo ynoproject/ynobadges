@@ -1016,7 +1016,8 @@
       "condition": "En utilisant l'effet Plâtre, laisser le docteur dans les Shop Ruins vous guérir"
     },
     "popula_toru": {
-      "name": "Pupula-Toru",
+      "name": "Camarade cyclope calme",
+      "description": "« Est-ce que je suis trop ennuyante pour toi ? »",
       "condition": "Interagir avec Pupula-Toru dans ses 4 états différents (réveillé, dormant, regardant le sol, allongé)"
     },
     "glitch_sushi": {
@@ -4199,8 +4200,8 @@
       "condition": "Voir la fin #... Si vous l'avez déjà visionnée, revisionnez-là depuis la Salle de Son."
     },
     "moon_deserted_pier": {
-      "name": "Lune maudite",
-      "description": "Somniator, praedator somnum exterreri in lunae\nSomniator, dominus honorabilium",
+      "name": "La lune qui s'éclipsa dans les ténèbres",
+      "description": "Les restes effroyables d'une nuit où la lumière ne vint jamais...",
       "condition": "Trouver la lune noire au Deserted Pier"
     },
     "grand_museum": {
@@ -7406,6 +7407,31 @@
       "name": "Danseur des bois",
       "description": "Y a juste besoin d'une boombox et tout est prêt !",
       "condition": "Rencontrer le danseur jaune à la Calico Forest"
+    },
+    "chimera_hellish_village": {
+      "name": "Monstre angélique chimérique",
+      "description": "Si triste, et pourtant si calme. Cependant, ne la perturbe pas.",
+      "condition": "Interagir avec la chimère à l'Hellish Village"
+    },
+    "blossoming_wonderland": {
+      "name": "Jardin dans les nuages",
+      "description": "Trouver du répit dans une utopie céleste florale...",
+      "condition": "Visiter le Blossoming Wonderland"
+    },
+    "stone_age": {
+      "name": "Une forêt faite de pierres",
+      "description": "Un grand poucet a dû semer ces cailloux ici en perdant son chemin...",
+      "condition": "Visiter le Stone Age"
+    },
+    "sink_catalog": {
+      "name": "Temps écoulé",
+      "description": "Lire attentivement le catalogue.",
+      "condition": "Visiter le Sink Catalog"
+    },
+    "cockerel_mosenite": {
+      "name": "Queue au plumage gracieux",
+      "description": "On dirait une scène tout droit sortie d'un paravent japonais.",
+      "condition": "Être chanceux et trouver le coq à l'Heian Era Village"
     }
   },
   "unconscious": {
@@ -11723,6 +11749,16 @@
       "name": "Doux théâtre",
       "description": "« Salut ! Moi c'est Wormiko ! Et moi, c'est Miniko ! Bonjour !! »",
       "condition": "Obtenir l'effet Marionnette. Si vous l'avez déjà obtenu, retournez à Seaside."
+    },
+    "convenience_snowy_avenue": {
+      "name": "Caméra de sécurité active",
+      "description": "Aucun angle mort !",
+      "condition": "Visiter la supérette de la Snowy Avenue"
+    },
+    "docks_lotus_marsh": {
+      "name": "Tu t'es prise mon hameçon !",
+      "description": "... T'es en pause ? D'ailleurs, qu'essaies-tu de pêcher ?",
+      "condition": "Atteindre les Docks depuis le Lotus Marsh"
     }
   },
   "nostalgic": {
