@@ -1026,7 +1026,8 @@
       "condition": "廃墟商店:医務室にいる長い髪の医者にギプスを治療してもらう"
     },
     "popula_toru": {
-      "name": "目玉っ子",
+      "name": "Uninterested Cyclops Fellow",
+      "description": "Am I too boring for you?",
       "condition": "4つの状態(起きている状態、寝ている状態、下を向いている状態、横になっている状態)の目玉っ子に話しかける"
     },
     "glitch_sushi": {
@@ -4213,8 +4214,8 @@
       "condition": "裏SREDを見る"
     },
     "moon_deserted_pier": {
-      "name": "呪われた月",
-      "description": "夢想家、月の恐怖の略奪的な夢想家、名誉の所有者",
+      "name": "The Moon that Faded into Darkness",
+      "description": "Dreadful remnant of the everlasting lightless night...",
       "condition": "霧の湿地の黒い月の像に近づく"
     },
     "grand_museum": {
@@ -7081,7 +7082,7 @@
       "condition": "下校に到達する"
     },
     "fight_castle_kingdom_trees": {
-      "name": "弾丸回避",
+      "name": "Survival",
       "description": "ある意味で、私は勝った",
       "condition": "木立の王国:塔の中でオニを倒すイベントをこなす"
     },
@@ -7420,6 +7421,45 @@
       "name": "Forest Dancer",
       "description": "All you need is a boom box and you're set!",
       "condition": "Encounter the yellow dancer in Calico Forest"
+    },
+    "chimera_hellish_village": {
+      "name": "Little but Big Angel Monster",
+      "description": "So lonely, yet so calm. Don't disturb her though.",
+      "condition": "Interact with the chimera in Hellish Village"
+    },
+    "blossoming_wonderland": {
+      "name": "Garden Within the Clouds",
+      "description": "Finding respite in the flowering sky utopia",
+      "condition": "Visit Blossoming Wonderland"
+    },
+    "stone_age": {
+      "name": "A Forest Built of Stones",
+      "description": "Is this a rock bath instead of forest bathing?",
+      "condition": "Visit Stone Age"
+    },
+    "sink_catalog": {
+      "name": "It's All Forgotten Now",
+      "description": "Peruse the catalog.",
+      "condition": "Visit Sink Catalog"
+    },
+    "cockerel_mosenite": {
+      "name": "Flowing Tail Plumage",
+      "description": "It looks like a scene right out of a folding screen painting.",
+      "condition": "Be lucky and find the cockerel in Heian Era Village"
+    },
+    "aooh_ahogeko": {
+      "name": "You Are My Reflection",
+      "condition": "Trigger and complete the Aooh event in Ahogeko's House while wearing the Ahogeko mask"
+    },
+    "azalea_passage": {
+      "name": "皐月闇",
+      "description": "There are days when I gaze at the blue sky, and days when I stare at the shadow shaped like myself.",
+      "condition": "Visit Azalea Passage"
+    },
+    "green_creature_highway": {
+      "name": "He Wants to Talk to You",
+      "description": "An interesting conversation!",
+      "condition": "Interact with the green creature in the north part of Highway"
     }
   },
   "unconscious": {
@@ -11737,6 +11777,16 @@
       "name": "Fluffy Theater",
       "description": "My little friend!",
       "condition": "Obtain the Hand Puppet effect. If you have already unlocked it, return to Seaside."
+    },
+    "convenience_snowy_avenue": {
+      "name": "Security Camera in Operation",
+      "description": "No blind spots!",
+      "condition": "Visit the convenience store of Snowy Avenue"
+    },
+    "docks_lotus_marsh": {
+      "name": "You Took the Bait!",
+      "description": "... Are you on a break now? By the way, what are you fishing for?",
+      "condition": "Reach the Docks from Lotus Marsh"
     }
   },
   "nostalgic": {
