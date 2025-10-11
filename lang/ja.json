@@ -1026,7 +1026,8 @@
       "condition": "廃墟商店:医務室にいる長い髪の医者にギプスを治療してもらう"
     },
     "popula_toru": {
-      "name": "目玉っ子",
+      "name": "Uninterested Cyclops Fellow",
+      "description": "Am I too boring for you?",
       "condition": "4つの状態(起きている状態、寝ている状態、下を向いている状態、横になっている状態)の目玉っ子に話しかける"
     },
     "glitch_sushi": {
@@ -1471,11 +1472,10 @@
     "phone": {
       "name": "MVP",
       "description": "最も便利な電話",
-      "condition": "以下の10か所でうろつき邸への公衆電話を使用する: 石切、化石湖、砂糖道、自販倉庫、シャッター通り、博物館リベンジ、チタババ、parking zone、眼の世界、扉部屋遺構、コーポ黄染、反富裕:小部屋、分光",
+      "condition": "以下の10か所でうろつき邸への公衆電話を使用する: 石切、化石湖、自販倉庫、シャッター通り、博物館リベンジ、チタババ、parking zone、眼の世界、扉部屋遺構、コーポ黄染、反富裕:小部屋、分光",
       "checkbox": {
         "phone_aquatic_cube_city": "石切",
         "phone_fossil_lake": "化石湖",
-        "phone_sugar_road": "砂糖道",
         "phone_underground_garage": "自販倉庫",
         "phone_water_reclamation_facility": "シャッター通り",
         "phone_dark_museum": "博物館リベンジ",
@@ -4214,8 +4214,8 @@
       "condition": "裏SREDを見る"
     },
     "moon_deserted_pier": {
-      "name": "呪われた月",
-      "description": "夢想家、月の恐怖の略奪的な夢想家、名誉の所有者",
+      "name": "The Moon that Faded into Darkness",
+      "description": "Dreadful remnant of the everlasting lightless night...",
       "condition": "霧の湿地の黒い月の像に近づく"
     },
     "grand_museum": {
@@ -7082,7 +7082,7 @@
       "condition": "下校に到達する"
     },
     "fight_castle_kingdom_trees": {
-      "name": "弾丸回避",
+      "name": "Survival",
       "description": "ある意味で、私は勝った",
       "condition": "木立の王国:塔の中でオニを倒すイベントをこなす"
     },
@@ -11738,6 +11738,16 @@
       "name": "Fluffy Theater",
       "description": "My little friend!",
       "condition": "Obtain the Hand Puppet effect. If you have already unlocked it, return to Seaside."
+    },
+    "convenience_snowy_avenue": {
+      "name": "Security Camera in Operation",
+      "description": "No blind spots!",
+      "condition": "Visit the convenience store of Snowy Avenue"
+    },
+    "docks_lotus_marsh": {
+      "name": "You Took the Bait!",
+      "description": "... Are you on a break now? By the way, what are you fishing for?",
+      "condition": "Reach the Docks from Lotus Marsh"
     }
   },
   "nostalgic": {
