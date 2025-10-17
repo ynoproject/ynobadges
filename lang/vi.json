@@ -1016,7 +1016,8 @@
       "condition": "Bằng hiệu ứng Bó bột, để cho bác sĩ ở Shop Ruins chữa bệnh"
     },
     "popula_toru": {
-      "name": "Pupula-Toru",
+      "name": "Uninterested Cyclops Fellow",
+      "description": "Am I too boring for you?",
       "condition": "Interact with Pupula-Toru in 4 different states (awake, sleeping, looking down, lying down)"
     },
     "glitch_sushi": {
@@ -1460,11 +1461,10 @@
     "phone": {
       "name": "MVP",
       "description": "Most Valued Phone",
-      "condition": "Use the phone shortcut to Urotsuki's Dream Apartments in 10 of the following locations: Aquatic Cube City, Fossil Lake, Sugar Road, Underground Garage, Water Reclamation Facility, Dark Museum, Dark Warehouse, Parking Zone, Eyeberry Orchard, Legacy Nexus, Lemonade Edifice, Originator Garden, RGB Spectral Passage",
+      "condition": "Use the phone shortcut to Urotsuki's Dream Apartments in 10 of the following locations: Aquatic Cube City, Fossil Lake, Underground Garage, Water Reclamation Facility, Dark Museum, Dark Warehouse, Parking Zone, Eyeberry Orchard, Legacy Nexus, Lemonade Edifice, Originator Garden, RGB Spectral Passage",
       "checkbox": {
         "phone_aquatic_cube_city": "Aquatic Cube City",
         "phone_fossil_lake": "Fossil Lake",
-        "phone_sugar_road": "Sugar Road",
         "phone_underground_garage": "Underground Garage",
         "phone_water_reclamation_facility": "Water Reclamation Facility",
         "phone_dark_museum": "Dark Museum",
@@ -4195,8 +4195,8 @@
       "condition": "Xem kết thúc #... Nếu bạn đã xem rồi, xem lại trong Sound Room."
     },
     "moon_deserted_pier": {
-      "name": "Accursed Moon",
-      "description": "Somniator, praedator somnum exterreri in lunae\nSomniator, dominus honorabilium",
+      "name": "The Moon that Faded into Darkness",
+      "description": "Dreadful remnant of the everlasting lightless night...",
       "condition": "Lại gần mặt trăng đen ở Deserted Pier"
     },
     "grand_museum": {
@@ -7063,7 +7063,7 @@
       "condition": "Visit Teddy Bear Land"
     },
     "fight_castle_kingdom_trees": {
-      "name": "Dodge a Bullet",
+      "name": "Survival",
       "description": "In a sense, I did win",
       "condition": "Repel the devil-tailed creature in the castle of Kingdom of Trees"
     },
@@ -7402,6 +7402,45 @@
       "name": "Forest Dancer",
       "description": "All you need is a boom box and you're set!",
       "condition": "Encounter the yellow dancer in Calico Forest"
+    },
+    "chimera_hellish_village": {
+      "name": "Little but Big Angel Monster",
+      "description": "So lonely, yet so calm. Don't disturb her though.",
+      "condition": "Interact with the chimera in Hellish Village"
+    },
+    "blossoming_wonderland": {
+      "name": "Garden Within the Clouds",
+      "description": "Finding respite in the flowering sky utopia",
+      "condition": "Visit Blossoming Wonderland"
+    },
+    "stone_age": {
+      "name": "A Forest Built of Stones",
+      "description": "Is this a rock bath instead of forest bathing?",
+      "condition": "Visit Stone Age"
+    },
+    "sink_catalog": {
+      "name": "It's All Forgotten Now",
+      "description": "Peruse the catalog.",
+      "condition": "Visit Sink Catalog"
+    },
+    "cockerel_mosenite": {
+      "name": "Flowing Tail Plumage",
+      "description": "It looks like a scene right out of a folding screen painting.",
+      "condition": "Be lucky and find the cockerel in Heian Era Village"
+    },
+    "aooh_ahogeko": {
+      "name": "You Are My Reflection",
+      "condition": "Trigger and complete the Aooh event in Ahogeko's House while wearing the Ahogeko mask"
+    },
+    "azalea_passage": {
+      "name": "In the Dimness of the Rain",
+      "description": "There are days when I gaze at the blue sky, and days when I stare at the shadow shaped like myself.",
+      "condition": "Visit Azalea Passage"
+    },
+    "green_creature_highway": {
+      "name": "He Wants to Talk to You",
+      "description": "An interesting conversation!",
+      "condition": "Interact with the green creature in the north part of Highway"
     }
   },
   "unconscious": {
@@ -11705,6 +11744,16 @@
       "name": "Fluffy Theater",
       "description": "My little friend!",
       "condition": "Obtain the Hand Puppet effect. If you have already unlocked it, return to Seaside."
+    },
+    "convenience_snowy_avenue": {
+      "name": "Security Camera in Operation",
+      "description": "No blind spots!",
+      "condition": "Visit the convenience store of Snowy Avenue"
+    },
+    "docks_lotus_marsh": {
+      "name": "You Took the Bait!",
+      "description": "... Are you on a break now? By the way, what are you fishing for?",
+      "condition": "Reach the Docks from Lotus Marsh"
     }
   },
   "nostalgic": {
