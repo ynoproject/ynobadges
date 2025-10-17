@@ -547,6 +547,11 @@
       "name": "Wouah, c'est tellement lumineux ici !",
       "description": "Je savais pas que la lumière humaine était si forte la nuit...",
       "condition": "Obtenir l'effet Néon. Si vous l'avez déjà obtenu, retournez au Neon World."
+    },
+    "umbrella_effect": {
+      "name": "Le murmure de la pluie",
+      "description": "La pluie n'appelle pas mon parapluie : la pluie est appelée par mon parapluie.",
+      "condition": "Obtenir l'effet Parapluie. Si vous l'avez déjà obtenu, retournez au Puddle World."
     }
   },
   "2kki": {
@@ -7386,7 +7391,7 @@
     "cocktail_lounge_florist_area": {
       "name": "Moments spéciaux",
       "description": "C'est si beau que ça empoisonne...",
-      "condition": "Aller au Cocktail lounge depuis Florist"
+      "condition": "Aller au Cocktail Lounge depuis Florist"
     },
     "snowman_world_vendor": {
       "name": "Vendeur neigeux",
@@ -7446,6 +7451,46 @@
       "name": "Il veut te parler",
       "description": "Une conversation passionnante !",
       "condition": "Interagir avec la créature verte dans la partie nord de l'Highway"
+    },
+    "fall_shoal": {
+      "name": "Oreilles automnales ondulantes",
+      "description": "Les oreilles automnales font signe de leurs mains...",
+      "condition": "Visiter le Fall Shoal"
+    },
+    "boy_cake_room_pleasure_street": {
+      "name": "Le secret de la salle du gâteau",
+      "description": "Tu es un monstre.",
+      "condition": "Équiper l'effet Garçon dans la salle du gâteau de la Pleasure Street"
+    },
+    "cat_cemetery": {
+      "name": "Fin des amis félins",
+      "description": "En souvenir de nos amis les félins.",
+      "condition": "Visiter le Cat Cemetery"
+    },
+    "maid_graffiti_garage": {
+      "name": "Fille de la ruelle",
+      "description": "« C'est comme ça qu'elle me traite alors qu'on vient à peine de se rencontrer ?! »",
+      "condition": "Tronçonner la servante aux cheveux bleus au Graffiti Garage"
+    },
+    "exterior_whispery_sewers": {
+      "name": "Un bol d'air frais !",
+      "description": "Les égouts vous amènent sur une magnifique vue !",
+      "condition": "Atteindre la zone extérieure aux Whispery Sewers"
+    },
+    "flooded_docks": {
+      "name": "Quais de la solitude",
+      "description": "Sur la route de la mer aux regrets",
+      "condition": "Visiter les Flooded Docks"
+    },
+    "food_fast_food_hell": {
+      "name": "C'est trop délicieux pour que je puisse m'arrêter !!",
+      "description": "Une fois commencé, impossible de s'arrêter !",
+      "condition": "Acheter de la nourriture au Fast Food Hell"
+    },
+    "house_figure_red_black_world": {
+      "name": "Bavarde rouge",
+      "description": "Appuyez sur X pour mettre fin à la tâche",
+      "condition": "Tronçonner la personne en rouge dans la maison du Red Black World"
     }
   },
   "unconscious": {
@@ -8681,6 +8726,16 @@
       "name": "À tes côtés",
       "description": "Tout ce que je demande, c'est de pouvoir m'asseoir à tes côtés silencieusement.",
       "condition": "S'asseoir à côté de Nancy au Stellar Basin"
+    },
+    "mermaid_overgrown_railway": {
+      "name": "M(ar)innatsuki",
+      "description": "Elle est comme moi, mais elle vient de la mer",
+      "condition": "Trouver la Minnatsuki sirène à l'Overgrown Railway"
+    },
+    "drain_girl_fasciation_world": {
+      "name": "Syndrome floral",
+      "description": "Tout est train de se mélanger...",
+      "condition": "Voir la Fille de la Canalisation au Fasciation World"
     }
   },
   "flow": {
@@ -9901,6 +9956,15 @@
       "name": "Plongeon dans le pays des rêves",
       "description": "Je suis prête à rejoindre le monde des rêves !",
       "condition": "Obtenir l'effet Bonnet de nuit. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Passage Céleste du Star Field."
+    },
+    "quare_grassy_pipes": {
+      "name": "Lanceur androïde",
+      "description": "Pourquoi tu m'as interrompu !? J'me concentrais !!",
+      "condition": "Voir le visage de Quare aux Grassy Pipes"
+    },
+    "worm_clash_mutated_forms": {
+      "name": "Rugissement coulant",
+      "condition": "Trouver le Ver Coupé en Deux au Clash of Mutated Forms"
     }
   },
   "braingirl": {
@@ -11133,6 +11197,11 @@
       "name": "Boom des lapins",
       "description": "Y a des lapinous partout !",
       "condition": "Déclencher l'événement du Boom des Lapins au Jester's Path"
+    },
+    "death_card": {
+      "name": "La douce étreinte de la mort",
+      "description": "Toute fin est juste une autre forme de beauté.",
+      "condition": "Obtenir la carte Mort. Si vous l'avez déjà obtenue, retournez au Mourning Field."
     }
   },
   "oversomnia": {

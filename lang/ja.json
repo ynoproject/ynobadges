@@ -557,6 +557,11 @@
       "name": "ああ、ここは明るすぎる",
       "description": "夜中の人口の光はすごく明るいけど……",
       "condition": "ネオンのエフェクトを入手する、すでに入手している場合は、もう一度ネオンの世界に行くNeon World."
+    },
+    "umbrella_effect": {
+      "name": "A Whisper of Rain",
+      "description": "The rain doesn't call for my umbrella - my umbrella calls for the rain.",
+      "condition": "Obtain the Umbrella effect. If you have already unlocked it, return to Puddle World."
     }
   },
   "2kki": {
@@ -7421,6 +7426,85 @@
       "name": "森のダンサー",
       "description": "必要なのはラジカセだけ、それで準備完了！",
       "condition": "三毛猫の森で踊る人を見つける"
+    },
+    "chimera_hellish_village": {
+      "name": "小さくて大きな天使の怪物",
+      "description": "寂しげで、穏やか。けれど、彼女を邪魔してはいけない。",
+      "condition": "黄泉瓦の町でキメラ少女に話しかける"
+    },
+    "blossoming_wonderland": {
+      "name": "雲上の庭園",
+      "description": "花咲く空の楽園で、ひとときの安らぎを見つける",
+      "condition": "風庭の花道に到達する"
+    },
+    "stone_age": {
+      "name": "石でできた森",
+      "description": "森林浴というより、岩盤浴？",
+      "condition": "石板の林に到達する"
+    },
+    "sink_catalog": {
+      "name": "今はもう、すべて忘れられて",
+      "description": "カタログを眺める。",
+      "condition": "シンクカタログに到達する"
+    },
+    "cockerel_mosenite": {
+      "name": "流れる尾羽",
+      "description": "まるで屏風絵から抜け出したような絶景かな",
+      "condition": "平安小町で尾長鳥を見つける"
+    },
+    "aooh_ahogeko": {
+      "name": "あなたは私の写し鏡",
+      "condition": "アホ毛子のお面を装備した状態で、偽浅瀬の家でアオォイベントを完了させる"
+    },
+    "azalea_passage": {
+      "name": "皐月闇",
+      "description": "青空を見上げる日もあれば、自分の形をした影を見つめる日もある。",
+      "condition": "皐月に到達する"
+    },
+    "green_creature_highway": {
+      "name": "彼はあなたと話したがっているみたい",
+      "description": "興味深い会話！",
+      "condition": "駐車場にいる緑色の生き物に話しかける"
+    },
+    "fall_shoal": {
+      "name": "Undulating Fall Ears",
+      "description": "Autumn ears are waving their hands...",
+      "condition": "Visit Fall Shoal"
+    },
+    "boy_cake_room_pleasure_street": {
+      "name": "Secret of the Cake Room",
+      "description": "You're a monster.",
+      "condition": "Equip the Boy effect in the cake room of Pleasure Street"
+    },
+    "cat_cemetery": {
+      "name": "Rest in Treats",
+      "description": "In memory of our feline friends.",
+      "condition": "Visit Cat Cemetery"
+    },
+    "maid_graffiti_garage": {
+      "name": "Girl Standing in the Back Alley",
+      "description": "\"This is how she treats me as soon as we meet?!\"",
+      "condition": "Chainsaw the blue-haired maid in Graffiti Garage"
+    },
+    "exterior_whispery_sewers": {
+      "name": "Breath of Fresh Air!",
+      "description": "The sewers bring you a nice vista!",
+      "condition": "Reach the outside area of Whispery Sewers"
+    },
+    "flooded_docks": {
+      "name": "Docks of Solitude",
+      "description": "On the road to the sea of regrets",
+      "condition": "Visit Flooded Docks"
+    },
+    "food_fast_food_hell": {
+      "name": "Too Yummy to Stop!",
+      "description": "Once you start, there’s no going back!",
+      "condition": "Buy food from Fast Food Hell"
+    },
+    "house_figure_red_black_world": {
+      "name": "Red Yapper",
+      "description": "Press X to end task",
+      "condition": "Chainsaw the red figure in the house of Red Black World"
     }
   },
   "unconscious": {
@@ -8656,6 +8740,16 @@
       "name": "あなたのとなりに",
       "description": "ただ静かに、あなたのそばにいさせて。",
       "condition": "星の湖水で紫のナースの隣に座る"
+    },
+    "mermaid_overgrown_railway": {
+      "name": "M(ar)innatsuki",
+      "description": "Just like me, but from the sea",
+      "condition": "Find the Minnatsuki mermaid in Overgrown Railway"
+    },
+    "drain_girl_fasciation_world": {
+      "name": "Psychophily",
+      "description": "It's all fusing together...",
+      "condition": "See the Drain Girl in Fasciation World"
     }
   },
   "flow": {
@@ -9876,6 +9970,15 @@
       "name": "夢の中へダイブ",
       "description": "夢の世界へ飛び込む準備は万端！",
       "condition": "Nightcapのエフェクトを入手する、すでに入手している場合はStar FieldのSky Pathの見つけた場所に行く。"
+    },
+    "quare_grassy_pipes": {
+      "name": "Android Pitcher",
+      "description": "Why did you interrupt me? I was concentrating!",
+      "condition": "See Quare's face in Grassy Pipes"
+    },
+    "worm_clash_mutated_forms": {
+      "name": "Oozing Roar",
+      "condition": "Find the Bisected Worm in Clash of Mutated Forms"
     }
   },
   "braingirl": {
@@ -11108,6 +11211,11 @@
       "name": "うさジャック",
       "description": "うさぎまみれ！",
       "condition": "Jester's PathでRabbit Takeoverイベントを見る"
+    },
+    "death_card": {
+      "name": "The Sweet Embrace of Death",
+      "description": "Every ending is just another form of beauty.",
+      "condition": "Obtain the Death card. If you have already unlocked it, return to Mourning Field."
     }
   },
   "oversomnia": {
