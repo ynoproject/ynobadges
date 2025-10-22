@@ -11262,7 +11262,7 @@
     "dust_bunny": {
       "name": "可愛くなあれ！",
       "description": "かわいいね！",
-      "condition": "エフェクトを見つけ、扉部屋にいるLuckyに話しかける"
+      "condition": "ほこりうさぎのエフェクトを見つけ、扉部屋にいるLuckyに話しかける"
     },
     "hoarder_colors": {
       "name": "ノストラダムスの蛍",
@@ -11337,7 +11337,7 @@
     "emergency_secret_doors": {
       "name": "溶ける幽霊",
       "description": "彼らはコミュニケーションを試みているが、私には聞こえない……",
-      "condition": "Emergency Roomの特定の場所でTuning Forkエフェクトを使う"
+      "condition": "Emergency Roomの特定の場所で音叉のエフェクトを使う"
     },
     "bed_hair_girl_death": {
       "name": "熊の檻",
@@ -11372,7 +11372,7 @@
     "sun_weather_station": {
       "name": "光が！灼ける！",
       "description": "正直に言うとこうなることは分かっていたはずだ...",
-      "condition": "Weather Stationにいるsun guyに対してVampirismを使う"
+      "condition": "Weather Stationにいるsun guyに対して吸血鬼性のエフェクトを使う"
     },
     "stormy_towers_cone": {
       "name": "熱心なアシスタント",
@@ -11392,12 +11392,12 @@
     "urchin_aquarium_world": {
       "name": "ウニの目",
       "description": "水族館にいるウニちゃんに歌を届けて僕を見てもらおう",
-      "condition": "Tuning Forkを使ってAquarium Worldにいるウニの目を開かせる"
+      "condition": "音叉のエフェクトを使ってAquarium Worldにいるウニの目を開かせる"
     },
     "curtain_den_raccoon": {
       "name": "化けの皮だ！",
       "description": "え？！？！",
-      "condition": "Curtain Denにいる狸をWendigoエフェクトで調べる"
+      "condition": "Curtain Denにいる狸をウェンディゴのエフェクトで調べる"
     },
     "vent_ventilation_passage": {
       "name": "絶句の光景",
@@ -11406,7 +11406,7 @@
     "cat_oil_world": {
       "name": "ネコウィンク",
       "description": "少年、あんたの持ってる音叉は最高だ！",
-      "condition": "Oil Worldの巨大な猫にTuning Fork effectを使う"
+      "condition": "Oil Worldの巨大な猫に音叉のエフェクトを使う"
     },
     "snail_pool_world": {
       "name": "プールで会えるともだち",
@@ -11426,12 +11426,12 @@
     "dust_bunny_effect": {
       "name": "Irvingとうさぎ",
       "description": "おおきくてもふもふなうさぎ！",
-      "condition": "Dust Bunnyのエフェクトを入手する、すでに入手している場合はAttic Worldの見つけた場所に行く。"
+      "condition": "ほこりうさぎのエフェクトを入手する、すでに入手している場合はAttic Worldの見つけた場所に行く。"
     },
     "vampirism_effect_oversomnia": {
       "name": "悪意に満ちた記憶",
       "description": "彼らが無事だったらいいな。",
-      "condition": "Vampirismのエフェクトを入手する、すでに入手している場合はGloomy Wetlandsの隔離エリアの見つけた場所に行く。"
+      "condition": "吸血鬼性のエフェクトを入手する、すでに入手している場合はGloomy Wetlandsの隔離エリアの見つけた場所に行く。"
     },
     "cardboard_basement_world": {
       "name": "秘密の隠れ家",
@@ -11455,12 +11455,12 @@
     "gargoyle_effect": {
       "name": "勇敢な記憶",
       "description": "城塞のような迷路の中に、寂しげなガーゴイルがあった。魔除けが役目といっても、寂しい時はあるだろう。",
-      "condition": "Gargoyleのエフェクトを入手する、すでに入手している場合はRampartsの見つけた場所に行く。"
+      "condition": "ガーゴイルのエフェクトを入手する、すでに入手している場合はRampartsの見つけた場所に行く。"
     },
     "wendigo_effect": {
       "name": "望まない記憶",
       "description": "緋色の木々が生い茂る森の奥深くに、背の高い怪物がいた。その瞳は血のような色に輝いており、望まない記憶を思い起こさせた。",
-      "condition": "Wendigoのエフェクトを入手する、すでに入手している場合はScarlet Worldの見つけた場所に行く。"
+      "condition": "ウェンディゴのエフェクトを入手する、すでに入手している場合はScarlet Worldの見つけた場所に行く。"
     },
     "death_row_ventilation_passage": {
       "name": "ウロボロスの誕生",
@@ -11490,8 +11490,7 @@
     "skeleton_key_pick_pro": {
       "name": "未知への鍵",
       "description": "これでどんな神秘的なものを見つけられるんだろう……",
-      "condition": "Skeleton Keyのエフェクトを使って、Weather Station、Outback Roads、Pool World、Rainy Village、Garden Centreにある鍵のかかった扉を開ける",
-      "checkbox": {
+      "condition": "合鍵のエフェクトを使って、Weather Station、Outback Roads、Pool World、Rainy Village、Garden Centreにある鍵のかかった扉を開ける",      "checkbox": {
         "skeleton_key_weather_station": "Weather Station",
         "skeleton_key_outback_roads": "Outback Roads",
         "magic_8_ball_room": "Pool World",
