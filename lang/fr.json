@@ -554,13 +554,13 @@
       "condition": "Obtenir l'effet Parapluie. Si vous l'avez déjà obtenu, retournez au Puddle World."
     },
     "event_completionist": {
-      "name": "Nightmare Reverie",
-      "condition": "Trigger the FACE, Famicom Glitch, Melting Madotsuki, and the Witch's Flight fall events",
+      "name": "Rêverie cauchemardesque",
+      "condition": "Déclencher les événements de FACE, du Bug de la Famicom, de la Madotsuki Fondue et de la Chute du Vol de la Sorcière",
       "checkbox": {
         "face": "FACE",
-        "fc_glitch": "Famicom Glitch",
-        "melt": "Melting Madotsuki",
-        "fall": "Witch's Flight fall"
+        "fc_glitch": "Bug de la Famicom",
+        "melt": "Madotsuki Fondue",
+        "fall": "Chute du Vol de la Sorcière"
       }
     }
   },
@@ -7503,39 +7503,39 @@
       "condition": "Tronçonner la personne en rouge dans la maison du Red Black World"
     },
     "overgrown_city_secret": {
-      "name": "The Moon Beneath the Sea",
-      "description": "Where man-made light dreams of being the moon.",
-      "condition": "Interact with the back of the vending machine in the secret room of the Overgrown City"
+      "name": "La lune qui était sous la mer",
+      "description": "Là où la lumière humaine rêve d'être la lune.",
+      "condition": "Interagir avec le dos du distributeur automatique dans la salle secrète de l'Overgrown City"
     },
     "daily_toy_box": {
-      "name": "Daily Playtime",
-      "description": "I get to play with toys daily? Awesome!",
-      "condition": "Visit Daily Toy Box"
+      "name": "Temps de jeu quotidien",
+      "description": "Je peux jouer avec des jouets tous les jours ? C'est trop cool !",
+      "condition": "Visiter la Daily Toy Box"
     },
     "insect_hug_glowing_hives": {
-      "name": "Cuddlebugs",
-      "description": "I'll take care of you as if you were one of my hatchlings.",
-      "condition": "Trigger the Insect effect event in Glowing Hives"
+      "name": "Câlininsectes",
+      "description": "Je prendrai soin de toi comme si tu étais l'une de mes propres larves.",
+      "condition": "Se faire caresser par le grand insecte rose avec l'effet Insecte équipé aux Glowing Hives"
     },
     "chopstick_rice_bowl_world": {
-      "name": "Chopstick Man",
-      "description": "What a cute little creature!",
-      "condition": "Interact with one of the chopstick creatures in Rice Bowl World"
+      "name": "L'homme baguettes",
+      "description": "Quelle mignonne petite créature !",
+      "condition": "Interagir avec l'une des créatures baguettes au Rice Bowl World"
     },
     "field_of_cosmos": {
-      "name": "Harmony of Record",
-      "description": "The journey of a story begin with a walk to the past",
-      "condition": "Visit Field of Cosmos"
+      "name": "Harmonie du voyage",
+      "description": "Le voyage de toute histoire commence par une balade vers le passé",
+      "condition": "Visiter le Field of Cosmos"
     },
     "sky_outlook_port_city": {
-      "name": "Cloud Gazing",
-      "description": "What a pretty view. I wonder what those structures are.",
-      "condition": "Reach the outlook and see the blue sky in Port City"
+      "name": "Contemplation des nuages",
+      "description": "Quelle splendide vue. Je me demande à quoi servent ces structures...",
+      "condition": "Atteindre le point de vue et voir le ciel bleu à la Port City"
     },
     "twitching_child_night_world": {
-      "name": "Leave Me Alone",
-      "description": "Perhaps this was a bad time to walk in...",
-      "condition": "Trigger the Twitching Child event in Night World"
+      "name": "Laisse-moi tranquille !",
+      "description": "P'têt que c'était pas le bon moment pour entrer...",
+      "condition": "Déclencher l'événement de l'Enfant Convulsant au Night World"
     }
   },
   "unconscious": {
@@ -8783,24 +8783,24 @@
       "condition": "Voir la Fille de la Canalisation au Fasciation World"
     },
     "their_reveal_gradient_city": {
-      "name": "Their Reveal",
-      "description": "You can see right through them, and they can see right through you.",
-      "condition": "Get trapped after seeing the Their Reveal event in Gradient City"
+      "name": "Leur Apparition",
+      "description": "Tu peux voir à travers eux, et ils peuvent voir à travers toi.",
+      "condition": "Se faire piéger après avoir vu l'événement de Leur Apparition à la Gradient City"
     },
     "scarlet_river_festering_tomb": {
-      "name": "Beckoned by Thorns and Blood",
-      "description": "In a labyrinth where the unknown and the known trade places, will you mark the journey’s end - or long for its beginning?",
-      "condition": "Reach Scarlet River from Festering Tomb"
+      "name": "Appelée par les ronces et le sang",
+      "description": "Dans un labyrinthe où l'inconnu et le connu changent de place, marqueras-tu la fin du voyage - ou prieras-tu pour son commencement ?",
+      "condition": "Atteindre la Scarlet River depuis la Festering Tomb"
     },
     "girl_white_lotus_islands": {
-      "name": "Distant Floral Beauty",
-      "description": "So close, and yet so far...",
-      "condition": "Find the Lotus Girl in White Lotus Islands"
+      "name": "Beauté florale distante",
+      "description": "Si proche, et pourtant si loin...",
+      "condition": "Trouver la Fille Lotus aux White Lotus Islands"
     },
     "dreams_of_fragrance": {
-      "name": "Olfactory Dreamer",
-      "description": "Of all our memories, scent is the last to fade. Its shape is elusive, yet it lingers deep in the recesses of memory, a rich, fragrant dream settled in the depths.",
-      "condition": "Visit Dreams of Fragrance"
+      "name": "Rêveuse olfactive",
+      "description": "De tous nos souvenirs, l'odorat est le dernier à s'évaporer. Sa forme est insaisissable, et pourtant, il reste profondément encré dans les recoins de la mémoire, tel un riche, doux rêve parfumé installé dans les profondeurs.",
+      "condition": "Visiter les Dreams of Fragrance"
     }
   },
   "flow": {
@@ -9485,9 +9485,9 @@
       "condition": "Obtenir l'alter Vitreux. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à la Lamp Forest."
     },
     "gelatinous_alter": {
-      "name": "Deep Sea Treasures",
-      "description": "We're so cute and shiny! Are you jelly?",
-      "condition": "Obtain the Gelatinous alter. If you have already unlocked it, return where it can be found in Alien Ocean."
+      "name": "Trésors du fond des mers",
+      "description": "On est si mignons et brillants ! Es-tu médusée par notre beauté ?",
+      "condition": "Obtenir l'alter Gélatineux. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à l'Alien Ocean."
     }
   },
   "someday": {
@@ -9738,8 +9738,8 @@
       "condition": "Déclencher l'événement de la colère du seigneur Soleil"
     },
     "turbine": {
-      "name": "Lone Kite",
-      "description": "It's just out of reach",
+      "name": "Cerf-volant isolé",
+      "description": "Il est juste hors de portée...",
       "condition": "Atteindre la fin du Turbine Facility"
     },
     "braille_angel": {
@@ -10038,14 +10038,14 @@
       "condition": "Trouver le Ver Coupé en Deux au Clash of Mutated Forms"
     },
     "night_henderson_lake": {
-      "name": "Mirrors of the Night Sky",
-      "description": "The night the stars touched the water.",
-      "condition": "See the night sky in Henderson Lake"
+      "name": "Miroirs du ciel nocturne",
+      "description": "La nuit où les étoiles touchèrent le lac.",
+      "condition": "Voir le ciel nocturne à l'Henderson Lake"
     },
     "figure_the_secret_woods": {
-      "name": "In the Starlit Silhouette",
-      "description": "A quiet dream beneath a thousand lights.",
-      "condition": "See the figure in the sky in The Secret Woods"
+      "name": "Silhouette étoilée",
+      "description": "Un rêve silencieux sous une myriade de lumières.",
+      "condition": "Voir la silhouette dans le ciel à The Secret Woods"
     }
   },
   "braingirl": {
