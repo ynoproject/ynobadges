@@ -552,6 +552,16 @@
       "name": "A Whisper of Rain",
       "description": "The rain doesn't call for my umbrella - my umbrella calls for the rain.",
       "condition": "Obtain the Umbrella effect. If you have already unlocked it, return to Puddle World."
+    },
+    "event_completionist": {
+      "name": "Nightmare Reverie",
+      "condition": "Trigger the FACE, Famicom Glitch, Melting Madotsuki, and the Witch's Flight fall events",
+      "checkbox": {
+        "face": "FACE",
+        "fc_glitch": "Famicom Glitch",
+        "melt": "Melting Madotsuki",
+        "fall": "Witch's Flight fall"
+      }
     }
   },
   "2kki": {
@@ -7485,6 +7495,41 @@
       "name": "Red Yapper",
       "description": "Press X to end task",
       "condition": "Chainsaw the red figure in the house of Red Black World"
+    },
+    "overgrown_city_secret": {
+      "name": "The Moon Beneath the Sea",
+      "description": "Where man-made light dreams of being the moon.",
+      "condition": "Interact with the back of the vending machine in the secret room of the Overgrown City"
+    },
+    "daily_toy_box": {
+      "name": "Daily Playtime",
+      "description": "I get to play with toys daily? Awesome!",
+      "condition": "Visit Daily Toy Box"
+    },
+    "insect_hug_glowing_hives": {
+      "name": "Cuddlebugs",
+      "description": "I'll take care of you as if you were one of my hatchlings.",
+      "condition": "Be petted by the big pink bug while wearing the Insect effect in Glowing Hives"
+    },
+    "chopstick_rice_bowl_world": {
+      "name": "Chopstick Man",
+      "description": "What a cute little creature!",
+      "condition": "Interact with one of the chopstick creatures in Rice Bowl World"
+    },
+    "field_of_cosmos": {
+      "name": "Harmony of Record",
+      "description": "The journey of a story begin with a walk to the past",
+      "condition": "Visit Field of Cosmos"
+    },
+    "sky_outlook_port_city": {
+      "name": "Cloud Gazing",
+      "description": "What a pretty view. I wonder what those structures are.",
+      "condition": "Reach the outlook and see the blue sky in Port City"
+    },
+    "twitching_child_night_world": {
+      "name": "Leave Me Alone",
+      "description": "Perhaps this was a bad time to walk in...",
+      "condition": "Trigger the Twitching Child event in Night World"
     }
   },
   "unconscious": {
@@ -8730,6 +8775,26 @@
       "name": "Psychophily",
       "description": "It's all fusing together...",
       "condition": "See the Drain Girl in Fasciation World"
+    },
+    "their_reveal_gradient_city": {
+      "name": "Their Reveal",
+      "description": "You can see right through them, and they can see right through you.",
+      "condition": "Get trapped after seeing the Their Reveal event in Gradient City"
+    },
+    "scarlet_river_festering_tomb": {
+      "name": "Beckoned by Thorns and Blood",
+      "description": "In a labyrinth where the unknown and the known trade places, will you mark the journey’s end - or long for its beginning?",
+      "condition": "Reach Scarlet River from Festering Tomb"
+    },
+    "girl_white_lotus_islands": {
+      "name": "Distant Floral Beauty",
+      "description": "So close, and yet so far...",
+      "condition": "Find the Lotus Girl in White Lotus Islands"
+    },
+    "dreams_of_fragrance": {
+      "name": "Olfactory Dreamer",
+      "description": "Of all our memories, scent is the last to fade. Its shape is elusive, yet it lingers deep in the recesses of memory, a rich, fragrant dream settled in the depths.",
+      "condition": "Visit Dreams of Fragrance"
     }
   },
   "flow": {
@@ -9412,6 +9477,11 @@
       "name": "Human Nightlight!",
       "description": "She doesn't need a nightlight, she is one!",
       "condition": "Obtain the Glassy alter. If you have already unlocked it, return where it can be found in Lamp Forest."
+    },
+    "gelatinous_alter": {
+      "name": "Deep Sea Treasures",
+      "description": "We're so cute and shiny! Are you jelly?",
+      "condition": "Obtain the Gelatinous alter. If you have already unlocked it, return where it can be found in Alien Ocean."
     }
   },
   "someday": {
@@ -9662,7 +9732,8 @@
       "condition": "Спровоцируйте событие Гнева повелителя солнца."
     },
     "turbine": {
-      "name": "Лопасти",
+      "name": "Lone Kite",
+      "description": "It's just out of reach",
       "condition": "Доберитесь до конца Турбинного предприятия."
     },
     "braille_angel": {
@@ -9959,6 +10030,16 @@
     "worm_clash_mutated_forms": {
       "name": "Oozing Roar",
       "condition": "Find the Bisected Worm in Clash of Mutated Forms"
+    },
+    "night_henderson_lake": {
+      "name": "Mirrors of the Night Sky",
+      "description": "The night the stars touched the water.",
+      "condition": "See the night sky in Henderson Lake"
+    },
+    "figure_the_secret_woods": {
+      "name": "In the Starlit Silhouette",
+      "description": "A quiet dream beneath a thousand lights.",
+      "condition": "See the figure in the sky in The Secret Woods"
     }
   },
   "braingirl": {
