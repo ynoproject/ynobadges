@@ -564,13 +564,13 @@
       "condition": "かさのエフェクトを入手する、すでに入手している場合は、もう一度水溜りの世界に行く。"
     },
     "event_completionist": {
-      "name": "Nightmare Reverie",
-      "condition": "Trigger the FACE, Famicom Glitch, Melting Madotsuki, and the Witch's Flight fall events",
+      "name": "わるいゆめ",
+      "condition": "赤の王様、ＦＣバグ、溶けたまどつき、空中からの落下のイベントを見る",
       "checkbox": {
-        "face": "FACE",
-        "fc_glitch": "Famicom Glitch",
-        "melt": "Melting Madotsuki",
-        "fall": "Witch's Flight fall"
+        "face": "赤の王様",
+        "fc_glitch": "ＦＣバグ",
+        "melt": "溶けたまどつき",
+        "fall": "空中からの落下"
       }
     }
   },
@@ -8846,24 +8846,24 @@
       "condition": "帯化で目が帯化した少女を見る"
     },
     "their_reveal_gradient_city": {
-      "name": "Their Reveal",
-      "description": "You can see right through them, and they can see right through you.",
-      "condition": "Get trapped after seeing the Their Reveal event in Gradient City"
+      "name": "赤色の街",
+      "description": "あなたにはそれらが透けて見え、あなたはそれらに見透かされる。",
+      "condition": "グラデーションシティで赤色の街イベントを見てから閉じ込められる"
     },
     "scarlet_river_festering_tomb": {
-      "name": "Beckoned by Thorns and Blood",
-      "description": "In a labyrinth where the unknown and the known trade places, will you mark the journey’s end - or long for its beginning?",
-      "condition": "Reach Scarlet River from Festering Tomb"
+      "name": "血と棘に誘われて",
+      "description": "未知と既知が入れ替わる迷宮で、あなたは旅の終わりを刻むのか――始まりを求めるのか。",
+      "condition": "腐敗墳墓の紅い川に到達する"
     },
     "girl_white_lotus_islands": {
-      "name": "Distant Floral Beauty",
-      "description": "So close, and yet so far...",
-      "condition": "Find the Lotus Girl in White Lotus Islands"
+      "name": "遠い花の美しさ",
+      "description": "こんなにも近い、でもとても遠い……",
+      "condition": "白蓮諸島で白い髪飾りの少女を見つける"
     },
     "dreams_of_fragrance": {
-      "name": "Olfactory Dreamer",
-      "description": "Of all our memories, scent is the last to fade. Its shape is elusive, yet it lingers deep in the recesses of memory, a rich, fragrant dream settled in the depths.",
-      "condition": "Visit Dreams of Fragrance"
+      "name": "香りを夢見る者",
+      "description": "全ての記憶の中で、香りは最も長く残り続ける。形を掴めずとも、記憶の奥底、深くに留まる豊かな余香の幻想として、残り続ける。",
+      "condition": "幻想の余香に到達する"
     },
     "room_3_a_corrupted_school": {
       "name": "Sunlit Schoolroom",
@@ -9563,9 +9563,9 @@
       "condition": "ステンドグラスのアルターを入手する、すでに入手している場合はLamp Forestの見つけた場所に行く。"
     },
     "gelatinous_alter": {
-      "name": "Deep Sea Treasures",
-      "description": "We're so cute and shiny! Are you jelly?",
-      "condition": "Obtain the Gelatinous alter. If you have already unlocked it, return where it can be found in Alien Ocean."
+      "name": "深海の宝物",
+      "description": "かわいくてピカピカでしょ！うらやましい？",
+      "condition": "ゼラチンのアルターを入手する、すでに入手している場合はAlien Oceanの見つけた場所に行く。"
     }
   },
   "someday": {
@@ -9816,8 +9816,8 @@
       "condition": "Sun Lord's Wrath eventを見る"
     },
     "turbine": {
-      "name": "Lone Kite",
-      "description": "It's just out of reach",
+      "name": "孤独の凧",
+      "description": "手が届かない",
       "condition": "Turbine Facilityの最奥に到達する"
     },
     "braille_angel": {
@@ -10116,14 +10116,14 @@
       "condition": "Clash of Mutated FormsでBisected Wormを見つける"
     },
     "night_henderson_lake": {
-      "name": "Mirrors of the Night Sky",
-      "description": "The night the stars touched the water.",
-      "condition": "See the night sky in Henderson Lake"
+      "name": "夜空を映す鏡",
+      "description": "星が水面に触れた夜。",
+      "condition": "Henderson Lakeで夜空を見る"
     },
     "figure_the_secret_woods": {
-      "name": "In the Starlit Silhouette",
-      "description": "A quiet dream beneath a thousand lights.",
-      "condition": "See the figure in the sky in The Secret Woods"
+      "name": "星灯る輪郭の中で",
+      "description": "千の光に照らされた静かな夢。",
+      "condition": "Secret Woodsの空に浮かぶ人の姿を見る"
     },
     "menu_8_overgrown_stairs": {
       "name": "Cozy of Nature",
