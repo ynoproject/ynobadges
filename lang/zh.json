@@ -552,6 +552,16 @@
       "name": "雨之低语",
       "description": "并不是雨呼唤了我的伞——而是我的伞呼唤了雨。",
       "condition": "获得雨伞效果。若已解锁，请返回Puddle World。"
+    },
+    "event_completionist": {
+      "name": "Nightmare Reverie",
+      "condition": "Trigger the FACE, Famicom Glitch, Melting Madotsuki, and the Witch's Flight fall events",
+      "checkbox": {
+        "face": "FACE",
+        "fc_glitch": "Famicom Glitch",
+        "melt": "Melting Madotsuki",
+        "fall": "Witch's Flight fall"
+      }
     }
   },
   "2kki": {
@@ -7502,6 +7512,90 @@
       "name": "红色话痨",
       "description": "按X来结束任务",
       "condition": "锯掉Red Black World的红色NPC"
+    },
+    "overgrown_city_secret": {
+      "name": "The Moon Beneath the Sea",
+      "description": "Where man-made light dreams of being the moon.",
+      "condition": "Interact with the back of the vending machine in the secret room of the Overgrown City"
+    },
+    "daily_toy_box": {
+      "name": "Daily Playtime",
+      "description": "I get to play with toys daily? Awesome!",
+      "condition": "Visit Daily Toy Box"
+    },
+    "insect_hug_glowing_hives": {
+      "name": "Cuddlebugs",
+      "description": "I'll take care of you as if you were one of my hatchlings.",
+      "condition": "Be petted by the big pink bug while wearing the Insect effect in Glowing Hives"
+    },
+    "chopstick_rice_bowl_world": {
+      "name": "Chopstick Man",
+      "description": "What a cute little creature!",
+      "condition": "Interact with one of the chopstick creatures in Rice Bowl World"
+    },
+    "field_of_cosmos": {
+      "name": "Harmony of Record",
+      "description": "The journey of a story begin with a walk to the past",
+      "condition": "Visit Field of Cosmos"
+    },
+    "sky_outlook_port_city": {
+      "name": "Cloud Gazing",
+      "description": "What a pretty view. I wonder what those structures are.",
+      "condition": "Reach the outlook and see the blue sky in Port City"
+    },
+    "twitching_child_night_world": {
+      "name": "Leave Me Alone",
+      "description": "Perhaps this was a bad time to walk in...",
+      "condition": "Trigger the Twitching Child event in Night World"
+    },
+    "m_wave_indeterminate_atrium": {
+      "name": "Starchaser",
+      "description": "Shoot for the moon, reach for the stars, and you may land among dreams.",
+      "condition": "Score 5000 points in the M-wave minigame of Indeterminate Atrium"
+    },
+    "creepy_face_haniwa_ruins": {
+      "name": "In my Way",
+      "condition": "Chainsaw the creepy face in Haniwa Ruins"
+    },
+    "lake_of_bones": {
+      "name": "Docks of Calcium",
+      "description": "Try to not break a leg getting here!",
+      "condition": "Visit Lake of Bones"
+    },
+    "shoal_blue_lavender": {
+      "name": "The Shoal Painted in Her Hue",
+      "description": "In the murky blue, her traces remain.",
+      "condition": "Visit Blue Lavender Shoal"
+    },
+    "memory_garden_long": {
+      "name": "Echoes in Bloom",
+      "description": "Where memories linger, flowers bloom quietly.",
+      "condition": "Go to Memory Garden from Luminous Lake"
+    },
+    "purple_dress_satellite_spway": {
+      "name": "Dreaming Dress",
+      "description": "A little dress dreaming of growing up.",
+      "condition": "Equip the Purple Dress mask in Satellite Space-way"
+    },
+    "gb_anomaly": {
+      "name": "A Weird Console",
+      "description": "Kinda strange... but still familiar.",
+      "condition": "Visit GB Anomaly"
+    },
+    "golden_mechanical_tower": {
+      "name": "I Like You, Little Dude!",
+      "description": "What kind of creature are you?! Doesn't matter but now we're friends!",
+      "condition": "Visit Golden Mechanical Tower"
+    },
+    "clown_underwater_amusement_park": {
+      "name": "Blissful Circus",
+      "description": "Aww, she's so happy! You'd trust her wouldn't you?",
+      "condition": "Interact with the clown with an accordeon in Underwater Amusement Park"
+    },
+    "guardian_firefly_clinic": {
+      "name": "Cozy and Secure",
+      "description": "This is safe! This is nice! Thank you kindly guardian!",
+      "condition": "Sit on the lap of the guardian in Firefly Clinic"
     }
   },
   "unconscious": {
@@ -8747,6 +8841,41 @@
       "name": "虫媒花",
       "description": "全都融合起来了……",
       "condition": "在Fasciation World看到Drain Girl"
+    },
+    "their_reveal_gradient_city": {
+      "name": "Their Reveal",
+      "description": "You can see right through them, and they can see right through you.",
+      "condition": "Get trapped after seeing the Their Reveal event in Gradient City"
+    },
+    "scarlet_river_festering_tomb": {
+      "name": "Beckoned by Thorns and Blood",
+      "description": "In a labyrinth where the unknown and the known trade places, will you mark the journey’s end - or long for its beginning?",
+      "condition": "Reach Scarlet River from Festering Tomb"
+    },
+    "girl_white_lotus_islands": {
+      "name": "Distant Floral Beauty",
+      "description": "So close, and yet so far...",
+      "condition": "Find the Lotus Girl in White Lotus Islands"
+    },
+    "dreams_of_fragrance": {
+      "name": "Olfactory Dreamer",
+      "description": "Of all our memories, scent is the last to fade. Its shape is elusive, yet it lingers deep in the recesses of memory, a rich, fragrant dream settled in the depths.",
+      "condition": "Visit Dreams of Fragrance"
+    },
+    "room_3_a_corrupted_school": {
+      "name": "Sunlit Schoolroom",
+      "description": "An overgrown room not yet claimed by corruption...",
+      "condition": "See the variant of the room 3-A in Corrupted School"
+    },
+    "zen_garden_passage_transition": {
+      "name": "Final Vinyl",
+      "description": "Familiar music in the past still playing right now in the gramophone",
+      "condition": "Reach the transition area between Zen Garden and Passage"
+    },
+    "adobe_town": {
+      "name": "Sunrise Town",
+      "description": "Wonderful time to see this lovely town",
+      "condition": "Visit Adobe Town"
     }
   },
   "flow": {
@@ -9429,6 +9558,11 @@
       "name": "人形小夜灯！",
       "description": "她不需要小夜灯，因为她自己就是！",
       "condition": "获得琉璃效果。若已获得，请返回Lamp Forest获得该效果处。"
+    },
+    "gelatinous_alter": {
+      "name": "Deep Sea Treasures",
+      "description": "We're so cute and shiny! Are you jelly?",
+      "condition": "Obtain the Gelatinous alter. If you have already unlocked it, return where it can be found in Alien Ocean."
     }
   },
   "someday": {
@@ -9679,7 +9813,8 @@
       "condition": "触发Sun Lord's Wrath事件。"
     },
     "turbine": {
-      "name": "涡轮",
+      "name": "Lone Kite",
+      "description": "It's just out of reach",
       "condition": "抵达Turbine Facility的最深处。"
     },
     "braille_angel": {
@@ -9976,6 +10111,21 @@
     "worm_clash_mutated_forms": {
       "name": "渗出的吼声",
       "condition": "在Clash of Mutated Forms找到Bisected Worm"
+    },
+    "night_henderson_lake": {
+      "name": "Mirrors of the Night Sky",
+      "description": "The night the stars touched the water.",
+      "condition": "See the night sky in Henderson Lake"
+    },
+    "figure_the_secret_woods": {
+      "name": "In the Starlit Silhouette",
+      "description": "A quiet dream beneath a thousand lights.",
+      "condition": "See the figure in the sky in The Secret Woods"
+    },
+    "menu_8_overgrown_stairs": {
+      "name": "Cozy of Nature",
+      "description": "Is it pretty to see light in the dark?",
+      "condition": "Obtain the menu theme 8. If you have already unlocked it, return where it can be found in Overgrown Stairs."
     }
   },
   "braingirl": {
@@ -11213,6 +11363,11 @@
       "name": "死神的甜美拥抱",
       "description": "每一个结局都只是另一种美的形式。",
       "condition": "获得死神塔罗牌。若已解锁，请返回Mourning Field。"
+    },
+    "the_lovers_card": {
+      "name": "\"You're Just as Beautiful.\"",
+      "description": "\"Your hair reminds me of the sea, your eyes are like jewels, everything about you is beautiful...\"",
+      "condition": "Obtain The Lovers card. If you have already unlocked it, return return where it can be found in the Chapel."
     }
   },
   "oversomnia": {
@@ -11853,6 +12008,11 @@
       "name": "你上钩了！",
       "description": "……你是在休息吗？顺便问一下，你在钓啥？",
       "condition": "从Lotus Marsh抵达Docks"
+    },
+    "robot_effect_tsushin": {
+      "name": "Come Forth, my Other Self!",
+      "description": "Check out these brilliant piloting techniques!",
+      "condition": "Obtain the Robot effect. If you have already unlocked it, return where it can be found in the Factory."
     }
   },
   "nostalgic": {
