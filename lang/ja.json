@@ -556,12 +556,12 @@
     "neon_effect": {
       "name": "ああ、ここは明るすぎる",
       "description": "夜中の人口の光はすごく明るいけど……",
-      "condition": "ネオンのエフェクトを入手する、すでに入手している場合は、もう一度ネオンの世界に行くNeon World."
+      "condition": "ネオンのエフェクトを入手する、すでに入手している場合は、もう一度ネオンの世界に行く。"
     },
     "umbrella_effect": {
-      "name": "A Whisper of Rain",
-      "description": "The rain doesn't call for my umbrella - my umbrella calls for the rain.",
-      "condition": "Obtain the Umbrella effect. If you have already unlocked it, return to Puddle World."
+      "name": "雨のささやき",
+      "description": "雨が私の傘を呼ぶのではなく、私の傘が雨を呼ぶのだ。",
+      "condition": "かさのエフェクトを入手する、すでに入手している場合は、もう一度水溜りの世界に行く。"
     },
     "event_completionist": {
       "name": "わるいゆめ",
@@ -7477,44 +7477,44 @@
       "condition": "駐車場にいる緑色の生き物に話しかける"
     },
     "fall_shoal": {
-      "name": "Undulating Fall Ears",
-      "description": "Autumn ears are waving their hands...",
-      "condition": "Visit Fall Shoal"
+      "name": "波打つ秋穂",
+      "description": "秋色の穂が手を振っている……",
+      "condition": "秋穂浅瀬に到達する"
     },
     "boy_cake_room_pleasure_street": {
-      "name": "Secret of the Cake Room",
-      "description": "You're a monster.",
-      "condition": "Equip the Boy effect in the cake room of Pleasure Street"
+      "name": "少女たちの秘密",
+      "description": "お前は怪物だ。",
+      "condition": "シアンホテル:女の子たちの部屋で、おとこのこのエフェクトを装備する"
     },
     "cat_cemetery": {
-      "name": "Rest in Treats",
-      "description": "In memory of our feline friends.",
-      "condition": "Visit Cat Cemetery"
+      "name": "ご褒美が眠る森",
+      "description": "猫たちの思い出に。",
+      "condition": "猫墓地に到達する"
     },
     "maid_graffiti_garage": {
-      "name": "Girl Standing in the Back Alley",
-      "description": "\"This is how she treats me as soon as we meet?!\"",
-      "condition": "Chainsaw the blue-haired maid in Graffiti Garage"
+      "name": "裏路地に立つ少女",
+      "description": "「初対面でこの扱いってちょっとひどくない！？」",
+      "condition": "裏路字で青髪のメイドをチェーンソーで斬る"
     },
     "exterior_whispery_sewers": {
-      "name": "Breath of Fresh Air!",
-      "description": "The sewers bring you a nice vista!",
-      "condition": "Reach the outside area of Whispery Sewers"
+      "name": "さあ、新鮮な空気をどうぞ！",
+      "description": "下水道が見せる素敵な眺め！",
+      "condition": "地下水洞:屋外に到達する"
     },
     "flooded_docks": {
-      "name": "Docks of Solitude",
-      "description": "On the road to the sea of regrets",
-      "condition": "Visit Flooded Docks"
+      "name": "孤独の桟橋",
+      "description": "後悔の海へと続く道の上で",
+      "condition": "洪水桟橋に到達する"
     },
     "food_fast_food_hell": {
-      "name": "Too Yummy to Stop!",
-      "description": "Once you start, there’s no going back!",
-      "condition": "Buy food from Fast Food Hell"
+      "name": "やめられない美味しさ！",
+      "description": "一度食べ始めたら、もう戻れない！",
+      "condition": "店と地獄でハンバーガーセットを注文する"
     },
     "house_figure_red_black_world": {
-      "name": "Red Yapper",
-      "description": "Press X to end task",
-      "condition": "Chainsaw the red figure in the house of Red Black World"
+      "name": "赤いおしゃべり野郎",
+      "description": "タスクを終了するにはXを押せ",
+      "condition": "ジョクジュ:小部屋で多弁な人をチェーンソーで斬る"
     },
     "overgrown_city_secret": {
       "name": "The Moon Beneath the Sea",
@@ -7550,6 +7550,55 @@
       "name": "Leave Me Alone",
       "description": "Perhaps this was a bad time to walk in...",
       "condition": "Trigger the Twitching Child event in Night World"
+    },
+    "m_wave_indeterminate_atrium": {
+      "name": "Starchaser",
+      "description": "Shoot for the moon, reach for the stars, and you may land among dreams.",
+      "condition": "Score 5000 points in the M-wave minigame of Indeterminate Atrium"
+    },
+    "creepy_face_haniwa_ruins": {
+      "name": "In my Way",
+      "condition": "Chainsaw the creepy face in Haniwa Ruins"
+    },
+    "lake_of_bones": {
+      "name": "Docks of Calcium",
+      "description": "Try to not break a leg getting here!",
+      "condition": "Visit Lake of Bones"
+    },
+    "shoal_blue_lavender": {
+      "name": "The Shoal Painted in Her Hue",
+      "description": "In the murky blue, her traces remain.",
+      "condition": "Visit Blue Lavender Shoal"
+    },
+    "memory_garden_long": {
+      "name": "Echoes in Bloom",
+      "description": "Where memories linger, flowers bloom quietly.",
+      "condition": "Go to Memory Garden from Luminous Lake"
+    },
+    "purple_dress_satellite_spway": {
+      "name": "Dreaming Dress",
+      "description": "A little dress dreaming of growing up.",
+      "condition": "Equip the Purple Dress mask in Satellite Space-way"
+    },
+    "gb_anomaly": {
+      "name": "A Weird Console",
+      "description": "Kinda strange... but still familiar.",
+      "condition": "Visit GB Anomaly"
+    },
+    "golden_mechanical_tower": {
+      "name": "I Like You, Little Dude!",
+      "description": "What kind of creature are you?! Doesn't matter but now we're friends!",
+      "condition": "Visit Golden Mechanical Tower"
+    },
+    "clown_underwater_amusement_park": {
+      "name": "Blissful Circus",
+      "description": "Aww, she's so happy! You'd trust her wouldn't you?",
+      "condition": "Interact with the clown with an accordeon in Underwater Amusement Park"
+    },
+    "guardian_firefly_clinic": {
+      "name": "Cozy and Secure",
+      "description": "This is safe! This is nice! Thank you kindly guardian!",
+      "condition": "Sit on the lap of the guardian in Firefly Clinic"
     }
   },
   "unconscious": {
@@ -8787,14 +8836,14 @@
       "condition": "星の湖水で紫のナースの隣に座る"
     },
     "mermaid_overgrown_railway": {
-      "name": "M(ar)innatsuki",
-      "description": "Just like me, but from the sea",
-      "condition": "Find the Minnatsuki mermaid in Overgrown Railway"
+      "name": "みん魚つき",
+      "description": "私のようだけど、海から来ている",
+      "condition": "廃線で見覚えのある人を見つける"
     },
     "drain_girl_fasciation_world": {
-      "name": "Psychophily",
-      "description": "It's all fusing together...",
-      "condition": "See the Drain Girl in Fasciation World"
+      "name": "サイコパシー",
+      "description": "すべてが融合していく……",
+      "condition": "帯化で目が帯化した少女を見る"
     },
     "their_reveal_gradient_city": {
       "name": "赤色の街",
@@ -8815,6 +8864,21 @@
       "name": "香りを夢見る者",
       "description": "全ての記憶の中で、香りは最も長く残り続ける。形を掴めずとも、記憶の奥底、深くに留まる豊かな余香の幻想として、残り続ける。",
       "condition": "幻想の余香に到達する"
+    },
+    "room_3_a_corrupted_school": {
+      "name": "Sunlit Schoolroom",
+      "description": "An overgrown room not yet claimed by corruption...",
+      "condition": "See the variant of the room 3-A in Corrupted School"
+    },
+    "zen_garden_passage_transition": {
+      "name": "Final Vinyl",
+      "description": "Familiar music in the past still playing right now in the gramophone",
+      "condition": "Reach the transition area between Zen Garden and Passage"
+    },
+    "adobe_town": {
+      "name": "Sunrise Town",
+      "description": "Wonderful time to see this lovely town",
+      "condition": "Visit Adobe Town"
     }
   },
   "flow": {
@@ -10043,13 +10107,13 @@
       "condition": "Nightcapのエフェクトを入手する、すでに入手している場合はStar FieldのSky Pathの見つけた場所に行く。"
     },
     "quare_grassy_pipes": {
-      "name": "Android Pitcher",
-      "description": "Why did you interrupt me? I was concentrating!",
-      "condition": "See Quare's face in Grassy Pipes"
+      "name": "アンドロイド・ピッチャー",
+      "description": "なんで邪魔したんだ？集中してたのに！",
+      "condition": "Grassy PipesでQuareの顔を見る"
     },
     "worm_clash_mutated_forms": {
-      "name": "Oozing Roar",
-      "condition": "Find the Bisected Worm in Clash of Mutated Forms"
+      "name": "滲み出る咆哮",
+      "condition": "Clash of Mutated FormsでBisected Wormを見つける"
     },
     "night_henderson_lake": {
       "name": "夜空を映す鏡",
@@ -10060,6 +10124,11 @@
       "name": "星灯る輪郭の中で",
       "description": "千の光に照らされた静かな夢。",
       "condition": "Secret Woodsの空に浮かぶ人の姿を見る"
+    },
+    "menu_8_overgrown_stairs": {
+      "name": "Cozy of Nature",
+      "description": "Is it pretty to see light in the dark?",
+      "condition": "Obtain the menu theme 8. If you have already unlocked it, return where it can be found in Overgrown Stairs."
     }
   },
   "braingirl": {
@@ -11294,9 +11363,14 @@
       "condition": "Jester's PathでRabbit Takeoverイベントを見る"
     },
     "death_card": {
-      "name": "The Sweet Embrace of Death",
-      "description": "Every ending is just another form of beauty.",
-      "condition": "Obtain the Death card. If you have already unlocked it, return to Mourning Field."
+      "name": "甘美なる死の抱擁",
+      "description": "あらゆる終わりは、美の一つの形にすぎない。",
+      "condition": "Deathのcardを入手する、すでに入手している場合はMourning Fieldの見つけた場所にもう一度行く"
+    },
+    "the_lovers_card": {
+      "name": "\"You're Just as Beautiful.\"",
+      "description": "\"Your hair reminds me of the sea, your eyes are like jewels, everything about you is beautiful...\"",
+      "condition": "Obtain The Lovers card. If you have already unlocked it, return return where it can be found in the Chapel."
     }
   },
   "oversomnia": {
@@ -11343,7 +11417,7 @@
     "dust_bunny": {
       "name": "可愛くなあれ！",
       "description": "かわいいね！",
-      "condition": "エフェクトを見つけ、扉部屋にいるLuckyに話しかける"
+      "condition": "ほこりうさぎのエフェクトを見つけ、扉部屋にいるLuckyに話しかける"
     },
     "hoarder_colors": {
       "name": "ノストラダムスの蛍",
@@ -11418,7 +11492,7 @@
     "emergency_secret_doors": {
       "name": "溶ける幽霊",
       "description": "彼らはコミュニケーションを試みているが、私には聞こえない……",
-      "condition": "Emergency Roomの特定の場所でTuning Forkエフェクトを使う"
+      "condition": "Emergency Roomの特定の場所で音叉のエフェクトを使う"
     },
     "bed_hair_girl_death": {
       "name": "熊の檻",
@@ -11453,7 +11527,7 @@
     "sun_weather_station": {
       "name": "光が！灼ける！",
       "description": "正直に言うとこうなることは分かっていたはずだ...",
-      "condition": "Weather Stationにいるsun guyに対してVampirismを使う"
+      "condition": "Weather Stationにいるsun guyに対して吸血鬼性のエフェクトを使う"
     },
     "stormy_towers_cone": {
       "name": "熱心なアシスタント",
@@ -11473,12 +11547,12 @@
     "urchin_aquarium_world": {
       "name": "ウニの目",
       "description": "水族館にいるウニちゃんに歌を届けて僕を見てもらおう",
-      "condition": "Tuning Forkを使ってAquarium Worldにいるウニの目を開かせる"
+      "condition": "音叉のエフェクトを使ってAquarium Worldにいるウニの目を開かせる"
     },
     "curtain_den_raccoon": {
       "name": "化けの皮だ！",
       "description": "え？！？！",
-      "condition": "Curtain Denにいる狸をWendigoエフェクトで調べる"
+      "condition": "Curtain Denにいる狸をウェンディゴのエフェクトで調べる"
     },
     "vent_ventilation_passage": {
       "name": "絶句の光景",
@@ -11487,7 +11561,7 @@
     "cat_oil_world": {
       "name": "ネコウィンク",
       "description": "少年、あんたの持ってる音叉は最高だ！",
-      "condition": "Oil Worldの巨大な猫にTuning Fork effectを使う"
+      "condition": "Oil Worldの巨大な猫に音叉のエフェクトを使う"
     },
     "snail_pool_world": {
       "name": "プールで会えるともだち",
@@ -11507,12 +11581,12 @@
     "dust_bunny_effect": {
       "name": "Irvingとうさぎ",
       "description": "おおきくてもふもふなうさぎ！",
-      "condition": "Dust Bunnyのエフェクトを入手する、すでに入手している場合はAttic Worldの見つけた場所に行く。"
+      "condition": "ほこりうさぎのエフェクトを入手する、すでに入手している場合はAttic Worldの見つけた場所に行く。"
     },
     "vampirism_effect_oversomnia": {
       "name": "悪意に満ちた記憶",
       "description": "彼らが無事だったらいいな。",
-      "condition": "Vampirismのエフェクトを入手する、すでに入手している場合はGloomy Wetlandsの隔離エリアの見つけた場所に行く。"
+      "condition": "吸血鬼性のエフェクトを入手する、すでに入手している場合はGloomy Wetlandsの隔離エリアの見つけた場所に行く。"
     },
     "cardboard_basement_world": {
       "name": "秘密の隠れ家",
@@ -11536,12 +11610,12 @@
     "gargoyle_effect": {
       "name": "勇敢な記憶",
       "description": "城塞のような迷路の中に、寂しげなガーゴイルがあった。魔除けが役目といっても、寂しい時はあるだろう。",
-      "condition": "Gargoyleのエフェクトを入手する、すでに入手している場合はRampartsの見つけた場所に行く。"
+      "condition": "ガーゴイルのエフェクトを入手する、すでに入手している場合はRampartsの見つけた場所に行く。"
     },
     "wendigo_effect": {
       "name": "望まない記憶",
       "description": "緋色の木々が生い茂る森の奥深くに、背の高い怪物がいた。その瞳は血のような色に輝いており、望まない記憶を思い起こさせた。",
-      "condition": "Wendigoのエフェクトを入手する、すでに入手している場合はScarlet Worldの見つけた場所に行く。"
+      "condition": "ウェンディゴのエフェクトを入手する、すでに入手している場合はScarlet Worldの見つけた場所に行く。"
     },
     "death_row_ventilation_passage": {
       "name": "ウロボロスの誕生",
@@ -11571,8 +11645,7 @@
     "skeleton_key_pick_pro": {
       "name": "未知への鍵",
       "description": "これでどんな神秘的なものを見つけられるんだろう……",
-      "condition": "Skeleton Keyのエフェクトを使って、Weather Station、Outback Roads、Pool World、Rainy Village、Garden Centreにある鍵のかかった扉を開ける",
-      "checkbox": {
+      "condition": "合鍵のエフェクトを使って、Weather Station、Outback Roads、Pool World、Rainy Village、Garden Centreにある鍵のかかった扉を開ける",      "checkbox": {
         "skeleton_key_weather_station": "Weather Station",
         "skeleton_key_outback_roads": "Outback Roads",
         "magic_8_ball_room": "Pool World",
@@ -11937,6 +12010,11 @@
       "name": "釣られたな！",
       "description": "……今は休憩中？ ところで、何を釣ってるの？",
       "condition": "Lotus MarshからDocksに行く"
+    },
+    "robot_effect_tsushin": {
+      "name": "Come Forth, my Other Self!",
+      "description": "Check out these brilliant piloting techniques!",
+      "condition": "Obtain the Robot effect. If you have already unlocked it, return where it can be found in the Factory."
     }
   },
   "nostalgic": {
