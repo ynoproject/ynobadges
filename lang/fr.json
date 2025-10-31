@@ -7536,6 +7536,55 @@
       "name": "Laisse-moi tranquille !",
       "description": "P'têt que c'était pas le bon moment pour entrer...",
       "condition": "Déclencher l'événement de l'Enfant Convulsant au Night World"
+    },
+    "m_wave_indeterminate_atrium": {
+      "name": "Star chaser",
+      "description": "« She's a spacer, a star chaser~ ♪ »",
+      "condition": "Marquer 5000 points au mini-jeu M-wave de l'Indeterminate Atrium"
+    },
+    "creepy_face_haniwa_ruins": {
+      "name": "En plein milieu du passage",
+      "condition": "Tronçonner le visage flippant aux Haniwa Ruins"
+    },
+    "lake_of_bones": {
+      "name": "Quais de calcium",
+      "description": "Essaie de ne pas te casser la jambe ici !",
+      "condition": "Visiter le Lake of Bones"
+    },
+    "shoal_blue_lavender": {
+      "name": "Le banc de sable de ses couleurs",
+      "description": "Dans le bleu trouble, des traces d'elle restent.",
+      "condition": "Visiter la Blue Lavender Shoal"
+    },
+    "memory_garden_long": {
+      "name": "Échos dans la floraison",
+      "description": "Là où les souvenirs s'éparpillent, les fleurs fleurissent silencieusement.",
+      "condition": "Aller au Memory Garden depuis le Luminous Lake"
+    },
+    "purple_dress_satellite_spway": {
+      "name": "Robe rêveuse",
+      "description": "Une petite robe rêvant de pouvoir grandir.",
+      "condition": "Équiper le masque de la Robe Rose au Satellite Space-way"
+    },
+    "gb_anomaly": {
+      "name": "Une étrange console",
+      "description": "Plutôt étrange... mais toujours familier.",
+      "condition": "Visiter la GB Anomaly"
+    },
+    "golden_mechanical_tower": {
+      "name": "Je t'aime, p'tit gars !",
+      "description": "Quel genre de créature es-tu ?! ... c'est pas important, désormais nous sommes amis !",
+      "condition": "Visiter la Golden Mechanical Tower"
+    },
+    "clown_underwater_amusement_park": {
+      "name": "Cirque bienheureux",
+      "description": "Aww, elle est tellement heureuse ! Elle t'inspire confiance, hein ? Pas vrai ?",
+      "condition": "Interagir avec le clown portant un accordéon à l'Underwater Amusement Park"
+    },
+    "guardian_firefly_clinic": {
+      "name": "Douillet et tranquille",
+      "description": "C'est pas dangereux ! Et c'est doux ! Merci beaucoup monsieur le gardien !",
+      "condition": "S'asseoir sur les genoux du gardien à la Firefly Clinic"
     }
   },
   "unconscious": {
@@ -8801,6 +8850,21 @@
       "name": "Rêveuse olfactive",
       "description": "De tous nos souvenirs, l'odorat est le dernier à s'évaporer. Sa forme est insaisissable, et pourtant, il reste profondément encré dans les recoins de la mémoire, tel un riche, doux rêve parfumé installé dans les profondeurs.",
       "condition": "Visiter les Dreams of Fragrance"
+    },
+    "room_3_a_corrupted_school": {
+      "name": "Salle de classe et douce lueur",
+      "description": "Une salle où la nature a repris ses droits, sans pour autant laisser faire la corruption...",
+      "condition": "Voir la variante de la salle 3-A à la Corrupted School"
+    },
+    "zen_garden_passage_transition": {
+      "name": "Vinyle final",
+      "description": "De la musique familière d'antan joue toujours dans ce gramophone",
+      "condition": "Atteindre la zone de transition entre le Zen Garden et le Passage"
+    },
+    "adobe_town": {
+      "name": "Village aurore",
+      "description": "Quel temps magnifique pour voir ce merveilleux village...",
+      "condition": "Visiter l'Adobe Town"
     }
   },
   "flow": {
@@ -10046,6 +10110,11 @@
       "name": "Silhouette étoilée",
       "description": "Un rêve silencieux sous une myriade de lumières.",
       "condition": "Voir la silhouette dans le ciel à The Secret Woods"
+    },
+    "menu_8_overgrown_stairs": {
+      "name": "Douceur de la nature",
+      "description": "Est-ce beau de voir la lumière dans les ténèbres ?",
+      "condition": "Obtenir le thème de menu 8. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé aux Overgrown Stairs."
     }
   },
   "braingirl": {
@@ -11283,6 +11352,11 @@
       "name": "La douce étreinte de la mort",
       "description": "Toute fin est juste une autre forme de beauté.",
       "condition": "Obtenir la carte Mort. Si vous l'avez déjà obtenue, retournez au Mourning Field."
+    },
+    "the_lovers_card": {
+      "name": "« Tu es tellement magnifique. »",
+      "description": "« Tes cheveux me rappellent les douces ondulations des vagues de la mer, tes yeux les lueurs d'un diamant : même le mot \"beauté\" ne pourrait parvenir à décrire ton élégance... »",
+      "condition": "Obtenir la carte Les Amants. Si vous l'avez déjà obtenue, retournez là où elle peut être trouvée dans la Chapel."
     }
   },
   "oversomnia": {
@@ -11923,6 +11997,11 @@
       "name": "Tu t'es prise mon hameçon !",
       "description": "... T'es en pause ? D'ailleurs, qu'essaies-tu de pêcher ?",
       "condition": "Atteindre les Docks depuis le Lotus Marsh"
+    },
+    "robot_effect_tsushin": {
+      "name": "En avant, mon autre moi !",
+      "description": "Mate-moi ces techniques de pilotage de malade !",
+      "condition": "Obtenir l'effet Robot. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à la Factory."
     }
   },
   "nostalgic": {
