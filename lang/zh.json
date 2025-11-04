@@ -7596,6 +7596,66 @@
       "name": "Cozy and Secure",
       "description": "This is safe! This is nice! Thank you kindly guardian!",
       "condition": "Sit on the lap of the guardian in Firefly Clinic"
+    },
+    "christmas_frozen_glade": {
+      "name": "Dreaming of a White Christmas",
+      "description": "\"It's the nap-nappiest season of all~\"",
+      "condition": "Trigger the Christmas event in Frozen Glade"
+    },
+    "2kki_menu_99": {
+      "name": "Under the Same Dream",
+      "description": "In the silence of the night, dreams become eternal.",
+      "condition": "Obtain the menu type 99. If you have already unlocked it, return where it can be found in Radiant Waters."
+    },
+    "mint_town": {
+      "name": "Chasing the Mint Breeze",
+      "description": "Where the windmills sing and the air smells like mint.",
+      "condition": "Visit Mint Town"
+    },
+    "house_holographic_reef": {
+      "name": "Crystallized Echo Chamber",
+      "description": "Crystals slowly grow towards the light, consuming and refracting it",
+      "condition": "Reach the Tiny House in Holographic Reef"
+    },
+    "red_waters": {
+      "name": "Transitional Ritual",
+      "description": "Close your eyes and let the magic do the rest...",
+      "condition": "Visit Red Waters"
+    },
+    "neon_vm_radiant_waters": {
+      "name": "Transcendence in the Glowing Cave",
+      "description": "This greenish creature has reached a state of awe through meditation that cultivates patience",
+      "condition": "Turn the vending machine lounge to neon in Radiant Waters"
+    },
+    "rainbow_axis": {
+      "name": "Polychromatic Runner",
+      "description": "Rainbowly running.",
+      "condition": "Visit Rainbow Axis"
+    },
+    "bird_overwork_office": {
+      "name": "Lonely Bird",
+      "description": "Time has stopped just for us to see the cloudy sky.",
+      "condition": "See the bird in Overwork Office"
+    },
+    "black_murals": {
+      "name": "Obsidian Relief",
+      "description": "Beautiful patterns carved into the wall",
+      "condition": "Visit Black Murals"
+    },
+    "paw_cat_garden_festival": {
+      "name": "An Un-Furgettable Moment!",
+      "description": "Oh, I didn't see you there! You're so fluffy...!",
+      "condition": "Touch the paw of the cat in Garden Festival"
+    },
+    "system_sounds_8": {
+      "name": "A Voice from Elsewhere",
+      "description": "Into the depth of the secret...",
+      "condition": "Obtain the system sounds 8. If you have already unlocked it, return where it can be found in Snow Black."
+    },
+    "upside_down_forest_world": {
+      "name": "Confusion",
+      "description": "What do you mean the trees grow in midair? This is madness!",
+      "condition": "Visit Upside-down Forest World"
     }
   },
   "unconscious": {
@@ -8876,6 +8936,16 @@
       "name": "Sunrise Town",
       "description": "Wonderful time to see this lovely town",
       "condition": "Visit Adobe Town"
+    },
+    "music_box_moth_garden": {
+      "name": "Requiem for a Moth",
+      "description": "A fleeting proof of existence, just a white outline fading away.",
+      "condition": "Play the music box in Moth Garden"
+    },
+    "lumen_eidolon": {
+      "name": "Radiant Scyphozoa",
+      "description": "In the deepest abyss, your inner light shall shine the brightest",
+      "condition": "Obtain the Lumen eidolon. If you have already unlocked it, return to Jellyfish World."
     }
   },
   "flow": {
@@ -9563,6 +9633,11 @@
       "name": "Deep Sea Treasures",
       "description": "We're so cute and shiny! Are you jelly?",
       "condition": "Obtain the Gelatinous alter. If you have already unlocked it, return where it can be found in Alien Ocean."
+    },
+    "damage_alter": {
+      "name": "The Tragic Remnants of Medical Experiments",
+      "description": "All I can think about now is causing damage.",
+      "condition": "Obtain the Damage alter. If you have already unlocked it, return where it can be found in Hospital."
     }
   },
   "someday": {
@@ -10126,6 +10201,11 @@
       "name": "Cozy of Nature",
       "description": "Is it pretty to see light in the dark?",
       "condition": "Obtain the menu theme 8. If you have already unlocked it, return where it can be found in Overgrown Stairs."
+    },
+    "undersea_magnolia_pier": {
+      "name": "Seabed Cavern",
+      "description": "And I descend from grace in arms of undertow; I will take my place in the great below.",
+      "condition": "Reach the undersea area in Magnolia Pier"
     }
   },
   "braingirl": {
@@ -10225,6 +10305,11 @@
       "name": "方便的电力",
       "description": "Mikan的负担有轻一些吗？",
       "condition": "获得电灯效果。若已解锁，请返回Shrine Garden：Garden Ascend获得该效果处。"
+    },
+    "duckling_dress_effect": {
+      "name": "Adorable Duck",
+      "description": "I'm like a bird, I'm like a bird! I don't know where my soul is.",
+      "condition": "Obtain the Duckling Dress effect. If you have already unlocked it, return where it can be found in Cubic Ruins."
     }
   },
   "amillusion": {
@@ -11368,6 +11453,16 @@
       "name": "\"You're Just as Beautiful.\"",
       "description": "\"Your hair reminds me of the sea, your eyes are like jewels, everything about you is beautiful...\"",
       "condition": "Obtain The Lovers card. If you have already unlocked it, return return where it can be found in the Chapel."
+    },
+    "sky_fortress_time": {
+      "name": "Shifting my View",
+      "description": "How does it feel to see the sky in many colors?",
+      "condition": "See the Sky Fortress during daytime, afternoon and nightime",
+      "checkbox": {
+        "sky_fortress_day": "daytime",
+        "sky_fortress_afternoon": "afternoon",
+        "sky_fortress_night": "nightime"
+      }
     }
   },
   "oversomnia": {
@@ -11650,6 +11745,11 @@
         "skeleton_key_rainy_village": "Rainy Village",
         "skeleton_key_garden_centre": "Garden Centre"
       }
+    },
+    "bellhop_effect": {
+      "name": "Productive Memory",
+      "description": "Atop some buildings engulfed in a fog of sorts was an odd creature hanging off a ledge. It was reaching out, as if something, or someone, had fallen off the building.",
+      "condition": "Obtain the Bellhop effect. If you have already unlocked it, return where it can be found in the isolated section of Vermillion Rooftops."
     }
   },
   "tsushin": {
@@ -12013,6 +12113,11 @@
       "name": "Come Forth, my Other Self!",
       "description": "Check out these brilliant piloting techniques!",
       "condition": "Obtain the Robot effect. If you have already unlocked it, return where it can be found in the Factory."
+    },
+    "dead_woods": {
+      "name": "Lifeless Creation",
+      "description": "Do you feel the cold behind you?",
+      "condition": "Visit the Dead Woods"
     }
   },
   "nostalgic": {
