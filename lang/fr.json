@@ -7708,6 +7708,16 @@
       "name": "La ville revitalisante",
       "description": "Un nouvel horizon pour l'avenir des villes, peut-être ?",
       "condition": "Visiter la zone principale de la City of Revival"
+    },
+    "secret_room_secret_society": {
+      "name": "Un cycle éternel de mort et de naissance",
+      "description": "C'est donc de là qu'ils viennent tous !",
+      "condition": "Atteindre la salle de clonage à la Secret Society"
+    },
+    "shark_glacier_island": {
+      "name": "Requinou pris dans la glace",
+      "description": "Tu as trouvé une glace requin ! ... enfin, je crois.",
+      "condition": "Trouver le requin glacé à la Glacier Island"
     }
   },
   "unconscious": {
@@ -9017,6 +9027,11 @@
       "name": "Perle volante",
       "description": "Quelque chose rend ce lieu si... apaisant",
       "condition": "Obtenir le thème de menu Apparition Chromatique. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à l'Undergrowth."
+    },
+    "rain_stars_cosmic_woods": {
+      "name": "Migration du cosmos",
+      "description": "Par hasard, le vaisseau spatial et les étoiles s'y dirigèrent tous au même moment",
+      "condition": "Voir la pluie d'étoiles aux Cosmic Woods"
     }
   },
   "flow": {
@@ -9064,8 +9079,8 @@
       "condition": "Trouver l'œil rouge sur le mur dans les Apartments et le faire cligner"
     },
     "other_worlds": {
-      "name": "Autres mondes",
-      "description": "Les accords du piano mènent... quelque part...",
+      "name": "Mélodie lointaine",
+      "description": "Quelle merveilleuse musique...",
       "condition": "Entrer dans le Young Passage et le Microscopic World",
       "checkbox": {
         "microscopic_world": "Microorganism World",
