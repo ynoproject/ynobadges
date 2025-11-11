@@ -562,6 +562,11 @@
         "melt": "Melting Madotsuki",
         "fall": "Witch's Flight的坠落事件"
       }
+    },
+    "lamp_effect": {
+      "name": "Expensive Electricity Bill",
+      "description": "At least you don't have to be scared of the dark anymore!",
+      "condition": "Obtain the Lamp effect. If you have already unlocked it, return to Lamp World."
     }
   },
   "2kki": {
@@ -1687,7 +1692,7 @@
     },
     "sixth_terminal_entrances": {
       "name": "互联网络",
-      "condition": "激活Sixth Terminal的全部4个连接"
+      "condition": "激活Six-Layer Terminal的全部4个连接"
     },
     "shadow_cat": {
       "name": "追猫捕影",
@@ -2545,7 +2550,7 @@
     "carousel_oriental": {
       "name": "Mood Swings",
       "description": "摇啊摇，摇啊摇...",
-      "condition": "进入Oriental Pub与传送npc连接的六个连接点（Test Facility、Holiday Hell、Ice Cream Islands、Tribulation Complex、Platformer World、Abandoned Grounds）。",
+      "condition": "进入Redlight Alley与传送npc连接的六个连接点（Test Facility、Holiday Hell、Ice Cream Islands、Tribulation Complex、Platformer World、Abandoned Grounds）。",
       "checkbox": {
         "humanoid_angry": "Test Facility",
         "humanoid_crying": "Holiday Hell",
@@ -3012,7 +3017,7 @@
     },
     "oriental_lake": {
       "name": "湖滨纪念碑",
-      "condition": "抵达Oriental Lake。"
+      "condition": "抵达Dark Pagoda Lake。"
     },
     "manekineko": {
       "name": "~招财猫~",
@@ -6424,7 +6429,7 @@
     "ninja_oriental_dojo": {
       "name": "被我看穿了！",
       "description": "哎哟，勉强脱险了……",
-      "condition": "尝试锯掉Oriental Dojo的忍者"
+      "condition": "尝试锯掉Mansion Garden的忍者"
     },
     "lovers_alrescha_sea": {
       "name": "相爱人鱼",
@@ -6656,7 +6661,7 @@
     "sunrise_drink": {
       "name": "落日鸡尾酒",
       "description": "*碰杯！*",
-      "condition": "抵达以下地点的酒吧：Japan Town、he Baddies Bar、yeball Archives、Cyber Bar、Cocktail Lounge、Aquamarine Cave、Spaceship、Oriental Pub、Water Reclamation Facility",
+      "condition": "抵达以下地点的酒吧：Japan Town、he Baddies Bar、yeball Archives、Cyber Bar、Cocktail Lounge、Aquamarine Cave、Spaceship、Redlight Alley、Water Reclamation Facility",
       "checkbox": {
         "underground_bar": "Japan Town",
         "baddies_bar_bar": "The Baddies Bar",
@@ -6664,7 +6669,7 @@
         "cyber_bar": "Cyber Bar",
         "aquamarine_cave_bar": "Aquamarine Cave",
         "spaceship_bar": "Spaceship",
-        "orential_pub": "Oriental Pub",
+        "orential_pub": "Redlight Alley",
         "water_facility_bar": "Water Reclamation Facility",
         "cocktail_lounge": "Cocktail Lounge"
       }
@@ -7656,6 +7661,89 @@
       "name": "迷惑",
       "description": "你说树在半空中生长？疯了吧你！",
       "condition": "抵达Upside-down Forest World"
+    },
+    "aster_geode_valley": {
+      "name": "Blooming Star in Blue",
+      "description": "They glow like a star, they bloom like a flower.",
+      "condition": "Interact with Aster in Geode Valley"
+    },
+    "ballpit_playhouse": {
+      "name": "Kaleidoscope of Youth",
+      "description": "Colors as far as the eye can see...",
+      "condition": "Reach the ballpit in Playhouse"
+    },
+    "night_desolate_landscape": {
+      "name": "Coldest Moon",
+      "description": "This coldness is eating me alive",
+      "condition": "Reach the night landscape area in Desolate Snowscape"
+    },
+    "big_fish_dreary_harbor": {
+      "name": "Big Blub",
+      "condition": "Find the giant fish in Dreary Harbor"
+    },
+    "w_girl_duality_winds": {
+      "name": "Familiar Place, Familiar Someone",
+      "description": "Wait a second... have I seen you before?",
+      "condition": "Interact with the monochrome girl in the white side of Duality Winds"
+    },
+    "skate_mask_stereo_station": {
+      "name": "Pro Dreamer",
+      "description": "I won't quit dreaming until I am physically unable.",
+      "condition": "Equip the Skateboard mask in Stereo Station"
+    },
+    "monochrome_olympus_ruins": {
+      "name": "Void Behind the Ruins",
+      "description": "The memory stood still.",
+      "condition": "Reach the monochrome passage in Olympus Ruins"
+    },
+    "forgotten_station": {
+      "name": "Last Train Home",
+      "description": "Just leaving town, but I really want tonight to last forever.",
+      "condition": "Visit Forgotten Station"
+    },
+    "house_of_vases": {
+      "name": "Lovely Ceramics",
+      "condition": "Visit House of Vases"
+    },
+    "rune_jade_dunes": {
+      "name": "Jade-colored Mirage",
+      "description": "Was that warp rune just a mirage, or did it really exist?",
+      "condition": "Interact with the jade rune in Jade Dunes"
+    },
+    "pop_revoir": {
+      "name": "Plastic Blues",
+      "description": "\"I guess trees are blue now.\"",
+      "condition": "Visit Pop Revoir"
+    },
+    "pink_house_pastel_dream_sea": {
+      "name": "Ocean Secret House",
+      "description": "Let groovy in this city",
+      "condition": "Reach the pink house in the Sargat Layer of Pastel Dream Sea"
+    },
+    "city_of_revival_main": {
+      "name": "The City that Revives You",
+      "description": "A fresh take at the future of cities, maybe?",
+      "condition": "Visit the main area of City of Revival"
+    },
+    "secret_room_secret_society": {
+      "name": "An Eternal Cycle of Death and Birth",
+      "description": "So that is where they all come from!",
+      "condition": "Reach the clone room in Secret Society"
+    },
+    "shark_glacier_island": {
+      "name": "Sharky Ice",
+      "description": "You found the shark sandwich!... maybe.",
+      "condition": "Find the frozen shark in Glacier Island"
+    },
+    "photoreal_fused_faces_world": {
+      "name": "Agony",
+      "description": "The pain of having a thousand thoughts all at once, it never stops...",
+      "condition": "Trigger the Photorealistic Event in Fused Faces World"
+    },
+    "window_room": {
+      "name": "Lonely Windows",
+      "description": "Just gazing out a little bit...",
+      "condition": "Visit Window Room"
     }
   },
   "unconscious": {
@@ -8946,6 +9034,30 @@
       "name": "夜光水母",
       "description": "在最深的渊底，你内源的光芒就是最亮的",
       "condition": "获得幻象Lumen。若已解锁，请返回Jellyfish World。"
+    },
+    "red_waters": {
+      "name": "Transitional Ritual",
+      "description": "Close your eyes and let the magic do the rest...",
+      "condition": "Visit Red Waters"
+    },
+    "desk_passage": {
+      "name": "The Wordless Watcher",
+      "condition": "Visit Desk Passage"
+    },
+    "pho_ruminating_meadows": {
+      "name": "Phở",
+      "description": "Thank you for this yummy food!!",
+      "condition": "Buy a Pho from the vending machine in Ruminating Meadows"
+    },
+    "chromatic_apparation_menu": {
+      "name": "Pearl Fly",
+      "description": "Something about this place just feels... soothing",
+      "condition": "Obtain the Chromatic Apparition menu theme. If you have already unlocked it, return where it can be found in Undergrowth."
+    },
+    "rain_stars_cosmic_woods": {
+      "name": "Migration of the Cosmos",
+      "description": "By chance, the spaceship and the stars were both heading here",
+      "condition": "See the rain of stars in Cosmic Woods"
     }
   },
   "flow": {
@@ -9278,6 +9390,11 @@
       "name": "暗中腐朽的暴力",
       "description": "与遭受暴力只有毫厘之差。",
       "condition": "在Deterioration完整见证Night Visit事件"
+    },
+    "well_kaibutsu_famicom_world": {
+      "name": "Well Timed Revenge",
+      "description": "Well, well, well...",
+      "condition": "Get caught by the Kaibutsu in the well in Famicom World"
     }
   },
   "prayers": {
@@ -9638,6 +9755,11 @@
       "name": "医学实验的悲剧残余",
       "description": "我现在能想到的只有造成伤害。",
       "condition": "获得伤害效果。若已解锁，请返回Hospital获得该效果处。"
+    },
+    "vortex_alter": {
+      "name": "Fuchsia Photon Ring",
+      "description": "If the laws of physics don't apply in the future... god help you.",
+      "condition": "Obtain the Vortex alter. If you have already unlocked it, return where it can be found in Escher Garden."
     }
   },
   "someday": {
@@ -11143,6 +11265,11 @@
       "name": "后悔幻灯片",
       "description": "观看你的错误",
       "condition": "抵达Projector Room"
+    },
+    "torso_effect": {
+      "name": "Useless",
+      "description": "What am I even supposed to do with this thing?",
+      "condition": "Obtain the Torso effect. If you have already unlocked it, return to Iron Plate."
     }
   },
   "ultraviolet": {
@@ -11348,6 +11475,11 @@
       "name": "神秘御币",
       "description": "你放赛钱了吗？",
       "condition": "获得Miko效果。若已解锁，请返回Shrine Labyrinth尽头。"
+    },
+    "violin_effect": {
+      "name": "Remnants of a Lonely Recital",
+      "description": "You felt a tingling in your fingers... As if on its own... your body readied the violin to play.",
+      "condition": "Obtain the Violin effect. If you have already unlocked it, return where it can be found in Banquet Hall."
     }
   },
   "sheawaits": {
@@ -11462,6 +11594,15 @@
         "sky_fortress_day": "白昼",
         "sky_fortress_afternoon": "黄昏",
         "sky_fortress_night": "夜晚"
+      }
+    },
+    "crystal_caves_she_awaits": {
+      "name": "Into the Sparkling Depths",
+      "description": "Dive into the dark and you may just find a rainbow.",
+      "condition": "Visit both Crystal Cave A and Crystal Cave B",
+      "checkbox": {
+        "crystal_cave_a_a|crystal_cave_a_b": "Crystal Cave A",
+        "crystal_cave_b_a|crystal_cave_b_b": "Crystal Cave B"
       }
     }
   },
@@ -12362,6 +12503,11 @@
       "name": "记忆中的女孩",
       "description": "我们有一样的爱好，有匹配的特征……我们曾经是好朋友，对吧？还是……？",
       "condition": "看到Bass效果的变体"
+    },
+    "gears_effect": {
+      "name": "Dreams in Motion",
+      "description": "And the gears within my mind begin to turn!",
+      "condition": "Obtain the Gears effect. If you have already unlocked it, return to Fenced Meadow."
     }
   },
   "oneshot": {

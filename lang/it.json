@@ -562,6 +562,11 @@
         "melt": "Melting Madotsuki",
         "fall": "Witch's Flight fall"
       }
+    },
+    "lamp_effect": {
+      "name": "Expensive Electricity Bill",
+      "description": "At least you don't have to be scared of the dark anymore!",
+      "condition": "Obtain the Lamp effect. If you have already unlocked it, return to Lamp World."
     }
   },
   "2kki": {
@@ -1687,7 +1692,7 @@
     },
     "sixth_terminal_entrances": {
       "name": "Interconnected Network",
-      "condition": "Open all four connections to the Sixth Terminal"
+      "condition": "Open all four connections to the Six-Layer Terminal"
     },
     "shadow_cat": {
       "name": "Shadow Cat",
@@ -2539,7 +2544,7 @@
     "carousel_oriental": {
       "name": "Mood Swings",
       "description": "Round and round and round...",
-      "condition": "Visit the 6 worlds depicted without using the warp from Oriental Pub (Test Facility, Holiday Hell, Ice Cream Islands, Tribulation Complex, Platformer World, Abandoned Grounds)",
+      "condition": "Visit the 6 worlds depicted without using the warp from Redlight Alley (Test Facility, Holiday Hell, Ice Cream Islands, Tribulation Complex, Platformer World, Abandoned Grounds)",
       "checkbox": {
         "humanoid_angry": "Test Facility",
         "humanoid_crying": "Holiday Hell",
@@ -3002,7 +3007,7 @@
     },
     "oriental_lake": {
       "name": "Lakeside Monument",
-      "condition": "Enter Oriental Lake"
+      "condition": "Enter Dark Pagoda Lake"
     },
     "manekineko": {
       "name": "~Maneko~",
@@ -6408,7 +6413,7 @@
     "ninja_oriental_dojo": {
       "name": "I Saw Through It!",
       "description": "Oops, close call...",
-      "condition": "Attempt to chainsaw the ninja in Oriental Dojo"
+      "condition": "Attempt to chainsaw the ninja in Mansion Garden"
     },
     "lovers_alrescha_sea": {
       "name": "Lover Mermaids",
@@ -6640,7 +6645,7 @@
     "sunrise_drink": {
       "name": "Sunburn Cocktail",
       "description": "*Clink!*",
-      "condition": "Visit the bars in the following locations: Japan Town, The Baddies Bar, Eyeball Archives, Cyber Bar, Cocktail Lounge, Aquamarine Cave, Spaceship, Oriental Pub, Water Reclamation Facility",
+      "condition": "Visit the bars in the following locations: Japan Town, The Baddies Bar, Eyeball Archives, Cyber Bar, Cocktail Lounge, Aquamarine Cave, Spaceship, Redlight Alley, Water Reclamation Facility",
       "checkbox": {
         "underground_bar": "Japan Town",
         "baddies_bar_bar": "The Baddies Bar",
@@ -6648,7 +6653,7 @@
         "cyber_bar": "Cyber Bar",
         "aquamarine_cave_bar": "Aquamarine Cave",
         "spaceship_bar": "Spaceship",
-        "orential_pub": "Oriental Pub",
+        "orential_pub": "Redlight Alley",
         "water_facility_bar": "Water Reclamation Facility",
         "cocktail_lounge": "Cocktail Lounge"
       }
@@ -7635,6 +7640,89 @@
       "name": "Confusion",
       "description": "What do you mean the trees grow in midair? This is madness!",
       "condition": "Visit Upside-down Forest World"
+    },
+    "aster_geode_valley": {
+      "name": "Blooming Star in Blue",
+      "description": "They glow like a star, they bloom like a flower.",
+      "condition": "Interact with Aster in Geode Valley"
+    },
+    "ballpit_playhouse": {
+      "name": "Kaleidoscope of Youth",
+      "description": "Colors as far as the eye can see...",
+      "condition": "Reach the ballpit in Playhouse"
+    },
+    "night_desolate_landscape": {
+      "name": "Coldest Moon",
+      "description": "This coldness is eating me alive",
+      "condition": "Reach the night landscape area in Desolate Snowscape"
+    },
+    "big_fish_dreary_harbor": {
+      "name": "Big Blub",
+      "condition": "Find the giant fish in Dreary Harbor"
+    },
+    "w_girl_duality_winds": {
+      "name": "Familiar Place, Familiar Someone",
+      "description": "Wait a second... have I seen you before?",
+      "condition": "Interact with the monochrome girl in the white side of Duality Winds"
+    },
+    "skate_mask_stereo_station": {
+      "name": "Pro Dreamer",
+      "description": "I won't quit dreaming until I am physically unable.",
+      "condition": "Equip the Skateboard mask in Stereo Station"
+    },
+    "monochrome_olympus_ruins": {
+      "name": "Void Behind the Ruins",
+      "description": "The memory stood still.",
+      "condition": "Reach the monochrome passage in Olympus Ruins"
+    },
+    "forgotten_station": {
+      "name": "Last Train Home",
+      "description": "Just leaving town, but I really want tonight to last forever.",
+      "condition": "Visit Forgotten Station"
+    },
+    "house_of_vases": {
+      "name": "Lovely Ceramics",
+      "condition": "Visit House of Vases"
+    },
+    "rune_jade_dunes": {
+      "name": "Jade-colored Mirage",
+      "description": "Was that warp rune just a mirage, or did it really exist?",
+      "condition": "Interact with the jade rune in Jade Dunes"
+    },
+    "pop_revoir": {
+      "name": "Plastic Blues",
+      "description": "\"I guess trees are blue now.\"",
+      "condition": "Visit Pop Revoir"
+    },
+    "pink_house_pastel_dream_sea": {
+      "name": "Ocean Secret House",
+      "description": "Let groovy in this city",
+      "condition": "Reach the pink house in the Sargat Layer of Pastel Dream Sea"
+    },
+    "city_of_revival_main": {
+      "name": "The City that Revives You",
+      "description": "A fresh take at the future of cities, maybe?",
+      "condition": "Visit the main area of City of Revival"
+    },
+    "secret_room_secret_society": {
+      "name": "An Eternal Cycle of Death and Birth",
+      "description": "So that is where they all come from!",
+      "condition": "Reach the clone room in Secret Society"
+    },
+    "shark_glacier_island": {
+      "name": "Sharky Ice",
+      "description": "You found the shark sandwich!... maybe.",
+      "condition": "Find the frozen shark in Glacier Island"
+    },
+    "photoreal_fused_faces_world": {
+      "name": "Agony",
+      "description": "The pain of having a thousand thoughts all at once, it never stops...",
+      "condition": "Trigger the Photorealistic Event in Fused Faces World"
+    },
+    "window_room": {
+      "name": "Lonely Windows",
+      "description": "Just gazing out a little bit...",
+      "condition": "Visit Window Room"
     }
   },
   "unconscious": {
@@ -8930,6 +9018,25 @@
       "name": "Transitional Ritual",
       "description": "Close your eyes and let the magic do the rest...",
       "condition": "Visit Red Waters"
+    },
+    "desk_passage": {
+      "name": "The Wordless Watcher",
+      "condition": "Visit Desk Passage"
+    },
+    "pho_ruminating_meadows": {
+      "name": "Phở",
+      "description": "Thank you for this yummy food!!",
+      "condition": "Buy a Pho from the vending machine in Ruminating Meadows"
+    },
+    "chromatic_apparation_menu": {
+      "name": "Pearl Fly",
+      "description": "Something about this place just feels... soothing",
+      "condition": "Obtain the Chromatic Apparition menu theme. If you have already unlocked it, return where it can be found in Undergrowth."
+    },
+    "rain_stars_cosmic_woods": {
+      "name": "Migration of the Cosmos",
+      "description": "By chance, the spaceship and the stars were both heading here",
+      "condition": "See the rain of stars in Cosmic Woods"
     }
   },
   "flow": {
@@ -8977,8 +9084,8 @@
       "condition": "Find the red eye on the wall in the Apartments and make it blink"
     },
     "other_worlds": {
-      "name": "Other Worlds",
-      "description": "The piano chords lead... somewhere...",
+      "name": "Distant Melody",
+      "description": "Such a lovely song...",
       "condition": "Enter the Young Passage and the Microorganism World",
       "checkbox": {
         "microscopic_world": "Microorganism World",
@@ -9262,6 +9369,11 @@
       "name": "Violence That Festered in the Dark",
       "description": "A hair’s breadth away from violence.",
       "condition": "Fully see the Night Visit event in Deterioration"
+    },
+    "well_kaibutsu_famicom_world": {
+      "name": "Well Timed Revenge",
+      "description": "Well, well, well...",
+      "condition": "Get caught by the Kaibutsu in the well in Famicom World"
     }
   },
   "prayers": {
@@ -9622,6 +9734,11 @@
       "name": "The Tragic Remnants of Medical Experiments",
       "description": "All I can think about now is causing damage.",
       "condition": "Obtain the Damage alter. If you have already unlocked it, return where it can be found in Hospital."
+    },
+    "vortex_alter": {
+      "name": "Fuchsia Photon Ring",
+      "description": "If the laws of physics don't apply in the future... god help you.",
+      "condition": "Obtain the Vortex alter. If you have already unlocked it, return where it can be found in Escher Garden."
     }
   },
   "someday": {
@@ -9802,7 +9919,7 @@
     },
     "four_leaf_clover_forest": {
       "name": "I'm So Lucky, Lucky!",
-      "description": "You can fool yourself, I promise it will help, now every single day I just wanna hear you saying!",
+      "description": "You can fool yourself, I promise it will help, now every single day I just wanna hear you say it!",
       "condition": "Interact with the four-leaf clover in Forest"
     },
     "rainbow_beach": {
@@ -11127,6 +11244,11 @@
       "name": "Regret Slideshow",
       "description": "Viewing your mistake",
       "condition": "Visit the Projector Room"
+    },
+    "torso_effect": {
+      "name": "Useless",
+      "description": "What am I even supposed to do with this thing?",
+      "condition": "Obtain the Torso effect. If you have already unlocked it, return to Iron Plate."
     }
   },
   "ultraviolet": {
@@ -11332,6 +11454,11 @@
       "name": "Mysterious Exorcism Stick",
       "description": "Have you put your offering in the shrine?",
       "condition": "Obtain the Miko effect. If you have already unlocked it, return at the end of the Shrine Labyrinth."
+    },
+    "violin_effect": {
+      "name": "Remnants of a Lonely Recital",
+      "description": "You felt a tingling in your fingers... As if on its own... your body readied the violin to play.",
+      "condition": "Obtain the Violin effect. If you have already unlocked it, return where it can be found in Banquet Hall."
     }
   },
   "sheawaits": {
@@ -11446,6 +11573,15 @@
         "sky_fortress_day": "daytime",
         "sky_fortress_afternoon": "afternoon",
         "sky_fortress_night": "nightime"
+      }
+    },
+    "crystal_caves_she_awaits": {
+      "name": "Into the Sparkling Depths",
+      "description": "Dive into the dark and you may just find a rainbow.",
+      "condition": "Visit both Crystal Cave A and Crystal Cave B",
+      "checkbox": {
+        "crystal_cave_a_a|crystal_cave_a_b": "Crystal Cave A",
+        "crystal_cave_b_a|crystal_cave_b_b": "Crystal Cave B"
       }
     }
   },
@@ -12332,6 +12468,11 @@
       "name": "A girl I Recognize",
       "description": "We had the same hobbies, matching things... We were close friends, right? Or...?",
       "condition": "See the variant of the Bass effect"
+    },
+    "gears_effect": {
+      "name": "Dreams in Motion",
+      "description": "And the gears within my mind begin to turn!",
+      "condition": "Obtain the Gears effect. If you have already unlocked it, return to Fenced Meadow."
     }
   },
   "oneshot": {

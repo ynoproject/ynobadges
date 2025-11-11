@@ -572,6 +572,11 @@
         "melt": "溶けたまどつき",
         "fall": "空中からの落下"
       }
+    },
+    "lamp_effect": {
+      "name": "Expensive Electricity Bill",
+      "description": "At least you don't have to be scared of the dark anymore!",
+      "condition": "Obtain the Lamp effect. If you have already unlocked it, return to Lamp World."
     }
   },
   "2kki": {
@@ -7654,6 +7659,89 @@
       "name": "頭が混乱する……",
       "description": "木が逆さに生えてるってどういうこと？正気の沙汰じゃないよ！",
       "condition": "逆さ森の世界に到達する"
+    },
+    "aster_geode_valley": {
+      "name": "Blooming Star in Blue",
+      "description": "They glow like a star, they bloom like a flower.",
+      "condition": "Interact with Aster in Geode Valley"
+    },
+    "ballpit_playhouse": {
+      "name": "Kaleidoscope of Youth",
+      "description": "Colors as far as the eye can see...",
+      "condition": "Reach the ballpit in Playhouse"
+    },
+    "night_desolate_landscape": {
+      "name": "Coldest Moon",
+      "description": "This coldness is eating me alive",
+      "condition": "Reach the night landscape area in Desolate Snowscape"
+    },
+    "big_fish_dreary_harbor": {
+      "name": "Big Blub",
+      "condition": "Find the giant fish in Dreary Harbor"
+    },
+    "w_girl_duality_winds": {
+      "name": "Familiar Place, Familiar Someone",
+      "description": "Wait a second... have I seen you before?",
+      "condition": "Interact with the monochrome girl in the white side of Duality Winds"
+    },
+    "skate_mask_stereo_station": {
+      "name": "Pro Dreamer",
+      "description": "I won't quit dreaming until I am physically unable.",
+      "condition": "Equip the Skateboard mask in Stereo Station"
+    },
+    "monochrome_olympus_ruins": {
+      "name": "Void Behind the Ruins",
+      "description": "The memory stood still.",
+      "condition": "Reach the monochrome passage in Olympus Ruins"
+    },
+    "forgotten_station": {
+      "name": "Last Train Home",
+      "description": "Just leaving town, but I really want tonight to last forever.",
+      "condition": "Visit Forgotten Station"
+    },
+    "house_of_vases": {
+      "name": "Lovely Ceramics",
+      "condition": "Visit House of Vases"
+    },
+    "rune_jade_dunes": {
+      "name": "Jade-colored Mirage",
+      "description": "Was that warp rune just a mirage, or did it really exist?",
+      "condition": "Interact with the jade rune in Jade Dunes"
+    },
+    "pop_revoir": {
+      "name": "Plastic Blues",
+      "description": "\"I guess trees are blue now.\"",
+      "condition": "Visit Pop Revoir"
+    },
+    "pink_house_pastel_dream_sea": {
+      "name": "Ocean Secret House",
+      "description": "Let groovy in this city",
+      "condition": "Reach the pink house in the Sargat Layer of Pastel Dream Sea"
+    },
+    "city_of_revival_main": {
+      "name": "The City that Revives You",
+      "description": "A fresh take at the future of cities, maybe?",
+      "condition": "Visit the main area of City of Revival"
+    },
+    "secret_room_secret_society": {
+      "name": "An Eternal Cycle of Death and Birth",
+      "description": "So that is where they all come from!",
+      "condition": "Reach the clone room in Secret Society"
+    },
+    "shark_glacier_island": {
+      "name": "Sharky Ice",
+      "description": "You found the shark sandwich!... maybe.",
+      "condition": "Find the frozen shark in Glacier Island"
+    },
+    "photoreal_fused_faces_world": {
+      "name": "Agony",
+      "description": "The pain of having a thousand thoughts all at once, it never stops...",
+      "condition": "Trigger the Photorealistic Event in Fused Faces World"
+    },
+    "window_room": {
+      "name": "Lonely Windows",
+      "description": "Just gazing out a little bit...",
+      "condition": "Visit Window Room"
     }
   },
   "unconscious": {
@@ -8949,6 +9037,25 @@
       "name": "移行の儀式",
       "description": "目を閉じて、魔法に身を委ねて……",
       "condition": "マウソレウムに到達する"
+    },
+    "desk_passage": {
+      "name": "The Wordless Watcher",
+      "condition": "Visit Desk Passage"
+    },
+    "pho_ruminating_meadows": {
+      "name": "Phở",
+      "description": "Thank you for this yummy food!!",
+      "condition": "Buy a Pho from the vending machine in Ruminating Meadows"
+    },
+    "chromatic_apparation_menu": {
+      "name": "Pearl Fly",
+      "description": "Something about this place just feels... soothing",
+      "condition": "Obtain the Chromatic Apparition menu theme. If you have already unlocked it, return where it can be found in Undergrowth."
+    },
+    "rain_stars_cosmic_woods": {
+      "name": "Migration of the Cosmos",
+      "description": "By chance, the spaceship and the stars were both heading here",
+      "condition": "See the rain of stars in Cosmic Woods"
     }
   },
   "flow": {
@@ -8996,8 +9103,8 @@
       "condition": "アパートの壁にある赤い目を見つけて、点滅させる。"
     },
     "other_worlds": {
-      "name": "異世界",
-      "description": "ピアノの音色がどこかへ導いてくれる…",
+      "name": "Distant Melody",
+      "description": "Such a lovely song...",
       "condition": "青通路と微生物に到達する",
       "checkbox": {
         "microscopic_world": "微生物",
@@ -9281,6 +9388,11 @@
       "name": "闇の中で爛れた暴力",
       "description": "一触即発",
       "condition": "退廃アパートのイベントを最後まで見る"
+    },
+    "well_kaibutsu_famicom_world": {
+      "name": "Well Timed Revenge",
+      "description": "Well, well, well...",
+      "condition": "Get caught by the Kaibutsu in the well in Famicom World"
     }
   },
   "prayers": {
@@ -9641,6 +9753,11 @@
       "name": "医療実験の悲惨な残骸",
       "description": "今はダメージを与えることしか考えられない。",
       "condition": "ダメージのアルターを入手する、すでに入手している場合はHospitalの見つけた場所に行く。"
+    },
+    "vortex_alter": {
+      "name": "Fuchsia Photon Ring",
+      "description": "If the laws of physics don't apply in the future... god help you.",
+      "condition": "Obtain the Vortex alter. If you have already unlocked it, return where it can be found in Escher Garden."
     }
   },
   "someday": {
@@ -11146,6 +11263,11 @@
       "name": "Regret Slideshow",
       "description": "Viewing your mistake",
       "condition": "Visit the Projector Room"
+    },
+    "torso_effect": {
+      "name": "Useless",
+      "description": "What am I even supposed to do with this thing?",
+      "condition": "Obtain the Torso effect. If you have already unlocked it, return to Iron Plate."
     }
   },
   "ultraviolet": {
@@ -11351,6 +11473,11 @@
       "name": "不思議な祓霊の棒",
       "description": "社にお供えはした？",
       "condition": "みこのエフェクトを入手する、すでに入手している場合は、もう一度神社最深部に行く"
+    },
+    "violin_effect": {
+      "name": "Remnants of a Lonely Recital",
+      "description": "You felt a tingling in your fingers... As if on its own... your body readied the violin to play.",
+      "condition": "Obtain the Violin effect. If you have already unlocked it, return where it can be found in Banquet Hall."
     }
   },
   "sheawaits": {
@@ -11465,6 +11592,15 @@
         "sky_fortress_day": "昼",
         "sky_fortress_afternoon": "夕方",
         "sky_fortress_night": "夜"
+      }
+    },
+    "crystal_caves_she_awaits": {
+      "name": "Into the Sparkling Depths",
+      "description": "Dive into the dark and you may just find a rainbow.",
+      "condition": "Visit both Crystal Cave A and Crystal Cave B",
+      "checkbox": {
+        "crystal_cave_a_a|crystal_cave_a_b": "Crystal Cave A",
+        "crystal_cave_b_a|crystal_cave_b_b": "Crystal Cave B"
       }
     }
   },
@@ -12365,6 +12501,11 @@
       "name": "見覚えのある少女",
       "description": "趣味もおんなじ、おそろいで……仲良しだったよ、ね？ あれ……？",
       "condition": "ベースのエフェクトの別パターンを見る"
+    },
+    "gears_effect": {
+      "name": "Dreams in Motion",
+      "description": "And the gears within my mind begin to turn!",
+      "condition": "Obtain the Gears effect. If you have already unlocked it, return to Fenced Meadow."
     }
   },
   "oneshot": {
