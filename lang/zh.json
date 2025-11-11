@@ -554,13 +554,13 @@
       "condition": "获得雨伞效果。若已解锁，请返回Puddle World。"
     },
     "event_completionist": {
-      "name": "Nightmare Reverie",
-      "condition": "Trigger the FACE, Famicom Glitch, Melting Madotsuki, and the Witch's Flight fall events",
+      "name": "梦魇幻象",
+      "condition": "触发以下事件：FACE、Famicom Glitch、Melting Madotsuki、Witch's Flight的坠落事件",
       "checkbox": {
         "face": "FACE",
         "fc_glitch": "Famicom Glitch",
         "melt": "Melting Madotsuki",
-        "fall": "Witch's Flight fall"
+        "fall": "Witch's Flight的坠落事件"
       }
     }
   },
@@ -2045,12 +2045,12 @@
     "virtual_mapper": {
       "name": "虚像制图仪",
       "description": "数字科技日益进步中",
-      "condition": "进入 Virtual City 的地图室，调查NPC"
+      "condition": "进入Virtual City的地图室，调查NPC"
     },
     "amusement_secret": {
       "name": "你不应该来这的",
       "description": "彻夜难忘的密室光景",
-      "condition": "穿过水道区的密道，进入 Underwater Amusement Park 的密室"
+      "condition": "穿过水道区的密道，进入Underwater Amusement Park的密室"
     },
     "bike_crash": {
       "name": "快处易赔",
@@ -2590,7 +2590,7 @@
     },
     "coral_seahorses": {
       "name": "晕船了",
-      "description": "也许真正的宝藏是我们一路上遇到的海马...",
+      "description": "也许真正的宝藏是我们一路上遇到的海马……",
       "condition": "抵达Coral Shoal。"
     },
     "twin_mountains": {
@@ -2678,7 +2678,7 @@
     "atlantis_city": {
       "name": "水下都市",
       "description": "别淹死了...",
-      "condition": "进入 Atlantis 高楼林立的区域"
+      "condition": "进入Atlantis高楼林立的区域"
     },
     "angry_dice": {
       "name": "和我打把扑克怎么样？",
@@ -2824,14 +2824,14 @@
       "condition": "与Marble Ruins中的Unicorn creature 交互。"
     },
     "yume_telephone": {
-      "name": "是梦啊...",
+      "name": "是梦啊……",
       "description": "\"...\"",
       "condition": "对馆长使用黑电话效果。"
     },
     "golden_sky_whale": {
       "name": "鲸跃",
       "description": "在金色的云海中，鲸鱼破浪而出，将美好尽收眼底。",
-      "condition": "找到Golden Sky Bridge 的大鲸鱼。"
+      "condition": "找到Golden Sky Bridge的大鲸鱼。"
     },
     "glowing_stars_world": {
       "name": "星朋友",
@@ -2914,7 +2914,7 @@
     "virtual_techno_cube": {
       "name": "动感立方",
       "description": "*晃眼睛*",
-      "condition": "与 Virtual City 里有立方脑袋的生物对话。"
+      "condition": "与Virtual City里有立方脑袋的生物对话。"
     },
     "virtual_techno_bar": {
       "name": "DJ姐妹花",
@@ -2966,7 +2966,7 @@
       "condition": "抵达Deserted Center。"
     },
     "dripping_ceiling": {
-      "name": "滴答...滴答...噗通",
+      "name": "滴答……滴答……噗通",
       "description": "\"哪儿漏的水？\"",
       "condition": "调查Marshmallow Shallows里悬挂着的生物。"
     },
@@ -3955,7 +3955,7 @@
       "condition": "到达Rainy Woods Path"
     },
     "vm_fancy_pillars": {
-      "name": "Chess Fancy Dress",
+      "name": "时髦黑白格子裙",
       "description": "影子们欢快地跃动",
       "condition": "从Claustrophobia的Fancy Pillars Room里的自贩机里买到东西"
     },
@@ -4222,8 +4222,8 @@
       "condition": "到达结局#..."
     },
     "moon_deserted_pier": {
-      "name": "The Moon that Faded into Darkness",
-      "description": "Dreadful remnant of the everlasting lightless night...",
+      "name": "融入黑暗的月亮",
+      "description": "无尽无光之夜的可怖残余……",
       "condition": "接近Deserted Pier的黑月亮"
     },
     "grand_museum": {
@@ -5106,7 +5106,7 @@
       "condition": "抵达Glitch Hell"
     },
     "alto_2kki": {
-      "name": "Flyin' Fresh Tunas!",
+      "name": "新鲜飞行金枪鱼！",
       "condition": "抵达Alto"
     },
     "flower_lily_path": {
@@ -6154,7 +6154,7 @@
     "trombone_old_train_station": {
       "name": "一首名为静寂的歌在",
       "description": "某人的表演一定还在继续。",
-      "condition": "Find the trumpet in the Old Train Station"
+      "condition": "找到Old Train Station的小号"
     },
     "ghost_rose_manor": {
       "name": "苍白住人",
@@ -6467,8 +6467,8 @@
       "condition": "抵达Ironashi Coast"
     },
     "beach_legacy_nexus": {
-      "name": "Starry Night Station",
-      "description": "A sparkling station beneath a sky full of stars, beckoning forward.",
+      "name": "星夜车站",
+      "description": "在满天星空之下闪耀的车站在向你招手。",
       "condition": "抵达Legacy Nexus的隐藏海滩区域"
     },
     "cluster_of_flowers": {
@@ -6482,8 +6482,8 @@
       "condition": "抵达Forlorn Beach House的悬崖"
     },
     "carlos_salsa_desert": {
-      "name": "Carlos the Nacho Cats",
-      "description": "¿Prefieres salsa roja o verde?",
+      "name": "玉米片猫猫卡洛斯",
+      "description": "你喜欢红酱还是绿酱？",
       "condition": "与Salsa Desert的任一Carlos cat互动"
     },
     "cliff_burgundy_flats": {
@@ -7009,7 +7009,7 @@
       "condition": "在装备石膏效果的情况下，在Blissful Clinic坐在Sniper-san身边"
     },
     "tsuki_binary_path_ethnic_world": {
-      "name": "Closeted Secret",
+      "name": "衣柜里的秘密",
       "description": "你在这里干啥？",
       "condition": "在Ethnic World：Binary Path的孤立区域找到???-tsuki"
     },
@@ -7514,148 +7514,148 @@
       "condition": "锯掉Red Black World的红色NPC"
     },
     "overgrown_city_secret": {
-      "name": "The Moon Beneath the Sea",
-      "description": "Where man-made light dreams of being the moon.",
-      "condition": "Interact with the back of the vending machine in the secret room of the Overgrown City"
+      "name": "海下之月",
+      "description": "这里的人造光源也梦想成为月亮。",
+      "condition": "与Overgrown City秘密房间中的自贩机背面互动"
     },
     "daily_toy_box": {
-      "name": "Daily Playtime",
-      "description": "I get to play with toys daily? Awesome!",
-      "condition": "Visit Daily Toy Box"
+      "name": "每日玩耍时间",
+      "description": "我每天都有不一样的玩具可以玩？好耶！",
+      "condition": "抵达Daily Toy Box"
     },
     "insect_hug_glowing_hives": {
-      "name": "Cuddlebugs",
-      "description": "I'll take care of you as if you were one of my hatchlings.",
-      "condition": "Be petted by the big pink bug while wearing the Insect effect in Glowing Hives"
+      "name": "抱抱虫",
+      "description": "我会把你视如己出地照料，就像你是从我的卵中孵化的一样。",
+      "condition": "在Glowing Hives装备昆虫效果并被巨大粉色昆虫摸头"
     },
     "chopstick_rice_bowl_world": {
-      "name": "Chopstick Man",
-      "description": "What a cute little creature!",
-      "condition": "Interact with one of the chopstick creatures in Rice Bowl World"
+      "name": "筷子人",
+      "description": "多可爱的小生物！",
+      "condition": "在Rice Bowl World中与任一筷子生物互动"
     },
     "field_of_cosmos": {
-      "name": "Harmony of Record",
-      "description": "The journey of a story begin with a walk to the past",
-      "condition": "Visit Field of Cosmos"
+      "name": "记录的和弦",
+      "description": "故事开始于一次向着过去的散步。",
+      "condition": "抵达Field of Cosmos"
     },
     "sky_outlook_port_city": {
-      "name": "Cloud Gazing",
-      "description": "What a pretty view. I wonder what those structures are.",
-      "condition": "Reach the outlook and see the blue sky in Port City"
+      "name": "仰望白云",
+      "description": "多美的风景啊。我想知道这些结构是什么。",
+      "condition": "在Port City的景观区域看到蓝天"
     },
     "twitching_child_night_world": {
-      "name": "Leave Me Alone",
-      "description": "Perhaps this was a bad time to walk in...",
-      "condition": "Trigger the Twitching Child event in Night World"
+      "name": "让我独处",
+      "description": "或许现在走进去不合适……",
+      "condition": "在Night World触发Twitching Child事件"
     },
     "m_wave_indeterminate_atrium": {
-      "name": "Starchaser",
-      "description": "Shoot for the moon, reach for the stars, and you may land among dreams.",
-      "condition": "Score 5000 points in the M-wave minigame of Indeterminate Atrium"
+      "name": "追星者",
+      "description": "向月亮射击，将手伸向星空，也许你就会在梦境之间着陆。",
+      "condition": "在Indeterminate Atrium的M-wave小游戏中获得5000分"
     },
     "creepy_face_haniwa_ruins": {
-      "name": "In my Way",
-      "condition": "Chainsaw the creepy face in Haniwa Ruins"
+      "name": "挡路了",
+      "condition": "在Haniwa Ruins锯掉恐怖的脸"
     },
     "lake_of_bones": {
-      "name": "Docks of Calcium",
-      "description": "Try to not break a leg getting here!",
-      "condition": "Visit Lake of Bones"
+      "name": "钙之码头",
+      "description": "过来的路上可得顾着点，别骨折了！",
+      "condition": "抵达Lake of Bones"
     },
     "shoal_blue_lavender": {
-      "name": "The Shoal Painted in Her Hue",
-      "description": "In the murky blue, her traces remain.",
-      "condition": "Visit Blue Lavender Shoal"
+      "name": "浅滩染上了她的颜色",
+      "description": "她的痕迹留在浑浊的蓝色里。",
+      "condition": "抵达Blue Lavender Shoal"
     },
     "memory_garden_long": {
-      "name": "Echoes in Bloom",
-      "description": "Where memories linger, flowers bloom quietly.",
-      "condition": "Go to Memory Garden from Luminous Lake"
+      "name": "咲声回响",
+      "description": "花朵静静开放在回忆徘徊之处。",
+      "condition": "从Luminous Lake抵达Memory Garden"
     },
     "purple_dress_satellite_spway": {
-      "name": "Dreaming Dress",
-      "description": "A little dress dreaming of growing up.",
-      "condition": "Equip the Purple Dress mask in Satellite Space-way"
+      "name": "梦裙",
+      "description": "梦想着长大的小裙子。",
+      "condition": "在Satellite Space-way装备紫色裙子面具"
     },
     "gb_anomaly": {
-      "name": "A Weird Console",
-      "description": "Kinda strange... but still familiar.",
-      "condition": "Visit GB Anomaly"
+      "name": "奇怪的遥控器",
+      "description": "有些奇怪……但还是很眼熟。",
+      "condition": "抵达GB Anomaly"
     },
     "golden_mechanical_tower": {
-      "name": "I Like You, Little Dude!",
-      "description": "What kind of creature are you?! Doesn't matter but now we're friends!",
-      "condition": "Visit Golden Mechanical Tower"
+      "name": "我喜欢你，小家伙！",
+      "description": "你是什么生物？但我们是朋友，那不重要！",
+      "condition": "抵达Golden Mechanical Tower"
     },
     "clown_underwater_amusement_park": {
-      "name": "Blissful Circus",
-      "description": "Aww, she's so happy! You'd trust her wouldn't you?",
-      "condition": "Interact with the clown with an accordeon in Underwater Amusement Park"
+      "name": "幸福马戏团",
+      "description": "哇，她好开心啊！你会信任她的，对吧？",
+      "condition": "与Underwater Amusement Park拿着手风琴的小丑互动"
     },
     "guardian_firefly_clinic": {
-      "name": "Cozy and Secure",
-      "description": "This is safe! This is nice! Thank you kindly guardian!",
-      "condition": "Sit on the lap of the guardian in Firefly Clinic"
+      "name": "舒适而安全",
+      "description": "好有安全感！好舒服！谢谢你，善良的守护者！",
+      "condition": "坐在Firefly Clinic中守护者的怀里"
     },
     "christmas_frozen_glade": {
-      "name": "Dreaming of a White Christmas",
-      "description": "\"It's the nap-nappiest season of all~\"",
-      "condition": "Trigger the Christmas event in Frozen Glade"
+      "name": "梦见雪色圣诞",
+      "description": "\"最适合冬眠的季节~\"",
+      "condition": "在Frozen Glade触发圣诞节事件"
     },
     "2kki_menu_99": {
-      "name": "Under the Same Dream",
-      "description": "In the silence of the night, dreams become eternal.",
-      "condition": "Obtain the menu type 99. If you have already unlocked it, return where it can be found in Radiant Waters."
+      "name": "在同一个梦中",
+      "description": "在深夜的寂静之中，梦会成为永恒。",
+      "condition": "获得菜单样式99。若已获得，请返回Radiant Waters获得该效果处。"
     },
     "mint_town": {
-      "name": "Chasing the Mint Breeze",
-      "description": "Where the windmills sing and the air smells like mint.",
-      "condition": "Visit Mint Town"
+      "name": "追逐微风中的薄荷香",
+      "description": "这里风车歌唱，空气中带着薄荷的香味。",
+      "condition": "抵达Mint Town"
     },
     "house_holographic_reef": {
-      "name": "Crystallized Echo Chamber",
-      "description": "Crystals slowly grow towards the light, consuming and refracting it",
-      "condition": "Reach the Tiny House in Holographic Reef"
+      "name": "结晶化的回声廊",
+      "description": "水晶缓缓向光生长，吸收着、反射着光线。",
+      "condition": "抵达Holographic Reef：Tiny House"
     },
     "red_waters": {
-      "name": "Transitional Ritual",
-      "description": "Close your eyes and let the magic do the rest...",
-      "condition": "Visit Red Waters"
+      "name": "过渡仪式",
+      "description": "闭上双眼，让魔法完成接下来的过程……",
+      "condition": "抵达Red Waters"
     },
     "neon_vm_radiant_waters": {
-      "name": "Transcendence in the Glowing Cave",
-      "description": "This greenish creature has reached a state of awe through meditation that cultivates patience",
-      "condition": "Turn the vending machine lounge to neon in Radiant Waters"
+      "name": "辉光洞穴中的超脱",
+      "description": "这只绿色生物通过培养耐心的冥想抵达了一种可敬的状态",
+      "condition": "将Radiant Waters有自贩机的休息室变成霓虹模式"
     },
     "rainbow_axis": {
-      "name": "Polychromatic Runner",
-      "description": "Rainbowly running.",
-      "condition": "Visit Rainbow Axis"
+      "name": "多色跑者",
+      "description": "如彩虹般飞驰。",
+      "condition": "抵达Rainbow Axis"
     },
     "bird_overwork_office": {
-      "name": "Lonely Bird",
-      "description": "Time has stopped just for us to see the cloudy sky.",
-      "condition": "See the bird in Overwork Office"
+      "name": "孤独的鸟",
+      "description": "时间停止了，只是为了让我们看到布满运动的天空。",
+      "condition": "看到Overwork Office的鸟"
     },
     "black_murals": {
-      "name": "Obsidian Relief",
-      "description": "Beautiful patterns carved into the wall",
-      "condition": "Visit Black Murals"
+      "name": "黑曜石浮雕",
+      "description": "刻在墙上的美丽图案",
+      "condition": "抵达Black Murals"
     },
     "paw_cat_garden_festival": {
-      "name": "An Un-Furgettable Moment!",
-      "description": "Oh, I didn't see you there! You're so fluffy...!",
-      "condition": "Touch the paw of the cat in Garden Festival"
+      "name": "难忘时刻喵！",
+      "description": "哦，我没看着你！你太蓬松了……！",
+      "condition": "在Garden Festival摸摸猫爪"
     },
     "system_sounds_8": {
-      "name": "A Voice from Elsewhere",
-      "description": "Into the depth of the secret...",
-      "condition": "Obtain the system sounds 8. If you have already unlocked it, return where it can be found in Snow Black."
+      "name": "来自别处的声音",
+      "description": "进入隐秘的深渊……",
+      "condition": "获得系统音效8。若已获得，请返回Snow Black获得该效果的位置。"
     },
     "upside_down_forest_world": {
-      "name": "Confusion",
-      "description": "What do you mean the trees grow in midair? This is madness!",
-      "condition": "Visit Upside-down Forest World"
+      "name": "迷惑",
+      "description": "你说树在半空中生长？疯了吧你！",
+      "condition": "抵达Upside-down Forest World"
     }
   },
   "unconscious": {
@@ -8903,49 +8903,49 @@
       "condition": "在Fasciation World看到Drain Girl"
     },
     "their_reveal_gradient_city": {
-      "name": "Their Reveal",
-      "description": "You can see right through them, and they can see right through you.",
-      "condition": "Get trapped after seeing the Their Reveal event in Gradient City"
+      "name": "现身",
+      "description": "你可以看穿它们，它们也能看透你。",
+      "condition": "在Gradient City中见证Their Reveal事件之后被抓住"
     },
     "scarlet_river_festering_tomb": {
-      "name": "Beckoned by Thorns and Blood",
-      "description": "In a labyrinth where the unknown and the known trade places, will you mark the journey’s end - or long for its beginning?",
-      "condition": "Reach Scarlet River from Festering Tomb"
+      "name": "被荆棘与鲜血召唤",
+      "description": "在未知和已知交换位置的迷宫中，你会记录旅途的结束，还是会期待它的开始？",
+      "condition": "从Festering Tomb抵达Scarlet River"
     },
     "girl_white_lotus_islands": {
-      "name": "Distant Floral Beauty",
-      "description": "So close, and yet so far...",
-      "condition": "Find the Lotus Girl in White Lotus Islands"
+      "name": "遥远的如花美人",
+      "description": "那么近，却又那么远……",
+      "condition": "在White Lotus Islands找到Lotus Girl"
     },
     "dreams_of_fragrance": {
-      "name": "Olfactory Dreamer",
-      "description": "Of all our memories, scent is the last to fade. Its shape is elusive, yet it lingers deep in the recesses of memory, a rich, fragrant dream settled in the depths.",
-      "condition": "Visit Dreams of Fragrance"
+      "name": "嗅觉梦",
+      "description": "在我们所有的记忆中，气味是最后消失的。它的形态难以捉摸，但它会留在记忆的深处，深渊中坐落着一处富饶而芬芳的梦乡。",
+      "condition": "抵达Dreams of Fragrance"
     },
     "room_3_a_corrupted_school": {
-      "name": "Sunlit Schoolroom",
-      "description": "An overgrown room not yet claimed by corruption...",
-      "condition": "See the variant of the room 3-A in Corrupted School"
+      "name": "日照教室",
+      "description": "尚未被崩坏占领的草木繁茂教室……",
+      "condition": "看到Corrupted School的3-A班的两种变体"
     },
     "zen_garden_passage_transition": {
-      "name": "Final Vinyl",
-      "description": "Familiar music in the past still playing right now in the gramophone",
-      "condition": "Reach the transition area between Zen Garden and Passage"
+      "name": "最后的乙烯唱片",
+      "description": "过去熟悉的音乐声现在依然在留声机中播放着",
+      "condition": "抵达Zen Garden和Passage之间的过渡区域"
     },
     "adobe_town": {
-      "name": "Sunrise Town",
-      "description": "Wonderful time to see this lovely town",
-      "condition": "Visit Adobe Town"
+      "name": "日出之城",
+      "description": "观赏这座可爱小城的好时机",
+      "condition": "抵达Adobe Town"
     },
     "music_box_moth_garden": {
-      "name": "Requiem for a Moth",
-      "description": "A fleeting proof of existence, just a white outline fading away.",
-      "condition": "Play the music box in Moth Garden"
+      "name": "献给飞蛾的安魂曲",
+      "description": "逐渐消逝的存在证明，只是渐渐消失的白色轮廓。",
+      "condition": "启动Moth Garden的音乐盒"
     },
     "lumen_eidolon": {
-      "name": "Radiant Scyphozoa",
-      "description": "In the deepest abyss, your inner light shall shine the brightest",
-      "condition": "Obtain the Lumen eidolon. If you have already unlocked it, return to Jellyfish World."
+      "name": "夜光水母",
+      "description": "在最深的渊底，你内源的光芒就是最亮的",
+      "condition": "获得幻象Lumen。若已解锁，请返回Jellyfish World。"
     }
   },
   "flow": {
@@ -8960,7 +8960,7 @@
     "sewer": {
       "name": "管道淤泥",
       "description": "不该喝那个的……",
-      "condition": "触发 「血、脓、锈」 事件"
+      "condition": "触发「血、脓、锈」事件"
     },
     "rotten_smile": {
       "name": "腐朽笑颜",
@@ -8994,7 +8994,7 @@
     },
     "other_worlds": {
       "name": "他世",
-      "description": "钢琴的和弦好像指向了...某个地方...",
+      "description": "钢琴的和弦好像指向了……某个地方……",
       "condition": "进入Young Passage和Microorganism World",
       "checkbox": {
         "microscopic_world": "Microorganism World",
@@ -9271,13 +9271,13 @@
       "condition": "获得尸体效果。若已获得，请返回Prison中获得该效果处。"
     },
     "cleaner_ending": {
-      "name": "Unsentimental Benevolence",
-      "condition": "See the Cleaner Ending"
+      "name": "不露感情的慈悲",
+      "condition": "见证女仆结局"
     },
     "night_visit_deterioration": {
-      "name": "Violence That Festered in the Dark",
-      "description": "A hair’s breadth away from violence.",
-      "condition": "Fully see the Night Visit event in Deterioration"
+      "name": "暗中腐朽的暴力",
+      "description": "与遭受暴力只有毫厘之差。",
+      "condition": "在Deterioration完整见证Night Visit事件"
     }
   },
   "prayers": {
@@ -9496,7 +9496,7 @@
       "condition": "获得位于Black Lace的效果。"
     },
     "manager_deep_dreams": {
-      "name": "请原谅我...先生？",
+      "name": "请原谅我……先生？",
       "description": "请勿破坏点唱机。",
       "condition": "触发Manager事件。"
     },
@@ -9630,14 +9630,14 @@
       "condition": "获得琉璃效果。若已获得，请返回Lamp Forest获得该效果处。"
     },
     "gelatinous_alter": {
-      "name": "Deep Sea Treasures",
-      "description": "We're so cute and shiny! Are you jelly?",
-      "condition": "Obtain the Gelatinous alter. If you have already unlocked it, return where it can be found in Alien Ocean."
+      "name": "深海珍宝",
+      "description": "我们真是可爱又闪亮！你是果冻吗？",
+      "condition": "获得胶质效果。若已解锁，请返回Alien Ocean获得该效果处。"
     },
     "damage_alter": {
-      "name": "The Tragic Remnants of Medical Experiments",
-      "description": "All I can think about now is causing damage.",
-      "condition": "Obtain the Damage alter. If you have already unlocked it, return where it can be found in Hospital."
+      "name": "医学实验的悲剧残余",
+      "description": "我现在能想到的只有造成伤害。",
+      "condition": "获得伤害效果。若已解锁，请返回Hospital获得该效果处。"
     }
   },
   "someday": {
@@ -9827,9 +9827,9 @@
       "condition": "在Beach让彩虹出现"
     },
     "relaxing_room_school": {
-      "name": "A Peace Long Gone",
-      "description": "Wish I could be there...",
-      "condition": "Visit the Relaxing Room in School World"
+      "name": "早已逝去的平静",
+      "description": "我希望自己也能在这里……",
+      "condition": "抵达School World：Relaxing Room"
     }
   },
   "unevendream": {
@@ -9888,8 +9888,8 @@
       "condition": "触发Sun Lord's Wrath事件。"
     },
     "turbine": {
-      "name": "Lone Kite",
-      "description": "It's just out of reach",
+      "name": "孤独风筝",
+      "description": "刚好够不到",
       "condition": "抵达Turbine Facility的最深处。"
     },
     "braille_angel": {
@@ -10188,24 +10188,24 @@
       "condition": "在Clash of Mutated Forms找到Bisected Worm"
     },
     "night_henderson_lake": {
-      "name": "Mirrors of the Night Sky",
-      "description": "The night the stars touched the water.",
-      "condition": "See the night sky in Henderson Lake"
+      "name": "夜空之镜",
+      "description": "群星与水面相会的夜晚。",
+      "condition": "在Henderson Lake看到夜空"
     },
     "figure_the_secret_woods": {
-      "name": "In the Starlit Silhouette",
-      "description": "A quiet dream beneath a thousand lights.",
-      "condition": "See the figure in the sky in The Secret Woods"
+      "name": "星映剪影",
+      "description": "数千光辉下的无声梦境。",
+      "condition": "在The Secret Woods看到天空中的身影"
     },
     "menu_8_overgrown_stairs": {
-      "name": "Cozy of Nature",
-      "description": "Is it pretty to see light in the dark?",
-      "condition": "Obtain the menu theme 8. If you have already unlocked it, return where it can be found in Overgrown Stairs."
+      "name": "自然舒适",
+      "description": "是不是很容易在暗中看到它的光芒？",
+      "condition": "获得菜单样式8。若已解锁，请返回Overgrown Stairs获得该效果处。"
     },
     "undersea_magnolia_pier": {
-      "name": "Seabed Cavern",
-      "description": "And I descend from grace in arms of undertow; I will take my place in the great below.",
-      "condition": "Reach the undersea area in Magnolia Pier"
+      "name": "海床洞穴",
+      "description": "我在深海逆流中沉降，将在深沉的海底中找到归宿。",
+      "condition": "抵达Magnolia Pier的海底区域"
     }
   },
   "braingirl": {
@@ -10307,9 +10307,9 @@
       "condition": "获得电灯效果。若已解锁，请返回Shrine Garden：Garden Ascend获得该效果处。"
     },
     "duckling_dress_effect": {
-      "name": "Adorable Duck",
-      "description": "I'm like a bird, I'm like a bird! I don't know where my soul is.",
-      "condition": "Obtain the Duckling Dress effect. If you have already unlocked it, return where it can be found in Cubic Ruins."
+      "name": "可爱鸭鸭",
+      "description": "像鸟儿一样，像鸟儿一样！我不知道自己的灵魂在哪里。",
+      "condition": "获得Duckling Dress效果。若已解锁，请返回Cubic Ruins。"
     }
   },
   "amillusion": {
@@ -10379,7 +10379,7 @@
     },
     "blanche_revenge": {
       "name": "死！！！",
-      "condition": "被Space中的Blanche电死。"
+      "condition": "被Space中的Blanche电击。"
     },
     "danae_danae": {
       "name": "你不是一个人！",
@@ -10463,7 +10463,7 @@
     "science_museum": {
       "name": "游览科学",
       "description": "哈喽Danaë！",
-      "condition": "参观 Science Museum 的每个展厅。"
+      "condition": "参观Science Museum的每个展厅。"
     },
     "door_smugglers_hideout": {
       "name": "我轻轻地打开了门……",
@@ -11244,12 +11244,12 @@
     },
     "distorted_cyber_world": {
       "name": "暴力美学",
-      "description": "暴力中绽放的腐朽的红花...",
+      "description": "暴力中绽放的腐朽的红花……",
       "condition": "抵达Distorted Cyber World 。"
     },
     "uv_retrospective": {
       "name": "回眸",
-      "description": "你好？我的朋友...再见。",
+      "description": "你好？我的朋友……再见。",
       "condition": "在Schoolgirl's Room看到女孩坐在椅子上。"
     },
     "headless_station": {
@@ -11281,7 +11281,7 @@
     },
     "creature_dark_forest": {
       "name": "湖中住人",
-      "condition": "吸引 Dark Forest 湖中的生物。"
+      "condition": "吸引Dark Forest湖中的生物。"
     },
     "old_blue_fc_school": {
       "name": "复古蓝",
@@ -11395,7 +11395,7 @@
     "lantern_piers": {
       "name": "晚阳灯火",
       "description": "夕阳西下，粼粼波光点亮了平静的湖面。",
-      "condition": "抵达 Lantern Piers。"
+      "condition": "抵达Lantern Piers。"
     },
     "pentacle_field_secret": {
       "name": "琥珀花瓣",
@@ -11450,18 +11450,18 @@
       "condition": "获得死神塔罗牌。若已解锁，请返回Mourning Field。"
     },
     "the_lovers_card": {
-      "name": "\"You're Just as Beautiful.\"",
-      "description": "\"Your hair reminds me of the sea, your eyes are like jewels, everything about you is beautiful...\"",
-      "condition": "Obtain The Lovers card. If you have already unlocked it, return return where it can be found in the Chapel."
+      "name": "\"你真的很美。\"",
+      "description": "\"你的头发让我想到海洋，你的双眼犹如宝石，你的一切都是如此美丽……\"",
+      "condition": "获得恋人卡牌。若已解锁，请返回Chapel获得该效果处。"
     },
     "sky_fortress_time": {
-      "name": "Shifting my View",
-      "description": "How does it feel to see the sky in many colors?",
-      "condition": "See the Sky Fortress during daytime, afternoon and nightime",
+      "name": "改变观点",
+      "description": "看到这么多颜色的天空是什么体验？",
+      "condition": "看到Sky Fortress的三种天空：白昼、黄昏、夜晚",
       "checkbox": {
-        "sky_fortress_day": "daytime",
-        "sky_fortress_afternoon": "afternoon",
-        "sky_fortress_night": "nightime"
+        "sky_fortress_day": "白昼",
+        "sky_fortress_afternoon": "黄昏",
+        "sky_fortress_night": "夜晚"
       }
     }
   },
@@ -11503,13 +11503,13 @@
     },
     "clock_cat": {
       "name": "计时宠物",
-      "description": "厌倦了计算时间...",
-      "condition": "与Cloud Cuckoo World的白猫对话。"
+      "description": "厌倦了计算时间……",
+      "condition": "与Cloud Cuckoo World的白猫互动。"
     },
     "dust_bunny": {
       "name": "变可爱！",
       "description": "你好可爱啊！",
-      "condition": "用尘兔效果与Lucky对话。"
+      "condition": "用尘兔效果与Lucky互动。"
     },
     "hoarder_colors": {
       "name": "诺查丹玛斯萤火虫",
@@ -11747,9 +11747,9 @@
       }
     },
     "bellhop_effect": {
-      "name": "Productive Memory",
-      "description": "Atop some buildings engulfed in a fog of sorts was an odd creature hanging off a ledge. It was reaching out, as if something, or someone, had fallen off the building.",
-      "condition": "Obtain the Bellhop effect. If you have already unlocked it, return where it can be found in the isolated section of Vermillion Rooftops."
+      "name": "创造性的记忆",
+      "description": "在被雾吞没的大楼顶上，一个奇怪的生物在边缘上挂着。它向外够出去，好像什么东西或者谁从楼上掉了下去。",
+      "condition": "获得Bellhop效果。若已解锁，请返回获得该效果的Vermillion Rooftops孤立区域。"
     }
   },
   "tsushin": {
@@ -11853,12 +11853,12 @@
     },
     "moon_ornament": {
       "name": "观月景台",
-      "condition": "拜访Ornamental Moon的最高层。"
+      "condition": "抵达Ornamental Moon的最高层。"
     },
     "cat_hat": {
       "name": "猫耳帽",
       "description": "你为什么要把它放在这样的地方？",
-      "condition": "拜访Throne of Entrails。如果你曾经拜访过，戴上从那里取得的东西。"
+      "condition": "抵达Throne of Entrails。如果你曾经抵达过该地点，戴上从那里取得的东西。"
     },
     "winking_ghost": {
       "name": "灵异照片",
@@ -11911,7 +11911,7 @@
     "microwave_library": {
       "name": "微波炉",
       "description": "哦！看上去布丁已经揉好了。",
-      "condition": "获得微波炉e效果。如果已经解锁该效果，请返回Library。"
+      "condition": "获得微波炉效果。如果已经解锁该效果，请返回Library。"
     },
     "long_hair_wormiko": {
       "name": "腐烂子",
@@ -12100,7 +12100,7 @@
       "condition": "获得手偶效果。若已解锁，请返回Seaside。"
     },
     "convenience_snowy_avenue": {
-      "name": "安全摄像机工作中Security Camera in Operation",
+      "name": "安全录像工作中",
       "description": "没有盲点！",
       "condition": "抵达Snowy Avenue的便利店"
     },
@@ -12110,14 +12110,14 @@
       "condition": "从Lotus Marsh抵达Docks"
     },
     "robot_effect_tsushin": {
-      "name": "Come Forth, my Other Self!",
-      "description": "Check out these brilliant piloting techniques!",
-      "condition": "Obtain the Robot effect. If you have already unlocked it, return where it can be found in the Factory."
+      "name": "出现吧，另一个我！",
+      "description": "试试这些优秀的导航技术！",
+      "condition": "获得机器人效果。若已解锁，请返回Factory获得该效果处。"
     },
     "dead_woods": {
-      "name": "Lifeless Creation",
-      "description": "Do you feel the cold behind you?",
-      "condition": "Visit the Dead Woods"
+      "name": "没有生命的造物",
+      "description": "你能感受到背后的寒风吗？",
+      "condition": "抵达Dead Woods"
     }
   },
   "nostalgic": {
@@ -12612,7 +12612,7 @@
       "description": "……记得吗？我是唯一留下的那个。",
       "condition": "在Space Station：Captain's Quarters和Lindsey's Bedroom的床上睡觉",
       "checkbox": {
-        "captain_quarters_space_station": " Space Station：Captain's Quarters",
+        "captain_quarters_space_station": "Space Station：Captain's Quarters",
         "bed_lindsey_bedroom": "Lindsey's Bedroom"
       }
     },
