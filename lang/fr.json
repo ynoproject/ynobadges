@@ -7718,6 +7718,16 @@
       "name": "Requinou pris dans la glace",
       "description": "Tu as trouvé une glace requin ! ... enfin, je crois.",
       "condition": "Trouver le requin glacé à la Glacier Island"
+    },
+    "photoreal_fused_faces_world": {
+      "name": "Agonie",
+      "description": "Avoir des milliers de pensées d'un coup n'est que souffrance, ça ne s'arrête jamais...",
+      "condition": "Déclencher l'événement Photoréaliste au Fused Faces World"
+    },
+    "window_room": {
+      "name": "Fenêtres bien seules",
+      "description": "Je fais juste une petite pause, à regarder par la fenêtre...",
+      "condition": "Visiter la Window Room"
     }
   },
   "unconscious": {
@@ -11449,6 +11459,11 @@
       "name": "Mystérieux bâton d'exorcisme",
       "description": "As-tu fais des offrandes au sanctuaire ?",
       "condition": "Obtenir l'effet Miko. Si vous l'avez déjà obtenu, retournez à la fin du Shrine Labyrinth."
+    },
+    "violin_effect": {
+      "name": "Souvenirs d'un récital morose",
+      "description": "Tu as senti un picotement dans tes doigts... Comme si... de son plein gré... ton corps se préparait à jouer du violon.",
+      "condition": "Obtenir l'effet Violon. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Banquet Hall."
     }
   },
   "sheawaits": {
@@ -11563,6 +11578,15 @@
         "sky_fortress_day": "en matinée",
         "sky_fortress_afternoon": "en journée",
         "sky_fortress_night": "en soirée"
+      }
+    },
+    "crystal_caves_she_awaits": {
+      "name": "Dans les profondeurs étincelantes",
+      "description": "En plongeant dans les ténèbres, tu pourrais bien trouver un arc-en-ciel.",
+      "condition": "Visiter la Crystal Cave A et la Crystal Cave B",
+      "checkbox": {
+        "crystal_cave_a_a|crystal_cave_a_b": "Crystal Cave A",
+        "crystal_cave_b_a|crystal_cave_b_b": "Crystal Cave B"
       }
     }
   },

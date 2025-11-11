@@ -7712,6 +7712,16 @@
       "name": "Sharky Ice",
       "description": "You found the shark sandwich!... maybe.",
       "condition": "Find the frozen shark in Glacier Island"
+    },
+    "photoreal_fused_faces_world": {
+      "name": "Agony",
+      "description": "The pain of having a thousand thoughts all at once, it never stops...",
+      "condition": "Trigger the Photorealistic Event in Fused Faces World"
+    },
+    "window_room": {
+      "name": "Lonely Windows",
+      "description": "Just gazing out a little bit...",
+      "condition": "Visit Window Room"
     }
   },
   "unconscious": {
@@ -11442,6 +11452,11 @@
       "name": "Mysterious Exorcism Stick",
       "description": "Have you put your offering in the shrine?",
       "condition": "Obtain the Miko effect. If you have already unlocked it, return at the end of the Shrine Labyrinth."
+    },
+    "violin_effect": {
+      "name": "Remnants of a Lonely Recital",
+      "description": "You felt a tingling in your fingers... As if on its own... your body readied the violin to play.",
+      "condition": "Obtain the Violin effect. If you have already unlocked it, return where it can be found in Banquet Hall."
     }
   },
   "sheawaits": {
@@ -11556,6 +11571,15 @@
         "sky_fortress_day": "daytime",
         "sky_fortress_afternoon": "afternoon",
         "sky_fortress_night": "nightime"
+      }
+    },
+    "crystal_caves_she_awaits": {
+      "name": "Into the Sparkling Depths",
+      "description": "Dive into the dark and you may just find a rainbow.",
+      "condition": "Visit both Crystal Cave A and Crystal Cave B",
+      "checkbox": {
+        "crystal_cave_a_a|crystal_cave_a_b": "Crystal Cave A",
+        "crystal_cave_b_a|crystal_cave_b_b": "Crystal Cave B"
       }
     }
   },
