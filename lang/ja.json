@@ -7552,53 +7552,108 @@
       "condition": "夜眼世界:引き攣れのイベントを見る"
     },
     "m_wave_indeterminate_atrium": {
-      "name": "Starchaser",
-      "description": "Shoot for the moon, reach for the stars, and you may land among dreams.",
-      "condition": "Score 5000 points in the M-wave minigame of Indeterminate Atrium"
+      "name": "星を追う者",
+      "description": "月を目指し、星に手を伸ばせば、夢の中にたどり着くかもしれない。",
+      "condition": "きまぐれ階廊のミニゲームで5000点を取る"
     },
     "creepy_face_haniwa_ruins": {
-      "name": "In my Way",
-      "condition": "Chainsaw the creepy face in Haniwa Ruins"
+      "name": "邪魔、どいて。",
+      "condition": "ハニーワ遺跡の飛び出す顔をチェーンソーで斬る"
     },
     "lake_of_bones": {
-      "name": "Docks of Calcium",
-      "description": "Try to not break a leg getting here!",
-      "condition": "Visit Lake of Bones"
+      "name": "カルシウムの波止場",
+      "description": "ここに来るときは骨を折らないようにね！",
+      "condition": "散骨に到達する"
     },
     "shoal_blue_lavender": {
-      "name": "The Shoal Painted in Her Hue",
-      "description": "In the murky blue, her traces remain.",
-      "condition": "Visit Blue Lavender Shoal"
+      "name": "彼女の色をした浅瀬",
+      "description": "淀んだ青の中に、彼女の痕跡が残る。",
+      "condition": "恋荒びに到達する"
     },
     "memory_garden_long": {
-      "name": "Echoes in Bloom",
-      "description": "Where memories linger, flowers bloom quietly.",
-      "condition": "Go to Memory Garden from Luminous Lake"
+      "name": "記憶に咲く残響",
+      "description": "記憶が留まる場所で、花は静かに咲く。",
+      "condition": "黄昏の水鏡から廃墟と花園に到達する"
     },
     "purple_dress_satellite_spway": {
-      "name": "Dreaming Dress",
-      "description": "A little dress dreaming of growing up.",
-      "condition": "Equip the Purple Dress mask in Satellite Space-way"
+      "name": "夢見るドレス",
+      "description": "大人になることを夢見る、小さなドレス",
+      "condition": "ナイトキャピタルで紫のドレスのお面を装備する"
     },
     "gb_anomaly": {
-      "name": "A Weird Console",
-      "description": "Kinda strange... but still familiar.",
-      "condition": "Visit GB Anomaly"
+      "name": "風変わりなゲーム機",
+      "description": "なんだか奇妙……でも、どこか懐かしい。",
+      "condition": "ディープボーイに到達する"
     },
     "golden_mechanical_tower": {
-      "name": "I Like You, Little Dude!",
-      "description": "What kind of creature are you?! Doesn't matter but now we're friends!",
-      "condition": "Visit Golden Mechanical Tower"
+      "name": "気に入ったぞ！ちっこいの！",
+      "description": "お前は一体どんな生き物なんだ！？まぁいい！もう友達だ！",
+      "condition": "機械塔に到達する"
     },
     "clown_underwater_amusement_park": {
-      "name": "Blissful Circus",
-      "description": "Aww, she's so happy! You'd trust her wouldn't you?",
-      "condition": "Interact with the clown with an accordeon in Underwater Amusement Park"
+      "name": "幸福なサーカス",
+      "description": "あぁー、彼女はとても幸せそう！信じられるよね？",
+      "condition": "カーニバルナイトでアコーディオンを持ったピエロに話しかける"
     },
     "guardian_firefly_clinic": {
-      "name": "Cozy and Secure",
-      "description": "This is safe! This is nice! Thank you kindly guardian!",
-      "condition": "Sit on the lap of the guardian in Firefly Clinic"
+      "name": "ぬくもりと安心",
+      "description": "ここは安全で心地いい！守護者さん、ありがとう！",
+      "condition": "ホタルピース:柱の間で、大きな三つ目のそばに座る"
+    },
+    "christmas_frozen_glade": {
+      "name": "Dreaming of a White Christmas",
+      "description": "\"It's the nap-nappiest season of all~\"",
+      "condition": "Trigger the Christmas event in Frozen Glade"
+    },
+    "2kki_menu_99": {
+      "name": "Under the Same Dream",
+      "description": "In the silence of the night, dreams become eternal.",
+      "condition": "Obtain the menu type 99. If you have already unlocked it, return where it can be found in Radiant Waters."
+    },
+    "mint_town": {
+      "name": "Chasing the Mint Breeze",
+      "description": "Where the windmills sing and the air smells like mint.",
+      "condition": "Visit Mint Town"
+    },
+    "house_holographic_reef": {
+      "name": "Crystallized Echo Chamber",
+      "description": "Crystals slowly grow towards the light, consuming and refracting it",
+      "condition": "Reach the Tiny House in Holographic Reef"
+    },
+    "neon_vm_radiant_waters": {
+      "name": "Transcendence in the Glowing Cave",
+      "description": "This greenish creature has reached a state of awe through meditation that cultivates patience",
+      "condition": "Turn the vending machine lounge to neon in Radiant Waters"
+    },
+    "rainbow_axis": {
+      "name": "Polychromatic Runner",
+      "description": "Rainbowly running.",
+      "condition": "Visit Rainbow Axis"
+    },
+    "bird_overwork_office": {
+      "name": "Lonely Bird",
+      "description": "Time has stopped just for us to see the cloudy sky.",
+      "condition": "See the bird in Overwork Office"
+    },
+    "black_murals": {
+      "name": "Obsidian Relief",
+      "description": "Beautiful patterns carved into the wall",
+      "condition": "Visit Black Murals"
+    },
+    "paw_cat_garden_festival": {
+      "name": "An Un-Furgettable Moment!",
+      "description": "Oh, I didn't see you there! You're so fluffy...!",
+      "condition": "Touch the paw of the cat in Garden Festival"
+    },
+    "system_sounds_8": {
+      "name": "A Voice from Elsewhere",
+      "description": "Into the depth of the secret...",
+      "condition": "Obtain the system sounds 8. If you have already unlocked it, return where it can be found in Snow Black."
+    },
+    "upside_down_forest_world": {
+      "name": "Confusion",
+      "description": "What do you mean the trees grow in midair? This is madness!",
+      "condition": "Visit Upside-down Forest World"
     }
   },
   "unconscious": {
@@ -8879,6 +8934,21 @@
       "name": "日の暮れる町",
       "description": "この愛らしい町を眺める素晴らしい時間",
       "condition": "薄暮の町に到達する"
+    },
+    "music_box_moth_garden": {
+      "name": "Requiem for a Moth",
+      "description": "A fleeting proof of existence, just a white outline fading away.",
+      "condition": "Play the music box in Moth Garden"
+    },
+    "lumen_eidolon": {
+      "name": "Radiant Scyphozoa",
+      "description": "In the deepest abyss, your inner light shall shine the brightest",
+      "condition": "Obtain the Lumen eidolon. If you have already unlocked it, return to Jellyfish World."
+    },
+    "red_waters": {
+      "name": "Transitional Ritual",
+      "description": "Close your eyes and let the magic do the rest...",
+      "condition": "Visit Red Waters"
     }
   },
   "flow": {
@@ -9355,7 +9425,7 @@
     "escher": {
       "name": "幻覚",
       "description": "難しく考える必要はない",
-      "condition": "Escher Gardensに到達する"
+      "condition": "Escher Gardenに到達する"
     },
     "moonrise": {
       "name": "月の出",
@@ -9566,6 +9636,11 @@
       "name": "深海の宝物",
       "description": "かわいくてピカピカでしょ！うらやましい？",
       "condition": "ゼラチンのアルターを入手する、すでに入手している場合はAlien Oceanの見つけた場所に行く。"
+    },
+    "damage_alter": {
+      "name": "The Tragic Remnants of Medical Experiments",
+      "description": "All I can think about now is causing damage.",
+      "condition": "Obtain the Damage alter. If you have already unlocked it, return where it can be found in Hospital."
     }
   },
   "someday": {
@@ -10129,6 +10204,11 @@
       "name": "自然のやすらぎ",
       "description": "闇に光を見ることは美しいことなのか？",
       "condition": "メニュータイプ8を入手する、すでに入手している場合はOvergrown Stairsの見つけた場所に行く。"
+    },
+    "undersea_magnolia_pier": {
+      "name": "Seabed Cavern",
+      "description": "And I descend from grace in arms of undertow; I will take my place in the great below.",
+      "condition": "Reach the undersea area in Magnolia Pier"
     }
   },
   "braingirl": {
@@ -10228,6 +10308,11 @@
       "name": "お手軽電気",
       "description": "ミカンの背負う荷は「あ軽い」か？",
       "condition": "電球のエフェクトを入手する、すでに入手している場合はShrine GardenのGarden Ascendの見つけた場所に行く。"
+    },
+    "duckling_dress_effect": {
+      "name": "Adorable Duck",
+      "description": "I'm like a bird, I'm like a bird! I don't know where my soul is.",
+      "condition": "Obtain the Duckling Dress effect. If you have already unlocked it, return where it can be found in Cubic Ruins."
     }
   },
   "amillusion": {
@@ -11371,6 +11456,16 @@
       "name": "「貴方はただただ美しい。」",
       "description": "「貴方の髪は海を思わせ、瞳は宝石のようだ。貴方のすべてが美しい……。」",
       "condition": "Loversのcardを入手する、すでに入手している場合はChapelの見つけた場所に行く"
+    },
+    "sky_fortress_time": {
+      "name": "Shifting my View",
+      "description": "How does it feel to see the sky in many colors?",
+      "condition": "See the Sky Fortress during daytime, afternoon and nightime",
+      "checkbox": {
+        "sky_fortress_day": "daytime",
+        "sky_fortress_afternoon": "afternoon",
+        "sky_fortress_night": "nightime"
+      }
     }
   },
   "oversomnia": {
@@ -11645,13 +11740,19 @@
     "skeleton_key_pick_pro": {
       "name": "未知への鍵",
       "description": "これでどんな神秘的なものを見つけられるんだろう……",
-      "condition": "合鍵のエフェクトを使って、Weather Station、Outback Roads、Pool World、Rainy Village、Garden Centreにある鍵のかかった扉を開ける",      "checkbox": {
+      "condition": "合鍵のエフェクトを使って、Weather Station、Outback Roads、Pool World、Rainy Village、Garden Centreにある鍵のかかった扉を開ける",
+      "checkbox": {
         "skeleton_key_weather_station": "Weather Station",
         "skeleton_key_outback_roads": "Outback Roads",
         "magic_8_ball_room": "Pool World",
         "skeleton_key_rainy_village": "Rainy Village",
         "skeleton_key_garden_centre": "Garden Centre"
       }
+    },
+    "bellhop_effect": {
+      "name": "Productive Memory",
+      "description": "Atop some buildings engulfed in a fog of sorts was an odd creature hanging off a ledge. It was reaching out, as if something, or someone, had fallen off the building.",
+      "condition": "Obtain the Bellhop effect. If you have already unlocked it, return where it can be found in the isolated section of Vermillion Rooftops."
     }
   },
   "tsushin": {
@@ -12015,6 +12116,11 @@
       "name": "出でよ、もう一人の私！",
       "description": "私の華麗な操縦テクニックを見せてあげる！",
       "condition": "Robotのエフェクトを入手する、すでに入手している場合はFactoryの見つけた場所に行く。"
+    },
+    "dead_woods": {
+      "name": "Lifeless Creation",
+      "description": "Do you feel the cold behind you?",
+      "condition": "Visit the Dead Woods"
     }
   },
   "nostalgic": {
