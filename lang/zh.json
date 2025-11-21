@@ -443,8 +443,8 @@
       "condition": "从Block World进入White Desert A"
     },
     "mall_underground_link": {
-      "name": "Going Up?",
-      "description": "First floor",
+      "name": "要上楼吗？",
+      "description": "一楼",
       "condition": "从Underground World单向地到达Mall"
     },
     "crick_in_the_neck": {
@@ -2702,11 +2702,11 @@
     "spacesthetic": {
       "name": "太空美学",
       "description": "\"~这就是太空美学，你GET到了吗~\"",
-      "condition": "在 Virtual City 使用宇航服触发 Vaporwave 事件。"
+      "condition": "在Virtual City使用宇航服触发Vaporwave事件。"
     },
     "red_wilds_sandstorm": {
-      "name": "沙漠风暴!",
-      "description": "前方狂风肆虐，请游客注意安全...",
+      "name": "沙漠风暴！",
+      "description": "前方狂风肆虐，请游客注意安全……",
       "condition": "触发Deep Red Wilds的沙尘暴事件"
     },
     "zalgo_appearance": {
@@ -3405,7 +3405,7 @@
     },
     "candy": {
       "name": "甘甜糖果",
-      "description": "美味糖果...",
+      "description": "美味糖果……",
       "condition": "抵达下列以甜点为主题的地点: Sugar World(包括Sugary Depths)、Chocolate World、Cutlery World、Candy Cane Fields、Ice Cream Dream、Cube of Sweets、Chocolate World、Dessert Fields。",
       "checkbox": {
         "sugary_depths": "Sugary Depths",
@@ -4275,7 +4275,7 @@
         "b_w_mono_feudal_japan": "Monochrome Feudal Japan",
         "b_w_mono_abyss": "Monochromatic Abyss",
         "b_w_fused_faces_world": "Fused Faces World",
-        "b_w_sea_of_clouds": "嘔吐庭",
+        "b_w_sea_of_clouds": "Sea of Clouds",
         "b_w_mono_ranch": "Monochrome Ranch",
         "b_w_mono_street": "Monochrome Street",
         "b_w_doll_house": "Doll House"
@@ -6499,13 +6499,13 @@
     "cheese_connoisseur": {
       "name": "很高兴吃到奶酪！",
       "description": "说“奶酪好吃”！",
-      "condition": "抵达Cheese World、Cheesecake Mountain、Dark Cheese Hell、Mouse Den、Toy World的Cheese House",
+      "condition": "抵达Cheese World、Cheesecake Mountain、Dark Cheese Hell、Mouse Den、Toy World：Cheese House",
       "checkbox": {
         "cheese_world": "Cheese World",
         "cheesecake_mountain": "Cheesecake Mountain",
         "dark_cheese_hell": "Dark Cheese Hell",
         "mouse_den": "Mouse Den",
-        "cheese_house": "Toy World的Cheese House"
+        "cheese_house": "Toy World：Cheese House"
       }
     },
     "yellow_geometries": {
@@ -7663,87 +7663,87 @@
       "condition": "抵达Upside-down Forest World"
     },
     "aster_geode_valley": {
-      "name": "Blooming Star in Blue",
-      "description": "They glow like a star, they bloom like a flower.",
-      "condition": "Interact with Aster in Geode Valley"
+      "name": "盛开的蓝色星辰",
+      "description": "如星闪耀，如花绽放。",
+      "condition": "在Geode Valley与Aster互动"
     },
     "ballpit_playhouse": {
-      "name": "Kaleidoscope of Youth",
-      "description": "Colors as far as the eye can see...",
-      "condition": "Reach the ballpit in Playhouse"
+      "name": "童年万华镜",
+      "description": "肉眼可见的所有颜色……",
+      "condition": "抵达Playhouse的海洋球池"
     },
     "night_desolate_landscape": {
-      "name": "Coldest Moon",
-      "description": "This coldness is eating me alive",
-      "condition": "Reach the night landscape area in Desolate Snowscape"
+      "name": "至寒之月",
+      "description": "这寒冷仿佛在将我生吞活剥",
+      "condition": "抵达Desolate Snowscape的夜景区域"
     },
     "big_fish_dreary_harbor": {
-      "name": "Big Blub",
-      "condition": "Find the giant fish in Dreary Harbor"
+      "name": "大泡泡",
+      "condition": "在Dreary Harbor找到巨鱼"
     },
     "w_girl_duality_winds": {
-      "name": "Familiar Place, Familiar Someone",
-      "description": "Wait a second... have I seen you before?",
-      "condition": "Interact with the monochrome girl in the white side of Duality Winds"
+      "name": "熟悉的地方，熟悉的人",
+      "description": "等等……我以前见过你吗？",
+      "condition": "在Duality Wilds的白色一侧与黑白女孩互动"
     },
     "skate_mask_stereo_station": {
-      "name": "Pro Dreamer",
-      "description": "I won't quit dreaming until I am physically unable.",
-      "condition": "Equip the Skateboard mask in Stereo Station"
+      "name": "专业造梦者",
+      "description": "我会一直做梦，直到身体不允许为止。",
+      "condition": "装备Stereo Station的滑板面具"
     },
     "monochrome_olympus_ruins": {
-      "name": "Void Behind the Ruins",
-      "description": "The memory stood still.",
-      "condition": "Reach the monochrome passage in Olympus Ruins"
+      "name": "遗迹背后的虚空",
+      "description": "记忆岿然不动。",
+      "condition": "抵达Olympus Ruins的黑白通路"
     },
     "forgotten_station": {
-      "name": "Last Train Home",
-      "description": "Just leaving town, but I really want tonight to last forever.",
-      "condition": "Visit Forgotten Station"
+      "name": "回家的末班车",
+      "description": "刚一离开镇子，我就希望今晚能永远持续下去。",
+      "condition": "抵达Forgotten Station"
     },
     "house_of_vases": {
-      "name": "Lovely Ceramics",
-      "condition": "Visit House of Vases"
+      "name": "精致陶瓷",
+      "condition": "抵达House of Vases"
     },
     "rune_jade_dunes": {
-      "name": "Jade-colored Mirage",
-      "description": "Was that warp rune just a mirage, or did it really exist?",
-      "condition": "Interact with the jade rune in Jade Dunes"
+      "name": "翡翠蜃景",
+      "description": "那个传送符文到底是单纯的海市蜃楼，还是确实存在？",
+      "condition": "在Jade Dunes与翡翠符文互动"
     },
     "pop_revoir": {
-      "name": "Plastic Blues",
-      "description": "\"I guess trees are blue now.\"",
-      "condition": "Visit Pop Revoir"
+      "name": "塑料蓝",
+      "description": "\"我猜树现在是蓝色的。\"",
+      "condition": "抵达Pop Revoir"
     },
     "pink_house_pastel_dream_sea": {
-      "name": "Ocean Secret House",
-      "description": "Let groovy in this city",
-      "condition": "Reach the pink house in the Sargat Layer of Pastel Dream Sea"
+      "name": "海洋秘室",
+      "description": "充满活力的小镇",
+      "condition": "抵达Pastel Dream Sea：Sargat Layer中的粉色房屋"
     },
     "city_of_revival_main": {
-      "name": "The City that Revives You",
-      "description": "A fresh take at the future of cities, maybe?",
-      "condition": "Visit the main area of City of Revival"
+      "name": "将你复活的城市",
+      "description": "或许是对未来城市的一种新看法？",
+      "condition": "抵达City of Revival的主区域"
     },
     "secret_room_secret_society": {
-      "name": "An Eternal Cycle of Death and Birth",
-      "description": "So that is where they all come from!",
-      "condition": "Reach the clone room in Secret Society"
+      "name": "生与死轮回不止",
+      "description": "所以它们都是从这里来的！",
+      "condition": "抵达Secret Society的克隆房间"
     },
     "shark_glacier_island": {
-      "name": "Sharky Ice",
-      "description": "You found the shark sandwich!... maybe.",
-      "condition": "Find the frozen shark in Glacier Island"
+      "name": "冰鲨",
+      "description": "你找到了鲨明治！……或许吧。",
+      "condition": "在Glacier Island找到冰冻鲨鱼"
     },
     "photoreal_fused_faces_world": {
-      "name": "Agony",
-      "description": "The pain of having a thousand thoughts all at once, it never stops...",
-      "condition": "Trigger the Photorealistic Event in Fused Faces World"
+      "name": "痛苦",
+      "description": "同时产生一千个想法的这种痛苦，从没有停止过……",
+      "condition": "在Fused Faces World触发事件Photorealistic Event"
     },
     "window_room": {
-      "name": "Lonely Windows",
-      "description": "Just gazing out a little bit...",
-      "condition": "Visit Window Room"
+      "name": "孤窗",
+      "description": "就是稍微向外看看……",
+      "condition": "抵达Window Room"
     }
   },
   "unconscious": {
@@ -8913,7 +8913,7 @@
     },
     "maid_mask_sandstone_resort": {
       "name": "请您吩咐，主人！",
-      "description": "可爱、聪明、永远领先一步——你的完美女仆就在这里！Cute, clever, and always one step ahead - your perfect maid is here!",
+      "description": "可爱、聪明、永远领先一步——你的完美女仆就在这里！",
       "condition": "在Sandstone Resort找到女仆装的地方装备该面具"
     },
     "fishbone_path_corrupted_school": {
@@ -9036,28 +9036,28 @@
       "condition": "获得幻象Lumen。若已解锁，请返回Jellyfish World。"
     },
     "red_waters": {
-      "name": "Transitional Ritual",
-      "description": "Close your eyes and let the magic do the rest...",
-      "condition": "Visit Red Waters"
+      "name": "过渡仪式",
+      "description": "闭上眼睛，把一切交给魔法……",
+      "condition": "抵达Red Waters"
     },
     "desk_passage": {
-      "name": "The Wordless Watcher",
-      "condition": "Visit Desk Passage"
+      "name": "无言的守望者",
+      "condition": "抵达Desk Passage"
     },
     "pho_ruminating_meadows": {
-      "name": "Phở",
-      "description": "Thank you for this yummy food!!",
-      "condition": "Buy a Pho from the vending machine in Ruminating Meadows"
+      "name": "越南粉",
+      "description": "谢谢你的美食！！",
+      "condition": "在Ruminating Meadows的自贩机里买到越南粉"
     },
     "chromatic_apparation_menu": {
-      "name": "Pearl Fly",
-      "description": "Something about this place just feels... soothing",
-      "condition": "Obtain the Chromatic Apparition menu theme. If you have already unlocked it, return where it can be found in Undergrowth."
+      "name": "珍珠飞行",
+      "description": "这个地方有什么东西……让人能平静下来",
+      "condition": "获得菜单样式Chromatic Apparition。若已获得，请返回Undergrowth获得该菜单样式处。"
     },
     "rain_stars_cosmic_woods": {
-      "name": "Migration of the Cosmos",
-      "description": "By chance, the spaceship and the stars were both heading here",
-      "condition": "See the rain of stars in Cosmic Woods"
+      "name": "宇宙的迁徙",
+      "description": "偶尔飞船和星星都向着这里飞来",
+      "condition": "在Cosmic Woods看到流星雨"
     }
   },
   "flow": {
@@ -9757,9 +9757,9 @@
       "condition": "获得伤害效果。若已解锁，请返回Hospital获得该效果处。"
     },
     "vortex_alter": {
-      "name": "Fuchsia Photon Ring",
-      "description": "If the laws of physics don't apply in the future... god help you.",
-      "condition": "Obtain the Vortex alter. If you have already unlocked it, return where it can be found in Escher Garden."
+      "name": "品红光子环",
+      "description": "如果物理法则在未来起不到作用……就只能祈求神灵的帮助了。",
+      "condition": "获得漩涡效果。若已解锁，请返回Escher Garden获得该效果处。"
     }
   },
   "someday": {
@@ -11477,9 +11477,9 @@
       "condition": "获得Miko效果。若已解锁，请返回Shrine Labyrinth尽头。"
     },
     "violin_effect": {
-      "name": "Remnants of a Lonely Recital",
-      "description": "You felt a tingling in your fingers... As if on its own... your body readied the violin to play.",
-      "condition": "Obtain the Violin effect. If you have already unlocked it, return where it can be found in Banquet Hall."
+      "name": "孤寂独奏会的残余",
+      "description": "你的手指感到一阵刺痛……仿佛是身体自己动起来一样……肌肉记忆让你准备好演奏小提琴。",
+      "condition": "获得Violin效果。若已解锁，请返回Banquet Hall获得该效果处。"
     }
   },
   "sheawaits": {
@@ -11597,9 +11597,9 @@
       }
     },
     "crystal_caves_she_awaits": {
-      "name": "Into the Sparkling Depths",
-      "description": "Dive into the dark and you may just find a rainbow.",
-      "condition": "Visit both Crystal Cave A and Crystal Cave B",
+      "name": "深入闪耀之渊",
+      "description": "潜入黑暗或许就能找到彩虹。",
+      "condition": "分别抵达Crystal Cave A和Crystal Cave B",
       "checkbox": {
         "crystal_cave_a_a|crystal_cave_a_b": "Crystal Cave A",
         "crystal_cave_b_a|crystal_cave_b_b": "Crystal Cave B"
@@ -12552,12 +12552,12 @@
       "condition": "坐上航向Glen的船"
     },
     "calamus_glen": {
-      "name": "Calamus",
+      "name": "羽根",
       "description": "\"你见过我妹妹吗？\"",
       "condition": "在Glen见到Calamus"
     },
     "alula_glen": {
-      "name": "Alula",
+      "name": "小翼羽",
       "description": "\"谢谢！\"",
       "condition": "在Glen的遗迹中救出Alula"
     },
