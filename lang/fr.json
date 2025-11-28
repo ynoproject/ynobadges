@@ -567,6 +567,11 @@
       "name": "Facture électrique salée",
       "description": "Au moins tu n'auras plus peur du noir maintenant !",
       "condition": "Obtenir l'effet Lampe. Si vous l'avez déjà obtenu, retournez au Lamp World."
+    },
+    "spirit_headband_effect": {
+      "name": "Voile transparent",
+      "description": "Un fantôme choisissant de rester dans son rêve.",
+      "condition": "Obtenir l'effet Bandeau spirituel. Si vous l'avez déjà obtenu, retournez au Ghost World."
     }
   },
   "2kki": {
@@ -1282,17 +1287,17 @@
     },
     "mini_town": {
       "name": "Géant",
-      "condition": "Entrer dans Mini-Town"
+      "condition": "Visiter le Mini-Town"
     },
     "block_person": {
       "name": "Rigobloc",
       "description": "Je suis un rigobloc ! (Yahou !)",
-      "condition": "Se transformer en bloc sur patte dans le Red Brick Maze"
+      "condition": "Se transformer en bloc sur pattes au Red Brick Maze"
     },
     "madotsukis_room": {
-      "name": "Ressemblance originelle",
-      "description": "Ça ressemble clairement à un certain lieu",
-      "condition": "Entrer dans une certaine salle dans le Never-Ending Hallway"
+      "name": "La préquelle",
+      "description": "Une chambre si mystérieuse, et pourtant si familière...",
+      "condition": "Entrer dans une certaine salle au Never-Ending Hallway"
     },
     "haniwa": {
       "name": "Danse Haniwa",
@@ -1305,7 +1310,7 @@
     },
     "tartaric_abyss_uro": {
       "name": "Quelqu'un de familier",
-      "condition": "Dans les Tartaric Abyss, trouver le sosie d'Urotsuki"
+      "condition": "Trouver le sosie d'Urotsuki au Tartaric Abyss"
     },
     "butterfly_lady": {
       "name": "Madame papillon",
@@ -1315,7 +1320,7 @@
     "ice_cream": {
       "name": "Crème glacée au triple scoop",
       "description": "Feeling like heaven~",
-      "condition": "Arriver à l'Ice Cream Dream"
+      "condition": "Visiter l'Ice Cream Dream"
     },
     "five_guardians": {
       "name": "Cinq gardiens",
@@ -1324,7 +1329,7 @@
     },
     "evil_cube": {
       "name": "Purement maléfique",
-      "condition": "Entrer dans l'Evil Cube Zone"
+      "condition": "Visiter l'Evil Cube Zone"
     },
     "wavyup": {
       "name": "Debout jusqu'à la mort",
@@ -7728,6 +7733,65 @@
       "name": "Fenêtres bien seules",
       "description": "Je fais juste une petite pause, à regarder par la fenêtre...",
       "condition": "Visiter la Window Room"
+    },
+    "silver_girl_crossing_archipelago": {
+      "name": "La fille d'argent",
+      "description": "Elle attend derrière la barrière.",
+      "condition": "Équiper l'effet Gâteau à côté de la fille aux cheveux argentés au Crossing Archipelago"
+    },
+    "green_tower": {
+      "name": "Tellement vert",
+      "description": "Où ces escaliers mènent-ils ?",
+      "condition": "Visiter la Green Tower"
+    },
+    "2kki_menu_105": {
+      "name": "Notre fête au jardin !",
+      "description": "Là où les pétales dansent et où les sourires fleurissent !",
+      "condition": "Obtenir le style de menu 105. Si vous l'avez déjà obtenu, retournez au Garden Festival."
+    },
+    "invisible_effect": {
+      "name": "Le labyrinthe de Yukata",
+      "description": "Là tu vois Uro, là tu la vois plus.",
+      "condition": "Obtenir l'effet Invisible. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à l'Invisible Maze."
+    },
+    "worker_the_clocktower": {
+      "name": "Battement de cœur rigide dicté par la mécanique",
+      "description": "Un monde prospère d'un côté, de l'autre, la cruelle réalité d'un monde sombre sans loi.",
+      "condition": "Trouver l'ouvrier endormi à The Clocktower"
+    },
+    "lantern_scorched_wasteland": {
+      "name": "« Surchauffe » et console de jeu",
+      "description": "J'pense que tu devrais peut-être t'acheter une nouvelle console... et une nouvelle maison...",
+      "condition": "Brûler le joueur en utilisant l'effet Lanterne au Scorched Wasteland"
+    },
+    "student_confection_estate": {
+      "name": "Hé, n'interromps pas ma session d'art !",
+      "description": "Ma douce salle d'art, enrobée de sucre !",
+      "condition": "Voir toutes les réactions de l'étudiante en art au Confection Estate"
+    },
+    "bloody_white_lily_laboratory": {
+      "name": "Le dernier rêve",
+      "condition": "Interagir avec la silhouette ensanglantée au White Lily Laboratory"
+    },
+    "eyeball_bomb_effect": {
+      "name": "3, 2, 1... explosion !",
+      "description": "Owww, qui a donné à cette bombe un œil aussi mignon ?",
+      "condition": "Obtenir l'effet Bombe-Œil. Si vous l'avez déjà obtenu, retournez au Mini-Maze."
+    },
+    "snake_water_reclamation_facility": {
+      "name": "Le serpent des eaux usées",
+      "description": "Se trémoussant dans la récupération des eaux.",
+      "condition": "Trouver le serpent au Water Reclamation Facility"
+    },
+    "race_seaside_circuit": {
+      "name": "1, 2, 3, go !",
+      "description": "D-d-dépêche-toi !",
+      "condition": "Faire un tour de circuit en moins de 34 secondes au Seaside Circuit"
+    },
+    "color_cubes_world": {
+      "name": "Changement constant",
+      "description": "Tellement coloré, tellement magnifique, c'est plutôt joli pour un simple petit cube.",
+      "condition": "Visiter le Color Cubes World"
     }
   },
   "unconscious": {
@@ -9042,6 +9106,36 @@
       "name": "Migration du cosmos",
       "description": "Par hasard, le vaisseau spatial et les étoiles s'y dirigèrent tous au même moment",
       "condition": "Voir la pluie d'étoiles aux Cosmic Woods"
+    },
+    "celestial_menu": {
+      "name": "Lune étoilée",
+      "description": "Une magnifique lune se trouve devant nous, rien que pour nos doux yeux...",
+      "condition": "Obtenir le thème de menu Céleste. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé aux Celestial Platforms."
+    },
+    "unconscious_doodles": {
+      "name": "Un souvenir rempli de graffitis et de plantes",
+      "description": "Est-ce que je peux VRAIMENT dessiner ce que je veux ???",
+      "condition": "Visiter Doodles"
+    },
+    "willow_menu": {
+      "name": "Lamentation de la statue",
+      "description": "N'aie pas peur, tu peux détourner ton regard...",
+      "condition": "Obtenir le thème de menu Saule. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé aux White Lotus Islands."
+    },
+    "congregation": {
+      "name": "Rassemblement",
+      "description": "Avec chaque pas, une nouvelle vue s'ouvre devant tes yeux...",
+      "condition": "Visiter Congregation"
+    },
+    "beacons_crop_circle_maze": {
+      "name": "La moi que je n'ai jamais connue",
+      "description": "Venue d'une étoile lointaine - l'autre moi inattendue.",
+      "condition": "Activer les trois signaux au Crop Circle Maze"
+    },
+    "lovely_menu": {
+      "name": "Chère Minna...",
+      "description": "Une lettre d'amour venant des profondeurs, de là où je me noie en toi.",
+      "condition": "Obtenir le thème de menu Amourette. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Love Letter Lake."
     }
   },
   "flow": {
@@ -9744,6 +9838,11 @@
       "name": "Anneau de photons fuchsia",
       "description": "Si les lois de la physique ne s'appliquent plus dans le futur... bonne chance.",
       "condition": "Obtenir l'alter Vortex. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à l'Escher Garden."
+    },
+    "dd_river": {
+      "name": "Court d'eau caché",
+      "description": "L'atmosphère de ce lieu me rappelle la douce enfance que j'ai eue...",
+      "condition": "Visiter la River"
     }
   },
   "someday": {
@@ -10312,6 +10411,21 @@
       "name": "Caverne au fond de la mer",
       "description": "Et je descends de grâce aux bras du contre-courant ; Je prendrai ma place dans les sous-profondeurs.",
       "condition": "Atteindre la zone du fond de mer au Magnolia Pier"
+    },
+    "dragon_ceramic_beach": {
+      "name": "L'antre du dragon",
+      "description": "Marre de cette chaleur ? Prends une pause et bois un peu d'eau !",
+      "condition": "Atteindre la salle du dragon à la Ceramic Beach"
+    },
+    "tsukimi_celestial_city": {
+      "name": "Fille de la lune",
+      "description": "Sa beauté est indescriptible, c'est lunaire !",
+      "condition": "Voir Tsukimi à la Celestial City"
+    },
+    "anesi_plant_laboratory": {
+      "name": "Telle fille, telle fleur",
+      "description": "Là où les fleurs fleurissent, elle fleurit aussi.",
+      "condition": "Interagir avec Anesi en utilisant l'effet Tournesol au Plant Laboratory"
     }
   },
   "braingirl": {
@@ -10416,6 +10530,11 @@
       "name": "Canard adorable",
       "description": "Je suis tout comme un oiseau, tout comme un oiseau ! Mais je sais pas où est mon âme...",
       "condition": "Obtenir l'effet Robe de caneton. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé aux Cubic Ruins."
+    },
+    "outlook_hot_springs": {
+      "name": "Coucher de soleil reposant",
+      "description": "Rien de mieux pour se réchauffer en cette période...",
+      "condition": "Atteindre le panorama aux Hot Springs des Tanuki Woods"
     }
   },
   "amillusion": {
@@ -10606,6 +10725,11 @@
       "name": "Ascension au paradis",
       "description": "Envolons-nous tous très, très haut dans le ciel",
       "condition": "Atteindre l'Holy Sea"
+    },
+    "ninas_outpost": {
+      "name": "Atelier abandonné",
+      "description": "Que recherche-t-elle ?",
+      "condition": "Visiter Nina's Outpost"
     }
   },
   "muma": {
@@ -11048,6 +11172,11 @@
       "name": "Tu m'as trouvé !",
       "description": "Les chatons cachés se cachent dans de charmants chemins que les chafouins chercheurs cherchent chaotiquement",
       "condition": "Révéler le chat invisible au 3D Mecha Path"
+    },
+    "model_store": {
+      "name": "Bienvenue en ENFER",
+      "description": "Le corps s'affaiblit, des rêves de couleur écarlate se déroulent, et les os, autrefois recouverts de peau, cèdent place au chaos.",
+      "condition": "Voir les deux versions du Model Store"
     }
   },
   "mikan": {
@@ -12243,6 +12372,10 @@
       "name": "Création sans vie",
       "description": "Sens-tu le froid derrière toi ?",
       "condition": "Visiter les Dead Woods"
+    },
+    "egg_tart_effect": {
+      "name": "Qui vole une tarte aux œufs...",
+      "condition": "Obtenir l'effet Tarte aux œufs. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à la Deep Forest B."
     }
   },
   "nostalgic": {
@@ -12515,6 +12648,11 @@
       "description": "Ça n'a pas toujours été comme ça...",
       "condition": "Atteindre les Barrens"
     },
+    "prophetbot_barrens": {
+      "name": "Puits de connaissance phosphorescent",
+      "description": "Lorsque le Messie arrivera, ce sera finalement son jour !",
+      "condition": "Rencontrer Prophetbot aux Barrens"
+    },
     "gas_mask_barrens": {
       "name": "Masque à gaz",
       "description": "Avec ce masque à gaz, tu ne manques pas d'air...",
@@ -12571,8 +12709,9 @@
       "condition": "Atteindre le Refuge"
     },
     "george_refuge": {
-      "name": "Temp Badge Name (Do not translate)",
-      "condition": "Temp condition text (do not translate)"
+      "name": "Fervent rat de bibliothèque",
+      "description": "Six personnalités différentes... laquelle rencontreras-tu aujourd'hui ?",
+      "condition": "Donner l'étrange journal à George au Refuge"
     },
     "pancakes_refuge": {
       "name": "Goûter mérité",

@@ -577,6 +577,11 @@
       "name": "高つく電気代",
       "description": "少なくとも、もう暗闇を怖がる必要はない！!",
       "condition": "でんとうのエフェクトを入手する、すでに入手している場合は、もう一度電燈の世界に行く。"
+    },
+    "spirit_headband_effect": {
+      "name": "Transparent Veil",
+      "description": "A ghost who chose to stay in her dream.",
+      "condition": "Obtain the Spirit Headband effect. If you have already unlocked it, return to Ghost World."
     }
   },
   "2kki": {
@@ -1301,8 +1306,8 @@
       "condition": "煉瓦ダンジョンで分銅くんに変身する"
     },
     "madotsukis_room": {
-      "name": "オリジナル",
-      "description": "どこかで見たことあるような．．．",
+      "name": "The Prequel",
+      "description": "Room so mysterious, yet eerily familiar...",
       "condition": "伏す部屋に到達する"
     },
     "haniwa": {
@@ -7742,6 +7747,65 @@
       "name": "独りだけの窓辺",
       "description": "ちょっとだけ外を眺めて……",
       "condition": "窓部屋に到達する"
+    },
+    "silver_girl_crossing_archipelago": {
+      "name": "She of Silver",
+      "description": "She waits beyond the crossing gate.",
+      "condition": "Equip the Cake effect near the silver-haired girl in Crossing Archipelago"
+    },
+    "green_tower": {
+      "name": "So Green",
+      "description": "Where do these stairs lead to?",
+      "condition": "Visit Green Tower"
+    },
+    "2kki_menu_105": {
+      "name": "Garden Festival of Us!",
+      "description": "Where petals dance and smiles bloom!",
+      "condition": "Obtain the menu type 105. If you have already unlocked it, return to Garden Festival."
+    },
+    "invisible_effect": {
+      "name": "Yukata's Maze",
+      "description": "Now you see Uro, now you don't.",
+      "condition": "Obtain the Invisible effect. If you have already unlocked it, return where it can be found in the Invisible Maze."
+    },
+    "worker_the_clocktower": {
+      "name": "A Rigid Heartbeat Driven by Machinery",
+      "description": "On the opposite side of a prosperous world lies a dark, lawless, and cruel reality.",
+      "condition": "Find the sleepy worker in The Clocktower"
+    },
+    "lantern_scorched_wasteland": {
+      "name": "\"Overheating\" Game Console",
+      "description": "Maybe get a new console... and a house.",
+      "condition": "Burn the gamer by using the Lantern effect in Scorched Wasteland"
+    },
+    "student_confection_estate": {
+      "name": "Don't Interrupt my Art Time!",
+      "description": "My sweet art room, wrapped in sweets!",
+      "condition": "See all of the reactions of the art college student in Confection Estate"
+    },
+    "bloody_white_lily_laboratory": {
+      "name": "The Last Dreaming",
+      "condition": "Interact with the bloody figure in White Lily Laboratory"
+    },
+    "eyeball_bomb_effect": {
+      "name": "3, 2, 1... Boom Blast!",
+      "description": "Who gave the bomb that adorable eye?",
+      "condition": "Obtain the Eyeball Bomb effect. If you have already unlocked it, return to Mini-Maze."
+    },
+    "snake_water_reclamation_facility": {
+      "name": "Snake of the Wastewater",
+      "description": "Groovin' in the process of reclamation.",
+      "condition": "Find the snake in Water Reclamation Facility"
+    },
+    "race_seaside_circuit": {
+      "name": "1-2-3-Go!",
+      "description": "H-H-Hurry up!",
+      "condition": "Complete the Seaside Circuit track in less than 34 seconds"
+    },
+    "color_cubes_world": {
+      "name": "Ever Changing",
+      "description": "So vibrant, so graceful, it's quite beautiful for a simple cube.",
+      "condition": "Visit Color Cubes World"
     }
   },
   "unconscious": {
@@ -9056,6 +9120,36 @@
       "name": "宇宙の移動",
       "description": "偶然にも、宇宙船と星々、どちらもこの場所を目指していた。",
       "condition": "煌めく森で降り注ぐ星を見る"
+    },
+    "celestial_menu": {
+      "name": "Starry Moon",
+      "description": "What a gorgeous moon that is in front of our eyes!!!",
+      "condition": "Obtain the Celestial menu theme. If you have already unlocked it, return where it can be found in Celestial Platforms."
+    },
+    "unconscious_doodles": {
+      "name": "A Memory Filled with Graffiti and Plants",
+      "description": "Can I just go wild with graffitis here?",
+      "condition": "Visit Doodles"
+    },
+    "willow_menu": {
+      "name": "Weeping Statue",
+      "description": "Be not afraid, you can look away...",
+      "condition": "Obtain the Willow menu theme. If you have already unlocked it, return where it can be found in White Lotus Islands."
+    },
+    "congregation": {
+      "name": "Congregate",
+      "description": "With every step, it's a new sight of yourself to see...",
+      "condition": "Visit Congregation"
+    },
+    "beacons_crop_circle_maze": {
+      "name": "The Self I Never Knew",
+      "description": "She came from an unknown star - the other me I never expected.",
+      "condition": "Enable the three beacons in Crop Circle Maze"
+    },
+    "lovely_menu": {
+      "name": "Dear You",
+      "description": "Love letter from the depths where I'm drowning in you.",
+      "condition": "Obtain the Lovely menu theme. If you have already unlocked it, return where it can be found in Love Letter Lake."
     }
   },
   "flow": {
@@ -9758,6 +9852,11 @@
       "name": "赤紫の光子の輪",
       "description": "もし未来で物理法則が通じなくなったら……神が助けてくれるだろう。",
       "condition": "ボルテックスのアルターを入手する、すでに入手している場合はEscher Gardenの見つけた場所に行く。"
+    },
+    "dd_river": {
+      "name": "Hidden Oceanus",
+      "description": "The vibes reminded of the childhood I had",
+      "condition": "Visit River"
     }
   },
   "someday": {
@@ -10326,6 +10425,21 @@
       "name": "海底洞窟",
       "description": "そして私は引き潮の腕に抱かれ恩寵から堕ち、大いなる水底に居場所を得るだろう",
       "condition": "Magnolia Pierの海底エリアに到達する"
+    },
+    "dragon_ceramic_beach": {
+      "name": "The Dragon's Den",
+      "description": "Take a break from the heat and drink some water!",
+      "condition": "Reach the dragon room in Ceramic Beach"
+    },
+    "tsukimi_celestial_city": {
+      "name": "Lunar Lady",
+      "description": "She is out of this world!",
+      "condition": "See Tsukimi in Celestial City"
+    },
+    "anesi_plant_laboratory": {
+      "name": "A Girl Like a Flower",
+      "description": "Where flowers bloom, she blooms too.",
+      "condition": "Interact with Anesi while using the Sunflower effect in Plant Laboratory"
     }
   },
   "braingirl": {
@@ -10430,6 +10544,11 @@
       "name": "かわいらしいカモ",
       "description": "私は鳥、鳥みたいだ！自分の魂がどこにあるかもわからない。",
       "condition": "小ガモのドレスのエフェクトを入手する、すでに入手している場合はCubic Ruinsの見つけた場所に行く。"
+    },
+    "outlook_hot_springs": {
+      "name": "Relax Sunset",
+      "description": "What a way to warm up from the cold weather",
+      "condition": "Reach the outlook in the Hot Springs of Tanuki Woods"
     }
   },
   "amillusion": {
@@ -10620,6 +10739,11 @@
       "name": "天国への昇華",
       "description": "みんなで高く飛び上がって、空のかなたまで",
       "condition": "Holy Seaに到達する"
+    },
+    "ninas_outpost": {
+      "name": "Disused Groundwork",
+      "description": "What is she researching?",
+      "condition": "Visit Nina's Outpost"
     }
   },
   "muma": {
@@ -11062,6 +11186,11 @@
       "name": "見つかった！",
       "description": "透明ねこと夢見の子",
       "condition": "3D Mecha Pathで透明な猫を見つける"
+    },
+    "model_store": {
+      "name": "Welcome to the Hell",
+      "description": "The body falters, crimson dreams unfold, and the bones veiled in skin yield to chaos.",
+      "condition": "See the two variants of the Model Store"
     }
   },
   "mikan": {
@@ -11267,7 +11396,7 @@
     "torso_effect": {
       "name": "役立たず",
       "description": "こんなのどうしろと？",
-      "condition": "どうたいのエフェクトを入手する、すでに入手している場合はFactoryにもう一度行く。"
+      "condition": "どうたいのエフェクトを入手する、すでに入手している場合はIron Plateにもう一度行く。"
     }
   },
   "ultraviolet": {
@@ -12257,6 +12386,10 @@
       "name": "生気のない創造",
       "description": "背後の冷気を感じるか？",
       "condition": "Dead Woodsに到達する"
+    },
+    "egg_tart_effect": {
+      "name": "Eggtastic Eggs-quisiteness",
+      "condition": "Obtain the Egg Tart effect. If you have already unlocked it, return where it can be found in Deep Forest B."
     }
   },
   "nostalgic": {
@@ -12529,6 +12662,11 @@
       "description": "昔からこうだったわけではない……",
       "condition": "不浄の地に到達する"
     },
+    "prophetbot_barrens": {
+      "name": "Phosphorus Lorekeeper",
+      "description": "When the Messiah will arrive, it'll make his day!",
+      "condition": "Meet Prophetbot in the Barrens"
+    },
     "gas_mask_barrens": {
       "name": "ガスマスク",
       "description": "ガスマスクを付けて、ガスの中に踏み込む時！",
@@ -12585,8 +12723,9 @@
       "condition": "避難所に到達する"
     },
     "george_refuge": {
-      "name": "Temp Badge Name (Do not translate)",
-      "condition": "Temp condition text (do not translate)"
+      "name": "Avid Bookworm",
+      "description": "Six personalities... which one will you encounter today?",
+      "condition": "Give the weird journal to George in Refuge"
     },
     "pancakes_refuge": {
       "name": "美味しいリフレッシュ",
