@@ -549,29 +549,29 @@
       "condition": "Obtén el Efecto Neón. Si ya lo has desbloqueado, regresa al Mundo de Neón."
     },
     "umbrella_effect": {
-      "name": "A Whisper of Rain",
-      "description": "The rain doesn't call for my umbrella - my umbrella calls for the rain.",
-      "condition": "Obtain the Umbrella effect. If you have already unlocked it, return to Puddle World."
+      "name": "Un Susurro de la Lluvia",
+      "description": "La lluvia no llama a mi paraguas - mi paraguas llama a la lluvia.",
+      "condition": "Obtén the el Efecto Paraguas. Si ya lo has desbloqueado, regresa al Mundo de los charcos."
     },
     "event_completionist": {
-      "name": "Nightmare Reverie",
-      "condition": "Trigger the FACE, Famicom Glitch, Melting Madotsuki, and the Witch's Flight fall events",
+      "name": "Pesadilla de Ensueño",
+      "condition": "Activa los eventos ROSTRO, Glitch FC, Madotsuki Derretida y Caída del Vuelo de la Bruja",
       "checkbox": {
-        "face": "FACE",
-        "fc_glitch": "Famicom Glitch",
-        "melt": "Melting Madotsuki",
-        "fall": "Witch's Flight fall"
+        "face": "ROSTRO",
+        "fc_glitch": "Glitch FC",
+        "melt": "Madotsuki Derretida",
+        "fall": "Caída del Vuelo de la Bruja"
       }
     },
     "lamp_effect": {
-      "name": "Expensive Electricity Bill",
-      "description": "At least you don't have to be scared of the dark anymore!",
-      "condition": "Obtain the Lamp effect. If you have already unlocked it, return to Lamp World."
+      "name": "Factura de Electricidad Costosa",
+      "description": "¡Al menos ya nunca vas a tener miedo a la oscuridad!",
+      "condition": "Obtén el Efecto Lámpara. Si ya lo has desbloqueado, regresa al Mundo de las Lámparas."
     },
     "spirit_headband_effect": {
-      "name": "Transparent Veil",
-      "description": "A ghost who chose to stay in her dream.",
-      "condition": "Obtain the Spirit Headband effect. If you have already unlocked it, return to Ghost World."
+      "name": "Velo Transparente",
+      "description": "Un fantasma que decidió quedarse en su sueño.",
+      "condition": "Obtén el efecto Banda Espiritual. Si ya lo has desbloqueado, regresa al Mundo Fantasmal."
     }
   },
   "2kki": {
@@ -9185,7 +9185,7 @@
     "other_worlds": {
       "name": "Distant Melody",
       "description": "Such a lovely song...",
-      "condition": "Entra al Young Passage y al Microorganism World",
+      "condition": "Entra a Young Passage y a Microorganism World",
       "checkbox": {
         "microscopic_world": "Microorganism World",
         "young_passage": "Young Passage"
@@ -9204,12 +9204,12 @@
     "smile_channel": {
       "name": "Canal de la Sonrisa",
       "description": "¡Hay que poner una sonrisa en esa cara!",
-      "condition": "Interactúa con la televisión en Sabitsuki's room hasta que una sonrisa aparezca en la pantalla"
+      "condition": "Interactúa con la televisión en Sabitsuki's Room hasta que una sonrisa aparezca en la pantalla"
     },
     "orange": {
       "name": "Mejores Amigos por Siempre",
       "description": "Quizás aún existe bondad en este mundo",
-      "condition": "Obtén el Tema de Menú Naranja. Si ya lo has desbloqueado, regresa al Star World."
+      "condition": "Obtén el Tema de Menú Naranja. Si ya lo has desbloqueado, regresa a Star World."
     },
     "moonlight_flower": {
       "name": "Flor Psicodélica",
@@ -9259,12 +9259,12 @@
     },
     "deterioration_dark_door": {
       "name": "¿Hola?",
-      "description": "¿Qué estaba ahí?",
+      "description": "¿Qué era lo que estaba ahí?",
       "condition": "Interactúa con la cuarta puerta en Deterioration Apartment"
     },
     "rust_menu": {
       "name": "Sala de los Enfermos",
-      "condition": "Obtén el Tipo de Menú Rust. Si ya lo has desbloqueado, regresa al Back Ward."
+      "condition": "Obtén el Tipo de Menú Rust. Si ya lo has desbloqueado, regresa a Back Ward."
     },
     "flower_adorned_hat": {
       "name": "Sombrero Adornado con Flores",
@@ -9285,11 +9285,11 @@
     "tabiki_san": {
       "name": "Fogata",
       "description": "Aww... Eso me estaba manteniendo calentito...",
-      "condition": "Apaga la fogata de Tabiki-san's usando el efecto Regadera"
+      "condition": "Apaga la fogata de Tabiki-san usando el efecto Regadera"
     },
     "flow_sabi_all_effects": {
       "name": "Impecable",
-      "condition": "Activa el evento Disguised Bug"
+      "condition": "Activa el evento Insecto Disfrazado"
     },
     "razor_head": {
       "name": "Cabeza de Cuchilla",
@@ -9321,7 +9321,7 @@
     },
     "smile_empty_box": {
       "name": "Educación Corrupta",
-      "condition": "Obtaén la caja vacía de Smile. Si ya la has desbloqueado, regresa a la habitación previa a la que esta se encuentra en  Corrupted School."
+      "condition": "Obtaén la caja vacía de Smile. Si ya la has desbloqueado, regresa a la habitación previa a la que esta se encuentra en Corrupted School."
     },
     "rust_ending": {
       "name": "Oxidación",
@@ -9383,27 +9383,27 @@
     },
     "whistle_effect_flow": {
       "name": "Árbitro Oxidado",
-      "condition": "Obtén el efecto Silbato. Si ya lo has desbloqueado, regresa donde puede ser encontrado en Visceral World."
+      "condition": "Obtén el efecto Silbato. Si ya lo has desbloqueado, regresa a donde puede ser encontrado en Visceral World."
     },
     "viscera_effect": {
       "name": "Derrama tus Entrañas",
       "description": "Que desasre...",
-      "condition": "Obtén el efecto Vísceras. Si ya lo has desbloqueado, regresa donde puede ser encontrado en Womb Maze."
+      "condition": "Obtén el efecto Vísceras. Si ya lo has desbloqueado, regresa a donde puede ser encontrado en Womb Maze."
     },
     "broom_effect_flow": {
       "name": "Servicio de Entrega de Sabi",
       "description": "Te sentirás realmente vivo cada día.",
-      "condition": "Obtén el efecto Escoba. Si ya lo has desbloqueado, regresa donde puede ser encontrado en Famicom World."
+      "condition": "Obtén el efecto Escoba. Si ya lo has desbloqueado, regresa a donde puede ser encontrado en Famicom World."
     },
     "uniform_effect_flow": {
       "name": "¡Regreso a clases!",
       "description": "¡Al menos el Uniforme es bonito!",
-      "condition": "Obtén el efecto Uniforme. Si ya lo has desbloqueado, regresa donde puede ser encontrado en School."
+      "condition": "Obtén el efecto Uniforme. Si ya lo has desbloqueado, regresa a donde puede ser encontrado en School."
     },
     "dress_effect_flow": {
       "name": "La Fragancia de un Vestido Nevado",
       "description": "Un lindo vestido que me gustaría tener.",
-      "condition": "Obtén el efecto Vestido. Si ya lo has desbloqueado, regresa donde puede ser encontrado en Snow World."
+      "condition": "Obtén el efecto Vestido. Si ya lo has desbloqueado, regresa a donde puede ser encontrado en Snow World."
     },
     "dresses_submarine_village": {
       "name": ".moda",
@@ -9418,12 +9418,12 @@
     "revolver_effect": {
       "name": "Advertencia",
       "description": "Cinco campanadas al cielo, después las sombras vendrán",
-      "condition": "Obtén el efecto Revólver. Si ya lo has desbloqueado, regresa donde puede ser encontrado en Hole."
+      "condition": "Obtén el efecto Revólver. Si ya lo has desbloqueado, regresa a donde puede ser encontrado en Hole."
     },
     "tv_effect_flow": {
       "name": "Surfeando por los canales",
       "description": "¿Puede esta cosa correr Silent Hill?",
-      "condition": "Obtén el efecto Televisión. Si ya lo has desbloqueado, regresa donde puede ser encontrado en Machine Nation."
+      "condition": "Obtén el efecto Televisión. Si ya lo has desbloqueado, regresa a donde puede ser encontrado en Machine Nation."
     },
     "drawings_submarine_corridors": {
       "name": "Garabatos Locos",
@@ -9433,12 +9433,12 @@
     "gas_mask_effect_flow": {
       "name": "Máscara Táctica",
       "description": "Mantiene los malos aires fuera.",
-      "condition": "Obtén el efecto Máscara de Gas. Si ya lo has desbloqueado, regresa donde puede ser encontrado en Plant Corridors."
+      "condition": "Obtén el efecto Máscara de Gas. Si ya lo has desbloqueado, regresa a donde puede ser encontrado en Plant Corridors."
     },
     "arms_effect_flow": {
       "name": "En un estado mental riesgoso",
       "description": "Después de un colapso psicológico no hay vuelta atrás a la inocencia.",
-      "condition": "Obtén el efecto Brazos. Si ya lo has desbloqueado, regresa donde puede ser encontrado en Microorganism World."
+      "condition": "Obtén el efecto Brazos. Si ya lo has desbloqueado, regresa a donde puede ser encontrado en Microorganism World."
     },
     "alleyway_chase_town": {
       "name": "Emboscada Encapuchada",
@@ -9456,23 +9456,23 @@
       "condition": "Llega a la Purity Corrupta en Womb Maze"
     },
     "corpse_effect": {
-      "name": "Reanimated",
-      "description": "Die for me, living dead girl...",
-      "condition": "Obtain the Corpse effect. If you have already unlocked it, return where it can be found in Prison."
+      "name": "Reanimado",
+      "description": "Muere por mi, chica muerta viviente...",
+      "condition": "Obtén el Efecto Cadáver. Si ya lo has desbloqueado, regresa a donde puede ser encontrado en Prison."
     },
     "cleaner_ending": {
-      "name": "Unsentimental Benevolence",
-      "condition": "See the Cleaner Ending"
+      "name": "Benevolencia Sin Sentimientos",
+      "condition": "Observa el Final Cleaner"
     },
     "night_visit_deterioration": {
-      "name": "Violence That Festered in the Dark",
-      "description": "A hair’s breadth away from violence.",
-      "condition": "Fully see the Night Visit event in Deterioration"
+      "name": "Violencia que se Pudrió en la Oscuridad",
+      "description": "A un solo pelo de la violencia.",
+      "condition": "Ve completamente el evento de la Visita Nocturna en Deterioration"
     },
     "well_kaibutsu_famicom_world": {
-      "name": "Well Timed Revenge",
-      "description": "Well, well, well...",
-      "condition": "Get caught by the Kaibutsu in the well in Famicom World"
+      "name": "Venganza en el Momento Oportuno",
+      "description": "Bien, bien, bien...",
+      "condition": "Sé atrapado por el Kaibutsu en el pozo en Famicom World"
     }
   },
   "prayers": {
