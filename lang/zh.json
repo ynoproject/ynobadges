@@ -708,11 +708,11 @@
     },
     "hakoko": {
       "name": "箱子",
-      "condition": "在Visine World: Eye Shop与箱子互动"
+      "condition": "在Visine World：Eye Shop与箱子互动"
     },
     "hakoko_prime": {
       "name": "快递箱子",
-      "condition": "在计时模式下，于{TIME}内抵达Visine World: Eye Shop并与箱子互动"
+      "condition": "在计时模式下，于{TIME}内抵达Visine World：Eye Shop并与箱子互动"
     },
     "lotus_waters_lesser": {
       "name": "水中莲华",
@@ -750,11 +750,11 @@
     },
     "butterfly_lesser": {
       "name": "霞光蝴蝶胸针",
-      "condition": "抵达Tomb of Velleities: Lunar Sanctuary"
+      "condition": "抵达Tomb of Velleities：Lunar Sanctuary"
     },
     "butterfly": {
       "name": "暮色蝴蝶胸针",
-      "condition": "在计时模式下，于{TIME}内抵达Tomb of Velleities: Lunar Sanctuary"
+      "condition": "在计时模式下，于{TIME}内抵达Tomb of Velleities：Lunar Sanctuary"
     },
     "streetlight": {
       "name": "昏暗的街灯",
@@ -766,7 +766,7 @@
     },
     "magical": {
       "name": "梅林",
-      "condition": "在计时模式下，于 {TIME} 内抵达Magical Passage"
+      "condition": "在计时模式下，于{TIME}内抵达Magical Passage"
     },
     "voxels": {
       "name": "魔法体素",
@@ -787,13 +787,13 @@
     },
     "singularity": {
       "name": "微型黑洞",
-      "condition": "在Río的世界里（Decrepit Dwelling、Verdant Promenade、Forgotten Megalopolis、Tomb of Velleities: Lunar Sanctuary、Luminous Lake: Dragon's Peak），找到所有5个黑洞女孩并与其互动。若已互动过，则必须抵达每位女孩的原本位置。",
+      "condition": "在Río的世界里（Decrepit Dwelling、Verdant Promenade、Forgotten Megalopolis、Tomb of Velleities：Lunar Sanctuary、Luminous Lake：Dragon's Peak），找到所有5个黑洞女孩并与其互动。若已互动过，则必须抵达每位女孩的原本位置。",
       "checkbox": {
         "b_h_g_decrepit_dwellings": "Decrepit Dwellings",
         "b_h_g_verdant_promenade": "Verdant Promenade",
         "b_h_g_forgotten_megalopolis": "Forgotten Megalopolis",
-        "b_h_g_tomb_of_velleities": "Tomb of Velleities: Lunar Sanctuary",
-        "b_h_g_dragons_peak": "Luminous Lake: Dragon's Peak"
+        "b_h_g_tomb_of_velleities": "Tomb of Velleities：Lunar Sanctuary",
+        "b_h_g_dragons_peak": "Luminous Lake：Dragon's Peak"
       }
     },
     "circus_lesser": {
@@ -1110,7 +1110,7 @@
     "dream_fishing": {
       "name": "渔之乐",
       "description": "这条挺别致的",
-      "condition": "抵达Ocean Subsurface, Rotten Fish Lake, Fish World, Mackerel Desert, Sushi World, Flying Fish World, Lamplit Stones, Streetlight Docks, Depths,和 Bioluminescent Cavern",
+      "condition": "抵达Ocean Subsurface、Rotten Fish Lake、Fish World、Mackerel Desert、Sushi World、Flying Fish World、Lamplit Stones、Streetlight Docks、Depths、Bioluminescent Cavern",
       "checkbox": {
         "ocean_subsurface": "Ocean Subsurface",
         "rotten_fish_lake": "Rotten Fish Lake",
@@ -1295,8 +1295,8 @@
       "condition": "在Red Brick Maze里变身方块人"
     },
     "madotsukis_room": {
-      "name": "The Prequel",
-      "description": "Room so mysterious, yet eerily familiar...",
+      "name": "前传",
+      "description": "神秘却莫名其妙地熟悉的房间……",
       "condition": "进入Never-Ending Hallway里的某个房间"
     },
     "haniwa": {
@@ -1423,7 +1423,7 @@
     },
     "classified": {
       "name": "机密",
-      "description": "一旦树开了花...",
+      "description": "一旦树开了花……",
       "condition": "进入Clandestine Research Laboratory"
     },
     "mysterious_maid": {
@@ -1854,7 +1854,7 @@
     "urotsuki_pendant": {
       "name": "记忆吊坠",
       "description": "\"我\" 在这里。",
-      "condition": "在以下地点找到Urotsuki或其类似物：Atlantis，Tapir-San's Place，Giant Cloning Room，Bleak Future，Closet Pinwheel Path，Red Sky Cliff，Despair Road，Head World，Static Noise Hell，Colorless Valley、Spear Tribe World。",
+      "condition": "在以下地点找到Urotsuki或其类似物：Atlantis、Tapir-San's Place、Giant Cloning Room、Bleak Future、Closet Pinwheel Path，Red Sky Cliff、Despair Road，Head World、Static Noise Hell、Colorless Valley、Spear Tribe World。",
       "checkbox": {
         "uro_atlantis": "Atlantis",
         "uro_tapir_place": "Tapir-San's Place",
@@ -2310,13 +2310,13 @@
     },
     "depths_fall": {
       "name": "深渊形影",
-      "description": "漫步于深渊的的水母友人",
+      "description": "漫步深渊的水母友人",
       "condition": "坠入Depths的最深处"
     },
     "depths_fall_trial": {
       "name": "深渊残影",
       "description": "横掠深渊的水母家人",
-      "condition": "计时模式下，于 {TIME} 内坠入Depths的最深处"
+      "condition": "计时模式下，于{TIME}内坠入Depths的最深处"
     },
     "glass_church": {
       "name": "忆彩琉璃",
@@ -2550,7 +2550,7 @@
     },
     "gb_forest": {
       "name": "梦世界树",
-      "condition": "进入Sketch Plains连接的 GB Forest。"
+      "condition": "进入Sketch Plains连接的GB Forest。"
     },
     "carousel_oriental": {
       "name": "情绪波动",
@@ -3603,7 +3603,7 @@
       "condition": "遇到Dream Mexico的红鸟"
     },
     "city_subtractive_color": {
-      "name": "Subtractive!",
+      "name": "减色！",
       "description": "充满了闪烁颜色的城市",
       "condition": "到达Subtractive Color City的城市区域"
     },
@@ -3692,7 +3692,7 @@
       "condition": "到达Bleeding Mushroom Garden"
     },
     "overgrown_cdm_storm": {
-      "name": "Overgrown Terraforming",
+      "name": "地球化过度",
       "description": "这个地方是活的",
       "condition": "在Overgrown Condominium室外制造暴风雨"
     },
@@ -3743,7 +3743,7 @@
     },
     "snowy_theatre": {
       "name": "绚丽多彩",
-      "condition": "计时模式里，用{TIME}或以下时间到达Snowy Village剧院的坐席处"
+      "condition": "在计时模式中，于{TIME}以内到达Snowy Village剧院的坐席处"
     },
     "rainbow_snow_plateau": {
       "name": "彩虹雪花球",
@@ -3807,7 +3807,7 @@
     "lucent_world_tt": {
       "name": "超透明世界",
       "description": "在金色夜晚的夜行之梦中驰骋于维多利亚时代的小道！",
-      "condition": "在计时模式用{TIME}以内到达Bioluminescent Cavern的魔幻水域"
+      "condition": "在计时模式中，于{TIME}以内到达Bioluminescent Cavern的魔幻水域"
     },
     "red_culvert_d_pool": {
       "name": "水池里侧",
@@ -3883,7 +3883,7 @@
     "bridge_medical_utopia": {
       "name": "清凉药片",
       "description": "确保在医院之旅结束之后放松身心！",
-      "condition": "Visit the Hospital Outlook"
+      "condition": "抵达Hospital Outlook"
     },
     "hex_factory_polygon": {
       "name": "模拟的自然界",
@@ -3915,7 +3915,7 @@
     },
     "twin_forests": {
       "name": "双子树",
-      "condition": "分别到达Blue Forest和Orange Forest",
+      "condition": "分别到访Blue Forest和Orange Forest",
       "checkbox": {
         "blue_forest": "Blue Forest",
         "orange_forest": "Orange Forest"
@@ -3948,7 +3948,7 @@
     },
     "witch_heaven": {
       "name": "魔法天国",
-      "condition": "到达Witch Heaven"
+      "condition": "抵达Witch Heaven"
     },
     "lamps_house_vases": {
       "name": "陶瓷白日梦",
@@ -4046,8 +4046,8 @@
       "condition": "被Horror Maze的怪物抓住"
     },
     "horse_mask": {
-      "name": "Horsin' Around",
-      "description": "好了好了，别扮成马胡闹了。",
+      "name": "破马张飞",
+      "description": "闹啥闹，真以为自己是马啊？",
       "condition": "在Motel Breeze获得马头面具"
     },
     "red_monsters_qxy": {
@@ -4514,7 +4514,7 @@
       "condition": "找到出现在Visine World的三个不同位置的Megusuri Uri并和他互动",
       "checkbox": {
         "megusuri_uri_visine_1": "Visine World",
-        "megusuri_uri_visine_2|megusuri_uri_visine_3": "目薬川：目薬屋さん"
+        "megusuri_uri_visine_2|megusuri_uri_visine_3": "Megusuri Uri"
       }
     },
     "rgb_passage": {
@@ -4559,7 +4559,7 @@
     "2kki_menu_40": {
       "name": "分型锁钥",
       "description": "锁孔背后的秘密等待着你。",
-      "condition": "获得菜单样式60。如果你已经解锁了它，请返回Flicker Trail的菜单样式房间。"
+      "condition": "获得菜单样式60。若已解锁，请返回Flicker Trail的菜单样式房间。"
     },
     "eyeball_mono_school": {
       "name": "以眼还眼",
@@ -4657,8 +4657,8 @@
       "condition": "到达Morning Suburbs"
     },
     "cornelius_bloom": {
-      "name": "Gnomed!",
-      "description": "I'M A GNOME AND YOU'VE BEEN GNOMED!!!!!!!!",
+      "name": "被矮人整了！",
+      "description": "我是个矮人，你现在被我整啦！！！！！！！！",
       "condition": "在Bloom 99与Cornelius互动"
     },
     "secret_society_president": {
@@ -4669,7 +4669,7 @@
     "beniko_thumbtack": {
       "name": "为灵魂迷失",
       "description": "当我迷失的时候，你在这里等着我。",
-      "condition": "Interact with Beniko at the edge of Higan Cliff in Thumbtack World"
+      "condition": "在Thumbtack World：Higan Cliff的悬崖边与Beniko互动"
     },
     "aiko_dream_pool_int": {
       "name": "眼",
@@ -5002,7 +5002,7 @@
     "2kki_menu_73_74": {
       "name": "孤立房间",
       "description": "在各地游览欣赏风景！",
-      "condition": "在Megalith Grove和English Thundershower获得菜单样式73和74。若已获得，请返回获得其的场景。",
+      "condition": "在Megalith Grove和English Thundershower获得菜单样式73和74。若已解锁，请返回获得以上菜单样式处。",
       "checkbox": {
         "2kki_menu_73": "Megalith Grove",
         "2kki_menu_74": "English Thundershower"
@@ -5981,7 +5981,7 @@
     },
     "bar_domino_maze": {
       "name": "赛博番茄酒吧",
-      "description": "Bip bip!",
+      "description": "哔哔！",
       "condition": "抵达Domino Maze的酒吧"
     },
     "scissors_domino_maze": {
@@ -6061,7 +6061,7 @@
     "girl_dream_precint": {
       "name": "报复",
       "description": "保护你珍视的人们",
-      "condition": "Chainsaw the Detective with turquoise hair in Dream Precinct"
+      "condition": "在Dream Precinct锯掉青绿发色的侦探"
     },
     "creature_downfall_garden_a": {
       "name": "揉捏者",
@@ -6113,7 +6113,7 @@
       "condition": "集齐Check-Disk Nexus的所有文件"
     },
     "maiko_glitch_hell": {
-      "name": "Instructions for Maiko",
+      "name": "舞姬的使用说明",
       "description": "你是不是忘了怎么玩这个效果？",
       "condition": "使用舞姬效果与Glitch Hell的白色红眼生物互动，将菜单样式变更为绿色"
     },
@@ -6499,7 +6499,7 @@
     "cliff_burgundy_flats": {
       "name": "琥珀天景",
       "description": "令人内心平静的景象。",
-      "condition": "Reach the lakeside area in Shaded Hallways"
+      "condition": "抵达Shaded Hallways的湖边区域"
     },
     "cheese_connoisseur": {
       "name": "很高兴吃到奶酪！",
@@ -6666,7 +6666,7 @@
     "sunrise_drink": {
       "name": "落日鸡尾酒",
       "description": "*碰杯！*",
-      "condition": "抵达以下地点的酒吧：Japan Town、he Baddies Bar、yeball Archives、Cyber Bar、Cocktail Lounge、Aquamarine Cave、Spaceship、Redlight Alley、Water Reclamation Facility",
+      "condition": "抵达以下地点的酒吧：Japan Town、The Baddies Bar、yeball Archives、Cyber Bar、Cocktail Lounge、Aquamarine Cave、Spaceship、Redlight Alley、Water Reclamation Facility",
       "checkbox": {
         "underground_bar": "Japan Town",
         "baddies_bar_bar": "The Baddies Bar",
@@ -7810,16 +7810,16 @@
       "condition": "抵达Color Cubes World"
     },
     "black_sphere_world": {
-      "name": "Black Sphere",
-      "description": "Just a black sphere, in a vast white world.",
-      "condition": "Visit Black Sphere World"
+      "name": "黑色球体",
+      "description": "只是广袤白色世界中的黑色球体。",
+      "condition": "抵达Black Sphere World"
     }
   },
   "unconscious": {
     "eye_lily_w_lotus_islands": {
       "name": "超现实之美",
       "description": "神圣的觉醒",
-      "condition": "到达White Lotus Islands里Eye-lily的住所，并与Eye-lily互动"
+      "condition": "到达White Lotus Islands里Eye-lily的居所，并与Eye-lily互动"
     },
     "box_office_end": {
       "name": "仓库番技术",
@@ -8866,7 +8866,7 @@
       "condition": "获得幻象蚕蛾。若已获得，请返回Moth Garden中获得该效果处。"
     },
     "deity_ghost_village": {
-      "name": "Watcher in The Sky",
+      "name": "空中的守望者",
       "description": "你能见我所见吗？",
       "condition": "找到Ghost Village的神灵"
     },
@@ -10061,7 +10061,7 @@
   "unevendream": {
     "cookies": {
       "name": "曲奇饼干",
-      "description": "烤焦了就没那么好吃了...",
+      "description": "烤焦了就没那么好吃了……",
       "condition": "在Mutant Sunflower World里完成Burnt Cookies事件。"
     },
     "el_bebe": {
@@ -10453,7 +10453,7 @@
     "lotus_cluster": {
       "name": "一簇睡莲",
       "description": "在水中放松一下。",
-      "condition": "抵达Tanuki Woods: Hot Springs。"
+      "condition": "抵达Tanuki Woods：Hot Springs。"
     },
     "fried_soap_bars": {
       "name": "油炸肥皂",
@@ -10462,7 +10462,7 @@
     },
     "labyrinth_boombox": {
       "name": "迷宫曳步",
-      "condition": "在Ecstasy Grasslands: Grasslands Labyrinth打开手提音箱。"
+      "condition": "在Ecstasy Grasslands：Grasslands Labyrinth打开手提音箱。"
     },
     "shrine_garden": {
       "name": "碎裂球体",
@@ -10472,7 +10472,7 @@
     "vista": {
       "name": "远景长存",
       "description": "无时无刻不在欣赏风景。",
-      "condition": "在所有的状态下分别前往阳台 (早晨, 白天, 傍晚, 夜晚, 暴风雨)。",
+      "condition": "在所有的状态下分别前往阳台（早晨、白天、傍晚、夜晚、暴风雨）。",
       "checkbox": {
         "balcony_evening": "傍晚",
         "balcony_day": "白天",
@@ -10510,7 +10510,7 @@
     },
     "red_barn_loser": {
       "name": "技术问题",
-      "description": "我服了爸爸...",
+      "description": "我服了……",
       "condition": "在Red Barn打破赛马三连输记录并获得终身禁赛荣誉。"
     },
     "hamlet_alien": {
@@ -10565,7 +10565,7 @@
     },
     "epacse": {
       "name": "SUDOXE",
-      "condition": "抵达EPACSE: Launch Islands，并把你的船停靠在一座码头处。"
+      "condition": "抵达EPACSE：Launch Islands，并把你的船停靠在一座码头处。"
     },
     "guitar": {
       "name": "头发金属乐",
@@ -11105,7 +11105,7 @@
     },
     "big_one_structure": {
       "name": "怪东西",
-      "description": "这啥...",
+      "description": "这啥……",
       "condition": "与Deserted Town某房间的大人物对话。"
     },
     "bloody_red_maw": {
@@ -11119,7 +11119,7 @@
     },
     "leviathan_genie": {
       "name": "利维坦",
-      "description": "你一定很孤独吧...",
+      "description": "你一定很孤独吧……",
       "condition": "与Pool Facilities的水下生物交互。"
     },
     "devastating_view": {
