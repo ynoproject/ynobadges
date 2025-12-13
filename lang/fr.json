@@ -121,10 +121,6 @@
       "description": "Une lame obscure d'un tranchant onirophobique.",
       "condition": "De Zolotl à Aztec"
     },
-    "novaflow": {
-      "name": "NovAflow",
-      "condition": "Être NovAflow"
-    },
     "unconscious_dev": {
       "name": "Développeur de Collective Unconscious",
       "description": "Réservé pour les développeurs de Collective Unconscious",
@@ -7840,6 +7836,21 @@
       "name": "Étrange cour",
       "description": "Ces créatures se seraient-elles échappées des fresques ?",
       "condition": "Atteindre la cour au Photographic Field"
+    },
+    "buried_city": {
+      "name": "Ville des souvenirs enfouis",
+      "description": "Des lamentations noyées sous la ville.",
+      "condition": "Visiter la Buried City"
+    },
+    "plunge_sunken_city": {
+      "name": "Il y aura une autre fois",
+      "description": "Rêve encore, n'abandonne pas.",
+      "condition": "Aller à Atlantis depuis la Sunken City"
+    },
+    "koala_eucalyptus_woodland": {
+      "name": "Costume reposant",
+      "description": "C'est un costume très mignon !",
+      "condition": "Équiper le masque tenue koala là où il peut être trouvé à Eucalyptus Woodland"
     }
   },
   "unconscious": {
@@ -9213,6 +9224,11 @@
       "name": "Vide verdâtre",
       "description": "Le vide vous soulage de sa douce lueur verdâtre...",
       "condition": "Visiter Green"
+    },
+    "cat_abnormal_sewers": {
+      "name": "Chat festif",
+      "description": "Quels beaux yeux tu as.",
+      "condition": "Trouver le grand chat aux Abnormal Sewers"
     }
   },
   "flow": {
@@ -10622,6 +10638,11 @@
       "name": "Coucher de soleil reposant",
       "description": "Rien de mieux pour se réchauffer en cette période...",
       "condition": "Atteindre le panorama aux Hot Springs des Tanuki Woods"
+    },
+    "turnip_psychedelic_farm": {
+      "name": "Navet foufou",
+      "description": "Mange tes légumes.",
+      "condition": "Trouver le navet avec un visage à la Psychedelic Farm"
     }
   },
   "amillusion": {
@@ -11470,6 +11491,11 @@
       "name": "Inutile",
       "description": "Qu'est-ce que j'suis censé faire avec ça !?",
       "condition": "Obtenir l'effet Torse. Si vous l'avez déjà obtenu, retournez à l'Iron Plate."
+    },
+    "case_effect": {
+      "name": "Je vais jamais m'en sortir, j'suis piégé.",
+      "description": "« Piégé dans une boîte, ma vie ne devient que vide, et tout ce que je pensais sur moi-même est détruit. »",
+      "condition": "Obtenir l'effet Boîte. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à l'Abandoned Rooftop."
     }
   },
   "ultraviolet": {
