@@ -121,10 +121,6 @@
       "description": "A dark blade of an oneirophobic sharpening.",
       "condition": "From Zolotl to Aztec"
     },
-    "novaflow": {
-      "name": "NovAflow",
-      "condition": "Be NovAflow"
-    },
     "unconscious_dev": {
       "name": "Collective Unconscious Developer",
       "description": "Reserved for Collective Unconscious developers",
@@ -7822,7 +7818,7 @@
       "condition": "Visit Sunset's Room in Spaceship"
     },
     "bunny_cloud_astral_world": {
-      "name": "As Soft as It Can Be",
+      "name": "Soft As Can Be",
       "description": "This one is shaped like a bunny!",
       "condition": "Reveal the bunny cloud in Astral World"
     },
@@ -7835,6 +7831,21 @@
       "name": "Strange Yard",
       "description": "Did these creatures escape from the murals?",
       "condition": "Reach the yard in Photographic Field"
+    },
+    "buried_city": {
+      "name": "City of Buried Memories",
+      "description": "Sunken lamentations.",
+      "condition": "Visit Buried City"
+    },
+    "plunge_sunken_city": {
+      "name": "There'll Be Another Time",
+      "description": "Dream on. Dream on.",
+      "condition": "Go to Atlantis from Sunken City"
+    },
+    "koala_eucalyptus_woodland": {
+      "name": "Sleepy Suit",
+      "description": "It's a very cute costume",
+      "condition": "Equip the koala suit mask where it can be found in Eucalyptus Woodland"
     }
   },
   "unconscious": {
@@ -9208,6 +9219,11 @@
       "name": "Viridian Void",
       "description": "The void soothes you with its faint, viridescent glow...",
       "condition": "Visit Green"
+    },
+    "cat_abnormal_sewers": {
+      "name": "Party Cat",
+      "description": "What beautiful eyes you have",
+      "condition": "Find the big cat in Abnormal Sewers"
     }
   },
   "flow": {
@@ -10617,6 +10633,11 @@
       "name": "Relax Sunset",
       "description": "What a way to warm up from the cold weather",
       "condition": "Reach the outlook in the Hot Springs of Tanuki Woods"
+    },
+    "turnip_psychedelic_farm": {
+      "name": "Manic Turnip",
+      "description": "Eat your greens.",
+      "condition": "Find the turnip with a face in Psychedelic Farm"
     }
   },
   "amillusion": {
@@ -11465,6 +11486,11 @@
       "name": "Useless",
       "description": "What am I even supposed to do with this thing?",
       "condition": "Obtain the Torso effect. If you have already unlocked it, return to Iron Plate."
+    },
+    "case_effect": {
+      "name": "I'll Never Get Out, I'm Trapped.",
+      "description": "\"Trapped in a box, my life becomes void, and all I thought for myself is now destroyed.\"",
+      "condition": "Obtain the Case effect. If you have already unlocked it, return where it can be found in Abandoned Rooftop."
     }
   },
   "ultraviolet": {
