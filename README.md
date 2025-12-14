@@ -7,6 +7,7 @@ User-submitted translations are welcomed on this repository.
 ## Info and Guides
 
 [Badge Rules Document]
+
 [Credits]
 
 ## Related Links
