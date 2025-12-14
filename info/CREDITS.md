@@ -437,6 +437,7 @@
 * IStoleThePies
 * wiki0dd
 * zaidalkaz
+* All players of the site.
 
 
 Artists are credited in the files tied to their badges present in the badges folder, and can be seen on the site by hovering over one of their badges in the badge menu.
