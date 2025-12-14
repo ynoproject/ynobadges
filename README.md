@@ -21,6 +21,6 @@ User-submitted translations are welcomed on this repository.
 * [EasyRPG.org](https://easyrpg.org/)
 * [EasyRPG Wiki](https://wiki.easyrpg.org/)
 
-[Badge Rules Document]: info/Badge_Rules_Document.md
+[Badge Rules Document]: info/badge_rules_document.md
 
-[Credits]: info/CREDITS.md
+[Credits]: info/credits.md
