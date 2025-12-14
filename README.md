@@ -23,4 +23,4 @@ User-submitted translations are welcomed on this repository.
 
 [Badge Rules Document]: info/badge_rules_document.md
 
-[Credits]: info/credits.md
+[Credits]: info/CREDITS.md
