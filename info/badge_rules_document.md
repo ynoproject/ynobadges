@@ -1,7 +1,8 @@
 # Badge Rules Document
 
-**THE RULES OF THIS DOCUMENT WERE LAST UPDATED ON 3/13/2025 @ 10:00 AM PST**
-**BADGES SUBMITTED PRIOR TO THIS DATE ARE SUBJECTED TO PRIOR RULES DOCUMENTS**
+*** THE RULES OF THIS DOCUMENT WERE LAST UPDATED ON 3/13/2025 @ 10:00 AM PST ***
+
+*** BADGES SUBMITTED PRIOR TO THIS DATE ARE SUBJECTED TO PRIOR RULES DOCUMENTS ***
 
 
 ## What is a Badge?
@@ -9,10 +10,11 @@
 A Badge is a collectible icon used on YNO. Badges are given to the players for accomplishing various tasks in the different fangames, such as reaching a deep area or finding a fun event.
 
 Badges can be equipped and displayed next to your name when you send a message in chat. Badges can also be arranged into a Badge Gallery, which you can use to show off your favorite Badges.
+
 Badges are meant to be a reward given to the player for achieving something that takes time, effort, skill, or in some cases, RNG.
 
 
-## Why were the badge rules changed?
+### Why were the badge rules changed?
 
 Badge rules were changed due to numerous issues that we kept noticing or having reported to us, including but not limited
 to:
@@ -25,16 +27,16 @@ to:
 This list, again, does not include all of the reasons. No particular Artists were the cause of the Badge rule changes.
 
 
-## What’s this new-fangled Badge Committee?
+### What’s this new-fangled Badge Committee?
 
 The Badge Committee was created as a way for regular users to have a say in further Badge development. The terms moderator/Badge Committee are interchangeable in this document, as all moderators are a member of the Badge Committee by default, and Badge Committee members moderate Badge related activity.
 
 
-## So, what are the new badge rules?
+### So, what are the new badge rules?
 
 Bimmy, I’m glad you asked. Without further ado, here is the current guidebook for Badge production.
 
-# Badge Reservation Rules
+## Badge Reservation Rules
 - Badge Artists can only have up to four Badges reserved at once. This reservation count applies to all games.
     - For example, you can have two 2kki Badges and two Yume Nikki badges reserved at once. You cannot have four 2kki and four Yume Nikki.
     - Collaborative and previously reserved Badges count towards this total.
@@ -71,7 +73,7 @@ Bimmy, I’m glad you asked. Without further ado, here is the current guidebook 
                 - The discussion does not remain civil.
     - It is recommended that an Artist does not begin work on Badge art until after this 24-hour period.
     - After the 24-hour period, the Badge cannot be reserved or lotto’d unless the reservation expires.
-- Collaborative Badges count towards the Author count for *all Artists involved*.
+- Collaborative Badges count towards the Author count for * all Artists involved *.
 - Collaborative Badges must be reserved with all Artists’ names present.
     - Artists can be added upon moderator approval.
     - Please ask for permission before allowing the additional Artist to work on the Badge.
@@ -82,7 +84,7 @@ Bimmy, I’m glad you asked. Without further ado, here is the current guidebook 
     - This is to ensure that no one else reserves the Badge while you are producing the art.
 - If reserving a Badge that was previously removed or made available for re-reservation, please add 'Replacement of the OLDBADGENAME badge.' to your Badge notes.
 - When a Badge reservation expires, it enters a 24-hour cooldown. A notice will be posted in #archeology-center or #badge-proposals, and people have those 24 hours to say they'd like to reserve that Badge. Once the 24 hours expires, the Badge Artist will be determined via spinning a wheel. [Please see the Badge Lotto section for more information](#badge-lotto-explanation).
-- A one-week extension may be granted upon request. *Please request your extension no later than two weeks before the reservation would expire, and no earlier than one month before.*
+- A one-week extension may be granted upon request. * Please request your extension no later than two weeks before the reservation would expire, and no earlier than one month before. *
 
 
 ## Badge Art Rules
@@ -118,7 +120,7 @@ Bimmy, I’m glad you asked. Without further ado, here is the current guidebook 
 - The animation must loop properly.
 
 
-### Badge Point Guidelines
+## Badge Point Guidelines
 
 For each type of Badge we could think of, we have provided a range that the value of the Badge’s BP should fall into. You are welcome to suggest a BP value that fits within these ranges, but the moderators reserve the final say on the BP value awarded to a Badge.
 
@@ -131,11 +133,12 @@ For each type of Badge we could think of, we have provided a range that the valu
 - Kill count, Vending Machine, Minigame, Challenges: 20 – 50 bp
 - Endings: 20 – 50 bp depending on how difficult it is to obtain the ending.
 
-### Hidden and Secret Badges
+## Hidden and Secret Badges
 
 Hidden Badges are completely hidden from the Badge menu.
 
 Secret Badges may have the condition and/or name be secret. The art may also be secret, but that will also make the name and condition secret.
+
 
 
 Hidden Badges are classified by the following:
@@ -143,6 +146,7 @@ Hidden Badges are classified by the following:
 - Upon reasonable developer request. Moderators reserve the final say on whether a Badge can be Hidden.
 - Extremely difficult hidden conditions that are not meant to be revealed.
 - High scores in skill ceiling minigames (NASU, HOZO)
+
 
 
 Secret Badges are classified by the following:
@@ -154,7 +158,7 @@ Secret Badges are classified by the following:
 Your Badge will be rejected if you use these conditions incorrectly. If you are unsure, please contact moderation.
 
 
-### General and Miscellaneous Rules
+## General and Miscellaneous Rules
 
 Your Badge may be rejected if it violates any of the following:
 - Artist is banned from YNOProject.
@@ -173,7 +177,7 @@ If an Artist requests their Badge is removed:
     - The remaining Artists for that Badge may choose to re-do their Badge art if they wish, or it may be left as-is.
 
 
-### Badge Condition Rules
+## Badge Condition Rules
 - Please try to provide as many accurate internal conditions related to your Badge as possible (switches, variables, map IDS, etc).
 - If your Badge is a one-time event, you must have an alternative method of obtaining the Badge. For example, “Memories of the Chromatic Nest”:
 
@@ -182,40 +186,41 @@ If an Artist requests their Badge is removed:
 - If the game updates in a way that makes your Badge no longer obtainable, a moderator will contact you and attempt to figure out a solution.
 
 
-### Badge Redundancy Rules
+## Badge Redundancy Rules
 
 This section of the rules is heavily up to interpretation. If you can provide a good enough reason as to why your Badge is not redundant, it may still be approved.
 
-1. No “redundancy”. If a Badge is deemed too similar in goal or achievement to another Badge, it will be rejected.
+- 1 . No “redundancy”. If a Badge is deemed too similar in goal or achievement to another Badge, it will be rejected.
 
-    a. Example of an area with two badges that are **NOT** redundant:
+    - a. Example of an area with two badges that are **NOT** redundant:
 	
-        i. While these two Badges target the same location, they are both independent of one another and do not trigger simultaneously. In addition, these Badges are given to the player for finding a unique subarea as well as finding the exit to the area.
-		![Badge for interacting with Aiko in Dream Pool.](/info/assets/redundancy_example_1.png)
-		![Badge for visiting the Streetlight Thief's lair in Dream Pool.](/info/assets/redundancy_example_2.png)
+        - i. While these two Badges target the same location, they are both independent of one another and do not trigger simultaneously. In addition, these Badges are given to the player for finding a unique subarea as well as finding the exit to the area.
+		- ![Badge for interacting with Aiko in Dream Pool.](/info/assets/redundancy_example_1.png)
+		- ![Badge for visiting the Streetlight Thief's lair in Dream Pool.](/info/assets/redundancy_example_2.png)
 		
 		
-    b. Example of **REDUNDANT** Badges:
+    - b. Example of **REDUNDANT** Badges:
 
-        i. These Badges target the same location, are achieved nearly simultaneously, and walking through an area is not enough to justify receiving a badge. In this case, **Linear Technology Complex** is redundant and would be rejected under the new rules.
-		![Badge for passing through the nine floors of the Techno Condominium.](/info/assets/redundancy_example_3.png)
-		![Badge for interacting with the ghost on the fourth floor of the Techno Condominium.](/info/assets/redundancy_example_4.png)
+        - i. These Badges target the same location, are achieved nearly simultaneously, and walking through an area is not enough to justify receiving a badge. In this case, **Linear Technology Complex** is redundant and would be rejected under the new rules.
+		- ![Badge for passing through the nine floors of the Techno Condominium.](/info/assets/redundancy_example_3.png)
+		- ![Badge for interacting with the ghost on the fourth floor of the Techno Condominium.](/info/assets/redundancy_example_4.png)
 
-    c. Example of an area with two badges that are **NOT** redundant:
+    - c. Example of an area with two badges that are **NOT** redundant:
 
-        i. These Badges are shown due to the above example.
+        - i. These Badges are shown due to the above example.
 
-        ii. While these Badges target the same area and are achieved nearly simultaneously, they are rewards for performing two separate tasks. As such, they would both be accepted under the new rules.
-		![Badge for seeing the creatures in shape of eight change their color by using the Boy and Marginal effects on the eight floor of the Techno Condominium.](/info/assets/redundancy_example_5.png)
-		![Badge for interacting with the ghost on the fourth floor of the Techno Condominium.](/info/assets/redundancy_example_4.png)
+        - ii. While these Badges target the same area and are achieved nearly simultaneously, they are rewards for performing two separate tasks. As such, they would both be accepted under the new rules.
+		- ![Badge for seeing the creatures in shape of eight change their color by using the Boy and Marginal effects on the eight floor of the Techno Condominium.](/info/assets/redundancy_example_5.png)
+		- ![Badge for interacting with the ghost on the fourth floor of the Techno Condominium.](/info/assets/redundancy_example_4.png)
 
 
-### Badge Lotto Explanation
+## Badge Lotto Explanation
 
 The Badge Lotto is the most fair system we could devise to handle multiple Artists desiring to make the same Badge. While standard reservations are still on a first come, first served basis, Badges that need to be replaced under the following rules below will enter the Badge Lotto.
 By following the rules below, you may enter the Badge Lotto. A wheel will be spun with everyone’s entry on it, and the Badge Artist will be decided in this way.
 
 ### Badge Lotto Rules
+
 - **Badge Lottos are hosted in the YNO Discord. If you are not a member, you cannot participate in the Badge Lotto.**
 - When a Badge is lotto’d away, there will be an announcement posted with a sign-up sheet.
 - Do not sign up for a lotto Badge if you are already at maximum current reservations.
@@ -241,7 +246,7 @@ By following the rules below, you may enter the Badge Lotto. A wheel will be spu
     - Badge reservation expires.
 
 
-### Banned Users
+## Banned Users
 
 If a Badge Artist is banned from YNOProject, the following actions will occur:
 - The banned Artist’s solo-credited Badges are made available for reservation.
