@@ -16,7 +16,7 @@
 
 
 ## Artists
-
+<!-- CREDITS:START -->
 * 8
 * 25
 * 11126
@@ -368,7 +368,7 @@
 * Zimnior12
 * ZLD1
 * Zolotl
-
+<!-- CREDITS:END -->
 
 ## Translation
 
