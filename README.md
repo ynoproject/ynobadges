@@ -8,6 +8,8 @@ User-submitted translations are welcomed on this repository.
 
 [Badge Rules Document]
 
+[Submitting a Badge]
+
 [Credits]
 
 ## Related Links
@@ -22,5 +24,7 @@ User-submitted translations are welcomed on this repository.
 * [EasyRPG Wiki](https://wiki.easyrpg.org/)
 
 [Badge Rules Document]: info/badge_rules_document.md
+
+[Submitting a Badge]: info/badge_submission.md
 
 [Credits]: info/CREDITS.md
