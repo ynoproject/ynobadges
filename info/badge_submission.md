@@ -8,6 +8,10 @@ Once submitted, a badge will be added to the [Badge Proposals Spreadsheet](https
 
 If a badge is submitted through Discord, a sheet handler will take care of directly putting the entry on the Reservations or Waiting_Sheet page, depending on the entry.
 
+Reservations have 3 months to be made, after which they are moved to the Badge_Mausoleum if left untouched, or be reused by someone else.
+
+Entries on the Waiting_Sheet will be added to the site one of the next Fridays after its addition, depending on availability and how many entries are waiting.
+
 ## Rules
 
 Before submitting a badge, please consider the following points:
