@@ -15,7 +15,7 @@ Before submitting a badge, please consider the following points:
 - Take into account the various clauses and points mentioned thorough this document.
 - Check if there is not already a badge for it in the game.
 - Check if it may not be too close with an existing badge in the game, or if the area in question is not already crowded by badges.
-- Check whether it is conflicting with an existing badge present on the Badge Proposals Spreadsheet, by doing CTRL + F as to search whether a badge already exists on the Reservations, Waiting_Sheet, Form_Submissions, Badge_Portal, and Impossiblium pages: if it is too close or conflicts with an entry present on those pages, the entry will not be able to be accepted. 
+- Check whether it is conflicting with an existing badge present on the Badge Proposals Spreadsheet, by doing CTRL + F as to search whether a badge already exists on the Reservations, Waiting_Sheet, Form_Submissions, Badge_Portal, and Impossiblium pages: if it is too close or conflicts with an entry present on one those pages, the entry will not be able to be accepted. 
 - Think whether it makes sense to have a badge for doing what you request.
 - If the badge is for a new game, or content added in a new update, make sure you respect the submission time. Entries for new Yume 2kki update content cannot be reserved less than 3 days after, and major content updates of other games as well as new releases cannot be reserved less than 7 days after.
 - Think whether or not the badge wanted is trackable. As part of the badge system, we are able to know the following elements:
@@ -59,15 +59,15 @@ Other clauses can be added if requested by their developer, granted that the cla
 All of those elements are requested when submitting a badge. If submitting through the sheet, those elements will already be highlighted. Otherwise, if submitting through Discord, you will need to write about them.
 
 - **Badge Name**: The name of your badge. It must be unique, and not be already used by an existing badge, or conflicting with an existing entry on the sheet. The name will be used with title case (e.g. "badge lover" would be "Badge Lover"). If submitting a reservation and that you are not yet sure on the name, write "TBD" (To be determined) instead. Do not use emojis as to not mess up the text shading.
-- **Target Game**: Game of the badge. If using the form, and that a new game allows for badges to be submitted, but is not yet present in the list, use N/A instead.
+- **Target Game**: Game of the badge. If using the form, and that a new game allows for badges to be submitted, but is not yet present on the list, use N/A instead.
 - **Submitted by**: Name of the author of the badge. If the badge was made by several authors, write the name of all of its authors.
 - **Description (optional)**: Description of the badge. Do not use emojis as to not mess up the text shading.
 - **Condition**: Condition for which the badge should be obtained. Please mention the official English names of the worlds and effects as to make it easier for the badge to be implemented. If the condition and/or art of the badge is supposed to be secret until obtained, mention it here as well.
 - **Internal Triggers (optional)**: Internal condition on which the badge should be triggered (specific map ID, specific switch being ON...). Only mention it if you know it.
-- **Art Status**: Whether you are reserving a badge, or you are submitting a finalised badge. Not needed to be mentioned when submitting on Discord as it is obvious per the request. 
-- **Art**: Art of the badge. Your art must be submitted as a 37x37 png file; if you want to submit an animated badge, then a 37x37 gif will need to be added as well (the png will still be used for the chat icon). It is possible to submit a 74x74 png (and gif) under very specific conditions and per request, as mentioned in [Badge Rules Document], but note that unless the 74x74 size was requested in advance prior to the making, and that said size is required due to zooming effects, entries submitted at that size will automatically be rejected.
+- **Art Status**: Whether you are reserving a badge, or you are submitting a finalised badge. Not needed to be mentioned when submitting on Discord as it is obvious per the request done. 
+- **Art**: Art of the badge. Your art must be submitted as a 37x37 png file; if you want to submit an animated badge, then a 37x37 gif will need to be added as well (the png will still be used for the chat icon). It is possible to submit a 74x74 png (and gif) under very specific conditions and per request, as mentioned in the [Badge Rules Document], but note that unless the 74x74 size was requested in advance prior to the making, and that said size is required due to zooming effects, entries submitted at that size will automatically be rejected.
 - **Art Usage**: Select between "Free to modify", "Requires contact", "Must be used as-is". By default, "Requires contact" is the one used.
 - **Notes (optional)**: Notes you have to say on the badge. If you include references as part of the badge name, description or art, please specify it.
 - **Badge points**: Quantity of badge points (BPs) the badge should grant. It should be a multiple of 5, and not be 5. If the badge is supposed to be hidden, mention it and write 0.
 
-[Badge Rules Document]: info/badge_rules_document.md
+[Badge Rules Document]: badge_rules_document.md
