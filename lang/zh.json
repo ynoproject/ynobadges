@@ -244,15 +244,6 @@
       "name": "笼中眼",
       "condition": "踩到Lamp World地板上的眼睛"
     },
-    "bottles": {
-      "name": "冰阔落",
-      "condition": "在梦中的三个自动贩卖机（树海A、地狱、湖回廊A）处各买一瓶饮品。",
-      "checkbox": {
-        "jihanki_dense_woods": "树海A",
-        "jihanki_hell": "地狱",
-        "jihanki_docks": "湖回廊A"
-      }
-    },
     "mado": {
       "name": "窗",
       "condition": "梦终。"
@@ -698,10 +689,6 @@
       "name": "锖色芳华",
       "condition": "与Urban Complex的Cyborg Operator产生共鸣"
     },
-    "mushroom": {
-      "name": "斑斓菌菇",
-      "condition": "解除蘑菇少女的石化封印"
-    },
     "hakoko": {
       "name": "箱子",
       "condition": "在Visine World：Eye Shop与箱子互动"
@@ -979,11 +966,6 @@
       "description": "走对路",
       "condition": "抵达Spirit Capital水底公路最深处的房间"
     },
-    "drunk": {
-      "name": "调酒师",
-      "description": "你不觉得自己喝多了吗？",
-      "condition": "在Japan Town的地下酒吧喝到不省人事"
-    },
     "paradise": {
       "name": "金云海",
       "description": "鲸云海",
@@ -1124,11 +1106,6 @@
       "name": "芜言狞笑",
       "condition": "用坟墓效果与Decrepit Village的黑魔女互动"
     },
-    "tv_room": {
-      "name": "液晶屏",
-      "description": "今天看点啥？",
-      "condition": "进入Highway的TV Room"
-    },
     "nostalgic_house": {
       "name": "梦中故乡",
       "condition": "到达Nostalgic House"
@@ -1183,10 +1160,6 @@
       "name": "玫瑰之梦",
       "condition": "在Red Rock Caves完成Dream of Roses事件"
     },
-    "rainbow_bird": {
-      "name": "落泉翠鸟",
-      "condition": "在Lost Creek使用彩虹召唤出来自Nocturnal Grove的长尾鸟，并仰望它"
-    },
     "paint": {
       "name": "颜料旋涡",
       "condition": "完成Graveyard World的The Graveyard's Sculpture事件"
@@ -1204,10 +1177,6 @@
     "snow": {
       "name": "圣诞雪景球",
       "condition": "在下雪时从Riverside Waste Facility的拱形物下通过"
-    },
-    "streetlight_scenery": {
-      "name": "雨都丽景",
-      "condition": "抵达Submerged Communications Area的尽头"
     },
     "akako": {
       "name": "苍红赤子",
@@ -1498,18 +1467,6 @@
         "phone_rgb_spectral_passage": "RGB Spectral Passage"
       }
     },
-    "butterfly_passage": {
-      "name": "三色蝴蝶",
-      "condition": "到达Butterfly Passage"
-    },
-    "forest_interlude": {
-      "name": "孤独的马蹄莲",
-      "condition": "抵达Forest Interlude"
-    },
-    "pink_flower": {
-      "name": "摇曳粉花",
-      "condition": "看见Rapeseed Fields里的一片粉色花朵"
-    },
     "banana": {
       "name": "哦豁，香蕉！",
       "condition": "找到NES Glitch Tunnel里的隐藏香蕉"
@@ -1611,16 +1568,6 @@
       "name": "矫情饰诈",
       "description": "别演了",
       "condition": "关闭Liar卧室的电灯"
-    },
-    "surimuki": {
-      "name": "擦伤娘",
-      "description": "\"被擦伤了。\"",
-      "condition": "找到梦中每一处的Surimuki。（Broken Faces Area、Library、Monochrome School）",
-      "checkbox": {
-        "surimuki_library": "Library",
-        "surimuki_broken_faces_area": "Broken Faces Area",
-        "surimuki_monochrome_school": "Monochrome School"
-      }
     },
     "helmet_girl": {
       "name": "继续闪耀",
@@ -1748,10 +1695,6 @@
       "name": "一人乐厅",
       "description": "清澈的交响乐章，隐藏于贫民窟的屋檐下",
       "condition": "坠入Picture Book的洞中，抵达有钢琴声的深谷"
-    },
-    "mirror_lake_patient": {
-      "name": "镜湖候诊",
-      "condition": "在Cactus Islands的镜湖遇见Lavender"
     },
     "master_crow": {
       "name": "夕阳老栅昏鸦",
@@ -1907,23 +1850,6 @@
       "description": "轻轻地我走了，正如我轻轻地来；\n我轻轻地招手，作别西天的云彩。",
       "condition": "在Neon City见证It Came From Behind事件。"
     },
-    "star_planetarium": {
-      "name": "机械星尘",
-      "condition": "在Planetarium观赏见证Starry Sky事件。"
-    },
-    "cosmic_daydream": {
-      "name": "白日梦",
-      "condition": "进入Cosmic World的白日梦房间。"
-    },
-    "lonely_garden": {
-      "name": "门可罗雀",
-      "description": "无人小巷，隐藏着怎样的秘密？",
-      "condition": "进入Deserted Town的秘密庭院。"
-    },
-    "serene_waters": {
-      "name": "碧水青砖",
-      "condition": "登上Mansion的露台。"
-    },
     "dancing_queen": {
       "name": "舞女王",
       "description": "长夜伊始，歌舞不绝！",
@@ -1986,11 +1912,6 @@
       "name": "致盲天象",
       "description": "狗眼已瞎",
       "condition": "进入Cosmic World。"
-    },
-    "bent_screw": {
-      "name": "弯曲螺钉",
-      "description": "我好奇它背后有什么秘密……",
-      "condition": "调查弯曲的螺钉"
     },
     "well_creature": {
       "name": "井中住客",
@@ -2111,18 +2032,10 @@
       "description": "温暖的光线点缀着圣地",
       "condition": "抵达Water Lantern World"
     },
-    "reflecting_electron": {
-      "name": "亚原子矩阵",
-      "condition": "进入Reflecting Electron Zone"
-    },
     "aquarius_prison": {
       "name": "水下标本",
       "description": "这种生物不像是来自于水下……",
       "condition": "在Power Plant触发Creatures of the Power Plant事件"
-    },
-    "misty_bridges_transmission": {
-      "name": "陈梦电波",
-      "condition": "在Misty Bridges发现一座旧信号塔"
     },
     "lonely_refrigerator": {
       "name": "孤独的电冰箱",
@@ -2133,10 +2046,6 @@
       "name": "呆毛子",
       "description": "文静可爱美少女一枚呀~",
       "condition": "拜访呆毛子"
-    },
-    "ghostly_interiors": {
-      "name": "灵魂装演",
-      "condition": "进入Haunted Forest Town的闹鬼宅邸"
     },
     "lapine_forest": {
       "name": "天兔之森",
@@ -2262,10 +2171,6 @@
       "name": "灰烬雕塑天堂",
       "condition": "升入Cinder Statue Heaven。"
     },
-    "fossilized_haven": {
-      "name": "化石避风港",
-      "condition": "在不惊扰其居民的情况下进入Floating Catacombs的蘑菇洞穴"
-    },
     "bread_world": {
       "name": "讲甘多托膝咩，吔个包先啦",
       "condition": "抵达Bread World"
@@ -2367,11 +2272,6 @@
       "name": "芝士把戏",
       "description": "这个徽章讲了个双关语笑话并觉得自己很幽默",
       "condition": "在蛋糕或妖精效果下被Dark Cheese Hell的奶酪蜘蛛捉住"
-    },
-    "march_of_progress": {
-      "name": "进化之脸",
-      "description": "拒绝人性，回归猿猴",
-      "condition": "体验March of Progress事件"
     },
     "peaceful_pond": {
       "name": "宁静水塘",
@@ -2725,10 +2625,6 @@
       "description": "他观察的是你。",
       "condition": "在Holiday Hell邂逅一个巨大的蓝色独眼生物。"
     },
-    "phonograph_galaxy": {
-      "name": "奇妙的旋律",
-      "condition": "聆听GALAXY Town的留声机音乐。"
-    },
     "port_city_maiko": {
       "name": "珍藏的手办",
       "condition": "在Port City的Kokeshi Room使用舞妓效果。"
@@ -2745,10 +2641,6 @@
         "cyclop_acerola": "Acerola World",
         "cyclop_mini_maze": "Mini-Maze"
       }
-    },
-    "party_colored": {
-      "name": "斑驳",
-      "condition": "与Neon Suburbs中Party Room的音乐家交互。"
     },
     "pale_luminescence": {
       "name": "微光",
@@ -4117,10 +4009,6 @@
       "name": "做梦人偶",
       "condition": "触发结局#3"
     },
-    "glitch_ending": {
-      "name": "崩坏的梦境",
-      "condition": "到达故障结局"
-    },
     "cake_shop_repentance": {
       "name": "巧克力蛋糕店",
       "description": "她头上有一块蛋糕……！",
@@ -4880,10 +4768,6 @@
       "name": "背叛的视界",
       "condition": "从Garden of Treachery抵达Visine World"
     },
-    "fairy_hole": {
-      "name": "妖精的藏身处",
-      "condition": "进入Snowy Forest里的妖精洞穴"
-    },
     "ice_cream_galaxy_town": {
       "name": "味觉盛宴",
       "description": "好多口味……",
@@ -5289,15 +5173,6 @@
       "name": "夕阳小镇",
       "condition": "抵达Scarlet Corridors"
     },
-    "drink_bench": {
-      "name": "休息一下神清气爽",
-      "description": "配上口中苏打水的甜味，美景变得更加动人。",
-      "condition": "在Forest Pier和Travel Hotel的阳台上买到可乐并在长椅上喝掉。",
-      "checkbox": {
-        "drink_forest_pier": "Forest Pier",
-        "drink_travel_hotel": "Travel Hotel's balcony"
-      }
-    },
     "antiquated_h_v_promenade": {
       "name": "荒废旅社",
       "description": "被遗忘的爱留下的回忆残迹",
@@ -5434,11 +5309,6 @@
       "name": "崩坏之门",
       "description": "你能将这称为幸运吗？",
       "condition": "完成Corrupted Nexus事件。若已见证该事件，请返回Nexus。"
-    },
-    "hat_nexus_c_v_complete": {
-      "name": "帽子收藏",
-      "description": "试着戴上它们，铭记我们一起度过的时光。",
-      "condition": "通过集齐并在此处装备所有帽子来完善Critter Village：Hat-Nexus。"
     },
     "aurora_lake": {
       "name": "萤石之湖",
@@ -5814,10 +5684,6 @@
       "description": "和我们一起收集星辰吧 :3",
       "condition": "抵达Whispering Palace的星星仓库"
     },
-    "vista_blood_rose_canal": {
-      "name": "红玫花圈",
-      "condition": "在Blood Rose Canal看到远景"
-    },
     "blood_rose_canal": {
       "name": "血染芬芳",
       "condition": "抵达Blood Rose Canal"
@@ -5885,11 +5751,6 @@
     "swamp_azure_garden": {
       "name": "禁沼",
       "condition": "抵达Azure Garden：Forbidden Swamp"
-    },
-    "seahorse_3d_underworld": {
-      "name": "电话响了",
-      "description": "你会接吗？",
-      "condition": "找到3D Underworld的海马"
     },
     "smile_blue_house_road": {
       "name": "面中面",
@@ -7920,11 +7781,6 @@
       "description": "舒适而多彩",
       "condition": "让Doodles的客厅里的生物演奏音乐"
     },
-    "boombox_burning_building": {
-      "name": "燃曲",
-      "description": "别被烫到！",
-      "condition": "启动Burning Building壁炉里的音响"
-    },
     "blueprint_world_full": {
       "name": "梦境建筑师",
       "description": "画出精神世界的地图",
@@ -7977,10 +7833,6 @@
       "name": "小家伙！",
       "description": "小小的真可爱……",
       "condition": "用啮齿幻像的效果与Cheesecake Chambers的房间里的Chelan互动"
-    },
-    "psy_brt_warehouse": {
-      "name": "迷幻鱼",
-      "condition": "触发Brutalist Warehouse的Psychedelic Warehouse事件"
     },
     "kakkoii_lumen_resort": {
       "name": "嗯……我喜欢！",
@@ -8425,10 +8277,6 @@
         "reverenced_flower": "Reverenced Flower"
       }
     },
-    "vague_memory_menu": {
-      "name": "站在十字路口",
-      "condition": "获得Vague Memory菜单样式。若已获得，请返回A Long Journey。"
-    },
     "planet_astronomy_world": {
       "name": "星际假期",
       "description": "曲率加速！",
@@ -8482,10 +8330,6 @@
       "name": "营养丰富",
       "description": "想吃点吗？",
       "condition": "看到Lush Hilltop的巨大食材"
-    },
-    "streetlight_rnw_crossing": {
-      "name": "光亮与舞蹈",
-      "condition": "在Runway Crossing与走路灯互动"
     },
     "neon_star_hall": {
       "name": "霓虹星辉",
@@ -8994,11 +8838,6 @@
       "description": "下来一起嗨！",
       "condition": "在Candy Tile Halls触发Critter Dance事件"
     },
-    "soulfire_eidolon": {
-      "name": "腐朽的镣铐",
-      "description": "汝之魂早已腐朽",
-      "condition": "获得幻象魂火。若已解锁，请返回Sky Mausoleum。"
-    },
     "sit_somewhere_commons": {
       "name": "别介意",
       "description": ".-_-.",
@@ -9296,11 +9135,6 @@
       "name": "巧克力蛋糕",
       "condition": "在Sugar Hole里食用至少20块蛋糕"
     },
-    "sewer": {
-      "name": "管道淤泥",
-      "description": "不该喝那个的……",
-      "condition": "触发「血、脓、锈」事件"
-    },
     "rotten_smile": {
       "name": "腐朽笑颜",
       "condition": "抵达笑颜与鬼"
@@ -9326,10 +9160,6 @@
       "name": "迷幻之颜",
       "description": "另一现实位面来客的赠礼",
       "condition": "与Psychedelic Town的外星人互动。"
-    },
-    "red_eye": {
-      "name": "红眼",
-      "condition": "找到Apartments墙上的红眼睛并让它眨眼"
     },
     "other_worlds": {
       "name": "他世",
@@ -9374,10 +9204,6 @@
       "description": "旁观分娩",
       "condition": "触发分娩事件"
     },
-    "sugar_float_days": {
-      "name": "糖茶",
-      "condition": "见证sugar float days事件"
-    },
     "bar_kaibutsu": {
       "name": "吧台怪物",
       "description": "反应再快点！",
@@ -9393,10 +9219,6 @@
       "description": "哔哔。",
       "condition": "拜访义足子"
     },
-    "entrance": {
-      "name": "锈梦之扉",
-      "condition": "看见入口的所有形态"
-    },
     "smile_happy": {
       "name": "他真的会笑！",
       "description": "你果然，还是笑起来，最棒了",
@@ -9410,18 +9232,6 @@
       "name": "有人吗？",
       "description": "里面有什么？",
       "condition": "调查Deterioration Apartment的第四扇门。"
-    },
-    "rust_menu": {
-      "name": "重症监护室",
-      "condition": "从小铁锈子处获得菜单样式rust"
-    },
-    "flower_adorned_hat": {
-      "name": "花帽子",
-      "condition": "拜访Plant Corridors和Illusionary Corridors的花朵少女",
-      "checkbox": {
-        "flower_girl_plant": "Plant Corridors",
-        "flower_girl_illusion": "Illusionary Corridors"
-      }
     },
     "music_cube_flow": {
       "name": "音乐立方",
@@ -9658,10 +9468,6 @@
       "description": "我听不到你说什么，你在崩坏—M̴̍͆e̷͛̒o̵͗͝ẅ̸́̆!",
       "condition": "抵达Glitch World的深处。"
     },
-    "sunflower": {
-      "name": "向阳丽色",
-      "condition": "抵达Forest World: Sunflower Field。"
-    },
     "monochrome_nightmare": {
       "name": "黑白噩梦",
       "condition": "完成杀死Monochrome City的NPC之后触发的事件。"
@@ -9826,10 +9632,6 @@
       "name": "粉彩少女",
       "condition": "前往Pastel House。"
     },
-    "hell_flower": {
-      "name": "地狱花",
-      "condition": "找到Red River的Hellflower并与之互动。"
-    },
     "crystalline_system": {
       "name": "欧菲利亚",
       "description": "闪烁的水晶已经满足不了她了",
@@ -9862,10 +9664,6 @@
     "marina_bathhouse": {
       "name": "Marina",
       "condition": "找到Bath House的Marina然后趁机偷走眼镜旁的钱。"
-    },
-    "rafflesia_pin": {
-      "name": "霸王花",
-      "condition": "进入Apartments最后一个房间。"
     },
     "anatomy_lessons": {
       "name": "解剖课",
@@ -10950,21 +10748,6 @@
       "name": "该转行了",
       "condition": "在监狱里将\"Caught\"指数满点。"
     },
-    "true_sunset": {
-      "name": "真日出",
-      "description": "再也不信这个世界了",
-      "condition": "在Sunset Cliff见证True Sunset。"
-    },
-    "erased_muma": {
-      "name": "删除",
-      "description": "帮Muma画上圆满的句号。",
-      "condition": "帮Muma画上圆满的句号。"
-    },
-    "experiment_tubes": {
-      "name": "实验",
-      "description": "这都是谁啊？",
-      "condition": "为实验室的所有试管注满水。"
-    },
     "sleep_paralysis_mare": {
       "name": "压床鬼",
       "description": "\"睡眠瘫痪症是在苏醒或入睡时，在意识清醒的情况下无法活动肢体的症状。\"",
@@ -10973,16 +10756,6 @@
     "rainbow_maze": {
       "name": "迷宫大师",
       "condition": "抵达R-Maze的最后一层。"
-    },
-    "blossoming_view": {
-      "name": "繁花之誓",
-      "description": "恭祝这对新人！",
-      "condition": "在Yin-Yang Lake出席兔子婚礼。"
-    },
-    "fake_rainbow": {
-      "name": "假彩虹",
-      "description": "这彩虹边上没有太阳啊？",
-      "condition": "在Above the Clouds调查Fake Memory。"
     },
     "owl_chorus": {
       "name": "枭歌齐唱",
@@ -11223,11 +10996,6 @@
       "description": "我管你是谁",
       "condition": "获得虚物印符。如果已经获得，与提供它的NPC互动。"
     },
-    "crimson_lights": {
-      "name": "绯红灯火",
-      "description": "最终，它还是背叛了我，自顾自的下山了。",
-      "condition": "抵达Distant Red Horizon。"
-    },
     "norvay_cat_shop": {
       "name": "猫猫大夫",
       "condition": "进入Cat Shop与Norvey互动。"
@@ -11236,10 +11004,6 @@
       "name": "雪域的问候",
       "description": "\"你好啊~\"",
       "condition": "与Snow World扭动的生物互动。"
-    },
-    "colly_maid_cafe": {
-      "name": "欢迎！",
-      "condition": "抵达Colly Maid Cafe。"
     },
     "shrine_staircase_maze": {
       "name": "暮光神社",
@@ -11555,28 +11319,10 @@
     }
   },
   "ultraviolet": {
-    "magicians_secret": {
-      "name": "法师的秘密",
-      "description": "仪式完成！",
-      "condition": "获得菜单样式hexe。"
-    },
-    "stars_pastels": {
-      "name": "星霜",
-      "condition": "抵达Pastel Blocks World的mobile room。"
-    },
     "instant_gratification": {
       "name": "及时行乐",
       "description": "值吗？",
       "condition": "用Pastel World的自动售货机旁捡到的硬币购买饮料。"
-    },
-    "uv_snipped": {
-      "name": "斩",
-      "description": "今日诸事不顺。",
-      "condition": "找到位于Bloody Water Dungeon的短发效果。"
-    },
-    "little_rabbit": {
-      "name": "小兔子",
-      "condition": "抵达Pastel World里小兔子的家。"
     },
     "seasons_go": {
       "name": "四季轮回",
@@ -12220,20 +11966,6 @@
       "description": "开始调查！",
       "condition": "触发侦探的动作效果。"
     },
-    "abandoned_pool_mural": {
-      "name": "被遗弃的记忆",
-      "description": "你瞧，情况变了。他们不再睡在海滩上了……",
-      "condition": "接近Abandoned Swimming Pool墙上的壁画。"
-    },
-    "chair_panic": {
-      "name": "倚靠的恐慌",
-      "description": "椅子们正注视着你……",
-      "condition": "在Warehouse装备消防斧效果，让椅子们害怕地跑开。"
-    },
-    "willow_docks": {
-      "name": "静湖与柳",
-      "condition": "拜访Docks。"
-    },
     "nexus_favorites": {
       "name": "你最喜欢哪个？",
       "condition": "拜访Nexus中的所有梦世界：Snowy Avenue、Meat World、Swamp World、Majestic Garden、Seaside、White Desert、Deep Forest A、Ancient Civilization、Moon、Spring World、Library、Cubic Lamp Meadow。",
@@ -12425,11 +12157,6 @@
       "description": "海浪中的隐秘避难所",
       "condition": "见证Tropics中自贩机岛的日夜两种状态"
     },
-    "ending_1_tsushin": {
-      "name": "未接来电",
-      "description": "\"我现在无法接电话。请留下您的姓名和电话号码，我会尽快回应。\"",
-      "condition": "见证结局#1"
-    },
     "carousel_amusement_park": {
       "name": "旋转木鼠",
       "description": "转呀转！",
@@ -12450,11 +12177,6 @@
       "description": "哦不，杯子碎了！",
       "condition": "触发女仆效果的特殊动作"
     },
-    "sushi_monitor_realm": {
-      "name": "水下快餐",
-      "description": "景色甚美不愿醒。",
-      "condition": "抵达Monitor Realm的寿司水族馆"
-    },
     "mascot_costume_effect": {
       "name": "身份危机",
       "condition": "获得玩偶服效果。若已获得，请返回Amusement Park获得该效果处。"
@@ -12472,11 +12194,6 @@
       "name": "天蓝花朵",
       "description": "钓鱼的好地方~",
       "condition": "抵达Lotus Marsh"
-    },
-    "goth_doll_effects": {
-      "name": "换装人偶",
-      "description": "穿上漂亮裙子虽然很有趣，但你有可能因此掉脑袋。",
-      "condition": "组合哥特裙和洋娃娃效果"
     },
     "rainy_islands_nini_detective": {
       "name": "她的容颜",

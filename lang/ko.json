@@ -244,15 +244,6 @@
       "name": "사로잡힌 눈",
       "condition": "Step on the eye tile in Lamp World"
     },
-    "bottles": {
-      "name": "이온음료",
-      "condition": "게임 내에 있는 모든 자판기와 상호작용하기",
-      "checkbox": {
-        "jihanki_dense_woods": "수해 A",
-        "jihanki_hell": "지옥",
-        "jihanki_docks": "삼도천 A"
-      }
-    },
     "mado": {
       "name": "창문",
       "condition": "엔딩 보기"
@@ -698,10 +689,6 @@
       "name": "녹슨 기억",
       "condition": "Rusty Urban Complex에서 사이보그 관리자 이벤트를 감상하기"
     },
-    "mushroom": {
-      "name": "무지개 버섯",
-      "condition": "돌에 갇힌 소녀를 구하기"
-    },
     "hakoko": {
       "name": "하코코",
       "condition": "Visine World의 안약 가게에 있는 하코코 NPC와 상호작용 하기"
@@ -979,11 +966,6 @@
       "description": "Taking the right steps",
       "condition": "Spirit Capital의 Underwater section 서브 에리어에서 가장 끝에 위치한 방에 입장하기"
     },
-    "drunk": {
-      "name": "마슈타",
-      "description": "본인이 과음을 해버렸다는 생각은 안 드십니까?",
-      "condition": "Japan Town의 The Underground Bar 서브 에리어에서 정신을 잃을 때까지 술을 마시기"
-    },
     "paradise": {
       "name": "낙원",
       "description": "고래야 안녕",
@@ -1124,11 +1106,6 @@
       "name": "망가진 미소",
       "condition": "Decrepit Village에 있는 '그림자 마녀' 추격자 NPC와 무덤 이펙트를 낀 채 상호작용하기"
     },
-    "tv_room": {
-      "name": "TV 화면",
-      "description": "오늘은 무슨 채널 볼래?",
-      "condition": "Highway에 있는 TV room에 입장하기"
-    },
     "nostalgic_house": {
       "name": "몽상가의 집",
       "condition": "Nostalgic House에 입장하기"
@@ -1183,10 +1160,6 @@
       "name": "장미의 꿈",
       "condition": "Red Rock Caves에서 Dream of Roses 이벤트를 완료하기"
     },
-    "rainbow_bird": {
-      "name": "폭포새",
-      "condition": "Lost Creek에서 무지개 이펙트를 사용하여 Nocturnal Grove에 있는 새를 부른 뒤 그 새를 바라보기"
-    },
     "paint": {
       "name": "비틀린 그림",
       "condition": "Graveyard World에서 조각실 이벤트를 모두 완료하기"
@@ -1204,10 +1177,6 @@
     "snow": {
       "name": "축제의 스노글로브",
       "condition": "Riverside Waste Facility에 눈이 내릴 때 구조물 아래를 지나가기"
-    },
-    "streetlight_scenery": {
-      "name": "가로등 풍경",
-      "condition": "Submerged Communications Area의 끝에 도달하기"
     },
     "akako": {
       "name": "연홍색의 아카코",
@@ -1498,18 +1467,6 @@
         "phone_rgb_spectral_passage": "RGB Spectral Passage"
       }
     },
-    "butterfly_passage": {
-      "name": "삼색 나비",
-      "condition": "Butterfly Passage에 도달하기"
-    },
-    "forest_interlude": {
-      "name": "고독한 칼라 릴리",
-      "condition": "Forest Interlude에 도달하기"
-    },
-    "pink_flower": {
-      "name": "춤추는 핑크빛 꽃",
-      "condition": "Rapeseed Fields에 있는 분홍색 꽃밭에 도달하기"
-    },
     "banana": {
       "name": "우옷, 바나나!",
       "condition": "NES Glitch Tunnel에 숨겨진 바나나를 찾아내기"
@@ -1611,16 +1568,6 @@
       "name": "거짓말쟁이, 거짓말쟁이",
       "description": "난 네가 어떤 사람인지 알고 있어",
       "condition": "거짓말쟁이(Liar) NPC의 침실 불을 끄기."
-    },
-    "surimuki": {
-      "name": "스리무키",
-      "description": "\"넘어졌더니 '뇌'가 쓸려버렸어.\"",
-      "condition": "꿈속에 존재하는 스리무키(Surimuki) NPC를 모두 찾아내기 (Broken Faces Area, Library에 있는 책, Monochrome School에서의 옥상)",
-      "checkbox": {
-        "surimuki_library": "Library",
-        "surimuki_broken_faces_area": "Broken Faces Area",
-        "surimuki_monochrome_school": "Monochrome School"
-      }
     },
     "helmet_girl": {
       "name": "찬란한",
@@ -1747,10 +1694,6 @@
       "name": "솔로 콘서트 홀",
       "description": "슬럼가의 기밀 : 고요한 교향곡",
       "condition": "Picture Book에서 구멍을 통해 Piano Alley 서브 에리어에 도달하기"
-    },
-    "mirror_lake_patient": {
-      "name": "거울 호수의 환자",
-      "condition": "Blue Cactus Islands의 Mirror Lake 서브 에리어에 위치한 라벤더(Lavander) NPC를 발견하기"
     },
     "master_crow": {
       "name": "철조망 위에 착석하신 까마귀님",
@@ -1906,23 +1849,6 @@
       "description": "Very quietly I take my leave, as quietly as I came here;\nQuietly I wave good-bye, to the rosy clouds in the western sky.",
       "condition": "Neon City에서 \"그것은 은밀하게 다가온다\"(It Came From Behind) 이벤트를 감상하기"
     },
-    "star_planetarium": {
-      "name": "별빛 풍경과 기계",
-      "condition": "Planetarium에서 \"별빛 하늘\"(Starry Sky) 이벤트를 감상하기"
-    },
-    "cosmic_daydream": {
-      "name": "백일몽",
-      "condition": "Cosmic World 내에 위치한 \"어두운 방\"(Dark Room)을 찾아내기"
-    },
-    "lonely_garden": {
-      "name": "적막한 골목 속의 외로운 정원",
-      "description": "지나가기 힘든 이 구불구불한 골목에는 어떤 비밀이 숨겨져 있을까?",
-      "condition": "Deserted Town의 \"숨겨진 정원\"(Hidden Garden) 서브 에리어에 도달하기"
-    },
-    "serene_waters": {
-      "name": "차가운 벽돌담 옆의 고즈넉한 수로",
-      "condition": "Mansion의 발코니에 입장하기"
-    },
     "dancing_queen": {
       "name": "댄싱퀸",
       "description": "음악이 꺼지기엔 밤이 아직 이르다구!",
@@ -1985,11 +1911,6 @@
       "name": "광과민성",
       "description": "눈뽕!",
       "condition": "Cosmic World에 도달하기"
-    },
-    "bent_screw": {
-      "name": "구부러진 나사",
-      "description": "과연 어떤 기억을 가지고 있을까...",
-      "condition": "구부러진 나사와 상호작용하기"
     },
     "well_creature": {
       "name": "우물 속의 생명체",
@@ -2104,18 +2025,10 @@
       "description": "성소를 비추는 불빛들...",
       "condition": "Water Lantern World에 도달하기"
     },
-    "reflecting_electron": {
-      "name": "아원자 입자의 행렬",
-      "condition": "Reflecting Electron Zone을 방문하기"
-    },
     "aquarius_prison": {
       "name": "Submarine Specimen",
       "description": "This one doesn't seem like it originated underwater...",
       "condition": "Power Plant에서 발전소의 생명체들(Creatures of the Power Plant) 이벤트를 감상하기"
-    },
-    "misty_bridges_transmission": {
-      "name": "오래된 꿈으로부터 송신된",
-      "condition": "Misty Bridges에서 낡은 송전탑을 발견하기"
     },
     "lonely_refrigerator": {
       "name": "외로운 냉장고",
@@ -2126,10 +2039,6 @@
       "name": "아호게코",
       "description": "그저 귀엽고 조용한 소녀일 뿐이라구요",
       "condition": "Ahogeko's House에 입장하기"
-    },
-    "ghostly_interiors": {
-      "name": "귀신들린 내부",
-      "condition": "Haunted Forest Town의 Spirit Mansion 서브 에리어를 방문하기"
     },
     "lapine_forest": {
       "name": "토끼의 숲",
@@ -2255,10 +2164,6 @@
       "name": "잿더미 조각상 천국",
       "condition": "Cinder Statue Heaven에 입장하기"
     },
-    "fossilized_haven": {
-      "name": "화석화된 안식처",
-      "condition": "Floating Catacombs의 Glowing Mushroom Cavern 서브 에리어 안에 있는 생명체를 놀라게 하지 않고 들어가기"
-    },
     "bread_world": {
       "name": "고로케나 맛있는 빵!",
       "condition": "Bread World에 입장하기"
@@ -2360,11 +2265,6 @@
       "name": "치즈 전술",
       "description": "*느끼한* 말장난이 나올 줄 알았지?",
       "condition": "Dark Cheese Hell에서 케이크 혹은 요정 이펙트를 사용하여 치즈 거미에게 붙잡히기"
-    },
-    "march_of_progress": {
-      "name": "진보의 얼굴",
-      "description": "인간성을 거부하라, 원숭이로 돌아가라",
-      "condition": "March of Progress 이벤트를 경험하기"
     },
     "peaceful_pond": {
       "name": "평화로운 연못",
@@ -2718,10 +2618,6 @@
       "description": "It's you who he observes.",
       "condition": "Holiday Hell의 파란 외눈박이 생명체를 바라보기"
     },
-    "phonograph_galaxy": {
-      "name": "마법의 선율",
-      "condition": "GALAXY town의 축음기 마녀와 상호작용하기"
-    },
     "port_city_maiko": {
       "name": "정중한 수집품",
       "condition": "Port City의 Kokeshi Room에서 마이코 이펙트를 사용하기"
@@ -2738,10 +2634,6 @@
         "cyclop_acerola": "Acerola World",
         "cyclop_mini_maze": "Mini-Maze"
       }
-    },
-    "party_colored": {
-      "name": "축제의 빛깔",
-      "condition": "Neon Suburbs의 Party Room에서 음악을 틀고 있는 NPC와 상호작용하기"
     },
     "pale_luminescence": {
       "name": "희미하게 빛나는 것",
@@ -4108,10 +4000,6 @@
       "name": "Dreaming Doll",
       "condition": "See the Ending #3"
     },
-    "glitch_ending": {
-      "name": "Corrupted Dream",
-      "condition": "See the Glitch Ending"
-    },
     "cake_shop_repentance": {
       "name": "Chocolate Cake Shop",
       "description": "She has a cake on her head...!",
@@ -4867,10 +4755,6 @@
       "name": "Treacherous Sight",
       "condition": "Garden of Treachery를 통해 Visine World로 방문하기"
     },
-    "fairy_hole": {
-      "name": "Fairy's Hideout",
-      "condition": "Snowy Forest의 Fairy Hole 서브 에리어에 도달하기"
-    },
     "ice_cream_galaxy_town": {
       "name": "Flavor Fest",
       "description": "So many options...",
@@ -5276,15 +5160,6 @@
       "name": "Scarlet Corridors",
       "condition": "Visit Scarlet Corridors"
     },
-    "drink_bench": {
-      "name": "Refreshing Pause",
-      "description": "The view becomes more pleasant when you combine it with the sweet taste of soda",
-      "condition": "Buy a soda from the vending machine and drink it on the bench in Forest Pier and on Travel Hotel's balcony",
-      "checkbox": {
-        "drink_forest_pier": "Forest Pier",
-        "drink_travel_hotel": "Travel Hotel's balcony"
-      }
-    },
     "antiquated_h_v_promenade": {
       "name": "Abandoned Resthouse",
       "description": "Memories of a now forgotten love",
@@ -5421,11 +5296,6 @@
       "name": "Corrupted Nexus",
       "description": "Can you call this luck?",
       "condition": "Complete the Corrupted Nexus event. If you have already seen it, return in The Nexus."
-    },
-    "hat_nexus_c_v_complete": {
-      "name": "Hat Collection",
-      "description": "Try them on and remember the time we've spent together",
-      "condition": "Complete the Hat-Nexus of the Critter Village by collecting all of the hats and equipping them all there"
     },
     "aurora_lake": {
       "name": "Fluorite Lake",
@@ -5801,10 +5671,6 @@
       "description": "Come dust collecting with us :3",
       "condition": "Visit the star storage in Whispering Palace"
     },
-    "vista_blood_rose_canal": {
-      "name": "Crimson Rose Wreath",
-      "condition": "See the vista in Blood Rose Canal"
-    },
     "blood_rose_canal": {
       "name": "Sweet Bloodied Fragrance",
       "condition": "Visit Blood Rose Canal"
@@ -5872,11 +5738,6 @@
     "swamp_azure_garden": {
       "name": "The Forbidden Swamp",
       "condition": "Visit the Forbidden Swamp area of the Azure Garden"
-    },
-    "seahorse_3d_underworld": {
-      "name": "The Phone is Ringing",
-      "description": "Will you answer it?",
-      "condition": "Find the seahorse in 3D Underworld"
     },
     "smile_blue_house_road": {
       "name": "Face in the Face",
@@ -7902,11 +7763,6 @@
       "description": "Cozy and colorful",
       "condition": "Make the creature play music in the living room of Doodles"
     },
-    "boombox_burning_building": {
-      "name": "Flaming Beats",
-      "description": "Don't get burned!",
-      "condition": "Activate the boombox in Burning Building's alcove"
-    },
     "blueprint_world_full": {
       "name": "Dream Architect",
       "description": "Mapping out my spiritual world",
@@ -7959,10 +7815,6 @@
       "name": "Little guy!",
       "description": "So very little...",
       "condition": "Interact with Chelan in the room of Cheesecake Chambers while using the effect of the Rodentia eidolon"
-    },
-    "psy_brt_warehouse": {
-      "name": "Psychedelic Fish",
-      "condition": "Trigger the Psychedelic Warehouse event in Brutalist Warehouse"
     },
     "kakkoii_lumen_resort": {
       "name": "Hmm... I Like That!",
@@ -8407,10 +8259,6 @@
         "reverenced_flower": "Reverenced Flower"
       }
     },
-    "vague_memory_menu": {
-      "name": "Standing at a Crossroad",
-      "condition": "Obtain the Vague Memory menu theme. If you have already unlocked it, return to A Long Journey."
-    },
     "planet_astronomy_world": {
       "name": "Intergalactic Vacation",
       "description": "Warp speed!",
@@ -8464,10 +8312,6 @@
       "name": "Nutritious",
       "description": "Hungry for some?",
       "condition": "View the giant ingredients in Lush Hilltop"
-    },
-    "streetlight_rnw_crossing": {
-      "name": "Bright Lights and Dances",
-      "condition": "Interact with the walking streetlight in Runway Crossing"
     },
     "neon_star_hall": {
       "name": "Neon Twinkle",
@@ -8976,11 +8820,6 @@
       "description": "Getting down and funky!",
       "condition": "Trigger the Critter Dance event in Candy Tile Halls"
     },
-    "soulfire_eidolon": {
-      "name": "Decayed Shackles",
-      "description": "Thy soul hath, long since decayed",
-      "condition": "Obtain the Soulfire eidolon. If you have already unlocked it, return in Sky Mausoleum."
-    },
     "sit_somewhere_commons": {
       "name": "No Hard Feelings",
       "description": ".-_-.",
@@ -9278,11 +9117,6 @@
       "name": "초코 케이크",
       "condition": "슈가 홀에서 케이크를 20개 이상 주문하기"
     },
-    "sewer": {
-      "name": "하수구 슬라임",
-      "description": "착한 아이는 절대로 마시지 마세요",
-      "condition": "하수구에서 확률적으로 나타나는 녹슨 슬라임과 상호작용하기"
-    },
     "rotten_smile": {
       "name": "썩은 미소",
       "condition": "문신 남매의 집과 자궁맵 속의 태아 방에 입장하기"
@@ -9308,10 +9142,6 @@
       "name": "Psychedelic Visage",
       "description": "A gift from a visitor from another plane of reality",
       "condition": "환각의 시가지에서 외계인 NPC와 상호작용하기"
-    },
-    "red_eye": {
-      "name": "적안",
-      "condition": "아파트 지하 벽에 붙어있는 붉은 눈을 깜빡이게 만들기"
     },
     "other_worlds": {
       "name": "Distant Melody",
@@ -9356,10 +9186,6 @@
       "description": "출산을 목격하다",
       "condition": "내장 세계에 있는 오니고 NPC의 출산 이벤트를 보기"
     },
-    "sugar_float_days": {
-      "name": "설탕이 담긴 차",
-      "condition": "달콤 가득한 날 이벤트를 보기"
-    },
     "bar_kaibutsu": {
       "name": "바 손님 카이부츠",
       "description": "처신 잘하라고!",
@@ -9375,10 +9201,6 @@
       "description": "삐빅.",
       "condition": "메탈짱 NPC를 발견하기"
     },
-    "entrance": {
-      "name": "녹슨 꿈으로 가는 관문",
-      "condition": "모든 버전의 입구를 보기"
-    },
     "smile_happy": {
       "name": "아이 행복해!",
       "description": "정말 멋지게 웃는구나.",
@@ -9392,18 +9214,6 @@
       "name": "저기요?",
       "description": "거기 안에 뭐가 있는 거야?",
       "condition": "노후화 지역 아파트의 4번째 방에 들어서기"
-    },
-    "rust_menu": {
-      "name": "질병의 병동",
-      "condition": "낙후된 병동의 어린 사비츠키에게서 러스트 메뉴 타입을 얻기"
-    },
-    "flower_adorned_hat": {
-      "name": "꽃장식 모자",
-      "condition": "환상의 복도에서 식물 안에 있는 꽃의 소녀(Flower Girl)를 만나기",
-      "checkbox": {
-        "flower_girl_plant": "식물 복도",
-        "flower_girl_illusion": "환상의 복도"
-      }
     },
     "music_cube_flow": {
       "name": "음악 큐브화",
@@ -9640,10 +9450,6 @@
       "description": "I can’t hear you, you’re breaking up- M̴̍͆e̷͛̒o̵͗͝ẅ̸́̆!",
       "condition": "결함의 세계에 위치한 크로마키 고양이를 찾기"
     },
-    "sunflower": {
-      "name": "찬란한 해바라기",
-      "condition": "숲의 세계에 있는 해바라기 밭에 도달하기"
-    },
     "monochrome_nightmare": {
       "name": "흑백의 악몽",
       "condition": "흑백의 도시에 있는 NPC를 죽인 후 이벤트를 완료하기"
@@ -9808,10 +9614,6 @@
       "name": "여울 소녀",
       "condition": "파스텔의 집에 방문하기"
     },
-    "hell_flower": {
-      "name": "헬플라워",
-      "condition": "붉은 강에서 헬플라워 NPC를 찾고 그녀와 상호작용하기"
-    },
     "crystalline_system": {
       "name": "오필리아",
       "description": "부글거리는 수정은 그녀를 시원하게 만들어줄 수 없다",
@@ -9844,10 +9646,6 @@
     "marina_bathhouse": {
       "name": "마리나",
       "condition": "목욕탕에서 마리나(Marina) NPC를 발견하고 안경 근처에 있는 돈을 줍기"
-    },
-    "rafflesia_pin": {
-      "name": "라플레시아 핀",
-      "condition": "아파트의 마지막 방에 입장하기"
     },
     "anatomy_lessons": {
       "name": "해부학 강의",
@@ -10932,21 +10730,6 @@
       "name": "역대 최악의 강도",
       "condition": "Jail 에서 \"잡힘\"(Caught) 카운트 수치를 초과하기"
     },
-    "true_sunset": {
-      "name": "진정한 일몰",
-      "description": "난 이제 누굴 믿어야 하는 거지?",
-      "condition": "Sunset Cliff에서 진정한 일몰(True Sunset) 이벤트를 보기"
-    },
-    "erased_muma": {
-      "name": "말소된 무마를 죽이다",
-      "description": "당신은 Muma가 최후를 맞이하도록 도와주었다",
-      "condition": "Erased Ending을 보기"
-    },
-    "experiment_tubes": {
-      "name": "실험",
-      "description": "저 사람들 누구야?",
-      "condition": "Secret Lab의 실험관을 모두 채우기"
-    },
     "sleep_paralysis_mare": {
       "name": "가위눌림",
       "description": "\"가위눌림이란, 깨어나거나 잠이 드는 동안 의식은 있지만 움직이거나 말을 할 수 없는 상태를 의미합니다\"",
@@ -10955,16 +10738,6 @@
     "rainbow_maze": {
       "name": "미로 장인",
       "condition": "R-Maze의 마지막 층에 도달하기"
-    },
-    "blossoming_view": {
-      "name": "꽃피는 풍경",
-      "description": "아름다운 결혼식이야",
-      "condition": "Yin Yang Lake에서 토끼의 결혼행렬을 보기"
-    },
-    "fake_rainbow": {
-      "name": "가짜 무지개",
-      "description": "이 무지개 근처에는 햇빛이 없어",
-      "condition": "Clouds에서 가짜 메모리를 얻기"
     },
     "owl_chorus": {
       "name": "부엉이 합창",
@@ -11205,11 +10978,6 @@
       "description": "당신이 누구든 간에요",
       "condition": "Imprint Amulet 망상을 얻기. (이미 얻었다면 그것을 수여하는 생물체와 상호작용하기)"
     },
-    "crimson_lights": {
-      "name": "심홍색 불빛들",
-      "description": "해는 저물고, 나는 빛이 나를 버리고 떠나가는 것을 느낀다",
-      "condition": "Distant Red Horizon 에 입장하기"
-    },
     "norvay_cat_shop": {
       "name": "고양이 의사",
       "condition": "Cat Shop에 있는 Norvey(노비) NPC와 상호작용 하기"
@@ -11218,10 +10986,6 @@
       "name": "눈보라 속의 마중",
       "description": "\"안녕?\"",
       "condition": "Snow World에서 구불거리는 크리쳐 NPC와 상호작용하기"
-    },
-    "colly_maid_cafe": {
-      "name": "어서오세요!",
-      "condition": "Colly Maid Cafe를 방문하기"
     },
     "shrine_staircase_maze": {
       "name": "달밤의 신사",
@@ -11537,28 +11301,10 @@
     }
   },
   "ultraviolet": {
-    "magicians_secret": {
-      "name": "마법사의 비밀",
-      "description": "의식은 모두 끝났어!",
-      "condition": "메뉴 타입 hexe를 얻기"
-    },
-    "stars_pastels": {
-      "name": "별과 파스텔",
-      "condition": "Pastel Blocks world의 mobile room 서브 에리어에 입장하기"
-    },
     "instant_gratification": {
       "name": "순간의 만족",
       "description": "이럴 만한 가치가 있어?",
       "condition": "Pastel World에서 자판기 옆에 있는 코인을 얻고 사용하기"
-    },
-    "uv_snipped": {
-      "name": "절단",
-      "description": "오늘따라 재수가 없니?",
-      "condition": "Bloody Water Dungeon에서 Short Hair 이펙트를 얻기"
-    },
-    "little_rabbit": {
-      "name": "작은 토끼",
-      "condition": "Pastel World의 Rabbit's House 서브 에리어에 방문하기"
     },
     "seasons_go": {
       "name": "계절은 돌고 돌아",
@@ -12202,20 +11948,6 @@
       "description": "수사는 시작됐어!",
       "condition": "Detective 이펙트의 행동을 활성화하기"
     },
-    "abandoned_pool_mural": {
-      "name": "버려진 기억",
-      "description": "보다시피 상황이 바뀌었어. 그 친구들 이제 해변 위에서는 잠들지 않아...",
-      "condition": "Abandoned Swimming Pool에서 벽에 그려진 벽화에 가까이 접근하기"
-    },
-    "chair_panic": {
-      "name": "기대어진 공포",
-      "description": "의자가 당신을 유심히 지켜보고 있다...",
-      "condition": "Warehouse에서 Fire Axe 이펙트를 장착하여 의자를 도망가게 만들기"
-    },
-    "willow_docks": {
-      "name": "고요한 호수와 버드나무",
-      "condition": "Docks를 방문하기"
-    },
     "nexus_favorites": {
       "name": "무엇을 가장 좋아하시나요?",
       "condition": "Nexus에서 접근할 수 있는 모든 꿈의 세계를 방문하기",
@@ -12407,11 +12139,6 @@
       "description": "A secret haven amidst the waves",
       "condition": "See the day and night versions of the vending machine island in Tropics"
     },
-    "ending_1_tsushin": {
-      "name": "Unanswered Call",
-      "description": "\"I'm unable to answer the phone right now. Please leave your name and number, I'll get back to you as soon as I can.\"",
-      "condition": "See the ending #1"
-    },
     "carousel_amusement_park": {
       "name": "Mouse Carousel",
       "description": "Round and round we go!",
@@ -12432,11 +12159,6 @@
       "description": "Oh no, the cup is broken!",
       "condition": "Trigger the Maid effect's action"
     },
-    "sushi_monitor_realm": {
-      "name": "Subaquatic Buffet",
-      "description": "This view is so nice, I may never want to wake up.",
-      "condition": "Reach the sushi aquarium in Monitor Realm"
-    },
     "mascot_costume_effect": {
       "name": "Identity Crisis",
       "condition": "Obtain the Mascot Costume effect. If you have already unlocked it, return where it can be found in the Amusement Park."
@@ -12454,11 +12176,6 @@
       "name": "Azure Bloom",
       "description": "A peaceful place for fishing~",
       "condition": "Visit Lotus Marsh"
-    },
-    "goth_doll_effects": {
-      "name": "Doll's Dress-Up",
-      "description": "Wearing pretty dresses is so fun, you might end up losing your head.",
-      "condition": "Combine the Goth Dress and Doll effects"
     },
     "rainy_islands_nini_detective": {
       "name": "Her Face",

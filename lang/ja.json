@@ -244,15 +244,6 @@
       "name": "捕らわれた者の眼",
       "condition": "電燈の世界の赤い目を踏む"
     },
-    "bottles": {
-      "name": "健康飲料",
-      "condition": "道路沿いの樹海、地獄、湖回廊（自販機側）にある3台の自動販売機をすべて探し、それぞれの自動販売機で飲み物を購入する",
-      "checkbox": {
-        "jihanki_dense_woods": "道路沿いの樹海",
-        "jihanki_hell": "地獄",
-        "jihanki_docks": "湖回廊（自販機側）"
-      }
-    },
     "mado": {
       "name": "窓",
       "condition": "エンディングを見る"
@@ -708,10 +699,6 @@
       "name": "ラストメモリー",
       "condition": "錆鉄にいるギプ子に話しかける"
     },
-    "mushroom": {
-      "name": "レインボーキノコ",
-      "condition": "蒼園:キノコ部屋の女の子の石化を解除する"
-    },
     "hakoko": {
       "name": "箱子",
       "condition": "目薬川:目薬屋さんで箱子に話しかける"
@@ -989,11 +976,6 @@
       "description": "正しい一歩を踏み出す",
       "condition": "断崖:ノイズの小部屋に到達する"
     },
-    "drunk": {
-      "name": "マスター",
-      "description": "お客さん。飲み過ぎだよ。",
-      "condition": "BARで酔っぱらって気絶する"
-    },
     "paradise": {
       "name": "金雲海",
       "description": "クジラさんこんにちは。",
@@ -1134,11 +1116,6 @@
       "name": "魔女の微笑み",
       "condition": "廃村にいる黒魔女におはかで話しかける"
     },
-    "tv_room": {
-      "name": "TVスクリーン",
-      "description": "今日は何の番組を見ようかな？",
-      "condition": "高速道路の果て:館内エリアに到達する"
-    },
     "nostalgic_house": {
       "name": "意味",
       "condition": "意味に到達する"
@@ -1193,10 +1170,6 @@
       "name": "薔薇の夢",
       "condition": "黒湯で湯花エリア(Pルート)に到達する"
     },
-    "rainbow_bird": {
-      "name": "尾長鳥",
-      "condition": "垂水でにじを使って尾長鳥を見る"
-    },
     "paint": {
       "name": "ぐるぐる絵の具",
       "condition": "墓地世界:石造りの建物内を完全攻略する"
@@ -1214,10 +1187,6 @@
     "snow": {
       "name": "クリスマススノードーム",
       "condition": "雪が降っている時に廃籠で顔付きアーチの下をくぐり抜ける"
-    },
-    "streetlight_scenery": {
-      "name": "水没電柱の景色",
-      "condition": "水没電柱:夜の山に到達する"
     },
     "akako": {
       "name": "紅白赤子",
@@ -1509,18 +1478,6 @@
         "phone_rgb_spectral_passage": "分光"
       }
     },
-    "butterfly_passage": {
-      "name": "Tricolored Butterfly",
-      "condition": "虫食いに到達する"
-    },
-    "forest_interlude": {
-      "name": "孤独とカラユリ",
-      "condition": "陰森の橋に到達する"
-    },
-    "pink_flower": {
-      "name": "花の踊り",
-      "condition": "菜の花畑で桃色の花を見る"
-    },
     "banana": {
       "name": "Ohhh Banana!",
       "condition": "NESトンネルで隠されたカリウムをゲット！すでに入手している場合は、見つけた場所に行く"
@@ -1622,16 +1579,6 @@
       "name": "うそつき、うそつき",
       "description": "お前が誰か知っている",
       "condition": "恋の家の電気を消す"
-    },
-    "surimuki": {
-      "name": "すりむき娘",
-      "description": "\"すりむいちゃった。\"",
-      "condition": "夢の世界にいるすりむき娘（顔と腕の通路、夢幻図書館の本、モノクロ学校の屋上）を全て見つける",
-      "checkbox": {
-        "surimuki_library": "夢幻図書館の本",
-        "surimuki_broken_faces_area": "顔と腕の通路",
-        "surimuki_monochrome_school": "モノクロ学校"
-      }
     },
     "helmet_girl": {
       "name": "照射",
@@ -1759,10 +1706,6 @@
       "name": "ソロコンサートホール",
       "description": "スラム街の最高機密:穏やかな交響曲",
       "condition": "悖り（ピアノエリア）に到達する。"
-    },
-    "mirror_lake_patient": {
-      "name": "鏡湖の患者",
-      "condition": "鏡湖で病人に会う。"
     },
     "master_crow": {
       "name": "嘱目する八咫烏",
@@ -1918,23 +1861,6 @@
       "description": "ここに来た時のように、とても静かにサヨナラを言うよ。西の空のバラ色の雲に、静かに手を振って。",
       "condition": "暗彩光でタコ風船みたいなものを見る"
     },
-    "star_planetarium": {
-      "name": "星景と機械",
-      "condition": "星の夜でプラネタリウムイベントを見る"
-    },
-    "cosmic_daydream": {
-      "name": "白昼夢",
-      "condition": "壁葬に到達する"
-    },
-    "lonely_garden": {
-      "name": "荒んだ通りの孤独な庭",
-      "description": "この招かれざる路地に隠された秘密とは？",
-      "condition": "中庭に到達する"
-    },
-    "serene_waters": {
-      "name": "冷たい煉瓦の壁と穏やかな海",
-      "condition": "大正屋敷:小部屋のベランダに到達する"
-    },
     "dancing_queen": {
       "name": "ダンシングクイーン",
       "description": "夜は短し踊れよ乙女！",
@@ -1997,11 +1923,6 @@
       "name": "盲目宇宙",
       "description": "点滅大好き！",
       "condition": "Cosmicに到達する"
-    },
-    "bent_screw": {
-      "name": "折れているネジ",
-      "description": "どんな思い出が詰まっているのだろう...",
-      "condition": "歯車で折れているネジを調べる"
     },
     "well_creature": {
       "name": "井戸の生物",
@@ -2116,18 +2037,10 @@
       "description": "聖域を照らす光は...",
       "condition": "灯篭流しに到達する"
     },
-    "reflecting_electron": {
-      "name": "Subatomic Matrix",
-      "condition": "Electronに到達する"
-    },
     "aquarius_prison": {
       "name": "海底標本",
       "description": "この標本は水中で生まれたものには見えないけど・・・",
       "condition": "ボール工場の水槽の中に閉じ込められる"
-    },
-    "misty_bridges_transmission": {
-      "name": "古い夢からの発信",
-      "condition": "科学展:送電塔エリアで古い送電塔を見つける"
     },
     "lonely_refrigerator": {
       "name": "孤独な冷蔵庫",
@@ -2138,10 +2051,6 @@
       "name": "アホ毛子",
       "description": "無口で可愛らしい女の子",
       "condition": "偽浅瀬の家に到達する"
-    },
-    "ghostly_interiors": {
-      "name": "不気味なインテリア",
-      "condition": "森屋敷に到達する"
     },
     "lapine_forest": {
       "name": "うさぎ星",
@@ -2267,10 +2176,6 @@
       "name": "天空",
       "condition": "天空に到達する"
     },
-    "fossilized_haven": {
-      "name": "化石化した楽園",
-      "condition": "絞め殺しの木:キノコで住民が驚かないように近づく"
-    },
     "bread_world": {
       "name": "パンはパンでもおいしいパン！",
       "condition": "パンに到達する"
@@ -2372,11 +2277,6 @@
       "name": "チーズ流忍術",
       "description": "こんなに広いと地ー図が必要！",
       "condition": "暗闇チーズでケーキやようせいを使ってチーズ蜘蛛に捕まる"
-    },
-    "march_of_progress": {
-      "name": "進化との対面",
-      "description": "人間性を否定し、猿に戻る",
-      "condition": "平行四辺形チェスの進化イベントを見る"
     },
     "peaceful_pond": {
       "name": "のどかな池",
@@ -2730,10 +2630,7 @@
       "description": "彼が観察しているのはあなただよ。",
       "condition": "雪恋墓卵でモノアイクリスタルを見つめる"
     },
-    "phonograph_galaxy": {
-      "name": "マジカルメロディ",
-      "condition": "胡麻横丁で蓄音機と近くにいる人に話しかける"
-    },
+
     "port_city_maiko": {
       "name": "親愛なるコレクション",
       "condition": "緑の港町の人形とふすまの部屋でまいこを使う"
@@ -2750,10 +2647,6 @@
         "cyclop_acerola": "アセロラ",
         "cyclop_mini_maze": "FC迷宮"
       }
-    },
-    "party_colored": {
-      "name": "パーティ一色",
-      "condition": "ネオン集落のネオンルームでソファで踊る四本腕のネオン住人に話しかける"
     },
     "pale_luminescence": {
       "name": "淡い発光",
@@ -4124,10 +4017,6 @@
       "name": "夢見人形",
       "condition": "ED#3を見る"
     },
-    "glitch_ending": {
-      "name": "混沌の夢",
-      "condition": "似非エンディングを見る"
-    },
     "cake_shop_repentance": {
       "name": "チョコケーキ屋さん",
       "description": "ケーキ乗せ仲間...!",
@@ -4883,10 +4772,6 @@
       "name": "悪逆非道な光景",
       "condition": "怒哀階段から目薬川に到達する"
     },
-    "fairy_hole": {
-      "name": "妖精の隠れ家",
-      "condition": "目覚めの森:花部屋に到達する"
-    },
     "ice_cream_galaxy_town": {
       "name": "フレーバーフェスタ",
       "description": "たくさんのフレーバー・・・",
@@ -5292,15 +5177,6 @@
       "name": "斜陽の町",
       "condition": "斜陽の町に到達する"
     },
-    "drink_bench": {
-      "name": "小休憩",
-      "description": "甘いソーダとこの景色の組み合わせ・・・うーん最高！",
-      "condition": "桟橋の森、クラシックホテルの自動販売機でソーダを買い、ベンチに座って飲む",
-      "checkbox": {
-        "drink_forest_pier": "桟橋の森",
-        "drink_travel_hotel": "クラシックホテル"
-      }
-    },
     "antiquated_h_v_promenade": {
       "name": "放棄された小部屋",
       "description": "今は忘れ去られた愛の思い出",
@@ -5437,11 +5313,6 @@
       "name": "崩壊した扉部屋",
       "description": "この幸運を呼び寄せられる？",
       "condition": "バグ扉部屋イベントを見る。すでに見たことがある場合、扉部屋に戻る"
-    },
-    "hat_nexus_c_v_complete": {
-      "name": "帽子のコレクション",
-      "description": "かぶって、私たちが一緒に過ごした時間を思い出して",
-      "condition": "六角タイル世界で、すべての帽子を集めてかぶる"
     },
     "aurora_lake": {
       "name": "フローライトの湖",
@@ -5817,10 +5688,6 @@
       "description": "一緒に埃を集めよう :3",
       "condition": "瑠璃の聖堂の燐光星人形がある小部屋に到達する"
     },
-    "vista_blood_rose_canal": {
-      "name": "深紅の薔薇のリース",
-      "condition": "深紅の淵の太陽が見えるエリアに到達する"
-    },
     "blood_rose_canal": {
       "name": "甘い血みどろの香り",
       "condition": "深紅の淵に到達する"
@@ -5888,11 +5755,6 @@
     "swamp_azure_garden": {
       "name": "禁足の沼地",
       "condition": "禁足に到達する"
-    },
-    "seahorse_3d_underworld": {
-      "name": "着信だ",
-      "description": "電話に出てくれる？",
-      "condition": "FCバグステージ(赤い迷路):電話の鳴る小部屋にいるタツノオトシゴを見つける"
     },
     "smile_blue_house_road": {
       "name": "顔の中の顔",
@@ -7918,11 +7780,6 @@
       "description": "居心地も良いしカラフル",
       "condition": "石造りと赤植物の小部屋で楽器生物で音楽を流す"
     },
-    "boombox_burning_building": {
-      "name": "燃えるビート",
-      "description": "ヤケドに気を付けて！",
-      "condition": "炎上ビルにあるDJテーブルを調べる"
-    },
     "blueprint_world_full": {
       "name": "夢の建築家",
       "description": "精神世界のマッピング",
@@ -7975,10 +7832,6 @@
       "name": "おチビ！",
       "description": "とっても小さい……",
       "condition": "齧歯類でチーズケーキ部屋にいる単眼サクランボさんに話しかける"
-    },
-    "psy_brt_warehouse": {
-      "name": "サイケデリックな魚",
-      "condition": "嘲笑工場でガンギマリイベントを見る"
     },
     "kakkoii_lumen_resort": {
       "name": "うーん……気に入った！",
@@ -8423,10 +8276,6 @@
         "reverenced_flower": "花園"
       }
     },
-    "vague_memory_menu": {
-      "name": "岐路に立つ",
-      "condition": "メニュータイプ「朧げな記憶」を入手する。入手済みの場合は再度長旅に到達する"
-    },
     "planet_astronomy_world": {
       "name": "銀河の休息",
       "description": "ワープスピード！",
@@ -8480,10 +8329,6 @@
       "name": "栄養豊富",
       "description": "お腹すいた？",
       "condition": "緑丘で巨大な食材を見る"
-    },
-    "streetlight_rnw_crossing": {
-      "name": "眩しい光とダンス",
-      "condition": "ランウェイ横断歩道で歩行式信号を調べる"
     },
     "neon_star_hall": {
       "name": "ネオンなきらめき",
@@ -8992,11 +8837,6 @@
       "description": "さあ盛り上がろう！",
       "condition": "飴回廊で開かない扉を開ける"
     },
-    "soulfire_eidolon": {
-      "name": "朽ち果てた枷",
-      "description": "汝の魂は、遠い昔に朽ち果てた",
-      "condition": "魂の火のエイドラを入手する、すでに入手している場合は、もう一度聖なる霊廟に行く."
-    },
     "sit_somewhere_commons": {
       "name": "気にしてないけど",
       "description": ".-_-.",
@@ -9294,11 +9134,6 @@
       "name": "チョコレートケーキ",
       "condition": "sugars holeでケーキを20個以上食べる"
     },
-    "sewer": {
-      "name": "Sewer Slime",
-      "description": "呑むべきじゃなかったな...",
-      "condition": "血膿錆部屋のイベントを見る"
-    },
     "rotten_smile": {
       "name": "鬼笑顔",
       "condition": "腸内迷宮の「笑顔の世界」と「鬼の世界」に入る"
@@ -9324,10 +9159,6 @@
       "name": "サイケデリックな姿",
       "description": "別の次元からの来訪者の贈り物",
       "condition": "サイケデリック街屋上にいる宇宙人に話しかける"
-    },
-    "red_eye": {
-      "name": "赤目",
-      "condition": "アパートの壁にある赤い目を見つけて、点滅させる。"
     },
     "other_worlds": {
       "name": "遠いメロディ",
@@ -9372,10 +9203,6 @@
       "description": "出産イベントを見る",
       "condition": "鬼子部屋で出産イベントを発生させる"
     },
-    "sugar_float_days": {
-      "name": "甘い紅茶",
-      "condition": "裏アパートのエレベーター横の階段の先でイベントを見る"
-    },
     "bar_kaibutsu": {
       "name": "バーのカイブツ",
       "description": "Think fast!",
@@ -9391,10 +9218,6 @@
       "description": "ウィーン　ｶﾞｼｬﾝ",
       "condition": "義足子を訪ねる"
     },
-    "entrance": {
-      "name": "錆びついた夢への入口",
-      "condition": "エントランスの背景を全種類見る"
-    },
     "smile_happy": {
       "name": "彼はとても嬉しい！",
       "description": "なんて素敵な笑顔なんだ",
@@ -9408,18 +9231,6 @@
       "name": "こんにちは？",
       "description": "何があったんだ？",
       "condition": "退廃アパートの4つ目の部屋に入ろうとする"
-    },
-    "rust_menu": {
-      "name": "病棟",
-      "condition": "錆病室の患者からメニュータイプrustを入手する"
-    },
-    "flower_adorned_hat": {
-      "name": "花柄帽子",
-      "condition": "花子姉部屋と植物部屋で花子姉に会う",
-      "checkbox": {
-        "flower_girl_plant": "植物部屋",
-        "flower_girl_illusion": "花子姉部屋"
-      }
     },
     "music_cube_flow": {
       "name": "ミュージックキューブ",
@@ -9656,10 +9467,6 @@
       "description": "なんて言ってる？途切れ途切れで──似ﾔ-ン！!",
       "condition": "Glitch Worldの深部に到達する"
     },
-    "sunflower": {
-      "name": "ブライトサンフラワー",
-      "condition": "Forest Worldにあるsunflower fieldに到達する"
-    },
     "monochrome_nightmare": {
       "name": "モノクロ悪夢",
       "condition": "Monochrome CityのNPCを倒すと発生するイベントをクリアする"
@@ -9824,10 +9631,6 @@
       "name": "浅瀬の少女",
       "condition": "Pastel Houseに行く"
     },
-    "hell_flower": {
-      "name": "Hellflower",
-      "condition": "Red RiverでHellflowerを見つけ、話しかける"
-    },
     "crystalline_system": {
       "name": "オフィーリア",
       "description": "煮えたぎる水晶は冷静さを保てない",
@@ -9860,10 +9663,6 @@
     "marina_bathhouse": {
       "name": "Marina",
       "condition": "Bath HouseでMarinaを見て、メガネの近くにあるお金を拾う"
-    },
-    "rafflesia_pin": {
-      "name": "ラフレシアピン",
-      "condition": "Apartmentsの最奥の部屋に入る"
     },
     "anatomy_lessons": {
       "name": "解剖学の授業",
@@ -10948,21 +10747,6 @@
       "name": "最悪の泥棒",
       "condition": "牢屋の「Caught」カウンターをOverflowさせる"
     },
-    "true_sunset": {
-      "name": "真実の夕陽",
-      "description": "今、私は誰を信じればよいのだろう？",
-      "condition": "Sunset Cliffで真実の夕陽を目撃する"
-    },
-    "erased_muma": {
-      "name": "消されたMumaの殺害",
-      "description": "あなたはMumaが決定的な終止符を打つ手助けをした",
-      "condition": "あなたはMumaが決定的な終止符を打つ手助けをした"
-    },
-    "experiment_tubes": {
-      "name": "実験",
-      "description": "彼女らは誰？",
-      "condition": "Secret Labの試験管をすべて埋める"
-    },
     "sleep_paralysis_mare": {
       "name": "Mare",
       "description": "「金縛りとは、起床時や入眠時に、意識はあるのに動くことも話すこともできない状態のことです。」",
@@ -10971,16 +10755,6 @@
     "rainbow_maze": {
       "name": "迷路マエストロ",
       "condition": "R-Mazeの最後のフロアに到達する"
-    },
-    "blossoming_view": {
-      "name": "花咲く景色",
-      "description": "なんて素敵な結婚式！",
-      "condition": "Yin Yang Lakeで兎の嫁入りに遭遇する"
-    },
-    "fake_rainbow": {
-      "name": "ニセモノの虹",
-      "description": "虹はあるのに太陽はない",
-      "condition": "Above the Cloudsで偽物のメモリーを手に入れる"
     },
     "owl_chorus": {
       "name": "フクロウの合唱",
@@ -11221,11 +10995,6 @@
       "description": "誰であろうと",
       "condition": "Imprint Amulet delusionを入手する、すでに入手している場合は見つけた場所に行く"
     },
-    "crimson_lights": {
-      "name": "深紅の光",
-      "description": "日が落ちると、光が私を裏切るのを感じる",
-      "condition": "Distant Red Horizonに到達する"
-    },
     "norvay_cat_shop": {
       "name": "猫博士",
       "condition": "Cat ShopでNorveyに話しかける"
@@ -11234,10 +11003,6 @@
       "name": "雪の挨拶",
       "description": "「Hello?」",
       "condition": "Snow Worldの手を振る生物を訪ねる"
-    },
-    "colly_maid_cafe": {
-      "name": "Welcome!",
-      "condition": "Colly Maid Cafeに到達する"
     },
     "shrine_staircase_maze": {
       "name": "宵闇の神社",
@@ -11553,28 +11318,10 @@
     }
   },
   "ultraviolet": {
-    "magicians_secret": {
-      "name": "魔法使いの秘密",
-      "description": "儀式完了！",
-      "condition": "ウィンドウ「hexe」を入手する"
-    },
-    "stars_pastels": {
-      "name": "星とパステル",
-      "condition": "Pastel Blocks worldのmobile roomに到達する"
-    },
     "instant_gratification": {
       "name": "そくせ喜",
       "description": "それに価値はあったのか？",
       "condition": "Pastel Worldの自動販売機の横に落ちているコインを拾って使う"
-    },
-    "uv_snipped": {
-      "name": "切られた",
-      "description": "髪の調子が悪い？",
-      "condition": "Bloody Water Dungeonでショートヘアーを入手する"
-    },
-    "little_rabbit": {
-      "name": "ちいさなウサギ",
-      "condition": "Pastel WorldのRabbit's Houseに到達する"
     },
     "seasons_go": {
       "name": "Seasons Come and Go",
@@ -12218,20 +11965,6 @@
       "description": "調査開始！",
       "condition": "Detectiveエフェクトでシフトキー動作を見る"
     },
-    "abandoned_pool_mural": {
-      "name": "棄てられた記憶",
-      "description": "状況が変わったんだ。もうビーチで寝ることは無い……",
-      "condition": "Abandoned Swimming Poolの壁画に近づく"
-    },
-    "chair_panic": {
-      "name": "リクライニング・パニック",
-      "description": "椅子はあなたを注意深く見ている...",
-      "condition": "WarehouseでFire Axeエフェクトを装備し、椅子を怖がらせる"
-    },
-    "willow_docks": {
-      "name": "静謐な湖と柳",
-      "condition": "Docksに到達する"
-    },
     "nexus_favorites": {
       "name": "あなたのお気に入りはどれ？",
       "condition": "Nexusから到達できるすべての夢の世界を訪れる",
@@ -12423,11 +12156,6 @@
       "description": "波に囲まれた秘密の避難所",
       "condition": "Tropicsにあるvending machine islandの昼と夜のバージョンを見る"
     },
-    "ending_1_tsushin": {
-      "name": "不在着信",
-      "description": "「ただいま電話に出ることができません。 ピーという発信音の後に、お名前とご用件をお話しください。」",
-      "condition": "エンディング１を見る"
-    },
     "carousel_amusement_park": {
       "name": "ネズミーゴーランド",
       "description": "ぐるぐるまわる！",
@@ -12448,11 +12176,6 @@
       "description": "あぁ、コップが割れちゃった！",
       "condition": "Maidのエフェクトで動作を見る"
     },
-    "sushi_monitor_realm": {
-      "name": "海底ビュッフェ",
-      "description": "いい景色で、目覚めたくなくったかも。",
-      "condition": "Monitor Realmの寿司の水族館に行く"
-    },
     "mascot_costume_effect": {
       "name": "自己喪失",
       "condition": "Mascot Suitのエフェクトを入手する、すでに入手している場合はAmusement Parkの見つけた場所に行く。"
@@ -12470,11 +12193,6 @@
       "name": "空色の花",
       "description": "ここは静かで釣りにピッタリ～",
       "condition": "Lotus Marshに到達する"
-    },
-    "goth_doll_effects": {
-      "name": "着せ替え人形",
-      "description": "Wormikoちゃん可愛すぎて顔無い",
-      "condition": "Goth DressとDollのエフェクトを組み合わせる"
     },
     "rainy_islands_nini_detective": {
       "name": "彼女の顔",

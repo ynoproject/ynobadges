@@ -244,15 +244,6 @@
       "name": "Olho do Capturado",
       "condition": "Pise no piso de olho em Lamp World"
     },
-    "bottles": {
-      "name": "Bebidas Saudáveis",
-      "condition": "Encontre todas as 3 máquinas de venda automática e compre pelo menos uma bebida em cada uma",
-      "checkbox": {
-        "jihanki_dense_woods": "Dense Woods A",
-        "jihanki_hell": "Hell",
-        "jihanki_docks": "Docks A"
-      }
-    },
     "mado": {
       "name": "Enjanelada",
       "condition": "Veja o final"
@@ -698,10 +689,6 @@
       "name": "Memória Enferrujada",
       "condition": "Ressoe com a Cyborg Operator no Complexo Urbano Rusty"
     },
-    "mushroom": {
-      "name": "Cogumelo Iridescente",
-      "condition": "Solte a garota cogumelo de sua prisão de pedra"
-    },
     "hakoko": {
       "name": "Hakoko",
       "condition": "Interaja com Hakoko em Eye Shop"
@@ -979,11 +966,6 @@
       "description": "Taking the right steps",
       "condition": "Entre na sala no final da rodovia em Spirit Capital"
     },
-    "drunk": {
-      "name": "Masutaa",
-      "description": "Você não acha que tem um pouco demais para beber?",
-      "condition": "Fique bêbado e desmaie no The Underground Bar em Japan Town"
-    },
     "paradise": {
       "name": "Paraíso",
       "description": "Whale hello there.",
@@ -1124,11 +1106,6 @@
       "name": "Sorriso Decrépito",
       "condition": "Interaja com a shadow lady em Decrepit Village usando o efeito Grave"
     },
-    "tv_room": {
-      "name": "Tela de TV",
-      "description": "Quais dos canais você irá assistir hoje?",
-      "condition": "Entre em TV Room localizado no Highway"
-    },
     "nostalgic_house": {
       "name": "Casa do Sonhador",
       "condition": "Entre em Nostalgic House"
@@ -1183,10 +1160,6 @@
       "name": "Sonho das Rosas",
       "condition": "Complete o evento Dream of Roses nas Red Rock Caves"
     },
-    "rainbow_bird": {
-      "name": "Pássaro da Cachoeira",
-      "condition": "Use o efeito Rainbow no Lost Creek para chamar o pássaro de Nocturnal Grove e olhe para ele"
-    },
     "paint": {
       "name": "Pintura em Espiral",
       "condition": "Complete o todo o evento Sculpture Room no Graveyard World"
@@ -1204,10 +1177,6 @@
     "snow": {
       "name": "Globo de Neve Festivo",
       "condition": "Passe sob a estrutura no Riverside Waste Facility enquanto estiver nevando"
-    },
-    "streetlight_scenery": {
-      "name": "Paisagem Iluminada",
-      "condition": "Chegue na final da Submerged Communications Area"
     },
     "akako": {
       "name": "Akako do Escarlate Branco",
@@ -1498,18 +1467,6 @@
         "phone_rgb_spectral_passage": "RGB Spectral Passage"
       }
     },
-    "butterfly_passage": {
-      "name": "Borboleta Tricolor",
-      "condition": "Visite Butterfly Passage"
-    },
-    "forest_interlude": {
-      "name": "O Lírio Solitário de Calla",
-      "condition": "Visite Forest Interlude"
-    },
-    "pink_flower": {
-      "name": "A Dançante Flor Rosa",
-      "condition": "Veja a mancha de flores cor-de-rosa no Rapeseed Fields"
-    },
     "banana": {
       "name": "Ohhh Banana!",
       "condition": "Encontre a banana escondida no NES Glitch Tunnel"
@@ -1611,16 +1568,6 @@
       "name": "Você mentiu! Mentiroooso!",
       "description": "Eu sei o que você é.",
       "condition": "Apague a luz no quarto do Liar."
-    },
-    "surimuki": {
-      "name": "Surimuki",
-      "description": "\"Eu fui raspada.\"",
-      "condition": "Encontre Surimuki em todos os lugares em que ela aparece no mundo dos sonhos (Broken Faces Area, um livro do Library, e no telhado do Monochrome School)",
-      "checkbox": {
-        "surimuki_library": "Library",
-        "surimuki_broken_faces_area": "Broken Faces Area",
-        "surimuki_monochrome_school": "Monochrome School"
-      }
     },
     "helmet_girl": {
       "name": "Astronauta",
@@ -1747,10 +1694,6 @@
       "name": "Salão de Concerto",
       "description": "O segredo mais bem guardado das favelas: uma sinfonia serena.",
       "condition": "Cair no buraco de Picture Book e chegar ao beco com música de piano calmante tocando."
-    },
-    "mirror_lake_patient": {
-      "name": "Paciente do Lago Espelhado",
-      "condition": "Veja Lavender no Blue Cactus Islands' Mirror Lake."
     },
     "master_crow": {
       "name": "Mestre Corvo Empoleirado Em Uma Cerca",
@@ -1906,23 +1849,6 @@
       "description": "Very quietly I take my leave, as quietly as I came here;\nQuietly I wave good-bye, to the rosy clouds in the western sky.",
       "condition": "Veja o evento \"It Came From Behind\" em Neon City."
     },
-    "star_planetarium": {
-      "name": "Vista Estrelada e um Maquinário Intenso",
-      "condition": "Veja o \"Starry Sky Event\" em Planetarium."
-    },
-    "cosmic_daydream": {
-      "name": "Sonhar Acordado",
-      "condition": "Entre em \"Dark Room\" no Cosmic World."
-    },
-    "lonely_garden": {
-      "name": "Jardim Solitário entre as Ruas Melancólicas",
-      "description": "Que segredos estão escondidos nestes becos sinuosos e indesejáveis?",
-      "condition": "Entre em \"Hidden Garden\" na Deserted Town."
-    },
-    "serene_waters": {
-      "name": "Águas Serenas entre os Tijolos Frios",
-      "condition": "Entre na varanda da Mansion."
-    },
     "dancing_queen": {
       "name": "Rainha Dançarina",
       "description": "A noite é uma criança e a música está tocando!",
@@ -1985,11 +1911,6 @@
       "name": "Cosmos Cegante",
       "description": "Eu adoro luzes piscando!",
       "condition": "Entre Cosmic World."
-    },
-    "bent_screw": {
-      "name": "Parafuso Torto",
-      "description": "Eu me questiono quais memórias tu guardas...",
-      "condition": "Interaja com um parafuso torto."
     },
     "well_creature": {
       "name": "A Criaturas do Poço",
@@ -2104,18 +2025,10 @@
       "description": "As luzes que iluminam os santuários...",
       "condition": "Chegue até o Water Lantern World."
     },
-    "reflecting_electron": {
-      "name": "Matriz Subatômica",
-      "condition": "Entre na Reflecting Electron Zone."
-    },
     "aquarius_prison": {
       "name": "Submarine Specimen",
       "description": "This one doesn't seem like it originated underwater...",
       "condition": "Faça o evento Creatures of the Power Plant na Power Plant."
-    },
-    "misty_bridges_transmission": {
-      "name": "Transmissão de um Sonho Antigo",
-      "condition": "Encontre uma antiga torre de trasmissão na Misty Bridges."
     },
     "lonely_refrigerator": {
       "name": "Geladeira Solitária",
@@ -2126,10 +2039,6 @@
       "name": "Ahogeko",
       "description": "Somente uma garotinha introvertida",
       "condition": "Vá para a casa de Ahogeko."
-    },
-    "ghostly_interiors": {
-      "name": "Interiores Fantasmagóricos",
-      "condition": "Entre na mansão espiritual em Haunted Forest Town."
     },
     "lapine_forest": {
       "name": "Floresta dos Láparos",
@@ -2255,10 +2164,6 @@
       "name": "O Paraíso das Estatuas Cinzas",
       "condition": "Enter Cinder Statue Heaven"
     },
-    "fossilized_haven": {
-      "name": "O Paraíso Fossilizado",
-      "condition": "Entre na caverna dos cogumelos brilhantes nas Floating Catacombs sem assustar seus habitantes."
-    },
     "bread_world": {
       "name": "A Melhor Coisa Depois do Pão de Forma!",
       "condition": "Vá ao Bread World"
@@ -2360,11 +2265,6 @@
       "name": "Taticas Cheese",
       "description": "Você achou que haveria algum trocadilho *chique* aqui, não é?",
       "condition": "Use Cake/Fairy para ser pego por uma das Cheese Spiders em Dark Cheese Hell"
-    },
-    "march_of_progress": {
-      "name": "Face do Progresso",
-      "description": "Rejeite a humanidade, retorne a macaco",
-      "condition": "Presencie o evento March of Progress"
     },
     "peaceful_pond": {
       "name": "Lagoa Pacífica",
@@ -2718,10 +2618,6 @@
       "description": "It's you who he observes.",
       "condition": "Observe o ciclope azul em Holiday Hell"
     },
-    "phonograph_galaxy": {
-      "name": "Melodias Mágicas",
-      "condition": "Interaja com a bruxa do fonógrafo na GALAXY town"
-    },
     "port_city_maiko": {
       "name": "Coleção Respeitosa",
       "condition": "Use o efeito Maiko na sala Kokeshi de Port City"
@@ -2738,10 +2634,6 @@
         "cyclop_acerola": "Acerola World",
         "cyclop_mini_maze": "Mini-Maze"
       }
-    },
-    "party_colored": {
-      "name": "Festa Colorida",
-      "condition": "Interaja com o NPC que toca música no Party Room do Neon Suburbs"
     },
     "pale_luminescence": {
       "name": "Luminescência Pálida",
@@ -4104,10 +3996,6 @@
       "name": "Boneca Sonhadora",
       "condition": "Veja o Ending #3. Se você já viu, veja novamentepelo menu Data do computador."
     },
-    "glitch_ending": {
-      "name": "Sonho Corrompido",
-      "condition": "Veja o Glitch Ending"
-    },
     "cake_shop_repentance": {
       "name": "Loja de Bolos de Chocolate",
       "description": "Ela tem um bolo na cabeça...!",
@@ -4863,10 +4751,6 @@
       "name": "Visão Traiçoeira",
       "condition": "Vá para Visine World apartir do Garden of Treachery"
     },
-    "fairy_hole": {
-      "name": "Esconderijo das Fadas",
-      "condition": "Entre em Fairy Hole pela a Snowy Forest"
-    },
     "ice_cream_galaxy_town": {
       "name": "Festival de Sabores",
       "description": "Tantas opções...",
@@ -5272,15 +5156,6 @@
       "name": "Corredores Escarlates",
       "condition": "Visite o Scarlet Corridors"
     },
-    "drink_bench": {
-      "name": "Pausa Refrescante",
-      "description": "A vista se torna mais agradável quando combinada com o sabor doce do refrigerante",
-      "condition": "Compre um refrigerante na máquina de venda automática e beba-o no banco do Forest Pier e na varanda do Travel Hotel",
-      "checkbox": {
-        "drink_forest_pier": "Forest Pier",
-        "drink_travel_hotel": "Travel Hotel's balcony"
-      }
-    },
     "antiquated_h_v_promenade": {
       "name": "Casa de Repouso Abandonada",
       "description": "Memórias de um amor agora esquecido",
@@ -5417,11 +5292,6 @@
       "name": "Nexus Corrompido",
       "description": "Você pode chamar isso de sorte?",
       "condition": "Conclua o evento Corrupted Nexus. Se você já o viu, retorne em The Nexus."
-    },
-    "hat_nexus_c_v_complete": {
-      "name": "Hat Collection",
-      "description": "Try them on and remember the time we've spent together",
-      "condition": "Complete o Hat-Nexus do Critter Village coletando todos os chapéus e equipando-os lá"
     },
     "aurora_lake": {
       "name": "Lago Fluorita",
@@ -5797,10 +5667,6 @@
       "description": "Come dust collecting with us :3",
       "condition": "Visit the star storage in Whispering Palace"
     },
-    "vista_blood_rose_canal": {
-      "name": "Crimson Rose Wreath",
-      "condition": "See the vista in Blood Rose Canal"
-    },
     "blood_rose_canal": {
       "name": "Sweet Bloodied Fragrance",
       "condition": "Visit Blood Rose Canal"
@@ -5868,11 +5734,6 @@
     "swamp_azure_garden": {
       "name": "The Forbidden Swamp",
       "condition": "Visit the Forbidden Swamp area of the Azure Garden"
-    },
-    "seahorse_3d_underworld": {
-      "name": "The Phone is Ringing",
-      "description": "Will you answer it?",
-      "condition": "Find the seahorse in 3D Underworld"
     },
     "smile_blue_house_road": {
       "name": "Face in the Face",
@@ -7898,11 +7759,6 @@
       "description": "Aconchegante e Colorido",
       "condition": "Faça a criatura tocar música na sala de estar do Doodles"
     },
-    "boombox_burning_building": {
-      "name": "Batidas Flamejantes",
-      "description": "Não se Queime!",
-      "condition": "Ative a caixa de som na alcova do Burning Building"
-    },
     "blueprint_world_full": {
       "name": "Dream Architect",
       "description": "Mapping out my spiritual world",
@@ -7955,10 +7811,6 @@
       "name": "Pequenino!",
       "description": "Tão pouco...",
       "condition": "Interaja com Chelan na sala da Cheesecake Chambers enquanto estiver usando o efeito do Rodentia eidolon"
-    },
-    "psy_brt_warehouse": {
-      "name": "Peixe Psicodélico",
-      "condition": "Ative o evento Psychedelic Warehouse no Brutalist Warehouse"
     },
     "kakkoii_lumen_resort": {
       "name": "Hmm... Eu gosto disso!",
@@ -8403,10 +8255,6 @@
         "reverenced_flower": "Reverenced Flower"
       }
     },
-    "vague_memory_menu": {
-      "name": "Em uma encruzilhada",
-      "condition": "Obtenha o tema do menu Vague Memory. Se você já o tiver desbloqueado, volte para A Long Journey."
-    },
     "planet_astronomy_world": {
       "name": "Férias Intergalácticas",
       "description": "Velocidade de dobra!",
@@ -8460,10 +8308,6 @@
       "name": "Nutritivo",
       "description": "Está com vontade de comer?",
       "condition": "Veja os ingredientes gigantes no Lush Hiltop"
-    },
-    "streetlight_rnw_crossing": {
-      "name": "Luzes brilhantes e Danças",
-      "condition": "Interaja com o semáforo ambulante em Runway Crossing"
     },
     "neon_star_hall": {
       "name": "Brilho Neon",
@@ -8972,11 +8816,6 @@
       "description": "Getting down and funky!",
       "condition": "Trigger the Critter Dance event in Candy Tile Halls"
     },
-    "soulfire_eidolon": {
-      "name": "Decayed Shackles",
-      "description": "Thy soul hath, long since decayed",
-      "condition": "Obtain the Soulfire eidolon. If you have already unlocked it, return in Sky Mausoleum."
-    },
     "sit_somewhere_commons": {
       "name": "No Hard Feelings",
       "description": ".-_-.",
@@ -9274,11 +9113,6 @@
       "name": "Bolo de Chocolate",
       "condition": "Coma 20 pedaços de bolo em Sugar Hole"
     },
-    "sewer": {
-      "name": "Lodo de Esgoto",
-      "description": "Talvez você não devesse ter bebido isso...",
-      "condition": "Veja o evento 'Blood, Pus, Rust'"
-    },
     "rotten_smile": {
       "name": "Sorriso Podre",
       "condition": "Entre nas salas do Smile e do Demon em Womb Maze"
@@ -9304,10 +9138,6 @@
       "name": "Psychedelic Visage",
       "description": "A gift from a visitor from another plane of reality",
       "condition": "Interaja com o alien em Psychedelic Town"
-    },
-    "red_eye": {
-      "name": "Olho Vermelho",
-      "condition": "Encontre o olho vermelho na parede do Apartments e faça-lo piscar"
     },
     "other_worlds": {
       "name": "Distant Melody",
@@ -9352,10 +9182,6 @@
       "description": "Veja o evento Childbirth",
       "condition": "Ative o evento Childbirth no Visceral World"
     },
-    "sugar_float_days": {
-      "name": "Sugestão de Chá",
-      "condition": "Veja o evento Sugar Float Days"
-    },
     "bar_kaibutsu": {
       "name": "Bar Kaibutsu",
       "description": "Pense rápido!",
@@ -9371,10 +9197,6 @@
       "description": "Beep boop.",
       "condition": "Visite a Metal-tan."
     },
-    "entrance": {
-      "name": "Cruzamento de um Sonho sob a Ferrugem",
-      "condition": "Veja todas as variações possíveis da entrada"
-    },
     "smile_happy": {
       "name": "Ele está muito feliz!",
       "description": "Que sorriso maravilhoso você tem.",
@@ -9388,18 +9210,6 @@
       "name": "Olá?",
       "description": "O que havia lá dentro?",
       "condition": "Interaja com a quarta porta em Deterioration Apartment"
-    },
-    "rust_menu": {
-      "name": "Enfermaria dos Doentes",
-      "condition": "Receba o tipo de menu Rust do pequena Sabitsuki no Back Ward"
-    },
-    "flower_adorned_hat": {
-      "name": "Chapéu enfeitado com flores",
-      "condition": "Encontre Flower Girl plantada em Illusionary Corridors",
-      "checkbox": {
-        "flower_girl_plant": "Plant Corridors",
-        "flower_girl_illusion": "Illusionary Corridors"
-      }
     },
     "music_cube_flow": {
       "name": "Música em Cubos",
@@ -9636,10 +9446,6 @@
       "description": "I can’t hear you, you’re breaking up- M̴̍͆e̷͛̒o̵͗͝ẅ̸́̆!",
       "condition": "Chegue nas profundezas de Glitch World"
     },
-    "sunflower": {
-      "name": "Girassol brilhante",
-      "condition": "Alcance o campo de girassóis em Forest World"
-    },
     "monochrome_nightmare": {
       "name": "Pesadelo Monocromático",
       "condition": "Complete o evento que desencadeia matando o NPC em Monochrome City"
@@ -9804,10 +9610,6 @@
       "name": "Garota do Cardume",
       "condition": "Vá pra Pastel House"
     },
-    "hell_flower": {
-      "name": "Flor do Inferno",
-      "condition": "Encontre Hellflower no Red River e interaja com ela."
-    },
     "crystalline_system": {
       "name": "Ofélia",
       "description": "O cristal fervente não consegue manter a calma",
@@ -9840,10 +9642,6 @@
     "marina_bathhouse": {
       "name": "Marina",
       "condition": "Veja Marina na Casa de Banho e pegue o dinheiro perto dos óculos"
-    },
-    "rafflesia_pin": {
-      "name": "Alfinete de Rafflesia",
-      "condition": "Entre na última sala dos apartamentos"
     },
     "anatomy_lessons": {
       "name": "Aulas de Anatomia",
@@ -10927,21 +10725,6 @@
       "name": "O Pior Ladrão DO MUNDO.",
       "condition": "Sobrecarregue o contador de \"Caught\" na Jail"
     },
-    "true_sunset": {
-      "name": "O Verdadeiro Pôr do Céu",
-      "description": "A quem irei confiar agora?",
-      "condition": "Presencie True Sunset no pôr do sol"
-    },
-    "erased_muma": {
-      "name": "Mate a Erased Muma",
-      "description": "Você ajudou Muma encontrar um fim definitvo.",
-      "condition": "Você ajudou Muma encontrar um fim definitvo."
-    },
-    "experiment_tubes": {
-      "name": "Experimento",
-      "description": "Quem são elas?",
-      "condition": "Encha todos os Test Tubes no Secret Lab"
-    },
     "sleep_paralysis_mare": {
       "name": "Mare",
       "description": "\"A paralisia do sono é um estado que, no acordar ou adormecer, a pessoa está consciente, mas incapaz de se mover ou falar.\"",
@@ -10950,16 +10733,6 @@
     "rainbow_maze": {
       "name": "Maestro dos Labirintos",
       "condition": "Chegue ao último andar no R-Maze"
-    },
-    "blossoming_view": {
-      "name": "Vista das Flores",
-      "description": "Que lindo casamento!",
-      "condition": "Encontre o Bunny Wedding no Lago Yin Yang."
-    },
-    "fake_rainbow": {
-      "name": "Arco-íris Falso",
-      "description": "Não há nenhum raio de sol perto desse arco-íris.",
-      "condition": "Interaja com uma memória falsa em Above the Clouds."
     },
     "owl_chorus": {
       "name": "O Coro da Coruja",
@@ -11200,11 +10973,6 @@
       "description": "Não importa quem você seja.",
       "condition": "Obtenha a desilusão do Imprint Amulet. Se já tiver feito isso, interaja com a criatura que o deu a você."
     },
-    "crimson_lights": {
-      "name": "Luzes Carmesim",
-      "description": "O sol se põe e sinto a luz me trair",
-      "condition": "Chegue ao Distant Red Horizon"
-    },
     "norvay_cat_shop": {
       "name": "Gato Médico",
       "condition": "Entre na Cat Shop e interaja com Norvey"
@@ -11213,10 +10981,6 @@
       "name": "Saudações com Neve",
       "description": "\"Olá?\"",
       "condition": "Visite a criatura ondulante no Snow World"
-    },
-    "colly_maid_cafe": {
-      "name": "Bem-Vindo!",
-      "condition": "Visite o Colly Maid Cafe"
     },
     "shrine_staircase_maze": {
       "name": "Santuário do Crepúsculo",
@@ -11532,28 +11296,10 @@
     }
   },
   "ultraviolet": {
-    "magicians_secret": {
-      "name": "Segredo do Mago",
-      "description": "O ritual foi concluído!",
-      "condition": "Obtenha o tema do menu hexe."
-    },
-    "stars_pastels": {
-      "name": "Estrelas e Tons Pastéis",
-      "condition": "Entre na sala móvel em Pastel Blocks world."
-    },
     "instant_gratification": {
       "name": "Gratificação Instantânea",
       "description": "Valeu a pena?",
       "condition": "Pegue e gaste a moeda ao lado da máquina de venda automática em Pastel World."
-    },
-    "uv_snipped": {
-      "name": "Recortado",
-      "description": "Está tendo um dia ruim com o cabelo?",
-      "condition": "Obtenha o efeito Short Hair em Bloody Water Dungeon."
-    },
-    "little_rabbit": {
-      "name": "Pequeno Coelho",
-      "condition": "Visite a Casa do Coelho em Pastel World."
     },
     "seasons_go": {
       "name": "Estações vão e vêm",
@@ -12197,20 +11943,6 @@
       "description": "A investigação começa!",
       "condition": "Acione a ação do efeito Detective."
     },
-    "abandoned_pool_mural": {
-      "name": "Memória Abandonada",
-      "description": "As coisas mudaram, você vê. Eles não dormem mais na praia...",
-      "condition": "Aproxime-se do mural na parede da Abandoned Swimming Pool."
-    },
-    "chair_panic": {
-      "name": "Pânico Reclinado",
-      "description": "As cadeiras o estão observando atentamente...",
-      "condition": "Equipe o efeito Fire Axe no Warehouse, fazendo com que as cadeiras fujam."
-    },
-    "willow_docks": {
-      "name": "Lago Tranquilo e os Salgueiros",
-      "condition": "Visite Docks."
-    },
     "nexus_favorites": {
       "name": "Qual é a seu Favorito?",
       "condition": "Visite todos os mundos dos sonhos acessíveis a partir do Nexus.",
@@ -12402,11 +12134,6 @@
       "description": "Um refúgio secreto entre as ondas",
       "condition": "Veja as versões dia e noite da vending machine island nos Tropics"
     },
-    "ending_1_tsushin": {
-      "name": "Chamada não Atendida",
-      "description": "\"Não posso atender o telefone agora. Por favor, deixe seu nome e número, entrarei em contato assim que possível.\"",
-      "condition": "Veja o Ending #1"
-    },
     "carousel_amusement_park": {
       "name": "Carrossel Camundongo",
       "description": "Gira gira!",
@@ -12427,11 +12154,6 @@
       "description": "Ah não, o copo quebrou!",
       "condition": "Acione a ação do efeito Maid"
     },
-    "sushi_monitor_realm": {
-      "name": "Buffet Subaquático",
-      "description": "Essa vista é tão boa, talThis view is so nice, talvez eu nunca queira acordar.",
-      "condition": "Chegue no sushi aquarium no Monitor Realm"
-    },
     "mascot_costume_effect": {
       "name": "Crise de Identidade",
       "condition": "Obtenha o efeito Mascot. Se você já o tiver desbloqueado, volte para onde ele pode ser achado no Amusement Park."
@@ -12449,11 +12171,6 @@
       "name": "Azure Bloom",
       "description": "A peaceful place for fishing~",
       "condition": "Visit Lotus Marsh"
-    },
-    "goth_doll_effects": {
-      "name": "Doll's Dress-Up",
-      "description": "Wearing pretty dresses is so fun, you might end up losing your head.",
-      "condition": "Combine the Goth Dress and Doll effects"
     },
     "rainy_islands_nini_detective": {
       "name": "Her Face",

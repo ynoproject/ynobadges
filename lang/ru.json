@@ -244,15 +244,6 @@
       "name": "Глаз пойманого",
       "condition": "Встаньте на глаз в Мире чисел."
     },
-    "bottles": {
-      "name": "Напитки для здоровья",
-      "condition": "Найдите все 3 Торговых автомата и купите в каждом из них напитки.",
-      "checkbox": {
-        "jihanki_dense_woods": "Dense Woods A",
-        "jihanki_hell": "Hell",
-        "jihanki_docks": "Docks A"
-      }
-    },
     "mado": {
       "name": "Окно",
       "condition": "Посмотрите Концовку."
@@ -698,10 +689,6 @@
       "name": "Ржавая память",
       "condition": "Поговорите с Киборгом-Оператором в Rusty Urban Complex."
     },
-    "mushroom": {
-      "name": "Переливающийся гриб",
-      "condition": "Освободите Грибную девочку из каменной тюрьмы."
-    },
     "hakoko": {
       "name": "Хакоко",
       "condition": "Поговорите с Хакоко в Eye Shop"
@@ -979,11 +966,6 @@
       "description": "Taking the right steps",
       "condition": "Войдите в комнату в конце шоссе в Spirit Capital."
     },
-    "drunk": {
-      "name": "Масута",
-      "description": "Вам не кажется, что вы малость перебрали?",
-      "condition": "Напейтесь до отключки в Подземном баре в Japan Town."
-    },
     "paradise": {
       "name": "Рай",
       "description": "Привет, кит.",
@@ -1124,11 +1106,6 @@
       "name": "Вялая улыбка",
       "condition": "Дотроньтесь с эффектом Надгробия до Теневой леди в Decrepit Village."
     },
-    "tv_room": {
-      "name": "Экран телевизора",
-      "description": "Какой канал вы сегодня будете смотреть?",
-      "condition": "Войдите в TV Room на Highway."
-    },
     "nostalgic_house": {
       "name": "Дом спящей",
       "condition": "Войдите в Nostalgic House."
@@ -1183,10 +1160,6 @@
       "name": "Сны роз",
       "condition": "Завершите событие Сна роз в Red Rock Caves."
     },
-    "rainbow_bird": {
-      "name": "Птица водопада",
-      "condition": "Используйте эффект Радуги на Lost Creek, чтобы вызвать птицу из Nocturnal Grove и взглянуть на неё."
-    },
     "paint": {
       "name": "Вихрь красок",
       "condition": "Завершите событие комнаты со скульптурой в Graveyard World."
@@ -1204,10 +1177,6 @@
     "snow": {
       "name": "Снежный шар на праздник",
       "condition": "Пройдите под структурой в Riverside Waste Facility, пока там идёт снег."
-    },
-    "streetlight_scenery": {
-      "name": "Пейзаж с фонарями",
-      "condition": "Доберитесь до конца Submerged Communications Area."
     },
     "akako": {
       "name": "Красно-белая Акако",
@@ -1498,18 +1467,6 @@
         "phone_rgb_spectral_passage": "RGB Spectral Passage"
       }
     },
-    "butterfly_passage": {
-      "name": "Трёхцветная бабочка",
-      "condition": "Побывайте в Butterfly Passage."
-    },
-    "forest_interlude": {
-      "name": "Одинокая лилия",
-      "condition": "Посетите Forest Interlude."
-    },
-    "pink_flower": {
-      "name": "Танцующий розовый цветок",
-      "condition": "Найдите розовые цветы на Rapeseed Fields."
-    },
     "banana": {
       "name": "Ооо, банан!",
       "condition": "Найдите банан, что спрятан в NES Glitch Tunnel."
@@ -1611,16 +1568,6 @@
       "name": "Лжец, лжец",
       "description": "Я знаю, Что ты такое.",
       "condition": "Выключите свет в спальне Лжеца."
-    },
-    "surimuki": {
-      "name": "Суримуки",
-      "description": "\"Меня скоблили.\"",
-      "condition": "Найдите Суримуки везде, где она появляется в мире снов (Broken Faces Area, Книга в Library, и Крыша Monochrome School).",
-      "checkbox": {
-        "surimuki_library": "Library",
-        "surimuki_broken_faces_area": "Broken Faces Area",
-        "surimuki_monochrome_school": "Monochrome School"
-      }
     },
     "helmet_girl": {
       "name": "Блести",
@@ -1747,10 +1694,6 @@
       "name": "Сольный концертный зал",
       "description": "Самый большой секрет трущоб: Безмятежная симфония.",
       "condition": "Упадите в дыру в Picture Book и доберитесь до аллеи с успокаивающей мелодией пианино."
-    },
-    "mirror_lake_patient": {
-      "name": "Пациент зеркального озера",
-      "condition": "Встретьтесь с Лавандой в Зеркальном озере Blue Cactus Islands."
     },
     "master_crow": {
       "name": "Ворон на заборе",
@@ -1906,23 +1849,6 @@
       "description": "Very quietly I take my leave, as quietly as I came here;\nQuietly I wave good-bye, to the rosy clouds in the western sky.",
       "condition": "Увидьте \"То, что приходит со спины\" в Neon City."
     },
-    "star_planetarium": {
-      "name": "Небосвод и механизмы",
-      "condition": "Просмотрите событие \"Звёздного неба\" в Planetarium."
-    },
-    "cosmic_daydream": {
-      "name": "Мечта",
-      "condition": "Войдите в Тёмную комнату в Cosmic World."
-    },
-    "lonely_garden": {
-      "name": "Забытый мад среди пустынных улиц",
-      "description": "Какой секрет скрывают в себе эти неприветливые ветренные улицы?",
-      "condition": "Доберитесь до Скрытого сада в Deserted Town."
-    },
-    "serene_waters": {
-      "name": "Безмятежные воды близь холодной кирпичной кладки",
-      "condition": "Взойдите на балкон в Mansion."
-    },
     "dancing_queen": {
       "name": "Королевский танец",
       "description": "Опускается ночь, музыка играет во всю!",
@@ -1985,11 +1911,6 @@
       "name": "Ослепляющий космос",
       "description": "Мне нравится, когда всё мерцает!",
       "condition": "Доберитесь до Cosmic World."
-    },
-    "bent_screw": {
-      "name": "Изогнутый винт",
-      "description": "Интересно, что ему довелось пережить...",
-      "condition": "Дотроньтесь до Изогнутого Винта."
     },
     "well_creature": {
       "name": "Обитатель колодца",
@@ -2104,18 +2025,10 @@
       "description": "Огни, что озаряют святилище...",
       "condition": "Доберитесь до Water Lantern World."
     },
-    "reflecting_electron": {
-      "name": "Субатомная матрица",
-      "condition": "Доберитесь до Reflecting Electron Zone."
-    },
     "aquarius_prison": {
       "name": "Submarine Specimen",
       "description": "This one doesn't seem like it originated underwater...",
       "condition": "Просмотрите событие Обитателей Электростанции на Power Plant."
-    },
-    "misty_bridges_transmission": {
-      "name": "Опоры Старого Сна",
-      "condition": "Найдите старую опору электропередач в Misty Bridges."
     },
     "lonely_refrigerator": {
       "name": "Одинокий холодильник",
@@ -2126,10 +2039,6 @@
       "name": "Ахогеко",
       "description": "Просто тихая милая девочка",
       "condition": "Войдите в Дом Ахогеко."
-    },
-    "ghostly_interiors": {
-      "name": "Интерьеры призраков",
-      "condition": "Войдите в особняк духов в Haunted Forest Town."
     },
     "lapine_forest": {
       "name": "Заячий лес",
@@ -2255,10 +2164,6 @@
       "name": "Рай Пепельных Статуй",
       "condition": "Доберитесь до Cinder Statue Heaven."
     },
-    "fossilized_haven": {
-      "name": "Каменное убежище",
-      "condition": "Войдите в пещеру со светящимися грибами в Floating Catacombs, не распугав её обитателей."
-    },
     "bread_world": {
       "name": "Лучшая вещь после Нарезного хлеба!",
       "condition": "Доберитесь до Bread World."
@@ -2360,11 +2265,6 @@
       "name": "Сырная стратегия",
       "description": "Думаешь, здесь будет какой-нибудь *сыр*н*ой* каламбур?",
       "condition": "Используйте эффект Торта/Феи, чтобы быть поймаными Сырными Пауками в Dark Cheese Hell."
-    },
-    "march_of_progress": {
-      "name": "Лик прогресса",
-      "description": "Нет человечеству, Хвала обезьянам.",
-      "condition": "Просмотрите событие Марша Прогресса."
     },
     "peaceful_pond": {
       "name": "Тихий пруд",
@@ -2718,10 +2618,6 @@
       "description": "It's you who he observes.",
       "condition": "Посмотрите на синего циклопа в Holiday Hell."
     },
-    "phonograph_galaxy": {
-      "name": "Волшебные звуки",
-      "condition": "Дотроньтесь до ведьмы-фонографа в GALAXY town."
-    },
     "port_city_maiko": {
       "name": "Почётная коллекция",
       "condition": "Используйте эффект Жрицы в комнате Кокеши в Port City."
@@ -2738,10 +2634,6 @@
         "cyclop_acerola": "Acerola World",
         "cyclop_mini_maze": "Mini-Maze"
       }
-    },
-    "party_colored": {
-      "name": "Цвета вечеринки",
-      "condition": "Дотроньтесь до играющего музыку NPC в Комнате для вечеринок в Neon Suburbs."
     },
     "pale_luminescence": {
       "name": "Бледное свечение",
@@ -4104,10 +3996,6 @@
       "name": "Dreaming Doll",
       "condition": "See the Ending #3. If you have already watched it, see it again from the Data menu of the computer."
     },
-    "glitch_ending": {
-      "name": "Corrupted Dream",
-      "condition": "See the Glitch Ending"
-    },
     "cake_shop_repentance": {
       "name": "Chocolate Cake Shop",
       "description": "She has a cake on her head...!",
@@ -4863,10 +4751,6 @@
       "name": "Treacherous Sight",
       "condition": "Попадите в Visine World из Garden of Treachery."
     },
-    "fairy_hole": {
-      "name": "Fairy's Hideout",
-      "condition": "Войдите в Пещеру феи в Snowy Forest."
-    },
     "ice_cream_galaxy_town": {
       "name": "Flavor Fest",
       "description": "So many options...",
@@ -5272,15 +5156,6 @@
       "name": "Scarlet Corridors",
       "condition": "Visit Scarlet Corridors"
     },
-    "drink_bench": {
-      "name": "Refreshing Pause",
-      "description": "The view becomes more pleasant when you combine it with the sweet taste of soda",
-      "condition": "Buy a soda from the vending machine and drink it on the bench in Forest Pier and on Travel Hotel's balcony",
-      "checkbox": {
-        "drink_forest_pier": "Forest Pier",
-        "drink_travel_hotel": "Travel Hotel's balcony"
-      }
-    },
     "antiquated_h_v_promenade": {
       "name": "Abandoned Resthouse",
       "description": "Memories of a now forgotten love",
@@ -5417,11 +5292,6 @@
       "name": "Corrupted Nexus",
       "description": "Can you call this luck?",
       "condition": "Complete the Corrupted Nexus event. If you have already seen it, return in The Nexus."
-    },
-    "hat_nexus_c_v_complete": {
-      "name": "Hat Collection",
-      "description": "Try them on and remember the time we've spent together",
-      "condition": "Complete the Hat-Nexus of the Critter Village by collecting all of the hats and equipping them all there"
     },
     "aurora_lake": {
       "name": "Fluorite Lake",
@@ -5797,10 +5667,6 @@
       "description": "Come dust collecting with us :3",
       "condition": "Visit the star storage in Whispering Palace"
     },
-    "vista_blood_rose_canal": {
-      "name": "Crimson Rose Wreath",
-      "condition": "See the vista in Blood Rose Canal"
-    },
     "blood_rose_canal": {
       "name": "Sweet Bloodied Fragrance",
       "condition": "Visit Blood Rose Canal"
@@ -5868,11 +5734,6 @@
     "swamp_azure_garden": {
       "name": "The Forbidden Swamp",
       "condition": "Visit the Forbidden Swamp area of the Azure Garden"
-    },
-    "seahorse_3d_underworld": {
-      "name": "The Phone is Ringing",
-      "description": "Will you answer it?",
-      "condition": "Find the seahorse in 3D Underworld"
     },
     "smile_blue_house_road": {
       "name": "Face in the Face",
@@ -7898,11 +7759,6 @@
       "description": "Cozy and colorful",
       "condition": "Make the creature play music in the living room of Doodles"
     },
-    "boombox_burning_building": {
-      "name": "Flaming Beats",
-      "description": "Don't get burned!",
-      "condition": "Activate the boombox in Burning Building's alcove"
-    },
     "blueprint_world_full": {
       "name": "Dream Architect",
       "description": "Mapping out my spiritual world",
@@ -7955,10 +7811,6 @@
       "name": "Little guy!",
       "description": "So very little...",
       "condition": "Interact with Chelan in the room of Cheesecake Chambers while using the effect of the Rodentia eidolon"
-    },
-    "psy_brt_warehouse": {
-      "name": "Psychedelic Fish",
-      "condition": "Trigger the Psychedelic Warehouse event in Brutalist Warehouse"
     },
     "kakkoii_lumen_resort": {
       "name": "Hmm... I Like That!",
@@ -8403,10 +8255,6 @@
         "reverenced_flower": "Reverenced Flower"
       }
     },
-    "vague_memory_menu": {
-      "name": "Standing at a Crossroad",
-      "condition": "Obtain the Vague Memory menu theme. If you have already unlocked it, return to A Long Journey."
-    },
     "planet_astronomy_world": {
       "name": "Intergalactic Vacation",
       "description": "Warp speed!",
@@ -8460,10 +8308,6 @@
       "name": "Nutritious",
       "description": "Hungry for some?",
       "condition": "View the giant ingredients in Lush Hilltop"
-    },
-    "streetlight_rnw_crossing": {
-      "name": "Bright Lights and Dances",
-      "condition": "Interact with the walking streetlight in Runway Crossing"
     },
     "neon_star_hall": {
       "name": "Neon Twinkle",
@@ -8972,11 +8816,6 @@
       "description": "Getting down and funky!",
       "condition": "Trigger the Critter Dance event in Candy Tile Halls"
     },
-    "soulfire_eidolon": {
-      "name": "Decayed Shackles",
-      "description": "Thy soul hath, long since decayed",
-      "condition": "Obtain the Soulfire eidolon. If you have already unlocked it, return in Sky Mausoleum."
-    },
     "sit_somewhere_commons": {
       "name": "No Hard Feelings",
       "description": ".-_-.",
@@ -9274,11 +9113,6 @@
       "name": "Шоколадный торт",
       "condition": "Съешьте не менее 20 кусков торта в Сахарной норе."
     },
-    "sewer": {
-      "name": "Слизь канализации",
-      "description": "Наверное, не стоило пить это...",
-      "condition": "Посмотрите событие 'Кровь, гной, ржавчина'."
-    },
     "rotten_smile": {
       "name": "Гнилая улыбка",
       "condition": "Войдите в комнату Смайла и Демона в Утробном лабиринте."
@@ -9304,10 +9138,6 @@
       "name": "Psychedelic Visage",
       "description": "A gift from a visitor from another plane of reality",
       "condition": "Дотроньтесь до пришельца в Психоделическом городе."
-    },
-    "red_eye": {
-      "name": "Красный глаз",
-      "condition": "Найдите красный глаз на стене в Квартирах и заставьте его моргнуть."
     },
     "other_worlds": {
       "name": "Distant Melody",
@@ -9352,10 +9182,6 @@
       "description": "Посмотрите событие Родов.",
       "condition": "Спровоцируйте событие Родов в Утробном мире."
     },
-    "sugar_float_days": {
-      "name": "Сладкий чай",
-      "condition": "Посмотрите событие Сахарных дней."
-    },
     "bar_kaibutsu": {
       "name": "Барный Кайбуцу",
       "description": "Быстро!",
@@ -9371,10 +9197,6 @@
       "description": "Бип буп.",
       "condition": "Посетите Метал-тян."
     },
-    "entrance": {
-      "name": "Врата во ржавые сны",
-      "condition": "Увидьте все возможные вариации Нексуса."
-    },
     "smile_happy": {
       "name": "Он так счастлив!",
       "description": "Что за прелестная улыбка у тебя.",
@@ -9388,18 +9210,6 @@
       "name": "Кто-нибудь?",
       "description": "Что здесь произошло?",
       "condition": "Дотроньтесь до 4й двери в Зоне Разложения."
-    },
-    "rust_menu": {
-      "name": "Палата Больных",
-      "condition": "Получите стиль меню Rust от маленькой Сабицуки в Дальних палатах."
-    },
-    "flower_adorned_hat": {
-      "name": "Шляпа с цветком",
-      "condition": "Встретьтесь с Цветочной Девочкой в Растительном и Иллюзорном коридорах.",
-      "checkbox": {
-        "flower_girl_plant": "Plant Corridors",
-        "flower_girl_illusion": "Illusionary Corridors"
-      }
     },
     "music_cube_flow": {
       "name": "Кубо-музыка",
@@ -9636,10 +9446,6 @@
       "description": "I can’t hear you, you’re breaking up- M̴̍͆e̷͛̒o̵͗͝ẅ̸́̆!",
       "condition": "Доберитесь до глубин Мира глюков."
     },
-    "sunflower": {
-      "name": "Блестящий подсолнух",
-      "condition": "Доберитесь до поля подсолнухов в Лесном мире."
-    },
     "monochrome_nightmare": {
       "name": "Монохромный кошмар",
       "condition": "Закончите событие, что происходит после убийства в Чёрно-белом мире."
@@ -9804,10 +9610,6 @@
       "name": "Девочка с побережья",
       "condition": "Доберитесь до Пастельного дома."
     },
-    "hell_flower": {
-      "name": "Адоцвет",
-      "condition": "Найдите Адоцвет в Красной реке и поговорите с ней."
-    },
     "crystalline_system": {
       "name": "Офелия",
       "description": "Блеск кристаллов не способствует её хладнокровию.",
@@ -9840,10 +9642,6 @@
     "marina_bathhouse": {
       "name": "Марина",
       "condition": "Найдите Марину в Купальне и подберите деньги возле очков."
-    },
-    "rafflesia_pin": {
-      "name": "Брошь с Раффлезией",
-      "condition": "Доберитесь до последней комнаты Квартир."
     },
     "anatomy_lessons": {
       "name": "Урок Анатомии",
@@ -10928,21 +10726,6 @@
       "name": "ХУДШИЙ вор.",
       "condition": "Переполните счётчик \"Поимок\" в Тюрьме."
     },
-    "true_sunset": {
-      "name": "Настоящий закат",
-      "description": "Кому мне теперь верить?",
-      "condition": "Узрите Настоящий закат."
-    },
-    "erased_muma": {
-      "name": "Убей и сотри Муму",
-      "description": "Вы помогли Муме обрести свой конец.",
-      "condition": "Вы помогли Муме обрести свой конец."
-    },
-    "experiment_tubes": {
-      "name": "Эксперимент",
-      "description": "Кто они?",
-      "condition": "Заполните все Сосуды с подопытными в Лаборатории."
-    },
     "sleep_paralysis_mare": {
       "name": "Видение",
       "description": "\"Сонный паралич - Состояние во время пробуждения или отхода ко сну, когда кто-либо находится в сознании, но не может двигаться или говорить.\"",
@@ -10951,16 +10734,6 @@
     "rainbow_maze": {
       "name": "Маэстро лабиринтов",
       "condition": "Доберитесь до последнего этажа R-Лабиринта."
-    },
-    "blossoming_view": {
-      "name": "Цветочное шествие",
-      "description": "Прекрасная свадьба!",
-      "condition": "Посмотрите на Заячью Свадьбу на Озере Инь-Ян."
-    },
-    "fake_rainbow": {
-      "name": "Фальшивая Радуга",
-      "description": "Нет никакого солнца рядом с радугой.",
-      "condition": "Дотроньтесь до Фальшивого Воспоминания где-то Над облаками."
     },
     "owl_chorus": {
       "name": "Хор Сов",
@@ -11201,11 +10974,6 @@
       "description": "Кто-бы вы ни были.",
       "condition": "Найдите то, что было Запечатано. Если вы это уже сделали, дотроньтесь снова до существа, что выдало вам это наваждение."
     },
-    "crimson_lights": {
-      "name": "Алые лучи",
-      "description": "Солнце садится. Похоже, даже Свет меня предал.",
-      "condition": "Доберитесь до Далёкого Красного Горизонта."
-    },
     "norvay_cat_shop": {
       "name": "Доктор Кот",
       "condition": "Загляните в Кошачий магазин и поговорите с Норвеем."
@@ -11214,10 +10982,6 @@
       "name": "Снежное приветствие",
       "description": "\"Привет?\"",
       "condition": "Найдите машущее существо в Снежном мире."
-    },
-    "colly_maid_cafe": {
-      "name": "Добро пожаловать!",
-      "condition": "Посетите Кафе горничных Колли."
     },
     "shrine_staircase_maze": {
       "name": "Сумеречный храм",
@@ -11533,28 +11297,10 @@
     }
   },
   "ultraviolet": {
-    "magicians_secret": {
-      "name": "Секрет волшебницы",
-      "description": "Ритуал завершён!",
-      "condition": "Получите Стиль меню Гексен."
-    },
-    "stars_pastels": {
-      "name": "Звёзды и Пастель",
-      "condition": "Войдите в постройку в Мире пастельных блоков."
-    },
     "instant_gratification": {
       "name": "Мгновенное наслаждение",
       "description": "Стоило оно того?",
       "condition": "Поднимите и сразу-же потратьте в автомате рядом монету в Пастельном мире."
-    },
-    "uv_snipped": {
-      "name": "Подрезка",
-      "description": "День плохой причёски?",
-      "condition": "Получите эффект Короткой стрижки в Подземелье кровавых вод."
-    },
-    "little_rabbit": {
-      "name": "Маленький кролик",
-      "condition": "Найдите Дом Кролика в Пастельном мире."
     },
     "seasons_go": {
       "name": "Смена сезонов",
@@ -12198,20 +11944,6 @@
       "description": "The investigation begins!",
       "condition": "Trigger the Detective effect's action"
     },
-    "abandoned_pool_mural": {
-      "name": "Abandoned Memory",
-      "description": "Things changed, you see. They don't sleep on the beach anymore...",
-      "condition": "Approach the mural on the wall in the Abandoned Swimming Pool"
-    },
-    "chair_panic": {
-      "name": "Reclined Panic",
-      "description": "Chairs are watching you carefully...",
-      "condition": "Equip the Fire Axe effect in the Warehouse, making the chairs run away"
-    },
-    "willow_docks": {
-      "name": "Tranquil Lake and the Willows",
-      "condition": "Visit the Docks"
-    },
     "nexus_favorites": {
       "name": "Which Is Your Favorite?",
       "condition": "Visit all the dream worlds accessible from the Nexus",
@@ -12403,11 +12135,6 @@
       "description": "A secret haven amidst the waves",
       "condition": "See the day and night versions of the vending machine island in Tropics"
     },
-    "ending_1_tsushin": {
-      "name": "Unanswered Call",
-      "description": "\"I'm unable to answer the phone right now. Please leave your name and number, I'll get back to you as soon as I can.\"",
-      "condition": "See the ending #1"
-    },
     "carousel_amusement_park": {
       "name": "Mouse Carousel",
       "description": "Round and round we go!",
@@ -12428,11 +12155,6 @@
       "description": "Oh no, the cup is broken!",
       "condition": "Trigger the Maid effect's action"
     },
-    "sushi_monitor_realm": {
-      "name": "Subaquatic Buffet",
-      "description": "This view is so nice, I may never want to wake up.",
-      "condition": "Reach the sushi aquarium in Monitor Realm"
-    },
     "mascot_costume_effect": {
       "name": "Identity Crisis",
       "condition": "Obtain the Mascot Costume effect. If you have already unlocked it, return where it can be found in the Amusement Park."
@@ -12450,11 +12172,6 @@
       "name": "Azure Bloom",
       "description": "A peaceful place for fishing~",
       "condition": "Visit Lotus Marsh"
-    },
-    "goth_doll_effects": {
-      "name": "Doll's Dress-Up",
-      "description": "Wearing pretty dresses is so fun, you might end up losing your head.",
-      "condition": "Combine the Goth Dress and Doll effects"
     },
     "rainy_islands_nini_detective": {
       "name": "Her Face",
