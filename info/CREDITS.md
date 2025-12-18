@@ -63,7 +63,6 @@
 * BSL
 * Bunia
 * BunnyBoi
-* bWF5
 * Carbonara
 * catling
 * Catmat
