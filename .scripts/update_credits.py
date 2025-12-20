@@ -27,6 +27,42 @@ def git_changed_files() -> List[Path]:
     return [Path(p.strip()) for p in out if p.strip()]
 
 
+def git_deleted_files() -> List[Path]:
+    """
+    list all deleted JSON files in the last commit.
+    """
+    try:
+        cmd = ["git", "diff", "--name-only", "--diff-filter=D", "HEAD~1..HEAD"]
+        out = subprocess.check_output(
+            cmd, text=True, stderr=subprocess.DEVNULL).splitlines()
+        deleted = []
+        for p in out:
+            p = p.strip()
+            if not p:
+                continue
+            path = Path(p)
+            if path.suffix.lower() == ".json" and "badges" in path.parts:
+                deleted.append(path)
+
+        return deleted
+    except subprocess.CalledProcessError as e:
+        print(f"[DEBUG] git_deleted_files error: {e}")
+        return []
+
+
+def read_json_from_git(path: Path, ref: str = "HEAD~1"):
+    """
+    read a JSON file from git history and return a dictionary.
+    """
+    try:
+        cmd = ["git", "show", f"{ref}:{path}"]
+        content = subprocess.check_output(cmd, text=True)
+        return json.loads(content)
+    except Exception as e:
+        print(f"Error reading {path} from git: {e}")
+        return None
+
+
 def iter_json_files() -> Iterable[Path]:
     """
     Iterate over all JSON files in the badges directory.
@@ -179,7 +215,32 @@ def main() -> int:
         for n in found:
             new_names.add(n)
 
-    all_names = existing_names | new_names
+    # Handle deleted files
+    names_to_remove: Set[str] = set()
+    if ONLY_CHANGED_JSON:
+        deleted_files = git_deleted_files()
+        print(f"Deleted files detected: {len(deleted_files)}")
+        for df in deleted_files:
+            print(f"  - {df}")
+
+        if deleted_files:
+            # Scan all JSON files to find names that should be removed
+            all_current_names: Set[str] = set()
+            for path in JSON_ROOT.glob(JSON_GLOB):
+                obj = read_json(path)
+                if obj is not None:
+                    all_current_names |= find_author_names(obj)
+
+            names_to_remove = existing_names - all_current_names
+            if names_to_remove:
+                print(f"Removing: {', '.join(sorted(names_to_remove))}")
+
+        all_names = (existing_names | new_names) - names_to_remove
+        names_to_add = new_names - existing_names
+        if names_to_add:
+            print(f"Adding: {', '.join(sorted(names_to_add))}")
+    else:
+        all_names = new_names
 
     def _sort_key(name: str) -> tuple:
         name_lower = name.lower().strip()

@@ -10,6 +10,7 @@ on:
 jobs:
   update-credits:
     runs-on: ubuntu-latest
+    if: github.event.repository.fork == false
     permissions:
       contents: write
     steps:
