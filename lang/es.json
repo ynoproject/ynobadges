@@ -7742,6 +7742,58 @@
       "name": "Festivity",
       "description": "Happy holidays!",
       "condition": "Visit Festive Archipelago"
+    },
+    "swamp_of_remembrance": {
+      "name": "A Place That Dreamed You Back",
+      "description": "\"Tsuioku.\"",
+      "condition": "Visit Swamp of Remembrance"
+    },
+    "blood_challenge": {
+      "name": "Blood, Arteries n' Veins",
+      "description": "The bloodshed spilled only forms into their own dreams, leaving our blood queen to traverse through its patterns.",
+      "condition": "Visit the following blood related worlds: Blood Chalice Desolation, Blood Rose Canal, Blood Chamber, Flesh World, Tartaric Abyss, Hall of Flesh, Bleeding Mushroom Garden, Carnivorous Pit, Blood World, Blood Red House",
+      "checkbox": {
+        "blood_chalice_desolation": "Blood Chalice Desolation",
+        "blood_rose_canal": "Blood Rose Canal",
+        "blood_chamber": "Blood Chamber",
+        "flesh_world": "Flesh World",
+        "tartaric_abyss": "Tartaric Abyss",
+        "hall_of_flesh": "Hall of Flesh",
+        "bleeding_mush_grd": "Bleeding Mushroom Garden",
+        "carnivorous_pit": "Carnivorous Pit",
+        "blood_world": "Blood World",
+        "blood_red_house": "Blood Red House"
+      }
+    },
+    "valentine_mail": {
+      "name": "Decorated Mail for You",
+      "description": "Will you accept my feelings?",
+      "condition": "Visit Valentine Mail"
+    },
+    "glasses_effect": {
+      "name": "Esoteric Optics",
+      "description": "What enigmas await beyond these lenses?",
+      "condition": "Obtain the Glasses effect. If you have already unlocked it, return where it can be found in the Dark Museum."
+    },
+    "tower_moonlight_lantern_forest": {
+      "name": "Look At This Tower!",
+      "description": "So tall...",
+      "condition": "See the cell tower in Moonlight Lantern Forest"
+    },
+    "2kki_menu_101": {
+      "name": "Blooms in Hope",
+      "description": "The light blooms from nature itself",
+      "condition": "Obtain the menu type 101. If you have already unlocked it, return where it can be found in Calico Forest."
+    },
+    "vision_satellite_space_way": {
+      "name": "A Familiar Dreamer?",
+      "description": "The return of a lost girl.",
+      "condition": "Trigger the Vision event in Satellite Space-way"
+    },
+    "chaser_angel_palace": {
+      "name": "Judgement of the Angel",
+      "description": "When mercy ends, judgement descends.",
+      "condition": "Get caught by the angels in Angel Palace"
     }
   },
   "unconscious": {
@@ -9416,6 +9468,11 @@
       "name": "Velo Oxidado",
       "description": "Un fantasma que decide quedarse en su mundo electrónico.",
       "condition": "Obtén el Efecto Fantasma. Si ya lo has desbloqueado, regresa a donde puede ser encontrado en Flower World."
+    },
+    "mono_eye_effect": {
+      "name": "Prolonged Eye Contact",
+      "description": "Sabitsuki just wants to make you feel comfortable!",
+      "condition": "Obtain the Mono Eye effect. If you have already unlocked it, return to Dysmorphic World."
     }
   },
   "prayers": {
@@ -9774,6 +9831,10 @@
       "name": "Hidden Oceanus",
       "description": "The vibes reminded of the childhood I had",
       "condition": "Visit River"
+    },
+    "dd_ending_2": {
+      "name": "Together, Beyond the Door",
+      "condition": "See the Ending #2"
     }
   },
   "someday": {
@@ -9971,6 +10032,10 @@
       "name": "Symbols of New Luck",
       "description": "Lucky year for everyone!",
       "condition": "Reach the end of Hatsuyume"
+    },
+    "someday_glitch_ending": {
+      "name": "Open Which Entry?",
+      "condition": "See the Glitch Ending"
     }
   },
   "unevendream": {
@@ -10362,6 +10427,11 @@
       "name": "A Girl Like a Flower",
       "description": "Where flowers bloom, she blooms too.",
       "condition": "Interact with Anesi while using the Sunflower effect in Plant Laboratory"
+    },
+    "starlight_bistro": {
+      "name": "Sparkling Wine",
+      "description": "For a sparkling night",
+      "condition": "Visit Starlight Bistro"
     }
   },
   "braingirl": {
@@ -11084,6 +11154,11 @@
       "name": "Welcome to the Hell",
       "description": "The body falters, crimson dreams unfold, and the bones veiled in skin yield to chaos.",
       "condition": "See the two variants of the Model Store"
+    },
+    "girl_streetlights_corner": {
+      "name": "Peace Out",
+      "description": "When you want no interaction.",
+      "condition": "Interact with the girl in Streetlights Corner"
     }
   },
   "mikan": {
@@ -11295,6 +11370,11 @@
       "name": "I'll Never Get Out, I'm Trapped.",
       "description": "\"Trapped in a box, my life becomes void, and all I thought for myself is now destroyed.\"",
       "condition": "Obtain the Case effect. If you have already unlocked it, return where it can be found in Abandoned Rooftop."
+    },
+    "down_jacket_effect": {
+      "name": "Snow in the Past",
+      "description": "Wearing this jacket make you remember the coldness in your childhood",
+      "condition": "Obtain the Down Jacket effect. If you have already unlocked it, return to Mannequin Street."
     }
   },
   "ultraviolet": {
@@ -12486,6 +12566,11 @@
       "name": "Dreams in Motion",
       "description": "And the gears within my mind begin to turn!",
       "condition": "Obtain the Gears effect. If you have already unlocked it, return to Fenced Meadow."
+    },
+    "curtain_effect": {
+      "name": "Hello from Beneath the Curtain!",
+      "description": "What's my next outfit?",
+      "condition": "Obtain the Curtain effect. If you have already unlocked it, return where it can be found in Fashion Market."
     }
   },
   "oneshot": {
