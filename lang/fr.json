@@ -5687,11 +5687,6 @@
       "description": "Quelle vue magninifique...",
       "condition": "Atteindre le Pillier du Repos aux Amoeba Woods"
     },
-    "statue_tov": {
-      "name": "Géant en larmes",
-      "description": "Piégé dans les profondeurs, ses laments font écho au loin, là où l'eau se reflète...",
-      "condition": "Voir la statue en larmes au Fond de la Mer de la Tomb of Velleities"
-    },
     "dream_pool_entrance": {
       "name": "Arrivées d'eaux percées",
       "description": "Une excellente entrée pour la frontière des ténèbres, noignée dans les profondeurs...",
@@ -7747,6 +7742,58 @@
       "name": "Festivités hivernales",
       "description": "Joyeuses fêtes !",
       "condition": "Visiter le Festive Archipelago"
+    },
+    "swamp_of_remembrance": {
+      "name": "Un lieu rêvant de toi",
+      "description": "« Tsuioku. »",
+      "condition": "Visiter le Swamp of Remembrance"
+    },
+    "blood_challenge": {
+      "name": "Sang, artères et veines",
+      "description": "L'effusion de sang coulant ne se forme que dans ses propres rêves, laissant notre reine sanguine traverser ces motifs.",
+      "condition": "Visiter les mondes liés au sang suivants : Blood Chalice Desolation, Blood Rose Canal, Blood Chamber, Flesh World, Tartaric Abyss, Hall of Flesh, Bleeding Mushroom Garden, Carnivorous Pit, Blood World, Blood Red House",
+      "checkbox": {
+        "blood_chalice_desolation": "Blood Chalice Desolation",
+        "blood_rose_canal": "Blood Rose Canal",
+        "blood_chamber": "Blood Chamber",
+        "flesh_world": "Flesh World",
+        "tartaric_abyss": "Tartaric Abyss",
+        "hall_of_flesh": "Hall of Flesh",
+        "bleeding_mush_grd": "Bleeding Mushroom Garden",
+        "carnivorous_pit": "Carnivorous Pit",
+        "blood_world": "Blood World",
+        "blood_red_house": "Blood Red House"
+      }
+    },
+    "valentine_mail": {
+      "name": "Une lettre rien que pour toi~ ♥",
+      "description": "Accepteras-tu mes sentiments ?",
+      "condition": "Visiter le Valentine Mail"
+    },
+    "glasses_effect": {
+      "name": "Optiques isotériques",
+      "description": "Quelles visions étranges vous attendent derrière ces verres ?",
+      "condition": "Obtenir l'effet Lunettes. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Dark Museum."
+    },
+    "tower_moonlight_lantern_forest": {
+      "name": "Wouah, regarde ce pylône !",
+      "description": "Il est tellement grand...",
+      "condition": "Voir le pylône électrique à la Moonlight Lantern Forest"
+    },
+    "2kki_menu_101": {
+      "name": "Florissant d'espoir",
+      "description": "La lumière fleurit de la nature elle-même",
+      "condition": "Obtenir le style de menu 101. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à la Calico Forest."
+    },
+    "vision_satellite_space_way": {
+      "name": "Rêveuse et déjà vu",
+      "description": "Le retour d'une fille perdue aux airs familiers.",
+      "condition": "Déclencher l'événement de la Vision au Satellite Space-way"
+    },
+    "chaser_angel_palace": {
+      "name": "Jugement angélique",
+      "description": "Lorsque la pitié disparaît, le jugement tombe.",
+      "condition": "Se faire attraper par les anges à l'Angel Palace"
     }
   },
   "unconscious": {
@@ -9421,6 +9468,11 @@
       "name": "Voile rouillé",
       "description": "Un fantôme préférant rester dans son monde électronique.",
       "condition": "Obtenir l'effet Fantôme. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Flower World."
+    },
+    "mono_eye_effect": {
+      "name": "Contact visuel prolongé",
+      "description": "Sabitsuki souhaite juste que tu sois à tes aises !",
+      "condition": "Obtenir l'effet Mono-œil. Si vous l'avez déjà obtenu, retournez au Dysmorphic World."
     }
   },
   "prayers": {
@@ -9779,6 +9831,10 @@
       "name": "Court d'eau caché",
       "description": "L'atmosphère de ce lieu me rappelle la douce enfance que j'ai eue...",
       "condition": "Visiter la River"
+    },
+    "dd_ending_2": {
+      "name": "Ensemble, derrière la porte",
+      "condition": "Voir la fin #2"
     }
   },
   "someday": {
@@ -9976,6 +10032,10 @@
       "name": "Symboles de la nouvelle chance",
       "description": "Passez une bonne nouvelle année, placée sous le signe de la chance !",
       "condition": "Atteindre la fin d'Hatsuyume"
+    },
+    "someday_glitch_ending": {
+      "name": "Ouvrir quelle entrée ?",
+      "condition": "Voir la fin buguée"
     }
   },
   "unevendream": {
@@ -10367,6 +10427,11 @@
       "name": "Telle fille, telle fleur",
       "description": "Là où les fleurs fleurissent, elle fleurit aussi.",
       "condition": "Interagir avec Anesi en utilisant l'effet Tournesol au Plant Laboratory"
+    },
+    "starlight_bistro": {
+      "name": "Vin pétillant",
+      "description": "Pour une nuit remplie de bulles",
+      "condition": "Visiter le Starlight Bistro"
     }
   },
   "braingirl": {
@@ -11089,6 +11154,11 @@
       "name": "Bienvenue en ENFER",
       "description": "Le corps s'affaiblit, des rêves de couleur écarlate se déroulent, et les os, autrefois recouverts de peau, cèdent place au chaos.",
       "condition": "Voir les deux versions du Model Store"
+    },
+    "girl_streetlights_corner": {
+      "name": "« Ciao ! »",
+      "description": "Une réaction typique lorsque l'on ne souhaite pas avoir la moindre interaction.",
+      "condition": "Interagir avec la fille au Streetlights Corner"
     }
   },
   "mikan": {
@@ -11300,6 +11370,11 @@
       "name": "Je vais jamais m'en sortir, j'suis piégé.",
       "description": "« Piégé dans une boîte, ma vie ne devient que vide, et tout ce que je pensais sur moi-même est détruit. »",
       "condition": "Obtenir l'effet Boîte. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à l'Abandoned Rooftop."
+    },
+    "down_jacket_effect": {
+      "name": "Neige d'antan",
+      "description": "Porter cette doudoune te rappellera le froid de ton enfance",
+      "condition": "Obtenir l'effet Doudoune. Si vous l'avez déjà obtenu, retournez à la Mannequin Street."
     }
   },
   "ultraviolet": {
@@ -12505,6 +12580,11 @@
       "name": "Rêves en mouvement",
       "description": "Et les rouages dans mon esprit commencèrent à tourner !",
       "condition": "Obtenir l'effet Rouages. Si vous l'avez déjà obtenu, retournez au Fenced Meadow."
+    },
+    "curtain_effect": {
+      "name": "Bonjour depuis l'autre côté des rideaux !",
+      "description": "Hmmm, qu'est-ce que je pourrais mettre comme prochaine tenue...",
+      "condition": "Obtenir l'effet Rideaux. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Fashion Market."
     }
   },
   "oneshot": {

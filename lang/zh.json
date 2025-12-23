@@ -5698,11 +5698,6 @@
       "description": "如此美景……",
       "condition": "抵达Amoeba Woods的Pillar of Rest"
     },
-    "statue_tov": {
-      "name": "巨像落泪",
-      "description": "被困在渊底的他的哭声回响在远方，在海水中回荡……",
-      "condition": "在Tomb of Velleities的海床上看到哭泣的雕像"
-    },
     "dream_pool_entrance": {
       "name": "爆发水管",
       "description": "通向黑暗前线的入口，沉溺深渊的起点……",
@@ -7763,6 +7758,58 @@
       "name": "庆祝活动",
       "description": "节日快乐！",
       "condition": "抵达Festive Archipelago"
+    },
+    "swamp_of_remembrance": {
+      "name": "A Place That Dreamed You Back",
+      "description": "\"Tsuioku.\"",
+      "condition": "Visit Swamp of Remembrance"
+    },
+    "blood_challenge": {
+      "name": "Blood, Arteries n' Veins",
+      "description": "The bloodshed spilled only forms into their own dreams, leaving our blood queen to traverse through its patterns.",
+      "condition": "Visit the following blood related worlds: Blood Chalice Desolation, Blood Rose Canal, Blood Chamber, Flesh World, Tartaric Abyss, Hall of Flesh, Bleeding Mushroom Garden, Carnivorous Pit, Blood World, Blood Red House",
+      "checkbox": {
+        "blood_chalice_desolation": "Blood Chalice Desolation",
+        "blood_rose_canal": "Blood Rose Canal",
+        "blood_chamber": "Blood Chamber",
+        "flesh_world": "Flesh World",
+        "tartaric_abyss": "Tartaric Abyss",
+        "hall_of_flesh": "Hall of Flesh",
+        "bleeding_mush_grd": "Bleeding Mushroom Garden",
+        "carnivorous_pit": "Carnivorous Pit",
+        "blood_world": "Blood World",
+        "blood_red_house": "Blood Red House"
+      }
+    },
+    "valentine_mail": {
+      "name": "Decorated Mail for You",
+      "description": "Will you accept my feelings?",
+      "condition": "Visit Valentine Mail"
+    },
+    "glasses_effect": {
+      "name": "Esoteric Optics",
+      "description": "What enigmas await beyond these lenses?",
+      "condition": "Obtain the Glasses effect. If you have already unlocked it, return where it can be found in the Dark Museum."
+    },
+    "tower_moonlight_lantern_forest": {
+      "name": "Look At This Tower!",
+      "description": "So tall...",
+      "condition": "See the cell tower in Moonlight Lantern Forest"
+    },
+    "2kki_menu_101": {
+      "name": "Blooms in Hope",
+      "description": "The light blooms from nature itself",
+      "condition": "Obtain the menu type 101. If you have already unlocked it, return where it can be found in Calico Forest."
+    },
+    "vision_satellite_space_way": {
+      "name": "A Familiar Dreamer?",
+      "description": "The return of a lost girl.",
+      "condition": "Trigger the Vision event in Satellite Space-way"
+    },
+    "chaser_angel_palace": {
+      "name": "Judgement of the Angel",
+      "description": "When mercy ends, judgement descends.",
+      "condition": "Get caught by the angels in Angel Palace"
     }
   },
   "unconscious": {
@@ -9437,6 +9484,11 @@
       "name": "Rusted Veil",
       "description": "A ghost who choses to stay in her electronic world.",
       "condition": "Obtain the Ghost effect. If you have already unlocked it, return where it can be found in Flower World."
+    },
+    "mono_eye_effect": {
+      "name": "Prolonged Eye Contact",
+      "description": "Sabitsuki just wants to make you feel comfortable!",
+      "condition": "Obtain the Mono Eye effect. If you have already unlocked it, return to Dysmorphic World."
     }
   },
   "prayers": {
@@ -9795,6 +9847,10 @@
       "name": "隐秘海洋",
       "description": "这里的氛围让我想起自己的童年",
       "condition": "抵达River"
+    },
+    "dd_ending_2": {
+      "name": "Together, Beyond the Door",
+      "condition": "See the Ending #2"
     }
   },
   "someday": {
@@ -9992,6 +10048,10 @@
       "name": "初梦吉兆",
       "description": "祝大家新年快乐！",
       "condition": "抵达Hatsuyume的终点"
+    },
+    "someday_glitch_ending": {
+      "name": "Open Which Entry?",
+      "condition": "See the Glitch Ending"
     }
   },
   "unevendream": {
@@ -10383,6 +10443,11 @@
       "name": "笑靥如花",
       "description": "花儿开，她也咲。",
       "condition": "在Plant Laboratory使用向日葵效果与Anesi互动"
+    },
+    "starlight_bistro": {
+      "name": "Sparkling Wine",
+      "description": "For a sparkling night",
+      "condition": "Visit Starlight Bistro"
     }
   },
   "braingirl": {
@@ -11105,6 +11170,11 @@
       "name": "欢迎来到地狱",
       "description": "肉体衰退，绯色的梦境展开，皮肤下的骨骼屈服于混沌。",
       "condition": "看到Model Store的两种变体"
+    },
+    "girl_streetlights_corner": {
+      "name": "Peace Out",
+      "description": "When you want no interaction.",
+      "condition": "Interact with the girl in Streetlights Corner"
     }
   },
   "mikan": {
@@ -11316,6 +11386,11 @@
       "name": "我被困住了，永远也出不来了。",
       "description": "\"被困在箱子里之后，我的生活变得虚无，我只能想到我完蛋了。\"",
       "condition": "获得效果Case。若已解锁，请返回Abandoned Rooftop获得该效果处。"
+    },
+    "down_jacket_effect": {
+      "name": "Snow in the Past",
+      "description": "Wearing this jacket make you remember the coldness in your childhood",
+      "condition": "Obtain the Down Jacket effect. If you have already unlocked it, return to Mannequin Street."
     }
   },
   "ultraviolet": {
@@ -12521,6 +12596,11 @@
       "name": "机动梦境",
       "description": "脑海中的齿轮开始旋转！",
       "condition": "获得效果Gears。若已解锁，请返回Fenced Meadow。"
+    },
+    "curtain_effect": {
+      "name": "Hello from Beneath the Curtain!",
+      "description": "What's my next outfit?",
+      "condition": "Obtain the Curtain effect. If you have already unlocked it, return where it can be found in Fashion Market."
     }
   },
   "oneshot": {
