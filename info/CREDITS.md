@@ -27,6 +27,7 @@
 * <°(((<
 * A Jar Full of Loaves of Bread
 * AcceleratingWind
+* AduriteStar
 * akalog
 * Akiro
 * Akxzii
@@ -199,7 +200,6 @@
 * moodeity
 * moolk
 * Moomoomoofy
-* MorrySonando
 * Moth
 * mothtam
 * Moucky2333
