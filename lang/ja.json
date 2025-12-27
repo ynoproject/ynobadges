@@ -483,11 +483,6 @@
       "name": "浮き上がる音符",
       "condition": "ふえのエフェクトを入手する、すでに入手している場合は笛のエントランスにもう一度行く。"
     },
-    "midget_effect": {
-      "name": "ミニミニ大行進！",
-      "description": "われらはひとり！われらはたくさん！",
-      "condition": "こびとのエフェクトを入手する、すでに入手している場合は蝋燭の世界にもう一度行く。"
-    },
     "witch_effect": {
       "name": "ゆめうぃっち",
       "description": "すばらしい、箒を持った女の子！（注：結果は期待外れの可能性があります。ご不満であれば、自転車をご検討ください。）",
@@ -513,16 +508,6 @@
         "staircase_hands_3": "雪の世界",
         "staircase_hands_4": "蝋燭の世界",
         "staircase_hands_5": "ベッドとタンス部屋"
-      }
-    },
-    "hair_effects": {
-      "name": "髪型が決まらない",
-      "description": "四種類もあるのに１つしか選べないなんて！",
-      "condition": "ロングヘアー、ブロンド、ウンコヘアーのエフェクトを入手する、すでに入手している場合はそれらを見つけた場所にもう一度行く。",
-      "checkbox": {
-        "long_hair_effect": "ロングヘアー",
-        "blonde_hair_effect": "ブロンド",
-        "poo_hair_effect": "ウンコヘアー"
       }
     },
     "big_red_sewers": {
@@ -1060,11 +1045,6 @@
       "name": "氾濫する夢",
       "description": "\"失われた夢の音が、淀んだ空気の中でもまだ生きている。それは・・・控えめに言っても、窒息しそうな音色だ\"",
       "condition": "水没に到達する"
-    },
-    "crocodile_dog": {
-      "name": "ワニ犬パーティーだ！！",
-      "description": "ワニ犬って最高にかわいいと思わない？",
-      "condition": "ワニ犬フィーバー！を見る"
     },
     "celestial": {
       "name": "星宮",
@@ -9365,11 +9345,6 @@
       "description": "理解を超えた恐怖の中にあるリズム",
       "condition": "ヘッドフォンのエフェクトを入手する、すでに入手している場合は音楽にもう一度行く。"
     },
-    "kaibutsu_blood_maze": {
-      "name": "ゴッドスピード・ユー!・シンソク・カイブツ",
-      "description": "エナドリ飲みすぎたのかな……",
-      "condition": "血液広間で神速のカイブツに捕まる"
-    },
     "plant_action_flow": {
       "name": "花の肺",
       "description": "はぁ。",
@@ -9379,15 +9354,6 @@
       "name": "どろどろの相棒",
       "description": "うれしそうな　スライムが　あらわれた！",
       "condition": "アパートにいるオレンジ色の生物に話しかける"
-    },
-    "guillotine_prison": {
-      "name": "罪責と処刑",
-      "description": "ここに入る者は、すべての希望を捨てよ。",
-      "condition": "水牢にあるギロチンを調べて地獄に行く"
-    },
-    "whistle_effect_flow": {
-      "name": "錆びた審判",
-      "condition": "ホイッスルのエフェクトを入手する、すでに入手している場合は体内の見つけた場所に行く。"
     },
     "viscera_effect": {
       "name": "腹を割って",
@@ -11349,11 +11315,6 @@
     "tabe_gold": {
       "name": "２０２カラットフルーツ",
       "condition": "TA_BE_で2000点を取る"
-    },
-    "tv_dark_sewers": {
-      "name": "\"それ\"は見ている",
-      "description": "\"それ\"は……私を裁いているのだろうか？",
-      "condition": "Dark Sewersのテレビを点ける"
     },
     "cursed_room_migraine_hallways": {
       "name": "呪われた部屋",
