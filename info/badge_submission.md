@@ -28,7 +28,7 @@ Before submitting a badge, please consider the following points:
     - Status of a switch (tracking several switches at once as part of a single trigger may be unreliable)
     - Status of a variable (tracking several variables at once as part of a single trigger may be unreliable)
     - Previous map
-    - Display of a specific picture on-screen (may not be trackable if the game calls the picture as part of preloading, which is sometimes done in Collective Unconscious)
+    - Display of a specific picture on-screen (may not be trackable if the game calls the picture as part of preloading, which is sometimes done in Yume 2kki)
     - Interaction with an event (e.g. NPC; not trackable if interacting doesn't do anything)
     - Collision with an event (e.g. NPC; not trackable if colliding doesn't do anything)
 
@@ -41,22 +41,13 @@ Anything else that was not mentioned as part of these triggers is untrackable. A
 
 ## Author Clauses
 
-Some authors added clauses for submitting badges for their content. As such, please keep that in mind when submitting a badge.
+Authors can add clauses for submitting badges for their content. None exist at the moment for the games on the site, but this section could be updated if requested.
 
 
 ### General
 
 - Areas that are planned to be removed, heavily reworked, or implied to be a work-in-progress area in a game are closed too, due to being planned to stay only for a small amount of time or due to having to change completely the condition, art or internal trigger later.
 
-
-### Collective Unconscious
-
-- Badges made for rollaby, witblos or Claemon worlds require the approval of their author to be reserved and implemented (you can find who made a world by checking the author category of a world on the [wiki](https://yume.wiki/Main_Page)).
-- Badges for the world Reverenced Flower and for the Sign Passage of Crystal Access cannot be reserved due to being planned to be reworked later at some point.
-- Badges tied to the worlds Gummy Graveyard and Agoraphobia cannot be reserved per developer's request.
-- Badges tied to getting a specific number of book covers, tracks or eidola is currently not possible due to the game being a bit too early for that which would make them be outdated quickly (in addition to tracks not having a track number tracked).
-
-Other clauses can be added if requested by their developer, granted that the clause is possible to implement without being a logistic nightmare.
 
 ## Submission Fields
 
