@@ -251,7 +251,6 @@
 * ribon996
 * Riqo
 * rollaby
-* Roninnozlo
 * rooliette
 * Rooy
 * rosaregard
