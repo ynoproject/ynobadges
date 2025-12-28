@@ -147,7 +147,6 @@
 * Kazecita
 * Kekwet
 * klayfruit
-* ko-4
 * Kofu
 * Koishi Komeiji
 * kolteel
