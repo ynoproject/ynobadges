@@ -7510,14 +7510,14 @@
       "condition": "抵达Festive Archipelago"
     },
     "swamp_of_remembrance": {
-      "name": "A Place That Dreamed You Back",
-      "description": "\"Tsuioku.\"",
-      "condition": "Visit Swamp of Remembrance"
+      "name": "梦回之处",
+      "description": "\"追忆。\"",
+      "condition": "抵达Swamp of Remembrance"
     },
     "blood_challenge": {
-      "name": "Blood, Arteries n' Veins",
-      "description": "The bloodshed spilled only forms into their own dreams, leaving our blood queen to traverse through its patterns.",
-      "condition": "Visit the following blood related worlds: Blood Chalice Desolation, Blood Rose Canal, Blood Chamber, Flesh World, Tartaric Abyss, Hall of Flesh, Bleeding Mushroom Garden, Carnivorous Pit, Blood World, Blood Red House",
+      "name": "血液、动脉与静脉",
+      "description": "血液的流淌只是形成了它们自己的梦境，让我们的血之女王在其中穿行。",
+      "condition": "抵达以下血液相关世界：Blood Chalice Desolation、Blood Rose Canal、Blood Chamber、Flesh World、Tartaric Abyss、Hall of Flesh、Bleeding Mushroom Garden、Carnivorous Pit、Blood World、Blood Red House",
       "checkbox": {
         "blood_chalice_desolation": "Blood Chalice Desolation",
         "blood_rose_canal": "Blood Rose Canal",
@@ -7532,34 +7532,34 @@
       }
     },
     "valentine_mail": {
-      "name": "Decorated Mail for You",
-      "description": "Will you accept my feelings?",
-      "condition": "Visit Valentine Mail"
+      "name": "为你装饰的信件",
+      "description": "你会接受我的告白吗？",
+      "condition": "抵达Valentine Mail"
     },
     "glasses_effect": {
-      "name": "Esoteric Optics",
-      "description": "What enigmas await beyond these lenses?",
-      "condition": "Obtain the Glasses effect. If you have already unlocked it, return where it can be found in the Dark Museum."
+      "name": "神秘视界",
+      "description": "到底有什么谜团等待着这对镜片？",
+      "condition": "获得眼镜效果。若已解锁，请返回Dark Museum获得该效果处。"
     },
     "tower_moonlight_lantern_forest": {
-      "name": "Look At This Tower!",
-      "description": "So tall...",
-      "condition": "See the cell tower in Moonlight Lantern Forest"
+      "name": "看看这座塔！",
+      "description": "好高……",
+      "condition": "仰望Moonlight Lantern Forest的信号塔"
     },
     "2kki_menu_101": {
-      "name": "Blooms in Hope",
-      "description": "The light blooms from nature itself",
-      "condition": "Obtain the menu type 101. If you have already unlocked it, return where it can be found in Calico Forest."
+      "name": "在希望中盛开",
+      "description": "自然盛开的光芒",
+      "condition": "获得菜单样式101。若已解锁，请返回Calico Forest获得该菜单处。"
     },
     "vision_satellite_space_way": {
-      "name": "A Familiar Dreamer?",
-      "description": "The return of a lost girl.",
-      "condition": "Trigger the Vision event in Satellite Space-way"
+      "name": "熟悉的梦中人？",
+      "description": "迷失少女的回归。",
+      "condition": "见证Satellite Space-way的事件Vision"
     },
     "chaser_angel_palace": {
-      "name": "Judgement of the Angel",
-      "description": "When mercy ends, judgement descends.",
-      "condition": "Get caught by the angels in Angel Palace"
+      "name": "天使的审判",
+      "description": "怜悯结束之时即是审判降临之时。",
+      "condition": "被Angel Palace的天使抓到"
     }
   },
   "flow": {
@@ -7841,14 +7841,14 @@
       "condition": "在Famicom World的井中被Kaibutsu抓住"
     },
     "ghost_effect": {
-      "name": "Rusted Veil",
-      "description": "A ghost who choses to stay in her electronic world.",
-      "condition": "Obtain the Ghost effect. If you have already unlocked it, return where it can be found in Flower World."
+      "name": "锈色面纱",
+      "description": "选择待在自己的电子世界中的亡灵。",
+      "condition": "获得幽灵效果。若已解锁，请返回Flower World中获得该效果处。"
     },
     "mono_eye_effect": {
-      "name": "Prolonged Eye Contact",
-      "description": "Sabitsuki just wants to make you feel comfortable!",
-      "condition": "Obtain the Mono Eye effect. If you have already unlocked it, return to Dysmorphic World."
+      "name": "延长的目光接触",
+      "description": "附锈子只是想让你舒服起来！",
+      "condition": "获得单眼效果。若已解锁，请返回Dysmorphic World。"
     }
   },
   "prayers": {
@@ -8184,8 +8184,8 @@
       "condition": "抵达River"
     },
     "dd_ending_2": {
-      "name": "Together, Beyond the Door",
-      "condition": "See the Ending #2"
+      "name": "我们一起，打开那扇门",
+      "condition": "见证结局#2"
     }
   },
   "someday": {
@@ -8293,8 +8293,8 @@
       "condition": "抵达Hatsuyume的终点"
     },
     "someday_glitch_ending": {
-      "name": "Open Which Entry?",
-      "condition": "See the Glitch Ending"
+      "name": "打开哪一页？",
+      "condition": "见证故障结局"
     }
   },
   "unevendream": {
@@ -8653,9 +8653,9 @@
       "condition": "在Plant Laboratory使用向日葵效果与Anesi互动"
     },
     "starlight_bistro": {
-      "name": "Sparkling Wine",
-      "description": "For a sparkling night",
-      "condition": "Visit Starlight Bistro"
+      "name": "闪耀红酒",
+      "description": "为了闪耀之夜",
+      "condition": "抵达Starlight Bistro"
     }
   },
   "braingirl": {
@@ -8767,9 +8767,9 @@
       "condition": "抵达Tanuki Woods温泉的观景区"
     },
     "turnip_psychedelic_farm": {
-      "name": "Manic Turnip",
-      "description": "Eat your greens.",
-      "condition": "Find the turnip with a face in Psychedelic Farm"
+      "name": "狂躁芜菁",
+      "description": "吃掉你的蔬菜。",
+      "condition": "找到Psychedelic Farm田里长脸的芜菁"
     }
   },
   "amillusion": {
@@ -9537,9 +9537,9 @@
       "condition": "获得效果Case。若已解锁，请返回Abandoned Rooftop获得该效果处。"
     },
     "down_jacket_effect": {
-      "name": "Snow in the Past",
-      "description": "Wearing this jacket make you remember the coldness in your childhood",
-      "condition": "Obtain the Down Jacket effect. If you have already unlocked it, return to Mannequin Street."
+      "name": "昔日之雪",
+      "description": "穿上这件夹克衫让你想起来儿时的寒冷。",
+      "condition": "获得效果Down Jacket。若已解锁，请返回Mannequin Street。"
     }
   },
   "ultraviolet": {
@@ -10135,9 +10135,9 @@
       "condition": "获得Bellhop效果。若已解锁，请返回获得该效果的Vermillion Rooftops孤立区域。"
     },
     "deer_effect": {
-      "name": "Happy Little Deer",
-      "description": "I'm a little deer!",
-      "condition": "Obtain the Deer effect. If you have already unlocked it, return where it can be found in Boiling Water World."
+      "name": "快乐小鹿",
+      "description": "我是一只小鹿！",
+      "condition": "获得效果Deer。若已解锁，请返回Boiling Water World获得该效果处。"
     }
   },
   "tsushin": {
@@ -10934,7 +10934,7 @@
     },
     "nan_cubic_puzzle": {
       "name": "让我看看你的本色！",
-      "condition": "isolated section of 在Tetris Puzzle中可从Abstruse Lie抵达的孤立区域，看到NaN的真正形态"
+      "condition": "在Tetris Puzzle中可从Abstruse Lie抵达的孤立区域，看到NaN的真正形态"
     }
   },
   "fog": {
