@@ -121,11 +121,6 @@
       "description": "A dark blade of an oneirophobic sharpening.",
       "condition": "From Zolotl to Aztec"
     },
-    "unconscious_dev": {
-      "name": "Collective Unconscious Developer",
-      "description": "Reserved for Collective Unconscious developers",
-      "condition": "Contribute maps or to the core system of Collective Unconscious"
-    },
     "zaakarias": {
       "name": "The Beaver",
       "description": "Goal: make an entire movie in 37x37",
@@ -256,16 +251,6 @@
     "teleport_bros": {
       "name": "The Brothers in the World of Cubes",
       "condition": "Utiliza el efecto Gato cerca de Warpo y Loople en el Laberinto de Teletransportación"
-    },
-    "poniko_cat": {
-      "name": "Reconyacimiento",
-      "description": "¡¡Ahhh!! ¡¡Que lindo!!",
-      "condition": "Usa el efecto Gato cerca de Poniko"
-    },
-    "spaceship_crash_event": {
-      "name": "Uh-Oh-VNI",
-      "description": "Masada, ¡tenemos un problema!",
-      "condition": "Presencia el evento choque en la nave espacial de Masada"
     },
     "cube_guru_seat": {
       "name": "Asiento Tomado",
@@ -473,11 +458,6 @@
       "name": "Notas Flotantes",
       "condition": "Obtén el efecto Flauta. Si ya lo has desbloqueado, regresa al Centro Comercial."
     },
-    "midget_effect": {
-      "name": "La Marcha de los Minis",
-      "description": "¡Somos uno! ¡Somos muchos!",
-      "condition": "Obtén el efecto Enano. Si ya lo has desbloqueado, regresa al Mundo de las velas."
-    },
     "witch_effect": {
       "name": "Yume Brujita",
       "description": "¡Una chica mágica con una increible escoba flotante! (Nota: Los resultados pueden ser decepcionantes. En caso de no sentirse satisfecho, considere montar una bicicleta.",
@@ -503,16 +483,6 @@
         "staircase_hands_3": "Mundo Nevado",
         "staircase_hands_4": "Mundo de las velas",
         "staircase_hands_5": "Mundo Numérico"
-      }
-    },
-    "hair_effects": {
-      "name": "Despeinada",
-      "description": "¿Por qué solo tener un peinado cuando puedes tener cuatro?",
-      "condition": "Obtén los efectos Cabello Largo, Cabello Rubio y Cabello de Caca. Si ya los has desbloqueado, regresa al lugar donde los encontraste.",
-      "checkbox": {
-        "long_hair_effect": "Cabello Largo",
-        "blonde_hair_effect": "Cabello Rubio",
-        "poo_hair_effect": "Cabello de Caca"
       }
     },
     "big_red_sewers": {
@@ -888,11 +858,6 @@
       "description": "The flame of the party never dies, even under the sea",
       "condition": "Trigger the Sailor Disco event in Aquatic Cube City"
     },
-    "peak": {
-      "name": "Respite",
-      "description": "In a forest of shadows and horrors askew, something blue blooms anew.",
-      "condition": "View the Peak Event in the Twisted Thickets"
-    },
     "rusted_factory_lesser": {
       "name": "Tainted Cogwheel",
       "description": "Gaze upon the secrets of the Rusted Factory",
@@ -940,11 +905,6 @@
     "flame_of_faith": {
       "name": "Flame of Faith",
       "condition": "Weaken the flame at the Tribe Settlement"
-    },
-    "dark_nexus": {
-      "name": "The Dark Frontier",
-      "description": "The deepest nexus...",
-      "condition": "Enter the Dark Nexus"
     },
     "white_creature": {
       "name": "Integer Overflow",
@@ -1050,11 +1010,6 @@
       "name": "Inundated Dreams",
       "description": "\"The sound of the lost dreams still reverberates in the stagnant air. It feels... asphyxiating, to say the least.\"",
       "condition": "Reach the Sunken City"
-    },
-    "crocodile_dog": {
-      "name": "It's a Monster Party!",
-      "description": "Aren't these crocodile dogs just the cutest?",
-      "condition": "Enter the Monster Party in Garden World"
     },
     "celestial": {
       "name": "Celestial",
@@ -1366,11 +1321,6 @@
       "description": "Don't you know it's rude to stare?",
       "condition": "View the shadow ladies enjoying tea together in Twilight Park"
     },
-    "flying_fish_world": {
-      "name": "Us and Them",
-      "description": "And in the end it's only round and round, and round.",
-      "condition": "Visit every area in Flying Fish World"
-    },
     "sacred_crypt": {
       "name": "Dreaming of Origins",
       "description": "Where dreams are born",
@@ -1419,16 +1369,6 @@
         "critter_village_clock_pole": "Critter Village"
       }
     },
-    "coffee_cup": {
-      "name": "Flavour of the Day",
-      "description": "A bit more effective than a pinch.",
-      "condition": "Buy something from the vending machine in Coffee Cup World with any effect equipped"
-    },
-    "lamplighter": {
-      "name": "Extinguished",
-      "description": "A world in darkness...",
-      "condition": "Reap the consequences of killing the lamplighter"
-    },
     "provost": {
       "name": "Breaktime",
       "condition": "See the Commando and Provost-san outside their submarine at The Docks"
@@ -1442,30 +1382,6 @@
       "name": "Storage Room",
       "description": "01100110 01110010 01101001 01100101 01101110 01100100",
       "condition": "See the robot at Tesla Garden"
-    },
-    "green_prince": {
-      "name": "Royal Reach",
-      "description": "huh whuh",
-      "condition": "Reach and interact with the Green Prince at the City Limits"
-    },
-    "phone": {
-      "name": "MVP",
-      "description": "Most Valued Phone",
-      "condition": "Use the phone shortcut to Urotsuki's Dream Apartments in 10 of the following locations: Aquatic Cube City, Fossil Lake, Underground Garage, Water Reclamation Facility, Dark Museum, Dark Warehouse, Parking Zone, Eyeberry Orchard, Legacy Nexus, Lemonade Edifice, Originator Garden, RGB Spectral Passage",
-      "checkbox": {
-        "phone_aquatic_cube_city": "Aquatic Cube City",
-        "phone_fossil_lake": "Fossil Lake",
-        "phone_underground_garage": "Underground Garage",
-        "phone_water_reclamation_facility": "Water Reclamation Facility",
-        "phone_dark_museum": "Dark Museum",
-        "phone_dark_warehouse": "Dark Warehouse",
-        "phone_parking_zone": "Parking Zone",
-        "phone_eyeberry_orchard": "Eyeberry Orchard",
-        "phone_legacy_nexus": "Legacy Nexus",
-        "lemonade_office_phone": "Lemonade Edifice",
-        "phone_originator_garden": "Originator Garden",
-        "phone_rgb_spectral_passage": "RGB Spectral Passage"
-      }
     },
     "banana": {
       "name": "Ohhh Banana!",
@@ -1498,10 +1414,6 @@
       "description": "Oh my- it's teatime!",
       "condition": "Witness Urotsuki's execution"
     },
-    "wifi": {
-      "name": "Wireless Fidelity",
-      "condition": "Escape the chasers in the Electromagnetic Terminal and enter the parking area"
-    },
     "bat_flight": {
       "name": "Bat's Flight",
       "condition": "Fly off the rooftop of the Techno Condominium"
@@ -1518,10 +1430,6 @@
       "name": "Farce Duality",
       "condition": "Enter Seishonen's corrupted room in Urotsuki's Dream Apartments"
     },
-    "dojo": {
-      "name": "Remembrance",
-      "condition": "Burn down the space area in the Dojo"
-    },
     "voxed": {
       "name": "Voxed",
       "description": "Kill it! Do it now!",
@@ -1530,15 +1438,6 @@
     "green_tea_cake": {
       "name": "Green Tea Cake",
       "condition": "Buy a green tea cake from the cake shop in the Shop Ruins"
-    },
-    "principal": {
-      "name": "No Biking in the Halls!",
-      "condition": "Get caught and chewed out by the principal in the School for using the Bike"
-    },
-    "car_crash": {
-      "name": "Whiplash",
-      "description": "This game blows!",
-      "condition": "Crash the car at the Hidden Garage"
     },
     "wedding_cake": {
       "name": "Triple-Decker Cake",
@@ -1550,11 +1449,6 @@
       "description": "Hammer the loose nail",
       "condition": "Interact with the Nail Lady in the nail circle"
     },
-    "cmyk": {
-      "name": "Ink Cartridge Combo",
-      "description": "Not enough ink",
-      "condition": "Buy something from all 3 vending machines in CMYK Tiles World"
-    },
     "muertitos": {
       "name": "Muertitos",
       "condition": "Honor the death in Dream Mexico"
@@ -1563,21 +1457,6 @@
       "name": "Deception-Bearer \"Oneirophobia\"",
       "description": "Taking the wrong steps",
       "condition": "Enter the room at the end of the Spirit Capital highway in {TIME} or less in Time Trial Mode"
-    },
-    "the_liar": {
-      "name": "Liar, Liar",
-      "description": "I know what you are.",
-      "condition": "Turn the light off in the Liar's bedroom"
-    },
-    "helmet_girl": {
-      "name": "Shine On",
-      "description": "I'll see you on the dark side of the moon.",
-      "condition": "Visit Helmet Girl in Square-Square World, her apartment, and in the Moonlit Purple Balcony",
-      "checkbox": {
-        "helmet_girl_moonlit_balcony": "in the Moonlit Purple Balcony",
-        "helmet_girl_apartment": "her apartment",
-        "helmet_girl_square2_world": "Square-Square World"
-      }
     },
     "garden_of_dreams": {
       "name": "Dreaming Trees",
@@ -1594,29 +1473,10 @@
         "azure_garden_tree": "Azure Garden"
       }
     },
-    "infinite_library_mirror": {
-      "name": "Lose Yourself",
-      "description": "Witness your reflection in a mirror beyond the seemingly-infinite.",
-      "condition": "Face yourself in the mirror and reach Static Noise Hell through Infinite Library"
-    },
     "rainbow_tiles_glitch": {
       "name": "My Friends Need Me!",
       "description": "Get buggy in the Rainbow Tiles Maze",
       "condition": "Get to the Reverse version of the Rainbow Tiles Maze"
-    },
-    "nightshade_corridor_creature": {
-      "name": "\"Snibbit, Snibbit?\"",
-      "condition": "Discover the Scissor Monster in Nightshade Corridor"
-    },
-    "gutter_secret": {
-      "name": "She Loves Me Not",
-      "description": "Take my heart, pull it apart.",
-      "condition": "Witness ???-tsuki's agony hidden within the Gutter's confines"
-    },
-    "deluxe_mask_shop_purchase": {
-      "name": "Silk Ribbon",
-      "description": "Smells like Licorice.",
-      "condition": "Buy a mask from the Deluxe Mask Shop"
     },
     "japan_town_bath": {
       "name": "The Freaks Come Out at Night",
@@ -1686,11 +1546,6 @@
       "description": "Is that where the alien went?",
       "condition": "Watch the UFO pass you by in Rainbow Towers"
     },
-    "vending_machine_factory_balcony": {
-      "name": "Sunrise, Parabellum",
-      "description": "A real *Boiadeiro*.",
-      "condition": "See the skyline from the high rise of the Vending Machine Factory"
-    },
     "solo_concert_hall": {
       "name": "Solo Concert Hall",
       "description": "The slums' best-kept secret: a serene symphony.",
@@ -1719,15 +1574,6 @@
       "name": "Luminous lake",
       "description": "Is that a Mola mola fish floating in the sky?",
       "condition": "Get to the Luminous Lake and see the sunfish as it flies"
-    },
-    "forest_of_reflections": {
-      "name": "Mirror Magic",
-      "condition": "Visit the Forest Of Reflections"
-    },
-    "blue_house_road": {
-      "name": "Bluesteel Badge",
-      "description": "That's it? That's the badge?",
-      "condition": "Visit Blue House Road"
     },
     "the_tiger": {
       "name": "Cats! Cats!!!",
@@ -1808,10 +1654,6 @@
         "uro_spear_tribe_world": "Spear Tribe World (Overgrown Stone Area)"
       }
     },
-    "blossoming_brooch": {
-      "name": "Blossoming Brooch",
-      "condition": "Reach the Adabana Gardens"
-    },
     "puni_snacks": {
       "name": "Puni Snacks",
       "description": "Let's hope these aren't made out of real punis...",
@@ -1849,11 +1691,6 @@
       "name": "Saying Good-bye From Behind",
       "description": "Very quietly I take my leave, as quietly as I came here;\nQuietly I wave good-bye, to the rosy clouds in the western sky.",
       "condition": "Watch the \"It Came From Behind\" event in Neon City"
-    },
-    "dancing_queen": {
-      "name": "Dancing Queen",
-      "description": "Night is young & the music's high!",
-      "condition": "View the Giant Dancing Eye in Forest Pier"
     },
     "sunbeam_industrial": {
       "name": "Sunbeams",
@@ -2013,10 +1850,6 @@
       "name": "Sweet Poison",
       "condition": "Interact with the scientists while using the Drum effect in the Toxic Chemical World"
     },
-    "conway": {
-      "name": "Digital Glider",
-      "condition": "Visit the Conway area in Symbolon"
-    },
     "say_my_name": {
       "name": "Say My Name",
       "condition": "Spell \"UROTSUKI\" in the Spelling Room"
@@ -2064,11 +1897,6 @@
       "name": "Around the Globe",
       "description": "A bright light in a dreary place...",
       "condition": "Visit the Globe Room in Stony Buildings"
-    },
-    "musky_rave": {
-      "name": "Musky Rave",
-      "description": "Musky, Funky, Dusky.",
-      "condition": "Flick the switch in Funky Dusky Hall"
     },
     "tree_dreams": {
       "name": "Tree of Dreams",
@@ -2223,19 +2051,10 @@
       "description": "They say that the forest has secrets behind its thin layer of forest wall.",
       "condition": "Enter the Shadow Woman Forest"
     },
-    "spring_breeze": {
-      "name": "Early Spring Breeze",
-      "condition": "Visit Windswept Fields"
-    },
     "dull_scissors": {
       "name": "Dull Scissors",
       "description": "Rusted and dulled away.",
       "condition": "Visit Surgical Scissors World"
-    },
-    "2kki_bluescreen": {
-      "name": ":(",
-      "description": "Your dream ran into a problem and needs to restart as soon as we're finished collecting some error info.",
-      "condition": "Enter the Blue Screen Void"
     },
     "2kki_afterglow": {
       "name": "Afterglow",
@@ -2328,10 +2147,6 @@
       "description": "Didn't know you got drip like that...",
       "condition": "Enter Ripple Passage in Static Noise Hell"
     },
-    "ghostly_exhibit": {
-      "name": "Photosynthesis",
-      "condition": "Visit the Ghostly Exhibit"
-    },
     "witch_duo": {
       "name": "Twin-Colored Duo",
       "description": "Two is better than one!",
@@ -2406,10 +2221,6 @@
       "description": "Scarlet tides and big ol' smiles!",
       "condition": "Reach the Shallows of Deceit"
     },
-    "cryptic_cubes": {
-      "name": "Cryptic Cubes",
-      "condition": "Attract the denizens of Enigmatic World"
-    },
     "bane_jack": {
       "name": "Jack Out of the Box",
       "description": "A springy friend, happily bouncing everywhere!",
@@ -2441,19 +2252,6 @@
     "gb_forest": {
       "name": "Dream-World Tree",
       "condition": "Enter the GB Forest within the Sketch Plains"
-    },
-    "carousel_oriental": {
-      "name": "Mood Swings",
-      "description": "Round and round and round...",
-      "condition": "Visit the 6 worlds depicted without using the warp from Redlight Alley (Test Facility, Holiday Hell, Ice Cream Islands, Tribulation Complex, Platformer World, Abandoned Grounds)",
-      "checkbox": {
-        "humanoid_angry": "Test Facility",
-        "humanoid_crying": "Holiday Hell",
-        "humanoid_happy": "Ice Cream Islands",
-        "humanoid_shocked": "Tribulation Complex",
-        "humanoid_green": "Platformer World",
-        "humanoid_tired": "Abandoned Grounds"
-      }
     },
     "brh_event": {
       "name": "Blood Red RNG",
@@ -2677,11 +2475,6 @@
         "flowers_polycube": "Wooden Polycube Ruins"
       }
     },
-    "pudding_world_secrets": {
-      "name": "Flan Flair",
-      "description": "Wait, shouldn't this be some kind of crème brûlée since it was set on fire?",
-      "condition": "Appreciate the seldom-visited Pudding World in all its glory and find all of its secrets"
-    },
     "eternal_dreamer": {
       "name": "Is it time to wake up, or to go into a deeper dream?",
       "description": "When I wake up, I already can't tell if I'm in a dream or not",
@@ -2700,11 +2493,6 @@
       "name": "Rainbow Bridge",
       "description": "Colorful Powers.",
       "condition": "Use the Teru Teru Bōzu and Rainbow effects to make a rainbow bridge appear in the Tribe Settlement"
-    },
-    "marble_penumbra": {
-      "name": "Penumbra",
-      "description": "The world shall move on without you.",
-      "condition": "View the Sun and Moon clock in the Marble Ruins"
     },
     "unicorn_marble": {
       "name": "Empty Eyes",
@@ -2883,11 +2671,6 @@
       "description": "...Shall we play tag?",
       "condition": "End up trapped in the Crazed Faces Maze and wake up Hudson near the lava river"
     },
-    "spacecraft_visine": {
-      "name": "Starfields of Visine",
-      "description": "We aren't alone after all.",
-      "condition": "Visit all four colored starfields in Ocular Spacecraft"
-    },
     "wardrobe_face": {
       "name": "Behind the Mask",
       "description": "Knowing Every Particular Object",
@@ -2914,11 +2697,6 @@
     "purple_jelly": {
       "name": "Purple Jelly",
       "condition": "Encounter the purple gelatinous creature in the Purple Forest Path of Sculpture Park"
-    },
-    "building_love": {
-      "name": "Building a Bond",
-      "description": "Loving you brick by brick 💕",
-      "condition": "View the hugging buildings in the Purple Forest Path of Sculpture Park"
     },
     "marshmallow_shallows": {
       "name": "Sweet Dream",
@@ -3071,11 +2849,6 @@
     "donut_kaleidoscope": {
       "name": "Colorful Flavors",
       "condition": "Enter the room with the broken donuts in Kaleidoscope World"
-    },
-    "flower_ug_mall": {
-      "name": "Grievances and Dead Malls",
-      "description": "A lie temporarily becomes the truth",
-      "condition": "Place the flowers into the vase in the Underground Mall"
     },
     "spider_attack_cavern": {
       "name": "Instant Regret",
@@ -3561,11 +3334,6 @@
       "description": "It still works. Have some fun during the long journey!",
       "condition": "Ride on the horse in Victorian Drains"
     },
-    "gutter_bright_room": {
-      "name": "Storm Drains",
-      "description": "Water rushes through the vessels of the City, the Ruins, and the Shallows. But where does it come from? What storm fills The Gutter with its blood? What do these sharp ones drink?",
-      "condition": "Visit the bright room in The Gutter shortly before the Lavender Park"
-    },
     "bleeding_mush_grd": {
       "name": "Bleeding Mushroom",
       "description": "It runs so fast!",
@@ -3703,11 +3471,6 @@
       "name": "Breakfast Addict",
       "description": "My heart is pounding... from all the s-sugar!",
       "condition": "Visit the Cheesecake Girl's Room in Cheesecake Mountain with the Shimofuri or Haniwa Cake mask"
-    },
-    "seesaw_critter_village": {
-      "name": "Teeter-Totter",
-      "description": "Any day spent with you is my favorite day.",
-      "condition": "Play see-saw at Critter Village"
     },
     "jigsaw_tower": {
       "name": "Jigsaw Tower",
@@ -3848,10 +3611,6 @@
     "pris_tent_clawtree_forest": {
       "name": "Prismatic Cube",
       "condition": "Visit the Prismatic Tent in Clawtree Forest"
-    },
-    "pain_blot_puzzle": {
-      "name": "Paint Blot Pain",
-      "condition": "Solve the puzzle in Paint Blot Path"
     },
     "horror_maze_end": {
       "name": "Outer Planet",
@@ -4010,11 +3769,6 @@
     "red_beach_sarah": {
       "name": "Purple and Red",
       "condition": "Enter Blood Red Beach through Legacy Nexus and cause Sarah to appear"
-    },
-    "mini_maze_mystery_tile": {
-      "name": "Breakout!",
-      "description": "You probably never hit this, just got the Eyeball Bomb and left, didn't you?",
-      "condition": "Step on the ? tile in Mini-Maze"
     },
     "fish_oil_crab_shore": {
       "name": "Rest Ashored",
@@ -7791,1367 +7545,6 @@
       "condition": "Get caught by the angels in Angel Palace"
     }
   },
-  "unconscious": {
-    "eye_lily_w_lotus_islands": {
-      "name": "Surreally Beautiful",
-      "description": "A divine awakening",
-      "condition": "Find Eye-lily's lair and interact with it at the White Lotus Islands"
-    },
-    "box_office_end": {
-      "name": "The Sokoban Technique",
-      "description": "One minute longer, and you'd be stuck like the rest of them.",
-      "condition": "Beat the Box Office's puzzle"
-    },
-    "music_lvg_room_doodles": {
-      "name": "Lively Room",
-      "description": "Cozy and colorful",
-      "condition": "Make the creature play music in the living room of Doodles"
-    },
-    "blueprint_world_full": {
-      "name": "Dream Architect",
-      "description": "Mapping out my spiritual world",
-      "condition": "Visit all sections of Blueprint World"
-    },
-    "heart_forget_me_not": {
-      "name": "Remember My Beat",
-      "description": "May my feelings live on within your memory",
-      "condition": "Interact with the girl's heart in Forget-Me-Not"
-    },
-    "internal_vista": {
-      "name": "Outside-In",
-      "condition": "Visit the Internal Vista"
-    },
-    "wisteria_grove_bridge": {
-      "name": "Wisteria Bridge",
-      "condition": "See the temple from afar in Wisteria Grove"
-    },
-    "kmeleon_cst_themes": {
-      "name": "Mimecry",
-      "description": "A surreal experience",
-      "condition": "See all the Chameleon Constructions themes"
-    },
-    "planetarium_garden": {
-      "name": "Snow White Observatory",
-      "description": "A white garden accompanied by the stars.",
-      "condition": "Visit Planetarium Garden"
-    },
-    "mr_pivoine_train_station": {
-      "name": "Ticket to Ride",
-      "description": "All aboard!",
-      "condition": "Buy a ticket from Monsieur Pivoine in Train Station"
-    },
-    "people_palace_dungeon": {
-      "name": "Framed!",
-      "description": "Smile for your photo!",
-      "condition": "Get caught by the guards in People Palace"
-    },
-    "tiger_resort": {
-      "name": "Tiger Girl",
-      "description": "It's lunch time, meow!",
-      "condition": "Interact with the tiger in Resort"
-    },
-    "artist_chan_soapy_baths": {
-      "name": "Soapy Mural",
-      "description": "Hopefully the soap doesn't wash this away!",
-      "condition": "Find Artist-chan painting the mural in Soapy Baths"
-    },
-    "chelan_cheesecake_cmb": {
-      "name": "Little guy!",
-      "description": "So very little...",
-      "condition": "Interact with Chelan in the room of Cheesecake Chambers while using the effect of the Rodentia eidolon"
-    },
-    "kakkoii_lumen_resort": {
-      "name": "Hmm... I Like That!",
-      "description": "Just to earn your smile, so worth it!",
-      "condition": "Use the Lumen eidolon to make Kakkoii smile in Resort"
-    },
-    "dance_mural_passage": {
-      "name": "Kalimba Dance",
-      "description": "How long can she dance?",
-      "condition": "Make Tusuq Warmi dance in Mural Passage"
-    },
-    "moon_harsh_light_road": {
-      "name": "Moondrop",
-      "description": "Moon river, wider than a mile",
-      "condition": "View the event with the dripping moon in Harsh Light Road"
-    },
-    "star_pillar_world": {
-      "name": "Glimmering Goldfish",
-      "description": "Swimming through the starry skies.",
-      "condition": "Visit Star Pillar World"
-    },
-    "zorya_windswept_expanse": {
-      "name": "Between the Wind and Stars",
-      "description": "Words empty as the wind are best left unsaid",
-      "condition": "Interact with Zorya in Windswept Expanse"
-    },
-    "duck_soapy_baths": {
-      "name": "Ducky!",
-      "description": "Quack!",
-      "condition": "Ride a duck at Soapy Baths"
-    },
-    "bubble_siren_soapy_baths": {
-      "name": "Bubble Buddy",
-      "description": "She's really pop-ular...",
-      "condition": "Find Bubble Siren in Soapy Baths"
-    },
-    "bubble_flight_soapy_baths": {
-      "name": "Bubbly",
-      "description": "The only tension I'm feeling is... surface tension!",
-      "condition": "Experience the Bubble Flight event in Soapy Baths"
-    },
-    "anglerfish_human_mesa": {
-      "name": "Reverse Fishing",
-      "description": "I can't believe you fell for that...",
-      "condition": "Get eaten by the anglerfish in Human Mesa"
-    },
-    "indoors_wmw": {
-      "name": "Read It and Weep!",
-      "description": "Eternal despair.",
-      "condition": "Enter the indoors area in Weeping Monsters World"
-    },
-    "formless_garden": {
-      "name": "Free Flowing",
-      "description": "Beauty comes in many forms!",
-      "condition": "Visit Formless Garden"
-    },
-    "danny_uncanny_world": {
-      "name": "I Get Knocked Down...",
-      "description": "... but I get up again!",
-      "condition": "Knock over Danny and then view his portrait on the wall in Uncanny World"
-    },
-    "neon_centipede_caverns": {
-      "name": "Leggin' It",
-      "description": "It's gotta be a hundred feet long!",
-      "condition": "Visit Neon Centipede Caverns"
-    },
-    "stickman_llpt_leaflitter": {
-      "name": "Sup.",
-      "description": "Alone on a collective night?",
-      "condition": "See the relaxed stickman in Lilliputian Leaflitter using an eidolon with an altered sight"
-    },
-    "star_outer_hospital": {
-      "name": "Concerned Star",
-      "condition": "Find the star in Outer Hospital"
-    },
-    "bench_crimson_lake": {
-      "name": "Folded Leaves",
-      "condition": "Sit on the bench in Crimson Lake"
-    },
-    "lake_ruminating_meadows": {
-      "name": "Ruminating Lake",
-      "description": "There's no use ruminating, not when you're here. Live for the day.",
-      "condition": "Visit the lake of Ruminating Meadows"
-    },
-    "board_surreal_zoo": {
-      "name": "Fruit Cats",
-      "description": "I'm a pineapple cat ^w^",
-      "condition": "Stand behind the fruit face board in Surreal Zoo with the Youth eidolon"
-    },
-    "swan_crimson_lake_lumen": {
-      "name": "Swan Lake",
-      "description": "Where is your head?",
-      "condition": "Equip the Lumen eidolon in the swan lake of Crimson Lake"
-    },
-    "mr_duck_mossy_tunnels": {
-      "name": "Weird Squeak Sound",
-      "description": "Make the rubber duck squeak!",
-      "condition": "Make Mr Duck freak out in the Mossy Tunnels"
-    },
-    "the_doppelganger_underneath": {
-      "name": "Minna.exe Has Stopped Responding",
-      "description": "All this tech support I've done and it STILL crashes?!",
-      "condition": "Complete the Doppelgänger event at The Underneath"
-    },
-    "owl_mosaic_mud_brick_heights": {
-      "name": "Mosaic Indigo",
-      "description": "Such pretty patterns!",
-      "condition": "View the owl mosaic in Mud Brick Heights"
-    },
-    "catwalk_derelict_catwalk": {
-      "name": "A Shadowy Lurker",
-      "description": "He's shy...",
-      "condition": "Go all the way to the end of the Derelict Catwalk in Dilapidated Complex"
-    },
-    "death_field_buried_memory": {
-      "name": "A Gruesome Fate",
-      "description": "Who could've done this to you?",
-      "condition": "Interact with the electric pylon in Field of Buried Memory"
-    },
-    "bed_hometown": {
-      "name": "A Nostalgic Night",
-      "description": "zzz... so eepy...",
-      "condition": "Sleep in the bed in Hometown"
-    },
-    "window_loading_zone": {
-      "name": "Aperture of Endless Visions",
-      "description": "Wherever I am, I always find myself looking out the window wishing I was somewhere else.",
-      "condition": "Enter in the room with the huge window in Loading Zone"
-    },
-    "menu_virtual_nightmare": {
-      "name": "Hidden Gem",
-      "description": "Found you!",
-      "condition": "Obtain the Virtual menu theme. If you have already unlocked it, return to Virtual Nightmare."
-    },
-    "cocoon_spiral_purgatory": {
-      "name": "Uzumaki",
-      "description": "Spiraling out of control...",
-      "condition": "Interact with the girl in the cocoon in Spiral Purgatory"
-    },
-    "caleb_portrait_forest": {
-      "name": "At the End of the Road",
-      "description": "And at the end of the road was a new friend",
-      "condition": "Find Caleb in Portrait Forest"
-    },
-    "wisteria_manor_seasons": {
-      "name": "Seasons' Blessings",
-      "description": "One by one, the four seasons pass by and congeal together as a whole.",
-      "condition": "Visit the four seasonal hallways in Wisteria Manor"
-    },
-    "krarav_arch_apartments": {
-      "name": "Caught Red-Handed",
-      "description": "And red bodied I guess...",
-      "condition": "Get caught by Krarav after peeking into his room in the Arch Apartments"
-    },
-    "porridge_colorful_village": {
-      "name": "Oh, You Found Us!",
-      "description": "Can you dance like the colorful villagers?",
-      "condition": "Interact with the Porridge in front of the house in Colorful Village"
-    },
-    "toolbar_terracities": {
-      "name": "Free Download",
-      "description": "toolbars free very nice",
-      "condition": "See the Toolbar Overload event in Terracities"
-    },
-    "gulless_polluted_shore": {
-      "name": "Protector of the Shores",
-      "condition": "Talk to the Goddess of Gulls in Polluted Shore"
-    },
-    "blood_drive": {
-      "name": "What's Your Type?",
-      "description": "It feels good to give.",
-      "condition": "Visit Blood Drive"
-    },
-    "unconscious_heart_1": {
-      "name": "Heart of the Totem",
-      "condition": "Reach 100 Heart Points from vending machines (granted upon visiting the big vending machine in the Nexus)"
-    },
-    "unconscious_heart_2": {
-      "name": "Heart of the Snacks",
-      "condition": "Reach 500 Heart Points from vending machines (granted upon visiting the big vending machine in the Nexus)"
-    },
-    "unconscious_heart_3": {
-      "name": "Heart of the Soulfire",
-      "description": "All souls devoured by flames",
-      "condition": "Reach 999 Heart Points from vending machines (granted upon visiting the big vending machine in the Nexus)"
-    },
-    "girl_formless_garden": {
-      "name": "Formless Girl",
-      "description": "It's bubble-shaped!",
-      "condition": "Interact with the girl in the sleepy garden of Formless Garden"
-    },
-    "peaceful_decay": {
-      "name": "Mycelium",
-      "description": "At last.",
-      "condition": "Visit Peaceful Decay"
-    },
-    "dog_terracities": {
-      "name": "My Best Pet",
-      "description": "Dogs are our best friends!",
-      "condition": "Unlock the picture of the dog webpage in Terracities"
-    },
-    "dust_bunny_world": {
-      "name": "Dust Bunnies!!",
-      "description": "They're so cute, it almost makes you ignore the a... a... ahhCHOO!... Allergies.",
-      "condition": "Visit Dust Bunny World"
-    },
-    "girl_orchid_haven": {
-      "name": "Sleeping Girl",
-      "description": "You looked lonely, so I wanted to say hello! Oops... Did I wake you?",
-      "condition": "Wake up the Sleeping Girl in Orchid Haven"
-    },
-    "yellow_bile_tenements": {
-      "name": "Yellow Bile, Yellow Sun",
-      "condition": "Visit Yellow Bile Tenements"
-    },
-    "drink_scarlet_river": {
-      "name": "Bleeding Rose",
-      "description": "Yummy juice!",
-      "condition": "Indulge in a deep drink in Scarlet River"
-    },
-    "terror_micro_forest": {
-      "name": "Cursed Cartridge",
-      "description": "Get the heck out of my room, I'm playing Minnacraft!",
-      "condition": "Get woken up by the Night Terror in Micro Forest"
-    },
-    "halo_tragic_dimension": {
-      "name": "Monochrome Angel",
-      "description": "Just like an angel",
-      "condition": "Stand under the halo in Tragic Dimension"
-    },
-    "lion_sweet_circus": {
-      "name": "Dream Lion",
-      "description": "\"Purr... purr...\"",
-      "condition": "Interact with the lion in Sweets Circus"
-    },
-    "harsh_light_road": {
-      "name": "Everlasting Light",
-      "description": "My moon and me",
-      "condition": "Enter Harsh Light Road"
-    },
-    "neon_frogs": {
-      "name": "Dance of the Neon Frogs",
-      "description": "For all of eternity...",
-      "condition": "Visit Neon Frogs"
-    },
-    "bench_candy_lagoon": {
-      "name": "Scarily Sweet",
-      "description": "That's just candy blood, right?",
-      "condition": "Sit on the bench next to the skull in Candy Lagoon"
-    },
-    "windmill_mini_golf_maze": {
-      "name": "RGB Musical Note",
-      "description": "Visual and musical standards",
-      "condition": "Visit the secret music windmill room in the Mini Golf Maze"
-    },
-    "melan_room_wmw": {
-      "name": "House In My Image",
-      "description": "Feeling blue... literally",
-      "condition": "Visit Melan's room in Weeping Monsters World"
-    },
-    "hand_candy_lagoon": {
-      "name": "Pet Pet Pat Pot Pet",
-      "description": "Pet Minna. Love Minna.",
-      "condition": "Stand under the skeletal hand in Candy Lagoon"
-    },
-    "coyote_rave_ruins": {
-      "name": "Dancing Coyote",
-      "description": "Coyotes are good dancers",
-      "condition": "View the Coyote Rave event in Lavender Ruins"
-    },
-    "witch_fantasy_forest": {
-      "name": "Starlight Witch",
-      "description": "Twinkling starlight",
-      "condition": "See the Starlight Witch in Fantasy Forest"
-    },
-    "menu_golf_maze": {
-      "name": "Minna Woods",
-      "description": "Congratulations, you're the champion!",
-      "condition": "Obtain the Golfer menu theme. If you have already unlocked it, return to the Mini Golf Maze."
-    },
-    "menu_chromatic_slabs": {
-      "name": "Out of Focus",
-      "condition": "Obtain the Chromatic menu theme. If you have already unlocked it, return to the Chromatic Slabs World."
-    },
-    "cultist_sub_stadium": {
-      "name": "Occult Entertainment",
-      "description": "Behind the mystique, they really aren't so different from us.",
-      "condition": "Find the hidden cultists in their two different hideouts in Subterranean Stadium"
-    },
-    "lantern_head_gbc_village": {
-      "name": "Lantern Head",
-      "description": "I wasn't expecting to find someone like you down here!",
-      "condition": "Find Lantern Head under GBC Village"
-    },
-    "wandering_together": {
-      "name": "Wandering Together!",
-      "description": "Let's go for a ride, my wandering friend!",
-      "condition": "Trigger the Wandering Together event"
-    },
-    "ride_train_station": {
-      "name": "Lag Ride",
-      "description": "I'll take a ride on the train ride",
-      "condition": "Trigger the Train Ride event in Train Station"
-    },
-    "cosmic_horror": {
-      "name": "Celestial Horrors",
-      "description": "Curiosity is a treacherous thing.",
-      "condition": "Trigger the Cosmic Horror event in Celestial Platforms"
-    },
-    "moon_snowy_world": {
-      "name": "Snowy Night",
-      "condition": "Look up at the moon in Snowy World"
-    },
-    "house_bright_cloud": {
-      "name": "Butterfleye",
-      "description": "Cast away in the space between then and now",
-      "condition": "Reach the house in Bright Cloud Zone"
-    },
-    "figure_burning_building": {
-      "name": "Slow Burn",
-      "condition": "Witness the Figure in the Flames event at the front of the Burning Building"
-    },
-    "night_train_station": {
-      "name": "Missed the Train",
-      "description": "3.9% chance for you to have missed the train, how unlucky are you???",
-      "condition": "Trigger the Night Train event in Train Station"
-    },
-    "pathway_rgb_sewers": {
-      "name": "Bufotoxin",
-      "description": "Who knew these frogs could be so... unnerving.",
-      "condition": "Enter the glitched pathway in RGB Sewers"
-    },
-    "cat_septic_rodentia": {
-      "name": "Nyam Nyam Nyam",
-      "description": "I thought you would be friendly!",
-      "condition": "Interact with the cat in Septic while using the Rodentia eidolon"
-    },
-    "bunny_wisteria_grove": {
-      "name": "Graffiti Bunnies",
-      "description": "This would make for a great picnic spot! I just wish I'd brought food for the bunnies too...",
-      "condition": "See the bunny graffiti in Wisteria Grove"
-    },
-    "hadie_brut_warehouse": {
-      "name": "Brutalist Breaktime",
-      "description": "I left my lighter at home...",
-      "condition": "Use the Soulfire eidolon to light Hadie's cigarette in Brutalist Warehouse"
-    },
-    "prisoner_glass_cathedral": {
-      "name": "Prison of Glass",
-      "description": "Sealed away, bound by starry shackles...",
-      "condition": "Find the Celestial Prisoner in Glass Cathedral"
-    },
-    "realistic_field_all": {
-      "name": "Landscape of Cryptids",
-      "description": "Flowering fields and tentacled beasts",
-      "condition": "Visit all of the areas in Realistic Field"
-    },
-    "phanton_wisteria_grove": {
-      "name": "The Phantom Last Dance",
-      "description": "Don't let your wings remain down little ghost, there is still a whole dance ahead.",
-      "condition": "Obtain the Butterfly menu theme. If you have already unlocked it, return where it can be found in Wisteria Grove."
-    },
-    "minna_punish_mono_msl": {
-      "name": "Futile Struggle",
-      "description": "One must imagine Minna happy",
-      "condition": "Trigger the Minnatsuki's Punishment event in the Monochrome Mausoleum"
-    },
-    "laptop_tragic_dimension": {
-      "name": "Blurryface",
-      "description": "The ghost of you is close to me...",
-      "condition": "Interact with the laptop in Tragic Dimension"
-    },
-    "snail_mossy_aquarium": {
-      "name": "Shell Friend",
-      "description": "Welcome to my little shellter",
-      "condition": "Interact with the snail fella in Moss Aquarium"
-    },
-    "angel_flower_valley_apt": {
-      "name": "Seraphic Roomie",
-      "description": "I've got my Eye on you, Dear.",
-      "condition": "Interact with Angel in Flower Valley Apartments"
-    },
-    "tatami_galaxy": {
-      "name": "Constellation of Lanterns",
-      "description": "Glowing memories.",
-      "condition": "Visit Tatami Galaxy"
-    },
-    "graffiti_ruminating_mdws": {
-      "name": "Her Eyes",
-      "description": "Spending the days ruminating of a future that could have been.",
-      "condition": "See the eye graffiti in Ruminating Meadows using an altered sight eidolon"
-    },
-    "dress_smiling_pen_office": {
-      "name": "Minna in Black",
-      "description": "PROFITS!!!",
-      "condition": "Wear the suit in Smiling Pen Office"
-    },
-    "wanderer_flower_vly_apt": {
-      "name": "A Girl's Rest",
-      "description": "Oh hey, I've seen you before! Um... Were you... Minnatsuki?",
-      "condition": "Find the Wanderer on her balcony in Flower Valley Apartments"
-    },
-    "girl_squared_outer_hospital": {
-      "name": "Two-Faced",
-      "description": "...I think there's something on your face.",
-      "condition": "Interact with the fused-face girl in Outer Hospital"
-    },
-    "television_faithful_shoals": {
-      "name": "TVCORE",
-      "description": "What is your favorite channel?",
-      "condition": "Turn on the television in Faithful Shoals"
-    },
-    "glass_cathedral": {
-      "name": "Quiet Reflections",
-      "description": "A silent exchange between the glass and the self. Only the echoes of thoughts can be heard. Sit a while, and listen.",
-      "condition": "Visit Glass Cathedral"
-    },
-    "clock_loading_zone": {
-      "name": "Endless Load",
-      "description": "Perhaps this clock wasn't a mere loading screen, but the main attraction.",
-      "condition": "View the Clock event in Loading Zone"
-    },
-    "florian_meeting": {
-      "name": "Blue Feathered Butler",
-      "condition": "Interact with Florian in Peacock World and meet him on his balcony at the Resort",
-      "checkbox": {
-        "florian_peacock_world": "Peacock World",
-        "florian_resort": "Resort"
-      }
-    },
-    "blooming_explorer": {
-      "name": "Blooming Explorer",
-      "description": "A colorful array of flowers to surround myself with.",
-      "condition": "Visit Tulip Field, Forget-Me-Not, Field of Buried Memory, Hydrangea Pass, White Lotus Islands, Wisteria Grove, and Reverenced Flower",
-      "checkbox": {
-        "field_of_buried_memory_s|field_of_buried_memory": "Field of Buried Memory",
-        "tulip_field": "Tulip Field",
-        "forget_me_not": "Forget-Me-Not",
-        "hydrangea_pass": "Hydrangea Pass",
-        "white_lotus_islands": "White Lotus Islands",
-        "wisteria_grove|wisteria_grove_misc": "Wisteria Grove",
-        "reverenced_flower": "Reverenced Flower"
-      }
-    },
-    "planet_astronomy_world": {
-      "name": "Intergalactic Vacation",
-      "description": "Warp speed!",
-      "condition": "Land on every planet of Astronomy World"
-    },
-    "jellyfish_world": {
-      "name": "Luminescent Jellyfish",
-      "description": "Pristine guardians of the souls within the depths",
-      "condition": "Visit Jellyfish World"
-    },
-    "fish_megalith_lake": {
-      "name": "These Boots Are Made for Walkin'",
-      "description": "... and that's just what they'll do!",
-      "condition": "Reach the island with the unique fish in Megalith Lake"
-    },
-    "sun_reactor": {
-      "name": "Industrial Incandescence",
-      "description": "Set the controls for the heart of the Sun.",
-      "condition": "Find and interact with the Weather Spirit in Sun Reactor"
-    },
-    "lush_hilltop": {
-      "name": "Lush Hilltop",
-      "condition": "Visit Lush Hilltop"
-    },
-    "rainbow_tears": {
-      "name": "Crying Rainbow",
-      "description": "Rainbows are beautiful, rainbows are... tears?",
-      "condition": "Reach Rainbow Tears"
-    },
-    "climate_eidolon": {
-      "name": "Weather Report",
-      "description": "Come rain, snow or shine, I will be there.",
-      "condition": "Obtain the Climate eidolon. If you have already unlocked it, return at the top of the Frozen Tower."
-    },
-    "critter_long_fallen_ruins": {
-      "name": "Cute Friend",
-      "description": "Aww, look at those eyes!",
-      "condition": "Interact with the lily pad critter in Long-Fallen Ruins"
-    },
-    "youth_eidolon": {
-      "name": "My Youth",
-      "description": "Just to be a kid, once again.",
-      "condition": "Obtain the Youth eidolon. If you have already unlocked it, return in the park of the Surreal Zoo."
-    },
-    "cabin_snowy_world": {
-      "name": "Cozy Cabin",
-      "description": "Can you feel the glowing ambers?",
-      "condition": "Visit the Cabin in Snowy World"
-    },
-    "lush_hilltop_food": {
-      "name": "Nutritious",
-      "description": "Hungry for some?",
-      "condition": "View the giant ingredients in Lush Hilltop"
-    },
-    "neon_star_hall": {
-      "name": "Neon Twinkle",
-      "description": "Colorful constellations inside hexagons.",
-      "condition": "Visit Neon Star Hall"
-    },
-    "uncanny_world_event": {
-      "name": "Collective Tree",
-      "description": "The union of dreams!!",
-      "condition": "Complete the event in Uncanny World"
-    },
-    "tile_complex_azure_lock": {
-      "name": "Blue Lock",
-      "description": "No one goes beyond this.",
-      "condition": "Make one of the lockers near the pool glow blue in Tile Complex"
-    },
-    "roof_tub": {
-      "name": "Sunset Waves",
-      "description": "The colors of the sky reflected in the waters, and the water overflows off the roof.",
-      "condition": "Visit Roof Tub"
-    },
-    "crystal_access_main": {
-      "name": "Crystalline Void",
-      "description": "Crystals that shine like stars on stars that shine like crystals",
-      "condition": "Visit the main part of Crystal Access"
-    },
-    "abyssal_bleu": {
-      "name": "Abyssal Giant",
-      "description": "Even in the depths, beauty can still be found",
-      "condition": "Visit Abyssal Bleu"
-    },
-    "urbia_biggest_hit": {
-      "name": "Should have looked up when crossing the road...",
-      "description": "I demand 10BP for damage!",
-      "condition": "Get hit by the swinging car in Urbia, or return where it was if you already got hit"
-    },
-    "angel_scarlet_river": {
-      "name": "Scarlet Tears",
-      "description": "I cry when angels deserve to die.",
-      "condition": "Find the weeping angel statue in Scarlet River"
-    },
-    "watcher_primeval_edifice": {
-      "name": "The Ceaseless Watcher",
-      "description": "To you who watches...",
-      "condition": "See the huge creature looking over the waters of Primeval Edifice"
-    },
-    "picnic_seaside_city": {
-      "name": "Rainy Picnic",
-      "description": "You can hear the sea brushing the shore, and the rain tapping on the cold, wet concrete. The sky is covered with thousands of blinking stars.",
-      "condition": "Reach the picnic in Seaside City"
-    },
-    "tv_tombs": {
-      "name": "Hallucinatory Crypt",
-      "description": "Ah sweet, psychedelic horrors beyond my comprehension.",
-      "condition": "Watch the TVs in Maroon Tomb and Festering Tomb"
-    },
-    "saturated_school": {
-      "name": "Chromatic School",
-      "description": "It was just an hallucination",
-      "condition": "Visit the Saturated School"
-    },
-    "big_lotus_white_lotus_islands": {
-      "name": "Lotus Mother",
-      "description": "Protector of all water lilies",
-      "condition": "Find the big lotus in White Lotus Islands"
-    },
-    "monochrome_art_studio": {
-      "name": "Imagination",
-      "description": "The colors are woven from the mind itself.",
-      "condition": "Visit Monochrome Art Studio"
-    },
-    "cpu_bloodsoaked_office": {
-      "name": "Bloodied Vision",
-      "description": "Seeing is not always believing.",
-      "condition": "Trigger the Haunted Computer event in Bloodsoaked Office"
-    },
-    "glass_shard_path": {
-      "name": "Colorwashed Glass",
-      "description": "For lovers of rain and glass",
-      "condition": "Visit Glass Shards Path"
-    },
-    "outside_primeval_edifice": {
-      "name": "Ancient Sky Garden",
-      "description": "Take a seat and admire the sky",
-      "condition": "Visit the outside part of Primeval Edifice"
-    },
-    "playzone_maze_eggcellent": {
-      "name": "Lost Children",
-      "description": "I just want to go home!",
-      "condition": "Interact with the girl and find the egg in Playzone Maze",
-      "checkbox": {
-        "playzone_maze_girl": "Interact with the girl",
-        "playzone_maze_egg": "find the egg"
-      }
-    },
-    "metal_menu_cave": {
-      "name": "Spooky Shopkeeper",
-      "description": "BOO! Howdy, please take a look!",
-      "condition": "Buy the Metal menu theme. If you have already unlocked it, return in Cave."
-    },
-    "fisher_planetarium_garden": {
-      "name": "Stellar Fisher",
-      "description": "You've never seen a fishing shark before?",
-      "condition": "Equip the Lumen eidolon near Fishershark in Planetarium Garden"
-    },
-    "bug_bleding_ladders": {
-      "name": "Cha Cha Cha!",
-      "description": "Bein' me is the best!",
-      "condition": "Interact with the bug with eyes creature in Bleeding Ladders"
-    },
-    "ds_nothing_null": {
-      "name": "The End is Dead",
-      "description": "The view is great from here, isn't it?",
-      "condition": "See the God of Nothing in Null"
-    },
-    "sunset_woods": {
-      "name": "Puddles of Sunset",
-      "description": "Look down, there's the sky",
-      "condition": "Visit Sunset Woods"
-    },
-    "cat_mask_outer_hospital": {
-      "name": "Scarred Self-image",
-      "description": "You wouldn't want to see me like this...",
-      "condition": "Equip the Youth or Spectral eidolon near the patient with the cat mask in Outer Hospital"
-    },
-    "boombox_apartment_towers": {
-      "name": "Frenetic Boombox Party",
-      "description": "Is somebody gonna match my rhythm?",
-      "condition": "Interact with the boombox in Apartment Towers"
-    },
-    "squid_inkblot_forest": {
-      "name": "Inky Friend",
-      "description": "I hope you are able to think before it drops its ink",
-      "condition": "Interact with the squid in Inkblot Forest"
-    },
-    "eater_glass_shards_path": {
-      "name": "My Fur was Burnt to a Crisp",
-      "description": "I wish it was fluffy like usual...",
-      "condition": "Use the Soulfire eidolon on the Glass Eater in Glass Shards Path"
-    },
-    "ghosts_moonlit_path": {
-      "name": "Bathed in Moonlight",
-      "description": "Even though you're gone, your beauty shines in the moonlight.",
-      "condition": "Interact with one of the ghosts in Moonlit Path"
-    },
-    "ruri_flesh_walls_forest": {
-      "name": "Lone Hiker",
-      "description": "Looking at this place, I would run away too.",
-      "condition": "Interact with Ruri in Flesh Walls Forest"
-    },
-    "weird_girl_dark_archives": {
-      "name": "The Shiggy Wiggy",
-      "description": "You found me!",
-      "condition": "Find the Weird Girl in Dark Archives"
-    },
-    "sandbox_unconscious": {
-      "name": "Wildflower Haven",
-      "description": "A haven can exist anywhere if you allow it to be one",
-      "condition": "Visit Sandbox"
-    },
-    "drain_girl_wisteria_grove": {
-      "name": "Sewer Lass",
-      "description": "Oh Lady of the Drain, what is your wisdom?",
-      "condition": "Find the Drain Girl in Wisteria Grove"
-    },
-    "prince_faithful_shoals": {
-      "name": "The Same Sunrise",
-      "description": "... as it ever is",
-      "condition": "Reach the Prince's Sunrise at the Faithful Shoals"
-    },
-    "april_september_sleep": {
-      "name": "Lengthy Slumber",
-      "description": "Just 5 more months...",
-      "condition": "Sleep from April into September"
-    },
-    "rooftop_stonelit_hollow": {
-      "name": "Sunset Summit",
-      "description": "An eternal dusk.",
-      "condition": "Reach the rooftop of Stonelit Hollow"
-    },
-    "frozentsuki_snow_lake": {
-      "name": "Failed Rescue",
-      "description": "I just wanted to help...",
-      "condition": "Attempt to free the Frozen Minnatsuki at Snow Lake"
-    },
-    "bull_ritual_room": {
-      "name": "The Thief",
-      "description": "Now they roam free... thanks to you!",
-      "condition": "Free Tauros in the ritual room of the Scarlet River. If already done, return to the ritual room."
-    },
-    "squid_divinity_eternal_communion": {
-      "name": "Cephalord",
-      "description": "Praise the Squid Lord",
-      "condition": "See the Squid God in Eternal Communion"
-    },
-    "blue_tile_complex": {
-      "name": "What a Mess!",
-      "description": "It's covered in the blue ooze!",
-      "condition": "Find the room covered in blue liquid in Tile Complex"
-    },
-    "rat_eidolon": {
-      "name": "Oh Shoot, a Rat!",
-      "description": "*squeak squeak*",
-      "condition": "Obtain the Rodentia eidolon. If you have already unlocked it, return where it can be found in the City."
-    },
-    "heart_flesh_walls_forest": {
-      "name": "Beating Rave",
-      "description": "Let me hear your heartbeat fading away",
-      "condition": "Trigger the Beating Heart event in Flesh Walls Forest"
-    },
-    "basalt_fields": {
-      "name": "Mummy, I'm Scared",
-      "description": "Bandaged spirits adorn the sky.",
-      "condition": "Visit Basalt Fields"
-    },
-    "neon_light_exhibition": {
-      "name": "Neon Party",
-      "description": "We like to party!",
-      "condition": "Visit Neon Light Exhibition"
-    },
-    "dance_spiral_limb_passage": {
-      "name": "Dance of the Rokurokubi",
-      "description": "Come join the fun.",
-      "condition": "Trigger the Spiral Dance event in Spiral Limb Passage"
-    },
-    "red_friend_sabbatical_complex": {
-      "name": "Friend Shaped",
-      "description": "Don't cry big one!",
-      "condition": "Find the Red Friend in Sabbatical Complex"
-    },
-    "cephalo_hyper_road_maze": {
-      "name": "Tenta-Cool DJ",
-      "description": "This party got me all kraken up!",
-      "condition": "Interact with Cephalo P. in Hyper Road Maze"
-    },
-    "unconscious_toy_world": {
-      "name": "Nostophobia",
-      "description": "Childhood memories caked in soot.",
-      "condition": "Visit Toy World"
-    },
-    "joy_district": {
-      "name": "=)",
-      "description": "The local cuisine here is just exquisite. Have you tasted the leather shoes yet? =)",
-      "condition": "Visit Joy District"
-    },
-    "picnic_sylvan_trails": {
-      "name": "Amanitaceae",
-      "description": "When you listen to the musicaria of the agaric, do you see them too?",
-      "condition": "Find the mushroom girls' picnic in Sylvan Trails"
-    },
-    "statues_moth_garden": {
-      "name": "Statues in the Lanternlight",
-      "description": "Statues' last tour",
-      "condition": "Find the two white creatures at the end of the lantern-lit boardwalk in Moth Garden"
-    },
-    "bunny_monster_manuscripts": {
-      "name": "Buneye",
-      "description": "Eye see you!",
-      "condition": "Find the giant bunny in water in Monster Manuscripts"
-    },
-    "achromatic_positive_hellscape": {
-      "name": "White Happy",
-      "description": "IN THE END NONE OF THIS IS REAL",
-      "condition": "Visit Achromatic Positive Hellscape"
-    },
-    "cheshi_monster_manuscripts": {
-      "name": "A Strange Guide",
-      "description": "I wonder where he'll take me...",
-      "condition": "Interact with Cheshi in Monster Manuscripts"
-    },
-    "comfy_cabin_snowy_world": {
-      "name": "Hot Cocoa",
-      "description": "Coming in from the cold just feels so nice.",
-      "condition": "Equip the comfy costume in the Cabin of Snowy World"
-    },
-    "guitarist_sunset_woods": {
-      "name": "Sunset Serenade",
-      "description": "... I think I'll stay here.",
-      "condition": "Listen to the guitarist's song in the Sunset Woods"
-    },
-    "moon_clockwork_backstage": {
-      "name": "Mechanical Moon",
-      "description": "Above the stage, in golden tune, hovers the clockwork-crafted moon.",
-      "condition": "See the moon in Clockwork Backstage"
-    },
-    "mantis_shattered_realm": {
-      "name": "He Getting Jiggy with It!",
-      "description": "Dancing by their lonesome... well at least the music is catchy!",
-      "condition": "See the tall guy in the small room in Shattered Realm"
-    },
-    "zen_garden": {
-      "name": "Gardens of Sand",
-      "description": "A delicate and serene garden of rocks and white sand",
-      "condition": "Visit Zen Garden"
-    },
-    "fox_fantasy_forest": {
-      "name": "The Art of Taming",
-      "description": "If you tame me, you will be unique in all the world to me and I shall be unique in all the world to you.",
-      "condition": "Find and interact with the Mystic Fox in Fantasy Forest"
-    },
-    "tooth_menu_sickly_sweet": {
-      "name": "Sweet Temptation",
-      "description": "There's no escape now",
-      "condition": "Obtain the Tooth Decay menu theme. If you have already unlocked it, return where it can be found in Sickly Sweet."
-    },
-    "tree_flesh_pit": {
-      "name": "The Forest That Hates You",
-      "description": "Mess with the trees, SNAP go your knees.",
-      "condition": "Interact with the tree leading to Flesh Pit during the Tree Attack event in Untamed Forest"
-    },
-    "youth_alphabet_city": {
-      "name": "Goo Gaa Babu",
-      "description": "Wawa goo gaa Alphabet City",
-      "condition": "Equip the Youth eidolon in Alphabet City"
-    },
-    "hla_still_alive": {
-      "name": "Vows of Devotion",
-      "description": "Blinded by hatred, drowning in love.",
-      "condition": "Survive for 5 minutes in Hostile Love Abyss at night. If you have previously reached this time, return to Hostile Love Abyss."
-    },
-    "star_cosmic_woods": {
-      "name": "Pink Star",
-      "description": "Remember the sun is also a star!",
-      "condition": "Interact with the star in Cosmic Woods"
-    },
-    "banana_apartment_towers": {
-      "name": "Sweet Companion",
-      "description": "It's peanut butter jelly time!",
-      "condition": "Interact with the banana in Apartment Towers"
-    },
-    "outline_girl_sandstone_resort": {
-      "name": "Mystique Resident",
-      "description": "Is this your room?",
-      "condition": "Find Outline Girl in Sandstone Resort"
-    },
-    "molly_moth_garden": {
-      "name": "Sage of the Dark Night",
-      "description": "I'm reading a book right now, could you please not bother me?",
-      "condition": "Interact with Molly in Moth Garden"
-    },
-    "stare_shattered_realm": {
-      "name": "Eyes on Me",
-      "description": "You just can't look away",
-      "condition": "Trigger The Stare event in Shattered Realm"
-    },
-    "sunrise_disintegrating_pillars": {
-      "name": "World's End Sunrise",
-      "description": "A glimmer of hope in a long-dead world",
-      "condition": "Trigger the Sunrise at the End of the World event in Disintegrating Pillars"
-    },
-    "soapy_baths_soap": {
-      "name": "*glub*",
-      "description": "It did not taste like strawberries...",
-      "condition": "Get the soap bar and soap water from a vending machine at Soapy Baths",
-      "checkbox": {
-        "soapy_baths_soap_1": "soap bar",
-        "soapy_baths_soap_2": "soap water"
-      }
-    },
-    "fall_forest": {
-      "name": "That Watching Eye",
-      "description": "It's already too late to undo what you've done.",
-      "condition": "Trigger the fall event in Forest"
-    },
-    "lottery_parlor": {
-      "name": "Shadow Minna Money Gang",
-      "condition": "Visit Lottery Parlor"
-    },
-    "landscape_karoushi": {
-      "name": "Workload Respite",
-      "description": "A necessary break from the office.",
-      "condition": "Reach the landscape area of Karoushi"
-    },
-    "severance_bleeding_ladders": {
-      "name": "Till Death Do Us Part",
-      "description": "And when it does, we'll reunite in the afterlife.",
-      "condition": "Trigger the Severance event in Bleeding Ladders"
-    },
-    "amanita_eidolon": {
-      "name": "Lady Amanita",
-      "description": "Following mushrooms in the trails~",
-      "condition": "Obtain the Amanita eidolon. If you have already unlocked it, return where it can be found in Sylvan Trails."
-    },
-    "fairy_m_m_monster_manuscripts": {
-      "name": "Crazy Magician",
-      "description": "You’re now an old cat, fool!",
-      "condition": "Interact with Fairy Mad Mother after having met Cheshi in Monster Manuscripts"
-    },
-    "autumnal_equinox": {
-      "name": "Leaves Everywhere!",
-      "description": "crunch crunch",
-      "condition": "Visit Autumnal Equinox"
-    },
-    "cat_cafe_wintery_trails": {
-      "name": "Certified Cat Petter",
-      "description": "Kitty! What are you doing here?!",
-      "condition": "Pet the cat in the Cafe Bar of Wintery Trails"
-    },
-    "spirit_parade_down": {
-      "name": "Professional Parade Speedbump",
-      "description": "What did you think was gonna happen...",
-      "condition": "Get trampled in Spirit Parade"
-    },
-    "youth_eidolon_surreal_zoo": {
-      "name": "Grown-up Perspective",
-      "description": "I remember this place differently...",
-      "condition": "Use the Youth eidolon in Surreal Zoo"
-    },
-    "mallard_platforms": {
-      "name": "Quack O'Clock",
-      "description": "Quack... Quack... Quack...",
-      "condition": "Visit Mallard Platforms"
-    },
-    "vm_lonely_citadel": {
-      "name": "Wait! Don't Go Near- CRUNCH!",
-      "description": "... well so much for getting a drink there.",
-      "condition": "See the falling vending machine in Lonely Citadel"
-    },
-    "time_isles": {
-      "name": "Seeds of Time",
-      "description": "Sands in the glass, hands on the clock\nTime moves ever onward - tick tock tick tock",
-      "condition": "Visit Time Isles"
-    },
-    "inverted_park": {
-      "name": "Faint Light",
-      "description": "A walk through silence",
-      "condition": "Visit Inverted Park"
-    },
-    "visage_eidolon": {
-      "name": "Carry-On Vanity",
-      "description": "Doth verity but wear the mask of falsehood?",
-      "condition": "Obtain the Visage eidolon. If you have already unlocked it, return where it can be found in Moonlit Path."
-    },
-    "trashcan_gasoline_alleys": {
-      "name": "Giving You The Stinkeye",
-      "description": "Peeka-PEW!",
-      "condition": "Find an odd creature while opening a trashcan in Gasoline Alleys"
-    },
-    "top_trepid_towers": {
-      "name": "On Top of the World",
-      "description": "I'm so high up!",
-      "condition": "Reach the top of the Trepid Towers"
-    },
-    "eggtopia_rainbow_being": {
-      "name": "Eggsposed",
-      "description": "Eggstraordinary! You met someone truly eggceptional!",
-      "condition": "Find the black rainbow being in Eggtopia"
-    },
-    "imago_eidolon": {
-      "name": "Glimmering Lepidoptera",
-      "description": "Guiding lights of lamps and moths throughout the night.",
-      "condition": "Obtain the Imago eidolon. If you have already unlocked it, return where it can be found in Moth Garden."
-    },
-    "deity_ghost_village": {
-      "name": "Watcher in The Sky",
-      "description": "Can you see what I see?",
-      "condition": "Find the deity in Ghost Village"
-    },
-    "bubble_rave": {
-      "name": "Dancing Bubbles and Hearts",
-      "description": "Let's wash it all away",
-      "condition": "Visit Bubble Rave"
-    },
-    "oracle_menu_theme": {
-      "name": "Oquam",
-      "description": "He's got a watch with a minute hand, millenium hand, and an eon hand.",
-      "condition": "Obtain the Oracle menu theme. If you have already unlocked it, return where it can be found in Optical Offices."
-    },
-    "screens_windowed_landscape": {
-      "name": "Scopophobia",
-      "description": "I don't want to look!!",
-      "condition": "Interact with all the screens in Windowed Landscape"
-    },
-    "sled_wintery_trails": {
-      "name": "Sled Race!",
-      "description": "3, 2, 1, go!",
-      "condition": "Sled down the hill in Wintery Trails"
-    },
-    "face_lonely_citadel": {
-      "name": "The Silent Witness",
-      "description": "Under their watchful gaze, you are never alone...",
-      "condition": "See the face in Lonely Citadel"
-    },
-    "baseball_garden": {
-      "name": "Batter Up!",
-      "description": "And that's a run for Minnatsuki!",
-      "condition": "Equip the baseball outfit mask where it can be found in Garden"
-    },
-    "person_monoliths_world": {
-      "name": "So Close Yet So Far Away",
-      "description": "No wait! Come back!",
-      "condition": "See the person disappear in Monoliths World"
-    },
-    "flame_pattern_menu_theme": {
-      "name": "Ashatsuki",
-      "description": "Just a Minna... on fire... it's fine...",
-      "condition": "Obtain the Flame Pattern menu theme. If you have already unlocked it, return where it can be found in Purgatory Stairs."
-    },
-    "kiwi_corvid_metropolis": {
-      "name": "Plumbirds",
-      "description": "If you run around the fountains enough times, maybe you'll unlock one with a secret fourth hat color.",
-      "condition": "See the Kiwi Kids in Corvid Metropolis"
-    },
-    "critter_dance_candy_tile_halls": {
-      "name": "F.R.I.E.N.D.S.",
-      "description": "Getting down and funky!",
-      "condition": "Trigger the Critter Dance event in Candy Tile Halls"
-    },
-    "sit_somewhere_commons": {
-      "name": "No Hard Feelings",
-      "description": ".-_-.",
-      "condition": "Trigger the We'll Sit Somewhere Else event in Commons"
-    },
-    "sun_rooftops": {
-      "name": "Glass Plant",
-      "description": "I want this at home!",
-      "condition": "Visit Sun Rooftops"
-    },
-    "sickly_dress_sweet": {
-      "name": "Too Much Sugar...",
-      "description": "... will make you sick",
-      "condition": "Equip the sickly dress in Sickly Sweet"
-    },
-    "offal_paradise": {
-      "name": "Elegance and Depravity",
-      "description": "Fresh glow!",
-      "condition": "Visit Offal Paradise"
-    },
-    "living_room_forest": {
-      "name": "Familiar Loneliness",
-      "description": "So empty so cozy",
-      "condition": "Reach the living room in Forest"
-    },
-    "nancy_office_blood_drive": {
-      "name": "Magenta Organ Specimen",
-      "description": "Min... Nancy?",
-      "condition": "Equip the Nancy mask in Nancy's Office in Blood Drive"
-    },
-    "sleepy_mouse_polka_menu": {
-      "name": "Soo Sleeepy...",
-      "description": "Mmm... sleeepy time...",
-      "condition": "Obtain the Sleepy Mouse Polka menu theme. If you have already unlocked it, return where it can be found in Monster Manuscripts."
-    },
-    "deflated_heads": {
-      "name": "Why the Long Face?",
-      "description": "You guys are no fun!",
-      "condition": "Visit Deflated Heads"
-    },
-    "summer_dress_roof_tub": {
-      "name": "With the Summer Breeze",
-      "description": "Enjoy your vacation!",
-      "condition": "Equip the Summer Dress mask in Roof Tub"
-    },
-    "bunny_ascii_world": {
-      "name": "The Devious Licker",
-      "description": "I am... the one who licks...",
-      "condition": "Pet the giant bunny in ASCII World"
-    },
-    "rain_girl_industrial_waters": {
-      "name": "Submersion of a Vague Silhouette",
-      "description": "A parting rain that bids you not to leave.",
-      "condition": "Interact with the Rain Girl in Industrial Waters"
-    },
-    "maid_mask_sandstone_resort": {
-      "name": "At Your Service, Master!",
-      "description": "Cute, clever, and always one step ahead - your perfect maid is here!",
-      "condition": "Equip the maid mask where it can be found in Sandstone Resort"
-    },
-    "fishbone_path_corrupted_school": {
-      "name": "Veiled in Silence",
-      "description": "Where the flower sleeps in monochrome silence",
-      "condition": "Reach the Fishbone Path of Corrupted School"
-    },
-    "strange_channel_sunset_woods": {
-      "name": "Please Stand By",
-      "description": "We're currently experiencing technical difficulties.",
-      "condition": "Trigger the Strange Channel event in Sunset Woods"
-    },
-    "effigy_dim_nexus": {
-      "name": "My Model",
-      "description": "A representation of this world",
-      "condition": "Trigger the Effigy event in Dim Nexus"
-    },
-    "flower_girl_corrupted_school": {
-      "name": "Fading Scent of an Ephemeral Bloom",
-      "description": "Is it a kind of corrupted brilliance, or pure chaos? The thought alone gives me a faint dizziness.",
-      "condition": "See the Flower Girl in her normal and corrupted versions in Corrupted School",
-      "checkbox": {
-        "flower_girl_corrupted_school_n": "normal",
-        "flower_girl_corrupted_school_c": "corrupted"
-      }
-    },
-    "lovers_bridge": {
-      "name": "Wings of White in the Night",
-      "description": "Where the birds found love",
-      "condition": "Visit Lover's Bridge"
-    },
-    "snow_vista_aerial_virtue": {
-      "name": "The Icebound Ocean",
-      "description": "Where the Snow Queen treads, even red oceans lose their color",
-      "condition": "Make it snow at the Vista of Aerial Virtue"
-    },
-    "red_strobe_mourning_land": {
-      "name": "Red Strobe",
-      "description": "Red revolving lantern",
-      "condition": "Trigger the Red Strobe event in Mourning Land"
-    },
-    "laughing_wasteland": {
-      "name": "Painful Grins",
-      "description": "Wondering what's so funny?",
-      "condition": "Visit Laughing Wasteland"
-    },
-    "strobe_demon_neo_aztec_club": {
-      "name": "Hypnotizer",
-      "description": "Demons of purple and green, will fiercely run past your screen",
-      "condition": "Trigger the Strobe Demon event in Neo Aztec Club"
-    },
-    "sweet_menu": {
-      "name": "Let the Show Begin!",
-      "description": "Bathed in spotlight, the curtain rises now.",
-      "condition": "Obtain the Sweet menu theme. If you have already unlocked it, return where it can be found in Sweets Circus."
-    },
-    "neon_glasses_rgb_sewers": {
-      "name": "Can't Stop the Feeling",
-      "description": "So just dance, dance, dance!",
-      "condition": "Equip the neon glasses mask where it can be found in RGB Sewers"
-    },
-    "nancy_stellar_basin": {
-      "name": "Beside You",
-      "description": "All I ask is to sit quietly by your side.",
-      "condition": "Sit next to Nancy in Stellar Basin"
-    },
-    "mermaid_overgrown_railway": {
-      "name": "M(ar)innatsuki",
-      "description": "Just like me, but from the sea",
-      "condition": "Find the Minnatsuki mermaid in Overgrown Railway"
-    },
-    "drain_girl_fasciation_world": {
-      "name": "Psychophily",
-      "description": "It's all fusing together...",
-      "condition": "See the Drain Girl in Fasciation World"
-    },
-    "their_reveal_gradient_city": {
-      "name": "Their Reveal",
-      "description": "You can see right through them, and they can see right through you.",
-      "condition": "Get trapped after seeing the Their Reveal event in Gradient City"
-    },
-    "scarlet_river_festering_tomb": {
-      "name": "Beckoned by Thorns and Blood",
-      "description": "In a labyrinth where the unknown and the known trade places, will you mark the journey’s end - or long for its beginning?",
-      "condition": "Reach Scarlet River from Festering Tomb"
-    },
-    "girl_white_lotus_islands": {
-      "name": "Distant Floral Beauty",
-      "description": "So close, and yet so far...",
-      "condition": "Find the Lotus Girl in White Lotus Islands"
-    },
-    "dreams_of_fragrance": {
-      "name": "Olfactory Dreamer",
-      "description": "Of all our memories, scent is the last to fade. Its shape is elusive, yet it lingers deep in the recesses of memory, a rich, fragrant dream settled in the depths.",
-      "condition": "Visit Dreams of Fragrance"
-    },
-    "room_3_a_corrupted_school": {
-      "name": "Sunlit Schoolroom",
-      "description": "An overgrown room not yet claimed by corruption...",
-      "condition": "See the variant of the room 3-A in Corrupted School"
-    },
-    "zen_garden_passage_transition": {
-      "name": "Final Vinyl",
-      "description": "Familiar music in the past still playing right now in the gramophone",
-      "condition": "Reach the transition area between Zen Garden and Passage"
-    },
-    "adobe_town": {
-      "name": "Sunrise Town",
-      "description": "Wonderful time to see this lovely town",
-      "condition": "Visit Adobe Town"
-    },
-    "music_box_moth_garden": {
-      "name": "Requiem for a Moth",
-      "description": "A fleeting proof of existence, just a white outline fading away.",
-      "condition": "Play the music box in Moth Garden"
-    },
-    "lumen_eidolon": {
-      "name": "Radiant Scyphozoa",
-      "description": "In the deepest abyss, your inner light shall shine the brightest",
-      "condition": "Obtain the Lumen eidolon. If you have already unlocked it, return to Jellyfish World."
-    },
-    "red_waters": {
-      "name": "Transitional Ritual",
-      "description": "Close your eyes and let the magic do the rest...",
-      "condition": "Visit Red Waters"
-    },
-    "desk_passage": {
-      "name": "The Wordless Watcher",
-      "condition": "Visit Desk Passage"
-    },
-    "pho_ruminating_meadows": {
-      "name": "Phở",
-      "description": "Thank you for this yummy food!!",
-      "condition": "Buy a Pho from the vending machine in Ruminating Meadows"
-    },
-    "chromatic_apparation_menu": {
-      "name": "Pearl Fly",
-      "description": "Something about this place just feels... soothing",
-      "condition": "Obtain the Chromatic Apparition menu theme. If you have already unlocked it, return where it can be found in Undergrowth."
-    },
-    "rain_stars_cosmic_woods": {
-      "name": "Migration of the Cosmos",
-      "description": "By chance, the spaceship and the stars were both heading here",
-      "condition": "See the rain of stars in Cosmic Woods"
-    },
-    "celestial_menu": {
-      "name": "Starry Moon",
-      "description": "What a gorgeous moon that is in front of our eyes!!!",
-      "condition": "Obtain the Celestial menu theme. If you have already unlocked it, return where it can be found in Celestial Platforms."
-    },
-    "unconscious_doodles": {
-      "name": "A Memory Filled with Graffiti and Plants",
-      "description": "Can I just go wild with graffitis here?",
-      "condition": "Visit Doodles"
-    },
-    "willow_menu": {
-      "name": "Weeping Statue",
-      "description": "Be not afraid, you can look away...",
-      "condition": "Obtain the Willow menu theme. If you have already unlocked it, return where it can be found in White Lotus Islands."
-    },
-    "congregation": {
-      "name": "Congregate",
-      "description": "With every step, it's a new sight of yourself to see...",
-      "condition": "Visit Congregation"
-    },
-    "beacons_crop_circle_maze": {
-      "name": "The Self I Never Knew",
-      "description": "She came from an unknown star - the other me I never expected.",
-      "condition": "Enable the three beacons in Crop Circle Maze"
-    },
-    "lovely_menu": {
-      "name": "Dear You",
-      "description": "Love letter from the depths where I'm drowning in you.",
-      "condition": "Obtain the Lovely menu theme. If you have already unlocked it, return where it can be found in Love Letter Lake."
-    },
-    "worm_blood_spine_zone": {
-      "name": "Blood Grub",
-      "description": "Hi. I'm Soil and I live in your nightmares.",
-      "condition": "Kill the worm in the secret room of Blood Spine Zone"
-    },
-    "stained_glass_reverie": {
-      "name": "Dreams Through the Glass",
-      "description": "Shimmering glass paints my world in color.",
-      "condition": "Visit Stained Glass Reverie"
-    },
-    "creature_overload": {
-      "name": "Professional Complainer",
-      "description": "Wow... that's... rough",
-      "condition": "Interact with the static creature in Overload"
-    },
-    "heart_menu_theme": {
-      "name": "The Heartbeat of a Stitched",
-      "description": "The pivot where reason meets desire.",
-      "condition": "Obtain the Heart menu theme. If you have already unlocked it, return to Heart World."
-    },
-    "balloon_fields": {
-      "name": "Balloon Plantation",
-      "condition": "Visit Balloon Fields"
-    },
-    "green_unconscious": {
-      "name": "Viridian Void",
-      "description": "The void soothes you with its faint, viridescent glow...",
-      "condition": "Visit Green"
-    },
-    "cat_abnormal_sewers": {
-      "name": "Party Cat",
-      "description": "What beautiful eyes you have",
-      "condition": "Find the big cat in Abnormal Sewers"
-    },
-    "dancing_neon_freaks_forest": {
-      "name": "Phosphorescent Dancers",
-      "description": "Think that you're a freak? Not in here!! ^O^",
-      "condition": "Visit Dancing Neon Freaks Forest"
-    },
-    "fella_overload": {
-      "name": "Silly Fella",
-      "description": "He lurks down at the void...",
-      "condition": "Reach the fella in Overload"
-    },
-    "precursor_menu": {
-      "name": "Prism of a Neon Spring",
-      "description": "Hidden in the neon waves",
-      "condition": "Obtain the Precursor menu theme. If you have already unlocked it, return where it can be found in Precursor Towers."
-    },
-    "rainy_junk_drawer": {
-      "name": "Full of Junk",
-      "description": "For sure you can make use out of a few things in here...",
-      "condition": "Visit Rainy Junk Drawer"
-    }
-  },
   "flow": {
     "rust": {
       "name": "Rust",
@@ -9195,21 +7588,6 @@
         "microscopic_world": "Microorganism World",
         "young_passage": "Young Passage"
       }
-    },
-    "attack_smile": {
-      "name": "¿Por qué tan serio?",
-      "description": "\"Eres una chica enferma, pero te veré de nuevo.\"",
-      "condition": "Provoca que Smile proteja a su hermana"
-    },
-    "kill_smile": {
-      "name": "La broma es para ti",
-      "description": "Véngate.",
-      "condition": "Como Rust, mata a Smile en sangre fría"
-    },
-    "smile_channel": {
-      "name": "Canal de la Sonrisa",
-      "description": "¡Hay que poner una sonrisa en esa cara!",
-      "condition": "Interactúa con la televisión en Sabitsuki's Room hasta que una sonrisa aparezca en la pantalla"
     },
     "orange": {
       "name": "Mejores Amigos por Siempre",
@@ -9346,11 +7724,6 @@
       "description": "Divirtiéndose a través de los horrores que se encuentran más allá de mi comprensión",
       "condition": "Obtén el efecto Audífonos. Si ya lo has desbloqueado, regresa a Music World."
     },
-    "kaibutsu_blood_maze": {
-      "name": "¡Vas a una velocidad extrema! Shinsoku Kaibutsu",
-      "description": "Creo que se bebió muchas bebidas energéticas...",
-      "condition": "Sé atrapado por el Shinsoku Kaibutsu en el Blood Maze"
-    },
     "plant_action_flow": {
       "name": "Pulmones Florales",
       "description": "Blegh.",
@@ -9360,15 +7733,6 @@
       "name": "Amigo Gelatinoso",
       "description": "¡Una gelatina feliz aparece!",
       "condition": "Interactúa con el Slime Naranja en Apartments"
-    },
-    "guillotine_prison": {
-      "name": "Culpa y Ejecución",
-      "description": "Todos los que entren aquí abandonen la esperanza.",
-      "condition": "Entra a Hell usando la guillotina en Prison"
-    },
-    "whistle_effect_flow": {
-      "name": "Árbitro Oxidado",
-      "condition": "Obtén el efecto Silbato. Si ya lo has desbloqueado, regresa a donde puede ser encontrado en Visceral World."
     },
     "viscera_effect": {
       "name": "Derrama tus Entrañas",
@@ -9520,11 +7884,6 @@
       "description": "Meow~",
       "condition": "See the Underwater Ship Cat Eyes event in the Underwater Ship"
     },
-    "lookout_point": {
-      "name": "Lookout Point",
-      "description": "Not a gameboy in sight, just spirits living in the moment",
-      "condition": "Visit the second island of the Playground via Symbols Maze"
-    },
     "phantom_symbols": {
       "name": "Phantom Symbols",
       "description": "Bear witness to your own ghost",
@@ -9533,11 +7892,6 @@
     "all_seeing_graffiti": {
       "name": "All-Seeing Graffiti",
       "condition": "Enter the eye mural map in the GB Forest"
-    },
-    "marching_snow_girls": {
-      "name": "March of General Winter",
-      "description": "It's then I hear a voice,\na crystal shining icicle clear voice,\ncold water but made of sound,\ntells me, keep my connection to the spirits strong",
-      "condition": "View the Snow Girl Army at the Frozen Lake"
     },
     "blip_arrow_lane": {
       "name": "Blip",
@@ -9649,16 +8003,6 @@
       "description": "Guardian of the sky",
       "condition": "Go to the edge of Green Field and have the screen pan up to the sky"
     },
-    "rainbow_theme": {
-      "name": "Hour-Long Novelty",
-      "description": "Time buried it deep.",
-      "condition": "Obtain the Rainbow system. If you have already unlocked it, return to the restrooms of the Rainbow Scratch Park."
-    },
-    "docks_aquarium": {
-      "name": "Walks of life",
-      "description": "Calm in the storm.",
-      "condition": "Visit the Aquarium in the Docks"
-    },
     "pastel_girl": {
       "name": "Shoal Girl",
       "condition": "Go to Pastel House"
@@ -9742,11 +8086,6 @@
       "name": "When it Rains",
       "description": "It coats",
       "condition": "See the raincoat girl at the Docks"
-    },
-    "mod_street": {
-      "name": "Mod Theatre",
-      "description": "It's hard to look at, and harder to enter.",
-      "condition": "Take a trip down Mod Street"
     },
     "toxic_alter": {
       "name": "Toxic Buddy",
@@ -9849,11 +8188,6 @@
       "name": "Animal Lover",
       "condition": "Pet the fox in the good ending"
     },
-    "hollow_head": {
-      "name": "Hollow Head",
-      "description": "\"you gotta go to the sospital and get the heeh raura effef so you can heal the glilg in the suswew\" - Jojogape",
-      "condition": "Reach The Void from the Subway"
-    },
     "zapnef_all_clear": {
       "name": "ZapNeF",
       "condition": "Beat all ZApNeF levels"
@@ -9863,84 +8197,14 @@
       "description": "¡Está muy por encima de las 8000!",
       "condition": "Achieve a score of 8000 or more on Level 7 of ZapNeF"
     },
-    "mystery_boxes_flooded": {
-      "name": "Graham",
-      "description": "Where are those speakers?",
-      "condition": "Break the ? box in the Dance Flood"
-    },
-    "mystery_boxes_grassland": {
-      "name": "Fibonacci",
-      "description": "Fuzzy, Not Fuzzy, Fuzzy, Not Fuzzy,...",
-      "condition": "Break the ? box in Grassland World"
-    },
-    "mystery_boxes_neon": {
-      "name": "William and Morris",
-      "description": "PEACE LOVE UNITY RESPECT: THE RAVER'S CODE",
-      "condition": "Break the ? box in Neon World"
-    },
-    "mystery_boxes_question": {
-      "name": "Schrödinger",
-      "description": "¿?QUELQUIÉNWHEREDŌSHITEКОГДА¿?",
-      "condition": "Break the ? box in Question World"
-    },
-    "hexxed": {
-      "name": "Hexxed",
-      "condition": "Find yourself in Hexagon Realm"
-    },
-    "kondo": {
-      "name": "Kondo",
-      "description": "Yes, it's him.",
-      "condition": "See Kondo in Glitch World, Tubes, Memory Graveyard, Empty Gallery, LSD World, Chaos",
-      "checkbox": {
-        "glitch_world_kondo": "Glitch World",
-        "tubes_kondo": "Tubes",
-        "purple_crystal": "Memory Graveyard",
-        "corrupted_art_gallery_sh_e": "Empty Gallery",
-        "lsd_world": "LSD World",
-        "kondo_ending_room|kondo_ending_room_2": "Chaos"
-      }
-    },
     "rusty_bubble": {
       "name": "Rusty Bubble",
       "condition": "Hit Bubbly with the Wrench effect"
-    },
-    "bioluminescence": {
-      "name": "Bioluminescence",
-      "description": "Lo he llamado Miru.",
-      "condition": "Enter the Overgrown Caves"
     },
     "spaceship_flight": {
       "name": "Space Bounty Hunter",
       "description": "Unbelievable riches await you",
       "condition": "Go to the Spaceship Flight Event in Moon 2"
-    },
-    "woodenblocks_toys": {
-      "name": "Isles of Youth",
-      "description": "She doesn't remember",
-      "condition": "Reach the secret island in the Playground"
-    },
-    "red_crystal": {
-      "name": "Sutures",
-      "description": "Time can't heal everything.",
-      "condition": "Get to the end of Thread World"
-    },
-    "tangday_drink": {
-      "name": "TANGDAY",
-      "description": "Now with extra fish oil to help your mental health! [Disclaimer: Does not cure parental issues and trauma that comes from such]",
-      "condition": "Get a drink at the Nice Bar"
-    },
-    "lil_tsuki": {
-      "name": "Li'l Itsuki",
-      "description": "The past forms the future.",
-      "condition": "See Itsuki's younger self in School World, Corrupted School World, Glacier, Space Party, Doodle World, Art Gallery",
-      "checkbox": {
-        "lil_tsuki_school": "School World",
-        "lil_tsuki_corrupted": "Corrupted School World",
-        "lil_tsuki_snow": "Glacier",
-        "lil_tsuki_yellow_crystal": "Space Party",
-        "lil_tsuki_doodle": "Doodle World",
-        "lil_tsuki_art": "Art Gallery"
-      }
     },
     "silent_laughter": {
       "name": "𝐍𝐨𝐭",
@@ -9955,23 +8219,6 @@
       "name": "Crystal Collection",
       "description": "Piecing together the story",
       "condition": "Collect all of the crystals and return to the Crystal Archive in Computer World"
-    },
-    "four_seasons_path": {
-      "name": "Perennial",
-      "description": "Estoy acostumbrado a estar solo. Puedo vivir con ello.",
-      "condition": "Reach the end of the Four Seasons Path and visit the following areas that match the seasons: Desert, Mountain World, Forest, Ice World",
-      "checkbox": {
-        "orange_crystal_room": "Reach the end of the Four Seasons Path",
-        "desert": "Desert",
-        "mountain_world": "Mountain World",
-        "forest": "Forest",
-        "ice_world": "Ice World"
-      }
-    },
-    "purple_crystal_room": {
-      "name": "Vapor and Broken Screams",
-      "description": "I have failed to protect you.",
-      "condition": "Enter the purple crystal room in Memory Graveyard"
     },
     "blue_crystal_room": {
       "name": "Thalassophobia",
@@ -10124,11 +8371,6 @@
       "name": "Pure Static",
       "condition": "View the Corroded Dream event"
     },
-    "pinball_machine": {
-      "name": "Down the Apron",
-      "description": "Let's play some pinball!",
-      "condition": "Visit the Pinball Machine"
-    },
     "hermit_crab": {
       "name": "Hermit Crab",
       "condition": "Get a hermit crab from a vending machine"
@@ -10162,11 +8404,6 @@
       "description": "Windmill windmill for the land...",
       "condition": "Reach the docks area of Windmill Lake"
     },
-    "cheese_congregation_island": {
-      "name": "Swiss Scare",
-      "description": "Something that is both normal to want and completely possible to achieve.",
-      "condition": "Escape the cheese chaser area in Congregation Island"
-    },
     "neon_village_snack_cafe": {
       "name": "Sugary Sweet",
       "description": "Which one to pick?",
@@ -10182,26 +8419,6 @@
       "description": "Oddly nostalgic, but futuristic!",
       "condition": "Enter Pastel Labyrinth"
     },
-    "emergency_light": {
-      "name": "Emergency Light",
-      "description": "Juuuust the five of us. We can catch him if we tryyyyy",
-      "condition": "Escape Floating Lamp World by reaching the Picnic Table"
-    },
-    "uneven_babel": {
-      "name": "Babel",
-      "description": "Falling...",
-      "condition": "Climb to the top of the tower in Forsaken Cliff"
-    },
-    "chaos_dunk": {
-      "name": "CHAAAOOOS DUUUUUNK!!!",
-      "description": "Circle goes in hole, yes?",
-      "condition": "View the Bloodshot Hall event in the Playing Card Maze"
-    },
-    "uneven_rheum": {
-      "name": "Rheum",
-      "description": "Enter Sandman.",
-      "condition": "Visit Eye Dust"
-    },
     "snoozing_rodent": {
       "name": "Snoozing Rodent",
       "description": "'=w= zzz...",
@@ -10215,11 +8432,6 @@
       "name": "Toys!",
       "description": "Try and collect them all!",
       "condition": "Find all of the toys in Fast Food World and unlock the Shoe Rack"
-    },
-    "roadside_diner": {
-      "name": "Roadside Diner",
-      "description": "What’s new, pussycat?",
-      "condition": "Visit the Rainy Street in Pink Desert"
     },
     "totsu_x_ray": {
       "name": "Roentgen",
@@ -10544,27 +8756,6 @@
     }
   },
   "amillusion": {
-    "syncopation": {
-      "name": "Syncopation",
-      "condition": "Visit Le Jazzy Train Bleu"
-    },
-    "epacse": {
-      "name": "SUDOXE",
-      "condition": "Visit the EPACSE Launch Islands and dock your boat at one of the piers"
-    },
-    "guitar": {
-      "name": "Hair Metal",
-      "condition": "Find and play the guitar in Danae's Bad Hair Day"
-    },
-    "rainbow_screw": {
-      "name": "One of Us! One of Us!",
-      "condition": "Use the Screw key to screw into the ground at the Rainbow Screw Floor"
-    },
-    "sequoia_wheel_loss": {
-      "name": "The House Always Wins",
-      "description": "Face the consequences of your losses",
-      "condition": "Roll the worst result on the Sequoia Lucky Forest wheels and get caught by the chasers"
-    },
     "residential_corridor_balcony": {
       "name": "Industrial Society and Its Future",
       "description": "What a polluted view...",
@@ -10580,19 +8771,9 @@
       "description": "Follow the latest trends!",
       "condition": "Get a haircut at the Midnight Mall Hairdresser (with Cougar key)"
     },
-    "sibilant_signs": {
-      "name": "Sibilant Signs",
-      "description": "A torrential brainstorm.",
-      "condition": "Visit Sylphides' Playground"
-    },
     "infinite_rooms_end": {
       "name": "Loophole of Sudden Encounters",
       "condition": "Reach the end of The Infinite Rooms"
-    },
-    "believer_alexandra": {
-      "name": "Indoctrination",
-      "description": "Have a stern chat with the High Priestess.",
-      "condition": "Find Alexandra in the Believer's Temple and try to kill her"
     },
     "mountain_peak": {
       "name": "Sightseer",
@@ -10616,11 +8797,6 @@
       "name": "Never Alone!",
       "description": "Can't be alone if you're always with yourself!",
       "condition": "Purchase a second head in the Organ Store"
-    },
-    "smuggler_bustin": {
-      "name": "Jamrock Shuffle",
-      "description": "French girl bustin' it down smuggler style. Is she goated with the sauce?",
-      "condition": "Dance on the dance floor in Smugglers' Hideout"
     },
     "roxane_attack": {
       "name": "Stop Hitting Yourself",
@@ -10651,11 +8827,6 @@
     "mad_cow_flies_platform": {
       "name": "Mad Cow Disease",
       "condition": "Trigger the Mad Cow event in Flies Platform"
-    },
-    "ladder_museum_geology": {
-      "name": "Wipeout",
-      "description": "We didn't start the fire...",
-      "condition": "Climb the ladder in the Science Museum's Geology exhibit"
     },
     "serene_apartment_aqua": {
       "name": "Serene Fish",
@@ -10792,15 +8963,6 @@
       "name": "Worst Thief EVER.",
       "condition": "Overflow the \"Caught\" counter in Jail"
     },
-    "sleep_paralysis_mare": {
-      "name": "Mare",
-      "description": "\"Sleep paralysis is a state, during waking up or falling asleep, in which one is conscious but is unable to move or speak.\"",
-      "condition": "Sit on the boy's chest in his bedroom"
-    },
-    "rainbow_maze": {
-      "name": "Maze Maestro",
-      "condition": "Reach the final floor of the R-Maze"
-    },
     "owl_chorus": {
       "name": "The Owl Chorus",
       "description": "Let's sing! Let's sing!",
@@ -10825,10 +8987,6 @@
       "name": "Rockin'",
       "description": "I wouldn't make her mad if I were you",
       "condition": "Re-enter Kema's house after getting the memory"
-    },
-    "faraway_place_return": {
-      "name": "Familiar Place",
-      "condition": "Enter the Memory Room door in Faraway Place"
     },
     "glitch_area_proj": {
       "name": "ERROR404",
@@ -11331,11 +9489,6 @@
       "name": "202-Karat Fruit",
       "condition": "Score 2000 points in TA_BE_"
     },
-    "tv_dark_sewers": {
-      "name": "It Watches",
-      "description": "Is it... judging me?",
-      "condition": "Turn ON the TV in the Dark Sewers"
-    },
     "cursed_room_migraine_hallways": {
       "name": "Cursed Room",
       "description": "A lone \"stranded\" box",
@@ -11391,21 +9544,6 @@
       "name": "Self-Destruction",
       "description": "If all you have is a hammer, everything looks like a nail.",
       "condition": "Hit Sometsuki's clone with the hammer"
-    },
-    "uv_repose": {
-      "name": "Repose",
-      "description": "A home away from home.",
-      "condition": "Find the isolated island of Countryside accessed from Streetlamp World"
-    },
-    "vibe_check": {
-      "name": "Vibe Check",
-      "description": "I mean, it's not like it's NOT your fault.",
-      "condition": "Watch the Decapitating Fall event"
-    },
-    "committed_memory": {
-      "name": "Committed to Memory",
-      "description": "HE RUINED MY DREAM JOURNAL! It's a good thing I downloaded a backup save.",
-      "condition": "Buy the save book from the Pastel World shop"
     },
     "pane_master": {
       "name": "PANE Master",
