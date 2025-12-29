@@ -916,11 +916,6 @@
       "name": "信仰の炎",
       "condition": "原始人の村の炎を弱くする"
     },
-    "white_creature": {
-      "name": "整数のオーバーフロー",
-      "description": "割り算の証明？",
-      "condition": "夢見荘で公式証明グラフに話しかける"
-    },
     "data_stream": {
       "name": "デジタルドッペルゲンガー",
       "description": "既視感がある…",
@@ -987,11 +982,6 @@
     "medic_bag": {
       "name": "メディカルバッグ",
       "condition": "廃墟商店:医務室にいる長い髪の医者にギプスを治療してもらう"
-    },
-    "popula_toru": {
-      "name": "退屈そうな目玉っ子",
-      "description": "僕って、つまらない？",
-      "condition": "4つの状態(起きている状態、寝ている状態、下を向いている状態、横になっている状態)の目玉っ子に話しかける"
     },
     "glitch_sushi": {
       "name": "バグ寿司屋",
@@ -1219,11 +1209,6 @@
     "mini_town": {
       "name": "ジャイアント",
       "condition": "代価移住に到達する"
-    },
-    "block_person": {
-      "name": "マヌケな分銅",
-      "description": "僕がマヌケな分銅だ！(イエー！)",
-      "condition": "煉瓦ダンジョンで分銅くんに変身する"
     },
     "madotsukis_room": {
       "name": "The Prequel",
@@ -2842,11 +2827,6 @@
       "description": "遥か昔に絶滅した巨大生物の骨",
       "condition": "昭和庭:河川エリアで石碑と骨のオブジェを見る"
     },
-    "shinto_curse_chaser": {
-      "name": "深き憎悪",
-      "description": "地獄に堕ちるとしても、お前を道連れにできるならそれでいい。",
-      "condition": "和室迷路で追いかけに捕まる"
-    },
     "teru_teru_bozu_pond": {
       "name": "てるてるいけ",
       "description": "雨が降らない日でありますように。",
@@ -4158,11 +4138,6 @@
       "description": "この目は非常に繊細だから、彼は非常に気を遣う",
       "condition": "目玉薬で3つのパターンの目薬売りを見つけて話しかける"
     },
-    "rgb_passage": {
-      "name": "RGBハードコア",
-      "description": "とてもカラフル、でも何かがおかしい。",
-      "condition": "嘔吐庭側からネオン通路に到達する"
-    },
     "debug_badge": {
       "name": "終わりのないオムライス迷宮",
       "description": "放っといて。",
@@ -4554,15 +4529,6 @@
       "name": "赤くておいしい～",
       "description": "わたしの大切な存在・・・",
       "condition": "リンゴ野原にいるリンゴの人にあかずきんを装備して話しかける"
-    },
-    "turquoise_city_lady": {
-      "name": "ターコイズの淑女",
-      "description": "今はあなたと私だけね。",
-      "condition": "ターコイズの街並みにいる帽子をかぶった貴婦人の近くで、てるてるぼうずとくろでんわを使用する",
-      "checkbox": {
-        "turquoise_city_lady_teru": "てるてるぼうず",
-        "turquoise_city_lady_phone": "くろでんわ"
-      }
     },
     "puzzle_scattered_sky_fld": {
       "name": "点在する景色",
@@ -5981,11 +5947,6 @@
       "name": "郊外を見守る翼狼人",
       "description": "\"そんなところにずっといて、退屈しない？\"",
       "condition": "無灯集落世界:高原の建物に到達する"
-    },
-    "chocolate_high_rise_building": {
-      "name": "DANGOとチョコレート",
-      "description": "最っ高に甘い組み合わせ！",
-      "condition": "DANGOからチョコレートの通路に到達する"
     },
     "sepia_cloud_gardens": {
       "name": "100回も夢を見た",
@@ -7562,6 +7523,40 @@
       "name": "天使の制裁",
       "description": "慈悲が尽きるとき、裁きが下される。",
       "condition": "離宮で黒い羽の天使に捕まる"
+    },
+    "evil_slime_mask_slime_village": {
+      "name": "Menace Blob",
+      "description": "It's blue and full of hate for a devious reason",
+      "condition": "Equip the evil slime mask where it can be found in Slime Village"
+    },
+    "live_idol_world_performance": {
+      "name": "Bustling Idol",
+      "description": "Welcome to the glorious stage!",
+      "condition": "See the two performances of the idols in Live Idol World"
+    },
+    "sherbet_snowfield": {
+      "name": "Sweet Shimmer",
+      "description": "The taste reminds you of a simpler time.",
+      "condition": "Visit Sherbet Snowfield"
+    },
+    "tooth_tricolor_room": {
+      "name": "Teethy Beats",
+      "description": "No wires on those headphones, I guess they're Bluetooth!",
+      "condition": "Interact with the tooth creature with headphones in Tricolor Room"
+    },
+    "2kki_candy_shoal": {
+      "name": "Sweetness Overload!",
+      "description": "You should seek dental care after this...",
+      "condition": "Visit Candy Shoal"
+    },
+    "cactus_desert": {
+      "name": "Dreaming of a Summer Afternoon",
+      "description": "There's beauty to be found in the harshest environments.",
+      "condition": "Visit Cactus Desert"
+    },
+    "moss_world": {
+      "name": "Mossy Flowers",
+      "condition": "Visit Moss World"
     }
   },
   "flow": {
@@ -7851,6 +7846,11 @@
       "name": "長すぎる見つめ合い",
       "description": "さびつきはあなたの居心地をよくしたいだけ！",
       "condition": "モノアイのエフェクトを入手する、すでに入手している場合は奇形にもう一度行く。"
+    },
+    "watering_can_effect": {
+      "name": "Expert Gardener",
+      "description": "Uh, that seems like a lot of water for the plants...",
+      "condition": "Obtain the Watering Can effect. If you have already unlocked it, return to Plant World."
     }
   },
   "prayers": {
@@ -8165,11 +8165,6 @@
       "description": "彼女にランプは必要ない、なぜなら彼女自身がランプだから！",
       "condition": "ステンドグラスのアルターを入手する、すでに入手している場合はLamp Forestの見つけた場所に行く。"
     },
-    "gelatinous_alter": {
-      "name": "深海の宝物",
-      "description": "かわいくてピカピカでしょ！うらやましい？",
-      "condition": "ゼラチンのアルターを入手する、すでに入手している場合はAlien Oceanの見つけた場所に行く。"
-    },
     "damage_alter": {
       "name": "医療実験の悲惨な残骸",
       "description": "今はダメージを与えることしか考えられない。",
@@ -8297,6 +8292,11 @@
     "someday_glitch_ending": {
       "name": "どのページを読み込むの?",
       "condition": "Glitch Endingを見る"
+    },
+    "tsukitsukis_bedroom": {
+      "name": "Tsukinception",
+      "description": "Are you just a character in someone else's story?",
+      "condition": "Visit Tsukitsuki's Bedroom"
     }
   },
   "unevendream": {
@@ -8658,6 +8658,10 @@
       "name": "\"スパーク\"リングワイン",
       "description": "きらめく夜のために",
       "condition": "Starlight Bistroに到達する"
+    },
+    "triste_all_seeing_forest": {
+      "name": "No Pasa Nada",
+      "condition": "Find Triste in All-Seeing Forest"
     }
   },
   "braingirl": {
@@ -9331,6 +9335,11 @@
       "name": "バイバイ",
       "description": "誰とも関わりたくない時。",
       "condition": "Streetlights Cornerの少女に触れる"
+    },
+    "spear_of_fear_delusion": {
+      "name": "Fangs Against the Inevitable Order",
+      "description": "Do not falter. Fix your footing where you faced fear head-on. Remember the fear that pierced your heart, and here, the script of the fate that nearly broke you is rewritten.",
+      "condition": "Obtain the Spear of Fear delusion. If you have already unlocked it, return where it can be found in Narrow Apartments."
     }
   },
   "mikan": {

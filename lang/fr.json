@@ -906,11 +906,6 @@
       "name": "Flamme de confiance",
       "condition": "Affaiblir la flamme aux Tribe Settlement"
     },
-    "white_creature": {
-      "name": "Dépassement d'entier",
-      "description": "Preuve de la division ?",
-      "condition": "Interagir avec la créature blanche baveuse dans les Apartments"
-    },
     "data_stream": {
       "name": "Sosie digital",
       "description": "Ça a l'air familier...",
@@ -977,11 +972,6 @@
     "medic_bag": {
       "name": "Trousse de secours",
       "condition": "En utilisant l'effet Plâtre, laisser le docteur dans les Shop Ruins vous guérir"
-    },
-    "popula_toru": {
-      "name": "Camarade cyclope calme",
-      "description": "« Est-ce que je suis trop ennuyante pour toi ? »",
-      "condition": "Interagir avec Pupula-Toru dans ses 4 états différents (réveillé, dormant, regardant le sol, allongé)"
     },
     "glitch_sushi": {
       "name": "Sushi bugué",
@@ -1208,11 +1198,6 @@
     "mini_town": {
       "name": "Géant",
       "condition": "Visiter le Mini-Town"
-    },
-    "block_person": {
-      "name": "Rigobloc",
-      "description": "Je suis un rigobloc ! (Yahou !)",
-      "condition": "Se transformer en bloc sur pattes au Red Brick Maze"
     },
     "madotsukis_room": {
       "name": "La préquelle",
@@ -2833,11 +2818,6 @@
       "description": "Des os d'un ancien temps d'une créature disparue.",
       "condition": "Voir La Chose Qui a Détruite le Monde dans l'Overgrown City"
     },
-    "shinto_curse_chaser": {
-      "name": "Profonde haine",
-      "description": "J'irai dans l'au-delà, mais seulement si je t'y emmène avec moi.",
-      "condition": "Se faire attraper par le chasseur dans le Shinto Shrine"
-    },
     "teru_teru_bozu_pond": {
       "name": "Étang des teru teru",
       "description": "Puisse votre journée se passer sans une once de pluie.",
@@ -4145,11 +4125,6 @@
       "description": "Ces yeux sont très sensibles, donc il prend son travail très à cœur !",
       "condition": "Trouver et interagir avec Megusuri Uri dans les trois parties différentes de Visine World"
     },
-    "rgb_passage": {
-      "name": "RGB Hardcore",
-      "description": "C'est si coloré, mais quelque chose ne va pas.",
-      "condition": "Visiter le RGB Passage"
-    },
     "debug_badge": {
       "name": "Allées omelettes infinies",
       "description": "La légende raconte que d'affamés aventuriers se seraient perdus là-bas et seraient toujours à la recherche d'une sortie...",
@@ -4541,15 +4516,6 @@
       "name": "Les pommes rouges, quel régal~",
       "description": "La pomme de mon œil...",
       "condition": "Interagir avec l'une des créatures pomme avec l'effet Chaperon rouge équipé à la Sunset Road"
-    },
-    "turquoise_city_lady": {
-      "name": "Dame en turquoise",
-      "description": "Juste toi et moi.",
-      "condition": "Trouver la demoiselle aux habits turquoises et utiliser les effets Teru Teru Bōzu et Téléphone proche d'elle à la Turquoise Cityscape",
-      "checkbox": {
-        "turquoise_city_lady_teru": "Teru Teru Bōzu",
-        "turquoise_city_lady_phone": "Téléphone"
-      }
     },
     "puzzle_scattered_sky_fld": {
       "name": "Vue éparpillée",
@@ -5968,11 +5934,6 @@
       "name": "La chauve-souloup qui observait la périphérie",
       "description": "« Tu trouves pas ça ennuyant de rester assis toute la journée ? »",
       "condition": "Atteindre la périphérie de l'Usugurai Residence"
-    },
-    "chocolate_high_rise_building": {
-      "name": "Choco-dango",
-      "description": "Rien de plus sucré que du choco-dango !",
-      "condition": "Atteindre le Chocolate World depuis l'High-rise Building"
     },
     "sepia_cloud_gardens": {
       "name": "Cieux aux 100 rêves",
@@ -7549,6 +7510,40 @@
       "name": "Jugement angélique",
       "description": "Lorsque la pitié disparaît, le jugement tombe.",
       "condition": "Se faire attraper par les anges à l'Angel Palace"
+    },
+    "evil_slime_mask_slime_village": {
+      "name": "Menace gélatineuse",
+      "description": "Bleu et rempli de haine pour une raison maléfique",
+      "condition": "Équiper le masque du méchant slime là où il peut être trouvé au Slime Village"
+    },
+    "live_idol_world_performance": {
+      "name": "Paradis aux idoles",
+      "description": "Bienvenue sur la scène de la gloire !",
+      "condition": "Voir les deux concerts d'idoles au Live Idol World"
+    },
+    "sherbet_snowfield": {
+      "name": "Scintillement sucré",
+      "description": "Le goût vous rappelle celui d'un temps plus simple.",
+      "condition": "Visiter le Sherbet Snowfield"
+    },
+    "tooth_tricolor_room": {
+      "name": "Rythme dantesque",
+      "description": "Pas de câble avec ce casque, ça doit être du Bluetooth !",
+      "condition": "Interagir avec la créature dent portant un casque audio à la Tricolor Room"
+    },
+    "2kki_candy_shoal": {
+      "name": "Toujours plus de sucre !",
+      "description": "Tu devrais prendre un rendez-vous chez un dentiste après ça...",
+      "condition": "Visiter la Candy Shoal"
+    },
+    "cactus_desert": {
+      "name": "Rêvant d'un après-midi d'été",
+      "description": "La beauté se trouve même dans les environnements les plus arides.",
+      "condition": "Visiter le Cactus Desert"
+    },
+    "moss_world": {
+      "name": "Fleurs mousseuses",
+      "condition": "Visiter le Moss World"
     }
   },
   "flow": {
@@ -7838,6 +7833,11 @@
       "name": "Contact visuel prolongé",
       "description": "Sabitsuki souhaite juste que tu sois à tes aises !",
       "condition": "Obtenir l'effet Mono-œil. Si vous l'avez déjà obtenu, retournez au Dysmorphic World."
+    },
+    "watering_can_effect": {
+      "name": "Jardinière talentueuse",
+      "description": "Euh, ça fait peut-être beaucoup d'eau pour les plantes...",
+      "condition": "Obtenir l'effet Arrosoir. Si vous l'avez déjà obtenu, retournez au Plant World."
     }
   },
   "prayers": {
@@ -8152,11 +8152,6 @@
       "description": "Elle n'a pas besoin de lampe torche, elle en est une !",
       "condition": "Obtenir l'alter Vitreux. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à la Lamp Forest."
     },
-    "gelatinous_alter": {
-      "name": "Trésors du fond des mers",
-      "description": "On est si mignons et brillants ! Es-tu médusée par notre beauté ?",
-      "condition": "Obtenir l'alter Gélatineux. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à l'Alien Ocean."
-    },
     "damage_alter": {
       "name": "Les restes tragiques d'une expérience médicale",
       "description": "Tout ce à quoi je peux penser maintenant, c'est de faire des dégâts.",
@@ -8284,6 +8279,11 @@
     "someday_glitch_ending": {
       "name": "Ouvrir quelle entrée ?",
       "condition": "Voir la fin buguée"
+    },
+    "tsukitsukis_bedroom": {
+      "name": "Du tsuki ? DANS MON TSUKI ??",
+      "description": "Tu serais pas un personnage secondaire dans l'histoire de quelqu'un ?",
+      "condition": "Visiter la Tsukitsuki's Bedroom"
     }
   },
   "unevendream": {
@@ -8645,6 +8645,10 @@
       "name": "Vin pétillant",
       "description": "Pour une nuit remplie de bulles",
       "condition": "Visiter le Starlight Bistro"
+    },
+    "triste_all_seeing_forest": {
+      "name": "No pasa nada",
+      "condition": "Trouver Triste dans l'All-Seeing Forest"
     }
   },
   "braingirl": {
@@ -9318,6 +9322,11 @@
       "name": "« Ciao ! »",
       "description": "Une réaction typique lorsque l'on ne souhaite pas avoir la moindre interaction.",
       "condition": "Interagir avec la fille au Streetlights Corner"
+    },
+    "spear_of_fear_delusion": {
+      "name": "À cran contre l'ordre inévitable",
+      "description": "Ne fléchis pas. Corrige ta posture, et affronte la peur tête haute. Souviens-toi de la peur qui a transpercé ton cœur, et ainsi, réécris le destin qui avait souhaité te déchirer.",
+      "condition": "Obtenir l'illusion Lance de la Peur. Si vous l'avez déjà obtenu, retournez là où elle peut être trouvée aux Narrow Apartments."
     }
   },
   "mikan": {

@@ -906,11 +906,6 @@
       "name": "信仰之焰",
       "condition": "让Tribe Settlement的火炬烧得没那么旺"
     },
-    "white_creature": {
-      "name": "整数溢出",
-      "description": "地板防除吗？",
-      "condition": "调查Apartments流口水的白色生物"
-    },
     "data_stream": {
       "name": "数字二重身",
       "description": "有些许眼熟……",
@@ -977,11 +972,6 @@
     "medic_bag": {
       "name": "医药包",
       "condition": "使用石膏效果，在Shop Ruins接受治疗"
-    },
-    "popula_toru": {
-      "name": "冷淡的单眼小家伙",
-      "description": "你是不是觉得我很无聊？",
-      "condition": "与四种不同形态的Pupula-Toru互动（清醒，沉睡，低头，躺下）"
     },
     "glitch_sushi": {
       "name": "故障寿司",
@@ -1208,11 +1198,6 @@
     "mini_town": {
       "name": "巨人",
       "condition": "进入Mini Town"
-    },
-    "block_person": {
-      "name": "呆萌小方块",
-      "description": "我是个小方块儿！（耶！）",
-      "condition": "在Red Brick Maze里变身方块人"
     },
     "madotsukis_room": {
       "name": "前传",
@@ -2833,11 +2818,6 @@
       "description": "远古巨兽的遗骸",
       "condition": "在Overgrown City找到尽头的遗迹。。"
     },
-    "shinto_curse_chaser": {
-      "name": "深仇大恨",
-      "description": "我会下地狱的，只要我把你也拉下去陪我。",
-      "condition": "在Shinto Shrine被挂画附近的追逐者抓住。"
-    },
     "teru_teru_bozu_pond": {
       "name": "晴天小塘",
       "description": "头上别再下雨啦！",
@@ -4151,11 +4131,6 @@
         "megusuri_uri_visine_2|megusuri_uri_visine_3": "Megusuri Uri"
       }
     },
-    "rgb_passage": {
-      "name": "RGB硬核",
-      "description": "相当多彩，但有些过时。",
-      "condition": "进入RGB Passage"
-    },
     "debug_badge": {
       "name": "无尽蛋包饭回廊",
       "description": "随它去吧。",
@@ -4547,15 +4522,6 @@
       "name": "红红的小脸儿温暖我的心窝",
       "description": "你是我的小呀小苹果……",
       "condition": "在Sunset Road，装备小红帽效果之后与任意一个苹果生物互动"
-    },
-    "turquoise_city_lady": {
-      "name": "绿衣女子",
-      "description": "只有你我。",
-      "condition": "在Turquoise Cityscape找到绿松石色衣服的女士，并在她身边使用晴天娃娃和黑电话效果",
-      "checkbox": {
-        "turquoise_city_lady_teru": "晴天娃娃",
-        "turquoise_city_lady_phone": "黑电话"
-      }
     },
     "puzzle_scattered_sky_fld": {
       "name": "散落天景",
@@ -5974,11 +5940,6 @@
       "name": "守望郊区的蝙蝠狼",
       "description": "\"你整天坐在那里不无聊吗？\"",
       "condition": "抵达Usugurai Residence的郊区"
-    },
-    "chocolate_high_rise_building": {
-      "name": "团子与巧克力",
-      "description": "最甜CP！",
-      "condition": "从High-rise Building抵达Chocolate World"
     },
     "sepia_cloud_gardens": {
       "name": "百梦",
@@ -7560,6 +7521,40 @@
       "name": "天使的审判",
       "description": "怜悯结束之时即是审判降临之时。",
       "condition": "被Angel Palace的天使抓到"
+    },
+    "evil_slime_mask_slime_village": {
+      "name": "Menace Blob",
+      "description": "It's blue and full of hate for a devious reason",
+      "condition": "Equip the evil slime mask where it can be found in Slime Village"
+    },
+    "live_idol_world_performance": {
+      "name": "Bustling Idol",
+      "description": "Welcome to the glorious stage!",
+      "condition": "See the two performances of the idols in Live Idol World"
+    },
+    "sherbet_snowfield": {
+      "name": "Sweet Shimmer",
+      "description": "The taste reminds you of a simpler time.",
+      "condition": "Visit Sherbet Snowfield"
+    },
+    "tooth_tricolor_room": {
+      "name": "Teethy Beats",
+      "description": "No wires on those headphones, I guess they're Bluetooth!",
+      "condition": "Interact with the tooth creature with headphones in Tricolor Room"
+    },
+    "2kki_candy_shoal": {
+      "name": "Sweetness Overload!",
+      "description": "You should seek dental care after this...",
+      "condition": "Visit Candy Shoal"
+    },
+    "cactus_desert": {
+      "name": "Dreaming of a Summer Afternoon",
+      "description": "There's beauty to be found in the harshest environments.",
+      "condition": "Visit Cactus Desert"
+    },
+    "moss_world": {
+      "name": "Mossy Flowers",
+      "condition": "Visit Moss World"
     }
   },
   "flow": {
@@ -7849,6 +7844,11 @@
       "name": "延长的目光接触",
       "description": "附锈子只是想让你舒服起来！",
       "condition": "获得单眼效果。若已解锁，请返回Dysmorphic World。"
+    },
+    "watering_can_effect": {
+      "name": "Expert Gardener",
+      "description": "Uh, that seems like a lot of water for the plants...",
+      "condition": "Obtain the Watering Can effect. If you have already unlocked it, return to Plant World."
     }
   },
   "prayers": {
@@ -8163,11 +8163,6 @@
       "description": "她不需要小夜灯，因为她自己就是！",
       "condition": "获得琉璃效果。若已获得，请返回Lamp Forest获得该效果处。"
     },
-    "gelatinous_alter": {
-      "name": "深海珍宝",
-      "description": "我们真是可爱又闪亮！你是果冻吗？",
-      "condition": "获得胶质效果。若已解锁，请返回Alien Ocean获得该效果处。"
-    },
     "damage_alter": {
       "name": "医学实验的悲剧残余",
       "description": "我现在能想到的只有造成伤害。",
@@ -8295,6 +8290,11 @@
     "someday_glitch_ending": {
       "name": "打开哪一页？",
       "condition": "见证故障结局"
+    },
+    "tsukitsukis_bedroom": {
+      "name": "Tsukinception",
+      "description": "Are you just a character in someone else's story?",
+      "condition": "Visit Tsukitsuki's Bedroom"
     }
   },
   "unevendream": {
@@ -8656,6 +8656,10 @@
       "name": "闪耀红酒",
       "description": "为了闪耀之夜",
       "condition": "抵达Starlight Bistro"
+    },
+    "triste_all_seeing_forest": {
+      "name": "No Pasa Nada",
+      "condition": "Find Triste in All-Seeing Forest"
     }
   },
   "braingirl": {
@@ -9329,6 +9333,11 @@
       "name": "Peace Out",
       "description": "When you want no interaction.",
       "condition": "Interact with the girl in Streetlights Corner"
+    },
+    "spear_of_fear_delusion": {
+      "name": "Fangs Against the Inevitable Order",
+      "description": "Do not falter. Fix your footing where you faced fear head-on. Remember the fear that pierced your heart, and here, the script of the fate that nearly broke you is rewritten.",
+      "condition": "Obtain the Spear of Fear delusion. If you have already unlocked it, return where it can be found in Narrow Apartments."
     }
   },
   "mikan": {

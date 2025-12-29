@@ -906,11 +906,6 @@
       "name": "Пламя веры",
       "condition": "Ослабьте огонь в Tribe Settlement."
     },
-    "white_creature": {
-      "name": "Integer Overflow",
-      "description": "Division proof?",
-      "condition": "Дотроньтесь до белого слюнявого существа в Apartments."
-    },
     "data_stream": {
       "name": "Цифровой двойник",
       "description": "Выглядит знакомо...",
@@ -977,11 +972,6 @@
     "medic_bag": {
       "name": "Сумка врача",
       "condition": "С эффектом Гипса, дайте доктору в Shop Ruins вылечить вас."
-    },
-    "popula_toru": {
-      "name": "Uninterested Cyclops Fellow",
-      "description": "Am I too boring for you?",
-      "condition": "Дотроньтесь до Попула-Тору в 4-х разных состояниях (проснулось, спит, смотрит вниз, лежит)."
     },
     "glitch_sushi": {
       "name": "Глючащие cуши",
@@ -1208,11 +1198,6 @@
     "mini_town": {
       "name": "Гигант",
       "condition": "Войдите в Mini-Town."
-    },
-    "block_person": {
-      "name": "Goofy Block",
-      "description": "I'm a goofy block! (yeah!)",
-      "condition": "Превратитесь в ходячий блок в Red Brick Maze."
     },
     "madotsukis_room": {
       "name": "The Prequel",
@@ -2826,11 +2811,6 @@
       "description": "Кости давно павшего гигантского создания.",
       "condition": "Взгляните на Нечто, уничтожившее Мир, в Overgrown City."
     },
-    "shinto_curse_chaser": {
-      "name": "Deep Hatred",
-      "description": "I'll go to hell, but only if I can drag you along with me.",
-      "condition": "Будьте пойманы преследователем в Shinto Shrine."
-    },
     "teru_teru_bozu_pond": {
       "name": "Теру-Теру-Пруд",
       "description": "Пусть твой день будет свободен от дождя.",
@@ -4138,11 +4118,6 @@
       "description": "These eyes are very sensitive so he cares a lot about his work",
       "condition": "Find and interact with Megusuri Uri in the three different parts of Visine World"
     },
-    "rgb_passage": {
-      "name": "RGB Hardcore",
-      "description": "So colorful, but something's off.",
-      "condition": "Enter RGB Passage"
-    },
     "debug_badge": {
       "name": "Endless Omelette Alleys",
       "description": "Leave them be.",
@@ -4534,15 +4509,6 @@
       "name": "Red Delicious~",
       "description": "Apple of my eye...",
       "condition": "Interact with one of the apple creatures with the Red Riding Hood effect equipped in Sunset Road"
-    },
-    "turquoise_city_lady": {
-      "name": "Lady in Turquoise",
-      "description": "Just you and me.",
-      "condition": "Find the lady in turquoise clothes and use the Teru Teru Bōzu and Telephone effects near her in Turquoise Cityscape",
-      "checkbox": {
-        "turquoise_city_lady_teru": "Teru Teru Bōzu",
-        "turquoise_city_lady_phone": "Telephone"
-      }
     },
     "puzzle_scattered_sky_fld": {
       "name": "Scattered Scenery",
@@ -5961,11 +5927,6 @@
       "name": "The Bat-Wolf that Watched the Outskirts",
       "description": "\"Aren't you bored from sitting up there all day?\"",
       "condition": "Reach the outskirts of Usugurai Residence"
-    },
-    "chocolate_high_rise_building": {
-      "name": "Dango and Chocolate",
-      "description": "The sweetest combination!",
-      "condition": "Reach Chocolate World from High-rise Building"
     },
     "sepia_cloud_gardens": {
       "name": "100 Dreams",
@@ -7542,6 +7503,40 @@
       "name": "Judgement of the Angel",
       "description": "When mercy ends, judgement descends.",
       "condition": "Get caught by the angels in Angel Palace"
+    },
+    "evil_slime_mask_slime_village": {
+      "name": "Menace Blob",
+      "description": "It's blue and full of hate for a devious reason",
+      "condition": "Equip the evil slime mask where it can be found in Slime Village"
+    },
+    "live_idol_world_performance": {
+      "name": "Bustling Idol",
+      "description": "Welcome to the glorious stage!",
+      "condition": "See the two performances of the idols in Live Idol World"
+    },
+    "sherbet_snowfield": {
+      "name": "Sweet Shimmer",
+      "description": "The taste reminds you of a simpler time.",
+      "condition": "Visit Sherbet Snowfield"
+    },
+    "tooth_tricolor_room": {
+      "name": "Teethy Beats",
+      "description": "No wires on those headphones, I guess they're Bluetooth!",
+      "condition": "Interact with the tooth creature with headphones in Tricolor Room"
+    },
+    "2kki_candy_shoal": {
+      "name": "Sweetness Overload!",
+      "description": "You should seek dental care after this...",
+      "condition": "Visit Candy Shoal"
+    },
+    "cactus_desert": {
+      "name": "Dreaming of a Summer Afternoon",
+      "description": "There's beauty to be found in the harshest environments.",
+      "condition": "Visit Cactus Desert"
+    },
+    "moss_world": {
+      "name": "Mossy Flowers",
+      "condition": "Visit Moss World"
     }
   },
   "flow": {
@@ -7831,6 +7826,11 @@
       "name": "Prolonged Eye Contact",
       "description": "Sabitsuki just wants to make you feel comfortable!",
       "condition": "Obtain the Mono Eye effect. If you have already unlocked it, return to Dysmorphic World."
+    },
+    "watering_can_effect": {
+      "name": "Expert Gardener",
+      "description": "Uh, that seems like a lot of water for the plants...",
+      "condition": "Obtain the Watering Can effect. If you have already unlocked it, return to Plant World."
     }
   },
   "prayers": {
@@ -8145,11 +8145,6 @@
       "description": "She doesn't need a nightlight, she is one!",
       "condition": "Obtain the Glassy alter. If you have already unlocked it, return where it can be found in Lamp Forest."
     },
-    "gelatinous_alter": {
-      "name": "Deep Sea Treasures",
-      "description": "We're so cute and shiny! Are you jelly?",
-      "condition": "Obtain the Gelatinous alter. If you have already unlocked it, return where it can be found in Alien Ocean."
-    },
     "damage_alter": {
       "name": "The Tragic Remnants of Medical Experiments",
       "description": "All I can think about now is causing damage.",
@@ -8277,6 +8272,11 @@
     "someday_glitch_ending": {
       "name": "Open Which Entry?",
       "condition": "See the Glitch Ending"
+    },
+    "tsukitsukis_bedroom": {
+      "name": "Tsukinception",
+      "description": "Are you just a character in someone else's story?",
+      "condition": "Visit Tsukitsuki's Bedroom"
     }
   },
   "unevendream": {
@@ -8638,6 +8638,10 @@
       "name": "Sparkling Wine",
       "description": "For a sparkling night",
       "condition": "Visit Starlight Bistro"
+    },
+    "triste_all_seeing_forest": {
+      "name": "No Pasa Nada",
+      "condition": "Find Triste in All-Seeing Forest"
     }
   },
   "braingirl": {
@@ -9311,6 +9315,11 @@
       "name": "Peace Out",
       "description": "When you want no interaction.",
       "condition": "Interact with the girl in Streetlights Corner"
+    },
+    "spear_of_fear_delusion": {
+      "name": "Fangs Against the Inevitable Order",
+      "description": "Do not falter. Fix your footing where you faced fear head-on. Remember the fear that pierced your heart, and here, the script of the fate that nearly broke you is rewritten.",
+      "condition": "Obtain the Spear of Fear delusion. If you have already unlocked it, return where it can be found in Narrow Apartments."
     }
   },
   "mikan": {
