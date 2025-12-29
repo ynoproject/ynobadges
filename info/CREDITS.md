@@ -98,6 +98,7 @@
 * Emmaleyna
 * emocore
 * Ena
+* Enni
 * Enola
 * eyeball
 * Fall
@@ -110,6 +111,7 @@
 * Gabaro
 * GillianGao
 * Gionori
+* girgish
 * glubba
 * godon
 * Goose
@@ -249,7 +251,6 @@
 * raspien
 * ribon996
 * Riqo
-* rollaby
 * rooliette
 * Rooy
 * rosaregard
@@ -295,6 +296,7 @@
 * stvalenspine
 * sugarbones
 * Sugarcan3333
+* summersn0w
 * sunny
 * systemaciel
 * taechan
