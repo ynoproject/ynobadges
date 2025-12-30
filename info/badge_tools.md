@@ -120,13 +120,13 @@ CONDITION
 - Variable List -
     - Variable ID -
     - Op -
-        - = - Checks if the value of the selected variable is equal to the selected value. 
-        - < - Checks if the value of the selected variable is less than the selected value. 
-        - > - Checks if the value of the selected variable is greater than the selected value. 
-        - <= - Checks if the value of the selected variable is equal or less than the selected value. 
-        - >= - Checks if the value of the selected variable is equal or greater than the selected value. 
-        - != - Checks if the value of the selected variable is not equal to the selected value. 
-        - >=< - Checks if the value of the selected variable is between the selected value 1 and the selected value 2. This option cannot be used in a Variable List condition.
+        - `=` - Checks if the value of the selected variable is equal to the selected value. 
+        - `<` - Checks if the value of the selected variable is less than the selected value. 
+        - `>` - Checks if the value of the selected variable is greater than the selected value. 
+        - `<=` - Checks if the value of the selected variable is equal or less than the selected value. 
+        - `>=` - Checks if the value of the selected variable is equal or greater than the selected value. 
+        - `!=` - Checks if the value of the selected variable is not equal to the selected value. 
+        - `>=<` - Checks if the value of the selected variable is between the selected value 1 and the selected value 2. This option cannot be used in a Variable List condition.
     - Variable Delay - If set, the variable check will only occur if the variable was edited while the condition was tracked.
     - Variable Trigger -
 
