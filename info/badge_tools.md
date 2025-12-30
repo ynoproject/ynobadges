@@ -69,11 +69,11 @@ If Time Trial badge, write the time as {TIME}
 ㉑ Parent Badge ID -
 
 ㉒ Overlay -
-**Gradient
-**Multiply
-**Mask
-**Dual
-**Location
+** Gradient
+** Multiply
+** Mask
+** Dual
+** Location
 
 ![The various options available for Overlay.](/info/assets/badge_overlay.png)
 
@@ -118,7 +118,8 @@ CONDITION
 * None -
 * Variable -
 * Variable List -
-**Variable ID -
+
+** Variable ID -
 ** Op -
 *** = - Checks if the value of the selected variable is equal to the selected value. 
 *** < - Checks if the value of the selected variable is less than the selected value. 
