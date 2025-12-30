@@ -7,7 +7,9 @@ Once there, login into an account (no need for a moderator or developer account,
 
 ![The badge tool button.](/info/assets/badge_tools_button.png)
 
-## BADGES
+## Content of the Menu
+
+### Badges
 
 ![The badge menu.](/info/assets/badge_general.png)
 ![Bottom of the badge menu.](/info/assets/badge_parameters.png)
@@ -84,7 +86,7 @@ If Time Trial badge, write the time as {TIME}
 ㉕ Delete - Delete the selected badge.
 
 
-CONDITION
+### Condition
 
 ![The options available for conditions.](/info/assets/condition_general.png)
 
@@ -119,7 +121,7 @@ CONDITION
 - Variable -
 - Variable List -
     - Variable ID -
-    - Op -
+    - Op - Check done on the value of the variable to know if the trigger should be activated or not.
         - `=` - Checks if the value of the selected variable is equal to the selected value. 
         - `<` - Checks if the value of the selected variable is less than the selected value. 
         - `>` - Checks if the value of the selected variable is greater than the selected value. 
@@ -130,9 +132,9 @@ CONDITION
     - Variable Delay - If set, the variable check will only occur if the variable was edited while the condition was tracked.
     - Variable Trigger -
 
-Some variable IDs are not edited by the game itself, but are used by this system
+Some variable IDs are not edited by the game itself, but are used by this system and can be used for triggers:
 - 10000 - Amount of money the player has.
-- 10001 - Amount of HP the player has (TODO: is it of the first member? first actor in the db? Current HP or max HP?).
+- 10001 - Amount of Max HP the first member of the party has (usually, Max HP of the protagonist, which is used as part of the drink system in some games).
 
 ![The options available for the variables.](/info/assets/condition_variable.png)
 ![The options available for variables in a list.](/info/assets/condition_variable_list.png)
