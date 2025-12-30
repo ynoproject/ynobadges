@@ -40,11 +40,11 @@ If Time Trial badge, write the time as {TIME}
 ⑫ BP - The amount of BP (Badge Points) a badge should grant. BP must be a multiple of 5 without being 5 and without being negative. If the BP are set to be 0, the badge should be set with the Hidden flag.
 
 ⑬ Requirement Type -
-* None (Mod Granted) - The badge will not be able to be unlocked outside of being manually granted by a moderator or developer on the site.
-* Tag (Default Option) - The badge will be awarded if the set condition is fullfilled.
-* Multiple Tags - The badge will be awarded once all set conditions are fullfilled, or once the number of conditions to fullfill has been reached.
-* Multiple Tags with Alternatives - The badge will be awarded once each set of conditions has at least one of their tags fullfilled.
-* Time Trial - The badge will be awarded if the set condition is fullfilled in less time than the Required Int set.
+- None (Mod Granted) - The badge will not be able to be unlocked outside of being manually granted by a moderator or developer on the site.
+- Tag (Default Option) - The badge will be awarded if the set condition is fullfilled.
+- Multiple Tags - The badge will be awarded once all set conditions are fullfilled, or once the number of conditions to fullfill has been reached.
+- Multiple Tags with Alternatives - The badge will be awarded once each set of conditions has at least one of their tags fullfilled.
+- Time Trial - The badge will be awarded if the set condition is fullfilled in less time than the Required Int set.
 
 ![The various requirements.](/info/assets/badge_requirement_type.png)
 
@@ -69,11 +69,11 @@ If Time Trial badge, write the time as {TIME}
 ㉑ Parent Badge ID -
 
 ㉒ Overlay -
-** Gradient
-** Multiply
-** Mask
-** Dual
-** Location
+-- Gradient
+-- Multiply
+-- Mask
+-- Dual
+-- Location
 
 ![The various options available for Overlay.](/info/assets/badge_overlay.png)
 
@@ -104,49 +104,48 @@ CONDITION
 
 ⑦ Switch Condition -
 
-* None -
-* Switch -
-* Switch List -
-** Switch ID -
-** Value -
-** Switch Delay - If set, the switch check will only occur if the switch was edited while the condition was tracked.
-** Additional Switch(es) -
+- None -
+- Switch -
+- Switch List -
+-- Switch ID -
+-- Value -
+-- Switch Delay - If set, the switch check will only occur if the switch was edited while the condition was tracked.
+-- Additional Switch(es) -
 
 ![The options available for the switch conditions.](/info/assets/condition_switch_list.png)
 
 ⑧ Variable Condition -
-* None -
-* Variable -
-* Variable List -
-
-** Variable ID -
-** Op -
-*** = - Checks if the value of the selected variable is equal to the selected value. 
-*** < - Checks if the value of the selected variable is less than the selected value. 
-*** > - Checks if the value of the selected variable is greater than the selected value. 
-*** <= - Checks if the value of the selected variable is equal or less than the selected value. 
-*** >= - Checks if the value of the selected variable is equal or greater than the selected value. 
-*** != - Checks if the value of the selected variable is not equal to the selected value. 
-*** >=< - Checks if the value of the selected variable is between the selected value 1 and the selected value 2. This option cannot be used in a Variable List condition.
-** Variable Delay - If set, the variable check will only occur if the variable was edited while the condition was tracked.
-** Variable Trigger -
+- None -
+- Variable -
+- Variable List -
+-- Variable ID -
+-- Op -
+--- = - Checks if the value of the selected variable is equal to the selected value. 
+--- < - Checks if the value of the selected variable is less than the selected value. 
+--- > - Checks if the value of the selected variable is greater than the selected value. 
+--- <= - Checks if the value of the selected variable is equal or less than the selected value. 
+--- >= - Checks if the value of the selected variable is equal or greater than the selected value. 
+--- != - Checks if the value of the selected variable is not equal to the selected value. 
+--- >=< - Checks if the value of the selected variable is between the selected value 1 and the selected value 2. This option cannot be used in a Variable List condition.
+-- Variable Delay - If set, the variable check will only occur if the variable was edited while the condition was tracked.
+-- Variable Trigger -
 
 Some variable IDs are not edited by the game itself, but are used by this system
-* 10000 - Amount of money the player has.
-* 10001 - Amount of HP the player has (TODO: is it of the first member? first actor in the db? Current HP or max HP?).
+- 10000 - Amount of money the player has.
+- 10001 - Amount of HP the player has (TODO: is it of the first member? first actor in the db? Current HP or max HP?).
 
 ![The options available for the variables.](/info/assets/condition_variable.png)
 ![The options available for variables in a list.](/info/assets/condition_variable_list.png)
 ![The options available for the variable operators.](/info/assets/condition_variable_operators.png)
 
 ⑨ Trigger -
-* Default -
-* Previous Map ID - Triggers the condition if the previous map the player visited corresponds to the previous map selected. The ID of the map must use 4 digits (e.g. 0009, 0011, 0123, 1640), even if the ID is less than 1000, otherwise the trigger will not work. Yume 2kki internally tracks the previous map ID in the variable 99, which can alternatively be used if a different trigger is needed, or if the game changes quickly the location between different maps which could be incorrectly reflected through this option.
-* Teleport - 
-* Coordinates - If set as the trigger, the Map Coords argument will automatically be set here.
-* Picture - Triggers the condition if a picture with the corresponding name is displayed on-screen. Do not use this setting if the asset were to be used as part of another unrelated event in the map (e.g. asset preloading).
-* Event Collision - Triggers the condition if the player enters in collision with the selected event ID. If nothing happens when entering in collision with the event (no script executed), then the trigger will not work. Several event IDs can be specified for a single condition, in which case the condition will be triggered if any of the selected events was collided. If the event is able to be interacted with to trigger the exact same action, then the badge should also be triggered as part of an Event Interaction.
-* Event Interaction - Triggers the condition if the player interacts with the selected event ID. If nothing happens when interacting with the event (no script executed), then the trigger will not work. Several event IDs can be specified for a single condition, in which case the condition will be triggered if any of the selected events was interacted with.
+- Default -
+- Previous Map ID - Triggers the condition if the previous map the player visited corresponds to the previous map selected. The ID of the map must use 4 digits (e.g. 0009, 0011, 0123, 1640), even if the ID is less than 1000, otherwise the trigger will not work. Yume 2kki internally tracks the previous map ID in the variable 99, which can alternatively be used if a different trigger is needed, or if the game changes quickly the location between different maps which could be incorrectly reflected through this option.
+- Teleport - 
+- Coordinates - If set as the trigger, the Map Coords argument will automatically be set here.
+- Picture - Triggers the condition if a picture with the corresponding name is displayed on-screen. Do not use this setting if the asset were to be used as part of another unrelated event in the map (e.g. asset preloading).
+- Event Collision - Triggers the condition if the player enters in collision with the selected event ID. If nothing happens when entering in collision with the event (no script executed), then the trigger will not work. Several event IDs can be specified for a single condition, in which case the condition will be triggered if any of the selected events was collided. If the event is able to be interacted with to trigger the exact same action, then the badge should also be triggered as part of an Event Interaction.
+- Event Interaction - Triggers the condition if the player interacts with the selected event ID. If nothing happens when interacting with the event (no script executed), then the trigger will not work. Several event IDs can be specified for a single condition, in which case the condition will be triggered if any of the selected events was interacted with.
 
 ![The options available for the trigger conditions.](/info/assets/condition_trigger.png)
 
