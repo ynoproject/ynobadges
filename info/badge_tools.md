@@ -5,20 +5,20 @@ To use it, access one of the games on the site, and append `?badge_tools=true` t
 
 Once there, login into an account (no need for a moderator or developer account, any account will do), go in the badges menu, and a Badge Tools option should be present at the bottom of the menu.
 
-![The badge tool button.](/assets/badge_tools_button.png)
+![The badge tool button.](/info/assets/badge_tools_button.png)
 
 ## BADGES
 
-![The badge menu.](/assets/badge_general.png)
-![Bottom of the badge menu.](/assets/badge_parameters.png)
+![The badge menu.](/info/assets/badge_general.png)
+![Bottom of the badge menu.](/info/assets/badge_parameters.png)
 
 ① Entries - 
 
-② Badge ID - The name used should be tied to the condition, use [snake case](https://en.wikipedia.org/wiki/Snake_case), and be 30 characters or less. If the name is too generic, or could be confused with the badge of another game, don't hesitate to specify the game ID of the game in the name.
+② Badge ID - The name used should be unique, tied to the condition, use [snake case](https://en.wikipedia.org/wiki/Snake_case), and be 30 characters or less. If the name is too generic, or could be confused with the badge of another game, don't hesitate to specify the game ID of the game in the name.
 
 ③ Game - Which game the badge should be assigned to, based on the game ID. A badge can only be assigned to one game. The ynoproject game ID is for global badges, or badges not assigned to any game in particular. By default, a badge is assigned to the game ID of the current game.
 
-![List of games; the list may not be up to date and is only displayed as an example.](/assets/badge_game_id.png)
+![List of games; the list may not be up to date and is only displayed as an example.](/info/assets/badge_game_id.png)
 
 ④ Group - Only present for some games like ynoproject, 2kki, flow, unevendream, fog. See file for where data configured https://github.com/ynoproject/forest-orb/blob/master/badgetools.js, langcondition
 
@@ -45,15 +45,15 @@ Once there, login into an account (no need for a moderator or developer account,
 * Multiple Tags with Alternatives -
 * Time Trial -
 
-![The various requirements.](/assets/badge_requirement_type.png)
+![The various requirements.](/info/assets/badge_requirement_type.png)
 
 ⑭ Tag Requirement Count (Multiple Tags only) - Number of conditions the player has to do before unlocking the badge. If set, 
 
-![The requirements tied to Multiple Tags.](/assets/badge_requirement_multiple.png)
+![The requirements tied to Multiple Tags.](/info/assets/badge_requirement_multiple.png)
 
 ⑮ Required Int (Time Trial only) - Number of seconds the player has to obtain the badge.
 
-![The requirements tied to Time Trial.](/assets/badge_requirement_time_trial.png)
+![The requirements tied to Time Trial.](/info/assets/badge_requirement_time_trial.png)
 
 ⑯ Map ID - Map ID of the location that should be linked to the location displayed in the badge menu. This info is also used to order badges, so please set it even for badges where this info is not displayed. Note that it is possible to add arguments for the MapX and MapY point for a badges file, to point at a specific location point in a map, but it is not possible to set this feature through the Badge Tools menu, and requires to be manually added.
 
@@ -74,7 +74,7 @@ Once there, login into an account (no need for a moderator or developer account,
 **Dual
 **Location
 
-![The various options available for Overlay.](/assets/badge_overlay.png)
+![The various options available for Overlay.](/info/assets/badge_overlay.png)
 
 ㉓ Batch - Badges will not be present in the badge list for non-developers account if the selected batch has not yet been reached.
 
@@ -85,7 +85,7 @@ Once there, login into an account (no need for a moderator or developer account,
 
 CONDITION
 
-![The options available for conditions.](/assets/condition_general.png)
+![The options available for conditions.](/info/assets/condition_general.png)
 
 ① Entries -
 
@@ -99,7 +99,7 @@ CONDITION
 
 ⑥ Map Coords - MapX1 Setting -1 as the value of both X/Y1 and X/Y2 will ignore said X or Y value for the check.
 
-![The options available for the map conditions.](/assets/condition_map_coords.png)
+![The options available for the map conditions.](/info/assets/condition_map_coords.png)
 
 ⑦ Switch Condition -
 
@@ -111,7 +111,7 @@ CONDITION
 ** Switch Delay - If set, the switch check will only occur if the switch was edited while the condition was tracked.
 ** Additional Switch(es) -
 
-![The options available for the switch conditions.](/assets/condition_switch_list.png)
+![The options available for the switch conditions.](/info/assets/condition_switch_list.png)
 
 ⑧ Variable Condition -
 * None -
@@ -132,9 +132,9 @@ Special values
 10000 - Amount of money the player has.
 10001 - Amount of HP the player has (TODO: is it of the first member? first actor in the db? Current HP or max HP?).
 
-![The options available for the variables.](/assets/condition_variable.png)
-![The options available for variables in a list.](/assets/condition_variable_list.png)
-![The options available for the variable operators.](/assets/condition_variable_operators.png)
+![The options available for the variables.](/info/assets/condition_variable.png)
+![The options available for variables in a list.](/info/assets/condition_variable_list.png)
+![The options available for the variable operators.](/info/assets/condition_variable_operators.png)
 
 ⑨ Trigger -
 * Default -
@@ -145,7 +145,7 @@ Special values
 * Event Collision - Triggers the condition if the player enters in collision with the selected event ID. If nothing happens when entering in collision with the event (no script executed), then the trigger will not work. Several event IDs can be specified for a single condition, in which case the condition will be triggered if any of the selected events was collided. If the event is able to be interacted with to trigger the exact same action, then the badge should also be triggered as part of an Event Interaction.
 * Event Interaction - Triggers the condition if the player interacts with the selected event ID. If nothing happens when interacting with the event (no script executed), then the trigger will not work. Several event IDs can be specified for a single condition, in which case the condition will be triggered if any of the selected events was interacted with.
 
-![The options available for the trigger conditions.](/assets/condition_trigger.png)
+![The options available for the trigger conditions.](/info/assets/condition_trigger.png)
 
 ⑩ Time Trial - Checks if the condition should only be triggered while in Time Trial. Time Trial badges are only supported for Yume 2kki.
 
@@ -154,7 +154,7 @@ Special values
 
 Export - Export the generated files in a zip archive.
 
-![The export button.](/assets/export_button.png)
+![The export button.](/info/assets/export_button.png)
 
 
 Time Trial considerations
@@ -166,36 +166,3 @@ RPG Maker 2003 (RPG Maker 2000 can be used for the Japanese fangames on the site
 Yume Wiki
 
 
-## Handling the badge sheet
-
-## Credits
-
-### Badge System
-* Desdaemon - Strike-through text for multiple condition-badges
-* Sam - Conception, Implementation
-(check)
-
-### Badge Implementation
-* Carbonara
-* Hyo
-* Sam
-* YouArentDistorted
-(check)
-
-### Translation
-* Carbonara - French translation
-* Pats - Spanish translation
-* uroyu - Japanese translation
-
-
-Artists are credited in the files tied to their badges present in the badges folder, and can be seen on the site by hovering over one of their badges in the badge menu.
-
-## Related Links
-* [YNOproject](https://ynoproject.net/)
-* [YNOproject Discord](https://ynoproject.net/discord)
-* [YNOproject Tumblr](https://tumblr.com/ynoproject)
-* [YNOproject X (previously Twitter)](https://twitter.com/ynoproject)
-* [Yume Wiki](https://yume.wiki/Main_Page)
-* [Yume Nikki Fangames Wiki](https://ynfg.yume.wiki/Yume_Nikki_Fangames_Wiki)
-* [EasyRPG.org](https://easyrpg.org/)
-* [EasyRPG Wiki](https://wiki.easyrpg.org/)
