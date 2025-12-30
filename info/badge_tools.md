@@ -14,9 +14,9 @@ Once there, login into an account (no need for a moderator or developer account,
 
 ① Entries - 
 
-② Badge ID - The name used should be unique, tied to the condition, use [snake case](https://en.wikipedia.org/wiki/Snake_case), and be 30 characters or less. If the name is too generic, or could be confused with the badge of another game, don't hesitate to specify the game ID of the game in the name.
+② Badge ID - The ID of the badge internally used by the system. The name used should be unique, tied to the condition to be easier to search, use [snake case](https://en.wikipedia.org/wiki/Snake_case), and be 30 characters or less. If the name is too generic, or could be confused with the badge of another game, don't hesitate to specify the game ID of the game in the name.
 
-③ Game - Which game the badge should be assigned to, based on the game ID. A badge can only be assigned to one game. The ynoproject game ID is for global badges, or badges not assigned to any game in particular. By default, a badge is assigned to the game ID of the current game.
+③ Game - Which game the badge should be assigned to, based on the game ID. A badge can only be assigned to one game. The ynoproject game ID is for global badges, or badges not assigned to any game in particular. When using the badge tools, by default, a badge is assigned to the game ID of the current game.
 
 ![List of games; the list may not be up to date and is only displayed as an example.](/info/assets/badge_game_id.png)
 
@@ -31,23 +31,24 @@ Once there, login into an account (no need for a moderator or developer account,
 ⑧ Description - Text of the description. This field is optional and can be left empty if the badge doesn't use it.
 
 ⑨ Condition - Text for the condition (formatting)
+If Time Trial badge, write the time as {TIME}
 
 ⑩ Artist - Name of the artist. If several artists, separate them with `,` and `&` characters (e.g. `Allan, Benjamin, Chloé & Daniel`, `Estelle & Folia`).
 
-⑪ Animated -
+⑪ Animated - Whether a badge is animated or not.
 
 ⑫ BP - The amount of BP (Badge Points) a badge should grant. BP must be a multiple of 5 without being 5 and without being negative. If the BP are set to be 0, the badge should be set with the Hidden flag.
 
 ⑬ Requirement Type -
 * None (Mod Granted) - The badge will not be able to be unlocked outside of being manually granted by a moderator or developer on the site.
-* Tag (Default Option) -
-* Multiple Tags -
-* Multiple Tags with Alternatives -
-* Time Trial -
+* Tag (Default Option) - The badge will be awarded if the set condition is fullfilled.
+* Multiple Tags - The badge will be awarded once all set conditions are fullfilled, or once the number of conditions to fullfill has been reached.
+* Multiple Tags with Alternatives - The badge will be awarded once each set of conditions has at least one of their tags fullfilled.
+* Time Trial - The badge will be awarded if the set condition is fullfilled in less time than the Required Int set.
 
 ![The various requirements.](/info/assets/badge_requirement_type.png)
 
-⑭ Tag Requirement Count (Multiple Tags only) - Number of conditions the player has to do before unlocking the badge. If set, 
+⑭ Tag Requirement Count (Multiple Tags only) - Number of conditions the player has to do before unlocking the badge. If set to 1, the number of conditions the badge has will not be displayed on-screen.
 
 ![The requirements tied to Multiple Tags.](/info/assets/badge_requirement_multiple.png)
 
@@ -55,7 +56,7 @@ Once there, login into an account (no need for a moderator or developer account,
 
 ![The requirements tied to Time Trial.](/info/assets/badge_requirement_time_trial.png)
 
-⑯ Map ID - Map ID of the location that should be linked to the location displayed in the badge menu. This info is also used to order badges, so please set it even for badges where this info is not displayed. Note that it is possible to add arguments for the MapX and MapY point for a badges file, to point at a specific location point in a map, but it is not possible to set this feature through the Badge Tools menu, and requires to be manually added.
+⑯ Map ID - Map ID of the location that should be linked to the location displayed in the badge menu. This info is also used to order badges, so please set it even for badges where Secret Map is used. Note that it is possible to add arguments for the MapX and MapY point for a badges file, to point at a specific location point in a map, but it is not possible to set this feature through the Badge Tools menu, and requires to be manually added.
 
 ⑰ Secret - If set, before being obtained, the name of the badge will be displayed as ???, its description and condition text will not be displayed, and the art of the badge will not be displayed.
 
@@ -128,9 +129,10 @@ CONDITION
 *** >=< - Checks if the value of the selected variable is between the selected value 1 and the selected value 2. This option cannot be used in a Variable List condition.
 ** Variable Delay - If set, the variable check will only occur if the variable was edited while the condition was tracked.
 ** Variable Trigger -
-Special values
-10000 - Amount of money the player has.
-10001 - Amount of HP the player has (TODO: is it of the first member? first actor in the db? Current HP or max HP?).
+
+Some variable IDs are not edited by the game itself, but are used by this system
+* 10000 - Amount of money the player has.
+* 10001 - Amount of HP the player has (TODO: is it of the first member? first actor in the db? Current HP or max HP?).
 
 ![The options available for the variables.](/info/assets/condition_variable.png)
 ![The options available for variables in a list.](/info/assets/condition_variable_list.png)
@@ -158,11 +160,3 @@ Export - Export the generated files in a zip archive.
 
 
 Time Trial considerations
-
-## Finding triggers
-Recommended tools
-EasyRPG Player
-RPG Maker 2003 (RPG Maker 2000 can be used for the Japanese fangames on the site, but is slower than just opening those games in RPG Maker 2003 and is not needed since the battle system isn't used)
-Yume Wiki
-
-
