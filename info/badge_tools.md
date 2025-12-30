@@ -69,11 +69,11 @@ If Time Trial badge, write the time as {TIME}
 ㉑ Parent Badge ID -
 
 ㉒ Overlay -
--- Gradient
--- Multiply
--- Mask
--- Dual
--- Location
+    - Gradient
+    - Multiply
+    - Mask
+    - Dual
+    - Location
 
 ![The various options available for Overlay.](/info/assets/badge_overlay.png)
 
@@ -107,10 +107,10 @@ CONDITION
 - None -
 - Switch -
 - Switch List -
--- Switch ID -
--- Value -
--- Switch Delay - If set, the switch check will only occur if the switch was edited while the condition was tracked.
--- Additional Switch(es) -
+    - Switch ID -
+    - Value -
+    - Switch Delay - If set, the switch check will only occur if the switch was edited while the condition was tracked.
+    - Additional Switch(es) -
 
 ![The options available for the switch conditions.](/info/assets/condition_switch_list.png)
 
@@ -118,17 +118,17 @@ CONDITION
 - None -
 - Variable -
 - Variable List -
--- Variable ID -
--- Op -
---- = - Checks if the value of the selected variable is equal to the selected value. 
---- < - Checks if the value of the selected variable is less than the selected value. 
---- > - Checks if the value of the selected variable is greater than the selected value. 
---- <= - Checks if the value of the selected variable is equal or less than the selected value. 
---- >= - Checks if the value of the selected variable is equal or greater than the selected value. 
---- != - Checks if the value of the selected variable is not equal to the selected value. 
---- >=< - Checks if the value of the selected variable is between the selected value 1 and the selected value 2. This option cannot be used in a Variable List condition.
--- Variable Delay - If set, the variable check will only occur if the variable was edited while the condition was tracked.
--- Variable Trigger -
+    - Variable ID -
+    - Op -
+        - = - Checks if the value of the selected variable is equal to the selected value. 
+        - < - Checks if the value of the selected variable is less than the selected value. 
+        - > - Checks if the value of the selected variable is greater than the selected value. 
+        - <= - Checks if the value of the selected variable is equal or less than the selected value. 
+        - >= - Checks if the value of the selected variable is equal or greater than the selected value. 
+        - != - Checks if the value of the selected variable is not equal to the selected value. 
+        - >=< - Checks if the value of the selected variable is between the selected value 1 and the selected value 2. This option cannot be used in a Variable List condition.
+    - Variable Delay - If set, the variable check will only occur if the variable was edited while the condition was tracked.
+    - Variable Trigger -
 
 Some variable IDs are not edited by the game itself, but are used by this system
 - 10000 - Amount of money the player has.
