@@ -5046,7 +5046,7 @@
     "qxy_vm_challenge": {
       "name": "数学者",
       "description": "雪山にある製造者",
-      "condition": "以下の場所にある自販機でお菓子を買う:目覚めの森、目覚めの森(雪の小道)、迷子石、haven、ネオンケイブ、ハサミ、石切、赤黒迷路、ポリキューブ(木)、ポリキューブ(氷)、水の迷路、自販工場、クラシックホテル(バルコニー)、オーロラ湖、釣り堀、万華鏡の世界、六角タイル工場、徒花、赤い下水道、ダムのほとり、赤い迷路、バーチャルシティ(バー)",
+      "condition": "Find and buy a snack from 15 of the vending machines in the following locations:目覚めの森、目覚めの森(雪の小道)、迷子石、haven、ネオンケイブ、ハサミ、石切、赤黒迷路、ポリキューブ(木)、ポリキューブ(氷)、水の迷路、自販工場、クラシックホテル(バルコニー)、オーロラ湖、釣り堀、万華鏡の世界、六角タイル工場、徒花、赤い下水道、ダムのほとり、赤い迷路、バーチャルシティ(バー)、自販工場：展示スペース",
       "checkbox": {
         "qxy_vm_snowy_forest": "目覚めの森",
         "qxy_vm_winter_path": "目覚めの森(雪の小道)",
@@ -5069,7 +5069,8 @@
         "qxy_vm_red_sewers": "赤い下水道",
         "qxy_vm_wooded_lakeside_b": "ダムのほとり",
         "qxy_vm_oblique_hell": "赤い迷路",
-        "qxy_vm_virtual_city_bar": "バーチャルシティ(バー)"
+        "qxy_vm_virtual_city_bar": "バーチャルシティ(バー)",
+        "qxy_vm_snack_gallery": "自販工場：展示スペース"
       }
     },
     "tentacle_lamplit_stones": {
@@ -7557,6 +7558,29 @@
     "moss_world": {
       "name": "Mossy Flowers",
       "condition": "Visit Moss World"
+    },
+    "2kki_raincoat_effect": {
+      "name": "Her Yellow Raincoat",
+      "description": "Gotta dress for the weather!",
+      "condition": "Obtain the Teru Teru Bōzu and Red Riding Hood effects. If you have already unlocked them, return where they can be found respectively in the main part of Dark Alleys and in the Fairy Tale Woods/in the Birch Forest.",
+      "checkbox": {
+        "red_riding_hood_effect_a|red_riding_hood_effect_b": "Red Riding Hood",
+        "teru_teru_bozu_effect": "Teru Teru Bōzu"
+      }
+    },
+    "dark_room_secret_society": {
+      "name": "TURN OFF THE LIGHT!",
+      "condition": "Use the Lantern effect in the dark room of Secret Society"
+    },
+    "house_shape_world": {
+      "name": "Come On In!",
+      "description": "The rent's free and you get a weekly allowance of Yume!",
+      "condition": "Visit the house in Shape World"
+    },
+    "room_burgundy_flats": {
+      "name": "Door's Open If You Need Anything.",
+      "description": "Need the key to my apartment? sure, don't steal anything though.",
+      "condition": "Visit the room of the person with red hair in Burgundy Flats"
     }
   },
   "flow": {
@@ -8662,6 +8686,11 @@
     "triste_all_seeing_forest": {
       "name": "なんてことないよ",
       "condition": "All-Seeing ForestでTristeを見つける"
+    },
+    "marshmallow_effect": {
+      "name": "Dreaming of Sweetness",
+      "description": "Squishy... yummy... tasty... marshmallow...",
+      "condition": "Obtain the Marshmallow effect. If you have already unlocked it, return where it can be found in Tasty Plains."
     }
   },
   "braingirl": {

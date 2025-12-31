@@ -5026,7 +5026,7 @@
     "qxy_vm_challenge": {
       "name": "Matemático",
       "description": "Aqui se diz que é de um fabricante de uma cadeia de montanhas nevadas",
-      "condition": "Encontre e compre um snack nas máquinas de venda automática nos seguintes locais: Snowy Forest, Snowy Forest (Winter Path), Erratic Pillar Lands, Cotton Candy Haven, Neon Caves, Surgical Scissors World, Aquatic Cube City, Static Noise Hell, Polycube Ruins ( Máquina de Venda Automática de Madeira), Polycube Ruins (Máquina de Venda Automática de Gelo), Flooded Dungeon, Vending Machine Factory (entrada), Travel Hotel (Varanda), Aurora Lake, Streetlight Docks (Angler's Depths), Kaleidoscope World, Critter Village (Hexagonal Tile Factory), Adabana Gardens, Red Sewers, Wooded Lakeside B, Oblique Hell, Virtual City (Entrada do Bar)",
+      "condition": "Find and buy a snack from 15 of the vending machines in the following locations: Snowy Forest, Snowy Forest (Winter Path), Erratic Pillar Lands, Cotton Candy Haven, Neon Caves, Surgical Scissors World, Aquatic Cube City, Static Noise Hell, Polycube Ruins ( Máquina de Venda Automática de Madeira), Polycube Ruins (Máquina de Venda Automática de Gelo), Flooded Dungeon, Vending Machine Factory (entrada), Travel Hotel (Varanda), Aurora Lake, Streetlight Docks (Angler's Depths), Kaleidoscope World, Critter Village (Hexagonal Tile Factory), Adabana Gardens, Red Sewers, Wooded Lakeside B, Oblique Hell, Virtual City (Entrada do Bar), Snack Gallery",
       "checkbox": {
         "qxy_vm_snowy_forest": "Snowy Forest",
         "qxy_vm_winter_path": "Snowy Forest (Winter Path)",
@@ -5036,11 +5036,11 @@
         "qxy_vm_surgical_scissors": "Surgical Scissors World",
         "qxy_vm_aquatic_cube_city": "Aquatic Cube City",
         "qxy_vm_static_noise_hell": "Static Noise Hell",
-        "qxy_vm_pl_ruins_wood": "Polycube Ruins (Wood vending machine)",
-        "qxy_vm_pl_ruins_ice": "Polycube Ruins (Ice vending machine)",
+        "qxy_vm_pl_ruins_wood": "Polycube Ruins ( Máquina de Venda Automática de Madeira)",
+        "qxy_vm_pl_ruins_ice": "Polycube Ruins (Máquina de Venda Automática de Gelo)",
         "qxy_vm_flooded_dungeon": "Flooded Dungeon",
-        "qxy_vm_vm_factory_ent": "Vending Machine Factory (Entrance)",
-        "qxy_vm_travel_hotel_balcony": "Travel Hotel (Balcony)",
+        "qxy_vm_vm_factory_ent": "Vending Machine Factory (entrada)",
+        "qxy_vm_travel_hotel_balcony": "Travel Hotel (Varanda)",
         "qxy_vm_aurora_lake": "Aurora Lake",
         "qxy_vm_anglers_depths": "Streetlight Docks (Angler's Depths)",
         "qxy_vm_kaleidoscope_world": "Kaleidoscope World",
@@ -5049,7 +5049,8 @@
         "qxy_vm_red_sewers": "Red Sewers",
         "qxy_vm_wooded_lakeside_b": "Wooded Lakeside B",
         "qxy_vm_oblique_hell": "Oblique Hell",
-        "qxy_vm_virtual_city_bar": "Virtual City (Bar Entrance)"
+        "qxy_vm_virtual_city_bar": "Virtual City (Entrada do Bar)",
+        "qxy_vm_snack_gallery": "Snack Gallery"
       }
     },
     "tentacle_lamplit_stones": {
@@ -7537,6 +7538,29 @@
     "moss_world": {
       "name": "Mossy Flowers",
       "condition": "Visit Moss World"
+    },
+    "2kki_raincoat_effect": {
+      "name": "Her Yellow Raincoat",
+      "description": "Gotta dress for the weather!",
+      "condition": "Obtain the Teru Teru Bōzu and Red Riding Hood effects. If you have already unlocked them, return where they can be found respectively in the main part of Dark Alleys and in the Fairy Tale Woods/in the Birch Forest.",
+      "checkbox": {
+        "red_riding_hood_effect_a|red_riding_hood_effect_b": "Red Riding Hood",
+        "teru_teru_bozu_effect": "Teru Teru Bōzu"
+      }
+    },
+    "dark_room_secret_society": {
+      "name": "TURN OFF THE LIGHT!",
+      "condition": "Use the Lantern effect in the dark room of Secret Society"
+    },
+    "house_shape_world": {
+      "name": "Come On In!",
+      "description": "The rent's free and you get a weekly allowance of Yume!",
+      "condition": "Visit the house in Shape World"
+    },
+    "room_burgundy_flats": {
+      "name": "Door's Open If You Need Anything.",
+      "description": "Need the key to my apartment? sure, don't steal anything though.",
+      "condition": "Visit the room of the person with red hair in Burgundy Flats"
     }
   },
   "flow": {
@@ -8642,6 +8666,11 @@
     "triste_all_seeing_forest": {
       "name": "No Pasa Nada",
       "condition": "Find Triste in All-Seeing Forest"
+    },
+    "marshmallow_effect": {
+      "name": "Dreaming of Sweetness",
+      "description": "Squishy... yummy... tasty... marshmallow...",
+      "condition": "Obtain the Marshmallow effect. If you have already unlocked it, return where it can be found in Tasty Plains."
     }
   },
   "braingirl": {

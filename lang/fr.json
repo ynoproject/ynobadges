@@ -5033,7 +5033,7 @@
     "qxy_vm_challenge": {
       "name": "Matheuse des distributeurs automatiques",
       "description": "Il est dit que cette machine a été fournie par un fabricant dans une vallée enneigée",
-      "condition": "Trouver et acheter un goûter d'un distributeur automatique dans les lieux suivants : Snowy Forest, Snowy Forest (Passage Hivernal), Erratic Pillar Lands, Cotton Candy Haven, Neon Caves, Surgical Scissors World, Aquatic Cube City, Static Noise Hell, Polycube Ruins (distributeur automatique en bois), Polycube Ruins (distributeur automatique en glace), Flooded Dungeon, Vending Machine Factory (Entrée), Travel Hotel (Balcon), Aurora Lake, Streetlight Docks (Profondeurs des Pêcheurs), Kaleidoscope World, Critter Village (Usine aux Tuiles Hexagonales), Adabana Gardens, Red Sewers, Wooded Lakeside B, Oblique Hell, Virtual City (Entrée du Bar)",
+      "condition": "Trouver et acheter un goûter dans 15 des distributeur automatiques des lieux suivants : Snowy Forest, Snowy Forest (Passage Hivernal), Erratic Pillar Lands, Cotton Candy Haven, Neon Caves, Surgical Scissors World, Aquatic Cube City, Static Noise Hell, Polycube Ruins (distributeur automatique en bois), Polycube Ruins (distributeur automatique en glace), Flooded Dungeon, Vending Machine Factory (Entrée), Travel Hotel (Balcon), Aurora Lake, Streetlight Docks (Profondeurs des Pêcheurs), Kaleidoscope World, Critter Village (Usine aux Tuiles Hexagonales), Adabana Gardens, Red Sewers, Wooded Lakeside B, Oblique Hell, Virtual City (Entrée du Bar), Snack Gallery",
       "checkbox": {
         "qxy_vm_snowy_forest": "Snowy Forest",
         "qxy_vm_winter_path": "Snowy Forest (Passage Hivernal)",
@@ -5056,7 +5056,8 @@
         "qxy_vm_red_sewers": "Red Sewers",
         "qxy_vm_wooded_lakeside_b": "Wooded Lakeside B",
         "qxy_vm_oblique_hell": "Oblique Hell",
-        "qxy_vm_virtual_city_bar": "Virtual City (Entrée du Bar)"
+        "qxy_vm_virtual_city_bar": "Virtual City (Entrée du Bar)",
+        "qxy_vm_snack_gallery": "Snack Gallery"
       }
     },
     "tentacle_lamplit_stones": {
@@ -7544,6 +7545,29 @@
     "moss_world": {
       "name": "Fleurs mousseuses",
       "condition": "Visiter le Moss World"
+    },
+    "2kki_raincoat_effect": {
+      "name": "Imperméable jaune",
+      "description": "Il faut bien s'habiller quand il pleut !",
+      "condition": "Obtenir les effets Teru Teru Bōzu et Chaperon rouge. Si vous les avez déjà obtenus, retournez là où ils peuvent être trouvés respectivement dans la zone principale des Dark Alleys et aux Fairy Tale Woods/à la Birch Forest.",
+      "checkbox": {
+        "red_riding_hood_effect_a|red_riding_hood_effect_b": "Chaperon rouge",
+        "teru_teru_bozu_effect": "Teru Teru Bōzu"
+      }
+    },
+    "dark_room_secret_society": {
+      "name": "ÉTEINS LA LUMIÈRE !",
+      "condition": "Utiliser l'effet Lanterne dans la salle sombre de la Secret Society"
+    },
+    "house_shape_world": {
+      "name": "Entre !",
+      "description": "Le loyer est gratuit et une pension hebdomadaire de Yume y est versée !",
+      "condition": "Visiter la maison au Shape World"
+    },
+    "room_burgundy_flats": {
+      "name": "« La porte est ouverte si t'as besoin de quoique ce soit. »",
+      "description": "Tu veux la clé de l'appart' ? Aucun problème, du moment que tu ne piques rien.",
+      "condition": "Visiter le logement de la personne aux cheveux rouges aux Burgundy Flats"
     }
   },
   "flow": {
@@ -8649,6 +8673,11 @@
     "triste_all_seeing_forest": {
       "name": "No pasa nada",
       "condition": "Trouver Triste dans l'All-Seeing Forest"
+    },
+    "marshmallow_effect": {
+      "name": "Rêvant de douceur",
+      "description": "Moelleux... délicieux... sucré... marshmallow...",
+      "condition": "Obtenir l'effet Marshmallow. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé aux Tasty Plains."
     }
   },
   "braingirl": {
