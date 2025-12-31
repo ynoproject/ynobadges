@@ -79,6 +79,7 @@ Artists are automatically listed in the [credits](CREDITS.md) document through a
 ㉑ Parent Badge ID - If a parent badge ID is specified, the badge will behave in a similar way than a Secret badge until the parent badge is unlocked. Must only be used for badges where you ARE forced to unlock the parent badge first (e.g. a badge for scoring 2000 points at NASU with a parent badge for scoring 1000 points in NASU makes sense, as it is impossible to get the 2000 points first. A badge for visiting a deeper world with a parent badge for visiting a badge present before it is not doable, as the player could be logged off while visiting the location of the parent badge, thus only unlocking the child badge before the parent badge).
 
 ㉒ Overlay - If a badge is set to use an overlay, several options are available.
+
     - Gradient - Uses the gradient of the UI theme insteads of the flat color.
     - Multiply - Uses the multiply blend mode when applying the color, can look nicer in some cases than just applying the color flat. The choice between Gradient and Multiply is usually done by testing.
     - Mask - Applies additional badge image files (suffixed with `_mask`, or `_mask_fg` and `_mask_bg` if dual is on) to only apply colors to specific areas. Mask files should be white on the areas where they are applied, and transparency is allowed. The base badge image must be grayscale.
