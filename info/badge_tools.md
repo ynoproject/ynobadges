@@ -79,12 +79,11 @@ Artists are automatically listed in the [credits](CREDITS.md) document through a
 ㉑ Parent Badge ID - If a parent badge ID is specified, the badge will behave in a similar way than a Secret badge until the parent badge is unlocked. Must only be used for badges where you ARE forced to unlock the parent badge first (e.g. a badge for scoring 2000 points at NASU with a parent badge for scoring 1000 points in NASU makes sense, as it is impossible to get the 2000 points first. A badge for visiting a deeper world with a parent badge for visiting a badge present before it is not doable, as the player could be logged off while visiting the location of the parent badge, thus only unlocking the child badge before the parent badge).
 
 ㉒ Overlay - If a badge is set to use an overlay, several options are available.
-
-    - Gradient - Uses the gradient of the UI theme insteads of the flat color.
-    - Multiply - Uses the multiply blend mode when applying the color, can look nicer in some cases than just applying the color flat. The choice between Gradient and Multiply is usually done by testing.
-    - Mask - Applies additional badge image files (suffixed with `_mask`, or `_mask_fg` and `_mask_bg` if dual is on) to only apply colors to specific areas. Mask files should be white on the areas where they are applied, and transparency is allowed. The base badge image must be grayscale.
-    - Dual - Applies both foreground and background colors to the badge. Mask must be enabled to be effective.
-    - Location - Overrides the user's UI theme's colors with the colors corresponding to the user's current location (color picked based on the color set for the wiki page of the world). If the current location cannot deliver a color (no wiki link/Unknown Location), the UI theme's colors will be used as a fallback.
+- Gradient - Uses the gradient of the UI theme insteads of the flat color.
+- Multiply - Uses the multiply blend mode when applying the color, can look nicer in some cases than just applying the color flat. The choice between Gradient and Multiply is usually done by testing.
+- Mask - Applies additional badge image files (suffixed with `_mask`, or `_mask_fg` and `_mask_bg` if dual is on) to only apply colors to specific areas. Mask files should be white on the areas where they are applied, and transparency is allowed. The base badge image must be grayscale.
+- Dual - Applies both foreground and background colors to the badge. Mask must be enabled to be effective.
+- Location - Overrides the user's UI theme's colors with the colors corresponding to the user's current location (color picked based on the color set for the wiki page of the world). If the current location cannot deliver a color (no wiki link/Unknown Location), the UI theme's colors will be used as a fallback.
 
 If you check an existing badge using an overlay, you will notice the overlay parameter is just assigned to a number. This number is the result of adding the value of the parameters together, where Gradient = +1, Multiply = +2, Mask = +4, Dual = +8, and Location = +16.
 
