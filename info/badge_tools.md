@@ -7,6 +7,20 @@ Once there, login into an account (no need for a moderator or developer account,
 
 ![The badge tool button.](/info/assets/badge_tools_button.png)
 
+## How To Use
+
+1. Select the badges you want to add from the sheet.
+2. Input badge data into the tool, by referring to the documentation if needed.
+3. Proofread what you typed, by making sure the values, text and fields are correct, that no typo or extra space was left.
+4. Export the badges you generated using the Export button.
+5. Check the files are correct, and adjust any field requiring to be edited (e.g. adding MapX and MapY to badges files when needed).
+6. Download the images of the badges you genered.
+7. Create a folder called `images` next to the folders from the extracted badges zip.
+8. Put the images in it.
+9. Rename the images to match the badge IDs they are assigned to. Make sure their extension are .png and .gif depending on the format, all small letters, that badges having a gif are set to be animated, while those that don't have a gif are set to not be animated, and lastly, that those badges are in the 37x37 (or 74x74 if it was authorised) resolution without being compressed.
+10. If all good, put those files on a GitHub fork of the repo in a branch, then create a pull request on the main repo, by making sure no edition conflict is created (if one is there, fix it).
+
+
 ## Content of the Menu
 
 ### Badges
@@ -152,13 +166,13 @@ Some variable IDs are not edited by the game itself, but are used by this system
 ![The options available for variables in a list.](/info/assets/condition_variable_list.png)
 ![The options available for the variable operators.](/info/assets/condition_variable_operators.png)
 
-⑨ Trigger -
-- Default -
+⑨ Trigger - Type of trigger the condition should be checked to know if it should enable.
+- Default - Use solely the map, or the switch or variable set.
 - Previous Map ID - Triggers the condition if the previous map the player visited corresponds to the previous map selected. The ID of the map must use 4 digits (e.g. 0009, 0011, 0123, 1640), even if the ID is less than 1000, otherwise the trigger will not work. Yume 2kki internally tracks the previous map ID in the variable 99, which can alternatively be used if a different trigger is needed, or if the game changes quickly the location between different maps which could be incorrectly reflected through this option.
-- Teleport - 
+- Teleport - Triggers if the player is teleported and that the other set conditions are met.
 - Coordinates - If set as the trigger, the Map Coords argument will automatically be set here.
 - Picture - Triggers the condition if a picture with the corresponding name is displayed on-screen. Do not use this setting if the asset were to be used as part of another unrelated event in the map (e.g. asset preloading).
-- Event Collision - Triggers the condition if the player enters in collision with the selected event ID. If nothing happens when entering in collision with the event (no script executed), then the trigger will not work. Several event IDs can be specified for a single condition, in which case the condition will be triggered if any of the selected events was collided. If the event is able to be interacted with to trigger the exact same action, then the badge should also be triggered as part of an Event Interaction.
+- Event Collision - Triggers the condition if the player enters in collision with the selected event ID. If nothing happens when entering in collision with the event (no script executed), then the trigger will not work. Several event IDs can be specified for a single condition, in which case the condition will be triggered if any of the selected events was collided. If the event is able to be interacted with to trigger the exact same action, then the badge should also set to be triggered as part of an Event Interaction.
 - Event Interaction - Triggers the condition if the player interacts with the selected event ID. If nothing happens when interacting with the event (no script executed), then the trigger will not work. Several event IDs can be specified for a single condition, in which case the condition will be triggered if any of the selected events was interacted with.
 
 ![The options available for the trigger conditions.](/info/assets/condition_trigger.png)
