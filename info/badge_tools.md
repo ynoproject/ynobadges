@@ -140,7 +140,7 @@ This section will be empty if the Requirement Type was set to None (Mod Granted)
 - Switch List - Track several switches at once. This feature is more prone to not triggering badges, so avoid using it if possible.
     - Switch ID - ID of the Switch to track.
     - Value - Value of the Switch. Untick means the switch will be tracked as being OFF, while tick means the switch will be tracked as being ON.
-    - Switch Delay (only present while tracking a single switch) - If set, the switch check will only occur if the switch was edited while the condition was tracked.
+    - Switch Delay - If set, the switch check will only occur if the switch was edited while the condition was tracked.
     - Additional Switch(es) - Add more switches to the trigger by clicking on the + button.
 
 ⑧ Variable Condition - Ties the condition to a variable. There are several options available with this parameter.
