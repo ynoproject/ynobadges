@@ -63,13 +63,14 @@ Artists are automatically listed in the [credits](CREDITS.md) document through a
 ⑫ BP - The amount of BPs (Badge Points) a badge should grant. BPs must be a multiple of 5 without being 5 and without being negative. If the BPs are set to be 0, the badge should be set with the Hidden flag.
 
 ⑬ Requirement Type - The type of requirement the badge will need to be unlocked.
+
+![The various requirements.](/info/assets/badge_requirement_type.png)
+
 - None (Mod Granted) - The badge will not be able to be unlocked outside of being manually granted by a moderator or developer on the site.
 - Tag (Default Option) - The badge will be awarded if the set condition is fullfilled.
 - Multiple Tags - The badge will be awarded once all set conditions are fullfilled, or once the number of conditions to fullfill has been reached.
 - Multiple Tags with Alternatives - The badge will be awarded once each set of conditions has at least one of their tags fullfilled.
 - Time Trial - The badge will be awarded if the set condition is fullfilled in less time than the Required Int set.
-
-![The various requirements.](/info/assets/badge_requirement_type.png)
 
 ⑭ Tag Requirement Count (Multiple Tags only) - Number of conditions the player has to do before unlocking the badge. If set to 1, the number of conditions the badge has will not be displayed on-screen in the badge menu.
 
@@ -92,6 +93,9 @@ Artists are automatically listed in the [credits](CREDITS.md) document through a
 ㉑ Parent Badge ID - If a parent badge ID is specified, the badge will behave in a similar way than a Secret badge until the parent badge is unlocked. Must only be used for badges where you ARE forced to unlock the parent badge first (e.g. a badge for scoring 2000 points at NASU with a parent badge for scoring 1000 points in NASU makes sense, as it is impossible to get the 2000 points first. A badge for visiting a deeper world with a parent badge for visiting a world present before it is not doable, as the player could be logged off while visiting the location of the parent badge, thus only unlocking the child badge before the parent badge).
 
 ㉒ Overlay - If a badge is set to use an overlay, several options are available.
+
+![The various options available for Overlay.](/info/assets/badge_overlay.png)
+
 - Gradient - Uses the gradient of the UI theme insteads of the flat color.
 - Multiply - Uses the multiply blend mode when applying the color, can look nicer in some cases than just applying the color flat. The choice between Gradient and Multiply is usually done by testing.
 - Mask - Applies additional badge image files (suffixed with `_mask`, or `_mask_fg` and `_mask_bg` if dual is on) to only apply colors to specific areas. Mask files should be white on the areas where they are applied, and transparency is allowed. The base badge image must be grayscale.
@@ -99,8 +103,6 @@ Artists are automatically listed in the [credits](CREDITS.md) document through a
 - Location - Overrides the user's UI theme's colors with the colors corresponding to the user's current location (color picked based on the color set for the wiki page of the world). If the current location cannot deliver a color (no wiki link/Unknown Location), the UI theme's colors will be used as a fallback.
 
 If you check the data of an existing badge using an overlay (e.g. Yume Nikki ending badge, Badge Amulet), you will notice the overlay parameter is just assigned to a number. This number is the result of adding the value of the parameters together, where Gradient = +1, Multiply = +2, Mask = +4, Dual = +8, and Location = +16.
-
-![The various options available for Overlay.](/info/assets/badge_overlay.png)
 
 ㉓ Batch - Badges will not be present in the badge list for non-developers account if the selected batch has not yet been reached. For reference, batch 195 is on Friday, January 2nd, 2026 at 9PM UTC. Batch 196 is on Friday, January 9th, 2026, batch 197 on Friday, January 16th, 2026, and so on. Usually, badges are added by group of 16 for each week, but may be subject to changes depending on who can implement them, how they want to implement them, etc.
 
@@ -131,6 +133,8 @@ This section will be empty if the Requirement Type was set to None (Mod Granted)
 
 ⑦ Switch Condition - Ties the condition to a switch. There are several options available with this parameter.
 
+![The options available for the switch conditions.](/info/assets/condition_switch_list.png)
+
 - None - Don't track any switch.
 - Switch - Track a single switch.
 - Switch List - Track several switches at once. This feature is more prone to not triggering badges, so avoid using it if possible.
@@ -139,13 +143,16 @@ This section will be empty if the Requirement Type was set to None (Mod Granted)
     - Switch Delay - If set, the switch check will only occur if the switch was edited while the condition was tracked.
     - Additional Switch(es) - Add more switches to the trigger by clicking on the + button.
 
-![The options available for the switch conditions.](/info/assets/condition_switch_list.png)
-
 ⑧ Variable Condition - Ties the condition to a variable. There are several options available with this parameter.
+
+![The options available for the variable operators.](/info/assets/condition_variable_operators.png)
 
 - None - Don't track any variable.
 - Variable - Track a single variable.
 - Variable List - Track several variables at once. This feature is more prone to not triggering badges, so avoid using it if possible.
+
+![The options available for variables in a list.](/info/assets/condition_variable_list.png)
+
     - Variable ID - ID of the variable to track.
     - Op - Check done on the value of the variable to know if the trigger should be activated or not.
         - `=` - Checks if the value of the selected variable is equal to the selected value. 
@@ -155,6 +162,9 @@ This section will be empty if the Requirement Type was set to None (Mod Granted)
         - `>=` - Checks if the value of the selected variable is equal or greater than the selected value. 
         - `!=` - Checks if the value of the selected variable is not equal to the selected value. 
         - `>=<` - Checks if the value of the selected variable is between the selected value 1 and the selected value 2. This option cannot be used in a Variable List condition.
+
+![The options available for the variables.](/info/assets/condition_variable.png)
+
     - Variable Delay - If set, the variable check will only occur if the variable was edited while the condition was tracked.
     - Variable Trigger - Sets the variable check as being the trigger.
 
@@ -162,11 +172,10 @@ Some variable IDs are not edited by the game itself, but are used by this system
 - 10000 - Amount of money the player has.
 - 10001 - Amount of Max HP the first member of the party has (usually, Max HP of the protagonist, which is used as part of the drink system in some games).
 
-![The options available for the variables.](/info/assets/condition_variable.png)
-![The options available for variables in a list.](/info/assets/condition_variable_list.png)
-![The options available for the variable operators.](/info/assets/condition_variable_operators.png)
-
 ⑨ Trigger - Type of trigger the condition should be checked to know if it should enable.
+
+![The options available for the trigger conditions.](/info/assets/condition_trigger.png)
+
 - Default - Use solely the map, switch or variable set.
 - Previous Map ID - Triggers the condition if the previous map the player visited corresponds to the previous map selected. The ID of the map must use 4 digits (e.g. 0009, 0011, 0123, 1640), even if the ID is less than 1000, otherwise the trigger will not work. Yume 2kki internally tracks the previous map ID in the variable 99, which can alternatively be used if a different trigger is needed, or if the game changes quickly the location between different maps which could be incorrectly reflected through this option.
 - Teleport - Triggers if the player is teleported and that the other set conditions are met.
@@ -174,8 +183,6 @@ Some variable IDs are not edited by the game itself, but are used by this system
 - Picture - Triggers the condition if a picture with the corresponding name is displayed on-screen. Do not use this setting if the asset were to be used as part of another unrelated event in the map (e.g. asset preloading).
 - Event Collision - Triggers the condition if the player enters in collision with the selected event ID. If nothing happens when entering in collision with the event (no script executed), then the trigger will not work. Several event IDs can be specified for a single condition, in which case the condition will be triggered if any of the selected events was collided. If the event is able to be interacted with to trigger the exact same action, then the badge should also set to be triggered as part of an Event Interaction.
 - Event Interaction - Triggers the condition if the player interacts with the selected event ID. If nothing happens when interacting with the event (no script executed), then the trigger will not work. Several event IDs can be specified for a single condition, in which case the condition will be triggered if any of the selected events was interacted with.
-
-![The options available for the trigger conditions.](/info/assets/condition_trigger.png)
 
 ⑩ Time Trial - Checks if the condition should only be triggered while in Time Trial. Time Trial badges are only supported for Yume 2kki.
 
