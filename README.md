@@ -12,6 +12,18 @@ User-submitted translations are welcomed on this repository.
 
 [Credits]
 
+
+## For Badge Implementers
+
+[Badge Tools]
+
+How to Handle the Badges Sheet (TBA)
+
+How to Properly Implement Replacement Badges (TBA)
+
+Find Internal Triggers (TBA)
+
+
 ## Related Links
 
 * [YNOproject](https://ynoproject.net/)
@@ -28,3 +40,5 @@ User-submitted translations are welcomed on this repository.
 [Submitting a Badge]: info/badge_submission.md
 
 [Credits]: info/CREDITS.md
+
+[Badge Tools]: info/badge_tools.md

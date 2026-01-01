@@ -539,6 +539,15 @@
       "name": "透明なヴェール",
       "description": "夢にとどまることを選んだ幽霊。",
       "condition": "△ずきんのエフェクトを入手する、すでに入手している場合は、もう一度コンクリ廃墟に行く。"
+    },
+    "midget_effect": {
+      "name": "We Are the Madolings!",
+      "description": "We shall create an army to- oh, that one exploded...",
+      "condition": "こびとのエフェクトを入手する、すでに入手している場合は蝋燭の世界にもう一度行く。"
+    },
+    "severed_head_effect": {
+      "name": "Decapitation",
+      "condition": "Obtain the Severed Head effect. If you have already unlocked it, return to Guillotine World."
     }
   },
   "2kki": {
@@ -5046,7 +5055,7 @@
     "qxy_vm_challenge": {
       "name": "数学者",
       "description": "雪山にある製造者",
-      "condition": "以下の場所にある自販機でお菓子を買う:目覚めの森、目覚めの森(雪の小道)、迷子石、haven、ネオンケイブ、ハサミ、石切、赤黒迷路、ポリキューブ(木)、ポリキューブ(氷)、水の迷路、自販工場、クラシックホテル(バルコニー)、オーロラ湖、釣り堀、万華鏡の世界、六角タイル工場、徒花、赤い下水道、ダムのほとり、赤い迷路、バーチャルシティ(バー)",
+      "condition": "Find and buy a snack from 15 of the vending machines in the following locations:目覚めの森、目覚めの森(雪の小道)、迷子石、haven、ネオンケイブ、ハサミ、石切、赤黒迷路、ポリキューブ(木)、ポリキューブ(氷)、水の迷路、自販工場、クラシックホテル(バルコニー)、オーロラ湖、釣り堀、万華鏡の世界、六角タイル工場、徒花、赤い下水道、ダムのほとり、赤い迷路、バーチャルシティ(バー)、自販工場：展示スペース",
       "checkbox": {
         "qxy_vm_snowy_forest": "目覚めの森",
         "qxy_vm_winter_path": "目覚めの森(雪の小道)",
@@ -5069,7 +5078,8 @@
         "qxy_vm_red_sewers": "赤い下水道",
         "qxy_vm_wooded_lakeside_b": "ダムのほとり",
         "qxy_vm_oblique_hell": "赤い迷路",
-        "qxy_vm_virtual_city_bar": "バーチャルシティ(バー)"
+        "qxy_vm_virtual_city_bar": "バーチャルシティ(バー)",
+        "qxy_vm_snack_gallery": "自販工場：展示スペース"
       }
     },
     "tentacle_lamplit_stones": {
@@ -7557,6 +7567,54 @@
     "moss_world": {
       "name": "Mossy Flowers",
       "condition": "Visit Moss World"
+    },
+    "2kki_raincoat_effect": {
+      "name": "Her Yellow Raincoat",
+      "description": "Gotta dress for the weather!",
+      "condition": "Obtain the Teru Teru Bōzu and Red Riding Hood effects. If you have already unlocked them, return where they can be found respectively in the main part of Dark Alleys and in the Fairy Tale Woods/in the Birch Forest.",
+      "checkbox": {
+        "red_riding_hood_effect_a|red_riding_hood_effect_b": "Red Riding Hood",
+        "teru_teru_bozu_effect": "Teru Teru Bōzu"
+      }
+    },
+    "dark_room_secret_society": {
+      "name": "TURN OFF THE LIGHT!",
+      "condition": "Use the Lantern effect in the dark room of Secret Society"
+    },
+    "house_shape_world": {
+      "name": "Come On In!",
+      "description": "The rent's free and you get a weekly allowance of Yume!",
+      "condition": "Visit the house in Shape World"
+    },
+    "room_burgundy_flats": {
+      "name": "Door's Open If You Need Anything.",
+      "description": "Need the key to my apartment? sure, don't steal anything though.",
+      "condition": "Visit the room of the person with red hair in Burgundy Flats"
+    },
+    "car_mask_parking_highway": {
+      "name": "* Beep Beep *",
+      "description": "Riding around the dream world in our special... car...!",
+      "condition": "Equip the car mask in the parking lot of the Highway"
+    },
+    "flower_ug_mall": {
+      "name": "Withering Roses",
+      "description": "This vase will be the perfect new home for these poor flowers!",
+      "condition": "モータープールの紫のデパートにある素花瓶に花を生ける"
+    },
+    "main_lethal_dunes": {
+      "name": "Anatomy Desert on a Screen",
+      "description": "Please watch TV in a well-lit room and keep an appropriate distance from the screen.",
+      "condition": "Reach the main area of the Lethal Dunes"
+    },
+    "spacecraft_visine": {
+      "name": "Easy Comet, Easy Goet",
+      "description": "Everyone looks like ants from up here!",
+      "condition": "未確認飛行物体で、上のドアから4つのエリアに行く"
+    },
+    "butterfly_passage": {
+      "name": "Delighted In the Beauty",
+      "description": "If nothing ever changed, there'd be no such thing as butterflies.",
+      "condition": "虫食いに到達する"
     }
   },
   "flow": {
@@ -8662,6 +8720,11 @@
     "triste_all_seeing_forest": {
       "name": "なんてことないよ",
       "condition": "All-Seeing ForestでTristeを見つける"
+    },
+    "marshmallow_effect": {
+      "name": "Dreaming of Sweetness",
+      "description": "Squishy... yummy... tasty... marshmallow...",
+      "condition": "Obtain the Marshmallow effect. If you have already unlocked it, return where it can be found in Tasty Plains."
     }
   },
   "braingirl": {
@@ -8930,6 +8993,11 @@
       "name": "破棄された基礎",
       "description": "彼女は何を研究しているのだろう？",
       "condition": "Nina's Outpostに到達する"
+    },
+    "pure_creativity": {
+      "name": "Inventing Myself on Canvas",
+      "description": "Painting my colors on a blank canvas",
+      "condition": "Visit Pure Creativity"
     }
   },
   "muma": {
@@ -9340,6 +9408,11 @@
       "name": "抗えぬ秩序への牙",
       "description": "怯むな。恐怖と相対したその場所で、踏みとどまれ。心を貫く恐怖を胸に抱き、今ここで、壊れかけたあなたの運命の脚本は書き換えられる。",
       "condition": "Spear of Fearのdelusionを入手する、すでに入手している場合はNarrow Apartmentsの見つけた場所に行く。"
+    },
+    "qiu_qin_wake_up_train": {
+      "name": "Where Another Me Sleeps",
+      "description": "Your awakening marks the end of my dream.",
+      "condition": "Trigger the wake up event in the Train"
     }
   },
   "mikan": {
@@ -9551,6 +9624,11 @@
       "name": "過去の雪",
       "description": "このジャケットを着ると、子どもの頃の寒さを思い出す",
       "condition": "ダウンジャケットのエフェクトを入手する、すでに入手している場合はMannequin Streetにもう一度行く。"
+    },
+    "knuckledusters_effect": {
+      "name": "Punch Your Lights Out!",
+      "description": "That punch is making me see stars dude...",
+      "condition": "Obtain the Knuckledusters effect. If you have already unlocked it, return where it can be found in the Park."
     }
   },
   "ultraviolet": {
@@ -10492,6 +10570,20 @@
     "egg_tart_effect": {
       "name": "「キミ」のおいしさ、「卵(らん)」タスティック！←「エッグ」スクラメーション",
       "condition": "Egg Tartのエフェクトを入手する、すでに入手している場合はDeep Forest Bの見つけた場所に行く。"
+    },
+    "white_dress_effect": {
+      "name": "Is It a Gift From the Rain?",
+      "description": "Sometimes the prettiest things are found in the most unexpected places~",
+      "condition": "Obtain the White Dress effect. If you have already unlocked it, return to Rainy Islands."
+    },
+    "slime_catgirl": {
+      "name": "Meow Meow Girls!",
+      "description": "Purr sweet, claw fierce.",
+      "condition": "Get caught by the Slime Catgirl in Hothouse and Red Totem Passage",
+      "checkbox": {
+        "slime_catgirl_hothouse_a|slime_catgirl_hothouse_b": "Hothouse",
+        "slime_catgirl_r_totem_a|slime_catgirl_r_totem_b": "Red Totem Passage"
+      }
     }
   },
   "nostalgic": {

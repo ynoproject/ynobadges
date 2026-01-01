@@ -529,6 +529,15 @@
       "name": "Voile transparent",
       "description": "Un fantôme choisissant de rester dans son rêve.",
       "condition": "Obtenir l'effet Bandeau spirituel. Si vous l'avez déjà obtenu, retournez au Ghost World."
+    },
+    "midget_effect": {
+      "name": "Nous sommes les Mado !",
+      "description": "On devrait faire une armée pour- oh, elle a explosé...",
+      "condition": "Obtenir l'effet Naine. Si vous l'avez déjà obtenu, retournez au Candle World."
+    },
+    "severed_head_effect": {
+      "name": "Décapitation",
+      "condition": "Obtenir l'effet Tête coupée. Si vous l'avez déjà obtenu, retournez au Guillotine World."
     }
   },
   "2kki": {
@@ -5033,7 +5042,7 @@
     "qxy_vm_challenge": {
       "name": "Matheuse des distributeurs automatiques",
       "description": "Il est dit que cette machine a été fournie par un fabricant dans une vallée enneigée",
-      "condition": "Trouver et acheter un goûter d'un distributeur automatique dans les lieux suivants : Snowy Forest, Snowy Forest (Passage Hivernal), Erratic Pillar Lands, Cotton Candy Haven, Neon Caves, Surgical Scissors World, Aquatic Cube City, Static Noise Hell, Polycube Ruins (distributeur automatique en bois), Polycube Ruins (distributeur automatique en glace), Flooded Dungeon, Vending Machine Factory (Entrée), Travel Hotel (Balcon), Aurora Lake, Streetlight Docks (Profondeurs des Pêcheurs), Kaleidoscope World, Critter Village (Usine aux Tuiles Hexagonales), Adabana Gardens, Red Sewers, Wooded Lakeside B, Oblique Hell, Virtual City (Entrée du Bar)",
+      "condition": "Trouver et acheter un goûter dans 15 des distributeur automatiques des lieux suivants : Snowy Forest, Snowy Forest (Passage Hivernal), Erratic Pillar Lands, Cotton Candy Haven, Neon Caves, Surgical Scissors World, Aquatic Cube City, Static Noise Hell, Polycube Ruins (distributeur automatique en bois), Polycube Ruins (distributeur automatique en glace), Flooded Dungeon, Vending Machine Factory (Entrée), Travel Hotel (Balcon), Aurora Lake, Streetlight Docks (Profondeurs des Pêcheurs), Kaleidoscope World, Critter Village (Usine aux Tuiles Hexagonales), Adabana Gardens, Red Sewers, Wooded Lakeside B, Oblique Hell, Virtual City (Entrée du Bar), Snack Gallery",
       "checkbox": {
         "qxy_vm_snowy_forest": "Snowy Forest",
         "qxy_vm_winter_path": "Snowy Forest (Passage Hivernal)",
@@ -5056,7 +5065,8 @@
         "qxy_vm_red_sewers": "Red Sewers",
         "qxy_vm_wooded_lakeside_b": "Wooded Lakeside B",
         "qxy_vm_oblique_hell": "Oblique Hell",
-        "qxy_vm_virtual_city_bar": "Virtual City (Entrée du Bar)"
+        "qxy_vm_virtual_city_bar": "Virtual City (Entrée du Bar)",
+        "qxy_vm_snack_gallery": "Snack Gallery"
       }
     },
     "tentacle_lamplit_stones": {
@@ -7544,6 +7554,54 @@
     "moss_world": {
       "name": "Fleurs mousseuses",
       "condition": "Visiter le Moss World"
+    },
+    "2kki_raincoat_effect": {
+      "name": "Imperméable jaune",
+      "description": "Il faut bien s'habiller quand il pleut !",
+      "condition": "Obtenir les effets Teru Teru Bōzu et Chaperon rouge. Si vous les avez déjà obtenus, retournez là où ils peuvent être trouvés respectivement dans la zone principale des Dark Alleys et aux Fairy Tale Woods/à la Birch Forest.",
+      "checkbox": {
+        "red_riding_hood_effect_a|red_riding_hood_effect_b": "Chaperon rouge",
+        "teru_teru_bozu_effect": "Teru Teru Bōzu"
+      }
+    },
+    "dark_room_secret_society": {
+      "name": "ÉTEINS LA LUMIÈRE !",
+      "condition": "Utiliser l'effet Lanterne dans la salle sombre de la Secret Society"
+    },
+    "house_shape_world": {
+      "name": "Entre !",
+      "description": "Le loyer est gratuit et une pension hebdomadaire de Yume y est versée !",
+      "condition": "Visiter la maison au Shape World"
+    },
+    "room_burgundy_flats": {
+      "name": "« La porte est ouverte si t'as besoin de quoique ce soit. »",
+      "description": "Tu veux la clé de l'appart' ? Aucun problème, du moment que tu ne piques rien.",
+      "condition": "Visiter le logement de la personne aux cheveux rouges aux Burgundy Flats"
+    },
+    "car_mask_parking_highway": {
+      "name": "Bip bip !",
+      "description": "Traversant le monde onirique dans ma petite... voiture... !",
+      "condition": "Équiper le masque de la voiture au parking de l'Highway"
+    },
+    "flower_ug_mall": {
+      "name": "Roses fânées",
+      "description": "Ce vase sera la parfaite demeure pour ces pauvres petites fleurs !",
+      "condition": "Placer les fleurs dans le vase dans l'Underground Mall"
+    },
+    "main_lethal_dunes": {
+      "name": "Désert anatomique sur écran",
+      "description": "Veuillez regarder votre téléviseur dans une pièce bien éclairée, et restez à une distance appropriée de l'écran.",
+      "condition": "Atteindre la zone principale des Lethal Dunes"
+    },
+    "spacecraft_visine": {
+      "name": "Comète à perpète",
+      "description": "Tout le monde ressemble à une fourmi vu d'ici !",
+      "condition": "Visiter les quatre champs étoilés à l'Ocular Spacecraft"
+    },
+    "butterfly_passage": {
+      "name": "Illuminé par la beauté",
+      "description": "Si tout restait inchangé, une merveille comme les papillons ne pourrait exister.",
+      "condition": "Visiter le Butterfly Passage"
     }
   },
   "flow": {
@@ -8649,6 +8707,11 @@
     "triste_all_seeing_forest": {
       "name": "No pasa nada",
       "condition": "Trouver Triste dans l'All-Seeing Forest"
+    },
+    "marshmallow_effect": {
+      "name": "Rêvant de douceur",
+      "description": "Moelleux... délicieux... sucré... marshmallow...",
+      "condition": "Obtenir l'effet Marshmallow. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé aux Tasty Plains."
     }
   },
   "braingirl": {
@@ -8917,6 +8980,11 @@
       "name": "Atelier abandonné",
       "description": "Que recherche-t-elle ?",
       "condition": "Visiter Nina's Outpost"
+    },
+    "pure_creativity": {
+      "name": "Réinvention sur toile",
+      "description": "Peignant mes couleurs sur une toile blanche",
+      "condition": "Visiter Pure Creativity"
     }
   },
   "muma": {
@@ -9327,6 +9395,11 @@
       "name": "À cran contre l'ordre inévitable",
       "description": "Ne fléchis pas. Corrige ta posture, et affronte la peur tête haute. Souviens-toi de la peur qui a transpercé ton cœur, et ainsi, réécris le destin qui avait souhaité te déchirer.",
       "condition": "Obtenir l'illusion Lance de la Peur. Si vous l'avez déjà obtenu, retournez là où elle peut être trouvée aux Narrow Apartments."
+    },
+    "qiu_qin_wake_up_train": {
+      "name": "Là où une autre moi dort",
+      "description": "Ton éveil marque la fin de mon rêve.",
+      "condition": "Déclencher l'événement du réveil au Train"
     }
   },
   "mikan": {
@@ -9538,6 +9611,11 @@
       "name": "Neige d'antan",
       "description": "Porter cette doudoune te rappellera le froid de ton enfance",
       "condition": "Obtenir l'effet Doudoune. Si vous l'avez déjà obtenu, retournez à la Mannequin Street."
+    },
+    "knuckledusters_effect": {
+      "name": "K.O. en un seul coup !",
+      "description": "« Ouhhh ! Ce coup de poing l'a envoyé voler dans les étoiles ! »",
+      "condition": "Obtenir l'effet Poings américains. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Park."
     }
   },
   "ultraviolet": {
@@ -10479,6 +10557,20 @@
     "egg_tart_effect": {
       "name": "Qui vole une tarte aux œufs...",
       "condition": "Obtenir l'effet Tarte aux œufs. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à la Deep Forest B."
+    },
+    "white_dress_effect": {
+      "name": "Est-ce un cadeau de la pluie ?",
+      "description": "Parfois, les choses les plus belles se trouvent là où on s'y attend le moins~",
+      "condition": "Obtenir l'effet Robe blanche. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé aux Rainy Islands."
+    },
+    "slime_catgirl": {
+      "name": "Mais c'est les minettes !",
+      "description": "De la purrrree douceur... tant qu'elles ne sortent pas les griffes.",
+      "condition": "Se faire attraper par la fille chat slime à l'Hothouse et au Red Totem Passage",
+      "checkbox": {
+        "slime_catgirl_hothouse_a|slime_catgirl_hothouse_b": "Hothouse",
+        "slime_catgirl_r_totem_a|slime_catgirl_r_totem_b": "Red Totem Passage"
+      }
     }
   },
   "nostalgic": {

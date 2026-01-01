@@ -529,6 +529,15 @@
       "name": "Velo Transparente",
       "description": "Un fantasma que decidió quedarse en su sueño.",
       "condition": "Obtén el efecto Banda Espiritual. Si ya lo has desbloqueado, regresa al Mundo Fantasmal."
+    },
+    "midget_effect": {
+      "name": "We Are the Madolings!",
+      "description": "We shall create an army to- oh, that one exploded...",
+      "condition": "Obtén el efecto Enano. Si ya lo has desbloqueado, regresa al Mundo de las velas."
+    },
+    "severed_head_effect": {
+      "name": "Decapitation",
+      "condition": "Obtain the Severed Head effect. If you have already unlocked it, return to Guillotine World."
     }
   },
   "2kki": {
@@ -5027,7 +5036,7 @@
     "qxy_vm_challenge": {
       "name": "Mathematician",
       "description": "Here it is said to be from a manufacturer in a snowy mountain range",
-      "condition": "Find and buy a snack from vending machines in the following locations: Snowy Forest, Snowy Forest (Winter Path), Erratic Pillar Lands, Cotton Candy Haven, Neon Caves, Surgical Scissors World, Aquatic Cube City, Static Noise Hell, Polycube Ruins (Wood vending machine), Polycube Ruins (Ice vending machine), Flooded Dungeon, Vending Machine Factory (Entrance), Travel Hotel (Balcony), Aurora Lake, Streetlight Docks (Angler's Depths), Kaleidoscope World, Critter Village (Hexagonal Tile Factory), Adabana Gardens, Red Sewers, Wooded Lakeside B, Oblique Hell, Virtual City (Bar Entrance)",
+      "condition": "Find and buy a snack from 15 of the vending machines in the following locations: Snowy Forest, Snowy Forest (Winter Path), Erratic Pillar Lands, Cotton Candy Haven, Neon Caves, Surgical Scissors World, Aquatic Cube City, Static Noise Hell, Polycube Ruins (Wood vending machine), Polycube Ruins (Ice vending machine), Flooded Dungeon, Vending Machine Factory (Entrance), Travel Hotel (Balcony), Aurora Lake, Streetlight Docks (Angler's Depths), Kaleidoscope World, Critter Village (Hexagonal Tile Factory), Adabana Gardens, Red Sewers, Wooded Lakeside B, Oblique Hell, Virtual City (Bar Entrance), Snack Gallery",
       "checkbox": {
         "qxy_vm_snowy_forest": "Snowy Forest",
         "qxy_vm_winter_path": "Snowy Forest (Winter Path)",
@@ -5050,7 +5059,8 @@
         "qxy_vm_red_sewers": "Red Sewers",
         "qxy_vm_wooded_lakeside_b": "Wooded Lakeside B",
         "qxy_vm_oblique_hell": "Oblique Hell",
-        "qxy_vm_virtual_city_bar": "Virtual City (Bar Entrance)"
+        "qxy_vm_virtual_city_bar": "Virtual City (Bar Entrance)",
+        "qxy_vm_snack_gallery": "Snack Gallery"
       }
     },
     "tentacle_lamplit_stones": {
@@ -7538,6 +7548,54 @@
     "moss_world": {
       "name": "Mossy Flowers",
       "condition": "Visit Moss World"
+    },
+    "2kki_raincoat_effect": {
+      "name": "Her Yellow Raincoat",
+      "description": "Gotta dress for the weather!",
+      "condition": "Obtain the Teru Teru Bōzu and Red Riding Hood effects. If you have already unlocked them, return where they can be found respectively in the main part of Dark Alleys and in the Fairy Tale Woods/in the Birch Forest.",
+      "checkbox": {
+        "red_riding_hood_effect_a|red_riding_hood_effect_b": "Red Riding Hood",
+        "teru_teru_bozu_effect": "Teru Teru Bōzu"
+      }
+    },
+    "dark_room_secret_society": {
+      "name": "TURN OFF THE LIGHT!",
+      "condition": "Use the Lantern effect in the dark room of Secret Society"
+    },
+    "house_shape_world": {
+      "name": "Come On In!",
+      "description": "The rent's free and you get a weekly allowance of Yume!",
+      "condition": "Visit the house in Shape World"
+    },
+    "room_burgundy_flats": {
+      "name": "Door's Open If You Need Anything.",
+      "description": "Need the key to my apartment? sure, don't steal anything though.",
+      "condition": "Visit the room of the person with red hair in Burgundy Flats"
+    },
+    "car_mask_parking_highway": {
+      "name": "* Beep Beep *",
+      "description": "Riding around the dream world in our special... car...!",
+      "condition": "Equip the car mask in the parking lot of the Highway"
+    },
+    "flower_ug_mall": {
+      "name": "Withering Roses",
+      "description": "This vase will be the perfect new home for these poor flowers!",
+      "condition": "Place the flowers into the vase in the Underground Mall"
+    },
+    "main_lethal_dunes": {
+      "name": "Anatomy Desert on a Screen",
+      "description": "Please watch TV in a well-lit room and keep an appropriate distance from the screen.",
+      "condition": "Reach the main area of the Lethal Dunes"
+    },
+    "spacecraft_visine": {
+      "name": "Easy Comet, Easy Goet",
+      "description": "Everyone looks like ants from up here!",
+      "condition": "Visit all four colored starfields in Ocular Spacecraft"
+    },
+    "butterfly_passage": {
+      "name": "Delighted In the Beauty",
+      "description": "If nothing ever changed, there'd be no such thing as butterflies.",
+      "condition": "Visit Butterfly Passage"
     }
   },
   "flow": {
@@ -8643,6 +8701,11 @@
     "triste_all_seeing_forest": {
       "name": "No Pasa Nada",
       "condition": "Find Triste in All-Seeing Forest"
+    },
+    "marshmallow_effect": {
+      "name": "Dreaming of Sweetness",
+      "description": "Squishy... yummy... tasty... marshmallow...",
+      "condition": "Obtain the Marshmallow effect. If you have already unlocked it, return where it can be found in Tasty Plains."
     }
   },
   "braingirl": {
@@ -8911,6 +8974,11 @@
       "name": "Disused Groundwork",
       "description": "What is she researching?",
       "condition": "Visit Nina's Outpost"
+    },
+    "pure_creativity": {
+      "name": "Inventing Myself on Canvas",
+      "description": "Painting my colors on a blank canvas",
+      "condition": "Visit Pure Creativity"
     }
   },
   "muma": {
@@ -9321,6 +9389,11 @@
       "name": "Fangs Against the Inevitable Order",
       "description": "Do not falter. Fix your footing where you faced fear head-on. Remember the fear that pierced your heart, and here, the script of the fate that nearly broke you is rewritten.",
       "condition": "Obtain the Spear of Fear delusion. If you have already unlocked it, return where it can be found in Narrow Apartments."
+    },
+    "qiu_qin_wake_up_train": {
+      "name": "Where Another Me Sleeps",
+      "description": "Your awakening marks the end of my dream.",
+      "condition": "Trigger the wake up event in the Train"
     }
   },
   "mikan": {
@@ -9532,6 +9605,11 @@
       "name": "Snow in the Past",
       "description": "Wearing this jacket make you remember the coldness in your childhood",
       "condition": "Obtain the Down Jacket effect. If you have already unlocked it, return to Mannequin Street."
+    },
+    "knuckledusters_effect": {
+      "name": "Punch Your Lights Out!",
+      "description": "That punch is making me see stars dude...",
+      "condition": "Obtain the Knuckledusters effect. If you have already unlocked it, return where it can be found in the Park."
     }
   },
   "ultraviolet": {
@@ -10459,6 +10537,20 @@
     "egg_tart_effect": {
       "name": "Eggtastic Eggs-quisiteness",
       "condition": "Obtain the Egg Tart effect. If you have already unlocked it, return where it can be found in Deep Forest B."
+    },
+    "white_dress_effect": {
+      "name": "Is It a Gift From the Rain?",
+      "description": "Sometimes the prettiest things are found in the most unexpected places~",
+      "condition": "Obtain the White Dress effect. If you have already unlocked it, return to Rainy Islands."
+    },
+    "slime_catgirl": {
+      "name": "Meow Meow Girls!",
+      "description": "Purr sweet, claw fierce.",
+      "condition": "Get caught by the Slime Catgirl in Hothouse and Red Totem Passage",
+      "checkbox": {
+        "slime_catgirl_hothouse_a|slime_catgirl_hothouse_b": "Hothouse",
+        "slime_catgirl_r_totem_a|slime_catgirl_r_totem_b": "Red Totem Passage"
+      }
     }
   },
   "nostalgic": {
