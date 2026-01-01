@@ -72,27 +72,27 @@ Artists are automatically listed in the [credits](CREDITS.md) document through a
 - Multiple Tags with Alternatives - The badge will be awarded once each set of conditions has at least one of their tags fullfilled.
 - Time Trial - The badge will be awarded if the set condition is fullfilled in less time than the Required Int set.
 
-⑭ Tag Requirement Count (Multiple Tags only) - Number of conditions the player has to do before unlocking the badge. If set to 1, the number of conditions the badge has will not be displayed on-screen in the badge menu.
+- Tag Requirement Count (Multiple Tags only) - Number of conditions the player has to do before unlocking the badge. If set to 1, the number of conditions the badge has will not be displayed on-screen in the badge menu.
 
 ![The requirements tied to Multiple Tags.](/info/assets/badge_requirement_multiple.png)
 
-⑮ Required Int (Time Trial only) - Number of seconds the player has to obtain the badge.
+- Required Int (Time Trial only) - Number of seconds the player has to obtain the badge.
 
 ![The requirements tied to Time Trial.](/info/assets/badge_requirement_time_trial.png)
 
-⑯ Map ID - Map ID of the location that should be linked to the location displayed in the badge menu. This info is also used to order badges, so please set it even for badges where Secret Map is used. Note that it is possible to add arguments for the MapX and MapY point for a badges file, to point at a specific location point in a map, but it is not possible to set this feature through the Badge Tools menu, and requires to be manually added. In Yume 2kki, a world or part of a world may not be referenced the same way between the English and Japanese languages, not sharing the same boundary: as such, you may need to specify the exact location in some cases.
+⑭ Map ID - Map ID of the location that should be linked to the location displayed in the badge menu. This info is also used to order badges, so please set it even for badges where Secret Map is used. Note that it is possible to add arguments for the MapX and MapY point for a badges file, to point at a specific location point in a map, but it is not possible to set this feature through the Badge Tools menu, and requires to be manually added. In Yume 2kki, a world or part of a world may not be referenced the same way between the English and Japanese languages, not sharing the same boundary: as such, you may need to specify the exact location in some cases.
 
-⑰ Secret - If set, before being obtained, the name of the badge will be displayed as ???, its description and condition text will not be displayed, and the art of the badge will not be displayed.
+⑮ Secret - If set, before being obtained, the name of the badge will be displayed as ???, its description and condition text will not be displayed, and the art of the badge will not be displayed.
 
-⑱ Secret Map - Do not display the location of the badge in the badge menu, to use for badges where this info should not be visible, or for badges affecting multiple locations and where this info should not be visible.
+⑯ Secret Map - Do not display the location of the badge in the badge menu, to use for badges where this info should not be visible, or for badges affecting multiple locations and where this info should not be visible.
 
-⑲ Secret Condition - If set, before being obtained, the condition text of the badge will be displayed as ???.
+⑰ Secret Condition - If set, before being obtained, the condition text of the badge will be displayed as ???.
 
-⑳ Hidden - If set, the badge will not appear in the badge list before being obtained, will not take part of the badge rankings, and will have a different color for the background and name in the badge list. If this is used, make sure the badge in question grants 0 BP.
+⑱ Hidden - If set, the badge will not appear in the badge list before being obtained, will not take part of the badge rankings, and will have a different color for the background and name in the badge list. If this is used, make sure the badge in question grants 0 BP.
 
-㉑ Parent Badge ID - If a parent badge ID is specified, the badge will behave in a similar way than a Secret badge until the parent badge is unlocked. Must only be used for badges where you ARE forced to unlock the parent badge first (e.g. a badge for scoring 2000 points at NASU with a parent badge for scoring 1000 points in NASU makes sense, as it is impossible to get the 2000 points first. A badge for visiting a deeper world with a parent badge for visiting a world present before it is not doable, as the player could be logged off while visiting the location of the parent badge, thus only unlocking the child badge before the parent badge).
+⑲ Parent Badge ID - If a parent badge ID is specified, the badge will behave in a similar way than a Secret badge until the parent badge is unlocked. Must only be used for badges where you ARE forced to unlock the parent badge first (e.g. a badge for scoring 2000 points at NASU with a parent badge for scoring 1000 points in NASU makes sense, as it is impossible to get the 2000 points first. A badge for visiting a deeper world with a parent badge for visiting a world present before it is not doable, as the player could be logged off while visiting the location of the parent badge, thus only unlocking the child badge before the parent badge).
 
-㉒ Overlay - If a badge is set to use an overlay, several options are available.
+⑳ Overlay - If a badge is set to use an overlay, several options are available.
 
 ![The various options available for Overlay.](/info/assets/badge_overlay.png)
 
@@ -104,11 +104,11 @@ Artists are automatically listed in the [credits](CREDITS.md) document through a
 
 If you check the data of an existing badge using an overlay (e.g. Yume Nikki ending badge, Badge Amulet), you will notice the overlay parameter is just assigned to a number. This number is the result of adding the value of the parameters together, where Gradient = +1, Multiply = +2, Mask = +4, Dual = +8, and Location = +16.
 
-㉓ Batch - Badges will not be present in the badge list for non-developers account if the selected batch has not yet been reached. For reference, batch 195 is on Friday, January 2nd, 2026 at 9PM UTC. Batch 196 is on Friday, January 9th, 2026, batch 197 on Friday, January 16th, 2026, and so on. Usually, badges are added by group of 16 for each week, but may be subject to changes depending on who can implement them, how they want to implement them, etc.
+㉑ Batch - Badges will not be present in the badge list for non-developers account if the selected batch has not yet been reached. For reference, batch 195 is on Friday, January 2nd, 2026 at 9PM UTC. Batch 196 is on Friday, January 9th, 2026, batch 197 on Friday, January 16th, 2026, and so on. Usually, badges are added by group of 16 for each week, but may be subject to changes depending on who can implement them, how they want to implement them, etc.
 
-㉔ Dev - If set, the badge will not appear in the badge list and will not be able to be obtained outside of developer accounts.
+㉒ Dev - If set, the badge will not appear in the badge list and will not be able to be obtained outside of developer accounts.
 
-㉕ Delete - Delete the selected badge.
+㉓ Delete - Delete the selected badge.
 
 
 ### Condition
@@ -179,7 +179,7 @@ Some variable IDs are not edited by the game itself, but are used by this system
 - Default - Use solely the map, switch or variable set.
 - Previous Map ID - Triggers the condition if the previous map the player visited corresponds to the previous map selected. The ID of the map must use 4 digits (e.g. 0009, 0011, 0123, 1640), even if the ID is less than 1000, otherwise the trigger will not work. Yume 2kki internally tracks the previous map ID in the variable 99, which can alternatively be used if a different trigger is needed, or if the game changes quickly the location between different maps which could be incorrectly reflected through this option.
 - Teleport - Triggers if the player is teleported and that the other set conditions are met.
-- Coordinates - If set as the trigger, the Map Coords argument will automatically be set here.
+- Coordinates - If set as the trigger, the Map Coords argument will automatically be set here. As the game will check if the coordinates are edited, this means that a badge for doing an action while standing somewhere specifically will not work (e.g. if you want to have a badge for using the action of an effect somewhere specific in a map, do not use this as the Trigger option as the game will not check the trigger unless you move).
 - Picture - Triggers the condition if a picture with the corresponding name is displayed on-screen. Do not use this setting if the asset were to be used as part of another unrelated event in the map (e.g. asset preloading).
 - Event Collision - Triggers the condition if the player enters in collision with the selected event ID. If nothing happens when entering in collision with the event (no script executed), then the trigger will not work. Several event IDs can be specified for a single condition, in which case the condition will be triggered if any of the selected events was collided. If the event is able to be interacted with to trigger the exact same action, then the badge should also set to be triggered as part of an Event Interaction.
 - Event Interaction - Triggers the condition if the player interacts with the selected event ID. If nothing happens when interacting with the event (no script executed), then the trigger will not work. Several event IDs can be specified for a single condition, in which case the condition will be triggered if any of the selected events was interacted with.
