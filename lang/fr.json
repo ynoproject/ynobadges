@@ -10543,6 +10543,20 @@
     "egg_tart_effect": {
       "name": "Qui vole une tarte aux œufs...",
       "condition": "Obtenir l'effet Tarte aux œufs. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à la Deep Forest B."
+    },
+    "white_dress_effect": {
+      "name": "Est-ce un cadeau de la pluie ?",
+      "description": "Parfois, les choses les plus belles se trouvent là où on s'y attend le moins~",
+      "condition": "Obtenir l'effet Robe blanche. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé aux Rainy Islands."
+    },
+    "slime_catgirl": {
+      "name": "Mais c'est les minettes !",
+      "description": "De la purrrree douceur... tant qu'elles ne sortent pas les griffes.",
+      "condition": "Se faire attraper par la fille chat slime à l'Hothouse et au Red Totem Passage",
+      "checkbox": {
+        "slime_catgirl_hothouse_a|slime_catgirl_hothouse_b": "Hothouse",
+        "slime_catgirl_r_totem_a|slime_catgirl_r_totem_b": "Red Totem Passage"
+      }
     }
   },
   "nostalgic": {

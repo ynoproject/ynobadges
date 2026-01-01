@@ -10523,6 +10523,20 @@
     "egg_tart_effect": {
       "name": "Eggtastic Eggs-quisiteness",
       "condition": "Obtain the Egg Tart effect. If you have already unlocked it, return where it can be found in Deep Forest B."
+    },
+    "white_dress_effect": {
+      "name": "Is It a Gift From the Rain?",
+      "description": "Sometimes the prettiest things are found in the most unexpected places~",
+      "condition": "Obtain the White Dress effect. If you have already unlocked it, return to Rainy Islands."
+    },
+    "slime_catgirl": {
+      "name": "Meow Meow Girls!",
+      "description": "Purr sweet, claw fierce.",
+      "condition": "Get caught by the Slime Catgirl in Hothouse and Red Totem Passage",
+      "checkbox": {
+        "slime_catgirl_hothouse_a|slime_catgirl_hothouse_b": "Hothouse",
+        "slime_catgirl_r_totem_a|slime_catgirl_r_totem_b": "Red Totem Passage"
+      }
     }
   },
   "nostalgic": {
