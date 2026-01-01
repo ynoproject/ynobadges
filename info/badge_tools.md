@@ -26,7 +26,6 @@ Once there, login into an account (no need for a moderator or developer account,
 ### Badges
 
 ![The badge menu.](/info/assets/badge_general.png)
-![Bottom of the badge menu.](/info/assets/badge_parameters.png)
 
 ① Entries - The different badges you are making. You can switch between entries by clicking on a badge button, and can create a new badge entry by clicking on the + button.
 
