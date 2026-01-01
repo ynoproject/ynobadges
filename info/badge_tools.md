@@ -140,33 +140,34 @@ This section will be empty if the Requirement Type was set to None (Mod Granted)
 - Switch List - Track several switches at once. This feature is more prone to not triggering badges, so avoid using it if possible.
     - Switch ID - ID of the Switch to track.
     - Value - Value of the Switch. Untick means the switch will be tracked as being OFF, while tick means the switch will be tracked as being ON.
-    - Switch Delay - If set, the switch check will only occur if the switch was edited while the condition was tracked.
+    - Switch Delay (only present while tracking a single switch) - If set, the switch check will only occur if the switch was edited while the condition was tracked.
     - Additional Switch(es) - Add more switches to the trigger by clicking on the + button.
 
 ⑧ Variable Condition - Ties the condition to a variable. There are several options available with this parameter.
 
-![The options available for the variable operators.](/info/assets/condition_variable_operators.png)
+![The options available for variables in a list.](/info/assets/condition_variable_list.png)
+
 
 - None - Don't track any variable.
 - Variable - Track a single variable.
 - Variable List - Track several variables at once. This feature is more prone to not triggering badges, so avoid using it if possible.
 
-![The options available for variables in a list.](/info/assets/condition_variable_list.png)
+![The options available for the variable operators.](/info/assets/condition_variable_operators.png)
 
-    - Variable ID - ID of the variable to track.
-    - Op - Check done on the value of the variable to know if the trigger should be activated or not.
-        - `=` - Checks if the value of the selected variable is equal to the selected value. 
-        - `<` - Checks if the value of the selected variable is less than the selected value. 
-        - `>` - Checks if the value of the selected variable is greater than the selected value. 
-        - `<=` - Checks if the value of the selected variable is equal or less than the selected value. 
-        - `>=` - Checks if the value of the selected variable is equal or greater than the selected value. 
-        - `!=` - Checks if the value of the selected variable is not equal to the selected value. 
-        - `>=<` - Checks if the value of the selected variable is between the selected value 1 and the selected value 2. This option cannot be used in a Variable List condition.
+- Variable ID - ID of the variable to track.
+- Op - Check done on the value of the variable to know if the trigger should be activated or not.
+    - `=` - Checks if the value of the selected variable is equal to the selected value. 
+    - `<` - Checks if the value of the selected variable is less than the selected value. 
+    - `>` - Checks if the value of the selected variable is greater than the selected value. 
+    - `<=` - Checks if the value of the selected variable is equal or less than the selected value. 
+    - `>=` - Checks if the value of the selected variable is equal or greater than the selected value. 
+    - `!=` - Checks if the value of the selected variable is not equal to the selected value. 
+    - `>=<` - Checks if the value of the selected variable is between the selected value 1 and the selected value 2. This option cannot be used in a Variable List condition.
 
 ![The options available for the variables.](/info/assets/condition_variable.png)
 
-    - Variable Delay - If set, the variable check will only occur if the variable was edited while the condition was tracked.
-    - Variable Trigger - Sets the variable check as being the trigger.
+- Variable Delay - If set, the variable check will only occur if the variable was edited while the condition was tracked.
+- Variable Trigger - Sets the variable check as being the trigger.
 
 Some variable IDs are not edited by the game itself, but are used by this system and can be used for triggers:
 - 10000 - Amount of money the player has.
