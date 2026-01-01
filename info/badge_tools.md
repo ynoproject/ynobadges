@@ -10,11 +10,11 @@ Once there, login into an account (no need for a moderator or developer account,
 ## How To Use
 
 1. Select the badges you want to add from the sheet.
-2. Input badge data into the tool, by referring to the documentation if needed.
+2. Input the data of the badges into the tool by filling the various fields, and referring to the documentation if needed.
 3. Proofread what you typed, by making sure the values, text and fields are correct, that no typo or extra space was left.
 4. Export the badges you generated using the Export button.
 5. Check the files are correct, and adjust any field requiring to be edited (e.g. adding MapX and MapY to badges files when needed).
-6. Download the images of the badges you genered.
+6. Download the images of the badges you generated.
 7. Create a folder called `images` next to the folders from the extracted badges zip.
 8. Put the images in it.
 9. Rename the images to match the badge IDs they are assigned to. Make sure their extension are .png and .gif depending on the format, all small letters, that badges having a gif are set to be animated, while those that don't have a gif are set to not be animated, and lastly, that those badges are in the 37x37 (or 74x74 if it was authorised) resolution without being compressed.
@@ -36,20 +36,20 @@ Once there, login into an account (no need for a moderator or developer account,
 
 ![List of games; the list may not be up to date and is only displayed as an example.](/info/assets/badge_game_id.png)
 
-④ Group - Defines in which group the badge is. Only present for some games like ynoproject, 2kki, flow, unevendream, fog. See file for where data configured.
+④ Group - Defines in which group the badge is. Only present for some games like ynoproject, 2kki, flow, unevendream, fog.
 - The ynoproject groups are Badges, Expeditions, Rankings, Special. Badges is for badges tied to unlocking badges, Expeditions for badges tied to expeditions, Rankings for badges tied to the rankings, and Special for everything else.
-- The 2kki groups are Exploration, Expeditions, Events & Locations, Time Trials, Challenges, End Game. Exploration is for badges tied to the world visit progress, Events & Locations for badges in general, Time Trials for badges to unlock in Time Trial Mode, Challenges for multi-conditions badges or badges to achieving specific feats, and End Game for badges tied to endings.
+- The 2kki groups are Exploration, Expeditions, Events & Locations, Time Trials, Challenges, End Game. Exploration is for badges tied to the world visit progress, Events & Locations for badges in general, Time Trials for badges to unlock in Time Trial Mode, Challenges for multi-conditions badges or for achieving specific feats, and End Game for badges tied to endings.
 - The .flow groups are Sabitsuki, Rust, Both. They should be used depending on which character can get a badge (Sabitsuki for Sabitsuki-only badges, Rust for Rust-only badges, Both for both characters).
 - The unevendream groups are Kubotsuki, Totsutsuki, Misc. They should be used depending on which character can get a badge (Totsutsuki for Totsutsuki badges, Kubotsuki for Kubotsuki badges, Misc for badges not tied to any specific character or tied to both).
 - The fog groups are Events & Locations, Leon, Tegan, Emory. Events & Locations is for badges not tied to any specific character, or to several characters at once, while Leon, Tegan and Emory are for the badges exclusive to those characters.
 
-In case those need to be updated or edited, the groups and their names in the various languages are defined in the [groups folder](https://github.com/ynoproject/ynobadges/tree/master/lang/groups) of the ynobadges repository, while the selectable entries in the badge tools menu are defined in the [badge tools.js](https://github.com/ynoproject/forest-orb/blob/master/badgetools.js) file of the forest-orb repository.
+In case groups need to be updated or edited, the groups and their names in the various languages are defined in the [groups folder](https://github.com/ynoproject/ynobadges/tree/master/lang/groups) of the ynobadges repository, while the selectable entries in the badge tools menu are defined in the [badge tools.js](https://github.com/ynoproject/forest-orb/blob/master/badgetools.js) file of the forest-orb repository.
 
 ⑤ Order - Defines in which order the badge should be displayed in the list. Left on 0 most of the time, as the badges are automatically ordered by map ID, and then by badge ID, rendering the option not needed.
 
 ⑥ Map Order - Defines in which order the badge should be displayed in the list for entries on a same map ID. Can be used to display badges in a special order if the badge ID doesn't match what you would want to be displayed.
 
-⑦ Badge Name - Name of the badge, as submitted by the user. By default, the name set in the tools is `New Badge`: no badge should be released with this name, meaning that if you see this name, it must be fixed. In English, badge names should use [Title Case](https://en.wikipedia.org/wiki/Title_case). Unless it makes sense, text fields should use American English, and consistency on punctuation should be put: if one of those characters is used, rather than using …, —, ？, ’, “, ”, please use ..., -, ?, ', ", ". This also applies to other text fields. Do not use emojis as part of the text fields, as the shading of the UI may look off on them. The name of a badge should be unique, and not be shared or too similar to existing badges or badges waiting on the sheet.
+⑦ Badge Name - Name of the badge, as submitted by the user. By default, the name set in the tools is `New Badge`: no badge should be released with this name, meaning that if you see this name, it must be corrected. In English, badge names should use [Title Case](https://en.wikipedia.org/wiki/Title_case). Unless it makes sense, text fields should use American English, and consistency on punctuation should be put: if one of those characters is used, rather than using …, —, ？, ’, “, ”, please use ..., -, ?, ', ", ". This also applies to other text fields. Do not use emojis as part of the text fields, as the shading of the UI may look off on them. The name of a badge should be unique, and not be shared or too similar to existing badges or badges waiting on the sheet.
 
 ⑧ Description - Text of the description, as submitted by the user. This field is optional and can be left empty if the badge doesn't use it. Content can be a bit free on how it is written, but proofreading, consistency, and it making sense is nonetheless required.
 
@@ -61,7 +61,7 @@ Artists are automatically listed in the [credits](CREDITS.md) document through a
 
 ⑪ Animated - Whether a badge is animated or not.
 
-⑫ BP - The amount of BP (Badge Points) a badge should grant. BP must be a multiple of 5 without being 5 and without being negative. If the BP are set to be 0, the badge should be set with the Hidden flag.
+⑫ BP - The amount of BPs (Badge Points) a badge should grant. BPs must be a multiple of 5 without being 5 and without being negative. If the BPs are set to be 0, the badge should be set with the Hidden flag.
 
 ⑬ Requirement Type - The type of requirement the badge will need to be unlocked.
 - None (Mod Granted) - The badge will not be able to be unlocked outside of being manually granted by a moderator or developer on the site.
@@ -72,7 +72,7 @@ Artists are automatically listed in the [credits](CREDITS.md) document through a
 
 ![The various requirements.](/info/assets/badge_requirement_type.png)
 
-⑭ Tag Requirement Count (Multiple Tags only) - Number of conditions the player has to do before unlocking the badge. If set to 1, the number of conditions the badge has will not be displayed on-screen.
+⑭ Tag Requirement Count (Multiple Tags only) - Number of conditions the player has to do before unlocking the badge. If set to 1, the number of conditions the badge has will not be displayed on-screen in the badge menu.
 
 ![The requirements tied to Multiple Tags.](/info/assets/badge_requirement_multiple.png)
 
@@ -90,7 +90,7 @@ Artists are automatically listed in the [credits](CREDITS.md) document through a
 
 ⑳ Hidden - If set, the badge will not appear in the badge list before being obtained, will not take part of the badge rankings, and will have a different color for the background and name in the badge list. If this is used, make sure the badge in question grants 0 BP.
 
-㉑ Parent Badge ID - If a parent badge ID is specified, the badge will behave in a similar way than a Secret badge until the parent badge is unlocked. Must only be used for badges where you ARE forced to unlock the parent badge first (e.g. a badge for scoring 2000 points at NASU with a parent badge for scoring 1000 points in NASU makes sense, as it is impossible to get the 2000 points first. A badge for visiting a deeper world with a parent badge for visiting a badge present before it is not doable, as the player could be logged off while visiting the location of the parent badge, thus only unlocking the child badge before the parent badge).
+㉑ Parent Badge ID - If a parent badge ID is specified, the badge will behave in a similar way than a Secret badge until the parent badge is unlocked. Must only be used for badges where you ARE forced to unlock the parent badge first (e.g. a badge for scoring 2000 points at NASU with a parent badge for scoring 1000 points in NASU makes sense, as it is impossible to get the 2000 points first. A badge for visiting a deeper world with a parent badge for visiting a world present before it is not doable, as the player could be logged off while visiting the location of the parent badge, thus only unlocking the child badge before the parent badge).
 
 ㉒ Overlay - If a badge is set to use an overlay, several options are available.
 - Gradient - Uses the gradient of the UI theme insteads of the flat color.
@@ -99,7 +99,7 @@ Artists are automatically listed in the [credits](CREDITS.md) document through a
 - Dual - Applies both foreground and background colors to the badge. Mask must be enabled to be effective.
 - Location - Overrides the user's UI theme's colors with the colors corresponding to the user's current location (color picked based on the color set for the wiki page of the world). If the current location cannot deliver a color (no wiki link/Unknown Location), the UI theme's colors will be used as a fallback.
 
-If you check an existing badge using an overlay, you will notice the overlay parameter is just assigned to a number. This number is the result of adding the value of the parameters together, where Gradient = +1, Multiply = +2, Mask = +4, Dual = +8, and Location = +16.
+If you check the data of an existing badge using an overlay (e.g. Yume Nikki ending badge, Badge Amulet), you will notice the overlay parameter is just assigned to a number. This number is the result of adding the value of the parameters together, where Gradient = +1, Multiply = +2, Mask = +4, Dual = +8, and Location = +16.
 
 ![The various options available for Overlay.](/info/assets/badge_overlay.png)
 
@@ -118,35 +118,36 @@ This section will be empty if the Requirement Type was set to None (Mod Granted)
 
 ① Entries - The different conditions you are making for a single badge. This section will not allow any option if the Requirement Type was set to a single tag. You can switch between entries by clicking on a condition button, and can create a new condition entry by clicking on the + button.
 
-② Sub-entries -
+② Sub-entries (for multi-tag badges) - Allows to create one or several alternative tags for a same condition. Can be useful for instance in a multiple triggers badge, where one of the triggers has alternatives (e.g. a visit worlds A, B, C and D badge, where C would be on 2 different maps: creating an alternative tag to the visit world C condition could be used).
 
-③ Tag ID -
+③ Tag ID - The ID of the condition internally used by the system. Similar to the badge ID, the name used should be unique, tied to the condition to be easier to search, use [snake case](https://en.wikipedia.org/wiki/Snake_case), and be 30 characters or less: ideally if it makes sense, reusing the same name than the Badge ID can be done as to make things easier to search. For multiple conditions badges, don't hesitate to suffix the different tags with an underscore and a number, and the same for alternative tags, e.g. `hotel_1`, `hotel_2`, `hotel_3_a`, `hotel_3_b`, or again `city_a` and `city_b`.
 
-④ Subcondition (for multi-tag badges) -
+④ Subcondition (for multi-tag badges) - If the condition is met, and that the player has not yet completed the other triggers, the text written in this field will be displayed as strike-through in the condition text. (e.g. if the condition text is "Obtain the Ghost and Elephant effects", that you wrote "Ghost" in this field for this condition, that you completed it but didn't completed the Elephant condition, the condition text will be displayed in the menu as "Obtain the ~~Ghost~~ and Elephant effects".
 
-⑤ Map ID - Map ID on which the condition takes place. If no Map ID is set, the condition file will tracked in all maps, though global triggers must be avoided whenever possible to avoid overusing and potential false positives for their trigger.
+⑤ Map ID - Map ID on which the condition takes place. If no Map ID is set, the condition file will be tracked in all maps, though global triggers must be avoided whenever possible to avoid overusing and potential false positives for their trigger.
 
-⑥ Map Coords - MapX1 Setting -1 as the value of both X/Y1 and X/Y2 will ignore said X or Y value for the check.
+⑥ Map Coords - Map coordinates on which the trigger is considered as valid. The area will be defined as a rectangle, with MapX1 and MapY1 being the upper-left coordinate of the area, while MapX2 and MapY2 is the lower-right corner of the area. Setting -1 as the value of both X/Y1 and X/Y2 will ignore said X or Y value for the check.
 
 ![The options available for the map conditions.](/info/assets/condition_map_coords.png)
 
-⑦ Switch Condition -
+⑦ Switch Condition - Ties the condition to a switch. There are several options available with this parameter.
 
-- None -
-- Switch -
-- Switch List -
-    - Switch ID -
-    - Value -
+- None - Don't track any switch.
+- Switch - Track a single switch.
+- Switch List - Track several switches at once. This feature is more prone to not triggering badges, so avoid using it if possible.
+    - Switch ID - ID of the Switch to track.
+    - Value - Value of the Switch. Untick means the switch will be tracked as being OFF, while tick means the switch will be tracked as being ON.
     - Switch Delay - If set, the switch check will only occur if the switch was edited while the condition was tracked.
-    - Additional Switch(es) -
+    - Additional Switch(es) - Add more switches to the trigger by clicking on the + button.
 
 ![The options available for the switch conditions.](/info/assets/condition_switch_list.png)
 
-⑧ Variable Condition -
-- None -
-- Variable -
-- Variable List -
-    - Variable ID -
+⑧ Variable Condition - Ties the condition to a variable. There are several options available with this parameter.
+
+- None - Don't track any variable.
+- Variable - Track a single variable.
+- Variable List - Track several variables at once. This feature is more prone to not triggering badges, so avoid using it if possible.
+    - Variable ID - ID of the variable to track.
     - Op - Check done on the value of the variable to know if the trigger should be activated or not.
         - `=` - Checks if the value of the selected variable is equal to the selected value. 
         - `<` - Checks if the value of the selected variable is less than the selected value. 
@@ -156,7 +157,7 @@ This section will be empty if the Requirement Type was set to None (Mod Granted)
         - `!=` - Checks if the value of the selected variable is not equal to the selected value. 
         - `>=<` - Checks if the value of the selected variable is between the selected value 1 and the selected value 2. This option cannot be used in a Variable List condition.
     - Variable Delay - If set, the variable check will only occur if the variable was edited while the condition was tracked.
-    - Variable Trigger -
+    - Variable Trigger - Sets the variable check as being the trigger.
 
 Some variable IDs are not edited by the game itself, but are used by this system and can be used for triggers:
 - 10000 - Amount of money the player has.
@@ -167,7 +168,7 @@ Some variable IDs are not edited by the game itself, but are used by this system
 ![The options available for the variable operators.](/info/assets/condition_variable_operators.png)
 
 ⑨ Trigger - Type of trigger the condition should be checked to know if it should enable.
-- Default - Use solely the map, or the switch or variable set.
+- Default - Use solely the map, switch or variable set.
 - Previous Map ID - Triggers the condition if the previous map the player visited corresponds to the previous map selected. The ID of the map must use 4 digits (e.g. 0009, 0011, 0123, 1640), even if the ID is less than 1000, otherwise the trigger will not work. Yume 2kki internally tracks the previous map ID in the variable 99, which can alternatively be used if a different trigger is needed, or if the game changes quickly the location between different maps which could be incorrectly reflected through this option.
 - Teleport - Triggers if the player is teleported and that the other set conditions are met.
 - Coordinates - If set as the trigger, the Map Coords argument will automatically be set here.
@@ -185,6 +186,3 @@ Some variable IDs are not edited by the game itself, but are used by this system
 Export - Export the generated files in a zip archive.
 
 ![The export button.](/info/assets/export_button.png)
-
-
-Time Trial considerations
