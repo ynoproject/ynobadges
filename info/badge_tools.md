@@ -147,22 +147,21 @@ This section will be empty if the Requirement Type was set to None (Mod Granted)
 
 ![The options available for variables in a list.](/info/assets/condition_variable_list.png)
 
-
 - None - Don't track any variable.
 - Variable - Track a single variable.
 - Variable List - Track several variables at once. This feature is more prone to not triggering badges, so avoid using it if possible.
+- Variable ID - ID of the variable to track.
+- Op - Check done on the value of the variable to know if the trigger should be activated or not.
 
 ![The options available for the variable operators.](/info/assets/condition_variable_operators.png)
 
-- Variable ID - ID of the variable to track.
-- Op - Check done on the value of the variable to know if the trigger should be activated or not.
-    - `=` - Checks if the value of the selected variable is equal to the selected value. 
-    - `<` - Checks if the value of the selected variable is less than the selected value. 
-    - `>` - Checks if the value of the selected variable is greater than the selected value. 
-    - `<=` - Checks if the value of the selected variable is equal or less than the selected value. 
-    - `>=` - Checks if the value of the selected variable is equal or greater than the selected value. 
-    - `!=` - Checks if the value of the selected variable is not equal to the selected value. 
-    - `>=<` - Checks if the value of the selected variable is between the selected value 1 and the selected value 2. This option cannot be used in a Variable List condition.
+- `=` - Checks if the value of the selected variable is equal to the selected value. 
+- `<` - Checks if the value of the selected variable is less than the selected value. 
+- `>` - Checks if the value of the selected variable is greater than the selected value. 
+- `<=` - Checks if the value of the selected variable is equal or less than the selected value. 
+- `>=` - Checks if the value of the selected variable is equal or greater than the selected value. 
+- `!=` - Checks if the value of the selected variable is not equal to the selected value. 
+- `>=<` - Checks if the value of the selected variable is between the selected value 1 and the selected value 2. This option cannot be used in a Variable List condition.
 
 ![The options available for the variables.](/info/assets/condition_variable.png)
 
