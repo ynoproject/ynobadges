@@ -548,6 +548,11 @@
     "severed_head_effect": {
       "name": "斬首",
       "condition": "なまくびのエフェクトを入手する、すでに入手している場合はギロチン部屋かギロチン大部屋にもう一度行く。"
+    },
+    "spaceship_crash_event": {
+      "name": "Crashing Out",
+      "description": "Perhaps waiting until AFTER we landed to check the structural integrity of the ship was a bad idea...",
+      "condition": "セコムマサダ先生の宇宙船で火星に不時着する"
     }
   },
   "2kki": {
@@ -1139,7 +1144,8 @@
       "condition": "あそびばでまじょっこに勝つ"
     },
     "snow": {
-      "name": "クリスマススノードーム",
+      "name": "Yuletide Bauble",
+      "description": "It's finally that time of the year again!",
       "condition": "雪が降っている時に廃籠で顔付きアーチの下をくぐり抜ける"
     },
     "akako": {
@@ -7615,6 +7621,55 @@
       "name": "美しさに心奪われて",
       "description": "もし変化なんてなければ、蝶なんて存在しなかった。",
       "condition": "虫食いに到達する"
+    },
+    "shadow_lady_castle_bridges": {
+      "name": "Ominous Sculpture",
+      "description": "You can't outrun what's to come.",
+      "condition": "Get caught in the Castle Bridges"
+    },
+    "mirror_lake_patient": {
+      "name": "The Lake of Mauve Reflection",
+      "description": "The waters sparkle a bright lavender!",
+      "condition": "鏡湖で病人に会う。"
+    },
+    "2kki_bluescreen": {
+      "name": "GPU Failure",
+      "description": "Aw man... :(",
+      "condition": "error404に到達する"
+    },
+    "system_sounds_5": {
+      "name": "Solitude's Sorrow",
+      "description": "Eternal solitude in a secluded lake.",
+      "condition": "Obtain the system sounds 5. If you have already unlocked it, return where it can be found in Nightfall Park, and interact with the flashing human figure if you haven't equipped it."
+    },
+    "location_motif_1": {
+      "name": "Endless Road Maze",
+      "description": "Just an endless looping of the road non-stop!",
+      "condition": "Visit Location Motif 1"
+    },
+    "white_lily_path": {
+      "name": "A Monochrome World Touched by Red",
+      "description": "In a world without color, I bloom in red.",
+      "condition": "Visit both the White Lily Path A and White Lily Path B of the Glitched Butterfly Sector",
+      "checkbox": {
+        "white_lily_path_a_a|white_lily_path_a_b": "White Lily Path A",
+        "white_lily_path_b_a|white_lily_path_b_b": "White Lily Path B"
+      }
+    },
+    "sea_lily_world_polygon": {
+      "name": "Something Unexpected Just Happened.",
+      "description": "What's the meaning behind it?",
+      "condition": "Interact with the Sea Lily Cyberling while using the variant of the Polygon effect in Sea Lily World"
+    },
+    "phonograph_galaxy": {
+      "name": "Galactic Melody",
+      "description": "Listen to the gentle tunes",
+      "condition": "胡麻横丁で蓄音機と近くにいる人に話しかける"
+    },
+    "reflecting_electron": {
+      "name": "Tetrapod Processing Module",
+      "description": "System Status Summary: Parallel simulations initialized/Synchronization failure detected/Subatomic matrix at critical state/Computational load exceeds safety thresholds/Imminent overload/Unauthorized shutdown in progress.",
+      "condition": "Electronに到達する"
     }
   },
   "flow": {
@@ -7909,6 +7964,11 @@
       "name": "熟練の庭師",
       "description": "あれ、ちょっと水やりにしては水が多すぎるような……",
       "condition": "じょうろのエフェクトを入手する、すでに入手している場合は植物にもう一度行く。"
+    },
+    "attack_smile": {
+      "name": "You're a Sick Girl, But I'll See You Again.",
+      "description": "Now you talking about some potassium onion, boy what?",
+      "condition": "イレズミ妹をてつパイプで殴る"
     }
   },
   "prayers": {
@@ -8014,6 +8074,11 @@
       "name": "行く先を見張る者たち",
       "description": "彼らは見ている……ずっと見ている……しかし、誰がその監視者を見張るんだ？",
       "condition": "Spirit Townの隠れた部屋を見つける"
+    },
+    "sunflower": {
+      "name": "Snowy Sunflower",
+      "description": "A place that brings me happiness",
+      "condition": "Forest Worldにあるsunflower fieldに到達する"
     }
   },
   "deepdreams": {
@@ -8725,6 +8790,10 @@
       "name": "甘味を夢見て",
       "description": "ぷにぷに…おいしい…あまい…マシュマロ…",
       "condition": "Marshmallowのエフェクトを入手する、すでに入手している場合はTasty Plainsの見つけた場所に行く。"
+    },
+    "washing_machine_bubble_lounge": {
+      "name": "Totsutsuki Washer",
+      "condition": "Reach the washing machine in Bubble Lounge"
     }
   },
   "braingirl": {
@@ -9206,6 +9275,11 @@
       "name": "重ねる一歩",
       "description": "音楽をたどって、これまでに歩んできた足跡を思い出して。",
       "condition": "Music Roomに到達する"
+    },
+    "fake_rainbow": {
+      "name": "Skipping the Sign-off",
+      "description": "Living the dream for too long, just for it to become a nightmare...",
+      "condition": "Above the Cloudsで偽物のメモリーを手に入れる"
     }
   },
   "genie": {
@@ -11106,6 +11180,60 @@
       "name": "もう逃げられない",
       "description": "どう逃げ出せって言うんだ？",
       "condition": "Good-bye Strangerの最後のレベルで捕まる"
+    }
+  },
+  "cold": {
+    "hood_effect_garbagebag": {
+      "name": "Familiar Manifestation",
+      "condition": "See the big Aruben giving the hood effect in Garbagebag"
+    },
+    "dead_old_hospital": {
+      "name": "Dead Person",
+      "description": "Crushed by the weight",
+      "condition": "See the dead person in Old Hospital"
+    },
+    "cat_rainy_street": {
+      "name": "Twilight Feline",
+      "description": "A friend in a lonely town",
+      "condition": "Interact with the cat in Rainy Street"
+    },
+    "people": {
+      "name": "Nice People",
+      "description": "Tall skinny figures.",
+      "condition": "Visit People"
+    },
+    "scarecrow_the_school": {
+      "name": "The Dark Room",
+      "description": "5+5+5+5+5+...",
+      "condition": "Get caught by the scarecrow in The School"
+    },
+    "ooooo": {
+      "name": "ooooo",
+      "condition": "Collect the 5 o to unlock the green door in Rainy Street"
+    },
+    "walking_to_school_rainy": {
+      "name": "Walking in the Rain",
+      "description": "Walk to school with an old friend",
+      "condition": "Trigger the Walking to School event in Rainy"
+    },
+    "aruben_the_playground": {
+      "name": "Fading Apparition",
+      "description": "That used to be how I wanted to be.",
+      "condition": "See the Aruben walk away in The Playground"
+    },
+    "his_room_cyan_building": {
+      "name": "Smile More!",
+      "description": "^o^",
+      "condition": "Trigger the His Room event in Cyan Building. If you have already completed it, return to said room."
+    },
+    "cold_school": {
+      "name": "School in Memory",
+      "description": "Back to this familiar corridor",
+      "condition": "Visit The School"
+    },
+    "tiger_effect": {
+      "name": "Tiger Man",
+      "condition": "Obtain the tiger effect. If you have already unlocked it, return to the Cave Home of Fake FC World."
     }
   }
 }
