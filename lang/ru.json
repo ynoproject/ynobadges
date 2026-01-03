@@ -7595,6 +7595,45 @@
       "name": "Delighted In the Beauty",
       "description": "If nothing ever changed, there'd be no such thing as butterflies.",
       "condition": "Побывайте в Butterfly Passage."
+    },
+    "evil_slime_mask": {
+      "name": "Menace Blob",
+      "description": "It's blue and full of hate for a devious reason",
+      "condition": "Equip the evil slime mask where it can be found in Slime Village"
+    },
+    "tooth_creature_headphones": {
+      "name": "Teethy Beats",
+      "description": "No wires on those headphones, I guess they're Bluetooth!",
+      "condition": "Interact with the tooth creature with headphones in Tricolor Room"
+    },
+    "candy_shoal": {
+      "name": "Sweetness Overload!",
+      "description": "You should seek dental care after this...",
+      "condition": "Visit Candy Shoal"
+    },
+    "light_secret_society": {
+      "name": "TURN OFF THE LIGHT!",
+      "condition": "Use the Lantern effect in the dark room of Secret Society"
+    },
+    "raincoat": {
+      "name": "Her Yellow Raincoat",
+      "description": "Gotta dress for the weather!",
+      "condition": "Obtain the Teru Teru Bōzu and Red Riding Hood effects. If you have already unlocked them, return where they can be found respectively in the main part of Dark Alleys and in the Fairy Tale Woods/in the Birch Forest",
+      "checkbox": {
+        "raincoat_1": "Dark Alleys",
+        "raincoat_2a": "Fairy Tale Woods",
+        "raincoat_2b": "Birch Forest"
+      }
+    },
+    "red_hair_burgundy_flats": {
+      "name": "Door's Open If You Need Anything.",
+      "description": "Need the key to my apartment? sure, don't steal anything though.",
+      "condition": "Visit the room of the person with red hair in Burgundy Flats"
+    },
+    "shape_world_house": {
+      "name": "Come On In!",
+      "description": "The rent's free and you get a weekly allowance of Yume!",
+      "condition": "Visit the house in Shape World"
     }
   },
   "flow": {
@@ -7889,6 +7928,11 @@
       "name": "Expert Gardener",
       "description": "Uh, that seems like a lot of water for the plants...",
       "condition": "Obtain the Watering Can effect. If you have already unlocked it, return to Plant World."
+    },
+    "watering_can": {
+      "name": "Expert Gardener",
+      "description": "Uh, that seems like a lot of water for the plants...",
+      "condition": "Obtain the Watering Can effect. If you have already unlocked it, return to Plant World"
     }
   },
   "prayers": {
@@ -8335,6 +8379,11 @@
       "name": "Tsukinception",
       "description": "Are you just a character in someone else's story?",
       "condition": "Visit Tsukitsuki's Bedroom"
+    },
+    "tsukitsuki": {
+      "name": "Tsukinception",
+      "description": "Are you just a character in someone else's story?",
+      "condition": "Visit Tsukitsuki's Bedroom"
     }
   },
   "unevendream": {
@@ -8705,6 +8754,15 @@
       "name": "Dreaming of Sweetness",
       "description": "Squishy... yummy... tasty... marshmallow...",
       "condition": "Obtain the Marshmallow effect. If you have already unlocked it, return where it can be found in Tasty Plains."
+    },
+    "triste_forest": {
+      "name": "No Pasa Nada",
+      "condition": "Find Triste in All-Seeing Forest"
+    },
+    "marshmallow": {
+      "name": "Dreaming of Sweetness",
+      "description": "Squishy... yummy... tasty... marshmallow...",
+      "condition": "Obtain the Marshmallow effect. If you have already unlocked it, return where it can be found in Tasty Plains"
     }
   },
   "braingirl": {
@@ -9393,6 +9451,11 @@
       "name": "Where Another Me Sleeps",
       "description": "Your awakening marks the end of my dream.",
       "condition": "Trigger the wake up event in the Train"
+    },
+    "spear_of_fear": {
+      "name": "Fangs Against the Inevitable Order",
+      "description": "Do not falter. Fix your footing where you faced fear head-on. Remember the fear that pierced your heart, and here, the script of the fate that nearly broke you is rewritten.",
+      "condition": "Obtain the Spear of Fear delusion. If you have already unlocked it, return where it can be found in Narrow Apartments."
     }
   },
   "mikan": {
