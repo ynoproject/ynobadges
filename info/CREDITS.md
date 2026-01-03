@@ -28,6 +28,7 @@
 * A Jar Full of Loaves of Bread
 * AcceleratingWind
 * AduriteStar
+* AduSR
 * akalog
 * Akiro
 * Akxzii
@@ -250,6 +251,8 @@
 * ram
 * Raptarr8
 * raspien
+* rayinpixels
+* Rennatalia
 * ribon996
 * Riqo
 * rooliette
