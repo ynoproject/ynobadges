@@ -7545,9 +7545,9 @@
       "condition": "ライブハウスで2つのパターンのステージを見る"
     },
     "sherbet_snowfield": {
-      "name": "甘くきらめいて",
-      "description": "その味は、もっと素朴だった頃を思い出させる。",
-      "condition": "クスリマスに到達する"
+      "name": "Sweet Shimmer",
+      "description": "The taste reminds you of a simpler time.",
+      "condition": "Visit Sherbet Snowfield"
     },
     "tooth_tricolor_room": {
       "name": "歯みがきのビート",
@@ -7560,13 +7560,13 @@
       "condition": "飴の橋立に到達する"
     },
     "cactus_desert": {
-      "name": "夏の午後の夢",
-      "description": "最も過酷な環境の中にも、美は宿る。",
-      "condition": "仙人掌砂漠に到達する"
+      "name": "Dreaming of a Summer Afternoon",
+      "description": "There's beauty to be found in the harshest environments.",
+      "condition": "Visit Cactus Desert"
     },
     "moss_world": {
-      "name": "苔むす花々",
-      "condition": "苔の世界:メインエリアに到達する"
+      "name": "Mossy Flowers",
+      "condition": "Visit Moss World"
     },
     "2kki_raincoat_effect": {
       "name": "あの子の黄色いレインコート",
@@ -7615,6 +7615,45 @@
       "name": "美しさに心奪われて",
       "description": "もし変化なんてなければ、蝶なんて存在しなかった。",
       "condition": "虫食いに到達する"
+    },
+    "evil_slime_mask": {
+      "name": "Menace Blob",
+      "description": "It's blue and full of hate for a devious reason",
+      "condition": "Equip the evil slime mask where it can be found in Slime Village"
+    },
+    "tooth_creature_headphones": {
+      "name": "Teethy Beats",
+      "description": "No wires on those headphones, I guess they're Bluetooth!",
+      "condition": "Interact with the tooth creature with headphones in Tricolor Room"
+    },
+    "candy_shoal": {
+      "name": "Sweetness Overload!",
+      "description": "You should seek dental care after this...",
+      "condition": "Visit Candy Shoal"
+    },
+    "light_secret_society": {
+      "name": "TURN OFF THE LIGHT!",
+      "condition": "Use the Lantern effect in the dark room of Secret Society"
+    },
+    "raincoat": {
+      "name": "Her Yellow Raincoat",
+      "description": "Gotta dress for the weather!",
+      "condition": "Obtain the Teru Teru Bōzu and Red Riding Hood effects. If you have already unlocked them, return where they can be found respectively in the main part of Dark Alleys and in the Fairy Tale Woods/in the Birch Forest",
+      "checkbox": {
+        "raincoat_1": "Dark Alleys",
+        "raincoat_2a": "Fairy Tale Woods",
+        "raincoat_2b": "Birch Forest"
+      }
+    },
+    "red_hair_burgundy_flats": {
+      "name": "Door's Open If You Need Anything.",
+      "description": "Need the key to my apartment? sure, don't steal anything though.",
+      "condition": "Visit the room of the person with red hair in Burgundy Flats"
+    },
+    "shape_world_house": {
+      "name": "Come On In!",
+      "description": "The rent's free and you get a weekly allowance of Yume!",
+      "condition": "Visit the house in Shape World"
     }
   },
   "flow": {
@@ -7909,6 +7948,11 @@
       "name": "熟練の庭師",
       "description": "あれ、ちょっと水やりにしては水が多すぎるような……",
       "condition": "じょうろのエフェクトを入手する、すでに入手している場合は植物にもう一度行く。"
+    },
+    "watering_can": {
+      "name": "Expert Gardener",
+      "description": "Uh, that seems like a lot of water for the plants...",
+      "condition": "Obtain the Watering Can effect. If you have already unlocked it, return to Plant World"
     }
   },
   "prayers": {
@@ -8355,6 +8399,11 @@
       "name": "つきに入り込むつき",
       "description": "あなたは、誰かのお話の中の人にすぎないの？",
       "condition": "Tsukitsuki's Bedroomに到達する"
+    },
+    "tsukitsuki": {
+      "name": "Tsukinception",
+      "description": "Are you just a character in someone else's story?",
+      "condition": "Visit Tsukitsuki's Bedroom"
     }
   },
   "unevendream": {
@@ -8725,6 +8774,15 @@
       "name": "甘味を夢見て",
       "description": "ぷにぷに…おいしい…あまい…マシュマロ…",
       "condition": "Marshmallowのエフェクトを入手する、すでに入手している場合はTasty Plainsの見つけた場所に行く。"
+    },
+    "triste_forest": {
+      "name": "No Pasa Nada",
+      "condition": "Find Triste in All-Seeing Forest"
+    },
+    "marshmallow": {
+      "name": "Dreaming of Sweetness",
+      "description": "Squishy... yummy... tasty... marshmallow...",
+      "condition": "Obtain the Marshmallow effect. If you have already unlocked it, return where it can be found in Tasty Plains"
     }
   },
   "braingirl": {
@@ -8995,9 +9053,9 @@
       "condition": "Nina's Outpostに到達する"
     },
     "pure_creativity": {
-      "name": "キャンバスの上で、わたしを創る",
-      "description": "真っ白なキャンバスに、私の色を描いて",
-      "condition": "Pure Creativityに到達する"
+      "name": "Inventing Myself on Canvas",
+      "description": "Painting my colors on a blank canvas",
+      "condition": "Visit Pure Creativity"
     }
   },
   "muma": {
@@ -9413,6 +9471,11 @@
       "name": "私ではない私が眠る場所",
       "description": "あなたの目覚めが、私の夢の終わりを告げる。",
       "condition": "Trainで強制起床イベントを見る"
+    },
+    "spear_of_fear": {
+      "name": "Fangs Against the Inevitable Order",
+      "description": "Do not falter. Fix your footing where you faced fear head-on. Remember the fear that pierced your heart, and here, the script of the fate that nearly broke you is rewritten.",
+      "condition": "Obtain the Spear of Fear delusion. If you have already unlocked it, return where it can be found in Narrow Apartments."
     }
   },
   "mikan": {
