@@ -17,11 +17,11 @@ User-submitted translations are welcomed on this repository.
 
 [Badge Tools]
 
-How to Handle the Badges Sheet (TBA)
+[Handling the Badge Sheet]
 
-How to Properly Implement Replacement Badges (TBA)
+[Editing Badges and Implementing Replacement Badges]
 
-Find Internal Triggers (TBA)
+[Finding Internal Triggers]
 
 
 ## Related Links
@@ -42,3 +42,9 @@ Find Internal Triggers (TBA)
 [Credits]: info/CREDITS.md
 
 [Badge Tools]: info/badge_tools.md
+
+[Handling the Badge Sheet]: info/badge_sheet.md
+
+[Editing Badges and Implementing Replacement Badges]: info/editing_badges.md
+
+[Finding Internal Triggers]: info/internal_triggers.md

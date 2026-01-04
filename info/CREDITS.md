@@ -28,7 +28,6 @@
 * A Jar Full of Loaves of Bread
 * AcceleratingWind
 * AduriteStar
-* AduSR
 * akalog
 * Akiro
 * Akxzii
@@ -341,7 +340,6 @@
 * Windmills123
 * wonposkie
 * Writer
-* xen
 * xenonquark996
 * yamabuki
 * Yarshmellow
