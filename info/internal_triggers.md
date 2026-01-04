@@ -170,7 +170,7 @@ The Yume 2kki map tree is organised by developers, with each developer having it
 - The map 101 folder contains the maps tied to the default minigame B (maps 101~110).
 - The map 121 folder contains the maps tied to the ↑V↑ (Wavy Up) minigame (maps 121~130).
 - The map 171 folder contains some of the maps tied to Urotsuki's Dream Apartments (maps 171~180).
-- The map 221 folder contains some of the maps tied to ending as well as the Developer's Room (maps 221~230).
+- The map 221 folder contains some of the maps tied to the endings as well as the Developer's Room (maps 221~230).
 - The map 401 folder contains the maps tied to the GIMMICK RUNNER minigame (maps 401~410).
 - The map 501 folder contains the maps tied to the developer Tonden (maps 501~510).
 - The map 801 folder contains 2i9's maps, as well as the maps of the developers they are proxying, MymeType and froggo.
