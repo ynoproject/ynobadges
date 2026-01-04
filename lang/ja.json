@@ -550,8 +550,8 @@
       "condition": "なまくびのエフェクトを入手する、すでに入手している場合はギロチン部屋かギロチン大部屋にもう一度行く。"
     },
     "spaceship_crash_event": {
-      "name": "Crashing Out",
-      "description": "Perhaps waiting until AFTER we landed to check the structural integrity of the ship was a bad idea...",
+      "name": "墜落オチ",
+      "description": "着陸してから宇宙船の強度を確認するのは、さすがに判断ミスだったかも……",
       "condition": "セコムマサダ先生の宇宙船で火星に不時着する"
     }
   },
@@ -7966,8 +7966,8 @@
       "condition": "じょうろのエフェクトを入手する、すでに入手している場合は植物にもう一度行く。"
     },
     "attack_smile": {
-      "name": "You're a Sick Girl, But I'll See You Again.",
-      "description": "Now you talking about some potassium onion, boy what?",
+      "name": "ハ、ハハッ、ハハ",
+      "description": "今なんて言った？",
       "condition": "イレズミ妹をてつパイプで殴る"
     }
   },
@@ -8076,8 +8076,8 @@
       "condition": "Spirit Townの隠れた部屋を見つける"
     },
     "sunflower": {
-      "name": "Snowy Sunflower",
-      "description": "A place that brings me happiness",
+      "name": "雪とひまわり",
+      "description": "幸せになれる場所",
       "condition": "Forest Worldにあるsunflower fieldに到達する"
     }
   },
@@ -8792,8 +8792,8 @@
       "condition": "Marshmallowのエフェクトを入手する、すでに入手している場合はTasty Plainsの見つけた場所に行く。"
     },
     "washing_machine_bubble_lounge": {
-      "name": "Totsutsuki Washer",
-      "condition": "Reach the washing machine in Bubble Lounge"
+      "name": "とつつき洗浄機",
+      "condition": "Bubble Loungeの洗濯機に到達する"
     }
   },
   "braingirl": {
@@ -9277,8 +9277,8 @@
       "condition": "Music Roomに到達する"
     },
     "fake_rainbow": {
-      "name": "Skipping the Sign-off",
-      "description": "Living the dream for too long, just for it to become a nightmare...",
+      "name": "演出スキップ",
+      "description": "長く夢で生きすぎると、いつしか悪夢になってしまう……",
       "condition": "Above the Cloudsで偽物のメモリーを手に入れる"
     }
   },
@@ -11184,56 +11184,56 @@
   },
   "cold": {
     "hood_effect_garbagebag": {
-      "name": "Familiar Manifestation",
-      "condition": "See the big Aruben giving the hood effect in Garbagebag"
+      "name": "見覚えのある姿",
+      "condition": "Garbagebagでフードを入手できる大きいアルベンを見る"
     },
     "dead_old_hospital": {
-      "name": "Dead Person",
-      "description": "Crushed by the weight",
-      "condition": "See the dead person in Old Hospital"
+      "name": "死人",
+      "description": "重圧で潰れた",
+      "condition": "Old Hospitalで死んだ人を見る"
     },
     "cat_rainy_street": {
-      "name": "Twilight Feline",
-      "description": "A friend in a lonely town",
-      "condition": "Interact with the cat in Rainy Street"
+      "name": "黄昏のネコ科",
+      "description": "孤独な町の友達",
+      "condition": "Rainy Streetにいる猫に話しかける"
     },
     "people": {
-      "name": "Nice People",
-      "description": "Tall skinny figures.",
-      "condition": "Visit People"
+      "name": "いいひとたち",
+      "description": "背の高い痩せた人影。",
+      "condition": "Peopleに到達する"
     },
     "scarecrow_the_school": {
-      "name": "The Dark Room",
-      "description": "5+5+5+5+5+...",
-      "condition": "Get caught by the scarecrow in The School"
+      "name": "暗闇の部屋",
+      "description": "正、正、正、正、正……",
+      "condition": "The Schoolで案山子に捕まる"
     },
     "ooooo": {
       "name": "ooooo",
-      "condition": "Collect the 5 o to unlock the green door in Rainy Street"
+      "condition": "５つのoを集めてRainy Streetの緑の扉を解放する"
     },
     "walking_to_school_rainy": {
-      "name": "Walking in the Rain",
-      "description": "Walk to school with an old friend",
-      "condition": "Trigger the Walking to School event in Rainy"
+      "name": "雨の中を歩いて",
+      "description": "学校へ、懐かしい友達と歩く",
+      "condition": "RainyでWalking to Schoolイベントを見る"
     },
     "aruben_the_playground": {
-      "name": "Fading Apparition",
-      "description": "That used to be how I wanted to be.",
-      "condition": "See the Aruben walk away in The Playground"
+      "name": "消えゆく幻影",
+      "description": "あれが、かつてなりたかった自分。",
+      "condition": "The Playgroundで歩き去るアルベンを見る"
     },
     "his_room_cyan_building": {
-      "name": "Smile More!",
+      "name": "もっと笑って！",
       "description": "^o^",
-      "condition": "Trigger the His Room event in Cyan Building. If you have already completed it, return to said room."
+      "condition": "Cyan BuildingでHis Roomイベントを見る、すでに見た場合はその部屋にもう一度行く。"
     },
     "cold_school": {
-      "name": "School in Memory",
-      "description": "Back to this familiar corridor",
-      "condition": "Visit The School"
+      "name": "記憶の中の学校",
+      "description": "見慣れた廊下に戻ってきた",
+      "condition": "The Schoolに到達する"
     },
     "tiger_effect": {
-      "name": "Tiger Man",
-      "condition": "Obtain the tiger effect. If you have already unlocked it, return to the Cave Home of Tree Cave."
+      "name": "タイガーマン",
+      "condition": "とらのエフェクトを入手する、すでに入手している場合はTree CaveのCave Homeにもう一度行く。"
     }
   }
 }
