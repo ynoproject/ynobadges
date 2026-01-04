@@ -2011,8 +2011,8 @@
       "condition": "Use the School Boy effect to make the Takoyaki spin"
     },
     "rain_cloud": {
-      "name": "Rain Cloud",
-      "description": "Sometimes it gets a little hard to control yourself.",
+      "name": "Cloudy Mood",
+      "description": "Did you have to rain on our parade?",
       "condition": "Make the clouds in Rainbow Road cry using the Teru Teru Bōzu effect"
     },
     "unstable_parking_zone": {
@@ -7650,6 +7650,39 @@
       "name": "Tetrapod Processing Module",
       "description": "System Status Summary: Parallel simulations initialized/Synchronization failure detected/Subatomic matrix at critical state/Computational load exceeds safety thresholds/Imminent overload/Unauthorized shutdown in progress.",
       "condition": "Enter the Reflecting Electron Zone"
+    },
+    "kanashii_tan_stone_maze": {
+      "name": "No One Can Hear Me.",
+      "description": "With a stone heart.",
+      "condition": "See Kanashi-tan in Stone Maze"
+    },
+    "soldier_jigsaw_junction": {
+      "name": "Tidebound Marine",
+      "description": "Her heart is still bound to the battlefield.",
+      "condition": "See all of the reactions of the soldier in Jigsaw Junction"
+    },
+    "2kki_bottles": {
+      "name": "Bottles, Cartons and Glasses",
+      "description": "Gotta drink 'em all!",
+      "condition": "Visit the following worlds: Tomato World, Citrus Springs, Burger Joint, Wine Cellar, Vinegar Vicinity, Soy Sauce World",
+      "checkbox": {
+        "tomato_world": "Tomato World",
+        "citrus_springs": "Citrus Springs",
+        "burger_joint": "Burger Joint",
+        "wine_cellar": "Wine Cellar",
+        "vinegar_vicinity": "Vinegar Vicinity",
+        "soy_sauce_world": "Soy Sauce World"
+      }
+    },
+    "drunk": {
+      "name": "A bAr aT tHe nIghT",
+      "description": "I think I've had four drinks... or did I have 57? I don't even know anymore...",
+      "condition": "Get drunk and pass out at The Underground Bar in Japan Town"
+    },
+    "vending_machine_factory_balcony": {
+      "name": "Morning Smoke Break",
+      "description": "Taking break is great with a view",
+      "condition": "See the skyline from the high rise of the Vending Machine Factory"
     }
   },
   "flow": {
@@ -9865,6 +9898,11 @@
       "name": "Orange Hair Swaying in the Wind",
       "description": "Between a mild winter and a gentle summer, her orange remains.",
       "condition": "Obtain the orange window type. If you have already unlocked it, return where it can be found at the entrance of the Shrine Labyrinth."
+    },
+    "magicians_secret": {
+      "name": "Bloodflame Sorcery",
+      "description": "Light the candle - stay, and watch the rite unfold",
+      "condition": "Obtain the hexe window type. If you have already unlocked it, return to the Magic Room of the Floating Library."
     }
   },
   "sheawaits": {
@@ -11200,6 +11238,11 @@
     "tiger_effect": {
       "name": "Tiger Man",
       "condition": "Obtain the tiger effect. If you have already unlocked it, return to the Cave Home of Tree Cave."
+    },
+    "cold_error": {
+      "name": "[ERR/OR]",
+      "description": "666174616c6572726f7221",
+      "condition": "Visit ERROR"
     }
   }
 }

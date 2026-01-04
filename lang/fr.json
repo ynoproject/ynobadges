@@ -2018,8 +2018,8 @@
       "condition": "Utiliser l'effet Gakuran pour faire tourner le takoyaki"
     },
     "rain_cloud": {
-      "name": "Nuage pluvieux",
-      "description": "Des fois, c'est compliqué de se contrôler.",
+      "name": "D'humeur capricieuse",
+      "description": "Fallait-il vraiment que tu amènes la pluie sur la parade ?",
       "condition": "Faire pleurer les nuages de la Rainbow Road en utilisant l'effet Teru Teru Bōzu"
     },
     "unstable_parking_zone": {
@@ -7657,6 +7657,39 @@
       "name": "Module de fonctionnement tétrapode",
       "description": "Résumé du statut système : simulations parallèles enclenchées. Échec synchronisation détectée. Matrice subatomique en état critique. La charge calculée dépasse les seuils de sécurité. Surcharge imminente. Mise en veille non autorisée en cours.",
       "condition": "Visiter la Reflecting Electron Zone"
+    },
+    "kanashii_tan_stone_maze": {
+      "name": "Personne ne peut m'entendre.",
+      "description": "Avec un cœur de pierre.",
+      "condition": "Voir Kanashi-tan au Stone Maze"
+    },
+    "soldier_jigsaw_junction": {
+      "name": "Soldate des mers",
+      "description": "Son cœur est toujours ancré sur le champ de bataille.",
+      "condition": "Voir toutes les réactions de la soldate à Jigsaw Junction"
+    },
+    "2kki_bottles": {
+      "name": "Bouteilles, cartons et verres",
+      "description": "Buvez-les tous !",
+      "condition": "Visiter les mondes suivants : Tomato World, Citrus Springs, Burger Joint, Wine Cellar, Vinegar Vicinity, Soy Sauce World",
+      "checkbox": {
+        "tomato_world": "Tomato World",
+        "citrus_springs": "Citrus Springs",
+        "burger_joint": "Burger Joint",
+        "wine_cellar": "Wine Cellar",
+        "vinegar_vicinity": "Vinegar Vicinity",
+        "soy_sauce_world": "Soy Sauce World"
+      }
+    },
+    "drunk": {
+      "name": "Un bAr lA NuIt",
+      "description": "J'dois bien avoir eu 4 verres... ou bien 57 ? J'sais même plus...",
+      "condition": "Finir soul et perdre connaissance au Bar Souterrain de la Japan Town"
+    },
+    "vending_machine_factory_balcony": {
+      "name": "Pause cigarette du matin",
+      "description": "Prendre une pause est pas mal quand on a une telle vue",
+      "condition": "Voir l'horizon depuis le gratte-ciel de la Vending Machine Factory"
     }
   },
   "flow": {
@@ -9872,6 +9905,11 @@
       "name": "Cheveux oranges soufflés par la brise",
       "description": "En doux hiver comme en été clément, son cœur orangé demeure.",
       "condition": "Obtenir le thème de menu orange. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à l'entrée du Shrine Labyrinth."
+    },
+    "magicians_secret": {
+      "name": "Sortilège de feu et de sang",
+      "description": "Allume la bougie - reste, et admire le rituel",
+      "condition": "Obtenir le thème de fenêtre hexe. Si vous l'avez déjà obtenu, retournez dans la Salle Magique de la Floating Library."
     }
   },
   "sheawaits": {
@@ -11221,6 +11259,11 @@
     "tiger_effect": {
       "name": "L'homme tigre",
       "condition": "Obtenir l'effet tigre. Si vous l'avez déjà obtenu, retournez dans la Cave Home de la Tree Cave."
+    },
+    "cold_error": {
+      "name": "[ERR/EUR]",
+      "description": "666174616c6572726f7221",
+      "condition": "Visiter ERROR"
     }
   }
 }
