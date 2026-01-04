@@ -7623,52 +7623,52 @@
       "condition": "虫食いに到達する"
     },
     "shadow_lady_castle_bridges": {
-      "name": "Ominous Sculpture",
-      "description": "You can't outrun what's to come.",
-      "condition": "Get caught in the Castle Bridges"
+      "name": "不吉な彫像",
+      "description": "迫り来るものからは逃げられない。",
+      "condition": "石橋で発狂黒魔女に捕まる"
     },
     "mirror_lake_patient": {
-      "name": "The Lake of Mauve Reflection",
-      "description": "The waters sparkle a bright lavender!",
-      "condition": "鏡湖で病人に会う。"
+      "name": "藤色に映る湖",
+      "description": "水面は明るいラベンダー色にきらめいているよ！",
+      "condition": "鏡湖で病人に会う"
     },
     "2kki_bluescreen": {
-      "name": "GPU Failure",
-      "description": "Aw man... :(",
+      "name": "GPUの故障",
+      "description": "ああ…… :(",
       "condition": "error404に到達する"
     },
     "system_sounds_5": {
-      "name": "Solitude's Sorrow",
-      "description": "Eternal solitude in a secluded lake.",
-      "condition": "Obtain the system sounds 5. If you have already unlocked it, return where it can be found in Nightfall Park, and interact with the flashing human figure if you haven't equipped it."
+      "name": "孤独の哀愁",
+      "description": "隔絶された湖における永遠の孤独。",
+      "condition": "メニュー効果音5を入手する。すでに入手している場合は、見つけた場所に行く"
     },
     "location_motif_1": {
-      "name": "Endless Road Maze",
-      "description": "Just an endless looping of the road non-stop!",
-      "condition": "Visit Location Motif 1"
+      "name": "エンドレスロードの迷路",
+      "description": "ただただ止まることなく続く、無限ループの道路！……怖くね？",
+      "condition": "ループトラックに到達する"
     },
     "white_lily_path": {
-      "name": "A Monochrome World Touched by Red",
-      "description": "In a world without color, I bloom in red.",
-      "condition": "Visit both the White Lily Path A and White Lily Path B of the Glitched Butterfly Sector",
+      "name": "モノクロの世界で際立つ赤",
+      "description": "色のない世界で、私は赤く咲く。",
+      "condition": "花の小道の大迷路側、ネガエリア側に到達する",
       "checkbox": {
-        "white_lily_path_a_a|white_lily_path_a_b": "White Lily Path A",
-        "white_lily_path_b_a|white_lily_path_b_b": "White Lily Path B"
+        "white_lily_path_a_a|white_lily_path_a_b": "大迷路側",
+        "white_lily_path_b_a|white_lily_path_b_b": "ネガエリア側"
       }
     },
     "sea_lily_world_polygon": {
-      "name": "Something Unexpected Just Happened.",
-      "description": "What's the meaning behind it?",
-      "condition": "Interact with the Sea Lily Cyberling while using the variant of the Polygon effect in Sea Lily World"
+      "name": "予想外のことが起きたな。",
+      "description": "そこに隠された意味とは？",
+      "condition": "クリノイデアで、ポリゴン(顔のない状態)のエフェクトを装備してウミユリに話しかける"
     },
     "phonograph_galaxy": {
-      "name": "Galactic Melody",
-      "description": "Listen to the gentle tunes",
+      "name": "銀河の旋律",
+      "description": "穏やかな調べに耳を傾けよう",
       "condition": "胡麻横丁で蓄音機と近くにいる人に話しかける"
     },
     "reflecting_electron": {
-      "name": "Tetrapod Processing Module",
-      "description": "System Status Summary: Parallel simulations initialized/Synchronization failure detected/Subatomic matrix at critical state/Computational load exceeds safety thresholds/Imminent overload/Unauthorized shutdown in progress.",
+      "name": "テトラポッド処理モジュール",
+      "description": "システム状態概要：並列シミュレーション初期化／同期失敗を検出／亜原子マトリクスが臨界状態／計算負荷が安全閾値を超過／過負荷が目前／未承認シャットダウンを実行中。",
       "condition": "Electronに到達する"
     }
   },
