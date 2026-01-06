@@ -9920,9 +9920,9 @@
       "condition": "ウィンドウ「orange」を入手する、すでに入手している場合は神社の見つけた場所に行く。"
     },
     "magicians_secret": {
-      "name": "Bloodflame Sorcery",
-      "description": "Light the candle - stay, and watch the rite unfold",
-      "condition": "ウィンドウ「hexe」を入手する。 If you have already unlocked it, return to the Magic Room of the Floating Library."
+      "name": "血焔の魔術",
+      "description": "灯りをともして。ここに残り、儀式の行方を見届けて。",
+      "condition": "ウィンドウ「hexe」を入手する、すでに入手している場合は図書館　小部屋にもう一度行く。"
     }
   },
   "sheawaits": {
@@ -11274,9 +11274,9 @@
       "condition": "とらのエフェクトを入手する、すでに入手している場合はTree CaveのCave Homeにもう一度行く。"
     },
     "cold_error": {
-      "name": "[ERR/OR]",
+      "name": "[エラ/ー]",
       "description": "666174616c6572726f7221",
-      "condition": "Visit ERROR"
+      "condition": "ERRORに到達する"
     }
   }
 }
