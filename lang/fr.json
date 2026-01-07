@@ -538,6 +538,11 @@
     "severed_head_effect": {
       "name": "Décapitation",
       "condition": "Obtenir l'effet Tête coupée. Si vous l'avez déjà obtenu, retournez au Guillotine World."
+    },
+    "spaceship_crash_event": {
+      "name": "Plus dur sera la chute",
+      "description": "Peut-être aurait-il été mieux d'atterrir AVANT de vérifier l'intégrité du vaisseau...",
+      "condition": "Déclencher l'événement du crash dans le Vaisseau Spatial de Masada"
     }
   },
   "2kki": {
@@ -1125,16 +1130,17 @@
     },
     "akama": {
       "name": "Duel de sorcière",
-      "description": "Petite sorcière, grand pouvoir",
-      "condition": "Vaincre Akama dans le Jigsaw Puzzle World"
+      "description": "Petite sorcière, mais grand pouvoir",
+      "condition": "Vaincre Akama au Jigsaw Puzzle World"
     },
     "snow": {
-      "name": "Boule à neige festive",
+      "name": "Boule à neige",
+      "description": "C'est enfin le moment tant attendu de l'année !",
       "condition": "Passer en-dessous de la structure au Riverside Waste Facility alors qu'il neige"
     },
     "akako": {
-      "name": "Akako, blanc écarlate",
-      "condition": "Montrer à Akako dans le White Scarlet Exhibition tous les effets qu'elle aime"
+      "name": "Akako, blanche écarlate",
+      "condition": "Montrer à Akako à la White Scarlet Exhibition tous les effets qu'elle aime"
     },
     "isometry": {
       "name": "Isométrique",
@@ -2012,8 +2018,8 @@
       "condition": "Utiliser l'effet Gakuran pour faire tourner le takoyaki"
     },
     "rain_cloud": {
-      "name": "Nuage pluvieux",
-      "description": "Des fois, c'est compliqué de se contrôler.",
+      "name": "D'humeur capricieuse",
+      "description": "Fallait-il vraiment que tu amènes la pluie sur la parade ?",
       "condition": "Faire pleurer les nuages de la Rainbow Road en utilisant l'effet Teru Teru Bōzu"
     },
     "unstable_parking_zone": {
@@ -7602,6 +7608,88 @@
       "name": "Illuminé par la beauté",
       "description": "Si tout restait inchangé, une merveille comme les papillons ne pourrait exister.",
       "condition": "Visiter le Butterfly Passage"
+    },
+    "shadow_lady_castle_bridges": {
+      "name": "Sculpture inquiétante",
+      "description": "Tu ne peux pas dépasser ce qui va arriver.",
+      "condition": "Se faire attraper aux Castle Bridges"
+    },
+    "mirror_lake_patient": {
+      "name": "Lac du reflet mauve",
+      "description": "L'eau brille d'une douce couleur lavande !",
+      "condition": "Rencontrer Lavande au Lac Miroir des Blue Cactus Islands"
+    },
+    "2kki_bluescreen": {
+      "name": "Échec du processeur graphique",
+      "description": "Oohh... :(",
+      "condition": "Visiter le Blue Screen Void"
+    },
+    "system_sounds_5": {
+      "name": "Regret de la solitude",
+      "description": "À jamais seul dans un lac isolé.",
+      "condition": "Obtenir le sons système 5. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Nightfall Park, puis interagissez avec la silhouette humaine clignotante si vous ne l'avez pas équipé."
+    },
+    "location_motif_1": {
+      "name": "Labyrinthe de routes infini",
+      "description": "C'est juste un segment de route bouclant à l'infini !",
+      "condition": "Visiter Location Motif 1"
+    },
+    "white_lily_path": {
+      "name": "Monde monochrome touché par le rouge",
+      "description": "Dans un monde sans couleurs, je fleuris en rouge.",
+      "condition": "Visiter le Passage du Lys Blanc A et le Passage du Lys Blanc B au Glitched Butterfly Sector",
+      "checkbox": {
+        "white_lily_path_a_a|white_lily_path_a_b": "Passage du Lys Blanc A",
+        "white_lily_path_b_a|white_lily_path_b_b": "Passage du Lys Blanc B"
+      }
+    },
+    "sea_lily_world_polygon": {
+      "name": "Quelque chose d'inattendu vient de se produire.",
+      "description": "Qu'est-ce que tout cela peut bien vouloir dire ?",
+      "condition": "Interagir avec le Cyber Lys de Mer en utilisant la variante de l'effet Polygone au Sea Lily World"
+    },
+    "phonograph_galaxy": {
+      "name": "Mélodie galactique",
+      "description": "Écoute ces douces mélodies...",
+      "condition": "Interagir avec la sorcière au phonographe à la GALAXY Town"
+    },
+    "reflecting_electron": {
+      "name": "Module de fonctionnement tétrapode",
+      "description": "Résumé du statut système : simulations parallèles enclenchées. Échec synchronisation détectée. Matrice subatomique en état critique. La charge calculée dépasse les seuils de sécurité. Surcharge imminente. Mise en veille non autorisée en cours.",
+      "condition": "Visiter la Reflecting Electron Zone"
+    },
+    "kanashii_tan_stone_maze": {
+      "name": "Personne ne peut m'entendre.",
+      "description": "Avec un cœur de pierre.",
+      "condition": "Voir Kanashi-tan au Stone Maze"
+    },
+    "soldier_jigsaw_junction": {
+      "name": "Soldate des mers",
+      "description": "Son cœur est toujours ancré sur le champ de bataille.",
+      "condition": "Voir toutes les réactions de la soldate à Jigsaw Junction"
+    },
+    "2kki_bottles": {
+      "name": "Bouteilles, cartons et verres",
+      "description": "Buvez-les tous !",
+      "condition": "Visiter les mondes suivants : Tomato World, Citrus Springs, Burger Joint, Wine Cellar, Vinegar Vicinity, Soy Sauce World",
+      "checkbox": {
+        "tomato_world": "Tomato World",
+        "citrus_springs": "Citrus Springs",
+        "burger_joint": "Burger Joint",
+        "wine_cellar": "Wine Cellar",
+        "vinegar_vicinity": "Vinegar Vicinity",
+        "soy_sauce_world": "Soy Sauce World"
+      }
+    },
+    "drunk": {
+      "name": "Un bAr lA NuIt",
+      "description": "J'dois bien avoir eu 4 verres... ou bien 57 ? J'sais même plus...",
+      "condition": "Finir soul et perdre connaissance au Bar Souterrain de la Japan Town"
+    },
+    "vending_machine_factory_balcony": {
+      "name": "Pause cigarette du matin",
+      "description": "Prendre une pause est pas mal quand on a une telle vue",
+      "condition": "Voir l'horizon depuis le gratte-ciel de la Vending Machine Factory"
     }
   },
   "flow": {
@@ -7896,6 +7984,11 @@
       "name": "Jardinière talentueuse",
       "description": "Euh, ça fait peut-être beaucoup d'eau pour les plantes...",
       "condition": "Obtenir l'effet Arrosoir. Si vous l'avez déjà obtenu, retournez au Plant World."
+    },
+    "attack_smile": {
+      "name": "T'es une fille folle, mais on se reverra.",
+      "description": "Et maintenant tu me parles de potassium, t'es sûr qu'y a pas un truc qui tourne pas rond chez toi ?",
+      "condition": "Forcer Smile à protéger sa sœur"
     }
   },
   "prayers": {
@@ -8001,6 +8094,11 @@
       "name": "Observateurs obscurs",
       "description": "Ils observent... constamment... mais qui observe les observateurs ?",
       "condition": "Trouver la salle cachée à la Spirit Town"
+    },
+    "sunflower": {
+      "name": "Tournesol enneigé",
+      "description": "Un lieu me rendant heureuse",
+      "condition": "Atteindre le champ de tournesols au Forest World"
     }
   },
   "deepdreams": {
@@ -8712,6 +8810,10 @@
       "name": "Rêvant de douceur",
       "description": "Moelleux... délicieux... sucré... marshmallow...",
       "condition": "Obtenir l'effet Marshmallow. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé aux Tasty Plains."
+    },
+    "washing_machine_bubble_lounge": {
+      "name": "Lave-Totsutsuki",
+      "condition": "Atteindre la machine à laver au Bubble Lounge"
     }
   },
   "braingirl": {
@@ -9193,6 +9295,11 @@
       "name": "Pas à pas",
       "description": "Remémore-toi des pas que tu as fait, en te servant de la musique comme guide.",
       "condition": "Visiter la Music Room"
+    },
+    "fake_rainbow": {
+      "name": "Piège multicolore",
+      "description": "Vivre la vie de rêve pendant trop longtemps, se transformant lentement en cauchemar...",
+      "condition": "Interagir avec le faux souvenir à Above the Clouds"
     }
   },
   "genie": {
@@ -9798,6 +9905,11 @@
       "name": "Cheveux oranges soufflés par la brise",
       "description": "En doux hiver comme en été clément, son cœur orangé demeure.",
       "condition": "Obtenir le thème de menu orange. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à l'entrée du Shrine Labyrinth."
+    },
+    "magicians_secret": {
+      "name": "Sortilège de feu et de sang",
+      "description": "Allume la bougie - reste, et admire le rituel",
+      "condition": "Obtenir le thème de fenêtre hexe. Si vous l'avez déjà obtenu, retournez dans la Salle Magique de la Floating Library."
     }
   },
   "sheawaits": {
@@ -11093,6 +11205,65 @@
       "name": "PAS D'ÉCHAPPATOIRE",
       "description": "Comment est-ce que je peux sortir de cet ENDROIT !?",
       "condition": "Se faire attraper dans le dernier niveau de Good-bye Stranger"
+    }
+  },
+  "cold": {
+    "hood_effect_garbagebag": {
+      "name": "Apparition familière",
+      "condition": "Voir le grand Aruben donner l'effet capuche au Garbagebag"
+    },
+    "dead_old_hospital": {
+      "name": "Personne morte",
+      "description": "Écrasé par le poids",
+      "condition": "Voir la personne morte à l'Old Hospital"
+    },
+    "cat_rainy_street": {
+      "name": "Félin du crépuscule",
+      "description": "Un ami dans un village bien triste",
+      "condition": "Interagir avec le chat à la Rainy Street"
+    },
+    "people": {
+      "name": "Gens sympas",
+      "description": "De grandes silhouettes fines.",
+      "condition": "Visiter People"
+    },
+    "scarecrow_the_school": {
+      "name": "La pièce sombre",
+      "description": "5+5+5+5+5+...",
+      "condition": "Se faire attraper par l'épouvantail à The School"
+    },
+    "ooooo": {
+      "name": "ooooo",
+      "condition": "Récupérer les 5 o pour déverrouiller la porte verte à la Rainy Street"
+    },
+    "walking_to_school_rainy": {
+      "name": "Marchant sous la pluie",
+      "description": "Je vais à l'école avec un vieil ami.",
+      "condition": "Déclencher l'événement Marche Vers l'École à Rainy"
+    },
+    "aruben_the_playground": {
+      "name": "Silhouette disparaissant",
+      "description": "Je souhaitais être ainsi, auparavant.",
+      "condition": "Voir Aruben s'en aller à The Playground"
+    },
+    "his_room_cyan_building": {
+      "name": "Souris plus !",
+      "description": "^o^",
+      "condition": "Déclencher l'événement Sa Chambre au Cyan Building. Si vous l'avez déjà complété, retournez dans ladite chambre."
+    },
+    "cold_school": {
+      "name": "L'école de mes souvenirs",
+      "description": "De retour dans ce couloir si familier",
+      "condition": "Visiter The School"
+    },
+    "tiger_effect": {
+      "name": "L'homme tigre",
+      "condition": "Obtenir l'effet tigre. Si vous l'avez déjà obtenu, retournez dans la Cave Home de la Tree Cave."
+    },
+    "cold_error": {
+      "name": "[ERR/EUR]",
+      "description": "666174616c6572726f7221",
+      "condition": "Visiter ERROR"
     }
   }
 }

@@ -541,13 +541,18 @@
       "condition": "△ずきんのエフェクトを入手する、すでに入手している場合は、もう一度コンクリ廃墟に行く。"
     },
     "midget_effect": {
-      "name": "We Are the Madolings!",
-      "description": "We shall create an army to- oh, that one exploded...",
+      "name": "われらはまどりん！",
+      "description": "われらはあらたなぐんたいをつくり―あ、だれかばくはつした…",
       "condition": "こびとのエフェクトを入手する、すでに入手している場合は蝋燭の世界にもう一度行く。"
     },
     "severed_head_effect": {
-      "name": "Decapitation",
-      "condition": "Obtain the Severed Head effect. If you have already unlocked it, return to Guillotine World."
+      "name": "斬首",
+      "condition": "なまくびのエフェクトを入手する、すでに入手している場合はギロチン部屋かギロチン大部屋にもう一度行く。"
+    },
+    "spaceship_crash_event": {
+      "name": "墜落オチ",
+      "description": "着陸してから宇宙船の強度を確認するのは、さすがに判断ミスだったかも……",
+      "condition": "セコムマサダ先生の宇宙船で火星に不時着する"
     }
   },
   "2kki": {
@@ -1139,7 +1144,8 @@
       "condition": "あそびばでまじょっこに勝つ"
     },
     "snow": {
-      "name": "クリスマススノードーム",
+      "name": "Yuletide Bauble",
+      "description": "It's finally that time of the year again!",
       "condition": "雪が降っている時に廃籠で顔付きアーチの下をくぐり抜ける"
     },
     "akako": {
@@ -2017,8 +2023,8 @@
       "condition": "ガスコンロでがくランを使ってたこやきを回す"
     },
     "rain_cloud": {
-      "name": "雨雲",
-      "description": "時に、自分自身の制御が難しいことがある。",
+      "name": "Cloudy Mood",
+      "description": "Did you have to rain on our parade?",
       "condition": "てるてるぼうずを使って雲を泣かせる"
     },
     "unstable_parking_zone": {
@@ -7615,6 +7621,88 @@
       "name": "美しさに心奪われて",
       "description": "もし変化なんてなければ、蝶なんて存在しなかった。",
       "condition": "虫食いに到達する"
+    },
+    "shadow_lady_castle_bridges": {
+      "name": "不吉な彫像",
+      "description": "迫り来るものからは逃げられない。",
+      "condition": "石橋で発狂黒魔女に捕まる"
+    },
+    "mirror_lake_patient": {
+      "name": "藤色に映る湖",
+      "description": "水面は明るいラベンダー色にきらめいているよ！",
+      "condition": "鏡湖で病人に会う"
+    },
+    "2kki_bluescreen": {
+      "name": "GPUの故障",
+      "description": "ああ…… :(",
+      "condition": "error404に到達する"
+    },
+    "system_sounds_5": {
+      "name": "孤独の哀愁",
+      "description": "隔絶された湖における永遠の孤独。",
+      "condition": "メニュー効果音5を入手する。すでに入手している場合は、見つけた場所に行く"
+    },
+    "location_motif_1": {
+      "name": "エンドレスロードの迷路",
+      "description": "ただただ止まることなく続く、無限ループの道路！……怖くね？",
+      "condition": "ループトラックに到達する"
+    },
+    "white_lily_path": {
+      "name": "モノクロの世界で際立つ赤",
+      "description": "色のない世界で、私は赤く咲く。",
+      "condition": "花の小道の大迷路側、ネガエリア側に到達する",
+      "checkbox": {
+        "white_lily_path_a_a|white_lily_path_a_b": "大迷路側",
+        "white_lily_path_b_a|white_lily_path_b_b": "ネガエリア側"
+      }
+    },
+    "sea_lily_world_polygon": {
+      "name": "予想外のことが起きたな。",
+      "description": "そこに隠された意味とは？",
+      "condition": "クリノイデアで、ポリゴン(顔のない状態)のエフェクトを装備してウミユリに話しかける"
+    },
+    "phonograph_galaxy": {
+      "name": "銀河の旋律",
+      "description": "穏やかな調べに耳を傾けよう",
+      "condition": "胡麻横丁で蓄音機と近くにいる人に話しかける"
+    },
+    "reflecting_electron": {
+      "name": "テトラポッド処理モジュール",
+      "description": "システム状態概要：並列シミュレーション初期化／同期失敗を検出／亜原子マトリクスが臨界状態／計算負荷が安全閾値を超過／過負荷が目前／未承認シャットダウンを実行中。",
+      "condition": "Electronに到達する"
+    },
+    "kanashii_tan_stone_maze": {
+      "name": "No One Can Hear Me.",
+      "description": "With a stone heart.",
+      "condition": "See Kanashi-tan in Stone Maze"
+    },
+    "soldier_jigsaw_junction": {
+      "name": "Tidebound Marine",
+      "description": "Her heart is still bound to the battlefield.",
+      "condition": "See all of the reactions of the soldier in Jigsaw Junction"
+    },
+    "2kki_bottles": {
+      "name": "Bottles, Cartons and Glasses",
+      "description": "Gotta drink 'em all!",
+      "condition": "Visit the following worlds: Tomato World, Citrus Springs, Burger Joint, Wine Cellar, Vinegar Vicinity, Soy Sauce World",
+      "checkbox": {
+        "tomato_world": "Tomato World",
+        "citrus_springs": "Citrus Springs",
+        "burger_joint": "Burger Joint",
+        "wine_cellar": "Wine Cellar",
+        "vinegar_vicinity": "Vinegar Vicinity",
+        "soy_sauce_world": "Soy Sauce World"
+      }
+    },
+    "drunk": {
+      "name": "A bAr aT tHe nIghT",
+      "description": "I think I've had four drinks... or did I have 57? I don't even know anymore...",
+      "condition": "BARで酔っぱらって気絶する"
+    },
+    "vending_machine_factory_balcony": {
+      "name": "Morning Smoke Break",
+      "description": "Taking break is great with a view",
+      "condition": "自販工場で絶景を見る。"
     }
   },
   "flow": {
@@ -7909,6 +7997,11 @@
       "name": "熟練の庭師",
       "description": "あれ、ちょっと水やりにしては水が多すぎるような……",
       "condition": "じょうろのエフェクトを入手する、すでに入手している場合は植物にもう一度行く。"
+    },
+    "attack_smile": {
+      "name": "ハ、ハハッ、ハハ",
+      "description": "今なんて言った？",
+      "condition": "イレズミ妹をてつパイプで殴る"
     }
   },
   "prayers": {
@@ -8014,6 +8107,11 @@
       "name": "行く先を見張る者たち",
       "description": "彼らは見ている……ずっと見ている……しかし、誰がその監視者を見張るんだ？",
       "condition": "Spirit Townの隠れた部屋を見つける"
+    },
+    "sunflower": {
+      "name": "雪とひまわり",
+      "description": "幸せになれる場所",
+      "condition": "Forest Worldにあるsunflower fieldに到達する"
     }
   },
   "deepdreams": {
@@ -8722,9 +8820,13 @@
       "condition": "All-Seeing ForestでTristeを見つける"
     },
     "marshmallow_effect": {
-      "name": "Dreaming of Sweetness",
-      "description": "Squishy... yummy... tasty... marshmallow...",
-      "condition": "Obtain the Marshmallow effect. If you have already unlocked it, return where it can be found in Tasty Plains."
+      "name": "甘味を夢見て",
+      "description": "ぷにぷに…おいしい…あまい…マシュマロ…",
+      "condition": "Marshmallowのエフェクトを入手する、すでに入手している場合はTasty Plainsの見つけた場所に行く。"
+    },
+    "washing_machine_bubble_lounge": {
+      "name": "とつつき洗浄機",
+      "condition": "Bubble Loungeの洗濯機に到達する"
     }
   },
   "braingirl": {
@@ -8995,9 +9097,9 @@
       "condition": "Nina's Outpostに到達する"
     },
     "pure_creativity": {
-      "name": "Inventing Myself on Canvas",
-      "description": "Painting my colors on a blank canvas",
-      "condition": "Visit Pure Creativity"
+      "name": "キャンバスの上で、わたしを創る",
+      "description": "真っ白なキャンバスに、私の色を描いて",
+      "condition": "Pure Creativityに到達する"
     }
   },
   "muma": {
@@ -9206,6 +9308,11 @@
       "name": "重ねる一歩",
       "description": "音楽をたどって、これまでに歩んできた足跡を思い出して。",
       "condition": "Music Roomに到達する"
+    },
+    "fake_rainbow": {
+      "name": "演出スキップ",
+      "description": "長く夢で生きすぎると、いつしか悪夢になってしまう……",
+      "condition": "Above the Cloudsで偽物のメモリーを手に入れる"
     }
   },
   "genie": {
@@ -9410,9 +9517,9 @@
       "condition": "Spear of Fearのdelusionを入手する、すでに入手している場合はNarrow Apartmentsの見つけた場所に行く。"
     },
     "qiu_qin_wake_up_train": {
-      "name": "Where Another Me Sleeps",
-      "description": "Your awakening marks the end of my dream.",
-      "condition": "Trigger the wake up event in the Train"
+      "name": "私ではない私が眠る場所",
+      "description": "あなたの目覚めが、私の夢の終わりを告げる。",
+      "condition": "Trainで強制起床イベントを見る"
     }
   },
   "mikan": {
@@ -9626,9 +9733,9 @@
       "condition": "ダウンジャケットのエフェクトを入手する、すでに入手している場合はMannequin Streetにもう一度行く。"
     },
     "knuckledusters_effect": {
-      "name": "Punch Your Lights Out!",
-      "description": "That punch is making me see stars dude...",
-      "condition": "Obtain the Knuckledusters effect. If you have already unlocked it, return where it can be found in the Park."
+      "name": "ノックアウト！",
+      "description": "今の一撃、意識が飛びかけたよ…",
+      "condition": "メリケンサックのエフェクトを入手する、すでに入手している場合はParkの見つけた場所に行く。"
     }
   },
   "ultraviolet": {
@@ -9811,6 +9918,11 @@
       "name": "風にそよぐオレンジの髪",
       "description": "穏やかな冬とやさしい夏のあいだで、彼女のオレンジ色は残り続ける。",
       "condition": "ウィンドウ「orange」を入手する、すでに入手している場合は神社の見つけた場所に行く。"
+    },
+    "magicians_secret": {
+      "name": "血焔の魔術",
+      "description": "灯りをともして。ここに残り、儀式の行方を見届けて。",
+      "condition": "ウィンドウ「hexe」を入手する、すでに入手している場合は図書館　小部屋にもう一度行く。"
     }
   },
   "sheawaits": {
@@ -10572,14 +10684,14 @@
       "condition": "Egg Tartのエフェクトを入手する、すでに入手している場合はDeep Forest Bの見つけた場所に行く。"
     },
     "white_dress_effect": {
-      "name": "Is It a Gift From the Rain?",
-      "description": "Sometimes the prettiest things are found in the most unexpected places~",
-      "condition": "Obtain the White Dress effect. If you have already unlocked it, return to Rainy Islands."
+      "name": "雨からの贈り物？",
+      "description": "いちばんきれいなものほど、思いがけない場所にあるんだよ〜",
+      "condition": "White Dressのエフェクトを入手する、すでに入手している場合はRainy Islandsにもう一度行く。"
     },
     "slime_catgirl": {
-      "name": "Meow Meow Girls!",
-      "description": "Purr sweet, claw fierce.",
-      "condition": "Get caught by the Slime Catgirl in Hothouse and Red Totem Passage",
+      "name": "にゃんにゃんがーるず!",
+      "description": "ゴロゴロ甘々、ツメはぎらり。",
+      "condition": "HothouseとRed Totem PassageでSlime Catgirlに捕まる",
       "checkbox": {
         "slime_catgirl_hothouse_a|slime_catgirl_hothouse_b": "Hothouse",
         "slime_catgirl_r_totem_a|slime_catgirl_r_totem_b": "Red Totem Passage"
@@ -11106,6 +11218,65 @@
       "name": "もう逃げられない",
       "description": "どう逃げ出せって言うんだ？",
       "condition": "Good-bye Strangerの最後のレベルで捕まる"
+    }
+  },
+  "cold": {
+    "hood_effect_garbagebag": {
+      "name": "見覚えのある姿",
+      "condition": "Garbagebagでフードを入手できる大きいアルベンを見る"
+    },
+    "dead_old_hospital": {
+      "name": "死人",
+      "description": "重圧で潰れた",
+      "condition": "Old Hospitalで死んだ人を見る"
+    },
+    "cat_rainy_street": {
+      "name": "黄昏のネコ科",
+      "description": "孤独な町の友達",
+      "condition": "Rainy Streetにいる猫に話しかける"
+    },
+    "people": {
+      "name": "いいひとたち",
+      "description": "背の高い痩せた人影。",
+      "condition": "Peopleに到達する"
+    },
+    "scarecrow_the_school": {
+      "name": "暗闇の部屋",
+      "description": "正、正、正、正、正……",
+      "condition": "The Schoolで案山子に捕まる"
+    },
+    "ooooo": {
+      "name": "ooooo",
+      "condition": "５つのoを集めてRainy Streetの緑の扉を解放する"
+    },
+    "walking_to_school_rainy": {
+      "name": "雨の中を歩いて",
+      "description": "学校へ、懐かしい友達と歩く",
+      "condition": "RainyでWalking to Schoolイベントを見る"
+    },
+    "aruben_the_playground": {
+      "name": "消えゆく幻影",
+      "description": "あれが、かつてなりたかった自分。",
+      "condition": "The Playgroundで歩き去るアルベンを見る"
+    },
+    "his_room_cyan_building": {
+      "name": "もっと笑って！",
+      "description": "^o^",
+      "condition": "Cyan BuildingでHis Roomイベントを見る、すでに見た場合はその部屋にもう一度行く。"
+    },
+    "cold_school": {
+      "name": "記憶の中の学校",
+      "description": "見慣れた廊下に戻ってきた",
+      "condition": "The Schoolに到達する"
+    },
+    "tiger_effect": {
+      "name": "タイガーマン",
+      "condition": "とらのエフェクトを入手する、すでに入手している場合はTree CaveのCave Homeにもう一度行く。"
+    },
+    "cold_error": {
+      "name": "[エラ/ー]",
+      "description": "666174616c6572726f7221",
+      "condition": "ERRORに到達する"
     }
   }
 }

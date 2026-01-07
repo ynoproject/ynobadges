@@ -108,7 +108,7 @@ If you check the data of an existing badge using an overlay (e.g. Yume Nikki end
 
 ㉒ Dev - If set, the badge will not appear in the badge list and will not be able to be obtained outside of developer accounts.
 
-㉓ Delete - Delete the selected badge.
+㉓ Delete - Delete the selected badge. If the badge ID input is the one of an existing badge in the lang files, said badge will be removed from all language files.
 
 
 ### Condition

@@ -538,6 +538,11 @@
     "severed_head_effect": {
       "name": "Decapitation",
       "condition": "Obtain the Severed Head effect. If you have already unlocked it, return to Guillotine World."
+    },
+    "spaceship_crash_event": {
+      "name": "Crashing Out",
+      "description": "Perhaps waiting until AFTER we landed to check the structural integrity of the ship was a bad idea...",
+      "condition": "Masada's Spaceship'te kaza hadisesine şahit ol."
     }
   },
   "2kki": {
@@ -1125,7 +1130,8 @@
       "condition": "Defeat Akama in Jigsaw Puzzle World"
     },
     "snow": {
-      "name": "Festive Snowglobe",
+      "name": "Yuletide Bauble",
+      "description": "It's finally that time of the year again!",
       "condition": "Pass under the structure at the Riverside Waste Facility while it's snowing"
     },
     "akako": {
@@ -2002,8 +2008,8 @@
       "condition": "Use the School Boy effect to make the Takoyaki spin"
     },
     "rain_cloud": {
-      "name": "Rain Cloud",
-      "description": "Sometimes it gets a little hard to control yourself.",
+      "name": "Cloudy Mood",
+      "description": "Did you have to rain on our parade?",
       "condition": "Make the clouds in Rainbow Road cry using the Teru Teru Bōzu effect"
     },
     "unstable_parking_zone": {
@@ -7592,6 +7598,88 @@
       "name": "Delighted In the Beauty",
       "description": "If nothing ever changed, there'd be no such thing as butterflies.",
       "condition": "Visit Butterfly Passage"
+    },
+    "shadow_lady_castle_bridges": {
+      "name": "Ominous Sculpture",
+      "description": "You can't outrun what's to come.",
+      "condition": "Get caught in the Castle Bridges"
+    },
+    "mirror_lake_patient": {
+      "name": "The Lake of Mauve Reflection",
+      "description": "The waters sparkle a bright lavender!",
+      "condition": "Meet Lavender in the Blue Cactus Islands' Mirror Lake"
+    },
+    "2kki_bluescreen": {
+      "name": "GPU Failure",
+      "description": "Aw man... :(",
+      "condition": "Enter the Blue Screen Void"
+    },
+    "system_sounds_5": {
+      "name": "Solitude's Sorrow",
+      "description": "Eternal solitude in a secluded lake.",
+      "condition": "Obtain the system sounds 5. If you have already unlocked it, return where it can be found in Nightfall Park, and interact with the flashing human figure if you haven't equipped it."
+    },
+    "location_motif_1": {
+      "name": "Endless Road Maze",
+      "description": "Just an endless looping of the road non-stop!",
+      "condition": "Visit Location Motif 1"
+    },
+    "white_lily_path": {
+      "name": "A Monochrome World Touched by Red",
+      "description": "In a world without color, I bloom in red.",
+      "condition": "Visit both the White Lily Path A and White Lily Path B of the Glitched Butterfly Sector",
+      "checkbox": {
+        "white_lily_path_a_a|white_lily_path_a_b": "White Lily Path A",
+        "white_lily_path_b_a|white_lily_path_b_b": "White Lily Path B"
+      }
+    },
+    "sea_lily_world_polygon": {
+      "name": "Something Unexpected Just Happened.",
+      "description": "What's the meaning behind it?",
+      "condition": "Interact with the Sea Lily Cyberling while using the variant of the Polygon effect in Sea Lily World"
+    },
+    "phonograph_galaxy": {
+      "name": "Galactic Melody",
+      "description": "Listen to the gentle tunes",
+      "condition": "Interact with the phonograph witch in GALAXY Town"
+    },
+    "reflecting_electron": {
+      "name": "Tetrapod Processing Module",
+      "description": "System Status Summary: Parallel simulations initialized/Synchronization failure detected/Subatomic matrix at critical state/Computational load exceeds safety thresholds/Imminent overload/Unauthorized shutdown in progress.",
+      "condition": "Enter the Reflecting Electron Zone"
+    },
+    "kanashii_tan_stone_maze": {
+      "name": "No One Can Hear Me.",
+      "description": "With a stone heart.",
+      "condition": "See Kanashi-tan in Stone Maze"
+    },
+    "soldier_jigsaw_junction": {
+      "name": "Tidebound Marine",
+      "description": "Her heart is still bound to the battlefield.",
+      "condition": "See all of the reactions of the soldier in Jigsaw Junction"
+    },
+    "2kki_bottles": {
+      "name": "Bottles, Cartons and Glasses",
+      "description": "Gotta drink 'em all!",
+      "condition": "Visit the following worlds: Tomato World, Citrus Springs, Burger Joint, Wine Cellar, Vinegar Vicinity, Soy Sauce World",
+      "checkbox": {
+        "tomato_world": "Tomato World",
+        "citrus_springs": "Citrus Springs",
+        "burger_joint": "Burger Joint",
+        "wine_cellar": "Wine Cellar",
+        "vinegar_vicinity": "Vinegar Vicinity",
+        "soy_sauce_world": "Soy Sauce World"
+      }
+    },
+    "drunk": {
+      "name": "A bAr aT tHe nIghT",
+      "description": "I think I've had four drinks... or did I have 57? I don't even know anymore...",
+      "condition": "Japan Town'daki Yeraltı Barı'nda sarhoş ol ve sız"
+    },
+    "vending_machine_factory_balcony": {
+      "name": "Morning Smoke Break",
+      "description": "Taking break is great with a view",
+      "condition": "See the skyline from the high rise of the Vending Machine Factory"
     }
   },
   "flow": {
@@ -7886,6 +7974,11 @@
       "name": "Expert Gardener",
       "description": "Uh, that seems like a lot of water for the plants...",
       "condition": "Obtain the Watering Can effect. If you have already unlocked it, return to Plant World."
+    },
+    "attack_smile": {
+      "name": "You're a Sick Girl, But I'll See You Again.",
+      "description": "Now you talking about some potassium onion, boy what?",
+      "condition": "Drive Smile into protecting his sister"
     }
   },
   "prayers": {
@@ -7991,6 +8084,11 @@
       "name": "Watchers of the Ways",
       "description": "They're watching... always watching... but who watches the watchers?",
       "condition": "Find the hidden room in Spirit Town"
+    },
+    "sunflower": {
+      "name": "Snowy Sunflower",
+      "description": "A place that brings me happiness",
+      "condition": "Reach the sunflower field in Forest World"
     }
   },
   "deepdreams": {
@@ -8702,6 +8800,10 @@
       "name": "Dreaming of Sweetness",
       "description": "Squishy... yummy... tasty... marshmallow...",
       "condition": "Obtain the Marshmallow effect. If you have already unlocked it, return where it can be found in Tasty Plains."
+    },
+    "washing_machine_bubble_lounge": {
+      "name": "Totsutsuki Washer",
+      "condition": "Reach the washing machine in Bubble Lounge"
     }
   },
   "braingirl": {
@@ -9183,6 +9285,11 @@
       "name": "Steps Along the Way",
       "description": "Reflect on the steps you've taken, with music as your guide.",
       "condition": "Visit the Music Room"
+    },
+    "fake_rainbow": {
+      "name": "Skipping the Sign-off",
+      "description": "Living the dream for too long, just for it to become a nightmare...",
+      "condition": "Interact with a Fake Memory in Above the Clouds"
     }
   },
   "genie": {
@@ -9788,6 +9895,11 @@
       "name": "Orange Hair Swaying in the Wind",
       "description": "Between a mild winter and a gentle summer, her orange remains.",
       "condition": "Obtain the orange window type. If you have already unlocked it, return where it can be found at the entrance of the Shrine Labyrinth."
+    },
+    "magicians_secret": {
+      "name": "Bloodflame Sorcery",
+      "description": "Light the candle - stay, and watch the rite unfold",
+      "condition": "Obtain the hexe window type. If you have already unlocked it, return to the Magic Room of the Floating Library."
     }
   },
   "sheawaits": {
@@ -11069,6 +11181,65 @@
       "name": "NO WAY OUT",
       "description": "How can I get out of THIS?",
       "condition": "Get caught in the last level of Good-bye Stranger"
+    }
+  },
+  "cold": {
+    "hood_effect_garbagebag": {
+      "name": "Familiar Manifestation",
+      "condition": "See the big Aruben giving the hood effect in Garbagebag"
+    },
+    "dead_old_hospital": {
+      "name": "Dead Person",
+      "description": "Crushed by the weight",
+      "condition": "See the dead person in Old Hospital"
+    },
+    "cat_rainy_street": {
+      "name": "Twilight Feline",
+      "description": "A friend in a lonely town",
+      "condition": "Interact with the cat in Rainy Street"
+    },
+    "people": {
+      "name": "Nice People",
+      "description": "Tall skinny figures.",
+      "condition": "Visit People"
+    },
+    "scarecrow_the_school": {
+      "name": "The Dark Room",
+      "description": "5+5+5+5+5+...",
+      "condition": "Get caught by the scarecrow in The School"
+    },
+    "ooooo": {
+      "name": "ooooo",
+      "condition": "Collect the 5 o to unlock the green door in Rainy Street"
+    },
+    "walking_to_school_rainy": {
+      "name": "Walking in the Rain",
+      "description": "Walk to school with an old friend",
+      "condition": "Trigger the Walking to School event in Rainy"
+    },
+    "aruben_the_playground": {
+      "name": "Fading Apparition",
+      "description": "That used to be how I wanted to be.",
+      "condition": "See the Aruben walk away in The Playground"
+    },
+    "his_room_cyan_building": {
+      "name": "Smile More!",
+      "description": "^o^",
+      "condition": "Trigger the His Room event in Cyan Building. If you have already completed it, return to said room."
+    },
+    "cold_school": {
+      "name": "School in Memory",
+      "description": "Back to this familiar corridor",
+      "condition": "Visit The School"
+    },
+    "tiger_effect": {
+      "name": "Tiger Man",
+      "condition": "Obtain the tiger effect. If you have already unlocked it, return to the Cave Home of Tree Cave."
+    },
+    "cold_error": {
+      "name": "[ERR/OR]",
+      "description": "666174616c6572726f7221",
+      "condition": "Visit ERROR"
     }
   }
 }

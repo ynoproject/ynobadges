@@ -250,6 +250,8 @@
 * ram
 * Raptarr8
 * raspien
+* rayinpixels
+* Rennatalia
 * ribon996
 * Riqo
 * rooliette
@@ -338,7 +340,6 @@
 * Windmills123
 * wonposkie
 * Writer
-* xen
 * xenonquark996
 * yamabuki
 * Yarshmellow
