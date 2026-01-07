@@ -1,4 +1,4 @@
-{
+﻿{
   "ynoproject": {
     "badge_amulet": {
       "name": "배지 수집가 부적",
@@ -538,6 +538,11 @@
     "severed_head_effect": {
       "name": "절단",
       "condition": "숫자의 세계 : 단두대의 방에서 잘린 목 이펙트를 획득하기 (이미 얻은 상태라면 숫자의 세계 : 단두대의 방에 입장하기) "
+    },
+    "spaceship_crash_event": {
+      "name": "불시착",
+      "description": "아마도 착륙한 '이후'에 우주선 구조안정성을 점검하는건 안좋은 생각 같아보여...",
+      "condition": "우주선 착륙 이벤트를 보기"
     }
   },
   "2kki": {
@@ -1130,6 +1135,7 @@
     },
     "snow": {
       "name": "축제의 스노글로브",
+      "description": "마침내 그 시기가 찾아왔구나!",												 
       "condition": "Riverside Waste Facility에 눈이 내릴 때 구조물 아래를 지나가기"
     },
     "akako": {
@@ -3433,7 +3439,7 @@
     },
     "haniwa_lonely_home": {
       "name": "하니와 그리고 소녀",
-      "condition": "Lonely Home에서 하니와 이펙트를 장착하고 유슬(Haniwa-musume)와 상호작용하기"
+      "condition": "Lonely Home에서 하니와 이펙트를 장착하고 하니와 소녀(Haniwa-musume)와 상호작용하기"
     },
     "legacy_nexus": {
       "name": "숨겨진 유산",
@@ -5019,7 +5025,7 @@
     "haniwa_m_burgundy_flats": {
       "name": "비탄에 잠긴 밤",
       "description": "달빛이 은은하게 비치는 곳 아래서 나는 별들을 향해 너의 이름을 외쳐 보았지만, 오직 이를 듣는 것은 밤하늘 뿐이었다",
-      "condition": "Burgundy Flats에서 유슬(Haniwa-musume) NPC와 상호작용 하기"
+      "condition": "Burgundy Flats에서 하니와 소녀(Haniwa-musume) NPC와 상호작용 하기"
     },
     "corrupted_nexus_nexus": {
       "name": "난장판이 된 넥서스",
@@ -5115,83 +5121,83 @@
       "condition": "Deserted Town의 Coffee man Room 서브 에리어에서 머그잔 머리(Coffee man) NPC가 내려주는 커피 한잔을 마시기"
     },
     "figure_deserted_town": {
-      "name": "Hooded Figure",
-      "description": "Is it floating or hanged?",
-      "condition": "Find the giant hooded figure in Deserted Town"
+      "name": "후드를 뒤집어쓴 형상",
+      "description": "떠있는 걸까, 매달려 있는 걸까?",
+      "condition": "Deserted Town에서 후드를 쓴 거대한 형상(A huge and quite terrifying black creature)을 찾아내기"
     },
     "wing_deserted_town": {
-      "name": "Umbral Wings",
-      "description": "On the wings of blackness",
-      "condition": "Find the winged statue in Deserted Town"
+      "name": "그림자가 드리워진 날개",
+      "description": "어둠이 깃든 날개를 타고",
+      "condition": "Deserted Town에서 날개달린 조각상(Large statue)을 발견하기"
     },
     "flower_deserted_town": {
-      "name": "Scadu Flower",
-      "description": "Let the shadow always win",
-      "condition": "Find the giant flower in Deserted Town"
+      "name": "그림자꽃",
+      "description": "어둠이 언제나 승리하도록 하소서",
+      "condition": "Deserted Town에서 거대한 검은 꽃을 발견하기"
     },
     "barricated_gate_complex": {
-      "name": "The Second Obstruction",
-      "description": "What lies beyond these walls?",
-      "condition": "Reach the barricaded gate in the Complex"
+      "name": "제2폐색",
+      "description": "이 벽 너머에는 뭐가 있는걸까?",
+      "condition": "Complex에서 바리게이트가 쳐진 출입구에 도달하기"
     },
     "old_train_station_link": {
-      "name": "Sacred Cone of Salvation",
-      "description": "The mightiest cone that divides the dark hadal depths of the unknown from the bright radiant realm of nostalgia...",
-      "condition": "Access Old Train Station from Old Train Station B or Old Train Station B from Old Train Station"
+      "name": "신성한 구원자 꼬깔콘",
+      "description": "미지의 어둡고 깊은 해저 세계와 밝고 찬란한 향수의 세계를 가로지르는 엄청난 꼬깔콘...",
+      "condition": "Old Train Station에서 Old Train Station B 혹은 Old Train Station B에서 Old Train Station로 이동하기"
     },
     "bw_chaotic_buildings": {
-      "name": "Black and White Byway",
-      "description": "Don't fall!",
-      "condition": "Reach the black and white passage in Chaotic Buildings"
+      "name": "흑백의 길목",
+      "description": "추락 주의",
+      "condition": "Chaotic Buildings의 Black and white passage 서브 에리어에 도달하기 "
     },
     "bw_statue_forest": {
-      "name": "Telegraph Poles and Streetlights in the Monochrome Tunnel",
-      "description": "In the old days, I heard a sharp sound of a train falling into infinity.",
-      "condition": "Reach the black and white passage in Statue Forest"
+      "name": "단채색 터널 속 전신주와 가로등",
+      "description": "옛날 옛적, 나는 기차가 끝없는 심연으로 떨어지는 듯한 날카로운 소음을 들었다",
+      "condition": "Statue Forest의 Black and white passage 서브 에리어에 도달하기"
     },
     "subject_overgrown_city": {
-      "name": "Eye Void",
-      "description": "The annulling vision of the verdant chaos on the edge of the monochrome abyss.",
-      "condition": "See the Strange Subject in Overgrown City"
+      "name": "허공의 눈동자",
+      "description": "흑백의 심연 끝에서, 푸르른 혼돈을 사그라뜨리는 시선.",
+      "condition": "Overgrown City에서 Chaotic Buildings으로 이동하는 길목에 입장하기"
     },
     "planetarium_sky": {
-      "name": "Stardust Origins",
-      "description": "The energy of the cosmos feels at its strongest here...",
-      "condition": "At the end of Planetarium, make the camera pan up to reveal the sky"
+      "name": "성운의 기원",
+      "description": "이 곳에서 우주의 기운이 가장 강력히 느껴진다...",
+      "condition": "Planetarium의 극장 속 의자에 앉아 Starry Night 이벤트를 감상하기"
     },
     "conic_house_hidden_shoal": {
-      "name": "Isolated Abode",
-      "description": "Was there ever a time that you could've entered it?",
-      "condition": "Find the conic house in Hidden Shoal"
+      "name": "고립된 거주자",
+      "description": "으엥 여기 원래 들어갈 수 있었는데?!",
+      "condition": "Hidden Shoal에서 꼬깔콘 모양의 집을 발견하기"
     },
     "decaying_sun": {
-      "name": "The Sun that Lost its Light",
-      "description": "Scattered symbols of a brighter past buried deep within the overcast skies of time...",
-      "condition": "Find the decaying sun in Forest Pier and in the Deserted Town",
+      "name": "빛을 잃은 태양",
+      "description": "구름낀 하늘의 시간 속에 묻혀버린 찬란했던 과거의 흩어진 표상들...",
+      "condition": "Forest Pier와 Deserted Town에서 잿빛 태양 구조물(Sun Statue)를 발견하기",
       "checkbox": {
         "decaying_sun_forest_pier": "Forest Pier",
         "decaying_sun_deserted_town": "Deserted Town"
       }
     },
     "neon_city_main": {
-      "name": "The City of Phosphorescence!",
-      "description": "The city with a vibe stronger than any other. I can even feel the constant hum!",
-      "condition": "Visit the main area of Neon City"
+      "name": "인광의 도시!",
+      "description": "그 어느 곳보다 강력한 분위기를 뿜어내는 도시... 끊임없는 웅웅거림마저 울려퍼지는게 느껴져!",
+      "condition": "Neon City의 메인 구역에 입장하기"
     },
     "neon_city_ab_factory": {
-      "name": "Sewer Dweller",
-      "description": "Big Red's lesser known cousin",
-      "condition": "See the creature guarding the entrance to Abandoned Factory in Neon City"
+      "name": "하수구 거주자",
+      "description": "빅레드의 잘 알려지지 않은 사촌",
+      "condition": "Neon City에서 Abandoned Factory로 이어지는 길목에서 거대한 빨간 괴물을 올려다보기"
     },
     "scorched_ashes": {
-      "name": "Scorched Flower",
-      "description": "Snow and ash.",
+      "name": "그을린 꽃",
+      "description": "눈과 재",
       "condition": "Scorched Wasteland에서 식물과 상호작용하여 잿가루가 날리는 날씨로 만들기"
     },
     "birthday_tower_top": {
-      "name": "Happy Birthday!",
-      "description": "Make a wish and blow out the candles!",
-      "condition": "Reach the top of the Birthday Tower"
+      "name": "생일 축하해!",
+      "description": "소원 빌고 촛불 후우~ 불자!",
+      "condition": "Birthday Tower의 꼭대기 층에 도달하기"
     },
     "madouro_binding_site": {
       "name": "Proto-Uro",
@@ -6423,9 +6429,9 @@
       "condition": "Interact with the cat pillar in Vivian's Room in Balloon Park"
     },
     "peach_teru_bridge_swamp_islands": {
-      "name": "Peach Teru Teru B?zu",
+      "name": "Peach Teru Teru Bōzu",
       "description": "Always here, no matter rain or shine",
-      "condition": "See the peach teru teru b?zu at Bridge Swamp Islands"
+      "condition": "See the peach teru teru bōzu at Bridge Swamp Islands"
     },
     "pink_udg_runo_warehouse": {
       "name": "Matching Cute Beanie",
@@ -7599,6 +7605,88 @@
       "name": "Delighted In the Beauty",
       "description": "If nothing ever changed, there'd be no such thing as butterflies.",
       "condition": "Butterfly Passage에 도달하기"
+    },
+    "shadow_lady_castle_bridges": {
+      "name": "Ominous Sculpture",
+      "description": "You can't outrun what's to come.",
+      "condition": "Get caught in the Castle Bridges"
+    },
+    "mirror_lake_patient": {
+      "name": "The Lake of Mauve Reflection",
+      "description": "The waters sparkle a bright lavender!",
+      "condition": "Blue Cactus Islands의 Mirror Lake 서브 에리어에 위치한 라벤더(Lavander) NPC를 발견하기"
+    },
+    "2kki_bluescreen": {
+      "name": "GPU Failure",
+      "description": "Aw man... :(",
+      "condition": "Blue Screen Void에 입장하기"
+    },
+    "system_sounds_5": {
+      "name": "Solitude's Sorrow",
+      "description": "Eternal solitude in a secluded lake.",
+      "condition": "Obtain the system sounds 5. If you have already unlocked it, return where it can be found in Nightfall Park, and interact with the flashing human figure if you haven't equipped it."
+    },
+    "location_motif_1": {
+      "name": "Endless Road Maze",
+      "description": "Just an endless looping of the road non-stop!",
+      "condition": "Visit Location Motif 1"
+    },
+    "white_lily_path": {
+      "name": "A Monochrome World Touched by Red",
+      "description": "In a world without color, I bloom in red.",
+      "condition": "Visit both the White Lily Path A and White Lily Path B of the Glitched Butterfly Sector",
+      "checkbox": {
+        "white_lily_path_a_a|white_lily_path_a_b": "White Lily Path A",
+        "white_lily_path_b_a|white_lily_path_b_b": "White Lily Path B"
+      }
+    },
+    "sea_lily_world_polygon": {
+      "name": "Something Unexpected Just Happened.",
+      "description": "What's the meaning behind it?",
+      "condition": "Interact with the Sea Lily Cyberling while using the variant of the Polygon effect in Sea Lily World"
+    },
+    "phonograph_galaxy": {
+      "name": "Galactic Melody",
+      "description": "Listen to the gentle tunes",
+      "condition": "GALAXY Town의 축음기 마녀와 상호작용하기"
+    },
+    "reflecting_electron": {
+      "name": "Tetrapod Processing Module",
+      "description": "System Status Summary: Parallel simulations initialized/Synchronization failure detected/Subatomic matrix at critical state/Computational load exceeds safety thresholds/Imminent overload/Unauthorized shutdown in progress.",
+      "condition": "Reflecting Electron Zone을 방문하기"
+    },
+    "kanashii_tan_stone_maze": {
+      "name": "No One Can Hear Me.",
+      "description": "With a stone heart.",
+      "condition": "See Kanashi-tan in Stone Maze"
+    },
+    "soldier_jigsaw_junction": {
+      "name": "Tidebound Marine",
+      "description": "Her heart is still bound to the battlefield.",
+      "condition": "See all of the reactions of the soldier in Jigsaw Junction"
+    },
+    "2kki_bottles": {
+      "name": "Bottles, Cartons and Glasses",
+      "description": "Gotta drink 'em all!",
+      "condition": "Visit the following worlds: Tomato World, Citrus Springs, Burger Joint, Wine Cellar, Vinegar Vicinity, Soy Sauce World",
+      "checkbox": {
+        "tomato_world": "Tomato World",
+        "citrus_springs": "Citrus Springs",
+        "burger_joint": "Burger Joint",
+        "wine_cellar": "Wine Cellar",
+        "vinegar_vicinity": "Vinegar Vicinity",
+        "soy_sauce_world": "Soy Sauce World"
+      }
+    },
+    "drunk": {
+      "name": "A bAr aT tHe nIghT",
+      "description": "I think I've had four drinks... or did I have 57? I don't even know anymore...",
+      "condition": "Japan Town의 The Underground Bar 서브 에리어에서 정신을 잃을 때까지 술을 마시기"
+    },
+    "vending_machine_factory_balcony": {
+      "name": "Morning Smoke Break",
+      "description": "Taking break is great with a view",
+      "condition": "Vending Machine Factory의 높은 곳에서 경치를 감상하기"
     }
   },
   "flow": {
@@ -7893,6 +7981,11 @@
       "name": "숙달된 정원사",
       "description": "어... 식물한테 주기에는 물이 너무 많은거 같은데...",
       "condition": "식물 세계에서 물뿌리개 이펙트를 획득하기 (이미 얻은 상태라면 식물 세계에 입장하기)"
+    },
+    "attack_smile": {
+      "name": "넌 정말 아픈 여자애구나, 또 보자구",
+      "description": "아니 그게 뭔 칼륨 양파껍질 까먹는 소리세요?",
+      "condition": "문신 NPC가 문신 여동생 NPC를 보호하게 만들기"																	 
     }
   },
   "prayers": {
@@ -7998,6 +8091,11 @@
       "name": "길을 감시하는 자들",
       "description": "저 사람들이 감시하고... 언제나 감시하고... 그런데 감시자들은 누가 감시하지?",
       "condition": "영혼의 마을 속 비밀 방을 찾아내기"
+    },
+    "sunflower": {
+      "name": "눈덮인 해바라기",
+      "description": "나에게 행복함을 가져다주는 장소",
+      "condition": "숲의 세계에 있는 해바라기 밭에 도달하기"							 
     }
   },
   "deepdreams": {
@@ -8707,8 +8805,12 @@
     },
     "marshmallow_effect": {
       "name": "달콤한 꿈",
-      "description": "흐물흐물... 달콤달콤... 쫀득쫀득... 마시멜로찌...",
+      "description": "흐늘흐늘... 냠냠쩝쩝... 맛이있는... 마시멜로...",
       "condition": "Tasty Plains에서 Marshmallow 이펙트를 획득하기 (이미 얻은 상태라면 Tasty Plains에 도달하기)"
+    },
+    "washing_machine_bubble_lounge": {
+      "name": "토츠츠키 세탁기",
+      "condition": "Bubble Lounge에서 세탁기를 발견하기"													   
     }
   },
   "braingirl": {
@@ -9190,6 +9292,11 @@
       "name": "당신이 걸어온 발자취",
       "description": "음악을 지도삼아 당신이 여태껏 걸어왔던 길을 되돌아보라",
       "condition": "Music Room에 입장하기"
+    },
+    "fake_rainbow": {
+      "name": "마무리 건너뛰기",
+      "description": "꿈속에서 너무 오래 머무르는 바람에, 꿈은 이윽고 악몽으로 변해버렸다...",
+      "condition": "Clouds에서 가짜 메모리를 얻기"											
     }
   },
   "genie": {
@@ -9795,6 +9902,11 @@
       "name": "바람에 나부끼는 주황색 머리칼",
       "description": "포근한 겨울과 선선한 여름 사이에, 그녀의 주황 빛은 남아있었다",
       "condition": "Shrine Labyrinth의 입구에서 Orange 메뉴 타입을 획득하기 (이미 얻은 상태라면 Shrine Labyrinth의 입구에 입장하기)"
+    },
+    "magicians_secret": {
+      "name": "블러드플레임 마법",
+      "description": "양초에 불을 지피고 ㅡ 기다리라. 그리고 의식이 펼쳐지는 광경을 목도하라",
+      "condition": "메뉴 타입 hexe를 얻기. If you have already unlocked it, return to the Magic R																														 
     }
   },
   "sheawaits": {
@@ -10033,7 +10145,7 @@
       "condition": "Boiling Water World에서 외계인에게 납치당하기"
     },
     "music_world_fall": {
-      "name": "? 밀치기",
+      "name": "♫ 밀치기",
       "description": "사고 발생",
       "condition": "Music Symbol World에서 푸른 음표 생명체를 떨어뜨리기"
     },
@@ -11090,6 +11202,65 @@
       "name": "독안에 들다",
       "description": "여길 나보고 어떻게 빠져나가라고?",
       "condition": "Good-bye Stranger의 마지막 단계에서 붙잡히기"
+    }
+  },
+  "cold": {
+    "hood_effect_garbagebag": {
+      "name": "익숙한 사람의 등장",
+      "condition": "Garbagebag에서 아루벤(Aruben) NPC가 Hood 이펙트를 주는 것을 보기"
+    },
+    "dead_old_hospital": {
+      "name": "시체",
+      "description": "중량에 짓눌리다",
+      "condition": "Old Hospital에서 시체를 발견하기"
+    },
+    "cat_rainy_street": {
+      "name": "달밤의 고양이",
+      "description": "인적 드문 마을에 있는 친구",
+      "condition": "Rainy Street에서 고양이와 상호작용하기"
+    },
+    "people": {
+      "name": "좋은 사람들",
+      "description": "크고 날씬한 이들",
+      "condition": "People에 도달하기"
+    },
+    "scarecrow_the_school": {
+      "name": "어둑한 방",
+      "description": "5+5+5+5+5+...",
+      "condition": "The School에서 허수아비 (Scarecrow) 추격자 NPC에게 붙잡히기"
+    },
+    "ooooo": {
+      "name": "ooooo",
+      "condition": "Rainy Street에서 다섯 개의 o 를 획득하여 초록색 문의 잠금을 해제하기"
+    },
+    "walking_to_school_rainy": {
+      "name": "빗속에서의 등교",
+      "description": "오랜 친구와 함께 등교하다",
+      "condition": "Rainy에서 Walking to School 이벤트를 감상하기"
+    },
+    "aruben_the_playground": {
+      "name": "사라져가는 환영",
+      "description": "그는 한때 내가 되고 싶었던 사람이었다",
+      "condition": "The Playground에서 아루벤 (Aruben) NPC가 떠나는 모습을 보기"
+    },
+    "his_room_cyan_building": {
+      "name": "좀 더 웃어봐!",
+      "description": "^o^",
+      "condition": "Cyan Building에서 His Room 이벤트를 감상하기 (이미 완료한 상태라면 이벤트를 봤던 장소로 돌아가기)"
+    },
+    "cold_school": {
+      "name": "추억 속의 학교",
+      "description": "익숙한 이 복도로 돌아오다",
+      "condition": "The School에 도달하기"
+    },
+    "tiger_effect": {
+      "name": "호랑이맨",
+      "condition": "Tree Cave의 Cave Home 서브 에리어에서 Tiger이펙트를 획득하기 (이미 획득한 상태라면 Tiger를 얻었던 장소로 돌아가기)"
+    },
+    "cold_error": {
+      "name": "[에/러]",
+      "description": "666174616c6572726f7221",
+      "condition": "ERROR에 도달하기"					
     }
   }
 
