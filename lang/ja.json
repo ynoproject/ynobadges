@@ -548,6 +548,11 @@
     "severed_head_effect": {
       "name": "斬首",
       "condition": "なまくびのエフェクトを入手する、すでに入手している場合はギロチン部屋かギロチン大部屋にもう一度行く。"
+    },
+    "spaceship_crash_event": {
+      "name": "墜落オチ",
+      "description": "着陸してから宇宙船の強度を確認するのは、さすがに判断ミスだったかも……",
+      "condition": "セコムマサダ先生の宇宙船で火星に不時着する"
     }
   },
   "2kki": {
@@ -1139,7 +1144,8 @@
       "condition": "あそびばでまじょっこに勝つ"
     },
     "snow": {
-      "name": "クリスマススノードーム",
+      "name": "Yuletide Bauble",
+      "description": "It's finally that time of the year again!",
       "condition": "雪が降っている時に廃籠で顔付きアーチの下をくぐり抜ける"
     },
     "akako": {
@@ -7545,9 +7551,9 @@
       "condition": "ライブハウスで2つのパターンのステージを見る"
     },
     "sherbet_snowfield": {
-      "name": "Sweet Shimmer",
-      "description": "The taste reminds you of a simpler time.",
-      "condition": "Visit Sherbet Snowfield"
+      "name": "甘くきらめいて",
+      "description": "その味は、もっと素朴だった頃を思い出させる。",
+      "condition": "クスリマスに到達する"
     },
     "tooth_tricolor_room": {
       "name": "歯みがきのビート",
@@ -7560,13 +7566,13 @@
       "condition": "飴の橋立に到達する"
     },
     "cactus_desert": {
-      "name": "Dreaming of a Summer Afternoon",
-      "description": "There's beauty to be found in the harshest environments.",
-      "condition": "Visit Cactus Desert"
+      "name": "夏の午後の夢",
+      "description": "最も過酷な環境の中にも、美は宿る。",
+      "condition": "仙人掌砂漠に到達する"
     },
     "moss_world": {
-      "name": "Mossy Flowers",
-      "condition": "Visit Moss World"
+      "name": "苔むす花々",
+      "condition": "苔の世界:メインエリアに到達する"
     },
     "2kki_raincoat_effect": {
       "name": "あの子の黄色いレインコート",
@@ -7616,44 +7622,107 @@
       "description": "もし変化なんてなければ、蝶なんて存在しなかった。",
       "condition": "虫食いに到達する"
     },
-    "evil_slime_mask": {
-      "name": "Menace Blob",
-      "description": "It's blue and full of hate for a devious reason",
-      "condition": "Equip the evil slime mask where it can be found in Slime Village"
+    "shadow_lady_castle_bridges": {
+      "name": "不吉な彫像",
+      "description": "迫り来るものからは逃げられない。",
+      "condition": "石橋で発狂黒魔女に捕まる"
     },
-    "tooth_creature_headphones": {
-      "name": "Teethy Beats",
-      "description": "No wires on those headphones, I guess they're Bluetooth!",
-      "condition": "Interact with the tooth creature with headphones in Tricolor Room"
+    "mirror_lake_patient": {
+      "name": "藤色に映る湖",
+      "description": "水面は明るいラベンダー色にきらめいているよ！",
+      "condition": "鏡湖で病人に会う"
     },
-    "candy_shoal": {
-      "name": "Sweetness Overload!",
-      "description": "You should seek dental care after this...",
-      "condition": "Visit Candy Shoal"
+    "2kki_bluescreen": {
+      "name": "GPUの故障",
+      "description": "ああ…… :(",
+      "condition": "error404に到達する"
     },
-    "light_secret_society": {
-      "name": "TURN OFF THE LIGHT!",
-      "condition": "Use the Lantern effect in the dark room of Secret Society"
+    "system_sounds_5": {
+      "name": "孤独の哀愁",
+      "description": "隔絶された湖における永遠の孤独。",
+      "condition": "メニュー効果音5を入手する。すでに入手している場合は、見つけた場所に行く"
     },
-    "raincoat": {
-      "name": "Her Yellow Raincoat",
-      "description": "Gotta dress for the weather!",
-      "condition": "Obtain the Teru Teru Bōzu and Red Riding Hood effects. If you have already unlocked them, return where they can be found respectively in the main part of Dark Alleys and in the Fairy Tale Woods/in the Birch Forest",
+    "location_motif_1": {
+      "name": "エンドレスロードの迷路",
+      "description": "ただただ止まることなく続く、無限ループの道路！……怖くね？",
+      "condition": "ループトラックに到達する"
+    },
+    "white_lily_path": {
+      "name": "モノクロの世界で際立つ赤",
+      "description": "色のない世界で、私は赤く咲く。",
+      "condition": "花の小道の大迷路側、ネガエリア側に到達する",
       "checkbox": {
-        "raincoat_1": "Dark Alleys",
-        "raincoat_2a": "Fairy Tale Woods",
-        "raincoat_2b": "Birch Forest"
+        "white_lily_path_a_a|white_lily_path_a_b": "大迷路側",
+        "white_lily_path_b_a|white_lily_path_b_b": "ネガエリア側"
       }
     },
-    "red_hair_burgundy_flats": {
-      "name": "Door's Open If You Need Anything.",
-      "description": "Need the key to my apartment? sure, don't steal anything though.",
-      "condition": "Visit the room of the person with red hair in Burgundy Flats"
+    "sea_lily_world_polygon": {
+      "name": "予想外のことが起きたな。",
+      "description": "そこに隠された意味とは？",
+      "condition": "クリノイデアで、ポリゴン(顔のない状態)のエフェクトを装備してウミユリに話しかける"
     },
-    "shape_world_house": {
-      "name": "Come On In!",
-      "description": "The rent's free and you get a weekly allowance of Yume!",
-      "condition": "Visit the house in Shape World"
+    "phonograph_galaxy": {
+      "name": "銀河の旋律",
+      "description": "穏やかな調べに耳を傾けよう",
+      "condition": "胡麻横丁で蓄音機と近くにいる人に話しかける"
+    },
+    "reflecting_electron": {
+      "name": "テトラポッド処理モジュール",
+      "description": "システム状態概要：並列シミュレーション初期化／同期失敗を検出／亜原子マトリクスが臨界状態／計算負荷が安全閾値を超過／過負荷が目前／未承認シャットダウンを実行中。",
+      "condition": "Electronに到達する"
+    },
+    "nightmare_inn_chapel_event": {
+      "name": "MORTIS",
+      "description": "The chainsaw wasn't the Great Communicator for them.",
+      "condition": "Trigger the Tot tsi ttog event in Nightmare Inn"
+    },
+    "tarnished_ship_dead_shark": {
+      "name": "Gyotaku Shark Print",
+      "description": "It will take a lot of ink to print such a big fish.",
+      "condition": "Find a dead shark in ink in the Tarnished Ship"
+    },
+    "ice_cream_islands_sink": {
+      "name": "Sticky Situation",
+      "condition": "Sink through the ice cream at Ice Cream Islands"
+    },
+    "sushi_mask": {
+      "name": "I want to be sushi!",
+      "description": "Just eat it!",
+      "condition": "Equip the two Sushi masks in Sushi Roll Swamp"
+    },
+    "overwork_office": {
+      "name": "Unpaid Overtime",
+      "description": "You still haven't hit your quota!",
+      "condition": "Visit Overwork Office"
+    },
+    "lake_of_bones_bunny": {
+      "name": "The Innocent Bunny at the Lake of Bones",
+      "description": "A lake filled with bones. Only one heartbeat remains - hers.",
+      "condition": "Interact with the bunny ears girl in Lake of Bones and see all of her interactions"
+    },
+    "sepia_factory": {
+      "name": "Sepia Skies from the Sepia Factory",
+      "description": "Incredibly cozy for a factory.",
+      "condition": "Visit Sepia Factory"
+    },
+    "tele_pole_plains": {
+      "name": "Purple Boots",
+      "condition": "Visit Tele-pole Plains"
+    },
+    "radioactive_garden": {
+      "name": "Sunflowers and Radiation",
+      "description": "What is this smell..?",
+      "condition": "Visit Radioactive Garden"
+    },
+    "chicken_world": {
+      "name": "Which Came First?",
+      "description": "The plot chickens...",
+      "condition": "Visit Chicken World"
+    },
+    "journeys_road_purapura": {
+      "name": "Now what do YOU Want?",
+      "description": "Can't you see I'm reading?",
+      "condition": "Interact with PuraPura in Journey's Road"
     }
   },
   "flow": {
@@ -7949,10 +8018,10 @@
       "description": "あれ、ちょっと水やりにしては水が多すぎるような……",
       "condition": "じょうろのエフェクトを入手する、すでに入手している場合は植物にもう一度行く。"
     },
-    "watering_can": {
-      "name": "Expert Gardener",
-      "description": "Uh, that seems like a lot of water for the plants...",
-      "condition": "Obtain the Watering Can effect. If you have already unlocked it, return to Plant World"
+    "attack_smile": {
+      "name": "ハ、ハハッ、ハハ",
+      "description": "今なんて言った？",
+      "condition": "イレズミ妹をてつパイプで殴る"
     }
   },
   "prayers": {
@@ -8058,6 +8127,11 @@
       "name": "行く先を見張る者たち",
       "description": "彼らは見ている……ずっと見ている……しかし、誰がその監視者を見張るんだ？",
       "condition": "Spirit Townの隠れた部屋を見つける"
+    },
+    "sunflower": {
+      "name": "雪とひまわり",
+      "description": "幸せになれる場所",
+      "condition": "Forest Worldにあるsunflower fieldに到達する"
     }
   },
   "deepdreams": {
@@ -8399,11 +8473,6 @@
       "name": "つきに入り込むつき",
       "description": "あなたは、誰かのお話の中の人にすぎないの？",
       "condition": "Tsukitsuki's Bedroomに到達する"
-    },
-    "tsukitsuki": {
-      "name": "Tsukinception",
-      "description": "Are you just a character in someone else's story?",
-      "condition": "Visit Tsukitsuki's Bedroom"
     }
   },
   "unevendream": {
@@ -8775,14 +8844,13 @@
       "description": "ぷにぷに…おいしい…あまい…マシュマロ…",
       "condition": "Marshmallowのエフェクトを入手する、すでに入手している場合はTasty Plainsの見つけた場所に行く。"
     },
-    "triste_forest": {
-      "name": "No Pasa Nada",
-      "condition": "Find Triste in All-Seeing Forest"
+    "washing_machine_bubble_lounge": {
+      "name": "とつつき洗浄機",
+      "condition": "Bubble Loungeの洗濯機に到達する"
     },
-    "marshmallow": {
-      "name": "Dreaming of Sweetness",
-      "description": "Squishy... yummy... tasty... marshmallow...",
-      "condition": "Obtain the Marshmallow effect. If you have already unlocked it, return where it can be found in Tasty Plains"
+    "secret_woods_menu": {
+      "name": "Respite",
+      "condition": "Obtain the menu theme 10. If you have already unlocked it, return where it can be found in the Secret Woods."
     }
   },
   "braingirl": {
@@ -9053,9 +9121,9 @@
       "condition": "Nina's Outpostに到達する"
     },
     "pure_creativity": {
-      "name": "Inventing Myself on Canvas",
-      "description": "Painting my colors on a blank canvas",
-      "condition": "Visit Pure Creativity"
+      "name": "キャンバスの上で、わたしを創る",
+      "description": "真っ白なキャンバスに、私の色を描いて",
+      "condition": "Pure Creativityに到達する"
     }
   },
   "muma": {
@@ -9264,6 +9332,11 @@
       "name": "重ねる一歩",
       "description": "音楽をたどって、これまでに歩んできた足跡を思い出して。",
       "condition": "Music Roomに到達する"
+    },
+    "fake_rainbow": {
+      "name": "演出スキップ",
+      "description": "長く夢で生きすぎると、いつしか悪夢になってしまう……",
+      "condition": "Above the Cloudsで偽物のメモリーを手に入れる"
     }
   },
   "genie": {
@@ -9471,11 +9544,6 @@
       "name": "私ではない私が眠る場所",
       "description": "あなたの目覚めが、私の夢の終わりを告げる。",
       "condition": "Trainで強制起床イベントを見る"
-    },
-    "spear_of_fear": {
-      "name": "Fangs Against the Inevitable Order",
-      "description": "Do not falter. Fix your footing where you faced fear head-on. Remember the fear that pierced your heart, and here, the script of the fate that nearly broke you is rewritten.",
-      "condition": "Obtain the Spear of Fear delusion. If you have already unlocked it, return where it can be found in Narrow Apartments."
     }
   },
   "mikan": {
@@ -9874,6 +9942,11 @@
       "name": "風にそよぐオレンジの髪",
       "description": "穏やかな冬とやさしい夏のあいだで、彼女のオレンジ色は残り続ける。",
       "condition": "ウィンドウ「orange」を入手する、すでに入手している場合は神社の見つけた場所に行く。"
+    },
+    "streetlamp_effect": {
+      "name": "My Guiding Streetlamp",
+      "description": "Brilliance is light!",
+      "condition": "Obtain the Street Lamp effect. If you have already unlocked it, return to Streetlamp World."
     }
   },
   "sheawaits": {
@@ -10647,6 +10720,10 @@
         "slime_catgirl_hothouse_a|slime_catgirl_hothouse_b": "Hothouse",
         "slime_catgirl_r_totem_a|slime_catgirl_r_totem_b": "Red Totem Passage"
       }
+    },
+    "dining_table_effect": {
+      "name": "Attack of the Killer Table",
+      "condition": "Obtain the Dining Table effect. If you have already unlocked it, return where it can be found in the Cake Tower."
     }
   },
   "nostalgic": {
@@ -11169,6 +11246,70 @@
       "name": "もう逃げられない",
       "description": "どう逃げ出せって言うんだ？",
       "condition": "Good-bye Strangerの最後のレベルで捕まる"
+    }
+  },
+  "cold": {
+    "hood_effect_garbagebag": {
+      "name": "見覚えのある姿",
+      "condition": "Garbagebagでフードを入手できる大きいアルベンを見る"
+    },
+    "dead_old_hospital": {
+      "name": "死人",
+      "description": "重圧で潰れた",
+      "condition": "Old Hospitalで死んだ人を見る"
+    },
+    "cat_rainy_street": {
+      "name": "黄昏のネコ科",
+      "description": "孤独な町の友達",
+      "condition": "Rainy Streetにいる猫に話しかける"
+    },
+    "people": {
+      "name": "いいひとたち",
+      "description": "背の高い痩せた人影。",
+      "condition": "Peopleに到達する"
+    },
+    "scarecrow_the_school": {
+      "name": "暗闇の部屋",
+      "description": "正、正、正、正、正……",
+      "condition": "The Schoolで案山子に捕まる"
+    },
+    "ooooo": {
+      "name": "ooooo",
+      "condition": "５つのoを集めてRainy Streetの緑の扉を解放する"
+    },
+    "walking_to_school_rainy": {
+      "name": "雨の中を歩いて",
+      "description": "学校へ、懐かしい友達と歩く",
+      "condition": "RainyでWalking to Schoolイベントを見る"
+    },
+    "aruben_the_playground": {
+      "name": "消えゆく幻影",
+      "description": "あれが、かつてなりたかった自分。",
+      "condition": "The Playgroundで歩き去るアルベンを見る"
+    },
+    "his_room_cyan_building": {
+      "name": "もっと笑って！",
+      "description": "^o^",
+      "condition": "Cyan BuildingでHis Roomイベントを見る、すでに見た場合はその部屋にもう一度行く。"
+    },
+    "cold_school": {
+      "name": "記憶の中の学校",
+      "description": "見慣れた廊下に戻ってきた",
+      "condition": "The Schoolに到達する"
+    },
+    "tiger_effect": {
+      "name": "タイガーマン",
+      "condition": "とらのエフェクトを入手する、すでに入手している場合はTree CaveのCave Homeにもう一度行く。"
+    },
+    "snowy_inside_girl": {
+      "name": "She Wore Black in the Snow",
+      "description": "Just her, the snow, and a tiny snowman.",
+      "condition": "Interact with the girl making a snowman in Snowy Inside"
+    },
+    "brothers_ward_pat": {
+      "name": "My Dear Memory",
+      "description": "Your warmth is so comfortable to me, I miss it",
+      "condition": "Interact with Aruben's brother in Brother's Ward"
     }
   }
 }

@@ -538,6 +538,11 @@
     "severed_head_effect": {
       "name": "Décapitation",
       "condition": "Obtenir l'effet Tête coupée. Si vous l'avez déjà obtenu, retournez au Guillotine World."
+    },
+    "spaceship_crash_event": {
+      "name": "Plus dur sera la chute",
+      "description": "Peut-être aurait-il été mieux d'atterrir AVANT de vérifier l'intégrité du vaisseau...",
+      "condition": "Déclencher l'événement du crash dans le Vaisseau Spatial de Masada"
     }
   },
   "2kki": {
@@ -1125,16 +1130,17 @@
     },
     "akama": {
       "name": "Duel de sorcière",
-      "description": "Petite sorcière, grand pouvoir",
-      "condition": "Vaincre Akama dans le Jigsaw Puzzle World"
+      "description": "Petite sorcière, mais grand pouvoir",
+      "condition": "Vaincre Akama au Jigsaw Puzzle World"
     },
     "snow": {
-      "name": "Boule à neige festive",
+      "name": "Boule à neige",
+      "description": "C'est enfin le moment tant attendu de l'année !",
       "condition": "Passer en-dessous de la structure au Riverside Waste Facility alors qu'il neige"
     },
     "akako": {
-      "name": "Akako, blanc écarlate",
-      "condition": "Montrer à Akako dans le White Scarlet Exhibition tous les effets qu'elle aime"
+      "name": "Akako, blanche écarlate",
+      "condition": "Montrer à Akako à la White Scarlet Exhibition tous les effets qu'elle aime"
     },
     "isometry": {
       "name": "Isométrique",
@@ -7532,9 +7538,9 @@
       "condition": "Voir les deux concerts d'idoles au Live Idol World"
     },
     "sherbet_snowfield": {
-      "name": "Sweet Shimmer",
-      "description": "The taste reminds you of a simpler time.",
-      "condition": "Visit Sherbet Snowfield"
+      "name": "Scintillement sucré",
+      "description": "Le goût vous rappelle celui d'un temps plus simple.",
+      "condition": "Visiter le Sherbet Snowfield"
     },
     "tooth_tricolor_room": {
       "name": "Rythme dantesque",
@@ -7547,13 +7553,13 @@
       "condition": "Visiter la Candy Shoal"
     },
     "cactus_desert": {
-      "name": "Dreaming of a Summer Afternoon",
-      "description": "There's beauty to be found in the harshest environments.",
-      "condition": "Visit Cactus Desert"
+      "name": "Rêvant d'un après-midi d'été",
+      "description": "La beauté se trouve même dans les environnements les plus arides.",
+      "condition": "Visiter le Cactus Desert"
     },
     "moss_world": {
-      "name": "Mossy Flowers",
-      "condition": "Visit Moss World"
+      "name": "Fleurs mousseuses",
+      "condition": "Visiter le Moss World"
     },
     "2kki_raincoat_effect": {
       "name": "Imperméable jaune",
@@ -7603,44 +7609,107 @@
       "description": "Si tout restait inchangé, une merveille comme les papillons ne pourrait exister.",
       "condition": "Visiter le Butterfly Passage"
     },
-    "evil_slime_mask": {
-      "name": "Menace Blob",
-      "description": "It's blue and full of hate for a devious reason",
-      "condition": "Equip the evil slime mask where it can be found in Slime Village"
+    "shadow_lady_castle_bridges": {
+      "name": "Sculpture inquiétante",
+      "description": "Tu ne peux pas dépasser ce qui va arriver.",
+      "condition": "Se faire attraper aux Castle Bridges"
     },
-    "tooth_creature_headphones": {
-      "name": "Teethy Beats",
-      "description": "No wires on those headphones, I guess they're Bluetooth!",
-      "condition": "Interact with the tooth creature with headphones in Tricolor Room"
+    "mirror_lake_patient": {
+      "name": "Lac du reflet mauve",
+      "description": "L'eau brille d'une douce couleur lavande !",
+      "condition": "Rencontrer Lavande au Lac Miroir des Blue Cactus Islands"
     },
-    "candy_shoal": {
-      "name": "Sweetness Overload!",
-      "description": "You should seek dental care after this...",
-      "condition": "Visit Candy Shoal"
+    "2kki_bluescreen": {
+      "name": "Échec du processeur graphique",
+      "description": "Oohh... :(",
+      "condition": "Visiter le Blue Screen Void"
     },
-    "light_secret_society": {
-      "name": "TURN OFF THE LIGHT!",
-      "condition": "Use the Lantern effect in the dark room of Secret Society"
+    "system_sounds_5": {
+      "name": "Regret de la solitude",
+      "description": "À jamais seul dans un lac isolé.",
+      "condition": "Obtenir le sons système 5. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé au Nightfall Park, puis interagissez avec la silhouette humaine clignotante si vous ne l'avez pas équipé."
     },
-    "raincoat": {
-      "name": "Her Yellow Raincoat",
-      "description": "Gotta dress for the weather!",
-      "condition": "Obtain the Teru Teru Bōzu and Red Riding Hood effects. If you have already unlocked them, return where they can be found respectively in the main part of Dark Alleys and in the Fairy Tale Woods/in the Birch Forest",
+    "location_motif_1": {
+      "name": "Labyrinthe de routes infini",
+      "description": "C'est juste un segment de route bouclant à l'infini !",
+      "condition": "Visiter Location Motif 1"
+    },
+    "white_lily_path": {
+      "name": "Monde monochrome touché par le rouge",
+      "description": "Dans un monde sans couleurs, je fleuris en rouge.",
+      "condition": "Visiter le Passage du Lys Blanc A et le Passage du Lys Blanc B au Glitched Butterfly Sector",
       "checkbox": {
-        "raincoat_1": "Dark Alleys",
-        "raincoat_2a": "Fairy Tale Woods",
-        "raincoat_2b": "Birch Forest"
+        "white_lily_path_a_a|white_lily_path_a_b": "Passage du Lys Blanc A",
+        "white_lily_path_b_a|white_lily_path_b_b": "Passage du Lys Blanc B"
       }
     },
-    "red_hair_burgundy_flats": {
-      "name": "Door's Open If You Need Anything.",
-      "description": "Need the key to my apartment? sure, don't steal anything though.",
-      "condition": "Visit the room of the person with red hair in Burgundy Flats"
+    "sea_lily_world_polygon": {
+      "name": "Quelque chose d'inattendu vient de se produire.",
+      "description": "Qu'est-ce que tout cela peut bien vouloir dire ?",
+      "condition": "Interagir avec le Cyber Lys de Mer en utilisant la variante de l'effet Polygone au Sea Lily World"
     },
-    "shape_world_house": {
-      "name": "Come On In!",
-      "description": "The rent's free and you get a weekly allowance of Yume!",
-      "condition": "Visit the house in Shape World"
+    "phonograph_galaxy": {
+      "name": "Mélodie galactique",
+      "description": "Écoute ces douces mélodies...",
+      "condition": "Interagir avec la sorcière au phonographe à la GALAXY Town"
+    },
+    "reflecting_electron": {
+      "name": "Module de fonctionnement tétrapode",
+      "description": "Résumé du statut système : simulations parallèles enclenchées. Échec synchronisation détectée. Matrice subatomique en état critique. La charge calculée dépasse les seuils de sécurité. Surcharge imminente. Mise en veille non autorisée en cours.",
+      "condition": "Visiter la Reflecting Electron Zone"
+    },
+    "nightmare_inn_chapel_event": {
+      "name": "MORTIS",
+      "description": "The chainsaw wasn't the Great Communicator for them.",
+      "condition": "Trigger the Tot tsi ttog event in Nightmare Inn"
+    },
+    "tarnished_ship_dead_shark": {
+      "name": "Gyotaku Shark Print",
+      "description": "It will take a lot of ink to print such a big fish.",
+      "condition": "Find a dead shark in ink in the Tarnished Ship"
+    },
+    "ice_cream_islands_sink": {
+      "name": "Sticky Situation",
+      "condition": "Sink through the ice cream at Ice Cream Islands"
+    },
+    "sushi_mask": {
+      "name": "I want to be sushi!",
+      "description": "Just eat it!",
+      "condition": "Equip the two Sushi masks in Sushi Roll Swamp"
+    },
+    "overwork_office": {
+      "name": "Unpaid Overtime",
+      "description": "You still haven't hit your quota!",
+      "condition": "Visit Overwork Office"
+    },
+    "lake_of_bones_bunny": {
+      "name": "The Innocent Bunny at the Lake of Bones",
+      "description": "A lake filled with bones. Only one heartbeat remains - hers.",
+      "condition": "Interact with the bunny ears girl in Lake of Bones and see all of her interactions"
+    },
+    "sepia_factory": {
+      "name": "Sepia Skies from the Sepia Factory",
+      "description": "Incredibly cozy for a factory.",
+      "condition": "Visit Sepia Factory"
+    },
+    "tele_pole_plains": {
+      "name": "Purple Boots",
+      "condition": "Visit Tele-pole Plains"
+    },
+    "radioactive_garden": {
+      "name": "Sunflowers and Radiation",
+      "description": "What is this smell..?",
+      "condition": "Visit Radioactive Garden"
+    },
+    "chicken_world": {
+      "name": "Which Came First?",
+      "description": "The plot chickens...",
+      "condition": "Visit Chicken World"
+    },
+    "journeys_road_purapura": {
+      "name": "Now what do YOU Want?",
+      "description": "Can't you see I'm reading?",
+      "condition": "Interact with PuraPura in Journey's Road"
     }
   },
   "flow": {
@@ -7936,10 +8005,10 @@
       "description": "Euh, ça fait peut-être beaucoup d'eau pour les plantes...",
       "condition": "Obtenir l'effet Arrosoir. Si vous l'avez déjà obtenu, retournez au Plant World."
     },
-    "watering_can": {
-      "name": "Expert Gardener",
-      "description": "Uh, that seems like a lot of water for the plants...",
-      "condition": "Obtain the Watering Can effect. If you have already unlocked it, return to Plant World"
+    "attack_smile": {
+      "name": "T'es une fille folle, mais on se reverra.",
+      "description": "Et maintenant tu me parles de potassium, t'es sûr qu'y a pas un truc qui tourne pas rond chez toi ?",
+      "condition": "Forcer Smile à protéger sa sœur"
     }
   },
   "prayers": {
@@ -8045,6 +8114,11 @@
       "name": "Observateurs obscurs",
       "description": "Ils observent... constamment... mais qui observe les observateurs ?",
       "condition": "Trouver la salle cachée à la Spirit Town"
+    },
+    "sunflower": {
+      "name": "Tournesol enneigé",
+      "description": "Un lieu me rendant heureuse",
+      "condition": "Atteindre le champ de tournesols au Forest World"
     }
   },
   "deepdreams": {
@@ -8386,11 +8460,6 @@
       "name": "Du tsuki ? DANS MON TSUKI ??",
       "description": "Tu serais pas un personnage secondaire dans l'histoire de quelqu'un ?",
       "condition": "Visiter la Tsukitsuki's Bedroom"
-    },
-    "tsukitsuki": {
-      "name": "Tsukinception",
-      "description": "Are you just a character in someone else's story?",
-      "condition": "Visit Tsukitsuki's Bedroom"
     }
   },
   "unevendream": {
@@ -8762,14 +8831,13 @@
       "description": "Moelleux... délicieux... sucré... marshmallow...",
       "condition": "Obtenir l'effet Marshmallow. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé aux Tasty Plains."
     },
-    "triste_forest": {
-      "name": "No Pasa Nada",
-      "condition": "Find Triste in All-Seeing Forest"
+    "washing_machine_bubble_lounge": {
+      "name": "Lave-Totsutsuki",
+      "condition": "Atteindre la machine à laver au Bubble Lounge"
     },
-    "marshmallow": {
-      "name": "Dreaming of Sweetness",
-      "description": "Squishy... yummy... tasty... marshmallow...",
-      "condition": "Obtain the Marshmallow effect. If you have already unlocked it, return where it can be found in Tasty Plains"
+    "secret_woods_menu": {
+      "name": "Respite",
+      "condition": "Obtain the menu theme 10. If you have already unlocked it, return where it can be found in the Secret Woods."
     }
   },
   "braingirl": {
@@ -9040,9 +9108,9 @@
       "condition": "Visiter Nina's Outpost"
     },
     "pure_creativity": {
-      "name": "Inventing Myself on Canvas",
-      "description": "Painting my colors on a blank canvas",
-      "condition": "Visit Pure Creativity"
+      "name": "Réinvention sur toile",
+      "description": "Peignant mes couleurs sur une toile blanche",
+      "condition": "Visiter Pure Creativity"
     }
   },
   "muma": {
@@ -9251,6 +9319,11 @@
       "name": "Pas à pas",
       "description": "Remémore-toi des pas que tu as fait, en te servant de la musique comme guide.",
       "condition": "Visiter la Music Room"
+    },
+    "fake_rainbow": {
+      "name": "Piège multicolore",
+      "description": "Vivre la vie de rêve pendant trop longtemps, se transformant lentement en cauchemar...",
+      "condition": "Interagir avec le faux souvenir à Above the Clouds"
     }
   },
   "genie": {
@@ -9458,11 +9531,6 @@
       "name": "Là où une autre moi dort",
       "description": "Ton éveil marque la fin de mon rêve.",
       "condition": "Déclencher l'événement du réveil au Train"
-    },
-    "spear_of_fear": {
-      "name": "Fangs Against the Inevitable Order",
-      "description": "Do not falter. Fix your footing where you faced fear head-on. Remember the fear that pierced your heart, and here, the script of the fate that nearly broke you is rewritten.",
-      "condition": "Obtain the Spear of Fear delusion. If you have already unlocked it, return where it can be found in Narrow Apartments."
     }
   },
   "mikan": {
@@ -9861,6 +9929,11 @@
       "name": "Cheveux oranges soufflés par la brise",
       "description": "En doux hiver comme en été clément, son cœur orangé demeure.",
       "condition": "Obtenir le thème de menu orange. Si vous l'avez déjà obtenu, retournez là où il peut être trouvé à l'entrée du Shrine Labyrinth."
+    },
+    "streetlamp_effect": {
+      "name": "My Guiding Streetlamp",
+      "description": "Brilliance is light!",
+      "condition": "Obtain the Street Lamp effect. If you have already unlocked it, return to Streetlamp World."
     }
   },
   "sheawaits": {
@@ -10634,6 +10707,10 @@
         "slime_catgirl_hothouse_a|slime_catgirl_hothouse_b": "Hothouse",
         "slime_catgirl_r_totem_a|slime_catgirl_r_totem_b": "Red Totem Passage"
       }
+    },
+    "dining_table_effect": {
+      "name": "Attack of the Killer Table",
+      "condition": "Obtain the Dining Table effect. If you have already unlocked it, return where it can be found in the Cake Tower."
     }
   },
   "nostalgic": {
@@ -11156,6 +11233,70 @@
       "name": "PAS D'ÉCHAPPATOIRE",
       "description": "Comment est-ce que je peux sortir de cet ENDROIT !?",
       "condition": "Se faire attraper dans le dernier niveau de Good-bye Stranger"
+    }
+  },
+  "cold": {
+    "hood_effect_garbagebag": {
+      "name": "Apparition familière",
+      "condition": "Voir le grand Aruben donner l'effet capuche au Garbagebag"
+    },
+    "dead_old_hospital": {
+      "name": "Personne morte",
+      "description": "Écrasé par le poids",
+      "condition": "Voir la personne morte à l'Old Hospital"
+    },
+    "cat_rainy_street": {
+      "name": "Félin du crépuscule",
+      "description": "Un ami dans un village bien triste",
+      "condition": "Interagir avec le chat à la Rainy Street"
+    },
+    "people": {
+      "name": "Gens sympas",
+      "description": "De grandes silhouettes fines.",
+      "condition": "Visiter People"
+    },
+    "scarecrow_the_school": {
+      "name": "La pièce sombre",
+      "description": "5+5+5+5+5+...",
+      "condition": "Se faire attraper par l'épouvantail à The School"
+    },
+    "ooooo": {
+      "name": "ooooo",
+      "condition": "Récupérer les 5 o pour déverrouiller la porte verte à la Rainy Street"
+    },
+    "walking_to_school_rainy": {
+      "name": "Marchant sous la pluie",
+      "description": "Je vais à l'école avec un vieil ami.",
+      "condition": "Déclencher l'événement Marche Vers l'École à Rainy"
+    },
+    "aruben_the_playground": {
+      "name": "Silhouette disparaissant",
+      "description": "Je souhaitais être ainsi, auparavant.",
+      "condition": "Voir Aruben s'en aller à The Playground"
+    },
+    "his_room_cyan_building": {
+      "name": "Souris plus !",
+      "description": "^o^",
+      "condition": "Déclencher l'événement Sa Chambre au Cyan Building. Si vous l'avez déjà complété, retournez dans ladite chambre."
+    },
+    "cold_school": {
+      "name": "L'école de mes souvenirs",
+      "description": "De retour dans ce couloir si familier",
+      "condition": "Visiter The School"
+    },
+    "tiger_effect": {
+      "name": "L'homme tigre",
+      "condition": "Obtenir l'effet tigre. Si vous l'avez déjà obtenu, retournez dans la Cave Home du Tree Cave."
+    },
+    "snowy_inside_girl": {
+      "name": "She Wore Black in the Snow",
+      "description": "Just her, the snow, and a tiny snowman.",
+      "condition": "Interact with the girl making a snowman in Snowy Inside"
+    },
+    "brothers_ward_pat": {
+      "name": "My Dear Memory",
+      "description": "Your warmth is so comfortable to me, I miss it",
+      "condition": "Interact with Aruben's brother in Brother's Ward"
     }
   }
 }
