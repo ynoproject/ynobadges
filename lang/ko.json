@@ -1,4 +1,4 @@
-﻿{
+{
   "ynoproject": {
     "badge_amulet": {
       "name": "배지 수집가 부적",
@@ -7687,6 +7687,59 @@
       "name": "Morning Smoke Break",
       "description": "Taking break is great with a view",
       "condition": "Vending Machine Factory의 높은 곳에서 경치를 감상하기"
+    },
+    "nightmare_inn_chapel_event": {
+      "name": "MORTIS",
+      "description": "The chainsaw wasn't the Great Communicator for them.",
+      "condition": "Trigger the Tot tsi ttog event in Nightmare Inn"
+    },
+    "tarnished_ship_dead_shark": {
+      "name": "Gyotaku Shark Print",
+      "description": "It will take a lot of ink to print such a big fish.",
+      "condition": "Find a dead shark in ink in the Tarnished Ship"
+    },
+    "ice_cream_islands_sink": {
+      "name": "Sticky Situation",
+      "condition": "Sink through the ice cream at Ice Cream Islands"
+    },
+    "sushi_mask": {
+      "name": "I want to be sushi!",
+      "description": "Just eat it!",
+      "condition": "Equip the two Sushi masks in Sushi Roll Swamp"
+    },
+    "overwork_office": {
+      "name": "Unpaid Overtime",
+      "description": "You still haven't hit your quota!",
+      "condition": "Visit Overwork Office"
+    },
+    "lake_of_bones_bunny": {
+      "name": "The Innocent Bunny at the Lake of Bones",
+      "description": "A lake filled with bones. Only one heartbeat remains - hers.",
+      "condition": "Interact with the bunny ears girl in Lake of Bones and see all of her interactions"
+    },
+    "sepia_factory": {
+      "name": "Sepia Skies from the Sepia Factory",
+      "description": "Incredibly cozy for a factory.",
+      "condition": "Visit Sepia Factory"
+    },
+    "tele_pole_plains": {
+      "name": "Purple Boots",
+      "condition": "Visit Tele-pole Plains"
+    },
+    "radioactive_garden": {
+      "name": "Sunflowers and Radiation",
+      "description": "What is this smell..?",
+      "condition": "Visit Radioactive Garden"
+    },
+    "chicken_world": {
+      "name": "Which Came First?",
+      "description": "The plot chickens...",
+      "condition": "Visit Chicken World"
+    },
+    "journeys_road_purapura": {
+      "name": "Now what do YOU Want?",
+      "description": "Can't you see I'm reading?",
+      "condition": "Interact with PuraPura in Journey's Road"
     }
   },
   "flow": {
@@ -8810,7 +8863,11 @@
     },
     "washing_machine_bubble_lounge": {
       "name": "토츠츠키 세탁기",
-      "condition": "Bubble Lounge에서 세탁기를 발견하기"													   
+      "condition": "Bubble Lounge에서 세탁기를 발견하기"							   
+    },
+    "secret_woods_menu": {
+      "name": "Respite",
+      "condition": "Obtain the menu theme 10. If you have already unlocked it, return where it can be found in the Secret Woods."
     }
   },
   "braingirl": {
@@ -9907,6 +9964,11 @@
       "name": "블러드플레임 마법",
       "description": "양초에 불을 지피고 ㅡ 기다리라. 그리고 의식이 펼쳐지는 광경을 목도하라",
       "condition": "Floating Library의 Magic Room 서브 에리어에서 메뉴 타입 hexe를 획득하기 (이미 얻은 상태라면 해당 메뉴 타입을 얻었던 장소로 돌아가기)"
+    },
+    "streetlamp_effect": {
+      "name": "My Guiding Streetlamp",
+      "description": "Brilliance is light!",
+      "condition": "Obtain the Street Lamp effect. If you have already unlocked it, return to Streetlamp World."
     }
   },
   "sheawaits": {
@@ -11261,9 +11323,18 @@
       "name": "[에/러]",
       "description": "666174616c6572726f7221",
       "condition": "ERROR에 도달하기"					
+    },
+    "snowy_inside_girl": {
+      "name": "She Wore Black in the Snow",
+      "description": "Just her, the snow, and a tiny snowman.",
+      "condition": "Interact with the girl making a snowman in Snowy Inside"
+    },
+    "brothers_ward_pat": {
+      "name": "My Dear Memory",
+      "description": "Your warmth is so comfortable to me, I miss it",
+      "condition": "Interact with Aruben's brother in Brother's Ward"
     }
   }
-
 }
 
 
