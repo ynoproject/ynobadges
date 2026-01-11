@@ -2023,8 +2023,8 @@
       "condition": "ガスコンロでがくランを使ってたこやきを回す"
     },
     "rain_cloud": {
-      "name": "雨雲",
-      "description": "時に、自分自身の制御が難しいことがある。",
+      "name": "Cloudy Mood",
+      "description": "Did you have to rain on our parade?",
       "condition": "てるてるぼうずを使って雲を泣かせる"
     },
     "unstable_parking_zone": {
@@ -7671,6 +7671,39 @@
       "description": "システム状態概要：並列シミュレーション初期化／同期失敗を検出／亜原子マトリクスが臨界状態／計算負荷が安全閾値を超過／過負荷が目前／未承認シャットダウンを実行中。",
       "condition": "Electronに到達する"
     },
+    "kanashii_tan_stone_maze": {
+      "name": "誰にも聞こえない。",
+      "description": "石のように冷たい心で。",
+      "condition": "赤の十字路でトンネル内で眠る少女に会う"
+    },
+    "soldier_jigsaw_junction": {
+      "name": "海に縛られた海兵",
+      "description": "彼女の心は今も、戦場に囚われている。",
+      "condition": "アヒルとジグソーで海兵少女の全てのエフェクト反応を見る"
+    },
+    "2kki_bottles": {
+      "name": "ボトル、カートン、それとグラス",
+      "description": "全部飲み干せッ！",
+      "condition": "以下のマップに到達する: 蕃茄、はちみつレモン、ポテ塔:バーガーショップ、ワイナリー、酢、醤油",
+      "checkbox": {
+        "tomato_world": "蕃茄",
+        "citrus_springs": "はちみつレモン",
+        "burger_joint": "ポテ塔:バーガーショップ",
+        "wine_cellar": "ワイナリー",
+        "vinegar_vicinity": "酢",
+        "soy_sauce_world": "醤油"
+      }
+    },
+    "drunk": {
+      "name": "とぁるょるのバ～",
+      "description": "4杯飲んだと思ゥけど……57杯だったかなぁ？分かんなぃャ……",
+      "condition": "BARで酔っぱらって気絶する"
+    },
+    "vending_machine_factory_balcony": {
+      "name": "朝の一服",
+      "description": "景色を眺めながらの休憩は最高だねぇ",
+      "condition": "自販工場で絶景を見る。"
+    },
     "nightmare_inn_chapel_event": {
       "name": "MORTIS",
       "description": "The chainsaw wasn't the Great Communicator for them.",
@@ -9943,6 +9976,11 @@
       "description": "穏やかな冬とやさしい夏のあいだで、彼女のオレンジ色は残り続ける。",
       "condition": "ウィンドウ「orange」を入手する、すでに入手している場合は神社の見つけた場所に行く。"
     },
+    "magicians_secret": {
+      "name": "血焔の魔術",
+      "description": "灯りをともして。ここに残り、儀式の行方を見届けて。",
+      "condition": "ウィンドウ「hexe」を入手する、すでに入手している場合は図書館　小部屋にもう一度行く。"
+    },
     "streetlamp_effect": {
       "name": "My Guiding Streetlamp",
       "description": "Brilliance is light!",
@@ -11300,6 +11338,11 @@
     "tiger_effect": {
       "name": "タイガーマン",
       "condition": "とらのエフェクトを入手する、すでに入手している場合はTree CaveのCave Homeにもう一度行く。"
+    },
+    "cold_error": {
+      "name": "[エラ/ー]",
+      "description": "666174616c6572726f7221",
+      "condition": "ERRORに到達する"
     },
     "snowy_inside_girl": {
       "name": "She Wore Black in the Snow",

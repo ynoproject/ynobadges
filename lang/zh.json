@@ -2018,8 +2018,8 @@
       "condition": "使用制服效果让章鱼烧转起来"
     },
     "rain_cloud": {
-      "name": "雨云",
-      "description": "忍不住就哭出来吧",
+      "name": "Cloudy Mood",
+      "description": "Did you have to rain on our parade?",
       "condition": "使用晴天娃娃效果让Rainbow Road的雨云流泪"
     },
     "unstable_parking_zone": {
@@ -7669,6 +7669,39 @@
       "description": "System Status Summary: Parallel simulations initialized/Synchronization failure detected/Subatomic matrix at critical state/Computational load exceeds safety thresholds/Imminent overload/Unauthorized shutdown in progress.",
       "condition": "进入Reflecting Electron Zone"
     },
+    "kanashii_tan_stone_maze": {
+      "name": "No One Can Hear Me.",
+      "description": "With a stone heart.",
+      "condition": "See Kanashi-tan in Stone Maze"
+    },
+    "soldier_jigsaw_junction": {
+      "name": "Tidebound Marine",
+      "description": "Her heart is still bound to the battlefield.",
+      "condition": "See all of the reactions of the soldier in Jigsaw Junction"
+    },
+    "2kki_bottles": {
+      "name": "Bottles, Cartons and Glasses",
+      "description": "Gotta drink 'em all!",
+      "condition": "Visit the following worlds: Tomato World, Citrus Springs, Burger Joint, Wine Cellar, Vinegar Vicinity, Soy Sauce World",
+      "checkbox": {
+        "tomato_world": "Tomato World",
+        "citrus_springs": "Citrus Springs",
+        "burger_joint": "Burger Joint",
+        "wine_cellar": "Wine Cellar",
+        "vinegar_vicinity": "Vinegar Vicinity",
+        "soy_sauce_world": "Soy Sauce World"
+      }
+    },
+    "drunk": {
+      "name": "A bAr aT tHe nIghT",
+      "description": "I think I've had four drinks... or did I have 57? I don't even know anymore...",
+      "condition": "在Japan Town的地下酒吧喝到不省人事"
+    },
+    "vending_machine_factory_balcony": {
+      "name": "Morning Smoke Break",
+      "description": "Taking break is great with a view",
+      "condition": "站在Vending Machine Factory的高处眺望"
+    },
     "nightmare_inn_chapel_event": {
       "name": "MORTIS",
       "description": "The chainsaw wasn't the Great Communicator for them.",
@@ -9941,6 +9974,11 @@
       "description": "她的橙色在暖冬与柔夏之间。",
       "condition": "获得菜单样式orange。若已解锁，请返回Shrine Labyrinth入口处获得该效果的位置。"
     },
+    "magicians_secret": {
+      "name": "Bloodflame Sorcery",
+      "description": "Light the candle - stay, and watch the rite unfold",
+      "condition": "获得菜单样式hexe。 If you have already unlocked it, return to the Magic Room of the Floating Library."
+    },
     "streetlamp_effect": {
       "name": "My Guiding Streetlamp",
       "description": "Brilliance is light!",
@@ -11298,6 +11336,11 @@
     "tiger_effect": {
       "name": "Tiger Man",
       "condition": "Obtain the tiger effect. If you have already unlocked it, return to the Cave Home of Tree Cave."
+    },
+    "cold_error": {
+      "name": "[ERR/OR]",
+      "description": "666174616c6572726f7221",
+      "condition": "Visit ERROR"
     },
     "snowy_inside_girl": {
       "name": "She Wore Black in the Snow",
