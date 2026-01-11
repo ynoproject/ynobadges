@@ -24,6 +24,7 @@
 * 2i9
 * 3heart
 * 3vr
+* 4seasonaldoors
 * <°(((<
 * A Jar Full of Loaves of Bread
 * AcceleratingWind
@@ -86,6 +87,7 @@
 * deg
 * denji9099
 * desktopghost
+* Dmitry Pro
 * DolphinDan
 * dreaamer
 * DreamBird
@@ -110,6 +112,7 @@
 * Fugashito
 * fulbright
 * Gabaro
+* GarborHell
 * GillianGao
 * Gionori
 * girgish
@@ -175,6 +178,7 @@
 * maengo
 * maple
 * Mar
+* MarshyMae
 * Marxotic
 * Mav
 * Mediochre_
@@ -238,6 +242,7 @@
 * penpen
 * Phaxtolgia
 * Pho
+* Piotr
 * Pixel
 * piyosuke
 * Proselyte
