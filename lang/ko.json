@@ -423,7 +423,7 @@
       "name": "잘못 잠들다",
       "condition": "현실의 방에서 담 결림(the Crick in the Neck) 이벤트를 보기"
     },
-      "stoplight_effect": {
+    "stoplight_effect": {
       "name": "평범한 시체",
       "description": "얼마동안 여기에 방치되어 있었던거야...?",
       "condition": "수해 B에서 신호등 이펙트를 획득하기 (이미 얻은 상태라면 시체가 있었던 도로에 도달하기)"
@@ -543,6 +543,11 @@
       "name": "불시착",
       "description": "아마도 착륙한 '이후'에 우주선 구조안정성을 점검하는건 안좋은 생각 같아보여...",
       "condition": "우주선 착륙 이벤트를 보기"
+    },
+    "poniko_cat": {
+      "name": "C'mere Adorable!",
+      "description": "Forfeit all mortal possessions to the Mado.",
+      "condition": "Use the Cat effect near Poniko"
     }
   },
   "2kki": {
@@ -1135,7 +1140,7 @@
     },
     "snow": {
       "name": "축제의 스노글로브",
-      "description": "마침내 그 시기가 찾아왔구나!",												 
+      "description": "마침내 그 시기가 찾아왔구나!",
       "condition": "Riverside Waste Facility에 눈이 내릴 때 구조물 아래를 지나가기"
     },
     "akako": {
@@ -5069,7 +5074,6 @@
         "qxy_vm_wooded_lakeside_b": "Wooded Lakeside B",
         "qxy_vm_oblique_hell": "Oblique Hell",
         "qxy_vm_virtual_city_bar": "Virtual City (Underground Bar 서브 에리어의 입구 구역)"
-											   
       }
     },
     "tentacle_lamplit_stones": {
@@ -7740,6 +7744,71 @@
       "name": "그래서, 원하는게 뭔데?",
       "description": "나 지금 책읽고 있는거 안보여?",
       "condition": "Journey's Road에서 푸라푸라(PuraPura) NPC와 상호작용하기"
+    },
+    "star_carpet_world": {
+      "name": "The Carpet of Sorrow",
+      "description": "Are these carpets safe to touch?",
+      "condition": "Visit Star Carpet World"
+    },
+    "ethereal_garden_fountain": {
+      "name": "Blue Wings",
+      "description": "\"Don't you think bugs are cute?\"",
+      "condition": "Reach the fountain area in Ethereal Garden"
+    },
+    "lonely_uro_event": {
+      "name": "Childhood Fears",
+      "description": "The night nobody came for me...",
+      "condition": "See the two versions of the Lonely Urotsuki event in Underwater Amusement Park"
+    },
+    "carnival_lady": {
+      "name": "The Crimson Carnival Queen",
+      "description": "Don’t be bad... okay?",
+      "condition": "Chainsaw the Carnival Lady 6 times and get trapped in the Carnage Carnival."
+    },
+    "field_of_cosmos_shimako": {
+      "name": "Memories of Early Summer Days",
+      "description": "Memories have let us meet again.",
+      "condition": "Run into Shimako in the Field of Cosmos"
+    },
+    "serene_garden_isolated": {
+      "name": "Sweetened Tranquility",
+      "description": "Sweet, refreshing air...",
+      "condition": "Visit the isolated section of Serene Garden from Cocoa Trap Streets."
+    },
+    "fairy_effect": {
+      "name": "Wrapped in Fairy Glow",
+      "description": "The captive fairy reclaims her light",
+      "condition": "Obtain the Fairy effect. If you have already unlocked it, return where it can be found in Black Building."
+    },
+    "lamp_puddle_world_fortune": {
+      "name": "Fate's Harbinger",
+      "description": "I will show you a window into the future... for a price.",
+      "condition": "Receive a fortune from the fortune teller in the Lamp Puddle World."
+    },
+    "car_crash": {
+      "name": "Key in the Ignition",
+      "description": "I think it's a model that insurance doesn't cover...",
+      "condition": "Crash the car at the Hidden Garage"
+    },
+    "bent_screw": {
+      "name": "Resonant Dream",
+      "description": "The resonance in the cogs made the screw connect to some rather... verdant places.",
+      "condition": "Interact with the Bent Screw in Cog Maze"
+    },
+    "march_of_progress": {
+      "name": "Evolurotion",
+      "description": "Through countless eons the Uro has changed in fascinating ways.",
+      "condition": "Experience the March of Progress event"
+    },
+    "fairy_hole": {
+      "name": "Fairyland",
+      "description": "Winter fairy hideaway at the edge of the rippling maze",
+      "condition": "Find the Fairy Hole in Snowy Forest"
+    },
+    "helmet_girl": {
+      "name": "Spaceflight",
+      "description": "A species of explorers who wander among mosaic cubes and flying fish",
+      "condition": "Visit Helmet Girl in Square-Square World, her apartment, and in the Moonlit Purple Balcony"
     }
   },
   "flow": {
@@ -8038,7 +8107,7 @@
     "attack_smile": {
       "name": "넌 정말 역겨운 여자애구나, 그렇지만 또 만나러 갈게",
       "description": "아니 그게 뭔 칼륨 양파껍질 까먹는 소리세요?",
-      "condition": "문신 NPC가 문신 여동생 NPC를 보호하게 만들기"																	 
+      "condition": "문신 NPC가 문신 여동생 NPC를 보호하게 만들기"
     }
   },
   "prayers": {
@@ -8148,7 +8217,10 @@
     "sunflower": {
       "name": "눈덮인 해바라기",
       "description": "나에게 행복함을 가져다주는 장소",
-      "condition": "숲의 세계에 있는 해바라기 밭에 도달하기"							 
+      "condition": "숲의 세계에 있는 해바라기 밭에 도달하기"
+    },
+    "lookout_point": {
+      "name": "Looking At the World Below"
     }
   },
   "deepdreams": {
@@ -8305,7 +8377,7 @@
       "condition": "네온 하수구에서 유독성 변환을 획득하기 (이미 얻은 상태라면, 네온 하수구로 돌아가기)"
     },
     "bat_girl_verdant": {
-     "name": "포옹받은 박쥐",
+      "name": "포옹받은 박쥐",
       "description": "저 소녀는 분홍빛 꽃들을 좋아한대",
       "condition": "백합의 들판에 있는 박쥐 소녀 NPC의 시선을 끌기"
     },
@@ -8490,6 +8562,16 @@
       "name": "츠키셉션",
       "description": "당신은 그저 누군가의 이야기 속에 있는 등장인물일 뿐인건가요?",
       "condition": "Tsukitsuki's Bedroom에 도달하기"
+    },
+    "hollow_head": {
+      "name": "World's Edge",
+      "description": "Even the brightest minds have limits.",
+      "condition": "Reach The Void from the Subway"
+    },
+    "bioluminescence": {
+      "name": "Lush Luminescence",
+      "description": "Just like watching a fireworks show buried in the earth...",
+      "condition": "Enter the Overgrown Caves"
     }
   },
   "unevendream": {
@@ -8863,7 +8945,7 @@
     },
     "washing_machine_bubble_lounge": {
       "name": "토츠츠키 세탁기",
-      "condition": "Bubble Lounge에서 세탁기를 발견하기"							   
+      "condition": "Bubble Lounge에서 세탁기를 발견하기"
     },
     "secret_woods_menu": {
       "name": "휴식",
@@ -9353,7 +9435,7 @@
     "fake_rainbow": {
       "name": "마무리 건너뛰기",
       "description": "꿈속에서 너무 오래 머무르는 바람에, 꿈은 이윽고 악몽으로 변해버렸다...",
-      "condition": "Clouds에서 가짜 메모리를 얻기"											
+      "condition": "Clouds에서 가짜 메모리를 얻기"
     }
   },
   "genie": {
@@ -11322,7 +11404,7 @@
     "cold_error": {
       "name": "[에/러]",
       "description": "666174616c6572726f7221",
-      "condition": "ERROR에 도달하기"					
+      "condition": "ERROR에 도달하기"
     },
     "snowy_inside_girl": {
       "name": "혹한에 굴하지 않는 소녀",
@@ -11336,19 +11418,3 @@
     }
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
