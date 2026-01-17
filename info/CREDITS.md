@@ -61,6 +61,7 @@
 * Bonnie21343
 * BSL
 * BunnyBoi
+* Canto Mk. 6
 * Carbonara
 * catling
 * Catmat
