@@ -4,6 +4,7 @@ import { object, string, boolean, number, parse, picklist, array, partial, pipe,
 
 const Ops = picklist(['=', '<', '>', '<=', '>=', '!=', '>=<']);
 const badgeIdMaxLength = 32;
+const conditionIdMaxLength = 32;
 
 const TCondition = partial(object({
   map: number(),
@@ -91,6 +92,9 @@ if (import.meta.main) (async function() {
     for await (const fileEntry of Deno.readDir(gameDir)) {
       if (!fileEntry.isFile || !fileEntry.name.endsWith('.json')) continue;
       const name = fileEntry.name.replace(/\.json$/, '');
+      if (name.length > conditionIdMaxLength) {
+        emit('error', `conditionId ${name} is longer than ${conditionIdMaxLength} chars`);
+      }
       try {
         const data = JSON.parse(await Deno.readTextFile(join(gameDir, fileEntry.name)));
         parse(TCondition, data);
