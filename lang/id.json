@@ -7708,7 +7708,7 @@
     "carnival_lady": {
       "name": "The Crimson Carnival Queen",
       "description": "Don’t be bad... okay?",
-      "condition": "Chainsaw the Carnival Lady 6 times and get trapped in the Carnage Carnival."
+      "condition": "Chainsaw the Carnival Lady 6 times and get trapped in the Carnage Carnival"
     },
     "field_of_cosmos_shimako": {
       "name": "Memories of Early Summer Days",
@@ -7718,7 +7718,7 @@
     "serene_garden_isolated": {
       "name": "Sweetened Tranquility",
       "description": "Sweet, refreshing air...",
-      "condition": "Visit the isolated section of Serene Garden from Cocoa Trap Streets."
+      "condition": "Visit the isolated section of Serene Garden from Cocoa Trap Streets"
     },
     "fairy_effect": {
       "name": "Wrapped in Fairy Glow",
@@ -7753,7 +7753,12 @@
     "helmet_girl": {
       "name": "Spaceflight",
       "description": "A species of explorers who wander among mosaic cubes and flying fish",
-      "condition": "Visit Helmet Girl in Square-Square World, her apartment, and in the Moonlit Purple Balcony"
+      "condition": "Visit Helmet Girl in Square-Square World, her apartment, and in the Moonlit Purple Balcony",
+      "checkbox": {
+        "helmet_girl_moonlit_balcony": "in the Moonlit Purple Balcony",
+        "helmet_girl_apartment": "her apartment",
+        "helmet_girl_square2_world": "Square-Square World"
+      }
     }
   },
   "flow": {
@@ -8165,7 +8170,9 @@
       "condition": "Reach the sunflower field in Forest World"
     },
     "lookout_point": {
-      "name": "Looking At the World Below"
+      "name": "Looking At the World Below",
+      "description": "Everyone looks like tiny ants at this height!",
+      "condition": "Visit the second island of the playground via Symbols Maze"
     }
   },
   "deepdreams": {
