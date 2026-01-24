@@ -560,9 +560,9 @@
       "condition": "ポニ子にねこを使う"
     },
     "bottles": {
-      "name": "Heart Drinks",
-      "description": "A nice refreshing drink after a long dream walk",
-      "condition": "Buy a drink from all 3 vending machines in Dense Woods A, Hell, and Docks A"
+      "name": "ハートの飲み物",
+      "description": "長い夢散歩の後に嬉しい、さっぱりした一杯",
+      "condition": "道路沿いの樹海、地獄、湖回廊（自販機側）の３つの自動販売機全てで飲み物を買う"
     }
   },
   "2kki": {
@@ -7881,7 +7881,7 @@
       "description": "I should've known",
       "condition": "Get caught and chewed out by the principal in the School for using the Bike"
     },
-    "teru_teru_bozu_effect": {
+    "teruterubozu_effect": {
       "name": "Weathered Weather Doll",
       "description": "May the skies be clear.",
       "condition": "Obtain the Teru Teru Bōzu effect. If you have already unlocked it, return in the main part of Dark Alleys."
@@ -8215,14 +8215,14 @@
       "condition": "イレズミ妹をてつパイプで殴る"
     },
     "red_eye": {
-      "name": "From One Red Eye to Another",
-      "description": "Won't you blink back?",
-      "condition": "Find the red eye on the wall in the Apartments and make it blink"
+      "name": "赤い目から赤い目へ",
+      "description": "まばたきで返してくれない？",
+      "condition": "アパートの壁にある目を見つけ、まばたきさせる"
     },
     "smile_channel": {
-      "name": "FUNNY TV",
-      "description": "GO AHEAD, TOUCH THAT DIAL, NOT LIKE IT'S GONNA HELP YOU!!!",
-      "condition": "Interact with the TV in Sabitsuki's room until a smile appears on the screen"
+      "name": "面白いテレビ",
+      "description": "そこのダイアルでも触ってみろよ、なんの役にも立たねえけどな！！！",
+      "condition": "フロウ中自室のテレビを笑顔が表示されている時に調べる"
     }
   },
   "prayers": {
@@ -9069,9 +9069,9 @@
       "condition": "メニュータイプ10を入手する、すでに入手している場合はSecret Woodsの見つけた場所に行く。"
     },
     "synthwave_central": {
-      "name": "Retro Paradisso",
-      "description": "Neon lights make the night so bright with you...",
-      "condition": "Visit Synthwave Central"
+      "name": "レトロ・パラディーソ",
+      "description": "ネオンの光が、君と共に夜をこんなにも明るくしてくれる……",
+      "condition": "Synthwave Centralに到達する"
     }
   },
   "braingirl": {
@@ -9347,9 +9347,9 @@
       "condition": "Pure Creativityに到達する"
     },
     "smuggler_bustin": {
-      "name": "Step Into the Beat!",
-      "description": "On this dance floor, I’m the only star!",
-      "condition": "Dance on the dance floor in Smugglers' Hideout"
+      "name": "リズムに飛び込もう!",
+      "description": "このダンスフロアの上では、私だけが主役!",
+      "condition": "Smugglers' Hideoutのダンスフロアで踊る"
     }
   },
   "muma": {
@@ -9988,9 +9988,9 @@
       "condition": "メリケンサックのエフェクトを入手する、すでに入手している場合はParkの見つけた場所に行く。"
     },
     "tv_dark_sewers": {
-      "name": "Static Eye",
-      "description": "Does it ever move? Or do anything else?",
-      "condition": "Turn on the TV in the Dark Sewers"
+      "name": "ノイズの目",
+      "description": "本当に、ずっと動かないの？何かしてきたりとかはない？",
+      "condition": "Dark Sewersのテレビを点ける"
     }
   },
   "ultraviolet": {
@@ -10185,9 +10185,9 @@
       "condition": "ほうでんとうのエフェクトを入手する、すでに入手している場合は公園にもう一度行く。"
     },
     "stars_pastels": {
-      "name": "Dangling Star Fragments",
-      "description": "Looking at them is making me sleepy...",
-      "condition": "Enter the mobile room in Pastel Blocks World"
+      "name": "ぶら下がる星のかけら",
+      "description": "見てると眠くなってくる……",
+      "condition": "モービルに到達する"
     }
   },
   "sheawaits": {
@@ -10967,14 +10967,14 @@
       "condition": "Dining Tableのエフェクトを入手する、すでに入手している場合はCake Towerの見つけた場所に行く。"
     },
     "sushi_monitor_realm": {
-      "name": "The appearance of sushi and the heart of a fish...",
-      "description": "Its name is Sushi Fish!",
-      "condition": "Reach the sushi aquarium in Monitor Realm"
+      "name": "見た目は寿司、心は魚……",
+      "description": "その名は、寿司フィッシュ！",
+      "condition": "Monitor Realmの寿司の水槽に到達する"
     },
     "goth_doll_effects": {
-      "name": "Dressing the Dress Recipe",
-      "description": "Why choose? Wear them both.",
-      "condition": "Combine the Goth Dress and Doll effects"
+      "name": "ドレスのためのドレッシング・レシピ",
+      "description": "どちらか悩む必要がある？どちらも着ればいいじゃない。",
+      "condition": "Goth DressとDollのエフェクトを組み合わせる"
     }
   },
   "nostalgic": {
@@ -11502,75 +11502,75 @@
   "cold": {
     "hood_effect_garbagebag": {
       "name": "見覚えのある姿",
-      "condition": "Garbagebagでフードを入手できる大きいアルベンを見る"
+      "condition": "ゴミ袋でフードを入手できる大きいアルベンを見る"
     },
     "dead_old_hospital": {
       "name": "死人",
       "description": "重圧で潰れた",
-      "condition": "Old Hospitalで死んだ人を見る"
+      "condition": "旧病棟で死んだ人を見る"
     },
     "cat_rainy_street": {
       "name": "黄昏のネコ科",
       "description": "孤独な町の友達",
-      "condition": "Rainy Streetにいる猫に話しかける"
+      "condition": "雨の路地にいる猫に話しかける"
     },
     "people": {
       "name": "いいひとたち",
       "description": "背の高い痩せた人影。",
-      "condition": "Peopleに到達する"
+      "condition": "ひとびとに到達する"
     },
     "scarecrow_the_school": {
       "name": "暗闇の部屋",
       "description": "正、正、正、正、正……",
-      "condition": "The Schoolで案山子に捕まる"
+      "condition": "学校で案山子に捕まる"
     },
     "ooooo": {
       "name": "ooooo",
-      "condition": "５つのoを集めてRainy Streetの緑の扉を解放する"
+      "condition": "５つのoを集めて雨の路地の緑の扉を解放する"
     },
     "walking_to_school_rainy": {
       "name": "雨の中を歩いて",
       "description": "学校へ、懐かしい友達と歩く",
-      "condition": "RainyでWalking to Schoolイベントを見る"
+      "condition": "雨降りで登校イベントを見る"
     },
     "aruben_the_playground": {
       "name": "消えゆく幻影",
       "description": "あれが、かつてなりたかった自分。",
-      "condition": "The Playgroundで歩き去るアルベンを見る"
+      "condition": "遊び場で歩き去るアルベンを見る"
     },
     "his_room_cyan_building": {
       "name": "もっと笑って！",
       "description": "^o^",
-      "condition": "Cyan BuildingでHis Roomイベントを見る、すでに見た場合はその部屋にもう一度行く。"
+      "condition": "シアンの建物で彼の部屋イベントを見る、すでに見た場合はその部屋にもう一度行く。"
     },
     "cold_school": {
       "name": "記憶の中の学校",
       "description": "見慣れた廊下に戻ってきた",
-      "condition": "The Schoolに到達する"
+      "condition": "学校に到達する"
     },
     "tiger_effect": {
       "name": "タイガーマン",
-      "condition": "とらのエフェクトを入手する、すでに入手している場合はTree CaveのCave Homeにもう一度行く。"
+      "condition": "とらのエフェクトを入手する、すでに入手している場合は大樹のどうくつのすみかにもう一度行く。"
     },
     "cold_error": {
       "name": "[エラ/ー]",
       "description": "666174616c6572726f7221",
-      "condition": "ERRORに到達する"
+      "condition": "偽FCのエラーに到達する"
     },
     "snowy_inside_girl": {
       "name": "雪の中で、彼女は黒をまとっていた",
       "description": "彼女と雪と、ちいさなゆきだるまだけ。",
-      "condition": "Snowy Insideでゆきだるまを作っている女の子に話しかける"
+      "condition": "雪の世界の広場でゆきだるまを作っている女の子に話しかける"
     },
     "brothers_ward_pat": {
       "name": "愛しい記憶",
       "description": "あなたの温もりが心地よくて、恋しい",
-      "condition": "Brother's Wardでアルベンの兄に話しかける"
+      "condition": "旧病棟の兄の病室でアルベンの兄に話しかける"
     },
     "yno_dolls": {
-      "name": "Little Dreamers!",
-      "description": "In one shared place, tiny dolls drift into different dreams.",
-      "condition": "Equip the dolls of YNO protagonists prior to [COLD]'s online release, as featured in the game, from your collection"
+      "name": "ちいさな夢の住人たち!",
+      "description": "同じこの場所で、小さな人形たちはそれぞれの夢を追う。",
+      "condition": "[COLD]-冷がオンラインに登場する前にYNOにあったファンゲームの主人公の人形のうち、ゲーム内に登場するものをコレクションから頭に乗せる"
     }
   }
 }
