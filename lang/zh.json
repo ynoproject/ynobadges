@@ -548,6 +548,11 @@
       "name": "C'mere Adorable!",
       "description": "Forfeit all mortal possessions to the Mado.",
       "condition": "Use the Cat effect near Poniko"
+    },
+    "bottles": {
+      "name": "Heart Drinks",
+      "description": "A nice refreshing drink after a long dream walk",
+      "condition": "Buy a drink from all 3 vending machines in Dense Woods A, Hell, and Docks A"
     }
   },
   "2kki": {
@@ -7829,6 +7834,84 @@
         "helmet_girl_apartment": "her apartment",
         "helmet_girl_square2_world": "Square-Square World"
       }
+    },
+    "spring_breeze": {
+      "name": "Gusty Garden",
+      "description": "It's nice to feel the breeze on your skin during a day as peaceful as this",
+      "condition": "Visit Windswept Fields"
+    },
+    "blossoming_brooch": {
+      "name": "Ephemeral Beauty",
+      "description": "The trees blossom, but with a beauty that will pass...",
+      "condition": "Visit Adabana Gardens"
+    },
+    "seahorse_3d_underworld": {
+      "name": "Mindscape",
+      "description": "No matter how many times restart the dream, the unchanging truth will appear.",
+      "condition": "Find the seahorse in 3D Underworld"
+    },
+    "popula_toru": {
+      "name": "Young Leaves Studio",
+      "description": "A mini speaker creature that watches you when walk by it.",
+      "condition": "Interact with Pupula-Toru in 4 different states (awake, sleeping, looking down, lying down)"
+    },
+    "space_2kki": {
+      "name": "Lost in Space",
+      "condition": "Reach Space"
+    },
+    "dancing_queen": {
+      "name": "Myth of Tomorrow",
+      "description": "May the dreams continue dancing...",
+      "condition": "View the Giant Dancing Eye in Forest Pier"
+    },
+    "flying_fish_world": {
+      "name": "Eyes Without a Face",
+      "description": "In a single hookset, you can go from one end to the other!",
+      "condition": "Visit every area in Flying Fish World"
+    },
+    "white_creature": {
+      "name": "Numbrain",
+      "description": "It hurts to think, it hurts to breathe, it hurts to move, why did they do this to me?",
+      "condition": "Interact with the white drooling creature in the Apartments"
+    },
+    "principal": {
+      "name": "Detention",
+      "description": "I should've known",
+      "condition": "Get caught and chewed out by the principal in the School for using the Bike"
+    },
+    "teruterubozu_effect": {
+      "name": "Weathered Weather Doll",
+      "description": "May the skies be clear.",
+      "condition": "Obtain the Teru Teru Bōzu effect. If you have already unlocked it, return in the main part of Dark Alleys."
+    },
+    "guts_world_red_sewers": {
+      "name": "An Organ Returning To Its Living Hue",
+      "description": "When life's blood awakens in the dust of the body, you will know.",
+      "condition": "Go to Guts World from the Red Sewers"
+    },
+    "kitsune_carnival": {
+      "name": "Kitsune Carnival",
+      "description": "Kon Kon!",
+      "condition": "Visit Kitsune Carnival"
+    },
+    "glitched_aquarium": {
+      "name": "Feels Like a Dream",
+      "description": "To the point I can see out-of-bounds.",
+      "condition": "Visit the Glitched Aquarium"
+    },
+    "restored_vantablack_world": {
+      "name": "The Darkness Sometimes Goes Away",
+      "description": "But it always comes back.",
+      "condition": "Visit the Restored Vantablack World"
+    },
+    "nexus_rune": {
+      "name": "Home-Bound Teleport Rune",
+      "description": "Now we just need to get this thing to work...",
+      "condition": "Enter the Nexus with the purple Teleport Rune mask"
+    },
+    "blue_undergrowth": {
+      "name": "Undergrowth in Azure",
+      "condition": "Visit Blue Undergrowth"
     }
   },
   "flow": {
@@ -8128,6 +8211,16 @@
       "name": "你是个有病的女孩，但我们还会再见面。",
       "description": "你丫说什么高钾洋葱呢？",
       "condition": "迫使Smile保护他的妹妹"
+    },
+    "apartment_eye": {
+      "name": "From One Red Eye to Another",
+      "description": "Won't you blink back?",
+      "condition": "Find the red eye on the wall in the Apartments and make it blink"
+    },
+    "smile_channel": {
+      "name": "FUNNY TV",
+      "description": "GO AHEAD, TOUCH THAT DIAL, NOT LIKE IT'S GONNA HELP YOU!!!",
+      "condition": "Interact with the TV in Sabitsuki's room until a smile appears on the screen"
     }
   },
   "prayers": {
@@ -8972,6 +9065,11 @@
     "secret_woods_menu": {
       "name": "喘息",
       "condition": "获得菜单样式10。若已解锁，请返回Secret Woods获得该效果处。"
+    },
+    "synthwave_central": {
+      "name": "Retro Paradisso",
+      "description": "Neon lights make the night so bright with you...",
+      "condition": "Visit Synthwave Central"
     }
   },
   "braingirl": {
@@ -9245,6 +9343,11 @@
       "name": "在画布上创造自我",
       "description": "把我的颜色涂在空白画布上",
       "condition": "抵达Pure Creativity"
+    },
+    "smuggler_bustin": {
+      "name": "Step Into the Beat!",
+      "description": "On this dance floor, I’m the only star!",
+      "condition": "Dance on the dance floor in Smugglers' Hideout"
     }
   },
   "muma": {
@@ -9881,6 +9984,11 @@
       "name": "Punch Your Lights Out!",
       "description": "That punch is making me see stars dude...",
       "condition": "Obtain the Knuckledusters effect. If you have already unlocked it, return where it can be found in the Park."
+    },
+    "tv_dark_sewers": {
+      "name": "Static Eye",
+      "description": "Does it ever move? Or do anything else?",
+      "condition": "Turn on the TV in the Dark Sewers"
     }
   },
   "ultraviolet": {
@@ -10073,6 +10181,11 @@
       "name": "我的引路灯",
       "description": "智慧之光！",
       "condition": "获得Street Lamp效果。若已获得，请返回Streetlamp World。"
+    },
+    "stars_pastels": {
+      "name": "Dangling Star Fragments",
+      "description": "Looking at them is making me sleepy...",
+      "condition": "Enter the mobile room in Pastel Blocks World"
     }
   },
   "sheawaits": {
@@ -10850,6 +10963,16 @@
     "dining_table_effect": {
       "name": "进击的杀人桌",
       "condition": "获得餐桌效果。若已解锁，请返回Cake Tower获得该效果处。"
+    },
+    "sushi_monitor_realm": {
+      "name": "The appearance of sushi and the heart of a fish...",
+      "description": "Its name is Sushi Fish!",
+      "condition": "Reach the sushi aquarium in Monitor Realm"
+    },
+    "goth_doll_effects": {
+      "name": "Dressing the Dress Recipe",
+      "description": "Why choose? Wear them both.",
+      "condition": "Combine the Goth Dress and Doll effects"
     }
   },
   "nostalgic": {
@@ -11441,6 +11564,11 @@
       "name": "我亲爱的记忆",
       "description": "你的温暖对我来说如此舒适，让我如此想念。",
       "condition": "在Brother's Ward与填海的兄弟互动"
+    },
+    "yno_dolls": {
+      "name": "Little Dreamers!",
+      "description": "In one shared place, tiny dolls drift into different dreams.",
+      "condition": "Equip the dolls of YNO protagonists prior to [COLD]'s online release, as featured in the game, from your collection"
     }
   }
 }
