@@ -29,6 +29,7 @@
 * A Jar Full of Loaves of Bread
 * AcceleratingWind
 * AduriteStar
+* AduSR
 * akalog
 * Akiro
 * Akxzii
@@ -80,6 +81,7 @@
 * cosmicmoths
 * Cosrie
 * Cris
+* Crisptal
 * dabe
 * DallyDEF
 * dave
@@ -129,6 +131,7 @@
 * guroneet
 * Hachio
 * Henry
+* HenryAutumn
 * higodoragon
 * Horse de Paus
 * Hourai
