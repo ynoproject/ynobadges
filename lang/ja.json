@@ -177,7 +177,7 @@
     },
     "melt": {
       "name": "とけつき",
-      "condition": "炎で溶かされている雪だるまのまどつきを見る"
+      "condition": "炎で溶かされている雪だるまの窓付きを見る"
     },
     "cube_guru": {
       "name": "落語家",
@@ -245,7 +245,7 @@
     },
     "monoe": {
       "name": "白黒世界のモノ江",
-      "description": "見て！モノ江がいるよかわいいね、まどつきが夢の世界で殺戮を繰り返しているので、モノ江はいなくなってしまいました　あ～あ",
+      "description": "見て！モノ江がいるよかわいいね、窓付きが夢の世界で殺戮を繰り返しているので、モノ江はいなくなってしまいました　あ～あ",
       "condition": "白黒世界でモノ江を見失う"
     },
     "teleport_bros": {
@@ -522,11 +522,11 @@
     },
     "event_completionist": {
       "name": "わるいゆめ",
-      "condition": "赤の王様、ＦＣバグ、溶けたまどつき、空中からの落下のイベントを見る",
+      "condition": "赤の王様、ＦＣバグ、溶けた窓付き、空中からの落下のイベントを見る",
       "checkbox": {
         "face": "赤の王様",
         "fc_glitch": "ＦＣバグ",
-        "melt": "溶けたまどつき",
+        "melt": "溶けた窓付き",
         "fall": "空中からの落下"
       }
     },
@@ -11570,24 +11570,24 @@
     "yno_dolls": {
       "name": "ちいさな夢の住人たち!",
       "description": "同じこの場所で、小さな人形たちはそれぞれの夢を追う。",
-      "condition": "Equip the following dolls with the Toy Box effect from the rooms where you can get them in your collection: Madotsuki, Urotsuki, Sabitsuki, Itsuki, Mariana, Danaë, Kubotsuki, Totsutsuki, Mikan, Muma, Qiu Qin, Soutarou, Sometsuki, Noelia, Irving, and Wormiko",
+      "condition": "コレクションを見られる部屋で、おもちゃ箱のエフェクトを使って次の人形を装備する：窓付き、うろつき、さびつき、いつき、マリアナ、Danaë、Kubotsuki、Totsutsuki、ミカン、Muma、秋琴、宗太郎、そめつき、Noelia、アーヴィング、虫虫子",
       "checkbox": {
-        "yno_dolls_mado": "Madotsuki",
-        "yno_dolls_uro": "Urotsuki",
-        "yno_dolls_sabi": "Sabitsuki",
-        "yno_dolls_itsuki": "Itsuki",
-        "yno_dolls_mariana": "Mariana",
+        "yno_dolls_mado": "窓付き",
+        "yno_dolls_uro": "うろつき",
+        "yno_dolls_sabi": "さびつき",
+        "yno_dolls_itsuki": "いつき",
+        "yno_dolls_mariana": "マリアナ",
         "yno_dolls_danae": "Danaë",
         "yno_dolls_kubo": "Kubotsuki",
         "yno_dolls_totsu": "Totsutsuki",
-        "yno_dolls_mikan": "Mikan",
+        "yno_dolls_mikan": "ミカン",
         "yno_dolls_muma": "Muma",
-        "yno_dolls_qiu": "Qiu Qin",
-        "yno_dolls_sou": "Soutarou",
-        "yno_dolls_some": "Sometsuki",
+        "yno_dolls_qiu": "秋琴",
+        "yno_dolls_sou": "宗太郎",
+        "yno_dolls_some": "そめつき",
         "yno_dolls_noe": "Noelia",
-        "yno_dolls_irv": "Irving",
-        "yno_dolls_iko": "Wormiko"        
+        "yno_dolls_irv": "アーヴィング",
+        "yno_dolls_iko": "虫虫子"        
       }
     }
   }
