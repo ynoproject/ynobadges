@@ -11570,7 +11570,25 @@
     "yno_dolls": {
       "name": "ちいさな夢の住人たち!",
       "description": "同じこの場所で、小さな人形たちはそれぞれの夢を追う。",
-      "condition": "[COLD]-冷がオンラインに登場する前にYNOにあったファンゲームの主人公の人形のうち、ゲーム内に登場するものをコレクションから頭に乗せる"
+      "condition": "Equip the following dolls with the Toy Box effect from the rooms where you can get them in your collection: Madotsuki, Urotsuki, Sabitsuki, Itsuki, Mariana, Danaë, Kubotsuki, Totsutsuki, Mikan, Muma, Qiu Qin, Soutarou, Sometsuki, Noelia, Irving, and Wormiko",
+      "checkbox": {
+        "yno_dolls_mado": "Madotsuki",
+        "yno_dolls_uro": "Urotsuki",
+        "yno_dolls_sabi": "Sabitsuki",
+        "yno_dolls_itsuki": "Itsuki",
+        "yno_dolls_mariana": "Mariana",
+        "yno_dolls_danae": "Danaë",
+        "yno_dolls_kubo": "Kubotsuki",
+        "yno_dolls_totsu": "Totsutsuki",
+        "yno_dolls_mikan": "Mikan",
+        "yno_dolls_muma": "Muma",
+        "yno_dolls_qiu": "Qiu Qin",
+        "yno_dolls_sou": "Soutarou",
+        "yno_dolls_some": "Sometsuki",
+        "yno_dolls_noe": "Noelia",
+        "yno_dolls_irv": "Irving",
+        "yno_dolls_iko": "Wormiko"        
+      }
     }
   }
 }
