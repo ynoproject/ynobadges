@@ -5071,7 +5071,7 @@
     "qxy_vm_challenge": {
       "name": "数学者",
       "description": "雪山にある製造者",
-      "condition": "Find and buy a snack from 15 of the vending machines in the following locations:目覚めの森、目覚めの森(雪の小道)、迷子石、haven、ネオンケイブ、ハサミ、石切、赤黒迷路、ポリキューブ(木)、ポリキューブ(氷)、水の迷路、自販工場、クラシックホテル(バルコニー)、オーロラ湖、釣り堀、万華鏡の世界、六角タイル工場、徒花、赤い下水道、ダムのほとり、赤い迷路、バーチャルシティ(バー)、自販工場：展示スペース",
+      "condition": "以下の場所にある自販機でお菓子を買う:目覚めの森、目覚めの森(雪の小道)、迷子石、haven、ネオンケイブ、ハサミ、石切、赤黒迷路、ポリキューブ(木)、ポリキューブ(氷)、水の迷路、自販工場、クラシックホテル(バルコニー)、オーロラ湖、釣り堀、万華鏡の世界、六角タイル工場、徒花、赤い下水道、ダムのほとり、赤い迷路、バーチャルシティ(バー)、自販工場：展示スペース",
       "checkbox": {
         "qxy_vm_snowy_forest": "目覚めの森",
         "qxy_vm_winter_path": "目覚めの森(雪の小道)",
@@ -7838,82 +7838,82 @@
       }
     },
     "spring_breeze": {
-      "name": "Gusty Garden",
-      "description": "It's nice to feel the breeze on your skin during a day as peaceful as this",
-      "condition": "Visit Windswept Fields"
+      "name": "風そよぐ庭園",
+      "description": "これほど穏やかな日には、肌にそよ風を感じるのも心地いいね",
+      "condition": "風車小屋群に到達する"
     },
     "blossoming_brooch": {
-      "name": "Ephemeral Beauty",
-      "description": "The trees blossom, but with a beauty that will pass...",
-      "condition": "Visit Adabana Gardens"
+      "name": "儚き美",
+      "description": "木々は花開くが、その美しさは徒花に終わる……",
+      "condition": "徒花に到達する"
     },
     "seahorse_3d_underworld": {
-      "name": "Mindscape",
-      "description": "No matter how many times restart the dream, the unchanging truth will appear.",
-      "condition": "Find the seahorse in 3D Underworld"
+      "name": "心象の風景",
+      "description": "何度夢をやり直しても、変わらぬ真実は現れる。",
+      "condition": "FCバグステージ(赤い迷路)で血濡れたタツノオトシゴを見つける"
     },
     "popula_toru": {
-      "name": "Young Leaves Studio",
-      "description": "A mini speaker creature that watches you when walk by it.",
-      "condition": "Interact with Pupula-Toru in 4 different states (awake, sleeping, looking down, lying down)"
+      "name": "若葉のスタジオ",
+      "description": "通り過ぎるとこちらを見つめてくる、小さな生き物",
+      "condition": "ワンルームで、目玉っ子の4つの状態にそれぞれ話しかける (起きている、眠っている、うつむいている、横になっている)"
     },
     "space_2kki": {
-      "name": "Lost in Space",
-      "condition": "Reach Space"
+      "name": "宇宙で迷子",
+      "condition": "宇宙に到達する"
     },
     "dancing_queen": {
-      "name": "Myth of Tomorrow",
-      "description": "May the dreams continue dancing...",
-      "condition": "View the Giant Dancing Eye in Forest Pier"
+      "name": "明日の神話",
+      "description": "どうか夢の平和が続きますように……",
+      "condition": "桟橋の森でわさわさめだまを見る"
     },
     "flying_fish_world": {
-      "name": "Eyes Without a Face",
-      "description": "In a single hookset, you can go from one end to the other!",
-      "condition": "Visit every area in Flying Fish World"
+      "name": "顔のない眼差し",
+      "description": "一度引っ掛ければ、端から端までひとっ飛び！",
+      "condition": "リベンジビルのすべてのエリアに訪れる"
     },
     "white_creature": {
-      "name": "Numbrain",
-      "description": "It hurts to think, it hurts to breathe, it hurts to move, why did they do this to me?",
-      "condition": "Interact with the white drooling creature in the Apartments"
+      "name": "数学狂い",
+      "description": "考えるのも、息をするのも、動くのもつらい。なぜ彼らは私にこんなことをしたの？",
+      "condition": "夢見荘で公式証明グラフに話しかける"
     },
     "principal": {
-      "name": "Detention",
-      "description": "I should've known",
-      "condition": "Get caught and chewed out by the principal in the School for using the Bike"
+      "name": "居残り",
+      "description": "こうなるって分かってたはずなのに",
+      "condition": "校内の通路でバイクのエフェクトを使用し、教師に叱られる"
     },
     "teru_teru_bozu_effect": {
-      "name": "Weathered Weather Doll",
-      "description": "May the skies be clear.",
-      "condition": "Obtain the Teru Teru Bōzu effect. If you have already unlocked it, return in the main part of Dark Alleys."
+      "name": "風化したてるてる坊主",
+      "description": "明日天気になあれ",
+      "condition": "てるてるぼうずのエフェクトを取得する。すでに入手している場合は、見つけた場所に行く"
     },
     "guts_world_red_sewers": {
-      "name": "An Organ Returning To Its Living Hue",
-      "description": "When life's blood awakens in the dust of the body, you will know.",
-      "condition": "Go to Guts World from the Red Sewers"
+      "name": "臓器、再び生の色へ",
+      "description": "体の塵の中で命の血が目覚めるとき、あなたは知るだろう。",
+      "condition": "赤い下水道からコンクリートマンションに行く"
     },
     "kitsune_carnival": {
-      "name": "Kitsune Carnival",
-      "description": "Kon Kon!",
-      "condition": "Visit Kitsune Carnival"
+      "name": "狐のカーニバル",
+      "description": "コンコン！",
+      "condition": "獣仮面の世界に到達する"
     },
     "glitched_aquarium": {
-      "name": "Feels Like a Dream",
-      "description": "To the point I can see out-of-bounds.",
-      "condition": "Visit the Glitched Aquarium"
+      "name": "夢みたいだ",
+      "description": "境界の外が見えてしまうほどに。",
+      "condition": "海月槽に到達する"
     },
     "restored_vantablack_world": {
-      "name": "The Darkness Sometimes Goes Away",
-      "description": "But it always comes back.",
-      "condition": "Visit the Restored Vantablack World"
+      "name": "闇が消え去ることもある",
+      "description": "でも、必ずまた戻ってくる。",
+      "condition": "黒箱に到達する"
     },
     "nexus_rune": {
-      "name": "Home-Bound Teleport Rune",
-      "description": "Now we just need to get this thing to work...",
-      "condition": "Enter the Nexus with the purple Teleport Rune mask"
+      "name": "帰還用の叉オブジェ",
+      "description": "あとはこれをちゃんと動かすだけ……",
+      "condition": "紫のオブジェ(叉)のお面を装備して扉部屋に行く"
     },
     "blue_undergrowth": {
-      "name": "Undergrowth in Azure",
-      "condition": "Visit Blue Undergrowth"
+      "name": "蒼い茂み",
+      "condition": "青草の水脈に到達する"
     }
   },
   "flow": {
