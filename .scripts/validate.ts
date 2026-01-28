@@ -64,6 +64,25 @@ const TBadge = partial(object({
   dev: boolean(),
 }));
 
+function reqFieldForType(reqType: string): string | undefined {
+  switch (reqType) {
+    case 'tag':
+      return 'reqString';
+    case 'tags':
+      return 'reqStrings';
+    case 'tagArrays':
+      return 'reqStringArrays';
+    case 'exp':
+    case 'expCount':
+    case 'expCompletion':
+    case 'vmCount':
+    case 'badgeCount':
+    case 'locationCompletion':
+    case 'timeTrial':
+      return 'reqInt';
+  }
+};
+
 let hadError = false;
 function emit(type: 'error' | 'warning' | 'notice', message: string, file?: string, line?: number) {
   // GitHub Actions annotation format
@@ -133,10 +152,19 @@ if (import.meta.main) (async function() {
     }
   }));
 
-  // 3. Validate badge parent references
+  // 3. Validate badge data
   for (const badge of badges) {
+    // 3.1. Validate parent references
     if (badge.parent && !badgeNames.has(badge.parent)) {
       emit('error', `parent '${badge.parent}' does not exist`, badge.__file);
+    }
+
+    // 3.2. Validate presence of reqType-dependent req value fields
+    if (badge.reqType) {
+      const reqField = reqFieldForType(badge.reqType);
+      if (reqField && !badge[reqField]) {
+        emit('error', `missing ${reqField} for reqType ${badge.reqType}`, badge.__file);
+      }
     }
   }
   if (hadError) {
