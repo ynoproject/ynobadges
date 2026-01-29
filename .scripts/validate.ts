@@ -131,8 +131,7 @@ if (import.meta.main) (async function() {
   for await (const gameEntry of Deno.readDir(badgesDir)) {
     if (gameEntry.isDirectory) badgeGames.push(gameEntry.name as string);
   }
-  const badges: any[] = [];
-  const badgeNames = new Set<string>();
+  const badges = new Map<string, any>();
   await Promise.all(badgeGames.map(async (game) => {
     const gameDir = join(badgesDir, game);
     for await (const fileEntry of Deno.readDir(gameDir)) {
@@ -144,8 +143,7 @@ if (import.meta.main) (async function() {
       try {
         const data = JSON.parse(await Deno.readTextFile(join(gameDir, fileEntry.name)));
         const badge = parse(TBadge, data);
-        badges.push({ ...badge, __name: name, __file: join('badges', game, fileEntry.name) });
-        badgeNames.add(name);
+        badges.set(name, { ...badge, __name: name, __file: join('badges', game, fileEntry.name) });
       } catch (e) {
         emit('error', e.message || e, join('badges', game, fileEntry.name));
       }
@@ -153,9 +151,9 @@ if (import.meta.main) (async function() {
   }));
 
   // 3. Validate badge data
-  for (const badge of badges) {
+  for (const badge of badges.values()) {
     // 3.1. Validate parent references
-    if (badge.parent && !badgeNames.has(badge.parent)) {
+    if (badge.parent && !badges.has(badge.parent)) {
       emit('error', `parent '${badge.parent}' does not exist`, badge.__file);
     }
 
@@ -165,6 +163,25 @@ if (import.meta.main) (async function() {
       if (reqField && !badge[reqField]) {
         emit('error', `missing ${reqField} for reqType ${badge.reqType}`, badge.__file);
       }
+    }
+  }
+
+  // 4. Check for unused badge images and validate image-related badge fields
+  const badgeImageDir = join(root, 'images');
+  for await (const fileEntry of Deno.readDir(badgeImageDir)) {
+    let name = fileEntry.name.replace(/\.(?:png|gif)$/, '');
+    let badge = badges.get(name);
+    if (!badge) {
+      name = name.replace(/_mask(?:_[fb]g)?$/, '');
+      badge = badges.get(name);
+      if (!badge) {
+        emit('warning', 'unused image', join('images', fileEntry.name));
+        continue;
+      }
+    }
+
+    if (fileEntry.name.endsWith('.gif') && !badge.animated) {
+      emit('error', `animated not set but animated image ${fileEntry.name} exists`, badge.__file);
     }
   }
   if (hadError) {
