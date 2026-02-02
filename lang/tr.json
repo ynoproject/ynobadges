@@ -7891,6 +7891,80 @@
     "blue_undergrowth": {
       "name": "Undergrowth in Azure",
       "condition": "Visit Blue Undergrowth"
+    },
+    "dark_room_secret_book": {
+      "name": "Secret Reading",
+      "description": "Oh. That's not the most pleasant thing to read.",
+      "condition": "Interact with the bookshelf after killing Oni Musume and read the secret book"
+    },
+    "shrouded_arcadia": {
+      "name": "Hidden Paradise",
+      "condition": "Visit Shrouded Arcadia"
+    },
+    "cocktail_lounge": {
+      "name": "Flavorful Relaxation",
+      "description": "Give yourself a break from the nightmares and kick back with a nice drink!",
+      "condition": "Visit Cocktail Lounge"
+    },
+    "obstacle_course_2": {
+      "name": "The Sequel",
+      "description": "The original was so good, we made a second one!",
+      "condition": "Visit Obstacle Course 2"
+    },
+    "church_legacy_nexus": {
+      "name": "I WATCHED THE SUN'S CARAPACE SHATTER INTO DUST",
+      "description": "(And The Moon Followed)",
+      "condition": "See the church in Legacy Nexus"
+    },
+    "green_prince": {
+      "name": "The Court Of The Green Prince",
+      "description": "I walk a road, horizons change.....",
+      "condition": "Reach and interact with the Green Prince at the City Limits"
+    },
+    "surimuki": {
+      "name": "Scraped Words",
+      "description": "Lost and Scraped by Dreams",
+      "condition": "Find Surimuki everywhere she appears in the dream world (Broken Faces Area, a book in the Library, and the Monochrome School's rooftop)"
+    },
+    "crocodile_dog": {
+      "name": "Jaré",
+      "description": "They don't have a set time for the party to end, as you can see, the clock on the pole here has no hands.",
+      "condition": "Enter the Monster Party in Garden World"
+    },
+    "shinto_curse_chaser": {
+      "name": "Karma Mirage",
+      "description": "Something dangerous is coming from the undergrowth",
+      "condition": "Get caught by the chaser in Shinto Shrine"
+    },
+    "weeping_lake": {
+      "name": "Weeping Florae",
+      "description": "All those moments will be lost in time... like petals in the wind...",
+      "condition": "Visit Weeping Lake"
+    },
+    "dazzling_garden_statue": {
+      "name": "Lady of Lazurite",
+      "description": "Crafted in an Angel's image, gleaming so dazzlingly...",
+      "condition": "See the woman's statue in Dazzling Garden"
+    },
+    "red_desert_ruins_rainbow": {
+      "name": "A Quiet Place in the Sun",
+      "description": "A small world of warm light and whispering greens",
+      "condition": "Use the Rainbow effect at the isolated section of Red Desert Ruins"
+    },
+    "submerged_signs": {
+      "name": "S.S.",
+      "description": "Something, someone is laughing. Where am I?",
+      "condition": "Visit Submerged Signs World"
+    },
+    "lush_cells_diskette": {
+      "name": "What Are You Doing Here?",
+      "description": "It's dark in here. It's lush.",
+      "condition": "Interact with the diskette creature in Lush Cells"
+    },
+    "tcw_samishii": {
+      "name": "Aka To Kuro",
+      "description": "Foul Tarnished, in search of the hooded one",
+      "condition": "Interact with Samishii in Tarnished Chocolate World"
     }
   },
   "flow": {
@@ -8542,6 +8616,11 @@
     "dd_ending_2": {
       "name": "Together, Beyond the Door",
       "condition": "See the Ending #2"
+    },
+    "hell_flower": {
+      "name": "The Red Spider’s Thread Hanging into Hell",
+      "description": "You pulled it in without a shred of doubt - never thinking it bait, did you? Cutting the thread would be such a waste. I’ll take the finger along with it.",
+      "condition": "Find Hellflower in the Red River and interact with her"
     }
   },
   "someday": {
@@ -9540,6 +9619,11 @@
       "name": "Skipping the Sign-off",
       "description": "Living the dream for too long, just for it to become a nightmare...",
       "condition": "Interact with a Fake Memory in Above the Clouds"
+    },
+    "blossoming_view": {
+      "name": "Bunnies of Blessed Union",
+      "description": "Two buns, one forever.",
+      "condition": "Encounter the Bunny Wedding in Yin Yang Lake"
     }
   },
   "genie": {
@@ -9747,6 +9831,11 @@
       "name": "Where Another Me Sleeps",
       "description": "Your awakening marks the end of my dream.",
       "condition": "Trigger the wake up event in the Train"
+    },
+    "crimson_lights": {
+      "name": "The Horizon That Reflects Fate",
+      "description": "What you call free will is merely a reflection of outcomes already written, triggered by external forces.\nYour arrival here was inevitable.",
+      "condition": "Reach the Distant Red Horizon"
     }
   },
   "mikan": {
