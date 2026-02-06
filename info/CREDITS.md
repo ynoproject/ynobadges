@@ -49,6 +49,7 @@
 * aukse
 * Autumn
 * Average
+* awoaa
 * axiom
 * Aztec
 * Azuzu
@@ -175,6 +176,7 @@
 * lnd
 * lua
 * Lumanare
+* lunchpup
 * Lychee
 * Madlock
 * Madproject
