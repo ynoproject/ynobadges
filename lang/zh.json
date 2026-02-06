@@ -553,6 +553,11 @@
       "name": "爱心饮品",
       "description": "漫长梦游之后来上一杯令人舒爽的饮料",
       "condition": "在以下所有场景的3个自贩机中买到饮料：Dense Woods A、Hell、Docks A"
+    },
+    "stabbing_room": {
+      "name": "By My Blade",
+      "description": "One down, more to go",
+      "condition": "Enter the Stabbing Room"
     }
   },
   "2kki": {
@@ -764,7 +769,7 @@
     },
     "singularity": {
       "name": "微型黑洞",
-      "condition": "在Río的世界里（Decrepit Dwellings、Verdant Promenade、Forgotten Megalopolis、Tomb of Velleities：Lunar Sanctuary、Luminous Lake：Dragon's Peak），找到所有5个黑洞女孩并与其互动。若已互动过，则必须抵达每位女孩的原本位置。",
+      "condition": "在Río的世界里（Decrepit Dwelling、Verdant Promenade、Forgotten Megalopolis、Tomb of Velleities：Lunar Sanctuary、Luminous Lake：Dragon's Peak），找到所有5个黑洞女孩并与其互动。若已互动过，则必须抵达每位女孩的原本位置。",
       "checkbox": {
         "b_h_g_decrepit_dwellings": "Decrepit Dwellings",
         "b_h_g_verdant_promenade": "Verdant Promenade",
@@ -1471,7 +1476,7 @@
     "garden_of_dreams": {
       "name": "梦中树木",
       "description": "当你在梦中种下一棵树苗，它会和梦中人们一起成长。",
-      "condition": "调查（或抵达）Mountaintop Ruins、Blood Cell Sea（及Qliphothic state）、Graffiti Maze、Shinto Shrine、Scenic Outlook、Evergreen Woods及Azure Garden的树木。",
+      "condition": "调查（或抵达）Mountaintop Ruins、Blood Cell Sea（及Qliphothic state）、Graffiti Maze、Shinto Shrine、Scenic Outlook、Evergreen Woods及Evergreen Woods的树木。",
       "checkbox": {
         "mountainview_ruins_tree": "Mountaintop Ruins",
         "tree_of_life_a": "Blood Cell Sea",
@@ -2500,7 +2505,7 @@
         "dreamer_snow_forest": "Snowy Forest",
         "dreamer_lavender": "Lavender Waters",
         "dreamer_cube_city": "Aquatic Cube City",
-        "dreamer_nowhere_home": "Home",
+        "dreamer_nowhere_home": "Home Within Nowhere",
         "dreamer_rainy": "Rainy Apartments",
         "dreamer_library": "Infinite Library"
       }
@@ -2947,7 +2952,7 @@
     "galactica_honeymoon": {
       "name": "宇宙漫游",
       "description": "你的心被迷人的深空俘获了。",
-      "condition": "抵达Space、Spaceship、Ocular Spacecraft、Astral World和Spacey Retreat。",
+      "condition": "抵达Space、Spaceship、Ocular Spacecraft、Astral World和Astral World。",
       "checkbox": {
         "galactic_spaceship|galactic_spaceship_b": "Spaceship",
         "galactic_space": "Space",
@@ -3073,7 +3078,7 @@
     "candy": {
       "name": "甘甜糖果",
       "description": "美味糖果……",
-      "condition": "抵达下列以甜点为主题的地点: Sugar World(包括Sugary Depths)、Chocolate World、Cutlery World、Candy Cane Fields、Ice Cream Dream、Cube of Sweets、Chocolate Tower、Chocolate World、Dessert Fields。",
+      "condition": "抵达下列以甜点为主题的地点: Sugar World(包括Sugary Depths)、Chocolate World、Cutlery World、Candy Cane Fields、Ice Cream Dream、Cube of Sweets、Chocolate World、Dessert Fields。",
       "checkbox": {
         "sugary_depths": "Sugary Depths",
         "sugar_world": "Sugar World",
@@ -3701,7 +3706,7 @@
     "red_monsters_qxy": {
       "name": "梦魇痉挛",
       "description": "这些扰动的祸害是怪物还是征兆？你是命运的工具还是灾难的见证者？",
-      "condition": "锯掉Wooded Lakeside A、Wooded Lakeside B、Kaleidoscope World、Streetlight Docks、Critter Village：Hexagonal Pillar Passage、Pure White Lands的红色怪物",
+      "condition": "锯掉Wooded Lakeside、Kaleidoscope World、Streetlight Docks、Critter Village：Hexagonal Pillar Passage、Pure White Lands的红色怪物",
       "checkbox": {
         "wooded_lakeside_1_monster": "Wooded Lakeside A",
         "wooded_lakeside_2_monster": "Wooded Lakeside B",
@@ -5735,7 +5740,7 @@
       "name": "诱人微笑",
       "condition": "在Faerie Hollow、Strawberry Outskirts找到暗绿色头发的女士，并在Sunken Spore Sea与她互动。",
       "checkbox": {
-        "green_haired_faerie": "Faerie Hollow",
+        "green_haired_faerie": "FFaerie Hollow",
         "green_haired_sunken": "Sunken Spore Sea",
         "green_haired_strawberry": "Strawberry Outskirts"
       }
@@ -6255,7 +6260,7 @@
     "sunrise_drink": {
       "name": "落日鸡尾酒",
       "description": "*碰杯！*",
-      "condition": "抵达以下地点的酒吧：Japan Town、The Baddies Bar、Eyeball Archives、Cyber Bar、Cocktail Lounge、Aquamarine Cave、Spaceship、Redlight Alley、Water Reclamation Facility",
+      "condition": "抵达以下地点的酒吧：Japan Town、The Baddies Bar、yeball Archives、Cyber Bar、Cocktail Lounge、Aquamarine Cave、Spaceship、Redlight Alley、Water Reclamation Facility",
       "checkbox": {
         "underground_bar": "Japan Town",
         "baddies_bar_bar": "The Baddies Bar",
@@ -7981,6 +7986,65 @@
       "name": "Aka To Kuro",
       "description": "Foul Tarnished, in search of the hooded one",
       "condition": "Interact with Samishii in Tarnished Chocolate World"
+    },
+    "sunlit_winter_woods_car": {
+      "name": "Hidden Accident",
+      "description": "Even in the dark, the bloody truth is still there.",
+      "condition": "See the bloodied car in Sunlit Winter Woods"
+    },
+    "vandalized_station_graffiti": {
+      "name": "An Idol Born in the Margins",
+      "description": "A super idol shining among the doodles!",
+      "condition": "See the graffiti of a girl in Vandalized Station"
+    },
+    "jazz_station": {
+      "name": "A courteous welcome",
+      "description": "That's the destination...",
+      "condition": "Visit Jazz Station"
+    },
+    "binary_world_fairies": {
+      "name": "Task Management Sisters",
+      "description": "Triple Sillies!",
+      "condition": "Interact with all three fairies in Binary World's Binary Tower with the Trombone effect"
+    },
+    "sunrise_road_outfits": {
+      "name": "A pure smile reflected in the sunrise",
+      "description": "She sometimes comes to greet you in a different outfit to surprise you.",
+      "condition": "Find PuraPura in her two outfits in Sunrise Road"
+    },
+    "party_colored": {
+      "name": "Rave of Rainbows",
+      "description": "A party that won't end and a host that never dies!",
+      "condition": "Interact with the music playing creature in the Party Room of the Neon Suburbs"
+    },
+    "gutter_secret": {
+      "name": "Imprisoned by Your Lies",
+      "condition": "Witness ???-tsuki's agony hidden within the Gutter's confines"
+    },
+    "dark_nexus": {
+      "name": "Buried Dreamscape",
+      "description": "Some memories are buried for a reason.",
+      "condition": "Enter the Dark Nexus"
+    },
+    "twisted_thickets_beasts": {
+      "name": "Guardians of the Thickets",
+      "description": "Strange entities lie within these woods... some friend, some foe.",
+      "condition": "Find the four beasts of the Twisted Thickets"
+    },
+    "nauseousness": {
+      "name": "Sick of it",
+      "description": "We're so sick of this everybody knows... bleeeccchhh...",
+      "condition": "Visit Nauseousness"
+    },
+    "gumball_world_npc": {
+      "name": "Sweet Bubbles",
+      "description": "SWEETSWEETSWEETLIKEBUBBLEGUM",
+      "condition": "Interact with Gigi in Gumball World using the Chainsaw, Child, Rainbow Effects"
+    },
+    "false_guardians_dream_rooms": {
+      "name": "Lethe diana",
+      "description": "Oh little one, you don't belong here, these rooms are not yours.",
+      "condition": "Visit all four rooms in False Guardians' Dream"
     }
   },
   "flow": {
@@ -8405,6 +8469,10 @@
       "name": "俯瞰下方的世界",
       "description": "从这么高的地方看，一切都像蚂蚁一样小！",
       "condition": "从Symbols Maze抵达playground的第二个岛"
+    },
+    "answered_prayers_beyond": {
+      "name": "Beyond The Beginning",
+      "condition": "Visit \"Beyond\" through the Symbols Maze"
     }
   },
   "deepdreams": {
@@ -9640,6 +9708,11 @@
       "name": "Bunnies of Blessed Union",
       "description": "Two buns, one forever.",
       "condition": "Encounter the Bunny Wedding in Yin Yang Lake"
+    },
+    "white_shores_sailboat": {
+      "name": "Off to Sea",
+      "description": "All I wanna do is leave.",
+      "condition": "View the passing sailboat at the White Shores."
     }
   },
   "genie": {
@@ -10073,6 +10146,10 @@
       "name": "噪点之眼",
       "description": "它动过吗？或者做过别的事情吗？",
       "condition": "打开Dark Sewers的电视"
+    },
+    "mikan_envelope_effect": {
+      "name": "A letter to nobody",
+      "condition": "Obtain the Envelope effect. If you have already unlocked it, return where it can be found in the Abandoned House."
     }
   },
   "ultraviolet": {
@@ -11673,6 +11750,10 @@
         "yno_dolls_iko|yno_dolls_iko_b": "虫虫子",
         "yno_dolls_yin|yno_dolls_yin_b": "阴明"
       }
+    },
+    "hermit_crab_cone": {
+      "name": "My Cone Hat",
+      "condition": "Find the hermit crab hidden underneath one of the traffic cones"
     }
   }
 }
