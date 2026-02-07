@@ -1,8 +1,13 @@
 {
   "group": "2_el",
   "bp": 15,
-  "reqType": "tag",
-  "reqString": "binary_world_fairies",
+  "reqType": "tags",
+  "reqStrings": [
+    "binary_world_fairies_a",
+    "binary_world_fairies_b",
+    "binary_world_fairies_c"
+  ],
+  "reqCount": 3,
   "map": 646,
   "art": "Michi",
   "batch": 200
