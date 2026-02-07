@@ -1036,7 +1036,11 @@
     },
     "planet": {
       "name": "Gezegenlerarası Yolcu",
-      "condition": "Dream Mars ve Dream Venus'ü ziyaret et"
+      "condition": "Dream Mars ve Dream Venus'ü ziyaret et",
+      "checkbox": {
+        "dream_venus": "Dream Venus",
+        "dream_mars": "Dream Mars"
+      }
     },
     "opal_archives": {
       "name": "Görkemli Akademi",
