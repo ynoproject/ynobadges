@@ -760,7 +760,12 @@
     },
     "roku": {
       "name": "Psychodeliczny Lud",
-      "condition": "Zwizytuj Underground Lake, Cliffside Woods, i Radiant Stones Pathway"
+      "condition": "Zwizytuj Underground Lake, Cliffside Woods, i Radiant Stones Pathway",
+      "checkbox": {
+        "underground_lake": "Underground Lake",
+        "cliffside_woods": "Cliffside Woods",
+        "radiant_stones_pathway": "Radiant Stones Pathway"
+      }
     },
     "singularity": {
       "name": "Miniaturowe Załamanie",
