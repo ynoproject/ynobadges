@@ -153,6 +153,7 @@
 * JSG5
 * jue
 * juliemeal
+* Kalail
 * Kantyo
 * Kasatate
 * Kazecita
@@ -239,6 +240,7 @@
 * NuzzlX
 * Nyoro
 * Olive Deer
+* oliverribz
 * omoflop
 * openbreeze
 * Ouka
@@ -339,6 +341,7 @@
 * VelvetKitty
 * vena
 * vermilionangel
+* visc3ra
 * VoislavJ
 * vomitlaura
 * VoxlAlien
