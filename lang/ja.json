@@ -11781,5 +11781,50 @@
       "name": "パイロンのぼうし",
       "condition": "パイロンヤドカリを見つける"
     }
+  },
+  "loveyou": {
+    "scene_effect": {
+      "name": "レイヴ・パーティ・ガール",
+      "description": "2009年にタイムスリップ！",
+      "condition": "Sceneのエフェクトを入手する、すでに入手している場合はBioluminescent Oceanの見つけた場所に行く。"
+    },
+    "candle_effect": {
+      "name": "生きた蝋燭",
+      "description": "「闇をの中を彷徨うより、\n蝋燭で照らすほうがよい。」",
+      "condition": "Candleのエフェクトを入手する、すでに入手している場合はRosehip Gardenの見つけた場所に行く。"
+    },
+    "noir_effect": {
+      "name": "Noir",
+      "description": "あ……",
+      "condition": "Noirのエフェクトを入手する、すでに入手している場合はNoir Gardenの見つけた場所に行く。"
+    },
+    "plague_doctor_effect": {
+      "name": "民間療法",
+      "description": "Atra mors",
+      "condition": "Plague Doctorのエフェクトを入手する、すでに入手している場合はHer Decomposing Remainsの見つけた場所に行く。"
+    },
+    "rasta_effect": {
+      "name": "ラスタ最高！！！",
+      "condition": "Rastaのエフェクトを入手する、すでに入手している場合はCannabis Plainsの見つけた場所に行く。"
+    },
+    "black_lake": {
+      "name": "貴方を愛しすぎた？",
+      "description": "巨大な湖の心は薬で黒く染まった",
+      "condition": "Black Lakeに到達する"
+    },
+    "strange_tea_party": {
+      "name": "奇妙なお茶会",
+      "condition": "Her Decomposing RemainsでTea Partyイベントを見る"
+    },
+    "love_drains": {
+      "name": "H<3artbeats",
+      "description": "差し伸べられる手を求め、そこに縋る……それだけじゃ、足りない",
+      "condition": "NexusからLove Drainsへのショートカットを開放する"
+    },
+    "sunset_railroad": {
+      "name": "日暮れの鉄道",
+      "description": "今日は電車が遅れていた。",
+      "condition": "Orange Railroad Crossingに到達する"
+    }
   }
 }
