@@ -8047,6 +8047,37 @@
       "name": "クロヒカゲ",
       "description": "小さき者よ。ここはあなたの居場所ではない。これらの部屋はあなたのものではない。",
       "condition": "4つの世界から黒日陰の夢に到達し、すべての四創の部屋に入る"
+    },
+    "shimako_marshmallow": {
+      "name": "A Bond Woven in Hats",
+      "description": "This hat, returning to where it belongs.",
+      "condition": "Give a hat to Shimako in Marshmallow Shallows"
+    },
+    "twisted_nightmares": {
+      "name": "The Twisted Nightmares of The Lonely Girl",
+      "description": "The horrors of my unconscious mind would terrify many...",
+      "condition": "Make Smile-San laugh with the Telephone effect, see Zalgo in Magnet Room, see the giant face in Dark Museum, see the Namakubi boy turn red in Shinto Shrine, trigger the photorealistic state of Fused Faces World",
+      "checkbox": {
+        "twisted_nightmares_smilesan": "Make Smile-San laugh with the Telephone effect",
+        "twisted_nightmares_zalgo": "see Zalgo in Magnet Room",
+        "twisted_nightmares_museumface": "see the giant face in Dark Museum",
+        "twisted_nightmares_namakubi": "see the Namakubi boy turn red in Shinto Shrine",
+        "twisted_nightmares_fusedfaces": "trigger the photorealistic state of Fused Faces World"
+      }
+    },
+    "solemn_meadow_greengirl": {
+      "name": "Before the Sunset Comes",
+      "description": "You were beyond my reach. Was this field of flowers always meant to be your coffin?",
+      "condition": "Dispatch the green-haired girl in Solemn Meadow"
+    },
+    "overwork_office_ophanim": {
+      "name": "O' Ophanim of Overwork Office",
+      "description": "Such a cruel, everlasting cycle where one can only find rest through death",
+      "condition": "See the Ophanim in the Overwork Office"
+    },
+    "rainfall_forest_surimuki": {
+      "name": "Forest Head",
+      "condition": "See Surimuki in Rainfall Forest"
     }
   },
   "flow": {
@@ -8356,6 +8387,11 @@
       "name": "面白いテレビ",
       "description": "そこのダイアルでも触ってみろよ、なんの役にも立たねえけどな！！！",
       "condition": "フロウ中自室のテレビを笑顔が表示されている時に調べる"
+    },
+    "blood_pus_rust": {
+      "name": "Painful Room",
+      "description": "It hurt, it hurt, it hurt",
+      "condition": "See the Blood, Pus, Rust event"
     }
   },
   "prayers": {

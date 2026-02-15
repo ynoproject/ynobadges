@@ -7980,6 +7980,37 @@
       "name": "Lethe diana",
       "description": "Oh little one, you don't belong here, these rooms are not yours.",
       "condition": "Visit all four rooms in False Guardians' Dream"
+    },
+    "shimako_marshmallow": {
+      "name": "A Bond Woven in Hats",
+      "description": "This hat, returning to where it belongs.",
+      "condition": "Give a hat to Shimako in Marshmallow Shallows"
+    },
+    "twisted_nightmares": {
+      "name": "The Twisted Nightmares of The Lonely Girl",
+      "description": "The horrors of my unconscious mind would terrify many...",
+      "condition": "Make Smile-San laugh with the Telephone effect, see Zalgo in Magnet Room, see the giant face in Dark Museum, see the Namakubi boy turn red in Shinto Shrine, trigger the photorealistic state of Fused Faces World",
+      "checkbox": {
+        "twisted_nightmares_smilesan": "Make Smile-San laugh with the Telephone effect",
+        "twisted_nightmares_zalgo": "see Zalgo in Magnet Room",
+        "twisted_nightmares_museumface": "see the giant face in Dark Museum",
+        "twisted_nightmares_namakubi": "see the Namakubi boy turn red in Shinto Shrine",
+        "twisted_nightmares_fusedfaces": "trigger the photorealistic state of Fused Faces World"
+      }
+    },
+    "solemn_meadow_greengirl": {
+      "name": "Before the Sunset Comes",
+      "description": "You were beyond my reach. Was this field of flowers always meant to be your coffin?",
+      "condition": "Dispatch the green-haired girl in Solemn Meadow"
+    },
+    "overwork_office_ophanim": {
+      "name": "O' Ophanim of Overwork Office",
+      "description": "Such a cruel, everlasting cycle where one can only find rest through death",
+      "condition": "See the Ophanim in the Overwork Office"
+    },
+    "rainfall_forest_surimuki": {
+      "name": "Forest Head",
+      "condition": "See Surimuki in Rainfall Forest"
     }
   },
   "flow": {
@@ -8289,6 +8320,11 @@
       "name": "FUNNY TV",
       "description": "GO AHEAD, TOUCH THAT DIAL, NOT LIKE IT'S GONNA HELP YOU!!!",
       "condition": "Interact with the TV in Sabitsuki's room until a smile appears on the screen"
+    },
+    "blood_pus_rust": {
+      "name": "Painful Room",
+      "description": "It hurt, it hurt, it hurt",
+      "condition": "See the Blood, Pus, Rust event"
     }
   },
   "prayers": {
