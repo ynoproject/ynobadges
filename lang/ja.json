@@ -469,9 +469,9 @@
       "condition": "ふえのエフェクトを入手する、すでに入手している場合は笛のエントランスにもう一度行く。"
     },
     "witch_effect": {
-      "name": "ゆめうぃっち",
-      "description": "すばらしい、箒を持った女の子！（注：結果は期待外れの可能性があります。ご不満であれば、自転車をご検討ください。）",
-      "condition": "まじょのエフェクトを入手する、すでに入手している場合は、もう一度樹海の島の奥に行く"
+      "name": "Majotsuki",
+      "description": "Time to hit the skies!! ",
+      "condition": "Obtain the Witch effect. If you have already unlocked it, return at the end of the Witch's Island."
     },
     "hat_and_scarf_effect": {
       "name": "ぬくもり",
@@ -1241,8 +1241,8 @@
       "condition": "代価移住に到達する"
     },
     "madotsukis_room": {
-      "name": "前日譚",
-      "description": "とても謎めいているのに、不気味なほど見覚えのある部屋……",
+      "name": "The Prequel",
+      "description": "Room so mysterious, yet eerily familiar...",
       "condition": "伏す部屋に到達する"
     },
     "haniwa": {
@@ -2038,8 +2038,8 @@
       "condition": "ガスコンロでがくランを使ってたこやきを回す"
     },
     "rain_cloud": {
-      "name": "こころの天気:くもり",
-      "description": "せっかくの場に水を差す必要あった？",
+      "name": "Cloudy Mood",
+      "description": "Did you have to rain on our parade?",
       "condition": "てるてるぼうずを使って雲を泣かせる"
     },
     "unstable_parking_zone": {
@@ -8047,6 +8047,47 @@
       "name": "クロヒカゲ",
       "description": "小さき者よ。ここはあなたの居場所ではない。これらの部屋はあなたのものではない。",
       "condition": "4つの世界から黒日陰の夢に到達し、すべての四創の部屋に入る"
+    },
+    "nostalgic_house_closet": {
+      "name": "Headache",
+      "description": "Where your head at?",
+      "condition": "View the cutscene in the closet of the Nostalgic House"
+    },
+    "marshmallow_shimako_hat": {
+      "name": "A Bond Woven in Hats",
+      "description": "This hat, returning to where it belongs",
+      "condition": "Give a hat to Shimako in Marshmallow Shallows"
+    },
+    "nightmares_challenge": {
+      "name": "The Twisted Nightmares of The Lonely Girl",
+      "description": "The horrors of my unconscious mind would terrify many...",
+      "condition": "Make Smile-San laugh with the Telephone effect, see Zalgo in Magnet Room, see the giant face in Dark Museum, see the Namakubi boy turn red in Shinto Shrine, trigger the photorealistic state of Fused Faces World",
+      "checkbox": {
+        "smile_san_telephone": "Make Smile-San laugh with the Telephone effect",
+        "zalgo_magnet_room": "see Zalgo in Magnet Room",
+        "face_dark_museum": "see the giant face in Dark Museum",
+        "shinto_shrine_namakubi": "see the Namakubi boy turn red in Shinto Shrine",
+        "photoreal_fused_faces_world": "trigger the photorealistic state of Fused Faces World"
+      }
+    },
+    "solemn_meadow_girl": {
+      "name": "Before the Sunset Comes",
+      "description": "You were beyond my reach. Was this field of flowers always meant to be your coffin?",
+      "condition": "Dispatch the green-haired girl in Solemn Meadow"
+    },
+    "overwork_office_ophanim": {
+      "name": "O' Ophanim of Overwork Office",
+      "description": "Such a cruel, everlasting cycle where one can only find rest through death",
+      "condition": "See the Ophanim in the Overwork Office"
+    },
+    "rainfall_forest_surimuki": {
+      "name": "Forest Head",
+      "condition": "See Surimuki in Rainfall Forest"
+    },
+    "shadow_salt_mask": {
+      "name": "Himalayan Speedster",
+      "description": "Ah!! Too fast!! XC",
+      "condition": "Obtain the Shadow Salt mask. If you have already unlocked it, equip the mask in the Dream Wardrobe."
     }
   },
   "flow": {
@@ -8356,6 +8397,15 @@
       "name": "面白いテレビ",
       "description": "そこのダイアルでも触ってみろよ、なんの役にも立たねえけどな！！！",
       "condition": "フロウ中自室のテレビを笑顔が表示されている時に調べる"
+    },
+    "flower_adorned_hat": {
+      "name": "Plants and flowers",
+      "condition": "Meet Flower Girl in the Plant Corridors and Illusionary Corridors"
+    },
+    "blood_pus_rust": {
+      "name": "Painful Room",
+      "description": "It hurt, it hurt, it hurt",
+      "condition": "See the Blood, Pus, Rust event"
     }
   },
   "prayers": {
@@ -9214,6 +9264,11 @@
       "name": "レトロ・パラディーソ",
       "description": "ネオンの光が、君と共に夜をこんなにも明るくしてくれる……",
       "condition": "Synthwave Centralに到達する"
+    },
+    "alien_rave_selfies": {
+      "name": "Party Aliens",
+      "description": "Let's take a photo!",
+      "condition": "Take a selfie with each inhabitant of Alien Rave while wearing the Cyber effect"
     }
   },
   "braingirl": {
@@ -9492,6 +9547,11 @@
       "name": "リズムに飛び込もう!",
       "description": "このダンスフロアの上では、私だけが主役!",
       "condition": "Smugglers' Hideoutのダンスフロアで踊る"
+    },
+    "amillusion_star": {
+      "name": "Warp Star",
+      "description": "Effect 1-1 Clear!",
+      "condition": "Equip the star effect where it can be found in Space."
     }
   },
   "muma": {
@@ -10152,6 +10212,11 @@
     "mikan_envelope_effect": {
       "name": "誰にも届かない手紙",
       "condition": "ふうとうのエフェクトを入手する、すでに入手している場合はAbandoned Houseの見つけた場所に行く。"
+    },
+    "mikan_clot_effect": {
+      "name": "Slime-tarou",
+      "description": "Yuck...\n",
+      "condition": "Obtain the Clot effect. If you have already unlocked it, return where it can be found in Migraine Hallways."
     }
   },
   "ultraviolet": {
@@ -10473,6 +10538,11 @@
         "crystal_cave_a_a|crystal_cave_a_b": "Crystal Cave A",
         "crystal_cave_b_a|crystal_cave_b_b": "Crystal Cave B"
       }
+    },
+    "sheawaits_temperance": {
+      "name": "The Angel of the Forest",
+      "description": "Balance, moderation, patience, purpose, and harmony.",
+      "condition": "Obtain the Temperance card. If you have already unlocked it, return to the Unicorn Lake."
     }
   },
   "oversomnia": {
@@ -11590,6 +11660,11 @@
     "nan_cubic_puzzle": {
       "name": "あなたの本当の色を魅せて!",
       "condition": "Abstruse Lieから行けるTetris Puzzleの隔離エリアにいるNaNの真実の姿を見る"
+    },
+    "memorial_candle_event": {
+      "name": "Psychedelic Migraine",
+      "description": "A door that keep many troublesome thought have been seen",
+      "condition": "View the Beyond the Threshold event in Memorial Candle."
     }
   },
   "fog": {
@@ -11756,6 +11831,11 @@
     "hermit_crab_cone": {
       "name": "パイロンのぼうし",
       "condition": "パイロンヤドカリを見つける"
+    },
+    "brothers_ward_event": {
+      "name": "Memory Not Found",
+      "description": "I just wish I could talk to him one more time...",
+      "condition": "View the rare event in the Brother's Ward."
     }
   },
   "loveyou": {
