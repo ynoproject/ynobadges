@@ -459,9 +459,9 @@
       "condition": "获得笛子效果。若已解锁，请返回Mall中获得笛子效果的房间。"
     },
     "witch_effect": {
-      "name": "梦魔女",
-      "description": "骑着炫酷飞行扫帚的魔法少女！（注意：结果可能令您失望。若不满意，请考虑骑乘自行车。）",
-      "condition": "获得魔女效果。若已解锁，请返回Witch's Island的尽头。"
+      "name": "Majotsuki",
+      "description": "Time to hit the skies!! ",
+      "condition": "Obtain the Witch effect. If you have already unlocked it, return at the end of the Witch's Island."
     },
     "hat_and_scarf_effect": {
       "name": "温暖",
@@ -8045,6 +8045,47 @@
       "name": "忘川月轮",
       "description": "哦小家伙，你不属于这里，这些房间不是你的。",
       "condition": "抵达False Guardians' Dream的所有四个房间"
+    },
+    "nostalgic_house_closet": {
+      "name": "Headache",
+      "description": "Where your head at?",
+      "condition": "View the cutscene in the closet of the Nostalgic House"
+    },
+    "marshmallow_shimako_hat": {
+      "name": "A Bond Woven in Hats",
+      "description": "This hat, returning to where it belongs",
+      "condition": "Give a hat to Shimako in Marshmallow Shallows"
+    },
+    "nightmares_challenge": {
+      "name": "The Twisted Nightmares of The Lonely Girl",
+      "description": "The horrors of my unconscious mind would terrify many...",
+      "condition": "Make Smile-San laugh with the Telephone effect, see Zalgo in Magnet Room, see the giant face in Dark Museum, see the Namakubi boy turn red in Shinto Shrine, trigger the photorealistic state of Fused Faces World",
+      "checkbox": {
+        "smile_san_telephone": "Make Smile-San laugh with the Telephone effect",
+        "zalgo_magnet_room": "see Zalgo in Magnet Room",
+        "face_dark_museum": "see the giant face in Dark Museum",
+        "shinto_shrine_namakubi": "see the Namakubi boy turn red in Shinto Shrine",
+        "photoreal_fused_faces_world": "trigger the photorealistic state of Fused Faces World"
+      }
+    },
+    "solemn_meadow_girl": {
+      "name": "Before the Sunset Comes",
+      "description": "You were beyond my reach. Was this field of flowers always meant to be your coffin?",
+      "condition": "Dispatch the green-haired girl in Solemn Meadow"
+    },
+    "overwork_office_ophanim": {
+      "name": "O' Ophanim of Overwork Office",
+      "description": "Such a cruel, everlasting cycle where one can only find rest through death",
+      "condition": "See the Ophanim in the Overwork Office"
+    },
+    "rainfall_forest_surimuki": {
+      "name": "Forest Head",
+      "condition": "See Surimuki in Rainfall Forest"
+    },
+    "shadow_salt_mask": {
+      "name": "Himalayan Speedster",
+      "description": "Ah!! Too fast!! XC",
+      "condition": "Obtain the Shadow Salt mask. If you have already unlocked it, equip the mask in the Dream Wardrobe."
     }
   },
   "flow": {
@@ -8354,6 +8395,15 @@
       "name": "微笑电视",
       "description": "往前走，拨打电话，也不会有人来救你的！！！",
       "condition": "与Sabitsuki房间里的电视互动，直到屏幕上出现笑容"
+    },
+    "flower_adorned_hat": {
+      "name": "Plants and flowers",
+      "condition": "Meet Flower Girl in the Plant Corridors and Illusionary Corridors"
+    },
+    "blood_pus_rust": {
+      "name": "Painful Room",
+      "description": "It hurt, it hurt, it hurt",
+      "condition": "See the Blood, Pus, Rust event"
     }
   },
   "prayers": {
@@ -9212,6 +9262,11 @@
       "name": "复古天国",
       "description": "霓虹光点亮了夜晚和你……",
       "condition": "抵达Synthwave Central"
+    },
+    "alien_rave_selfies": {
+      "name": "Party Aliens",
+      "description": "Let's take a photo!",
+      "condition": "Take a selfie with each inhabitant of Alien Rave while wearing the Cyber effect"
     }
   },
   "braingirl": {
@@ -9490,6 +9545,11 @@
       "name": "Step Into the Beat!",
       "description": "On this dance floor, I’m the only star!",
       "condition": "Dance on the dance floor in Smugglers' Hideout"
+    },
+    "amillusion_star": {
+      "name": "Warp Star",
+      "description": "Effect 1-1 Clear!",
+      "condition": "Equip the Star key where it can be found in Space"
     }
   },
   "muma": {
@@ -10150,6 +10210,11 @@
     "mikan_envelope_effect": {
       "name": "A letter to nobody",
       "condition": "Obtain the Envelope effect. If you have already unlocked it, return where it can be found in the Abandoned House."
+    },
+    "mikan_clot_effect": {
+      "name": "Slime-tarou",
+      "description": "Yuck...",
+      "condition": "Obtain the Clot effect. If you have already unlocked it, return where it can be found in Migraine Hallways."
     }
   },
   "ultraviolet": {
@@ -10471,6 +10536,11 @@
         "crystal_cave_a_a|crystal_cave_a_b": "Crystal Cave A",
         "crystal_cave_b_a|crystal_cave_b_b": "Crystal Cave B"
       }
+    },
+    "sheawaits_temperance": {
+      "name": "The Angel of the Forest",
+      "description": "Balance, moderation, patience, purpose, and harmony.",
+      "condition": "Obtain the Temperance card. If you have already unlocked it, return to the Unicorn Lake accessible from Noelia's Room."
     }
   },
   "oversomnia": {
@@ -11588,6 +11658,11 @@
     "nan_cubic_puzzle": {
       "name": "让我看看你的本色！",
       "condition": "在Tetris Puzzle中可从Abstruse Lie抵达的孤立区域，看到NaN的真正形态"
+    },
+    "memorial_candle_event": {
+      "name": "Psychedelic Migraine",
+      "description": "A door that keep many troublesome thought have been seen",
+      "condition": "View the Beyond the Threshold event in Memorial Candle"
     }
   },
   "fog": {
@@ -11754,6 +11829,11 @@
     "hermit_crab_cone": {
       "name": "我的尖帽",
       "condition": "找到隐藏在锥形交通路障下的寄居蟹"
+    },
+    "brothers_ward_event": {
+      "name": "Memory Not Found",
+      "description": "I just wish I could talk to him one more time...",
+      "condition": "View the rare event in the Brother's Ward"
     }
   },
   "loveyou": {
