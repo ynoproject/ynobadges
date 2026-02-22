@@ -29,7 +29,6 @@
 * A Jar Full of Loaves of Bread
 * AcceleratingWind
 * AduriteStar
-* AduSR
 * akalog
 * Akiro
 * Akxzii
@@ -93,7 +92,6 @@
 * desktopghost
 * Dmitry Pro
 * DolphinDan
-* dreaamer
 * DreamBird
 * DreamScape
 * Edgejuice
@@ -131,7 +129,6 @@
 * GunBun
 * guroneet
 * Hachio
-* Henry
 * HenryAutumn
 * higodoragon
 * Horse de Paus
