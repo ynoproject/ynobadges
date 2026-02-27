@@ -468,6 +468,11 @@
       "name": "浮き上がる音符",
       "condition": "ふえのエフェクトを入手する、すでに入手している場合は笛のエントランスにもう一度行く。"
     },
+    "witch_effect": {
+      "name": "まじょつき",
+      "description": "さあ、空へ飛び立つ時間だ!!",
+      "condition": "まじょのエフェクトを入手する、すでに入手している場合は、もう一度樹海の島に行く"
+    },
     "hat_and_scarf_effect": {
       "name": "ぬくもり",
       "description": "風邪を引かないようにね！",
@@ -8044,6 +8049,47 @@
       "description": "小さき者よ。ここはあなたの居場所ではない。これらの部屋はあなたのものではない。",
       "condition": "4つの世界から黒日陰の夢に到達し、すべての四創の部屋に入る"
     },
+    "nostalgic_house_closet": {
+      "name": "頭が痛い",
+      "description": "頭の中、どうなってるの？",
+      "condition": "意味でクローゼットを調べる"
+    },
+    "marshmallow_shimako_hat": {
+      "name": "帽子に紡がれた縁",
+      "description": "この帽子が、帰るべき場所へ",
+      "condition": "輝く海にいる縞子に帽子を渡す"
+    },
+    "nightmares_challenge": {
+      "name": "孤独な少女の歪んだ悪夢",
+      "description": "無意識の心に潜む恐怖は、多くの人を震え上がらせるだろう……",
+      "condition": "以下の条件をすべて満たす:正体不明でくろでんわを使用してスミレさんを笑わせる、集束に到達する、博物館リベンジで顔を見る、顔の見える川で顔が赤くなるのを見る、顔:裏顔に到達する",
+      "checkbox": {
+        "smile_san_telephone": "正体不明でくろでんわを使用してスミレさんを笑わせる",
+        "zalgo_magnet_room": "集束に到達する",
+        "face_dark_museum": "博物館リベンジで顔を見る",
+        "shinto_shrine_namakubi": "顔の見える川で顔が赤くなるのを見る",
+        "photoreal_fused_faces_world": "顔:裏顔に到達する"
+      }
+    },
+    "solemn_meadow_girl": {
+      "name": "夕暮れが来る前に",
+      "description": "君は、私の手の届かない場所にいた。この花畑は、最初から君の棺だったのだろうか。",
+      "condition": "ルインステーション:花道で黄緑髪の少女が倒れた姿を見る"
+    },
+    "overwork_office_ophanim": {
+      "name": "過労オフィスのオファニム",
+      "description": "死によってしか安らぎを得られない、なんと残酷で終わりなき循環だろう",
+      "condition": "連勤で眼を見つける"
+    },
+    "rainfall_forest_surimuki": {
+      "name": "森の脳みそ",
+      "condition": "雨石で擦り剥きちゃんを見つける"
+    },
+    "shadow_salt_mask": {
+      "name": "ヒマラヤのスピードスター",
+      "description": "ああ！！速すぎる！！(>_<)",
+      "condition": "健脚岩塩のお面を入手する。すでに入手している場合は、うろつき邸:クローゼットでお面を装備する"
+    },
     "bottom_woods_visit": {
       "name": "Deep In One's Heart",
       "description": "Deep down, I believe you know you're a monster too.",
@@ -8068,11 +8114,6 @@
       "name": "Isometric Serenity",
       "description": "The most beautiful labyrinth you'll ever traverse.",
       "condition": "Visit Terrace Gardens"
-    },
-    "cold_sign_effect": {
-      "name": "All Signs Point to Aruben",
-      "description": "Wonder who put this here?",
-      "condition": "Obtain the Sign effect. If you have already unlocked it, return where it can be found in the Speak sub-area of Plants Hell."
     },
     "rifle_wasteland_from_outlook": {
       "name": "Sniper’s Little Break",
@@ -8420,6 +8461,10 @@
       "name": "面白いテレビ",
       "description": "そこのダイアルでも触ってみろよ、なんの役にも立たねえけどな！！！",
       "condition": "フロウ中自室のテレビを笑顔が表示されている時に調べる"
+    },
+    "flower_adorned_hat": {
+      "name": "植物と花",
+      "condition": "花子姉部屋と植物部屋で花子姉に会う"
     },
     "sewer": {
       "name": "痛みの部屋",
@@ -9283,6 +9328,11 @@
       "name": "レトロ・パラディーソ",
       "description": "ネオンの光が、君と共に夜をこんなにも明るくしてくれる……",
       "condition": "Synthwave Centralに到達する"
+    },
+    "alien_rave_selfies": {
+      "name": "パーティーエイリアン",
+      "description": "写真撮ろうよ！",
+      "condition": "CyberのエフェクトでAlien Raveの全ての住人と自撮りを撮る"
     }
   },
   "braingirl": {
@@ -9561,6 +9611,11 @@
       "name": "リズムに飛び込もう!",
       "description": "このダンスフロアの上では、私だけが主役!",
       "condition": "Smugglers' Hideoutのダンスフロアで踊る"
+    },
+    "amillusion_star": {
+      "name": "ワープスター",
+      "description": "エフェクト 1-1 クリア！",
+      "condition": "流れ星のキーをSpaceの見つけた場所で使う"
     },
     "yummy_crepes": {
       "name": "Yummy Time with You",
@@ -10226,6 +10281,11 @@
     "mikan_envelope_effect": {
       "name": "誰にも届かない手紙",
       "condition": "ふうとうのエフェクトを入手する、すでに入手している場合はAbandoned Houseの見つけた場所に行く。"
+    },
+    "mikan_clot_effect": {
+      "name": "スラ太郎",
+      "description": "おえっ……",
+      "condition": "かたまりのエフェクトを入手する、すでに入手している場合はMigraine Hallwaysの見つけた場所に行く。"
     }
   },
   "ultraviolet": {
@@ -10547,6 +10607,11 @@
         "crystal_cave_a_a|crystal_cave_a_b": "Crystal Cave A",
         "crystal_cave_b_a|crystal_cave_b_b": "Crystal Cave B"
       }
+    },
+    "sheawaits_temperance": {
+      "name": "森の天使",
+      "description": "均衡、節度、忍耐、目的、そして調和。",
+      "condition": "Temperanceのcardを入手する、すでに入手している場合はNoelia's Roomから行けるUnicorn Lakeにもう一度行く。"
     }
   },
   "oversomnia": {
@@ -11664,6 +11729,11 @@
     "nan_cubic_puzzle": {
       "name": "あなたの本当の色を魅せて!",
       "condition": "Abstruse Lieから行けるTetris Puzzleの隔離エリアにいるNaNの真実の姿を見る"
+    },
+    "memorial_candle_event": {
+      "name": "サイケデリックな頭痛",
+      "description": "たくさん厄介な思考を抱えている扉が見られてきたしていた",
+      "condition": "Memorial CandleでBeyond the Thresholdイベントを見る"
     }
   },
   "fog": {
@@ -11831,10 +11901,20 @@
       "name": "パイロンのぼうし",
       "condition": "パイロンヤドカリを見つける"
     },
+    "brothers_ward_event": {
+      "name": "記憶が見つかりません",
+      "description": "ただ、彼ともう一度話したかっただけだ……",
+      "condition": "旧病棟の兄の病室で珍しいイベントを見る"
+    },
     "aruben_be_ballin_effect": {
       "name": "Improvised Sports Attire",
       "description": "Seeing might be an issue, but it'd be too much effort to take it off at this point.",
       "condition": "Obtain the Basketball effect. If you have already obtained it, return to the Playground."
+    },
+    "cold_sign_effect": {
+      "name": "All Signs Point to Aruben",
+      "description": "Wonder who put this here?",
+      "condition": "Obtain the Sign effect. If you have already unlocked it, return where it can be found in the Speak sub-area of Plants Hell."
     }
   },
   "loveyou": {
