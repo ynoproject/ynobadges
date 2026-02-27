@@ -62,6 +62,7 @@
 * Bonnie21343
 * BSL
 * BunnyBoi
+* Canio
 * Canto Mk. 6
 * Carbonara
 * catling
@@ -364,7 +365,6 @@
 * Zethyer
 * Zimnior12
 * ZLD1
-* Zolotl
 <!-- CREDITS:END -->
 
 ## Translation
