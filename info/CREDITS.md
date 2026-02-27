@@ -92,7 +92,6 @@
 * denji9099
 * desktopghost
 * Dmitry Pro
-* DmitryPro
 * DolphinDan
 * DreamBird
 * DreamScape
@@ -221,7 +220,6 @@
 * natl
 * Necrotic
 * neesaig
-* Neetifice
 * neetifice
 * nekhnona
 * Nexrob010
