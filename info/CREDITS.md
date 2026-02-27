@@ -29,8 +29,6 @@
 * A Jar Full of Loaves of Bread
 * AcceleratingWind
 * AduriteStar
-* AduSR
-* AduSR and three33
 * akalog
 * Akiro
 * Akxzii
@@ -369,7 +367,6 @@
 * Zethyer
 * Zimnior12
 * ZLD1
-* Zolotl and Zaakarias
 <!-- CREDITS:END -->
 
 ## Translation
