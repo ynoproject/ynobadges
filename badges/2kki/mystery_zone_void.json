@@ -1,8 +1,12 @@
 {
   "group": "2_el",
   "bp": 20,
-  "reqType": "tag",
-  "reqString": "mystery_zone_void",
+  "reqType": "tags",
+  "reqStrings": [
+    "mystery_zone_void_interact",
+    "mystery_zone_void_collision"
+  ],
+  "reqCount": 1,
   "map": 2246,
   "art": "neetifice",
   "animated": true,
