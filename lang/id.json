@@ -117,9 +117,9 @@
       "condition": "Contribute maps to Yume 2kki"
     },
     "zolotl": {
-      "name": "Zolotl",
-      "description": "A dark blade of an oneirophobic sharpening.",
-      "condition": "From Zolotl to Aztec"
+      "name": "Navigator Protocol “Gate K9”",
+      "description": "Um navegador, forjado na escassez e na teimosia, galgou mundos, mas o fausto que o coroou selou-lhe a derrocada. Restaram-lhe apenas a própria sombra, o ermo abrasado e o destino inevitável... do pó ao pó, na saudade do que se desfez.",
+      "condition": "Be Zolotl and return as Canio"
     },
     "zaakarias": {
       "name": "The Beaver",
@@ -459,8 +459,8 @@
       "condition": "Obtain the Flute effect. If you have already unlocked it, return to the Flute room in the Mall."
     },
     "witch_effect": {
-      "name": "Yume Witchi",
-      "description": "A magical girl with an amazing, floating broom! (Note: Results may be disappointing. If dissatisfied, consider riding a bicycle.)",
+      "name": "Majotsuki",
+      "description": "Time to hit the skies!! ",
       "condition": "Obtain the Witch effect. If you have already unlocked it, return at the end of the Witch's Island."
     },
     "hat_and_scarf_effect": {
@@ -558,6 +558,11 @@
       "name": "By My Blade",
       "description": "One down, more to go",
       "condition": "Enter the Stabbing Room"
+    },
+    "footprint_path_mouth_things": {
+      "name": "Destiny to Bleed",
+      "description": "Do they like their fate?",
+      "condition": "Interact with all the creatures that open their mouths in Footprint Path B"
     }
   },
   "2kki": {
@@ -4799,18 +4804,14 @@
       "condition": "Visit Blackjack Manor"
     },
     "tt_rose_church": {
-      "name": "The Holy Egg",
-      "condition": "Obtain the menu type 12 in Rose Church in {TIME} or less in Time Trial Mode"
+      "name": "Choros No.1",
+      "description": "About the notes of the overgrown pianist.",
+      "condition": "Obtain the menu type 12 in Rose Church in 12:00 or less in Time Trial Mode"
     },
     "dragon_paradise": {
       "name": "Cetus",
       "description": "The Serpent that soars the golden skies",
       "condition": "Approach the dragon in Paradise"
-    },
-    "rose_church_pianist": {
-      "name": "Rose Concert",
-      "description": "This piano is still working...",
-      "condition": "Watch the pianist play the piano at Rose Church"
     },
     "yume_paradise": {
       "name": "Dream Heaven",
@@ -7981,24 +7982,29 @@
       "description": "Oh little one, you don't belong here, these rooms are not yours.",
       "condition": "Visit all four rooms in False Guardians' Dream"
     },
-    "shimako_marshmallow": {
+    "nostalgic_house_closet": {
+      "name": "Headache",
+      "description": "Where your head at?",
+      "condition": "View the cutscene in the closet of the Nostalgic House"
+    },
+    "marshmallow_shimako_hat": {
       "name": "A Bond Woven in Hats",
-      "description": "This hat, returning to where it belongs.",
+      "description": "This hat, returning to where it belongs",
       "condition": "Give a hat to Shimako in Marshmallow Shallows"
     },
-    "twisted_nightmares": {
+    "nightmares_challenge": {
       "name": "The Twisted Nightmares of The Lonely Girl",
       "description": "The horrors of my unconscious mind would terrify many...",
       "condition": "Make Smile-San laugh with the Telephone effect, see Zalgo in Magnet Room, see the giant face in Dark Museum, see the Namakubi boy turn red in Shinto Shrine, trigger the photorealistic state of Fused Faces World",
       "checkbox": {
-        "twisted_nightmares_smilesan": "Make Smile-San laugh with the Telephone effect",
-        "twisted_nightmares_zalgo": "see Zalgo in Magnet Room",
-        "twisted_nightmares_museumface": "see the giant face in Dark Museum",
-        "twisted_nightmares_namakubi": "see the Namakubi boy turn red in Shinto Shrine",
-        "twisted_nightmares_fusedfaces": "trigger the photorealistic state of Fused Faces World"
+        "smile_san_telephone": "Make Smile-San laugh with the Telephone effect",
+        "zalgo_magnet_room": "see Zalgo in Magnet Room",
+        "face_dark_museum": "see the giant face in Dark Museum",
+        "shinto_shrine_namakubi": "see the Namakubi boy turn red in Shinto Shrine",
+        "photoreal_fused_faces_world": "trigger the photorealistic state of Fused Faces World"
       }
     },
-    "solemn_meadow_greengirl": {
+    "solemn_meadow_girl": {
       "name": "Before the Sunset Comes",
       "description": "You were beyond my reach. Was this field of flowers always meant to be your coffin?",
       "condition": "Dispatch the green-haired girl in Solemn Meadow"
@@ -8011,6 +8017,78 @@
     "rainfall_forest_surimuki": {
       "name": "Forest Head",
       "condition": "See Surimuki in Rainfall Forest"
+    },
+    "shadow_salt_mask": {
+      "name": "Himalayan Speedster",
+      "description": "Ah!! Too fast!! XC",
+      "condition": "Obtain the Shadow Salt mask. If you have already unlocked it, equip the mask in the Dream Wardrobe."
+    },
+    "rifle_wasteland_from_outlook": {
+      "name": "Sniper’s Little Break",
+      "condition": "Visit Rifle Wasteland from Red Sun Outlook"
+    },
+    "dysmorphia_shadow_urotsuki": {
+      "name": "Achromatic Alternate",
+      "description": "It was never worth the risk.",
+      "condition": "Interact with Shadow Urotsuki in 'Dysmorphia'"
+    },
+    "aquatic_prairie_visit": {
+      "name": "Flooded Reeds",
+      "description": "Remnants of a long-submerged grassland",
+      "condition": "Visit Aquatic Prairie"
+    },
+    "blue_undergrowth_money": {
+      "name": "Money from a Stranger",
+      "description": "Cool, I just got money from him!",
+      "condition": "Interact with the boy in Blue Undergrowth"
+    },
+    "peak": {
+      "name": "Blossoming Blue Horizon",
+      "description": "From beyond the dreadful woods ridden of lights, tower the great moonlit mountainous heights.",
+      "condition": "View the Peak Event in the Twisted Thickets"
+    },
+    "glasses_forest_carnival": {
+      "name": "True Face",
+      "condition": "Use the Glasses effect near the statue of the Virgin Mary in Forest Carnival"
+    },
+    "abyssal_garden_stone": {
+      "name": "Keep Your Eyes Open",
+      "description": "It's your true friend.",
+      "condition": "See all the reactions from the blue stone in Abyssal Garden"
+    },
+    "promnesic_terminal_visit": {
+      "name": "Abandoned Bus Stop",
+      "description": "A little nostalgic.",
+      "condition": "Visit Promnesic Terminal"
+    },
+    "rose_church_pianist": {
+      "name": "Symphony No.7 ",
+      "description": "About the notes of the shadow.",
+      "condition": "Watch the pianist play the piano at Rose Church"
+    },
+    "butchers_wrath_bacon": {
+      "name": "Not Raw Anymore",
+      "description": "Deliciously Cooked Pork.",
+      "condition": "Trigger the Butcher's Wrath event in Mutant Pig Farm"
+    },
+    "oblique_hell_train": {
+      "name": "Day and Night Trains",
+      "description": "I'll take a ride on the local train...",
+      "condition": "Sleep in the two sections of the Oblique Hell traincar"
+    },
+    "2kki_mansion_balcony": {
+      "name": "To Blip_63",
+      "description": "TA balcony that once played a melody from space",
+      "condition": "Enter the balcony in Mansion"
+    },
+    "legacy_ruins_figure": {
+      "name": "!!??#%?!",
+      "condition": "See the figure lying on the floor in the magenta sub-area of Legacy of Ruin"
+    },
+    "microbiome_world_visit": {
+      "name": "Microbial",
+      "description": "For just a moment, it feels like everything will be okay.",
+      "condition": "Visit Microbiome World"
     }
   },
   "flow": {
@@ -8321,7 +8399,11 @@
       "description": "GO AHEAD, TOUCH THAT DIAL, NOT LIKE IT'S GONNA HELP YOU!!!",
       "condition": "Interact with the TV in Sabitsuki's room until a smile appears on the screen"
     },
-    "blood_pus_rust": {
+    "flower_adorned_hat": {
+      "name": "Plants and flowers",
+      "condition": "Meet Flower Girl in the Plant Corridors and Illusionary Corridors"
+    },
+    "sewer": {
       "name": "Painful Room",
       "description": "It hurt, it hurt, it hurt",
       "condition": "See the Blood, Pus, Rust event"
@@ -9179,6 +9261,15 @@
       "name": "Retro Paradisso",
       "description": "Neon lights make the night so bright with you...",
       "condition": "Visit Synthwave Central"
+    },
+    "alien_rave_selfies": {
+      "name": "Party Aliens",
+      "description": "Let's take a photo!",
+      "condition": "Take a selfie with each inhabitant of Alien Rave while wearing the Cyber effect"
+    },
+    "broken_seagull": {
+      "name": "Fragile Feathered Friend",
+      "condition": "See the broken seagull event"
     }
   },
   "braingirl": {
@@ -9293,6 +9384,10 @@
       "name": "Manic Turnip",
       "description": "Eat your greens.",
       "condition": "Find the turnip with a face in Psychedelic Farm"
+    },
+    "psychedelic_farm_visit": {
+      "name": "Mutant Bloom",
+      "condition": "Visit Psychedelic Farm"
     }
   },
   "amillusion": {
@@ -9457,6 +9552,16 @@
       "name": "Step Into the Beat!",
       "description": "On this dance floor, I’m the only star!",
       "condition": "Dance on the dance floor in Smugglers' Hideout"
+    },
+    "amillusion_star": {
+      "name": "Warp Star",
+      "description": "Effect 1-1 Clear!",
+      "condition": "Equip the Star key where it can be found in Space"
+    },
+    "tropical_sea_ice_visit": {
+      "name": "Bathed in Ocean Light",
+      "description": "Within the shimmering blue, I lose my edges.",
+      "condition": "Visit Tropical Sea Ice"
     }
   },
   "muma": {
@@ -10117,6 +10222,11 @@
     "mikan_envelope_effect": {
       "name": "A letter to nobody",
       "condition": "Obtain the Envelope effect. If you have already unlocked it, return where it can be found in the Abandoned House."
+    },
+    "mikan_clot_effect": {
+      "name": "Slime-tarou",
+      "description": "Yuck...",
+      "condition": "Obtain the Clot effect. If you have already unlocked it, return where it can be found in Migraine Hallways."
     }
   },
   "ultraviolet": {
@@ -10433,6 +10543,11 @@
         "crystal_cave_a_a|crystal_cave_a_b": "Crystal Cave A",
         "crystal_cave_b_a|crystal_cave_b_b": "Crystal Cave B"
       }
+    },
+    "sheawaits_temperance": {
+      "name": "The Angel of the Forest",
+      "description": "Balance, moderation, patience, purpose, and harmony.",
+      "condition": "Obtain the Temperance card. If you have already unlocked it, return to the Unicorn Lake accessible from Noelia's Room."
     }
   },
   "oversomnia": {
@@ -11546,6 +11661,11 @@
     "nan_cubic_puzzle": {
       "name": "Show Me Your True Colors!",
       "condition": "See the true form of NaN in the isolated section of Tetris Puzzle accessible from Abstruse Lie"
+    },
+    "memorial_candle_event": {
+      "name": "Psychedelic Migraine",
+      "description": "A door that keep many troublesome thought have been seen",
+      "condition": "View the Beyond the Threshold event in Memorial Candle"
     }
   },
   "fog": {
@@ -11702,6 +11822,11 @@
     "hermit_crab_cone": {
       "name": "My Cone Hat",
       "condition": "Find the hermit crab hidden underneath one of the traffic cones"
+    },
+    "brothers_ward_event": {
+      "name": "Memory Not Found",
+      "description": "I just wish I could talk to him one more time...",
+      "condition": "View the rare event in the Brother's Ward"
     }
   },
   "loveyou": {

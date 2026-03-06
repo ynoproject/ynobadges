@@ -117,9 +117,9 @@
       "condition": "ゆめ２っきのマップをツクる"
     },
     "zolotl": {
-      "name": "Zolotl",
-      "description": "夢恐怖症的に研ぎ澄まされた闇の刃。",
-      "condition": "ZolotlからAztecへ"
+      "name": "Navigator Protocol “Gate K9”",
+      "description": "Um navegador, forjado na escassez e na teimosia, galgou mundos, mas o fausto que o coroou selou-lhe a derrocada. Restaram-lhe apenas a própria sombra, o ermo abrasado e o destino inevitável... do pó ao pó, na saudade do que se desfez.",
+      "condition": "Be Zolotl and return as Canio"
     },
     "zaakarias": {
       "name": "ビーバー",
@@ -469,9 +469,9 @@
       "condition": "ふえのエフェクトを入手する、すでに入手している場合は笛のエントランスにもう一度行く。"
     },
     "witch_effect": {
-      "name": "ゆめうぃっち",
-      "description": "すばらしい、箒を持った女の子！（注：結果は期待外れの可能性があります。ご不満であれば、自転車をご検討ください。）",
-      "condition": "まじょのエフェクトを入手する、すでに入手している場合は、もう一度樹海の島の奥に行く"
+      "name": "まじょつき",
+      "description": "さあ、空へ飛び立つ時間だ!!",
+      "condition": "まじょのエフェクトを入手する、すでに入手している場合は、もう一度樹海の島に行く"
     },
     "hat_and_scarf_effect": {
       "name": "ぬくもり",
@@ -568,6 +568,11 @@
       "name": "私の刃で",
       "description": "一体はやった、もっとやろう",
       "condition": "数字の世界の丸いのの部屋に到達する"
+    },
+    "footprint_path_mouth_things": {
+      "name": "Destiny to Bleed",
+      "description": "Do they like their fate?",
+      "condition": "Interact with all the creatures that open their mouths in Footprint Path B"
     }
   },
   "2kki": {
@@ -1241,8 +1246,8 @@
       "condition": "代価移住に到達する"
     },
     "madotsukis_room": {
-      "name": "The Prequel",
-      "description": "Room so mysterious, yet eerily familiar...",
+      "name": "前日譚",
+      "description": "とても謎めいているのに、不気味なほど見覚えのある部屋……",
       "condition": "伏す部屋に到達する"
     },
     "haniwa": {
@@ -2038,8 +2043,8 @@
       "condition": "ガスコンロでがくランを使ってたこやきを回す"
     },
     "rain_cloud": {
-      "name": "Cloudy Mood",
-      "description": "Did you have to rain on our parade?",
+      "name": "こころの天気:くもり",
+      "description": "せっかくの場に水を差す必要あった？",
       "condition": "てるてるぼうずを使って雲を泣かせる"
     },
     "unstable_parking_zone": {
@@ -4813,18 +4818,14 @@
       "condition": "お好み屋敷に到達する"
     },
     "tt_rose_church": {
-      "name": "聖なるたまご",
-      "condition": "Time Trial Modeで{TIME}以内に光と水面：教会エリアのメニュータイプ：12を取得する"
+      "name": "Choros No.1",
+      "description": "About the notes of the overgrown pianist.",
+      "condition": "Obtain the menu type 12 in Rose Church in 12:00 or less in Time Trial Mode"
     },
     "dragon_paradise": {
       "name": "くじら座",
       "description": "黄金の空を泳ぐヘビ",
       "condition": "金雲海で青いウミヘビに近づく"
-    },
-    "rose_church_pianist": {
-      "name": "薔薇のコンサート",
-      "description": "このピアノはまだ動く・・・",
-      "condition": "光と水面：教会エリアでピアニストの演奏を聞く"
     },
     "yume_paradise": {
       "name": "ドリームヘブン",
@@ -8048,36 +8049,113 @@
       "description": "小さき者よ。ここはあなたの居場所ではない。これらの部屋はあなたのものではない。",
       "condition": "4つの世界から黒日陰の夢に到達し、すべての四創の部屋に入る"
     },
-    "shimako_marshmallow": {
-      "name": "A Bond Woven in Hats",
-      "description": "This hat, returning to where it belongs.",
-      "condition": "Give a hat to Shimako in Marshmallow Shallows"
+    "nostalgic_house_closet": {
+      "name": "頭が痛い",
+      "description": "頭の中、どうなってるの？",
+      "condition": "意味でクローゼットを調べる"
     },
-    "twisted_nightmares": {
-      "name": "The Twisted Nightmares of The Lonely Girl",
-      "description": "The horrors of my unconscious mind would terrify many...",
-      "condition": "Make Smile-San laugh with the Telephone effect, see Zalgo in Magnet Room, see the giant face in Dark Museum, see the Namakubi boy turn red in Shinto Shrine, trigger the photorealistic state of Fused Faces World",
+    "marshmallow_shimako_hat": {
+      "name": "帽子に紡がれた縁",
+      "description": "この帽子が、帰るべき場所へ",
+      "condition": "輝く海にいる縞子に帽子を渡す"
+    },
+    "nightmares_challenge": {
+      "name": "孤独な少女の歪んだ悪夢",
+      "description": "無意識の心に潜む恐怖は、多くの人を震え上がらせるだろう……",
+      "condition": "以下の条件をすべて満たす:正体不明でくろでんわを使用してスミレさんを笑わせる、集束に到達する、博物館リベンジで顔を見る、顔の見える川で顔が赤くなるのを見る、顔:裏顔に到達する",
       "checkbox": {
-        "twisted_nightmares_smilesan": "Make Smile-San laugh with the Telephone effect",
-        "twisted_nightmares_zalgo": "see Zalgo in Magnet Room",
-        "twisted_nightmares_museumface": "see the giant face in Dark Museum",
-        "twisted_nightmares_namakubi": "see the Namakubi boy turn red in Shinto Shrine",
-        "twisted_nightmares_fusedfaces": "trigger the photorealistic state of Fused Faces World"
+        "smile_san_telephone": "正体不明でくろでんわを使用してスミレさんを笑わせる",
+        "zalgo_magnet_room": "集束に到達する",
+        "face_dark_museum": "博物館リベンジで顔を見る",
+        "shinto_shrine_namakubi": "顔の見える川で顔が赤くなるのを見る",
+        "photoreal_fused_faces_world": "顔:裏顔に到達する"
       }
     },
-    "solemn_meadow_greengirl": {
-      "name": "Before the Sunset Comes",
-      "description": "You were beyond my reach. Was this field of flowers always meant to be your coffin?",
-      "condition": "Dispatch the green-haired girl in Solemn Meadow"
+    "solemn_meadow_girl": {
+      "name": "夕暮れが来る前に",
+      "description": "君は、私の手の届かない場所にいた。この花畑は、最初から君の棺だったのだろうか。",
+      "condition": "ルインステーション:花道で黄緑髪の少女が倒れた姿を見る"
     },
     "overwork_office_ophanim": {
-      "name": "O' Ophanim of Overwork Office",
-      "description": "Such a cruel, everlasting cycle where one can only find rest through death",
-      "condition": "See the Ophanim in the Overwork Office"
+      "name": "過労オフィスのオファニム",
+      "description": "死によってしか安らぎを得られない、なんと残酷で終わりなき循環だろう",
+      "condition": "連勤で眼を見つける"
     },
     "rainfall_forest_surimuki": {
-      "name": "Forest Head",
-      "condition": "See Surimuki in Rainfall Forest"
+      "name": "森の脳みそ",
+      "condition": "雨石で擦り剥きちゃんを見つける"
+    },
+    "shadow_salt_mask": {
+      "name": "ヒマラヤのスピードスター",
+      "description": "ああ！！速すぎる！！(>_<)",
+      "condition": "健脚岩塩のお面を入手する。すでに入手している場合は、うろつき邸:クローゼットでお面を装備する"
+    },
+    "rifle_wasteland_from_outlook": {
+      "name": "Sniper’s Little Break",
+      "condition": "Visit Rifle Wasteland from Red Sun Outlook"
+    },
+    "dysmorphia_shadow_urotsuki": {
+      "name": "Achromatic Alternate",
+      "description": "It was never worth the risk.",
+      "condition": "Interact with Shadow Urotsuki in 'Dysmorphia'"
+    },
+    "aquatic_prairie_visit": {
+      "name": "Flooded Reeds",
+      "description": "Remnants of a long-submerged grassland",
+      "condition": "Visit Aquatic Prairie"
+    },
+    "blue_undergrowth_money": {
+      "name": "Money from a Stranger",
+      "description": "Cool, I just got money from him!",
+      "condition": "Interact with the boy in Blue Undergrowth"
+    },
+    "peak": {
+      "name": "Blossoming Blue Horizon",
+      "description": "From beyond the dreadful woods ridden of lights, tower the great moonlit mountainous heights.",
+      "condition": "View the Peak Event in the Twisted Thickets"
+    },
+    "glasses_forest_carnival": {
+      "name": "True Face",
+      "condition": "Use the Glasses effect near the statue of the Virgin Mary in Forest Carnival"
+    },
+    "abyssal_garden_stone": {
+      "name": "Keep Your Eyes Open",
+      "description": "It's your true friend.",
+      "condition": "See all the reactions from the blue stone in Abyssal Garden"
+    },
+    "promnesic_terminal_visit": {
+      "name": "Abandoned Bus Stop",
+      "description": "A little nostalgic.",
+      "condition": "Visit Promnesic Terminal"
+    },
+    "rose_church_pianist": {
+      "name": "Symphony No.7 ",
+      "description": "About the notes of the shadow.",
+      "condition": "Watch the pianist play the piano at Rose Church"
+    },
+    "butchers_wrath_bacon": {
+      "name": "Not Raw Anymore",
+      "description": "Deliciously Cooked Pork.",
+      "condition": "Trigger the Butcher's Wrath event in Mutant Pig Farm"
+    },
+    "oblique_hell_train": {
+      "name": "Day and Night Trains",
+      "description": "I'll take a ride on the local train...",
+      "condition": "Sleep in the two sections of the Oblique Hell traincar"
+    },
+    "2kki_mansion_balcony": {
+      "name": "To Blip_63",
+      "description": "TA balcony that once played a melody from space",
+      "condition": "Enter the balcony in Mansion"
+    },
+    "legacy_ruins_figure": {
+      "name": "!!??#%?!",
+      "condition": "See the figure lying on the floor in the magenta sub-area of Legacy of Ruin"
+    },
+    "microbiome_world_visit": {
+      "name": "Microbial",
+      "description": "For just a moment, it feels like everything will be okay.",
+      "condition": "Visit Microbiome World"
     }
   },
   "flow": {
@@ -8388,10 +8466,14 @@
       "description": "そこのダイアルでも触ってみろよ、なんの役にも立たねえけどな！！！",
       "condition": "フロウ中自室のテレビを笑顔が表示されている時に調べる"
     },
-    "blood_pus_rust": {
-      "name": "Painful Room",
-      "description": "It hurt, it hurt, it hurt",
-      "condition": "See the Blood, Pus, Rust event"
+    "flower_adorned_hat": {
+      "name": "植物と花",
+      "condition": "花子姉部屋と植物部屋で花子姉に会う"
+    },
+    "sewer": {
+      "name": "痛みの部屋",
+      "description": "痛い、痛い、痛い",
+      "condition": "血膿錆部屋のイベントを最後まで見る"
     }
   },
   "prayers": {
@@ -9250,6 +9332,15 @@
       "name": "レトロ・パラディーソ",
       "description": "ネオンの光が、君と共に夜をこんなにも明るくしてくれる……",
       "condition": "Synthwave Centralに到達する"
+    },
+    "alien_rave_selfies": {
+      "name": "パーティーエイリアン",
+      "description": "写真撮ろうよ！",
+      "condition": "CyberのエフェクトでAlien Raveの全ての住人と自撮りを撮る"
+    },
+    "broken_seagull": {
+      "name": "Fragile Feathered Friend",
+      "condition": "See the broken seagull event"
     }
   },
   "braingirl": {
@@ -9364,6 +9455,10 @@
       "name": "狂ったカブ",
       "description": "野菜は食べましょう。",
       "condition": "Psychedelic Farmで顔があるカブを見つける"
+    },
+    "psychedelic_farm_visit": {
+      "name": "Mutant Bloom",
+      "condition": "Visit Psychedelic Farm"
     }
   },
   "amillusion": {
@@ -9528,6 +9623,16 @@
       "name": "リズムに飛び込もう!",
       "description": "このダンスフロアの上では、私だけが主役!",
       "condition": "Smugglers' Hideoutのダンスフロアで踊る"
+    },
+    "amillusion_star": {
+      "name": "ワープスター",
+      "description": "エフェクト 1-1 クリア！",
+      "condition": "流れ星のキーをSpaceの見つけた場所で使う"
+    },
+    "tropical_sea_ice_visit": {
+      "name": "Bathed in Ocean Light",
+      "description": "Within the shimmering blue, I lose my edges.",
+      "condition": "Visit Tropical Sea Ice"
     }
   },
   "muma": {
@@ -10188,6 +10293,11 @@
     "mikan_envelope_effect": {
       "name": "誰にも届かない手紙",
       "condition": "ふうとうのエフェクトを入手する、すでに入手している場合はAbandoned Houseの見つけた場所に行く。"
+    },
+    "mikan_clot_effect": {
+      "name": "スラ太郎",
+      "description": "おえっ……",
+      "condition": "かたまりのエフェクトを入手する、すでに入手している場合はMigraine Hallwaysの見つけた場所に行く。"
     }
   },
   "ultraviolet": {
@@ -10509,6 +10619,11 @@
         "crystal_cave_a_a|crystal_cave_a_b": "Crystal Cave A",
         "crystal_cave_b_a|crystal_cave_b_b": "Crystal Cave B"
       }
+    },
+    "sheawaits_temperance": {
+      "name": "森の天使",
+      "description": "均衡、節度、忍耐、目的、そして調和。",
+      "condition": "Temperanceのcardを入手する、すでに入手している場合はNoelia's Roomから行けるUnicorn Lakeにもう一度行く。"
     }
   },
   "oversomnia": {
@@ -11626,6 +11741,11 @@
     "nan_cubic_puzzle": {
       "name": "あなたの本当の色を魅せて!",
       "condition": "Abstruse Lieから行けるTetris Puzzleの隔離エリアにいるNaNの真実の姿を見る"
+    },
+    "memorial_candle_event": {
+      "name": "サイケデリックな頭痛",
+      "description": "たくさん厄介な思考を抱えている扉が見られてきたしていた",
+      "condition": "Memorial CandleでBeyond the Thresholdイベントを見る"
     }
   },
   "fog": {
@@ -11792,6 +11912,11 @@
     "hermit_crab_cone": {
       "name": "パイロンのぼうし",
       "condition": "パイロンヤドカリを見つける"
+    },
+    "brothers_ward_event": {
+      "name": "記憶が見つかりません",
+      "description": "ただ、彼ともう一度話したかっただけだ……",
+      "condition": "旧病棟の兄の病室で珍しいイベントを見る"
     }
   },
   "loveyou": {

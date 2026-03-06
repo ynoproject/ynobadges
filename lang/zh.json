@@ -117,9 +117,9 @@
       "condition": "参与梦２记的地图制作"
     },
     "zolotl": {
-      "name": "Zolotl",
-      "description": "破碎梦魇的漆黑之刃。",
-      "condition": "由Zolotl进化为Aztec。"
+      "name": "Navigator Protocol “Gate K9”",
+      "description": "Um navegador, forjado na escassez e na teimosia, galgou mundos, mas o fausto que o coroou selou-lhe a derrocada. Restaram-lhe apenas a própria sombra, o ermo abrasado e o destino inevitável... do pó ao pó, na saudade do que se desfez.",
+      "condition": "Be Zolotl and return as Canio"
     },
     "zaakarias": {
       "name": "The Beaver",
@@ -459,9 +459,9 @@
       "condition": "获得笛子效果。若已解锁，请返回Mall中获得笛子效果的房间。"
     },
     "witch_effect": {
-      "name": "梦魔女",
-      "description": "骑着炫酷飞行扫帚的魔法少女！（注意：结果可能令您失望。若不满意，请考虑骑乘自行车。）",
-      "condition": "获得魔女效果。若已解锁，请返回Witch's Island的尽头。"
+      "name": "Majotsuki",
+      "description": "Time to hit the skies!! ",
+      "condition": "Obtain the Witch effect. If you have already unlocked it, return at the end of the Witch's Island."
     },
     "hat_and_scarf_effect": {
       "name": "温暖",
@@ -558,6 +558,11 @@
       "name": "By My Blade",
       "description": "One down, more to go",
       "condition": "Enter the Stabbing Room"
+    },
+    "footprint_path_mouth_things": {
+      "name": "Destiny to Bleed",
+      "description": "Do they like their fate?",
+      "condition": "Interact with all the creatures that open their mouths in Footprint Path B"
     }
   },
   "2kki": {
@@ -4811,18 +4816,14 @@
       "condition": "抵达Blackjack Manor"
     },
     "tt_rose_church": {
-      "name": "神圣之卵",
-      "condition": "在计时模式中用{TIME}或以下时间在Rose Church获得菜单样式12。"
+      "name": "Choros No.1",
+      "description": "About the notes of the overgrown pianist.",
+      "condition": "Obtain the menu type 12 in Rose Church in 12:00 or less in Time Trial Mode"
     },
     "dragon_paradise": {
       "name": "刻托",
       "description": "飞过黄金天空的巨龙",
       "condition": "接近Paradise的龙"
-    },
-    "rose_church_pianist": {
-      "name": "玫瑰音乐会",
-      "description": "这钢琴还能用……",
-      "condition": "在Rose Church看到钢琴家弹琴"
     },
     "yume_paradise": {
       "name": "美梦天国",
@@ -8046,36 +8047,113 @@
       "description": "哦小家伙，你不属于这里，这些房间不是你的。",
       "condition": "抵达False Guardians' Dream的所有四个房间"
     },
-    "shimako_marshmallow": {
-      "name": "A Bond Woven in Hats",
-      "description": "This hat, returning to where it belongs.",
-      "condition": "Give a hat to Shimako in Marshmallow Shallows"
+    "nostalgic_house_closet": {
+      "name": "头痛",
+      "description": "你在想什么？",
+      "condition": "见证Nostalgic House壁橱中的事件"
     },
-    "twisted_nightmares": {
-      "name": "The Twisted Nightmares of The Lonely Girl",
-      "description": "The horrors of my unconscious mind would terrify many...",
-      "condition": "Make Smile-San laugh with the Telephone effect, see Zalgo in Magnet Room, see the giant face in Dark Museum, see the Namakubi boy turn red in Shinto Shrine, trigger the photorealistic state of Fused Faces World",
+    "marshmallow_shimako_hat": {
+      "name": "帽子编织的羁绊",
+      "description": "这顶帽子正在回到它该在的地方",
+      "condition": "把一顶帽子交给Shimako"
+    },
+    "nightmares_challenge": {
+      "name": "孤独少女的扭曲梦魇",
+      "description": "我无意识中的恐惧会吓到很多人……",
+      "condition": "使用黑电话效果让Smile-San笑出声、在Magnet Room看到Zalgo、看到Dark Museum的巨脸、在Shinto Shrine看到Namakubi boy变红、触发Fused Faces World的照相写实状态",
       "checkbox": {
-        "twisted_nightmares_smilesan": "Make Smile-San laugh with the Telephone effect",
-        "twisted_nightmares_zalgo": "see Zalgo in Magnet Room",
-        "twisted_nightmares_museumface": "see the giant face in Dark Museum",
-        "twisted_nightmares_namakubi": "see the Namakubi boy turn red in Shinto Shrine",
-        "twisted_nightmares_fusedfaces": "trigger the photorealistic state of Fused Faces World"
+        "smile_san_telephone": "使用黑电话效果让Smile-San笑出声",
+        "zalgo_magnet_room": "在Magnet Room看到Zalgo",
+        "face_dark_museum": "看到Dark Museum的巨脸",
+        "shinto_shrine_namakubi": "在Shinto Shrine看到Namakubi boy变红",
+        "photoreal_fused_faces_world": "触发Fused Faces World的照相写实状态"
       }
     },
-    "solemn_meadow_greengirl": {
-      "name": "Before the Sunset Comes",
-      "description": "You were beyond my reach. Was this field of flowers always meant to be your coffin?",
-      "condition": "Dispatch the green-haired girl in Solemn Meadow"
+    "solemn_meadow_girl": {
+      "name": "在夕阳西下之前",
+      "description": "你在我无法触及之处。难道这片花田从一开始就将是你的灵柩吗？",
+      "condition": "看到Solemn Meadow的绿发女孩死去"
     },
     "overwork_office_ophanim": {
-      "name": "O' Ophanim of Overwork Office",
-      "description": "Such a cruel, everlasting cycle where one can only find rest through death",
-      "condition": "See the Ophanim in the Overwork Office"
+      "name": "出勤的座天使",
+      "description": "在这残酷永续的循环中，只有死亡才能让人得到休憩",
+      "condition": "看到Overwork Office的Ophanim"
     },
     "rainfall_forest_surimuki": {
-      "name": "Forest Head",
-      "condition": "See Surimuki in Rainfall Forest"
+      "name": "林中首",
+      "condition": "在Rainfall Forest看到Surimuki"
+    },
+    "shadow_salt_mask": {
+      "name": "喜马拉雅飙车狂",
+      "description": "啊！！太快了！！XC",
+      "condition": "获得Shadow Salt面具。若已解锁，请在Dream Wardrobe装备该面具。"
+    },
+    "rifle_wasteland_from_outlook": {
+      "name": "Sniper’s Little Break",
+      "condition": "Visit Rifle Wasteland from Red Sun Outlook"
+    },
+    "dysmorphia_shadow_urotsuki": {
+      "name": "Achromatic Alternate",
+      "description": "It was never worth the risk.",
+      "condition": "Interact with Shadow Urotsuki in 'Dysmorphia'"
+    },
+    "aquatic_prairie_visit": {
+      "name": "Flooded Reeds",
+      "description": "Remnants of a long-submerged grassland",
+      "condition": "Visit Aquatic Prairie"
+    },
+    "blue_undergrowth_money": {
+      "name": "Money from a Stranger",
+      "description": "Cool, I just got money from him!",
+      "condition": "Interact with the boy in Blue Undergrowth"
+    },
+    "peak": {
+      "name": "Blossoming Blue Horizon",
+      "description": "From beyond the dreadful woods ridden of lights, tower the great moonlit mountainous heights.",
+      "condition": "View the Peak Event in the Twisted Thickets"
+    },
+    "glasses_forest_carnival": {
+      "name": "True Face",
+      "condition": "Use the Glasses effect near the statue of the Virgin Mary in Forest Carnival"
+    },
+    "abyssal_garden_stone": {
+      "name": "Keep Your Eyes Open",
+      "description": "It's your true friend.",
+      "condition": "See all the reactions from the blue stone in Abyssal Garden"
+    },
+    "promnesic_terminal_visit": {
+      "name": "Abandoned Bus Stop",
+      "description": "A little nostalgic.",
+      "condition": "Visit Promnesic Terminal"
+    },
+    "rose_church_pianist": {
+      "name": "Symphony No.7 ",
+      "description": "About the notes of the shadow.",
+      "condition": "Watch the pianist play the piano at Rose Church"
+    },
+    "butchers_wrath_bacon": {
+      "name": "Not Raw Anymore",
+      "description": "Deliciously Cooked Pork.",
+      "condition": "Trigger the Butcher's Wrath event in Mutant Pig Farm"
+    },
+    "oblique_hell_train": {
+      "name": "Day and Night Trains",
+      "description": "I'll take a ride on the local train...",
+      "condition": "Sleep in the two sections of the Oblique Hell traincar"
+    },
+    "2kki_mansion_balcony": {
+      "name": "To Blip_63",
+      "description": "TA balcony that once played a melody from space",
+      "condition": "Enter the balcony in Mansion"
+    },
+    "legacy_ruins_figure": {
+      "name": "!!??#%?!",
+      "condition": "See the figure lying on the floor in the magenta sub-area of Legacy of Ruin"
+    },
+    "microbiome_world_visit": {
+      "name": "Microbial",
+      "description": "For just a moment, it feels like everything will be okay.",
+      "condition": "Visit Microbiome World"
     }
   },
   "flow": {
@@ -8386,10 +8464,14 @@
       "description": "往前走，拨打电话，也不会有人来救你的！！！",
       "condition": "与Sabitsuki房间里的电视互动，直到屏幕上出现笑容"
     },
-    "blood_pus_rust": {
-      "name": "Painful Room",
-      "description": "It hurt, it hurt, it hurt",
-      "condition": "See the Blood, Pus, Rust event"
+    "flower_adorned_hat": {
+      "name": "植物与花",
+      "condition": "在Plant Corridors和Illusionary Corridors见到Flower Girl"
+    },
+    "sewer": {
+      "name": "痛苦之室",
+      "description": "疼、疼、疼",
+      "condition": "见证Blood, Pus, Rust事件"
     }
   },
   "prayers": {
@@ -8852,19 +8934,19 @@
       "condition": "见证故障结局"
     },
     "tsukitsukis_bedroom": {
-      "name": "Tsukinception",
-      "description": "Are you just a character in someone else's story?",
-      "condition": "Visit Tsukitsuki's Bedroom"
+      "name": "月之起始",
+      "description": "你只是其他人故事中的一个角色吗？",
+      "condition": "抵达Tsukitsuki's Bedroom"
     },
     "hollow_head": {
-      "name": "World's Edge",
-      "description": "Even the brightest minds have limits.",
-      "condition": "Reach The Void from the Subway"
+      "name": "世界边缘",
+      "description": "即使是最富有智慧的意识也有其极限。",
+      "condition": "从Subway抵达Void"
     },
     "bioluminescence": {
-      "name": "Lush Luminescence",
-      "description": "Just like watching a fireworks show buried in the earth...",
-      "condition": "Enter the Overgrown Caves"
+      "name": "蓊郁冷光",
+      "description": "就像看着埋在土里的烟花秀……",
+      "condition": "抵达Overgrown Caves"
     }
   },
   "unevendream": {
@@ -9248,6 +9330,15 @@
       "name": "复古天国",
       "description": "霓虹光点亮了夜晚和你……",
       "condition": "抵达Synthwave Central"
+    },
+    "alien_rave_selfies": {
+      "name": "Party Aliens",
+      "description": "Let's take a photo!",
+      "condition": "Take a selfie with each inhabitant of Alien Rave while wearing the Cyber effect"
+    },
+    "broken_seagull": {
+      "name": "Fragile Feathered Friend",
+      "condition": "See the broken seagull event"
     }
   },
   "braingirl": {
@@ -9362,6 +9453,10 @@
       "name": "狂躁芜菁",
       "description": "吃掉你的蔬菜。",
       "condition": "找到Psychedelic Farm田里长脸的芜菁"
+    },
+    "psychedelic_farm_visit": {
+      "name": "Mutant Bloom",
+      "condition": "Visit Psychedelic Farm"
     }
   },
   "amillusion": {
@@ -9526,6 +9621,16 @@
       "name": "Step Into the Beat!",
       "description": "On this dance floor, I’m the only star!",
       "condition": "Dance on the dance floor in Smugglers' Hideout"
+    },
+    "amillusion_star": {
+      "name": "Warp Star",
+      "description": "Effect 1-1 Clear!",
+      "condition": "Equip the Star key where it can be found in Space"
+    },
+    "tropical_sea_ice_visit": {
+      "name": "Bathed in Ocean Light",
+      "description": "Within the shimmering blue, I lose my edges.",
+      "condition": "Visit Tropical Sea Ice"
     }
   },
   "muma": {
@@ -9741,14 +9846,14 @@
       "condition": "在Above the Clouds调查Fake Memory。"
     },
     "blossoming_view": {
-      "name": "Bunnies of Blessed Union",
-      "description": "Two buns, one forever.",
-      "condition": "Encounter the Bunny Wedding in Yin Yang Lake"
+      "name": "受祝福的兔子伴侣",
+      "description": "不离不弃，生死相依。",
+      "condition": "在Yin Yang Lake见到Bunny Wedding"
     },
     "white_shores_sailboat": {
-      "name": "Off to Sea",
-      "description": "All I wanna do is leave.",
-      "condition": "View the passing sailboat at the White Shores."
+      "name": "出海",
+      "description": "我只想离开。",
+      "condition": "在White Shores看到漂过的帆船"
     }
   },
   "genie": {
@@ -10184,8 +10289,13 @@
       "condition": "打开Dark Sewers的电视"
     },
     "mikan_envelope_effect": {
-      "name": "A letter to nobody",
-      "condition": "Obtain the Envelope effect. If you have already unlocked it, return where it can be found in the Abandoned House."
+      "name": "寄给无人之信",
+      "condition": "获得效果Envelope。若已解锁，请返回Abandoned House获得该效果处。"
+    },
+    "mikan_clot_effect": {
+      "name": "史莱姆太郎",
+      "description": "噫呃……",
+      "condition": "获得效果Clot。若已解锁，请返回Migraine Hallways获得该效果处。"
     }
   },
   "ultraviolet": {
@@ -10507,6 +10617,11 @@
         "crystal_cave_a_a|crystal_cave_a_b": "Crystal Cave A",
         "crystal_cave_b_a|crystal_cave_b_b": "Crystal Cave B"
       }
+    },
+    "sheawaits_temperance": {
+      "name": "林中天使",
+      "description": "平衡、适中、耐心、目的、和谐。",
+      "condition": "获得卡牌节制。若已解锁，请通过Noelia's Room返回Unicorn Lake。"
     }
   },
   "oversomnia": {
@@ -11624,6 +11739,11 @@
     "nan_cubic_puzzle": {
       "name": "让我看看你的本色！",
       "condition": "在Tetris Puzzle中可从Abstruse Lie抵达的孤立区域，看到NaN的真正形态"
+    },
+    "memorial_candle_event": {
+      "name": "迷幻偏头痛",
+      "description": "看到一扇封印诸多烦恼念头的门",
+      "condition": "在Memorial Candle见证Beyond the Threshold"
     }
   },
   "fog": {
@@ -11748,7 +11868,7 @@
       "condition": "获得老虎效果。若已解锁，请返回Tree Cave：Cave Home。"
     },
     "cold_error": {
-      "name": "[ERR/OR]",
+      "name": "[错/误]",
       "description": "666174616c6572726f7221",
       "condition": "抵达ERROR"
     },
@@ -11790,51 +11910,56 @@
     "hermit_crab_cone": {
       "name": "我的尖帽",
       "condition": "找到隐藏在锥形交通路障下的寄居蟹"
+    },
+    "brothers_ward_event": {
+      "name": "记忆未找到",
+      "description": "我只是想和他再说一次话……",
+      "condition": "在Brother's Ward见证稀有事件"
     }
   },
   "loveyou": {
     "scene_effect": {
-      "name": "Rave Party Girl",
-      "description": "Going back to 2009!",
-      "condition": "Obtain the Scene effect. If you already have it, return to where it can be found in the Bioluminescent Ocean."
+      "name": "锐舞派对女孩",
+      "description": "返回2009！",
+      "condition": "获得效果Scene。若已解锁，请返回Bioluminescent Ocean获得该效果处。"
     },
     "candle_effect": {
-      "name": "Living Candle",
-      "description": "\"It's better to light a candle,\nThan to wander in the dark.\"",
-      "condition": "Obtain the Candle effect. If you already have it, return to where it can be found in the Rosehip Garden."
+      "name": "活体蜡烛",
+      "description": "\"比起在黑暗中游荡，\n点起一根蜡烛更好。\"",
+      "condition": "获得效果Candle。若已解锁，请返回Rosehip Garden获得该效果处。"
     },
     "noir_effect": {
-      "name": "Noir",
-      "description": "ah...",
-      "condition": "Obtain the Noir effect. If you already have it, return to where it can be found in the Noir Garden."
+      "name": "黑",
+      "description": "啊……",
+      "condition": "获得效果Noir。若已解锁，请返回Noir Garden获得该效果处。"
     },
     "plague_doctor_effect": {
-      "name": "Folk Medicine",
-      "description": "Atra mors",
-      "condition": "Obtain the Plague Doctor effect. If you already have it, return to where it can be found in Her Decomposing Remains."
+      "name": "民间医学",
+      "description": "黑死病",
+      "condition": "获得Plague Doctor效果。若已解锁，请返回Her Decomposing Remains获得该效果处。"
     },
     "rasta_effect": {
-      "name": "ILOVERASTA!!!!",
-      "condition": "Obtain the Rasta effect. If you already have it, return to where it can be found in the Cannabis Plains."
+      "name": "我爱脏辫！！！！",
+      "condition": "获得效果Rasta。若已解锁，请返回Cannabis Plains获得该效果处。"
     },
     "black_lake": {
-      "name": "Did I Love You Too Much?",
-      "description": "My heart is an enormous lake, black with potion",
-      "condition": "Visit the Black Lake"
+      "name": "我是不是太爱你了？",
+      "description": "我的心是一片被毒染黑的巨大湖泊",
+      "condition": "抵达Black Lake"
     },
     "strange_tea_party": {
-      "name": "Strange Tea Party",
-      "condition": "See the Tea Party event in Her Decomposing Remains"
+      "name": "怪异茶会",
+      "condition": "在Her Decomposing Remains见证事件Tea Party"
     },
     "love_drains": {
-      "name": "H<3artbeats",
-      "description": "To call for hands of above, to lean on.. Wouldn't be good enough for me",
-      "condition": "Unlock the connection to Love Drains from the Nexus"
+      "name": "<3拍",
+      "description": "去呼唤来自上方的手，去依靠……这对我来说不够好",
+      "condition": "解锁从Nexus到Love Drains的连接"
     },
     "sunset_railroad": {
-      "name": "Sunset Railroad",
-      "description": "The train came late today.",
-      "condition": "Visit Orange Railroad Crossing"
+      "name": "夕照铁道",
+      "description": "火车今天晚点了。",
+      "condition": "抵达Orange Railroad Crossing"
     }
   }
 }
