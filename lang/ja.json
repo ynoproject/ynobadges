@@ -568,6 +568,11 @@
       "name": "私の刃で",
       "description": "一体はやった、もっとやろう",
       "condition": "数字の世界の丸いのの部屋に到達する"
+    },
+    "footprint_path_mouth_things": {
+      "name": "Destiny to Bleed",
+      "description": "Do they like their fate?",
+      "condition": "Interact with all the creatures that open their mouths in Footprint Path B"
     }
   },
   "2kki": {
@@ -8152,6 +8157,30 @@
       "name": "交響曲第7番 ",
       "description": "影の音符について",
       "condition": "光と水面:教会エリアで演奏する人影を見る"
+    },
+    "butchers_wrath_bacon": {
+      "name": "Not Raw Anymore",
+      "description": "Deliciously Cooked Pork.",
+      "condition": "Trigger the Butcher's Wrath event in Mutant Pig Farm"
+    },
+    "oblique_hell_train": {
+      "name": "Day and Night Trains",
+      "description": "I'll take a ride on the local train...",
+      "condition": "Sleep in the two sections of the Oblique Hell traincar"
+    },
+    "2kki_mansion_balcony": {
+      "name": "To Blip_63",
+      "description": "TA balcony that once played a melody from space",
+      "condition": "Enter the balcony in Mansion"
+    },
+    "legacy_ruins_figure": {
+      "name": "!!??#%?!",
+      "condition": "See the figure lying on the floor in the magenta sub-area of Legacy of Ruin"
+    },
+    "microbiome_world_visit": {
+      "name": "Microbial",
+      "description": "For just a moment, it feels like everything will be okay.",
+      "condition": "Visit Microbiome World"
     }
   },
   "flow": {
@@ -9333,6 +9362,10 @@
       "name": "パーティーエイリアン",
       "description": "写真撮ろうよ！",
       "condition": "CyberのエフェクトでAlien Raveの全ての住人と自撮りを撮る"
+    },
+    "broken_seagull": {
+      "name": "Fragile Feathered Friend",
+      "condition": "See the broken seagull event"
     }
   },
   "braingirl": {
@@ -9447,6 +9480,10 @@
       "name": "狂ったカブ",
       "description": "野菜は食べましょう。",
       "condition": "Psychedelic Farmで顔があるカブを見つける"
+    },
+    "psychedelic_farm_visit": {
+      "name": "Mutant Bloom",
+      "condition": "Visit Psychedelic Farm"
     }
   },
   "amillusion": {
@@ -9621,6 +9658,11 @@
       "name": "いっしょにもぐもぐタイム",
       "description": "あなたといっしょなら、もっとおいしい！",
       "condition": "Quiet PathでBlancheとクレープを食べる"
+    },
+    "tropical_sea_ice_visit": {
+      "name": "Bathed in Ocean Light",
+      "description": "Within the shimmering blue, I lose my edges.",
+      "condition": "Visit Tropical Sea Ice"
     }
   },
   "muma": {

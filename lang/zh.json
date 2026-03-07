@@ -558,6 +558,11 @@
       "name": "By My Blade",
       "description": "One down, more to go",
       "condition": "Enter the Stabbing Room"
+    },
+    "footprint_path_mouth_things": {
+      "name": "Destiny to Bleed",
+      "description": "Do they like their fate?",
+      "condition": "Interact with all the creatures that open their mouths in Footprint Path B"
     }
   },
   "2kki": {
@@ -8083,31 +8088,6 @@
       "description": "啊！！太快了！！XC",
       "condition": "获得Shadow Salt面具。若已解锁，请在Dream Wardrobe装备该面具。"
     },
-    "bottom_woods_visit": {
-      "name": "Deep In One's Heart",
-      "description": "Deep down, I believe you know you're a monster too.",
-      "condition": "Visit Bottomless Woods"
-    },
-    "burgundy_detective": {
-      "name": "I Have A Purpose",
-      "description": "Who would you be?",
-      "condition": "Interact with the detective in Burgundy Flats"
-    },
-    "mystery_zone_void": {
-      "name": "Mysterious Yellow Friend",
-      "description": "Oh, hello little gh- what was that?",
-      "condition": "Complete the guided route in Mystery Zone"
-    },
-    "night_atelier_visit": {
-      "name": "Her Blue, Like Glass",
-      "description": "Her blue could love every color.",
-      "condition": "Visit the room with the girl in Night Lost Atelier"
-    },
-    "terrace_gardens_visit": {
-      "name": "Isometric Serenity",
-      "description": "The most beautiful labyrinth you'll ever traverse.",
-      "condition": "Visit Terrace Gardens"
-    },
     "rifle_wasteland_from_outlook": {
       "name": "Sniper’s Little Break",
       "condition": "Visit Rifle Wasteland from Red Sun Outlook"
@@ -8150,6 +8130,30 @@
       "name": "Symphony No.7 ",
       "description": "About the notes of the shadow.",
       "condition": "Watch the pianist play the piano at Rose Church"
+    },
+    "butchers_wrath_bacon": {
+      "name": "Not Raw Anymore",
+      "description": "Deliciously Cooked Pork.",
+      "condition": "Trigger the Butcher's Wrath event in Mutant Pig Farm"
+    },
+    "oblique_hell_train": {
+      "name": "Day and Night Trains",
+      "description": "I'll take a ride on the local train...",
+      "condition": "Sleep in the two sections of the Oblique Hell traincar"
+    },
+    "2kki_mansion_balcony": {
+      "name": "To Blip_63",
+      "description": "TA balcony that once played a melody from space",
+      "condition": "Enter the balcony in Mansion"
+    },
+    "legacy_ruins_figure": {
+      "name": "!!??#%?!",
+      "condition": "See the figure lying on the floor in the magenta sub-area of Legacy of Ruin"
+    },
+    "microbiome_world_visit": {
+      "name": "Microbial",
+      "description": "For just a moment, it feels like everything will be okay.",
+      "condition": "Visit Microbiome World"
     }
   },
   "flow": {
@@ -9331,6 +9335,10 @@
       "name": "Party Aliens",
       "description": "Let's take a photo!",
       "condition": "Take a selfie with each inhabitant of Alien Rave while wearing the Cyber effect"
+    },
+    "broken_seagull": {
+      "name": "Fragile Feathered Friend",
+      "condition": "See the broken seagull event"
     }
   },
   "braingirl": {
@@ -9445,6 +9453,10 @@
       "name": "狂躁芜菁",
       "description": "吃掉你的蔬菜。",
       "condition": "找到Psychedelic Farm田里长脸的芜菁"
+    },
+    "psychedelic_farm_visit": {
+      "name": "Mutant Bloom",
+      "condition": "Visit Psychedelic Farm"
     }
   },
   "amillusion": {
@@ -9619,6 +9631,11 @@
       "name": "Yummy Time with You",
       "description": "It’s Even Yummier with You!",
       "condition": "Eat crepes with Blanche at Quiet Path"
+    },
+    "tropical_sea_ice_visit": {
+      "name": "Bathed in Ocean Light",
+      "description": "Within the shimmering blue, I lose my edges.",
+      "condition": "Visit Tropical Sea Ice"
     }
   },
   "muma": {
