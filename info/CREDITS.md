@@ -130,6 +130,7 @@
 * GunBun
 * guroneet
 * Hachio
+* happysun
 * HenryAutumn
 * higodoragon
 * Horse de Paus
@@ -325,6 +326,7 @@
 * TehFlyingKyukon
 * Telebotz
 * Temwichi
+* thatdolphin
 * Theero
 * TheInkBlot
 * TheRagingRowlet
