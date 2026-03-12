@@ -8166,6 +8166,45 @@
       "name": "Microbial",
       "description": "For just a moment, it feels like everything will be okay.",
       "condition": "Visit Microbiome World"
+    },
+    "cat_country_visit": {
+      "name": "A Beautiful Place Out in the Country",
+      "description": "Home of the fuzzy buddies.",
+      "condition": "Visit Cat Countryside"
+    },
+    "magic_seabus": {
+      "name": "The Magic Seabus",
+      "description": "All aboard!",
+      "condition": "See the bus in Atlantis"
+    },
+    "witch_heaven_chase": {
+      "name": "The Fall from Heaven to Purgatory",
+      "description": "Do You Reject the Witch's Blessing?",
+      "condition": "Get caught in Witch Heaven"
+    },
+    "2kki_candyhead": {
+      "name": "Candyhead",
+      "description": "A large head full of nothing but sweetness",
+      "condition": "See the Candyhead creature in Sugar World"
+    },
+    "observatory_in_whispering_palace": {
+      "name": "Starless Observatory",
+      "description": "Urotsuki has elite ball knowledge, huh?",
+      "condition": "Visit the Observatory Area in Whispering Palace"
+    },
+    "inverted_eye_color_facility": {
+      "name": "Visions of Deteriorating Colors",
+      "description": "So come and paint my world yellow and blue...",
+      "condition": "Flip the switch in the eye room to the Underground Color Facility"
+    },
+    "forest_interlude_visit": {
+      "name": "The Prelude",
+      "condition": "Visit Forest Interlude"
+    },
+    "hellish_rabbit_lady": {
+      "name": "Mischievous Rabbit",
+      "description": "I'm bored. Anything fun out there?",
+      "condition": "Equip the Rabelle Mask in Hellish Village"
     }
   },
   "flow": {
@@ -8959,6 +8998,10 @@
       "name": "Lush Luminescence",
       "description": "Just like watching a fireworks show buried in the earth...",
       "condition": "Enter the Overgrown Caves"
+    },
+    "someday_glitch_world": {
+      "name": "The Glitchfire Headphase",
+      "condition": "Visit Glitch World"
     }
   },
   "unevendream": {
@@ -9648,6 +9691,26 @@
       "name": "Bathed in Ocean Light",
       "description": "Within the shimmering blue, I lose my edges.",
       "condition": "Visit Tropical Sea Ice"
+    },
+    "amillusion_thorny_key": {
+      "name": "Danaë Thorn-hands",
+      "description": "Things are about to get a little... prickly.",
+      "condition": "Equip the Brambles key where it can be found in Thorny Garden"
+    },
+    "bad_hair_guitar": {
+      "name": "Rocking The Hairstyle!",
+      "description": "Having a bad hair day might as well be a part of the metal experience.",
+      "condition": "Find and play the guitar in Danaë's Bad Hair Day"
+    },
+    "amillusion_forest_bridge": {
+      "name": "Forest of Tranquil",
+      "description": "The freshness of water is what gives it life.",
+      "condition": "Visit the bridge in the Forest"
+    },
+    "playing_with_roxane": {
+      "name": "Let's Play Together!",
+      "description": "What shall we play next?",
+      "condition": "Hang out with Roxane in Dreaming Lozère"
     }
   },
   "muma": {
@@ -10083,6 +10146,11 @@
       "name": "The Horizon That Reflects Fate",
       "description": "What you call free will is merely a reflection of outcomes already written, triggered by external forces.\nYour arrival here was inevitable.",
       "condition": "Reach the Distant Red Horizon"
+    },
+    "yes_qiu_slay": {
+      "name": "Face The Slayer",
+      "description": "Beneath the cold of the frozen star, you feel the fright, and you know I'm near.",
+      "condition": "Obtain the Slayer Delusion. If you have already unlocked it, return to Freezing Point."
     }
   },
   "mikan": {
@@ -10931,6 +10999,11 @@
       "name": "Happy Little Deer",
       "description": "I'm a little deer!",
       "condition": "Obtain the Deer effect. If you have already unlocked it, return where it can be found in Boiling Water World."
+    },
+    "purple_nurse": {
+      "name": "A Hardworking Nurse",
+      "description": "Is she caring for all the patients on her own?",
+      "condition": "Interact with the purple nurse in the Emergency Room"
     }
   },
   "tsushin": {
@@ -11413,6 +11486,11 @@
       "name": "Where Sun and Moon Watch Over",
       "description": "Welcome in my room!",
       "condition": "Turn off the lights in the Orgel House of the Tricolor Park"
+    },
+    "nostalgic_book_theme": {
+      "name": "A Scene Both Lonely and Happy",
+      "description": "Only the world of fairy tales tells us what is truly real.",
+      "condition": "Interact with the book that changes your menu theme in Azure Abode"
     }
   },
   "if": {

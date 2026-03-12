@@ -8089,71 +8089,110 @@
       "condition": "获得Shadow Salt面具。若已解锁，请在Dream Wardrobe装备该面具。"
     },
     "rifle_wasteland_from_outlook": {
-      "name": "Sniper-san的小休时间",
-      "condition": "从Red Sun Outlook抵达Rifle Wasteland"
+      "name": "Sniper’s Little Break",
+      "condition": "Visit Rifle Wasteland from Red Sun Outlook"
     },
     "dysmorphia_shadow_urotsuki": {
-      "name": "无色分身",
-      "description": "从来不值得冒这个险...",
-      "condition": "在Dysmorphia跟暗影Urotsuki交互"
+      "name": "Achromatic Alternate",
+      "description": "It was never worth the risk.",
+      "condition": "Interact with Shadow Urotsuki in 'Dysmorphia'"
     },
     "aquatic_prairie_visit": {
-      "name": "淹水芦丛",
-      "description": "一片沉没多年的草原",
-      "condition": "抵达Aquatic Prairie"
+      "name": "Flooded Reeds",
+      "description": "Remnants of a long-submerged grassland",
+      "condition": "Visit Aquatic Prairie"
     },
     "blue_undergrowth_money": {
-      "name": "陌生人的钱",
-      "description": "哇哦，是陌生人的钱！^^",
-      "condition": "跟Undergrowth的蓝发男孩交互"
+      "name": "Money from a Stranger",
+      "description": "Cool, I just got money from him!",
+      "condition": "Interact with the boy in Blue Undergrowth"
     },
     "peak": {
-      "name": "花开天际蓝",
-      "description": "暗林外，月照众山巅。",
-      "condition": "在Twisted Thickets触发Peak事件"
+      "name": "Blossoming Blue Horizon",
+      "description": "From beyond the dreadful woods ridden of lights, tower the great moonlit mountainous heights.",
+      "condition": "View the Peak Event in the Twisted Thickets"
     },
     "glasses_forest_carnival": {
-      "name": "真实面貌",
-      "condition": "在Forest Carnival的'圣母'旁使用眼镜效果"
+      "name": "True Face",
+      "condition": "Use the Glasses effect near the statue of the Virgin Mary in Forest Carnival"
     },
     "abyssal_garden_stone": {
-      "name": "眼睛睁大点",
-      "description": "是你真正的朋友。",
-      "condition": "查看Abyssal Garden里深蓝色石头的所有反应"
+      "name": "Keep Your Eyes Open",
+      "description": "It's your true friend.",
+      "condition": "See all the reactions from the blue stone in Abyssal Garden"
     },
     "promnesic_terminal_visit": {
-      "name": "荒废公交车站",
-      "description": "一丝怀旧之情",
-      "condition": "抵达Promnesic Terminal"
+      "name": "Abandoned Bus Stop",
+      "description": "A little nostalgic.",
+      "condition": "Visit Promnesic Terminal"
     },
     "rose_church_pianist": {
-      "name": "第七交响曲 ",
-      "description": "暗影的旋律",
-      "condition": "在Rose Church观看钢琴家的演出"
+      "name": "Symphony No.7 ",
+      "description": "About the notes of the shadow.",
+      "condition": "Watch the pianist play the piano at Rose Church"
     },
     "butchers_wrath_bacon": {
-      "name": "不再是生的了",
-      "description": "美味的猪排",
-      "condition": "在Mutant Pig Farm触发Butcher's Wrath(屠夫之怒)事件"
+      "name": "Not Raw Anymore",
+      "description": "Deliciously Cooked Pork.",
+      "condition": "Trigger the Butcher's Wrath event in Mutant Pig Farm"
     },
     "oblique_hell_train": {
-      "name": "日月列车",
-      "description": "我打算坐趟慢车...",
-      "condition": "在连接Oblique Hell和Wooded Lakeside A的两节车厢睡着"
+      "name": "Day and Night Trains",
+      "description": "I'll take a ride on the local train...",
+      "condition": "Sleep in the two sections of the Oblique Hell traincar"
     },
     "2kki_mansion_balcony": {
       "name": "To Blip_63",
-      "description": "这阳台曾播放来自外太空的旋律",
-      "condition": "抵达Mansion的阳台"
+      "description": "TA balcony that once played a melody from space",
+      "condition": "Enter the balcony in Mansion"
     },
     "legacy_ruins_figure": {
       "name": "!!??#%?!",
-      "condition": "在Legacy of Ruin的洋红色区域看到倒在地上的身影"
+      "condition": "See the figure lying on the floor in the magenta sub-area of Legacy of Ruin"
     },
     "microbiome_world_visit": {
-      "name": "微生物",
-      "description": "一瞬间我觉得一切安好...",
-      "condition": "抵达Microbiome World"
+      "name": "Microbial",
+      "description": "For just a moment, it feels like everything will be okay.",
+      "condition": "Visit Microbiome World"
+    },
+    "cat_country_visit": {
+      "name": "A Beautiful Place Out in the Country",
+      "description": "Home of the fuzzy buddies.",
+      "condition": "Visit Cat Countryside"
+    },
+    "magic_seabus": {
+      "name": "The Magic Seabus",
+      "description": "All aboard!",
+      "condition": "See the bus in Atlantis"
+    },
+    "witch_heaven_chase": {
+      "name": "The Fall from Heaven to Purgatory",
+      "description": "Do You Reject the Witch's Blessing?",
+      "condition": "Get caught in Witch Heaven"
+    },
+    "2kki_candyhead": {
+      "name": "Candyhead",
+      "description": "A large head full of nothing but sweetness",
+      "condition": "See the Candyhead creature in Sugar World"
+    },
+    "observatory_in_whispering_palace": {
+      "name": "Starless Observatory",
+      "description": "Urotsuki has elite ball knowledge, huh?",
+      "condition": "Visit the Observatory Area in Whispering Palace"
+    },
+    "inverted_eye_color_facility": {
+      "name": "Visions of Deteriorating Colors",
+      "description": "So come and paint my world yellow and blue...",
+      "condition": "Flip the switch in the eye room to the Underground Color Facility"
+    },
+    "forest_interlude_visit": {
+      "name": "The Prelude",
+      "condition": "Visit Forest Interlude"
+    },
+    "hellish_rabbit_lady": {
+      "name": "Mischievous Rabbit",
+      "description": "I'm bored. Anything fun out there?",
+      "condition": "Equip the Rabelle Mask in Hellish Village"
     }
   },
   "flow": {
@@ -8947,6 +8986,10 @@
       "name": "蓊郁冷光",
       "description": "就像看着埋在土里的烟花秀……",
       "condition": "抵达Overgrown Caves"
+    },
+    "someday_glitch_world": {
+      "name": "The Glitchfire Headphase",
+      "condition": "Visit Glitch World"
     }
   },
   "unevendream": {
@@ -9332,13 +9375,13 @@
       "condition": "抵达Synthwave Central"
     },
     "alien_rave_selfies": {
-      "name": "外星派对",
-      "description": "合影！",
-      "condition": "触发Alien Rave时间并使用Cyber效果跟每个外星人合影"
+      "name": "Party Aliens",
+      "description": "Let's take a photo!",
+      "condition": "Take a selfie with each inhabitant of Alien Rave while wearing the Cyber effect"
     },
     "broken_seagull": {
-      "name": "脆弱的小鸟朋友",
-      "condition": "触发海鸥破碎事件"
+      "name": "Fragile Feathered Friend",
+      "condition": "See the broken seagull event"
     }
   },
   "braingirl": {
@@ -9455,8 +9498,8 @@
       "condition": "找到Psychedelic Farm田里长脸的芜菁"
     },
     "psychedelic_farm_visit": {
-      "name": "变异的绽放",
-      "condition": "抵达 Psychedelic Farm"
+      "name": "Mutant Bloom",
+      "condition": "Visit Psychedelic Farm"
     }
   },
   "amillusion": {
@@ -9618,24 +9661,44 @@
       "condition": "抵达Pure Creativity"
     },
     "smuggler_bustin": {
-      "name": "跟着节奏蹦！",
-      "description": "舞池上，我是唯一的明星！",
-      "condition": "在Smugglers' Hideout的舞池上跳舞"
+      "name": "Step Into the Beat!",
+      "description": "On this dance floor, I’m the only star!",
+      "condition": "Dance on the dance floor in Smugglers' Hideout"
     },
     "amillusion_star": {
-      "name": "传送星",
-      "description": "效果1-1: 通关！",
-      "condition": "装备星星钥匙"
+      "name": "Warp Star",
+      "description": "Effect 1-1 Clear!",
+      "condition": "Equip the Star key where it can be found in Space"
     },
     "yummy_crepes": {
-      "name": "与你共度美食时光",
-      "description": "有了你，更好吃了！",
-      "condition": "在Quiet Path陪Blanche吃可丽饼"
+      "name": "Yummy Time with You",
+      "description": "It’s Even Yummier with You!",
+      "condition": "Eat crepes with Blanche at Quiet Path"
     },
     "tropical_sea_ice_visit": {
-      "name": "沐浴在海阳光中",
-      "description": "蔚蓝中, 我的边界渐渐消融",
-      "condition": "抵达Tropical Sea Ice"
+      "name": "Bathed in Ocean Light",
+      "description": "Within the shimmering blue, I lose my edges.",
+      "condition": "Visit Tropical Sea Ice"
+    },
+    "amillusion_thorny_key": {
+      "name": "Danaë Thorn-hands",
+      "description": "Things are about to get a little... prickly.",
+      "condition": "Equip the Brambles key where it can be found in Thorny Garden"
+    },
+    "bad_hair_guitar": {
+      "name": "Rocking The Hairstyle!",
+      "description": "Having a bad hair day might as well be a part of the metal experience.",
+      "condition": "Find and play the guitar in Danaë's Bad Hair Day"
+    },
+    "amillusion_forest_bridge": {
+      "name": "Forest of Tranquil",
+      "description": "The freshness of water is what gives it life.",
+      "condition": "Visit the bridge in the Forest"
+    },
+    "playing_with_roxane": {
+      "name": "Let's Play Together!",
+      "description": "What shall we play next?",
+      "condition": "Hang out with Roxane in Dreaming Lozère"
     }
   },
   "muma": {
@@ -10071,6 +10134,11 @@
       "name": "映射命运的地平线",
       "description": "你称为自由意志的东西不过是被外力触发的预定输出的映射。\n你来到这里是不可避免的。",
       "condition": "抵达Distant Red Horizon"
+    },
+    "yes_qiu_slay": {
+      "name": "Face The Slayer",
+      "description": "Beneath the cold of the frozen star, you feel the fright, and you know I'm near.",
+      "condition": "Obtain the Slayer Delusion. If you have already unlocked it, return to Freezing Point."
     }
   },
   "mikan": {
@@ -10919,6 +10987,11 @@
       "name": "快乐小鹿",
       "description": "我是一只小鹿！",
       "condition": "获得效果Deer。若已解锁，请返回Boiling Water World获得该效果处。"
+    },
+    "purple_nurse": {
+      "name": "A Hardworking Nurse",
+      "description": "Is she caring for all the patients on her own?",
+      "condition": "Interact with the purple nurse in the Emergency Room"
     }
   },
   "tsushin": {
@@ -11401,6 +11474,11 @@
       "name": "日月守望之地",
       "description": "欢迎来到我的房间！",
       "condition": "关掉Tricolor Park：Orgel House的灯"
+    },
+    "nostalgic_book_theme": {
+      "name": "A Scene Both Lonely and Happy",
+      "description": "Only the world of fairy tales tells us what is truly real.",
+      "condition": "Interact with the book that changes your menu theme in Azure Abode"
     }
   },
   "if": {
@@ -11922,14 +12000,14 @@
       "condition": "在Brother's Ward见证稀有事件"
     },
     "aruben_be_ballin_effect": {
-      "name": "将就穿的运动服",
-      "description": "虽然有点当视野，拿下来还是太麻烦了",
-      "condition": "取得篮球效果"
+      "name": "Improvised Sports Attire",
+      "description": "Seeing might be an issue, but it'd be too much effort to take it off at this point.",
+      "condition": "Obtain the Basketball effect. If you have already obtained it, return to the Playground."
     },
     "cold_sign_effect": {
-      "name": "所有告示牌都指向Aruben",
-      "description": "谁把告示牌放这里的？",
-      "condition": "取得告示牌效果"
+      "name": "All Signs Point to Aruben",
+      "description": "Wonder who put this here?",
+      "condition": "Obtain the Sign effect. If you have already unlocked it, return where it can be found in the Speak sub-area of Plants Hell."
     }
   },
   "loveyou": {
