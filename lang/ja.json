@@ -8182,6 +8182,45 @@
       "description": "For just a moment, it feels like everything will be okay.",
       "condition": "Visit Microbiome World"
     },
+    "cat_country_visit": {
+      "name": "A Beautiful Place Out in the Country",
+      "description": "Home of the fuzzy buddies.",
+      "condition": "Visit Cat Countryside"
+    },
+    "magic_seabus": {
+      "name": "The Magic Seabus",
+      "description": "All aboard!",
+      "condition": "See the bus in Atlantis"
+    },
+    "witch_heaven_chase": {
+      "name": "The Fall from Heaven to Purgatory",
+      "description": "Do You Reject the Witch's Blessing?",
+      "condition": "Get caught in Witch Heaven"
+    },
+    "2kki_candyhead": {
+      "name": "Candyhead",
+      "description": "A large head full of nothing but sweetness",
+      "condition": "See the Candyhead creature in Sugar World"
+    },
+    "observatory_in_palace": {
+      "name": "Starless Observatory",
+      "description": "Urotsuki has elite ball knowledge, huh?",
+      "condition": "Visit the Observatory Area in Whispering Palace"
+    },
+    "inverted_eye_color_facility": {
+      "name": "Visions of Deteriorating Colors",
+      "description": "So come and paint my world yellow and blue...",
+      "condition": "Flip the switch in the eye room to the Underground Color Facility"
+    },
+    "forest_interlude_visit": {
+      "name": "The Prelude",
+      "condition": "Visit Forest Interlude"
+    },
+    "hellish_rabbit_lady": {
+      "name": "Mischievous Rabbit",
+      "description": "I'm bored. Anything fun out there?",
+      "condition": "Equip the Rabelle Mask in Hellish Village"
+    },
     "fossilized_haven": {
       "name": "Photoluminescent Fungus",
       "description": "A remnant of a specimen from eras of rainfall dreams.",
@@ -9009,6 +9048,10 @@
       "name": "生い茂る光",
       "description": "まるで地の奥の花火大会を見ているようだ……",
       "condition": "Overgrown Cavesに到達する"
+    },
+    "someday_glitch_world": {
+      "name": "The Glitchfire Headphase",
+      "condition": "Visit Glitch World"
     }
   },
   "unevendream": {
@@ -9699,10 +9742,30 @@
       "description": "きらめく蒼の中で、私は輪郭を失う。",
       "condition": "Tropical Sea Iceに到達する"
     },
+    "amillusion_thorny_key": {
+      "name": "Danaë Thorn-hands",
+      "description": "Things are about to get a little... prickly.",
+      "condition": "Equip the Brambles key where it can be found in Thorny Garden"
+    },
+    "bad_hair_guitar": {
+      "name": "Rocking The Hairstyle!",
+      "description": "Having a bad hair day might as well be a part of the metal experience.",
+      "condition": "Find and play the guitar in Danaë's Bad Hair Day"
+    },
+    "amillusion_forest_bridge": {
+      "name": "Forest of Tranquil",
+      "description": "The freshness of water is what gives it life.",
+      "condition": "Visit the bridge in the Forest"
+    },
+    "playing_with_roxane": {
+      "name": "Let's Play Together!",
+      "description": "What shall we play next?",
+      "condition": "Hang out with Roxane in Dreaming Lozère"
+    },
     "danae_pajamas": {
-      "name": "Fais De Beaux Rêves",
+      "name": "Fais de Beaux Rêves",
       "description": "Yaawnnn",
-      "condition": "Wear the pajamas in Danae's room"
+      "condition": "Wear the pajamas in Danaë's room"
     }
   },
   "muma": {
@@ -10138,6 +10201,11 @@
       "name": "運命を映す地平線",
       "description": "貴方が自由意志と呼ぶのは、台本に従って外部の力で引き起こされたものに過ぎない。\n貴方がここに辿り着くのも、必然だった。",
       "condition": "Distant Red Horizonに到達する"
+    },
+    "yes_qiu_slay": {
+      "name": "Face The Slayer",
+      "description": "Beneath the cold of the frozen star, you feel the fright, and you know I'm near.",
+      "condition": "Obtain the Slayer Delusion. If you have already unlocked it, return to Freezing Point."
     }
   },
   "mikan": {
@@ -10986,6 +11054,11 @@
       "name": "しあわせ子鹿",
       "description": "ぼくはちっちゃな鹿！",
       "condition": "鹿のエフェクトを入手する、すでに入手している場合はBoiling Water Worldの見つけた場所に行く。"
+    },
+    "purple_nurse": {
+      "name": "A Hardworking Nurse",
+      "description": "Is she caring for all the patients on her own?",
+      "condition": "Interact with the purple nurse in the Emergency Room"
     }
   },
   "tsushin": {
@@ -11473,6 +11546,11 @@
       "name": "太陽と月が見守る場所",
       "description": "わたしの部屋でようこそ！",
       "condition": "オルゴールハウスの電気を消す"
+    },
+    "nostalgic_book_theme": {
+      "name": "A Scene Both Lonely and Happy",
+      "description": "Only the world of fairy tales tells us what is truly real.",
+      "condition": "Interact with the book that changes your menu theme in Azure Abode"
     }
   },
   "if": {
@@ -12048,12 +12126,12 @@
       "description": "今日は電車が遅れていた。",
       "condition": "Orange Railroad Crossingに到達する"
     },
-    "loveyou_sailor_effect": {
+    "sailor_effect_aitsuki": {
       "name": "Aitsuki and the Great Blue Sea",
       "description": "If only I had a boat...",
       "condition": "Obtain the Sailor Effect. If you have already unlocked it, return to Hometown."
     },
-    "loveyou_black_lake_event": {
+    "black_lake_event": {
       "name": "Night Sky With You",
       "description": "These stars still hold a memory I cherish.",
       "condition": "See the event in Black Lake"
@@ -12063,22 +12141,22 @@
       "description": "Among countless bodies, the demon ram alone laughs.",
       "condition": "Obtain the Goat effect. If you have already unlocked it, return to Black Market."
     },
-    "loveyou_cherry_bar": {
+    "cherry_bar": {
       "name": "Cherry Vinyl",
       "description": "Welcome to the music corner!",
       "condition": "Reach Cherry Bar in Love Drains"
     },
-    "loveyou_neon_bear_rave": {
+    "neon_bear_rave": {
       "name": "COME TO TEDDY",
       "description": "Just a fuzzy Bear listening to her strange tunes.",
       "condition": "Obtain the MP3 player menu theme. If you already obtained it, return to Neon Bear Disco."
     },
-    "loveyou_minus30_event": {
+    "minus30_event": {
       "name": "Oh Dear Diary, I Met A Boy...",
       "description": "...he made my doll heart light up with joy!",
       "condition": "See the First Date event in -30"
     },
-    "loveyou_midnight_view": {
+    "midnight_view_balcony": {
       "name": "Eerie Starlit View",
       "description": "Look at the night and never come back...",
       "condition": "Visit the Midnight View subarea in Gothic Purple Abyss"
