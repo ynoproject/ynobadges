@@ -2236,7 +2236,7 @@
     },
     "monochrome_depression": {
       "name": "うつ",
-      "condition": "See the monochrome girl in MAP1679 with the Glasses effect"
+      "condition": "うつに到達する"
     },
     "duckling_bathhouse": {
       "name": "ピー！プー！",
@@ -8154,72 +8154,92 @@
       "condition": "ルインステーション:草原に到達する"
     },
     "rose_church_pianist": {
-      "name": "Symphony No. 7",
+      "name": "交響曲第7番 ",
       "description": "影の音符について",
       "condition": "光と水面:教会エリアで演奏する人影を見る"
     },
     "butchers_wrath_bacon": {
-      "name": "もう生じゃない",
-      "description": "こんがり焼けた美味しい豚肉！",
-      "condition": "傭豚場でマージナルのエフェクトのレアな姿を装備し、イベントを見る"
+      "name": "Not Raw Anymore",
+      "description": "Deliciously Cooked Pork.",
+      "condition": "Trigger the Butcher's Wrath event in Mutant Pig Farm"
     },
     "oblique_hell_train": {
-      "name": "昼と夜の列車",
-      "description": "ローカル列車に乗ってどこまでも",
-      "condition": "湖のほとり:森の駅エリアと赤い迷路:ネガエリアにある電車に乗り、座って眠る"
+      "name": "Day and Night Trains",
+      "description": "I'll take a ride on the local train...",
+      "condition": "Sleep in the two sections of the Oblique Hell traincar"
     },
     "2kki_mansion_balcony": {
-      "name": "dedp_63 To Blipへ捧ぐ",
-      "description": "かつて宇宙からの旋律を奏でていたバルコニー",
-      "condition": "大正屋敷:小部屋のバルコニーに到達する"
+      "name": "To Blip_63",
+      "description": "TA balcony that once played a melody from space",
+      "condition": "Enter the balcony in Mansion"
     },
     "legacy_ruins_figure": {
-      "name": "！！？？＃%？！",
-      "condition": "裏扉部屋遺構:紫タイルの間で倒れた人を見る"
+      "name": "!!??#%?!",
+      "condition": "See the figure lying on the floor in the magenta sub-area of Legacy of Ruin"
     },
     "microbiome_world_visit": {
-      "name": "微生物",
-      "description": "ほんの一瞬だけ、すべてがうまくいくような気がする。",
-      "condition": "micro biomeに到達する"
+      "name": "Microbial",
+      "description": "For just a moment, it feels like everything will be okay.",
+      "condition": "Visit Microbiome World"
     },
     "cat_country_visit": {
-      "name": "田舎の美麗な場所",
-      "description": "ふわふわの仲間たちの住みか。",
-      "condition": "コーラル崖に到達する"
+      "name": "A Beautiful Place Out in the Country",
+      "description": "Home of the fuzzy buddies.",
+      "condition": "Visit Cat Countryside"
     },
     "magic_seabus": {
-      "name": "魔法の海中バス",
-      "description": "どうぞご乗車ください！",
-      "condition": "沖:北クレバスエリアでバスを見る"
+      "name": "The Magic Seabus",
+      "description": "All aboard!",
+      "condition": "See the bus in Atlantis"
     },
     "witch_heaven_chase": {
-      "name": "天国から煉獄への転落",
-      "description": "魔法少女の祝福を拒むのか？",
-      "condition": "魔女っ娘スカイで魔法少女に捕まる"
+      "name": "The Fall from Heaven to Purgatory",
+      "description": "Do You Reject the Witch's Blessing?",
+      "condition": "Get caught in Witch Heaven"
     },
     "2kki_candyhead": {
-      "name": "キャンディヘッド",
-      "description": "甘味料しか詰まっていない大きな頭",
-      "condition": "シュガー:おもてでピンクときいろのせいぶつを見つける"
+      "name": "Candyhead",
+      "description": "A large head full of nothing but sweetness",
+      "condition": "See the Candyhead creature in Sugar World"
     },
     "observatory_in_palace": {
-      "name": "星なき天文台",
-      "description": "うろつきは球技の知識がエリート級ってわけか？",
-      "condition": "瑠璃の聖堂:球遺場に到達する"
+      "name": "Starless Observatory",
+      "description": "Urotsuki has elite ball knowledge, huh?",
+      "condition": "Visit the Observatory Area in Whispering Palace"
     },
     "inverted_eye_color_facility": {
-      "name": "劣化していく色の幻視",
-      "description": "だから来て、私の世界を黄色と青で塗り替えて……",
-      "condition": "思索の浅瀬:目の小部屋から地底虹工場へ行く"
+      "name": "Visions of Deteriorating Colors",
+      "description": "So come and paint my world yellow and blue...",
+      "condition": "Flip the switch in the eye room to the Underground Color Facility"
     },
     "forest_interlude_visit": {
-      "name": "前奏曲",
-      "condition": "陰森の橋に到達する"
+      "name": "The Prelude",
+      "condition": "Visit Forest Interlude"
     },
     "hellish_rabbit_lady": {
-      "name": "いたずら好きなうさぎ",
-      "description": "何か面白いことないかなぁ？",
-      "condition": "黄泉瓦の町:鳥かごの小部屋でおさげのウサギ仮面のお面を装備する"
+      "name": "Mischievous Rabbit",
+      "description": "I'm bored. Anything fun out there?",
+      "condition": "Equip the Rabelle Mask in Hellish Village"
+    },
+    "fossilized_haven": {
+      "name": "Photoluminescent Fungus",
+      "description": "A remnant of a specimen from eras of rainfall dreams.",
+      "condition": "Enter the glowing mushroom cavern in Floating Catacombs without scaring its inhabitants"
+    },
+    "2kki_eel_dragon": {
+      "name": "Reptile or Fish?",
+      "description": "Either way, it's delicious.",
+      "condition": "See the effect reactions from the Eel Dragon"
+    },
+    "regular_atelier_visit": {
+      "name": "Reminiscent Workshop",
+      "description": "I've been to these paintings before!",
+      "condition": "Visit Atelier"
+    },
+    "sunlit_winter_woods_visit": {
+      "name": "A Bright Winter Day",
+      "description": "When it's snowing, are the snowflakes falling down, or are you flying up?",
+      "condition": "Visit Sunlit Winter Woods"
     }
   },
   "flow": {
@@ -8538,6 +8558,21 @@
       "name": "痛みの部屋",
       "description": "痛い、痛い、痛い",
       "condition": "血膿錆部屋のイベントを最後まで見る"
+    },
+    "whistle_effect_flow": {
+      "name": "Attention!",
+      "description": "Bweeeep!",
+      "condition": "Obtain the Whistle effect. If you have already unlocked it, return to where it can be found in Visceral World."
+    },
+    "sugar_float_days": {
+      "name": "Tea Time",
+      "description": "Would you like one lump or two?",
+      "condition": "View the Sugar Float Days event"
+    },
+    "angry_speedy_kaibutsu": {
+      "name": "Aggravated Battery",
+      "description": "You brought this on yourself.",
+      "condition": "Get caught by the Shinsoku Kaibutsu in the Blood Maze"
     }
   },
   "prayers": {
@@ -9016,7 +9051,7 @@
     },
     "someday_glitch_world": {
       "name": "The Glitchfire Headphase",
-      "condition": "Glitch Worldに到達する"
+      "condition": "Visit Glitch World"
     }
   },
   "unevendream": {
@@ -9708,24 +9743,29 @@
       "condition": "Tropical Sea Iceに到達する"
     },
     "amillusion_thorny_key": {
-      "name": "ダナエの棘の手",
-      "description": "その選択はちょっと……茨の道じゃない？",
-      "condition": "茨のキーをThorny Gardenの見つけた場所で使う"
+      "name": "Danaë Thorn-hands",
+      "description": "Things are about to get a little... prickly.",
+      "condition": "Equip the Brambles key where it can be found in Thorny Garden"
     },
     "bad_hair_guitar": {
-      "name": "ロック・ヘアスタイル！",
-      "description": "ぐちゃぐちゃの髪もロックの醍醐味！",
-      "condition": "Danaë's Bad Hair Dayでギターを見つけて演奏する"
+      "name": "Rocking The Hairstyle!",
+      "description": "Having a bad hair day might as well be a part of the metal experience.",
+      "condition": "Find and play the guitar in Danaë's Bad Hair Day"
     },
     "amillusion_forest_bridge": {
-      "name": "静けさの森",
-      "description": "清らかな水が、森に生命を吹き込む",
-      "condition": "Forestにある橋に到達する"
+      "name": "Forest of Tranquil",
+      "description": "The freshness of water is what gives it life.",
+      "condition": "Visit the bridge in the Forest"
     },
     "playing_with_roxane": {
-      "name": "いっしょにあそぼ！",
-      "description": "次はどんなふうにあそぶ？",
-      "condition": "Dreaming LozèreでRoxaneと遊ぶ"
+      "name": "Let's Play Together!",
+      "description": "What shall we play next?",
+      "condition": "Hang out with Roxane in Dreaming Lozère"
+    },
+    "danae_pajamas": {
+      "name": "Fais de Beaux Rêves",
+      "description": "Yaawnnn",
+      "condition": "Wear the pajamas in Danaë's room"
     }
   },
   "muma": {
@@ -10165,7 +10205,7 @@
     "yes_qiu_slay": {
       "name": "Face The Slayer",
       "description": "Beneath the cold of the frozen star, you feel the fright, and you know I'm near.",
-      "condition": "SlayerのDelusionを入手する、すでに入手している場合はFreezing Pointにもう一度行く。"
+      "condition": "Obtain the Slayer Delusion. If you have already unlocked it, return to Freezing Point."
     }
   },
   "mikan": {
@@ -11016,9 +11056,9 @@
       "condition": "鹿のエフェクトを入手する、すでに入手している場合はBoiling Water Worldの見つけた場所に行く。"
     },
     "purple_nurse": {
-      "name": "働き者の看護師",
-      "description": "彼女一人で患者全員を看ているのだろうか？",
-      "condition": "Emergency Roomで紫の看護師に話しかける"
+      "name": "A Hardworking Nurse",
+      "description": "Is she caring for all the patients on her own?",
+      "condition": "Interact with the purple nurse in the Emergency Room"
     }
   },
   "tsushin": {
@@ -11390,6 +11430,11 @@
       "name": "ドレスのためのドレッシング・レシピ",
       "description": "どちらか悩む必要がある？どちらも着ればいいじゃない。",
       "condition": "Goth DressとDollのエフェクトを組み合わせる"
+    },
+    "abandoned_pool_mural": {
+      "name": "Drained and Forgotten",
+      "description": "This place is creepier than I remember...",
+      "condition": "Approach the mural on the wall in the Abandoned Swimming Pool"
     }
   },
   "nostalgic": {
@@ -11503,9 +11548,9 @@
       "condition": "オルゴールハウスの電気を消す"
     },
     "nostalgic_book_theme": {
-      "name": "孤独と幸福の景色",
-      "description": "本当の世界について教えてくれるのは、おとぎ話の世界だけ。",
-      "condition": "日が差す部屋にある本を調べてメニュータイプを変更する"
+      "name": "A Scene Both Lonely and Happy",
+      "description": "Only the world of fairy tales tells us what is truly real.",
+      "condition": "Interact with the book that changes your menu theme in Azure Abode"
     }
   },
   "if": {
@@ -12080,6 +12125,46 @@
       "name": "日暮れの鉄道",
       "description": "今日は電車が遅れていた。",
       "condition": "Orange Railroad Crossingに到達する"
+    },
+    "sailor_effect_aitsuki": {
+      "name": "Aitsuki and the Great Blue Sea",
+      "description": "If only I had a boat...",
+      "condition": "Obtain the Sailor Effect. If you have already unlocked it, return to Hometown."
+    },
+    "black_lake_event": {
+      "name": "Night Sky With You",
+      "description": "These stars still hold a memory I cherish.",
+      "condition": "See the event in Black Lake"
+    },
+    "loveyou_is_goated": {
+      "name": "Little Devil Goat",
+      "description": "Among countless bodies, the demon ram alone laughs.",
+      "condition": "Obtain the Goat effect. If you have already unlocked it, return to Black Market."
+    },
+    "cherry_bar": {
+      "name": "Cherry Vinyl",
+      "description": "Welcome to the music corner!",
+      "condition": "Reach Cherry Bar in Love Drains"
+    },
+    "neon_bear_rave": {
+      "name": "COME TO TEDDY",
+      "description": "Just a fuzzy Bear listening to her strange tunes.",
+      "condition": "Obtain the MP3 player menu theme. If you already obtained it, return to Neon Bear Disco."
+    },
+    "minus30_event": {
+      "name": "Oh Dear Diary, I Met A Boy...",
+      "description": "...he made my doll heart light up with joy!",
+      "condition": "See the First Date event in -30"
+    },
+    "midnight_view_balcony": {
+      "name": "Eerie Starlit View",
+      "description": "Look at the night and never come back...",
+      "condition": "Visit the Midnight View subarea in Gothic Purple Abyss"
+    },
+    "just_smile_dog_aesprite": {
+      "name": "smile.ase",
+      "description": "You've seen it, now it has cursed you.",
+      "condition": "Find a familiar dog in Sunset Skyscrapers"
     }
   }
 }
