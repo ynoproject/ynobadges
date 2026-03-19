@@ -8166,6 +8166,26 @@
       "name": "Microbial",
       "description": "For just a moment, it feels like everything will be okay.",
       "condition": "Visit Microbiome World"
+    },
+    "fossilized_haven": {
+      "name": "Photoluminescent Fungus",
+      "description": "A remnant of a specimen from eras of rainfall dreams.",
+      "condition": "Enter the glowing mushroom cavern in Floating Catacombs without scaring its inhabitants"
+    },
+    "2kki_eel_dragon": {
+      "name": "Reptile or Fish?",
+      "description": "Either way, it's delicious.",
+      "condition": "See the effect reactions from the Eel Dragon"
+    },
+    "regular_atelier_visit": {
+      "name": "Reminiscent Workshop",
+      "description": "I've been to these paintings before!",
+      "condition": "Visit Atelier"
+    },
+    "sunlit_winter_woods_visit": {
+      "name": "A Bright Winter Day",
+      "description": "When it's snowing, are the snowflakes falling down, or are you flying up?",
+      "condition": "Visit Sunlit Winter Woods"
     }
   },
   "flow": {
@@ -8484,6 +8504,21 @@
       "name": "Painful Room",
       "description": "It hurt, it hurt, it hurt",
       "condition": "See the Blood, Pus, Rust event"
+    },
+    "whistle_effect_flow": {
+      "name": "Attention!",
+      "description": "Bweeeep!",
+      "condition": "Obtain the Whistle effect. If you have already unlocked it, return to where it can be found in Visceral World."
+    },
+    "sugar_float_days": {
+      "name": "Tea Time",
+      "description": "Would you like one lump or two?",
+      "condition": "View the Sugar Float Days event"
+    },
+    "angry_speedy_kaibutsu": {
+      "name": "Aggravated Battery",
+      "description": "You brought this on yourself.",
+      "condition": "Get caught by the Shinsoku Kaibutsu in the Blood Maze"
     }
   },
   "prayers": {
@@ -9648,6 +9683,11 @@
       "name": "Bathed in Ocean Light",
       "description": "Within the shimmering blue, I lose my edges.",
       "condition": "Visit Tropical Sea Ice"
+    },
+    "danae_pajamas": {
+      "name": "Fais De Beaux Rêves",
+      "description": "Yaawnnn",
+      "condition": "Wear the pajamas in Danae's room"
     }
   },
   "muma": {
@@ -11302,6 +11342,11 @@
       "name": "Dressing the Dress Recipe",
       "description": "Why choose? Wear them both.",
       "condition": "Combine the Goth Dress and Doll effects"
+    },
+    "abandoned_pool_mural": {
+      "name": "Drained and Forgotten",
+      "description": "This place is creepier than I remember...",
+      "condition": "Approach the mural on the wall in the Abandoned Swimming Pool"
     }
   },
   "nostalgic": {
@@ -11987,6 +12032,46 @@
       "name": "Sunset Railroad",
       "description": "The train came late today.",
       "condition": "Visit Orange Railroad Crossing"
+    },
+    "loveyou_sailor_effect": {
+      "name": "Aitsuki and the Great Blue Sea",
+      "description": "If only I had a boat...",
+      "condition": "Obtain the Sailor Effect. If you have already unlocked it, return to Hometown."
+    },
+    "loveyou_black_lake_event": {
+      "name": "Night Sky With You",
+      "description": "These stars still hold a memory I cherish.",
+      "condition": "See the event in Black Lake"
+    },
+    "loveyou_is_goated": {
+      "name": "Little Devil Goat",
+      "description": "Among countless bodies, the demon ram alone laughs.",
+      "condition": "Obtain the Goat effect. If you have already unlocked it, return to Black Market."
+    },
+    "loveyou_cherry_bar": {
+      "name": "Cherry Vinyl",
+      "description": "Welcome to the music corner!",
+      "condition": "Reach Cherry Bar in Love Drains"
+    },
+    "loveyou_neon_bear_rave": {
+      "name": "COME TO TEDDY",
+      "description": "Just a fuzzy Bear listening to her strange tunes.",
+      "condition": "Obtain the MP3 player menu theme. If you already obtained it, return to Neon Bear Disco."
+    },
+    "loveyou_minus30_event": {
+      "name": "Oh Dear Diary, I Met A Boy...",
+      "description": "...he made my doll heart light up with joy!",
+      "condition": "See the First Date event in -30"
+    },
+    "loveyou_midnight_view": {
+      "name": "Eerie Starlit View",
+      "description": "Look at the night and never come back...",
+      "condition": "Visit the Midnight View subarea in Gothic Purple Abyss"
+    },
+    "just_smile_dog_aesprite": {
+      "name": "smile.ase",
+      "description": "You've seen it, now it has cursed you.",
+      "condition": "Find a familiar dog in Sunset Skyscrapers"
     }
   }
 }
