@@ -117,6 +117,14 @@ if (import.meta.main) (async function() {
       try {
         const data = JSON.parse(await Deno.readTextFile(join(gameDir, fileEntry.name)));
         parse(TCondition, data);
+
+        const hasBoundsCheck = "mapX1" in data || "mapX2" in data || "mapY1" in data || "mapY2" in data;
+        if (hasBoundsCheck) {
+            const completed = "trigger" in data || "switchId" in data || "varId" in data;
+            if (!completed) {
+                emit("error", `conditionId ${name} has bounds check with no trigger/switch/variable`);
+            }
+        }
       } catch (e) {
         emit('error', e.message || e, join('conditions', game, fileEntry.name));
       }
