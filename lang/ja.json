@@ -8240,6 +8240,50 @@
       "name": "まぶしい冬の日",
       "description": "雪が降っているとき、雪は地に落ちてゆくのか、それともあなたが上へ昇っているのか？",
       "condition": "大仏雪原に到達する"
+    },
+    "hemophilic_island_girl": {
+      "name": "Abstracted Girl",
+      "description": "We're not quite sure what her deal is, but we're glad she's here nonetheless.",
+      "condition": "Interact with the girl in Hemophilic Islands"
+    },
+    "everblue_city_visit": {
+      "name": "Ultramarine Metropolis",
+      "description": "Singing these big city blues...",
+      "condition": "Visit Everblue City"
+    },
+    "silhouette_road_visit": {
+      "name": "On A Trip",
+      "description": "It's either my way or the highway.",
+      "condition": "Visit Silhouette Road"
+    },
+    "stone_hand_land_visit_ok": {
+      "name": "Stone Hand Flatland Okay",
+      "description": "A great match with Menu Theme 8, okay.",
+      "condition": "Visit Stone Hand Flatland"
+    },
+    "painted_landscape_visit": {
+      "name": "Uro ni Kakeru",
+      "description": "You and me, skies above, so wide it brings on the true night in you...",
+      "condition": "Visit Painted Landscape"
+    },
+    "desu_and_onee_visit": {
+      "name": "Oh, hello there!",
+      "description": "What are you staring at?",
+      "condition": "Interact with Desu chan and Onee chan at the Highway Pier"
+    },
+    "flesh_path_frog_teleport": {
+      "name": "Insatiable Amphibian",
+      "description": "Deep within the visceral road, there lies an eternally hungry beast...",
+      "condition": "Enter Downfall Garden A through Flesh Paths World"
+    },
+    "raining_in_star_cubes_world": {
+      "name": "Midnight Cubes",
+      "condition": "Use the Teru Teru Bōzu effect in Star Cubes World"
+    },
+    "cat_cthulhu": {
+      "name": "Cathulhu",
+      "description": "Despite its appearance, it still has the mind of a cat like any other.",
+      "condition": "Find the photorealistic cat monster in Calico Forest"
     }
   },
   "flow": {
@@ -8573,6 +8617,11 @@
       "name": "加重暴行",
       "description": "自業自得だ。",
       "condition": "血液広間で神速カイブツに捕まる"
+    },
+    "kill_smile": {
+      "name": "It's your own decision, but your home is now your prison. You forgot that without me you won't go far.",
+      "description": "OWW OWW STOP HITTING MEE!",
+      "condition": "As Rust, kill Smile in cold blood"
     }
   },
   "prayers": {
@@ -9052,6 +9101,11 @@
     "someday_glitch_world": {
       "name": "The Glitchfire Headphase",
       "condition": "Glitch Worldに到達する"
+    },
+    "roses_and_art": {
+      "name": "By Any Other Name",
+      "description": "Can only bloom in wholesome (celestial) bodies",
+      "condition": "Make more roses appear and read the rose sign in Art Gallery"
     }
   },
   "unevendream": {
@@ -11059,6 +11113,11 @@
       "name": "働き者の看護師",
       "description": "彼女一人で患者全員を看ているのだろうか？",
       "condition": "Emergency Roomで紫の看護師に話しかける"
+    },
+    "candle_to_random_space": {
+      "name": "Dim Candle Light",
+      "description": "Would you like to go with me?",
+      "condition": "Interact with the person with a candle on their head who takes you to Random Space in Twilight Apartments"
     }
   },
   "tsushin": {
@@ -12165,6 +12224,25 @@
       "name": "smile.ase",
       "description": "それを見た時、あなたは呪われた。",
       "condition": "Sunset Skyscrapersで見覚えのある犬を見つける"
+    },
+    "here_comes_the_bride": {
+      "name": "Death Love",
+      "description": "Even in death, I'm still trying to find my groom.",
+      "condition": "Obtain the Bride Effect. If you have already obtained it, return to the area where you originally found it."
+    },
+    "loveyou_yearning_visit": {
+      "name": "Corrupted Yearning",
+      "condition": "Reach Yearning"
+    },
+    "camellia_effect": {
+      "name": "Spring Storm",
+      "description": "We'll say goodbye, and if we fall in love again, let's smile together.",
+      "condition": "Obtain the Camellia effect. If you have already unlocked it, return to Illusion World."
+    },
+    "biolumin_ocean_visit": {
+      "name": "Neon Blacklight Pool Party",
+      "description": "PARTY LIKE IT'S 2008!!! RAAAWWWWRRRR!!!!!!!",
+      "condition": "Visit Bioluminescent Ocean"
     }
   }
 }
