@@ -4739,7 +4739,7 @@
       }
     },
     "cube_of_sweets": {
-      "name": "キューブ状のデザート",
+      "name": "Cubic Sweets",
       "description": "3種類のフレーバーが登場！",
       "condition": "スイートキューブに到達する"
     },
@@ -6379,7 +6379,7 @@
     },
     "rock_calico_forest": {
       "name": "頭巾猫の故郷",
-      "description": "なんて素敵な眺めなの！",
+      "description": "なんて素敵な眺めなの",
       "condition": "三毛猫の森:山頂の景色に到達する"
     },
     "hidden_glowing_stars_world": {
@@ -6481,7 +6481,7 @@
     },
     "glitch_kaprekar_number_zone": {
       "name": "カプレカー定数",
-      "description": "これは特定の数学的アルゴリズムにおける不動点だったに違いない……",
+      "description": "これは特定の数学的アルゴリズムにおける不動点だったに違いない",
       "condition": "63317664で真っ赤な立方体を調べる"
     },
     "ancient_blue_battlefield": {
@@ -8170,7 +8170,7 @@
     },
     "2kki_mansion_balcony": {
       "name": "dedp_63 To Blipへ捧ぐ",
-      "description": "かつて宇宙からの旋律を奏でていたバルコニー",
+      "description": "A balcony that once played a melody from space",
       "condition": "大正屋敷:小部屋のバルコニーに到達する"
     },
     "legacy_ruins_figure": {
@@ -8220,6 +8220,50 @@
       "name": "いたずら好きなうさぎ",
       "description": "何か面白いことないかなぁ？",
       "condition": "黄泉瓦の町:鳥かごの小部屋でおさげのウサギ仮面のお面を装備する"
+    },
+    "hemophilic_island_girl": {
+      "name": "Abstracted Girl",
+      "description": "We're not quite sure what her deal is, but we're glad she's here nonetheless.",
+      "condition": "Interact with the girl in Hemophilic Islands"
+    },
+    "everblue_city_visit": {
+      "name": "Ultramarine Metropolis",
+      "description": "Singing these big city blues...",
+      "condition": "Visit Everblue City"
+    },
+    "silhouette_road_visit": {
+      "name": "On A Trip",
+      "description": "It's either my way or the highway.",
+      "condition": "Visit Silhouette Road"
+    },
+    "stone_hand_land_visit_ok": {
+      "name": "Stone Hand Flatland Okay",
+      "description": "A great match with Menu Theme 8, okay.",
+      "condition": "Visit Stone Hand Flatland"
+    },
+    "painted_landscape_visit": {
+      "name": "Uro ni Kakeru",
+      "description": "You and me, skies above, so wide it brings on the true night in you...",
+      "condition": "Visit Painted Landscape"
+    },
+    "desu_and_onee_visit": {
+      "name": "Oh, hello there!",
+      "description": "What are you staring at?",
+      "condition": "Interact with Desu chan and Onee chan at the Highway Pier"
+    },
+    "flesh_path_frog_teleport": {
+      "name": "Insatiable Amphibian",
+      "description": "Deep within the visceral road, there lies an eternally hungry beast...",
+      "condition": "Enter Downfall Garden A through Flesh Paths World"
+    },
+    "raining_in_star_cubes_world": {
+      "name": "Midnight Cubes",
+      "condition": "Use the Teru Teru Bōzu effect in Star Cubes World"
+    },
+    "cat_cthulhu": {
+      "name": "Cathulhu",
+      "description": "Despite its appearance, it still has the mind of a cat like any other.",
+      "condition": "Find the photorealistic cat monster in Calico Forest"
     }
   },
   "flow": {
@@ -8516,9 +8560,9 @@
       "condition": "じょうろのエフェクトを入手する、すでに入手している場合は植物にもう一度行く。"
     },
     "attack_smile": {
-      "name": "ハ、ハハッ、ハハ",
-      "description": "今なんて言った？",
-      "condition": "イレズミ妹をてつパイプで殴る"
+      "name": "It's your own decision, but your home is now your prison. You forgot that without me you won't go far.",
+      "description": "OWW OWW STOP HITTING MEE!",
+      "condition": "As Rust, kill Smile in cold blood"
     },
     "red_eye": {
       "name": "赤い目から赤い目へ",
@@ -8538,6 +8582,11 @@
       "name": "痛みの部屋",
       "description": "痛い、痛い、痛い",
       "condition": "血膿錆部屋のイベントを最後まで見る"
+    },
+    "kaibutsu_blood_maze": {
+      "name": "加重暴行",
+      "description": "自業自得だ。",
+      "condition": "血液広間で神速カイブツに捕まる"
     }
   },
   "prayers": {
@@ -9017,6 +9066,11 @@
     "someday_glitch_world": {
       "name": "The Glitchfire Headphase",
       "condition": "Glitch Worldに到達する"
+    },
+    "roses_and_art": {
+      "name": "By Any Other Name",
+      "description": "Can only bloom in wholesome (celestial) bodies",
+      "condition": "Make more roses appear and read the rose sign in Art Gallery"
     }
   },
   "unevendream": {
@@ -9302,7 +9356,7 @@
     },
     "angel_rosetta_cliff": {
       "name": "ロゼッタの崖",
-      "description": "あれはなんて言ってるんだ？",
+      "description": "彼女はいくつもの言語を話す。",
       "condition": "Violet CavesのRosetta Cliffで天使を見る"
     },
     "malice_house_star_field": {
@@ -11019,6 +11073,11 @@
       "name": "働き者の看護師",
       "description": "彼女一人で患者全員を看ているのだろうか？",
       "condition": "Emergency Roomで紫の看護師に話しかける"
+    },
+    "candle_to_random_space": {
+      "name": "Dim Candle Light",
+      "description": "Would you like to go with me?",
+      "condition": "Interact with the person with a candle on their head who takes you to Random Space in Twilight Apartments"
     }
   },
   "tsushin": {
@@ -12080,6 +12139,25 @@
       "name": "日暮れの鉄道",
       "description": "今日は電車が遅れていた。",
       "condition": "Orange Railroad Crossingに到達する"
+    },
+    "here_comes_the_bride": {
+      "name": "Death Love",
+      "description": "Even in death, I'm still trying to find my groom.",
+      "condition": "Obtain the Bride Effect. If you have already obtained it, return to the area where you originally found it."
+    },
+    "loveyou_yearning_visit": {
+      "name": "Corrupted Yearning",
+      "condition": "Reach Yearning"
+    },
+    "camellia_effect": {
+      "name": "Spring Storm",
+      "description": "We'll say goodbye, and if we fall in love again, let's smile together.",
+      "condition": "Obtain the Camellia effect. If you have already unlocked it, return to Illusion World."
+    },
+    "biolumin_ocean_visit": {
+      "name": "Neon Blacklight Pool Party",
+      "description": "PARTY LIKE IT'S 2008!!! RAAAWWWWRRRR!!!!!!!",
+      "condition": "Visit Bioluminescent Ocean"
     }
   }
 }
