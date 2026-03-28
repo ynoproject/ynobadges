@@ -136,11 +136,14 @@ if (import.meta.main) (async function() {
   // 2. Load and validate all badges
   const badgesDir = join(root, 'badges');
   const badgeGames: string[] = [];
+  const gameBadgeGroups = new Map<string, Set<string>>();
   for await (const gameEntry of Deno.readDir(badgesDir)) {
     if (gameEntry.isDirectory) badgeGames.push(gameEntry.name as string);
   }
   const badges = new Map<string, any>();
   await Promise.all(badgeGames.map(async (game) => {
+    const groups = new Set<string>();
+    gameBadgeGroups.set(game, groups);
     const gameDir = join(badgesDir, game);
     for await (const fileEntry of Deno.readDir(gameDir)) {
       if (!fileEntry.isFile || !fileEntry.name.endsWith('.json')) continue;
@@ -151,7 +154,10 @@ if (import.meta.main) (async function() {
       try {
         const data = JSON.parse(await Deno.readTextFile(join(gameDir, fileEntry.name)));
         const badge = parse(TBadge, data);
-        badges.set(name, { ...badge, __name: name, __file: join('badges', game, fileEntry.name) });
+        badges.set(name, { ...badge, __game: game, __name: name, __file: join('badges', game, fileEntry.name) });
+        if (badge.group) {
+          groups.add(badge.group);
+        }
       } catch (e) {
         emit('error', e.message || e, join('badges', game, fileEntry.name));
       }
@@ -165,7 +171,12 @@ if (import.meta.main) (async function() {
       emit('error', `parent '${badge.parent}' does not exist`, badge.__file);
     }
 
-    // 3.2. Validate presence of reqType-dependent req value fields
+    // 3.2. Validate presence of group fields for games with badge groups
+    if (!badge.group && (gameBadgeGroups.get(badge.__game)?.size ?? 0) > 0) {
+        emit('error', `missing group`, badge.__file);
+    }
+
+    // 3.3. Validate presence of reqType-dependent req value fields
     if (badge.reqType) {
       const reqField = reqFieldForType(badge.reqType);
       if (reqField && !badge[reqField]) {
