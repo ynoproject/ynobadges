@@ -8270,6 +8270,85 @@
       "name": "Cathulhu",
       "description": "Despite its appearance, it still has the mind of a cat like any other.",
       "condition": "Find the photorealistic cat monster in Calico Forest"
+    },
+    "mushroom": {
+      "name": "Bioluminescent Nymph",
+      "description": "Awaken, fungi princess!",
+      "condition": "Unseal the mushroom girl from her stone prison"
+    },
+    "flying_whale_in_paradise": {
+      "name": "Soaring through Paradise",
+      "description": "What a sight to see!",
+      "condition": "See the flying whale in Paradise"
+    },
+    "cosmic_daydream": {
+      "name": "Watch your 6",
+      "description": "Amidst the cosmic chaos, something lurks.",
+      "condition": "Enter the \"Dark Room\" in Cosmic World"
+    },
+    "lonely_garden": {
+      "name": "Secret Undergrowth",
+      "description": "You're stubborn after seeing a bunch of signs saying it's forbidden to come here, so enjoy the view.",
+      "condition": "Enter the \"Hidden Garden\" in Deserted Town"
+    },
+    "clowning_around": {
+      "name": "Urotsukee The Entertainer",
+      "description": "Wherever she goes, she puts smiles on everyone's faces.",
+      "condition": "Visit all Circus Worlds: Underwater Amusement Park, Circus, Forest Carnival, Colorless Carnival, and Carnage Carnival",
+      "checkbox": {
+        "clowning_around_1_underwater": "Underwater Amusement Park",
+        "clowning_around_2_circus": "Circus",
+        "clowning_around_3_forest": "Forest Carnival",
+        "clowning_around_4_colorless": "Colorless Carnival",
+        "clowning_around_5_carnage": "Carnage Carnival"
+      }
+    },
+    "windy_mountain_pass": {
+      "name": "Windy Valley",
+      "description": "These flowers will only bloom for a short time, so let's enjoy them while they last.",
+      "condition": "Visit the mountain range area of Azalea Passage"
+    },
+    "red_marble_world_visit": {
+      "name": "Red Marble",
+      "condition": "Visit Red Marbling World"
+    },
+    "phone": {
+      "name": "Feelin' homesick?",
+      "description": "Well, I knew there would be days like this...",
+      "condition": "Use the phone shortcut to Urotsuki's Dream Apartments in 10 of the following locations: Aquatic Cube City, Fossil Lake, Underground Garage, Water Reclamation Facility, Dark Museum, Dark Warehouse, Parking Zone, Eyeberry Orchard, Legacy Nexus, Lemonade Edifice, Originator Garden, RGB Spectral Passage",
+      "checkbox": {
+        "phone_aquatic_cube_city": "Aquatic Cube City",
+        "phone_fossil_lake": "Fossil Lake",
+        "phone_underground_garage": "Underground Garage",
+        "phone_water_reclamation_facility": "Water Reclamation Facility",
+        "phone_dark_museum": "Dark Museum",
+        "phone_dark_warehouse": "Dark Warehouse",
+        "phone_parking_zone": "Parking Zone",
+        "phone_eyeberry_orchard": "Eyeberry Orchard",
+        "phone_legacy_nexus": "Legacy Nexus",
+        "lemonade_office_phone": "Lemonade Edifice",
+        "phone_originator_garden": "Originator Garden",
+        "phone_rgb_spectral_passage": "RGB Spectral Passage"
+      }
+    },
+    "neon_wire_club_visit": {
+      "name": "Wires and Speakers",
+      "condition": "Visit Neon Wire Club"
+    },
+    "underground_plant_thing": {
+      "name": "The Gazing Protector",
+      "description": "Hidden underground, it awaits its moment to gaze upon the stars.",
+      "condition": "Enter the room with the plant creature in Underground Passage"
+    },
+    "cosmic_blob_in_harbor": {
+      "name": " Extradimensional Cosmic Blob",
+      "description": "He's bouncing in the rain, he's bouncing in the rain!",
+      "condition": "Interact with the cosmic blob creature in Dreary Harbor"
+    },
+    "wifi": {
+      "name": "No matter where you are...",
+      "description": "...Everyone is always connected!",
+      "condition": "Escape the chasers in the Electromagnetic Terminal and enter the parking area"
     }
   },
   "flow": {
@@ -8608,6 +8687,10 @@
       "name": "It's your own decision, but your home is now your prison. You forgot that without me you won't go far.",
       "description": "OWW OWW STOP HITTING MEE!",
       "condition": "As Rust, kill Smile in cold blood"
+    },
+    "rust_menu": {
+      "name": "Rusty Memories",
+      "condition": "Obtain the Rust menu theme. If you have already unlocked it, return to the Back Ward."
     }
   },
   "prayers": {
@@ -8959,6 +9042,10 @@
       "name": "The Red Spider’s Thread Hanging into Hell",
       "description": "You pulled it in without a shred of doubt - never thinking it bait, did you? Cutting the thread would be such a waste. I’ll take the finger along with it.",
       "condition": "Find Hellflower in the Red River and interact with her"
+    },
+    "rainbow_theme": {
+      "name": "Rainbow Bloom",
+      "condition": "Obtain the Rainbow system. If you have already unlocked it, return to the restrooms of the Rainbow Scratch Park."
     }
   },
   "someday": {
@@ -9806,6 +9893,11 @@
       "name": "Fais de Beaux Rêves",
       "description": "Yaawnnn",
       "condition": "Wear the pajamas in Danaë's room"
+    },
+    "80s_seaside_visit": {
+      "name": "Vintage Summer Postcard",
+      "description": "To you with love from the 80s!",
+      "condition": "Visit 80s Seaside"
     }
   },
   "muma": {
@@ -11739,6 +11831,11 @@
       "name": "Hello from Beneath the Curtain!",
       "description": "What's my next outfit?",
       "condition": "Obtain the Curtain effect. If you have already unlocked it, return where it can be found in Fashion Market."
+    },
+    "if_ending3": {
+      "name": "Deletion of You",
+      "description": "Goodbye, Izumi.",
+      "condition": "See Ending #3"
     }
   },
   "oneshot": {
