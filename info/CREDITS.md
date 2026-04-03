@@ -50,7 +50,6 @@
 * Average
 * awoaa
 * axiom
-* Aztec
 * Azuzu
 * b063
 * baubleBee
