@@ -421,6 +421,7 @@
 * nekocarpet
 * jacarandia28
 * sakpica
+* Paraverdant
 
 ### Korean
 
