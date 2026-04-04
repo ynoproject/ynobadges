@@ -8254,29 +8254,29 @@
       "condition": "在Calico Forest找到猫苏鲁"
     },
     "mushroom": {
-      "name": "Bioluminescent Nymph",
-      "description": "Awaken, fungi princess!",
-      "condition": "Unseal the mushroom girl from her stone prison"
+      "name": "微光宁芙",
+      "description": "醒来吧，蘑菇女王！",
+      "condition": "解放蘑菇女王"
     },
     "flying_whale_in_paradise": {
-      "name": "Soaring through Paradise",
-      "description": "What a sight to see!",
-      "condition": "See the flying whale in Paradise"
+      "name": "翱翔于乐园中",
+      "description": "壮观！",
+      "condition": "在Paradise看到鲸"
     },
     "cosmic_daydream": {
-      "name": "Watch your 6",
-      "description": "Amidst the cosmic chaos, something lurks.",
-      "condition": "Enter the \"Dark Room\" in Cosmic World"
+      "name": "六百六十六：提高警惕!",
+      "description": "星际中混沌的背后，有东西潜伏着...",
+      "condition": "抵达Cosmic World的\"黑暗房间\""
     },
     "lonely_garden": {
-      "name": "Secret Undergrowth",
-      "description": "You're stubborn after seeing a bunch of signs saying it's forbidden to come here, so enjoy the view.",
-      "condition": "Enter the \"Hidden Garden\" in Deserted Town"
+      "name": "隐秘植被",
+      "description": "看到这么多警示牌还往前走我也是服了，这里就当做一个小奖励吧。",
+      "condition": "抵达Deserted Town的\"秘密花园\""
     },
     "clowning_around": {
-      "name": "Urotsukee The Entertainer",
-      "description": "Wherever she goes, she puts smiles on everyone's faces.",
-      "condition": "Visit all C​ircus Worlds: Underwater Amusement Park, Circus, Forest Carnival, Colorless Carnival, and Carnage Carnival",
+      "name": "艺人: 乌洛斯基",
+      "description": "她去哪里都能让大家脸上挂满笑容！",
+      "condition": "抵达这些游乐相关的世界: Underwater Amusement Park, Circus, Forest Carnival, Colorless Carnival, and Carnage Carnival",
       "checkbox": {
         "clowning_around_1_underwater": "Underwater Amusement Park",
         "clowning_around_2_circus": "Circus",
@@ -8286,18 +8286,18 @@
       }
     },
     "windy_mountain_pass": {
-      "name": "Windy Valley",
-      "description": "These flowers will only bloom for a short time, so let's enjoy them while they last.",
-      "condition": "Visit the mountain range area of Azalea Passage"
+      "name": "风谷",
+      "description": "昙花一现，让我们好好享受这里吧",
+      "condition": "抵达Azalea Passage的山脉区"
     },
     "red_marble_world_visit": {
-      "name": "Red Marble",
-      "condition": "Visit Red Marbling World"
+      "name": "红弹珠",
+      "condition": "抵达Red Marbling World"
     },
     "phone": {
-      "name": "Feelin' homesick?",
-      "description": "Well, I knew there would be days like this...",
-      "condition": "Use the phone shortcut to Urotsuki's Dream Apartments in 10 of the following locations: Aquatic Cube City, Fossil Lake, Underground Garage, Water Reclamation Facility, Dark Museum, Dark Warehouse, Parking Zone, Eyeberry Orchard, Legacy Nexus, Lemonade Edifice, Originator Garden, RGB Spectral Passage",
+      "name": "想家了吗？",
+      "description": "我知道会有这样的日子...",
+      "condition": "在以下地点找到电话捷径: Aquatic Cube City, Fossil Lake, Underground Garage, Water Reclamation Facility, Dark Museum, Dark Warehouse, Parking Zone, Eyeberry Orchard, Legacy Nexus, Lemonade Edifice, Originator Garden, RGB Spectral Passage",
       "checkbox": {
         "phone_aquatic_cube_city": "Aquatic Cube City",
         "phone_fossil_lake": "Fossil Lake",
@@ -8314,23 +8314,23 @@
       }
     },
     "neon_wire_club_visit": {
-      "name": "Wires and Speakers",
-      "condition": "Visit Neon Wire Club"
+      "name": "电线和扬声器",
+      "condition": "抵达Neon Wire Club"
     },
     "underground_plant_thing": {
-      "name": "The Gazing Protector",
-      "description": "Hidden underground, it awaits its moment to gaze upon the stars.",
-      "condition": "Enter the room with the plant creature in Underground Passage"
+      "name": "仰望、守护",
+      "description": "即使在地底，它坚信终有一天能仰望星海",
+      "condition": "在Underground Passage找到独眼花"
     },
     "cosmic_blob_in_harbor": {
-      "name": " Extradimensional Cosmic Blob",
-      "description": "He's bouncing in the rain, he's bouncing in the rain!",
-      "condition": "Interact with the cosmic blob creature in Dreary Harbor"
+      "name": "多次元宇宙黏合论",
+      "description": "雨中的史莱姆，你为什么不打伞呢",
+      "condition": "在Dreary Harbor跟宇宙史莱姆交互"
     },
     "wifi": {
-      "name": "No matter where you are...",
-      "description": "...Everyone is always connected!",
-      "condition": "Escape the chasers in the Electromagnetic Terminal and enter the parking area"
+      "name": "无论你在哪里...",
+      "description": "...大家都仍保持联系！",
+      "condition": "在Electromagnetic Terminal逃离追逐着并进入停车场区域"
     }
   },
   "flow": {
@@ -8671,8 +8671,8 @@
       "condition": "以Rust身份杀了Smile"
     },
     "rust_menu": {
-      "name": "Rusty Memories",
-      "condition": "Obtain the Rust menu theme. If you have already unlocked it, return to the Back Ward."
+      "name": "锈忆",
+      "condition": "获得锈(Rust)菜单主题。若已解锁，请返回Back Yard"
     }
   },
   "deepdreams": {
@@ -8907,8 +8907,8 @@
       "condition": "在Red River找到Hellflower并和她互动"
     },
     "rainbow_theme": {
-      "name": "Rainbow Bloom",
-      "condition": "Obtain the Rainbow system. If you have already unlocked it, return to the restrooms of the Rainbow Scratch Park."
+      "name": "虹绽",
+      "condition": "获得彩虹（Rainbow）菜单。若已解锁，请返回Rainbow Scratch Park获得该效果处"
     }
   },
   "someday": {
@@ -9758,9 +9758,9 @@
       "condition": "在Danaë的房间穿上睡衣"
     },
     "80s_seaside_visit": {
-      "name": "Vintage Summer Postcard",
-      "description": "To you with love from the 80s!",
-      "condition": "Visit 80s Seaside"
+      "name": "复古夏季明信片",
+      "description": "来自80年代，融合着爱，送给你！",
+      "condition": "抵达80s Seaside"
     }
   },
   "muma": {
@@ -11696,9 +11696,9 @@
       "condition": "获得效果Curtain。若已解锁，请返回Fashion Market获得该效果处。"
     },
     "if_ending3": {
-      "name": "Deletion of You",
-      "description": "Goodbye, Izumi.",
-      "condition": "See Ending #3"
+      "name": ">删除_你",
+      "description": "永别了，Izumi",
+      "condition": "观看结局3"
     }
   },
   "oneshot": {
