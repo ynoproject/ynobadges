@@ -8407,7 +8407,7 @@
     "orange": {
       "name": "永遠の親友",
       "description": "この世界にも良いことがあるかもしれない",
-      "condition": "オレンジのメニューテーマを解除する、すでに解除済みの場合は解除した場所に行く"
+      "condition": "orangeのメニューテーマを解除する、すでに解除済みの場合は解除した場所に行く"
     },
     "moonlight_flower": {
       "name": "サイケデリック・フラワー",
@@ -8698,8 +8698,8 @@
       "condition": "錆状態で、冷血にイレズミ兄を殺す"
     },
     "rust_menu": {
-      "name": "Rusty Memories",
-      "condition": "Obtain the Rust menu theme. If you have already unlocked it, return to the Back Ward."
+      "name": "錆びついた記憶",
+      "condition": "rustのメニューテーマを解除する、すでに解除済みの場合は錆病室に行く"
     }
   },
   "deepdreams": {
@@ -8934,8 +8934,8 @@
       "condition": "Red RiverでHellflowerを見つけて話しかける"
     },
     "rainbow_theme": {
-      "name": "Rainbow Bloom",
-      "condition": "Obtain the Rainbow system. If you have already unlocked it, return to the restrooms of the Rainbow Scratch Park."
+      "name": "虹の開花",
+      "condition": "システム　虹を入手する、すでに入手している場合はRainbow Scratch Parkのトイレにもう一度行く。"
     }
   },
   "someday": {
@@ -9785,9 +9785,9 @@
       "condition": "Danaë's roomでパジャマを着る"
     },
     "80s_seaside_visit": {
-      "name": "Vintage Summer Postcard",
-      "description": "To you with love from the 80s!",
-      "condition": "Visit 80s Seaside"
+      "name": "レトロな夏のポストカード",
+      "description": "80sから、愛を込めて！",
+      "condition": "80s Seasideに到達する"
     }
   },
   "muma": {
@@ -10234,147 +10234,147 @@
     "fatal_glitch": {
       "name": "致命的なバグ",
       "description": "文字通り動かない...",
-      "condition": "FC WorldでGlitching the Dreamイベントを見る"
+      "condition": "FC町で強制起床イベントを見る"
     },
     "sewer_monster": {
       "name": "下水道の化物",
       "description": "お前は何者だ？",
-      "condition": "Toxic Sewersの住人に話しかける"
+      "condition": "反吐路の住人に話しかける"
     },
     "hide_squeak": {
       "name": "チューリーを探せ",
       "description": "ねずみ、ネズミ、僕らは鼠...",
-      "condition": "Abandoned Rooftopでねずみを引き寄せたり追い払ったりする"
+      "condition": "ダウンタウンでネズミを引き寄せたり追い払ったりする"
     },
     "sparkling_duckling": {
       "name": "きらめくアヒルの子",
-      "condition": "Swaying Bird Passageに到達する"
+      "condition": "十字庭の小鳥の道に到達する"
     },
     "memories_past": {
       "name": "遠い過去の記憶",
       "description": "それはただの悪い夢...",
-      "condition": "White Buildingイベントを見る"
+      "condition": "白いシーンと続きを見る"
     },
     "sticky_situation": {
       "name": "こびりついた惨状",
       "description": "赤いテープに包まれて、逃げられない...",
-      "condition": "Bloodied Cross Corridorでテープを入手する"
+      "condition": "十字架でテープを入手する"
     },
     "hazy_call": {
       "name": "夢中で呼ぶ音",
       "description": "こんな不気味な電話に遭うなんて夢にも思わなかっただろう？",
-      "condition": "Soutarou's Dream Roomで不気味な電話を待つ"
+      "condition": "夢部屋で不気味な電話を待つ"
     },
     "charming_chaser": {
       "name": "かわいいおいかけ",
       "description": "追いかけも優しいときはある。お返しはいらないよ！",
-      "condition": "所持金が100円未満の時にSerene Hillの椅子があるエリアで自販機を調べる"
+      "condition": "所持金が100円未満の時に山丘の展望台で自販機を調べる"
     },
     "mono_nightmare": {
       "name": "モノクロの悪夢",
       "description": "速かったでしょう？それでは楽しんで。",
-      "condition": "Red Hand Labyrinthで追いかけに捕まる"
+      "condition": "赤の手で追いかけに捕まる"
     },
     "shifty_gal": {
       "name": "変幻ギャル",
       "description": "彼女には才能がある！",
-      "condition": "Inorganic Buildingで追いかけに捕まり、姿を変える者にりょうてとくろねこを見せる"
+      "condition": "無機塊で追いかけに捕まり、トルソー子にりょうてとくろねこを見せる"
     },
     "mask_shyness": {
       "name": "人見知りのペルソナ",
       "description": "とっても素敵なえ……がお………？",
-      "condition": "Gray Wastelandで女の子に話しかける"
+      "condition": "白地で姫美に話しかける"
     },
     "chain_grief": {
       "name": "悲嘆の鎖",
       "description": "これは過去に縛られていることの象徴か？",
-      "condition": "Snow Worldでくさりを入手する"
+      "condition": "雪山でくさりを入手する"
     },
     "enigmatic_maid": {
       "name": "謎めいたメイド",
       "description": "秘密を守ってくれますか？",
-      "condition": "Maid Mansionの秘密を見つけてBloody Sceneryを見る"
+      "condition": "屋敷の秘密を見つけて血潮海峡を見る"
     },
     "girl_xx": {
       "name": "XXと呼ばれた少女",
       "description": "こんな生活してるのか？",
-      "condition": "Abandoned Rooftopの女の子に話しかける"
+      "condition": "ダウンタウンの少女に話しかける"
     },
     "jelly_exhibition": {
       "name": "クラゲ展覧会",
-      "condition": "Jellyfish Exhibitionの全てのエリアを訪れる"
+      "condition": "くらげ美術館の全てのエリアを訪れる"
     },
     "frame_maid_mansion": {
       "name": "あなたは芸術品だ！",
       "description": "おっと...",
-      "condition": "Maid Mansionにある大きな額縁を砕く"
+      "condition": "屋敷にある大きな額縁を砕く"
     },
     "splitting_headache": {
       "name": "割れるような頭痛",
       "description": "頭痛、吐き気、嘔吐が渦巻く",
-      "condition": "Migraine Hallwaysの隠されたイベントを見る"
+      "condition": "貼紙施設の隠されたイベントを見る"
     },
     "indulgence_muzou": {
       "name": "嗜好品",
       "description": "モットホシイ",
-      "condition": "Maid Mansionの隠されたエリアに到達し、目の前の物を精神が不安定な状態で探る"
+      "condition": "屋敷の隠されたエリアに到達し、目の前の物を精神値が十分に高い状態で探る"
     },
     "maids_wrath": {
       "name": "メイドの怒り",
       "description": "ここはあなたの家ではありません、お客様。",
-      "condition": "Maid Mansionの入口でメリケンサックを使う"
+      "condition": "屋敷の入口でメリケンサックを使う"
     },
     "shining_zone_muzou": {
       "name": "Shining Zone",
-      "condition": "Hand Sectorから確率で行くことのできるゾーンに到達する"
+      "condition": "クラップから確率で行くことのできるゾーンに到達する"
     },
     "sepieye": {
       "name": "常染色体劣性遺伝",
-      "condition": "Sepia Islandで、ループする通路に到達するまで目を殴る"
+      "condition": "セピア世界で、ループする通路に到達するまで目を殴る"
     },
     "maid_mansion_sofa": {
       "name": "メイド屋敷",
-      "condition": "Maid Mansionの唯一のソファに座る"
+      "condition": "屋敷の唯一のソファに座る"
     },
     "cat_archaic": {
       "name": "けだまてんごく",
       "description": "だっこは三モフの徳！",
-      "condition": "Archaic Templeのしろねこにくろねこで話しかける"
+      "condition": "厭世の白猫にくろねこで話しかける"
     },
     "muzou_sunset": {
       "name": "西日",
       "description": "小さなことに感謝する時間を持つ",
-      "condition": "Toxic Sewersの日没を見る"
+      "condition": "反吐路の夕日を見る"
     },
     "scarecrow_doll_void": {
       "name": "疎外",
       "description": "お前はここの人間ではない",
-      "condition": "Scarecrow Doll Voidに到達する"
+      "condition": "女に到達する"
     },
     "old_arcade_chaser": {
       "name": "ちょっと！ここ俺だけのゲーセン！",
       "description": "ゲームにのめり込んだ人には……",
-      "condition": "Old Arcadeにいる追いかけにメリケンサックを使って話しかける"
+      "condition": "ゲームセンターにいる追いかけにメリケンサックを使って話しかける"
     },
     "monochrome_pixel_room": {
       "name": "明示される正気度",
       "description": "時計の針はうそをつかない",
-      "condition": "Monochrome Pixel Roomに到達する"
+      "condition": "ピクセルワンルームに到達する"
     },
     "feigning_ignorance_prison": {
       "name": "心に引っかかる",
       "description": "不安な気持ち",
-      "condition": "Prisonで無知(を装った)のイベントを起こす"
+      "condition": "監獄で行きたくないイベントを起こす"
     },
     "cat_black_stone_world": {
       "name": "ニャーンゴロゴロ！",
       "description": "ゴロゴロ・・・優しそうなネコちゃんだね？",
-      "condition": "Black Stone Worldでくろねこのエフェクトを使用して猫に話しかける"
+      "condition": "黒石でくろねこのエフェクトを使用して猫の影に話しかける"
     },
     "deity_sprout_world": {
       "name": "幸か不幸か？",
       "description": "nine circles levelsみたいなデザインだね",
-      "condition": "Sandy Sprout WorldでGood GodとBad Godのイベントを見る",
+      "condition": "砂もやしの世界でGood GodとBad Godのイベントを見る",
       "checkbox": {
         "good_deity_sprout": "Good God",
         "bad_deity_sprout": "Bad God"
@@ -10383,7 +10383,7 @@
     "red_hand_labyrinth": {
       "name": "赤い迷宮",
       "description": "ここで迷子になってる・・・",
-      "condition": "Red Hand Labyrinthに到達する"
+      "condition": "赤の手に到達する"
     },
     "muzou_ending_4": {
       "name": "自分で蒔いた種",
@@ -10391,7 +10391,7 @@
     },
     "black_hair_soutarou": {
       "name": "くろかみ",
-      "condition": "くろかみのエフェクトを入手する、すでに入手している場合はFactoryにもう一度行く。"
+      "condition": "くろかみのエフェクトを入手する、すでに入手している場合は機械施設にもう一度行く。"
     },
     "tabe": {
       "name": "サクサクフルーツ",
@@ -10408,12 +10408,12 @@
     "cursed_room_migraine_hallways": {
       "name": "呪われた部屋",
       "description": "隅っこの「残された」箱",
-      "condition": "Migraine HallwaysでCursed Roomイベントを見る、すでに見た場合はもう一度その部屋に向かう。"
+      "condition": "貼紙施設で苦痛イベントを見る、すでに見た場合はもう一度その部屋に向かう。"
     },
     "flight_dirt_field": {
       "name": "飛翔",
       "description": "ほとんどの猫は飛べないけど、この猫は間違いなく飛べる！",
-      "condition": "Dirt Fieldの塔でBlack Cat Flightイベントを見る"
+      "condition": "巨塔でBlack Cat Flightイベントを見る"
     },
     "muzou_ending_3": {
       "name": "ごめん、お腹すいてて。",
@@ -10423,41 +10423,41 @@
     "projector_room_muzou": {
       "name": "後悔のスライドショー",
       "description": "自らの過ちを眺めている",
-      "condition": "Projector Roomに到達する"
+      "condition": "投影に到達する"
     },
     "torso_effect": {
       "name": "役立たず",
       "description": "こんなのどうしろと？",
-      "condition": "どうたいのエフェクトを入手する、すでに入手している場合はIron Plateにもう一度行く。"
+      "condition": "どうたいのエフェクトを入手する、すでに入手している場合は外壁にもう一度行く。"
     },
     "case_effect": {
       "name": "もう二度と出られない、閉じ込められた。",
       "description": "「箱の中に閉じ込められ、人生は虚ろになり、自分のために思い描いていたすべては、今や壊れてしまった。」",
-      "condition": "ケースのエフェクトを入手する、すでに入手している場合はAbandoned Rooftopの見つけた場所に行く。"
+      "condition": "ケースのエフェクトを入手する、すでに入手している場合はダウンタウンの見つけた場所に行く。"
     },
     "down_jacket_effect": {
       "name": "過去の雪",
       "description": "このジャケットを着ると、子どもの頃の寒さを思い出す",
-      "condition": "ダウンジャケットのエフェクトを入手する、すでに入手している場合はMannequin Streetにもう一度行く。"
+      "condition": "ダウンジャケットのエフェクトを入手する、すでに入手している場合はショーウインドーにもう一度行く。"
     },
     "knuckledusters_effect": {
       "name": "ノックアウト！",
       "description": "今の一撃、意識が飛びかけたよ…",
-      "condition": "メリケンサックのエフェクトを入手する、すでに入手している場合はParkの見つけた場所に行く。"
+      "condition": "メリケンサックのエフェクトを入手する、すでに入手している場合は公園の見つけた場所に行く。"
     },
     "tv_dark_sewers": {
       "name": "ノイズの目",
       "description": "本当に、ずっと動かないの？何かしてきたりとかはない？",
-      "condition": "Dark Sewersのテレビを点ける"
+      "condition": "黒い血のテレビを点ける"
     },
     "mikan_envelope_effect": {
       "name": "誰にも届かない手紙",
-      "condition": "ふうとうのエフェクトを入手する、すでに入手している場合はAbandoned Houseの見つけた場所に行く。"
+      "condition": "ふうとうのエフェクトを入手する、すでに入手している場合は廃屋の見つけた場所に行く。"
     },
     "mikan_clot_effect": {
       "name": "スラ太郎",
       "description": "おえっ……",
-      "condition": "かたまりのエフェクトを入手する、すでに入手している場合はMigraine Hallwaysの見つけた場所に行く。"
+      "condition": "かたまりのエフェクトを入手する、すでに入手している場合は貼紙施設の見つけた場所に行く。"
     }
   },
   "ultraviolet": {
@@ -11618,7 +11618,7 @@
     "if_ending_1": {
       "name": "なんだこれ？",
       "description": "何度も、何度も、何度も……",
-      "condition": "Ending #1を見る"
+      "condition": "ED1を見る"
     },
     "shimitsuki_nexus_doors": {
       "name": "エラーまみれのノート",
@@ -11723,9 +11723,9 @@
       "condition": "カーテンのエフェクトを入手する、すでに入手している場合はFashion Marketの見つけた場所に行く。"
     },
     "if_ending3": {
-      "name": "Deletion of You",
-      "description": "Goodbye, Izumi.",
-      "condition": "See Ending #3"
+      "name": "あなたを削除",
+      "description": "さようなら、いずみ。",
+      "condition": "ED3を見る"
     }
   },
   "oneshot": {
