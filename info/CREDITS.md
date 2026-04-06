@@ -420,6 +420,7 @@
 * Exsper
 * nekocarpet
 * jacarandia28
+* Paraverdant
 * sakpica
 
 ### Korean
