@@ -64,6 +64,14 @@ const TBadge = partial(object({
   dev: boolean(),
 }));
 
+const BadgeOverlayType = {
+  GRADIENT: 1,
+  MULTIPLY: 2,
+  MASK: 4,
+  DUAL: 8,
+  LOCATION: 16,
+};
+
 function reqFieldForType(reqType: string): string | undefined {
   switch (reqType) {
     case 'tag':
@@ -82,6 +90,44 @@ function reqFieldForType(reqType: string): string | undefined {
       return 'reqInt';
   }
 };
+
+function badgeFromImage(badges: Map<string, any>, filename: string): any {
+  let name = filename.replace(/\.(?:png|gif)$/, '');
+  let badge = badges.get(name);
+  if (badge) {
+    return badge;
+  }
+
+  name = name.replace(/_mask(?:_[bf]g)?$/, '');
+  return badges.get(name);
+}
+
+function badgeImages(badge: any): string[] {
+  const images = [];
+
+  const suffixes = [];
+  const exts = ["png"];
+  if (badge.animated) {
+    exts.push("gif");
+  }
+  if (badge.overlayType & BadgeOverlayType.MASK) {
+    if (badge.overlayType & BadgeOverlayType.DUAL) {
+      suffixes.push("_mask_bg");
+      suffixes.push("_mask_fg");
+    } else {
+      suffixes.push("_mask");
+    }
+  }
+
+  for (const ext of exts) {
+    images.push(badge.__name + "." + ext);
+    for (const suffix of suffixes) {
+      images.push(badge.__name + suffix + "." + ext);
+    }
+  }
+  return images;
+}
+
 
 let hadError = false;
 function emit(type: 'error' | 'warning' | 'notice', message: string, file?: string, line?: number) {
@@ -141,6 +187,7 @@ if (import.meta.main) (async function() {
     if (gameEntry.isDirectory) badgeGames.push(gameEntry.name as string);
   }
   const badges = new Map<string, any>();
+  const remainingReferencedBadgeImages = new Set<string>();
   await Promise.all(badgeGames.map(async (game) => {
     const groups = new Set<string>();
     gameBadgeGroups.set(game, groups);
@@ -158,6 +205,7 @@ if (import.meta.main) (async function() {
         if (badge.group) {
           groups.add(badge.group);
         }
+        badgeImages(badges.get(name)).forEach(filename => remainingReferencedBadgeImages.add(filename));
       } catch (e) {
         emit('error', e.message || e, join('badges', game, fileEntry.name));
       }
@@ -188,21 +236,23 @@ if (import.meta.main) (async function() {
   // 4. Check for unused badge images and validate image-related badge fields
   const badgeImageDir = join(root, 'images');
   for await (const fileEntry of Deno.readDir(badgeImageDir)) {
+    remainingReferencedBadgeImages.delete(fileEntry.name);
+
     let name = fileEntry.name.replace(/\.(?:png|gif)$/, '');
-    let badge = badges.get(name);
+    let badge = badgeFromImage(badges, fileEntry.name);
     if (!badge) {
-      name = name.replace(/_mask(?:_[fb]g)?$/, '');
-      badge = badges.get(name);
-      if (!badge) {
-        emit('warning', 'unused image', join('images', fileEntry.name));
-        continue;
-      }
+      emit('warning', 'unused image', join('images', fileEntry.name));
+      continue;
     }
 
     if (fileEntry.name.endsWith('.gif') && !badge.animated) {
       emit('error', `animated not set but animated image ${fileEntry.name} exists`, badge.__file);
     }
   }
+  for (const filename of remainingReferencedBadgeImages) {
+    emit('error', `missing image ${filename}`, badgeFromImage(badges, filename)?.__file);
+  }
+
   if (hadError) {
     Deno.exit(1);
   }
