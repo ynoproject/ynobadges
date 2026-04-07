@@ -784,12 +784,12 @@
     },
     "singularity": {
       "name": "紅の混沌",
-      "condition": "Interact with all 5 Black Hole Girls in Río's worlds, or revisit the areas where they appear (Decrepit Dwellings, Verdant Promenade, Forgotten Megalopolis, Tomb of Velleities: Lunar Sanctuary, Luminous Lake: Dragon's Peak)",
+      "condition": "Rio氏の世界にいる全6人の人型オブジェクトに話しかける。既に見つけている場合は、見つけた場所に行く (集合住宅、森林公園、忘れられた街、Butterfly:最奥、夢徨龍リオドリムス",
       "checkbox": {
         "b_h_g_decrepit_dwellings": "集合住宅",
         "b_h_g_verdant_promenade": "森林公園",
         "b_h_g_forgotten_megalopolis": "忘れられた街",
-        "b_h_g_tomb_of_velleities": "Butterfly：最奥",
+        "b_h_g_tomb_of_velleities": "Butterfly:最奥",
         "b_h_g_dragons_peak": "夢徨龍リオドリムス"
       }
     },
@@ -1164,8 +1164,8 @@
       "condition": "あそびばでまじょっこに勝つ"
     },
     "snow": {
-      "name": "Yuletide Bauble",
-      "description": "It's finally that time of the year again!",
+      "name": "クリスマスのオーナメント",
+      "description": "ついに今年もこの季節がやってきた！",
       "condition": "雪が降っている時に廃籠で顔付きアーチの下をくぐり抜ける"
     },
     "akako": {
@@ -2236,7 +2236,7 @@
     },
     "monochrome_depression": {
       "name": "うつ",
-      "condition": "See the monochrome girl in MAP1679 with the Glasses effect"
+      "condition": "うつ:うつろで、めがねのエフェクトを装備して巨大顔を見る"
     },
     "duckling_bathhouse": {
       "name": "ピー！プー！",
@@ -2982,8 +2982,8 @@
     },
     "duck_crystal_waters": {
       "name": "宇宙アヒルの像",
-      "description": "アヒルは静かに水面に座っている",
-      "condition": "玻璃の水鏡の海岸にたたずんでいるアヒルを探す"
+      "description": "水鳥は静かに水面に座っている",
+      "condition": "玻璃の水鏡の海岸にたたずんでいる月を背負った水鳥を探す"
     },
     "crystal_waters_beach": {
       "name": "離れビーチ",
@@ -4709,7 +4709,7 @@
     "2kki_wolf_effect": {
       "name": "The Scarlet Howl",
       "description": "海に向かって吠える",
-      "condition": "砂浜で狼少年に話しかけて、オオカミのエフェクトを取得する"
+      "condition": "砂浜で狼少年に話しかけて、おおかみのエフェクトを取得する"
     },
     "the_assistant": {
       "name": "頑固者",
@@ -4819,8 +4819,8 @@
     },
     "tt_rose_church": {
       "name": "Choros No.1",
-      "description": "About the notes of the overgrown pianist.",
-      "condition": "Obtain the menu type 12 in Rose Church in 12:00 or less in Time Trial Mode"
+      "description": "生い茂るピアニストの音色について",
+      "condition": "Time Trial Modeで12:00以内に光と水面:教会エリアのメニュータイプ：12を取得する"
     },
     "dragon_paradise": {
       "name": "くじら座",
@@ -8281,83 +8281,83 @@
       "condition": "三毛猫の森でねこ？を見る"
     },
     "mushroom": {
-      "name": "Bioluminescent Nymph",
-      "description": "Awaken, fungi princess!",
-      "condition": "Unseal the mushroom girl from her stone prison"
+      "name": "生物発光するニンフ",
+      "description": "目覚めよ、菌のプリンセス！",
+      "condition": "蒼園:キノコ部屋の女の子の石化を解除する"
     },
     "flying_whale_in_paradise": {
-      "name": "Soaring through Paradise",
-      "description": "What a sight to see!",
-      "condition": "See the flying whale in Paradise"
+      "name": "楽園を翔けてゆく",
+      "description": "素晴らしい光景だ！",
+      "condition": "金雲海で移動する黒クジラを見る"
     },
     "cosmic_daydream": {
-      "name": "Watch your 6",
-      "description": "Amidst the cosmic chaos, something lurks.",
-      "condition": "Enter the \"Dark Room\" in Cosmic World"
+      "name": "背後に気をつけな",
+      "description": "宇宙のカオスの中で、何かが潜んでいる。",
+      "condition": "壁葬に到達する"
     },
     "lonely_garden": {
-      "name": "Secret Undergrowth",
-      "description": "You're stubborn after seeing a bunch of signs saying it's forbidden to come here, so enjoy the view.",
-      "condition": "Enter the \"Hidden Garden\" in Deserted Town"
+      "name": "秘密の中庭",
+      "description": "立ち入り禁止のパイロンをいくつも見て、それでもなお来てしまうなんて物好きだねぇ。せっかくだから景色を楽しんでいってね。",
+      "condition": "中庭に到達する"
     },
     "clowning_around": {
-      "name": "Urotsukee The Entertainer",
-      "description": "Wherever she goes, she puts smiles on everyone's faces.",
-      "condition": "Visit all C​ircus Worlds: Underwater Amusement Park, Circus, Forest Carnival, Colorless Carnival, and Carnage Carnival",
+      "name": "うろつき・ザ・エンターテイナー",
+      "description": "彼女はどこへ行っても、みんなを笑顔にするんだ",
+      "condition": "以下のサーカス系世界を訪れる: カーニバルナイト、サーカステント、サーカス団、無色のカーニバル、見世物小屋",
       "checkbox": {
-        "clowning_around_1_underwater": "Underwater Amusement Park",
-        "clowning_around_2_circus": "Circus",
-        "clowning_around_3_forest": "Forest Carnival",
-        "clowning_around_4_colorless": "Colorless Carnival",
-        "clowning_around_5_carnage": "Carnage Carnival"
+        "clowning_around_1_underwater": "カーニバルナイト",
+        "clowning_around_2_circus": "サーカステント",
+        "clowning_around_3_forest": "サーカス団",
+        "clowning_around_4_colorless": "無色のカーニバル",
+        "clowning_around_5_carnage": "見世物小屋"
       }
     },
     "windy_mountain_pass": {
-      "name": "Windy Valley",
-      "description": "These flowers will only bloom for a short time, so let's enjoy them while they last.",
-      "condition": "Visit the mountain range area of Azalea Passage"
+      "name": "風吹く谷",
+      "description": "この花々は短い間しか咲かない。だから今のうちに楽しもうよ。",
+      "condition": "皐月:山道に到達する"
     },
     "red_marble_world_visit": {
-      "name": "Red Marble",
-      "condition": "Visit Red Marbling World"
+      "name": "レッドマーブル",
+      "condition": "レッドマーブル世界に到達する"
     },
     "phone": {
-      "name": "Feelin' homesick?",
-      "description": "Well, I knew there would be days like this...",
-      "condition": "Use the phone shortcut to Urotsuki's Dream Apartments in 10 of the following locations: Aquatic Cube City, Fossil Lake, Underground Garage, Water Reclamation Facility, Dark Museum, Dark Warehouse, Parking Zone, Eyeberry Orchard, Legacy Nexus, Lemonade Edifice, Originator Garden, RGB Spectral Passage",
+      "name": "ホームシックかなぁ？",
+      "description": "まあ、こういう日もあるって分かってたけどね……",
+      "condition": "以下の場所のうち10か所で、うろつき邸への公衆電話を使用する: 石切、化石湖、自販倉庫、シャッター通り、博物館リベンジ、チタババ、parking zone、眼の世界、扉部屋遺構、コーポ黄染、反富裕(暗い荒野側):小部屋、分光",
       "checkbox": {
-        "phone_aquatic_cube_city": "Aquatic Cube City",
-        "phone_fossil_lake": "Fossil Lake",
-        "phone_underground_garage": "Underground Garage",
-        "phone_water_reclamation_facility": "Water Reclamation Facility",
-        "phone_dark_museum": "Dark Museum",
-        "phone_dark_warehouse": "Dark Warehouse",
-        "phone_parking_zone": "Parking Zone",
-        "phone_eyeberry_orchard": "Eyeberry Orchard",
-        "phone_legacy_nexus": "Legacy Nexus",
-        "lemonade_office_phone": "Lemonade Edifice",
-        "phone_originator_garden": "Originator Garden",
-        "phone_rgb_spectral_passage": "RGB Spectral Passage"
+        "phone_aquatic_cube_city": "石切",
+        "phone_fossil_lake": "化石湖",
+        "phone_underground_garage": "自販倉庫",
+        "phone_water_reclamation_facility": "シャッター通り",
+        "phone_dark_museum": "博物館リベンジ",
+        "phone_dark_warehouse": "チタババ",
+        "phone_parking_zone": "parking zone",
+        "phone_eyeberry_orchard": "眼の世界",
+        "phone_legacy_nexus": "扉部屋遺構",
+        "lemonade_office_phone": "コーポ黄染",
+        "phone_originator_garden": "反富裕(暗い荒野側):小部屋",
+        "phone_rgb_spectral_passage": "分光"
       }
     },
     "neon_wire_club_visit": {
-      "name": "Wires and Speakers",
-      "condition": "Visit Neon Wire Club"
+      "name": "ワイヤーとスピーカー",
+      "condition": "ワイヤードネオンに到達する"
     },
     "underground_plant_thing": {
-      "name": "The Gazing Protector",
-      "description": "Hidden underground, it awaits its moment to gaze upon the stars.",
-      "condition": "Enter the room with the plant creature in Underground Passage"
+      "name": "見つめる守護者",
+      "description": "地下に潜み、星を見上げるその時を待っている。",
+      "condition": "地底通路でとある床の先に進み、花のような生物がいる部屋に入る"
     },
     "cosmic_blob_in_harbor": {
-      "name": " Extradimensional Cosmic Blob",
-      "description": "He's bouncing in the rain, he's bouncing in the rain!",
-      "condition": "Interact with the cosmic blob creature in Dreary Harbor"
+      "name": "異次元でコズミックなぶにょぶにょ",
+      "description": "雨の中でぴょんぴょん弾んでる、ずっと弾んでる！",
+      "condition": "赤い水都で紫色の透き通った生物に話しかける"
     },
     "wifi": {
-      "name": "No matter where you are...",
-      "description": "...Everyone is always connected!",
-      "condition": "Escape the chasers in the Electromagnetic Terminal and enter the parking area"
+      "name": "どこにいたって、",
+      "description": "人は繋がっているのよ",
+      "condition": "電磁ターミナル:タクシー乗り場エリアに到達する"
     }
   },
   "flow": {
