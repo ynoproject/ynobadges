@@ -46,6 +46,7 @@
 * Arumita
 * Athoth
 * aukse
+* Aurora
 * Autumn
 * Average
 * awoaa
@@ -106,6 +107,7 @@
 * Ena
 * Enni
 * Enola
+* Etikals
 * eyeball
 * Fall
 * Flakeohelk
@@ -138,6 +140,7 @@
 * Hyo
 * iEcilpse
 * IronCam
+* Ivinous
 * Jameson
 * jams
 * JEAN
