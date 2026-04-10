@@ -563,6 +563,10 @@
       "name": "Destiny to Bleed",
       "description": "Do they like their fate?",
       "condition": "Interact with all the creatures that open their mouths in Footprint Path B"
+    },
+    "medamaude_return": {
+      "name": "In a blink of an eye, you're back at the Nexus!",
+      "description": "Obtain the Medamaude effect. If you have already obtained it, return to Eyeball World."
     }
   },
   "2kki": {
@@ -8196,7 +8200,7 @@
     },
     "2kki_eel_dragon": {
       "name": "爬行动物还是鱼？",
-      "description": "不管怎样都好吃", 
+      "description": "不管怎样都好吃",
       "condition": "查看Eel Dragon对不同效果的反应"
     },
     "regular_atelier_visit": {
@@ -8331,6 +8335,81 @@
       "name": "无论你在哪里...",
       "description": "...大家都仍保持联系！",
       "condition": "在Electromagnetic Terminal逃离追逐着并进入停车场区域"
+    },
+    "knit_plains_visit": {
+      "name": "A Dice of My Own",
+      "description": "Smells like Grandma's house.",
+      "condition": "Visit Knit Plains"
+    },
+    "sheltered_drains_visit": {
+      "name": "Covering",
+      "description": "The rust is spreading, so are you.",
+      "condition": "Visit Sheltered Drains"
+    },
+    "paper_stario_tower": {
+      "name": "Shining Atop The Thousand-Year Spire",
+      "description": "Scale this tower, and you may find something amazing...",
+      "condition": "Visit Crystal Star Tower"
+    },
+    "floating_catacomb_stare": {
+      "name": "Temple Eyes",
+      "description": "Don't stare for too long...",
+      "condition": "See the strange eyes in Floating Catacombs"
+    },
+    "dysmorphia_scary_lady": {
+      "name": "Karma",
+      "description": "If I turn around, I'm going to die.",
+      "condition": "See the red woman's face in the event in Dysmorphia B after killing Mother in Urotsuki's Dream Apartments"
+    },
+    "glitchy_blue_uro_mask": {
+      "name": "LOST SIGNAL",
+      "description": "kwwsv://gulyh.jrrjoh.frp/xf?hasruw=ylhz&lg=1nwJ1gqZTIf9HvPJyPuiDmwaRPE7qsijX",
+      "condition": "Equip the Signal mask in Binding Site"
+    },
+    "uv_uro_got_sunburned": {
+      "name": "Beyond Sunburnt",
+      "description": "This is what happens when you don't wear your sunscreen...",
+      "condition": "Equip the Ultraviolet Urotsuki mask in Red Sun Outlook"
+    },
+    "darkwoven_void_visit": {
+      "name": "What Once Was A World",
+      "description": "Now covered in darkness. ",
+      "condition": "Visit the Darkwoven Void"
+    },
+    "jump_rope_time": {
+      "name": "Smiling Critter",
+      "description": "The numbers, what do they mean!?",
+      "condition": "Score 12 points at the jump rope minigame in Critter Village"
+    },
+    "runic_ruins_ruined_visit": {
+      "name": "Ancient Runes",
+      "description": "Too much knowledge can be a burden.",
+      "condition": "Visit Runic Ruins"
+    },
+    "marble_penumbra": {
+      "name": "Solaris & Lunaris",
+      "description": "Orion above the trees blazed across the night, sparks of the snow land back on my hands.",
+      "condition": "View the Sun and Moon clock in the Marble Ruins"
+    },
+    "restore_color_in_the_ocean": {
+      "name": "Restoring Life",
+      "description": "Isn't life better with colors?",
+      "condition": "Interact with the creature that restores the color in Amethyst Ocean"
+    },
+    "freefall_tsuki": {
+      "name": "???-tsuki's Descent",
+      "description": "FREEDOM DIVEEEEE!",
+      "condition": "Trigger the ???-tsuki's Descent event in Second Nexus"
+    },
+    "big_uro_room_visit": {
+      "name": "Honey I Shrunk The Dreamers",
+      "description": "Lost in my own room... At least I have my fuzzy little buddy to keep me company.",
+      "condition": "Visit Jumbo Room"
+    },
+    "corrupted_lovesickness": {
+      "name": "Lovesick",
+      "description": "Love is a contagious lie.",
+      "condition": "Visit the main area of Corrupted Love World"
     }
   },
   "flow": {
@@ -8673,6 +8752,11 @@
     "rust_menu": {
       "name": "锈忆",
       "condition": "获得锈(Rust)菜单主题。若已解锁，请返回Back Yard"
+    },
+    "hooded_menace_sabi": {
+      "name": "Are you sure they won't realize it's me?",
+      "description": "\"C'mon, trust me, they won't see you.\"",
+      "condition": "Obtain the Black Hood effect. If already obtained, return to where it can be found in Disposal."
     }
   },
   "deepdreams": {
@@ -9761,6 +9845,11 @@
       "name": "复古夏季明信片",
       "description": "来自80年代，融合着爱，送给你！",
       "condition": "抵达80s Seaside"
+    },
+    "path_to_10_million_fireflies": {
+      "name": "Luminous Lampyridae",
+      "description": "Like embers, they glow so brightly and fade so fast.",
+      "condition": "Visit Firefly Cycle path"
     }
   },
   "muma": {
@@ -9984,6 +10073,11 @@
       "name": "出海",
       "description": "我只想离开。",
       "condition": "在White Shores看到漂过的帆船"
+    },
+    "another_white_badge": {
+      "name": "Whiteout Stairs",
+      "description": "In another white, these stairs remain.",
+      "condition": "Visit the staircase to Flower Field in Another White"
     }
   },
   "genie": {
@@ -11551,6 +11645,11 @@
       "name": "落寞亦欢愉之境",
       "description": "只有童话世界才能告诉我们什么是真实的",
       "condition": "在Azure Abode跟改变菜单主题的书本互动"
+    },
+    "candy_ribboned_moon": {
+      "name": "Adorn The Moon",
+      "description": "We'll go somewhere far away... to the Moon.",
+      "condition": "Interact with the Moon in Ribbon House in Confection World after eating all of the confections. If you have already unlocked it, eat all of the sweets in Confection World."
     }
   },
   "if": {
@@ -12189,6 +12288,11 @@
       "name": "霓虹黑光泳池派对",
       "description": "芜湖，派对派对派对！（就像2008年那样）",
       "condition": "抵达Bioluminescent Ocean"
+    },
+    "aquarium_in_the_skies": {
+      "name": "Ocean Behind Glass",
+      "description": "Look daddy!",
+      "condition": "See the Aquarium Event in Sunset Skyscrapers"
     }
   }
 }
