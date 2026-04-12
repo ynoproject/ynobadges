@@ -82,7 +82,6 @@
 * CoolKid95
 * cosmicmoths
 * Cosrie
-* Cris
 * Crisptal
 * dabe
 * DallyDEF
