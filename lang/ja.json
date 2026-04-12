@@ -12311,5 +12311,58 @@
       "description": "ねえ見てパパ！",
       "condition": "Sunset SkyscrapersでAquariumイベントを見る"
     }
+  },
+  "okuri": {
+    "ordinary_day": {
+      "name": "9月5日",
+      "description": "なんでもない日へ。なんでもない日より。",
+      "condition": "ED1を見る"
+    },
+    "first_anniversary": {
+      "name": "一年",
+      "description": "冬が来て、春が来て、夏が来て、秋が来て、それでもあなたはもういない。",
+      "condition": "ED2を見る"
+    },
+    "whiff": {
+      "name": "の匂い",
+      "description": "春の匂いがする。夏の匂いがする。秋の匂いがする。冬の匂いがする。",
+      "condition": "全てのED条件を達成し、花の廊下の扉に入る"
+    },
+    "favorite_umbrella": {
+      "name": "Your Favorite Umbrella",
+      "description": "Would you like to see hydrangeas together?",
+      "condition": "Obtain the Hydrangea effect. If you've already unlocked it, return to Hydrangea Square."
+    },
+    "heat_haze": {
+      "name": "Heat Haze",
+      "description": "You can feel the atmosphere of summer.",
+      "condition": "Obtain the Heat Haze effect. If you've already unlocked it, return where it can be found in Seaside Town."
+    },
+    "bouquet": {
+      "name": "Bouquet",
+      "description": "All your favorite flowers are here!",
+      "condition": "Obtain the Sakura, Chrysanthemum, Sunflower, and Hydrangea effects. If you have already unlocked them, return where they can be found respectively in Row of Cherryblossom Trees, Chrysanthemums and Water Surface, Field of Sunflowers, and Hydrangea Square.",
+      "checkbox": {
+        "bouquet_sakura": "Row of Cherryblossom Trees",
+        "bouquet_chrysanthemum": "Chrysanthemums and Water Surface",
+        "bouquet_sunflower": "Field of Sunflowers",
+        "favorite_umbrella": "Hydrangea Square"
+      }
+    },
+    "snowbound_comfort": {
+      "name": "雪に閉ざされた小さな温もり",
+      "description": "小さな雪のおともだちが、冬の魔法を届ける。",
+      "condition": "Make a second cushion in the igloo of Bus Stop"
+    },
+    "falling_blossom": {
+      "name": "最後の花びらが落ちるまで",
+      "description": "花びらが舞い落ち、春の終わりを告げる。",
+      "condition": "Reach the picnic and see the falling blossom tree event in Row of Cherryblossom Trees"
+    },
+    "raindrops_and_blossoms": {
+      "name": "雨粒と紫陽花の交響曲",
+      "description": "雨の色から、夏が始まる。",
+      "condition": "Witness the storm in Hydrangea Square"
+    }
   }
 }
