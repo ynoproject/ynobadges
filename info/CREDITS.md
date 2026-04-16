@@ -288,6 +288,7 @@
 * Sekiranun
 * Shak3l1ght
 * Shakzass
+* Sheanicc
 * Shimogari
 * shirleycrow
 * shrimpy
