@@ -8418,6 +8418,106 @@
       "name": "Lovesick",
       "description": "Love is a contagious lie.",
       "condition": "Visit the main area of Corrupted Love World"
+    },
+    "amoeba_maze_end": {
+      "name": "Exiting The Forest is Super Simple",
+      "description": "Super Yume 2kki RPG, it is the only one just for me...",
+      "condition": "Reach the end of the teleport maze in Amoeba Woods"
+    },
+    "chainsaw_overwork": {
+      "name": "Neil The Seal",
+      "description": "Violence is not the answer.",
+      "condition": "Chainsaw the seal in Overwork Office"
+    },
+    "ch_visit_water_worlds": {
+      "name": "Everlasting Reef",
+      "description": "You feel safe swimming with the fish?",
+      "condition": "Visit the following cute water worlds: Pastel Dream Sea, Alrescha Sea, Peaceful Shoal, Watching Waters, Calcarina Sea, Azure Depths, Atlantis, Neon Sea, Coral Shoal, Goldfish Pond, Flowery Ponds, Pastel Pools, Elysium Pools",
+      "checkbox": {
+        "alrescha_sea": "Alrescha Sea",
+        "atlantis": "Atlantis",
+        "azure_depths": "Azure Depths",
+        "calcarina_sea": "Calcarina Sea",
+        "elysium_pools": "Elysium Pools",
+        "flowery_pond": "Flowery Pond",
+        "goldfish_pond": "Goldfish Pond",
+        "neon_sea": "Neon Sea",
+        "pastel_dream_sea_a|pastel_dream_sea_b": "Pastel Dream Sea",
+        "pastel_pools": "Pastel Pools",
+        "peaceful_shoal": "Peaceful Shoal",
+        "shoal_coral": "Coral Shoal",
+        "watching_waters": "Watching Waters"
+      }
+    },
+    "crossing_singing_fox": {
+      "name": "Rap Fox",
+      "description": "What I gotta get it through to you I'm supervixen?",
+      "condition": "Use the Crossing effect near the singing fox in Celestial Night"
+    },
+    "lotus_park_vm_cake": {
+      "name": "Rain Cake",
+      "description": "the rain is falling down, drip drop, drip drop, splashing all around",
+      "condition": "Get a raindrop cake from the vending machine in Lotus Park"
+    },
+    "menu_theme_91": {
+      "name": "The Lady's Tome",
+      "description": "Hi there...",
+      "condition": "Obtain Menu Theme #91 in Highway. If already obtained, return to the room where you have done so."
+    },
+    "urotsuki_statue_olympic": {
+      "name": "Marble Urotsuki Statue",
+      "description": "Not so tiny are you now, huh Uro?",
+      "condition": "Find the Urotsuki statue in Olympus Ruins"
+    },
+    "visit_abyss": {
+      "name": "Sister of The Void",
+      "description": "Consumed by Abyss: Lost Urotsuki",
+      "condition": "Enter Abyss\tMap"
+    },
+    "visit_acid_sun_plain": {
+      "name": "The Sun is a Deadly Acid",
+      "description": "Stare at it long enough, and your eyes will dissolve. Don't stare at the sun! Don't stare at the sun.",
+      "condition": "Visit Acid Sun Plain"
+    },
+    "visit_beyond_2kki": {
+      "name": "Soothing Melancholy",
+      "description": "Beyond the dream lies a beautiful foggy land waiting to be discovered.",
+      "condition": "Visit Beyond"
+    },
+    "visit_calico_forest": {
+      "name": "Meowing Forest",
+      "description": "Home is where the cats are.",
+      "condition": "Visit Calico Forest"
+    },
+    "visit_dazzling_garden": {
+      "name": "Glitter Bombed Stone",
+      "description": "That isn't going to wash out of your clothes any time soon. Beauty truly is pain...",
+      "condition": "Visit Dazzling Garden"
+    },
+    "visit_faraway_lands": {
+      "name": "Gray Scent",
+      "description": "Memories of youth manifest itself, though only in fragments. A long time has passed, and they may have forgotten you. Even so, you find peace in the same familiar scent of the field you remember.",
+      "condition": "Enter Faraway Lands"
+    },
+    "visit_hemlock_lab": {
+      "name": "Virulent Remedies",
+      "description": "Seek the cure with sickness.",
+      "condition": "Visit Hemlock Lab"
+    },
+    "visit_pit_to_hell": {
+      "name": "\"Hot\" Tub",
+      "description": "Here Lies Urotsuki, You Can Tell It's Her Because She's Having so Much Fun Swimming She Doesn't Even Realize She's in Hell.",
+      "condition": "Visit Pit to Hell"
+    },
+    "visit_satellite_space": {
+      "name": "Wanderer of The Cosmos",
+      "description": "It must be nice to be a satellite, no worries, no responsibilities, just you and the stars.",
+      "condition": "Visit Satellite Space-way"
+    },
+    "visit_start_cubes": {
+      "name": "Where the starlight rest",
+      "description": "A small, cozy haven, glimpsed through the graveyard of fossilized stars reached by a long journey.",
+      "condition": "Visit the shack in Star Cubes World"
     }
   },
   "flow": {
@@ -11156,6 +11256,11 @@
       "name": "Dim Candle Light",
       "description": "Would you like to go with me?",
       "condition": "Interact with the person with a candle on their head who takes you to Random Space in Twilight Apartments"
+    },
+    "outback_roads_pool": {
+      "name": "Hydrated Radiance",
+      "description": "Let there be water!",
+      "condition": "Fill the pool with water in Outback Roads"
     }
   },
   "tsushin": {
@@ -11801,6 +11906,11 @@
       "name": "Deletion of You",
       "description": "Goodbye, Izumi.",
       "condition": "See Ending #3"
+    },
+    "effect_primary_colors": {
+      "name": "CMYKRGB",
+      "description": "My eyes hurt whenever I see you like this.",
+      "condition": "Obtain the Primary Colors effect. If you have already unlocked it, return to where it can be found in Monochrome City."
     }
   },
   "oneshot": {
@@ -12296,6 +12406,16 @@
       "name": "Ocean Behind Glass",
       "description": "Look daddy!",
       "condition": "See the Aquarium Event in Sunset Skyscrapers"
+    },
+    "aitsuki_trenchcoat": {
+      "name": "Elementary, my dear Aitsuki.",
+      "description": "\"You see, but you do not observe.\"",
+      "condition": "Obtain the Trenchcoat effect. If you have already unlocked it, return to Bathroom."
+    },
+    "visit_crimson_dunes": {
+      "name": "Crimson Red Prairie",
+      "description": "Traversing the vast scarlet dunes",
+      "condition": "Visit Crimson Dunes"
     }
   },
   "okuri": {
