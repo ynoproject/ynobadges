@@ -132,6 +132,7 @@
 * guroneet
 * Hachio
 * happysun
+* Hazeframe
 * HenryAutumn
 * higodoragon
 * Horse de Paus
@@ -243,6 +244,7 @@
 * Olive Deer
 * oliverribz
 * omoflop
+* ONLYMOSSS
 * openbreeze
 * Ouka
 * paper box
