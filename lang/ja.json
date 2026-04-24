@@ -8532,6 +8532,70 @@
       "name": "Where the starlight rest",
       "description": "A small, cozy haven, glimpsed through the graveyard of fossilized stars reached by a long journey.",
       "condition": "Visit the shack in Star Cubes World"
+    },
+    "fliperama_hall_basement": {
+      "name": "Digital Anguish",
+      "description": "I really don't like what became of me.",
+      "condition": "Get sent to the secret room in Fliperama Hall by the security in the basement."
+    },
+    "hemlock_lab_girl": {
+      "name": "Research Log-00000",
+      "description": "65 98 115 111 108 117 116 101 108 121 32 100 111 32 110 111 116 32 108 101 116 32 116 104 97 116 32 100 97 116 97 32 98 101 32 108 101 97 107 101 100 32 116 111 32 116 104 101 32 111 117 116 115 105 100 101 46",
+      "condition": "Find the girl in the Hemlock Lab"
+    },
+    "jazz_station_peace": {
+      "name": "Comfort in The Wreckage",
+      "description": "Looking past the change, looking past the disrepair, I can still enjoy myself here even if for just a fleeting moment.",
+      "condition": "Visit the Peace subarea of Jazz Station"
+    },
+    "liar_city_creature": {
+      "name": "That's cute, but my eyes hurt.",
+      "condition": "See the creature in the Hallway Maze of the City Of Liars"
+    },
+    "menu_theme_64": {
+      "name": "A Final Memorial",
+      "description": "The world is brighter on the other side of the sky.",
+      "condition": "Obtain Menu Theme 64 in Pollution District"
+    },
+    "mushroom_worlds": {
+      "name": "Mushy Shrookki",
+      "description": "\"Shimako these mushrooms aren't doing anything fo- WOAH\"",
+      "condition": "Visit the main areas of the following worlds: Vibrant Mushroom Forest, Sunken Spore Sea, Mushroom World, Spore Forest, and Bleeding Mushroom Garden",
+      "checkbox": {
+        "bleeding_mush_grd": "Bleeding Mushroom Garden",
+        "sunken_spore_sea": "Sunken Spore Sea",
+        "visit_mushroom_world": "Mushroom World",
+        "visit_spore_forest": "Spore Forest",
+        "visit_vibrant_mushroom_world": "Vibrant Mushroom World"
+      }
+    },
+    "shoal_coral_morita": {
+      "name": "Slug of The Shoal",
+      "description": "Despite being a solitary creature they're always happy to have company.",
+      "condition": "Interact with Morita in Coral Shoal"
+    },
+    "trombone_effect": {
+      "name": "Golden Instrument",
+      "description": "doot doot",
+      "condition": "Obtain the Trombone effect. If already obtained, return to where you have done so in the Baddies Bar or Acoustic Lounge."
+    },
+    "visit_muffin_spice": {
+      "name": "Spicy Muffin",
+      "condition": "Visit Muffin Spice World"
+    },
+    "visit_sunset_mesa": {
+      "name": "Evanescent Sunset",
+      "description": "Take a seat and rest for a while. Let's take this time to enjoy the setting sun, for this moment won't last forever.",
+      "condition": "Visit Sunset Mesa"
+    },
+    "forest_of_reflections": {
+      "condition": "鏡の森に到達する。"
+    },
+    "rainbow_bird": {
+      "condition": "垂水でにじを使って尾長鳥を見る"
+    },
+    "block_person": {
+      "condition": "煉瓦ダンジョンで分銅くんに変身する"
     }
   },
   "flow": {
@@ -10412,6 +10476,25 @@
       "name": "Face The Slayer",
       "description": "Beneath the cold of the frozen star, you feel the fright, and you know I'm near.",
       "condition": "SlayerのDelusionを入手する、すでに入手している場合はFreezing Pointにもう一度行く。"
+    },
+    "dg_sub_nexus": {
+      "name": "World Between Worlds",
+      "description": "An empty void filled with worlds.",
+      "condition": "Visit Subnexus and its 6 connecting worlds",
+      "checkbox": {
+        "dg_visit_3d_projection": "3D Projection",
+        "dg_visit_cellar": "Cellar",
+        "dg_visit_desert_field": "Desert Field",
+        "dg_visit_space_station": "Space Station",
+        "dg_visit_star_river": "Star River",
+        "dg_visit_subnexus": "Subnexus",
+        "dg_visit_wise_sea_a": "Star of Wise Sea A"
+      }
+    },
+    "dg_yin_ming": {
+      "name": "Strings of Connection",
+      "description": "No matter how far apart we are, we can always see each other.",
+      "condition": "Meet Yin Ming & :| in Dream Genie in the isolated location of Floating Cube RPG"
     }
   },
   "mikan": {
@@ -10839,6 +10922,17 @@
       "name": "ぶら下がる星のかけら",
       "description": "見てると眠くなってくる……",
       "condition": "モービルに到達する"
+    },
+    "uv_dark_forest_cliff": {
+      "name": "Viola Nocturna",
+      "description": "Violets of the lonesome cliff.",
+      "condition": "Reach the cliffside in Dark Forest"
+    },
+    "little_rabbit": {
+      "condition": "Pastel WorldのRabbit's Houseに到達する"
+    },
+    "uv_snipped": {
+      "condition": "Bloody Water Dungeonでショートヘアーを入手する"
     }
   },
   "sheawaits": {
@@ -11651,6 +11745,14 @@
       "name": "水を抜かれ忘れられた",
       "description": "ここ、記憶よりずっと不気味だ……",
       "condition": "Abandoned Swimming Poolの壁画に近づく"
+    },
+    "yt_drum_effect": {
+      "name": "Vivid Wave's Key",
+      "description": "A pig with a drum in a cheese maze.",
+      "condition": "Obtain the Drum effect. If already obtained, return to where it can be found in Cheese Maze."
+    },
+    "willow_docks": {
+      "condition": "Docksに到達する"
     }
   },
   "nostalgic": {
@@ -12430,6 +12532,11 @@
       "name": "真紅の原",
       "description": "広大な緋色の砂丘を横断する",
       "condition": "Crimson Dunesに到達する"
+    },
+    "ly_angel_statue": {
+      "name": "Angel Statue",
+      "description": "The Angel Statue does absolutely nothing, until you look away.",
+      "condition": "View the angel statue in Illusion World"
     }
   },
   "okuri": {
