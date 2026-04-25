@@ -8581,6 +8581,69 @@
     },
     "block_person": {
       "condition": "Превратитесь в ходячий блок в Red Brick Maze."
+    },
+    "seesaw_critter_village": {
+      "name": "Up You Go!",
+      "description": "Yippee! This is so much fun!!",
+      "condition": "Play see-saw at Critter Village"
+    },
+    "rgb_passage": {
+      "name": "AV Cable Triangle",
+      "description": "owari2 by.sakai!",
+      "condition": "Enter RGB Passage"
+    },
+    "vista_blood_rose_canal": {
+      "name": "A Hidden View of The Beautiful Blood Sea~",
+      "description": "I wonder how far this ethereal scene stretches on for…",
+      "condition": "See the vista in Blood Rose Canal"
+    },
+    "star_planetarium": {
+      "name": "Wanderer & March Of Star",
+      "description": "Stars that once woke comets",
+      "condition": "Просмотрите событие \"Звёздного неба\" в Planetarium."
+    },
+    "burgundy_flats_snack": {
+      "name": "Snack Time",
+      "description": "What's on the menu for today?",
+      "condition": "Buy a snack from the Burgundy Flats' snack vendor."
+    },
+    "industrial_rooftops_eye": {
+      "name": "Peering Through the Smog",
+      "condition": "See the eye in Industrial Rooftops"
+    },
+    "menu_theme_88": {
+      "name": "Menu Overload",
+      "description": "This is why you should never spam click if it lags",
+      "condition": "Obtain Menu Theme #88. If already obtained, return to where you have done so."
+    },
+    "nocturnal_grove_tv": {
+      "name": "Universal Unfolding",
+      "description": "A secret channel presents: Behold! The Starry Night!",
+      "condition": "See the Stargazing TV channel in Nocturnal Grove"
+    },
+    "ruby_forest_sky": {
+      "name": "The long forgotten wizard",
+      "description": "\"I haven't seen anyone down here in a long time.\"",
+      "condition": "See the sky in Ruby Forest"
+    },
+    "sepia_cloud_gardens_creatures": {
+      "name": "Sepia Filter Friends",
+      "description": "\"At least i know i'm not lonely here...\"",
+      "condition": "Interact with the three humanoid creatures in Sepia Cloud Gardens"
+    },
+    "twisted_thicket_cabin": {
+      "name": "Secluded Coziness",
+      "description": "Just relax, close your eyes and listen to the fire crackling gently like a lullaby. You're safe here.",
+      "condition": "Visit the hidden cabin in Twisted Thicket"
+    },
+    "visit_knife_world": {
+      "name": "Execute Them All",
+      "description": "Anywhere I go, I'll cut through you.",
+      "condition": "Visit Knife World"
+    },
+    "visit_surreal_ruins": {
+      "name": "Cubic Surreality",
+      "condition": "Visit Surreal Ruins World"
     }
   },
   "flow": {
@@ -9292,6 +9355,18 @@
       "name": "By Any Other Name",
       "description": "Can only bloom in wholesome (celestial) bodies",
       "condition": "Make more roses appear and read the rose sign in Art Gallery"
+    },
+    "kondo": {
+      "name": "Да, это Он.",
+      "condition": "Найдите Кондо везде, где она появляется.",
+      "checkbox": {
+        "corrupted_art_gallery_sh_e": "Empty Gallery",
+        "glitch_world_kondo": "Glitch World",
+        "kondo_ending_room|kondo_ending_room_2": "Chaos",
+        "lsd_world": "LSD World",
+        "purple_crystal": "Memory Graveyard",
+        "tubes_kondo": "Tubes"
+      }
     }
   },
   "unevendream": {
@@ -10244,6 +10319,16 @@
       "name": "Whiteout Stairs",
       "description": "In another white, these stairs remain.",
       "condition": "Visit the staircase to Flower Field in Another White"
+    },
+    "erased_muma": {
+      "name": "Goodbye Muma",
+      "description": "Muma is over",
+      "condition": "Вы помогли Муме обрести свой конец."
+    },
+    "experiment_tubes": {
+      "name": "False self",
+      "description": "Who are I and them？",
+      "condition": "Заполните все Сосуды с подопытными в Лаборатории."
     }
   },
   "genie": {
@@ -10480,6 +10565,11 @@
       "name": "Strings of Connection",
       "description": "No matter how far apart we are, we can always see each other.",
       "condition": "Meet Yin Ming & :| in Dream Genie in the isolated location of Floating Cube RPG"
+    },
+    "dg_golden_armor_effect": {
+      "name": "Knight In Shining Armor",
+      "description": "I'll always protect you.",
+      "condition": "Obtain the Golden Armor delusion. If already obtained, return to where it can be found in Golden Canopy."
     }
   },
   "mikan": {
@@ -10918,6 +11008,11 @@
     },
     "uv_snipped": {
       "condition": "Получите эффект Короткой стрижки в Подземелье кровавых вод."
+    },
+    "committed_memory": {
+      "name": "Somenikki",
+      "description": "Would you like to write down your dreams?",
+      "condition": "Купите книгу для сохранений в магазине Пастельного мира."
     }
   },
   "sheawaits": {
@@ -11861,6 +11956,11 @@
       "name": "Adorn The Moon",
       "description": "We'll go somewhere far away... to the Moon.",
       "condition": "Interact with the Moon in Ribbon House in Confection World after eating all of the confections. If you have already unlocked it, eat all of the sweets in Confection World."
+    },
+    "visit_sleeping_garden": {
+      "name": "Garden of False Dream",
+      "description": "I'm looking at the sky and thinking about my false idea of life",
+      "condition": "Visit Sleeping Garden"
     }
   },
   "if": {
@@ -12400,6 +12500,16 @@
       "name": "All Signs Point to Aruben",
       "description": "Wonder who put this here?",
       "condition": "Obtain the Sign effect. If you have already unlocked it, return where it can be found in the Speak sub-area of Plants Hell."
+    },
+    "cold_a_effect": {
+      "name": "A",
+      "description": "aA aaA aAa a Aaaa a Aa",
+      "condition": "Obtain the A effect. If you have already obtained it, return to the area where you have done so."
+    },
+    "cold_smile_effect": {
+      "name": "A mask of my own face",
+      "description": "And smile as they grip their own nd try to do the same!",
+      "condition": "Obtain the Smile effect. If already obtained, return to where you have done so."
     }
   },
   "loveyou": {
