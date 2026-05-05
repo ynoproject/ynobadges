@@ -994,13 +994,16 @@
       "condition": "Originator Garden의 메인 에리어에 도달하기"
     },
     "bsides": {
-      "name": "B-사이드",
-      "condition": "Downfall Garden B, Sparkling Dimension B, Opal Ruins B, Fuchsia Suburbs B에 방문하기",
+      "name": "Blipside",
+      "condition": "Downfall Garden B, Sparkling Dimension B, Opal Ruins B, Fuchsia Suburbs B, Wooded Lakeside B, RGB Passage B, and Dysmorphia B에 방문하기",
       "checkbox": {
         "downfall_garden_b": "Downfall Garden B",
         "sparkling_dimension_b": "Sparkling Dimension B",
         "opal_ruins_b|opal_ruins_b_b": "Opal Ruins B",
-        "fuchsia_suburbs_b": "Fuchsia Suburbs B"
+        "fuchsia_suburbs_b": "Fuchsia Suburbs B",
+        "visit_wooded_lakeside_b": "Wooded Lakeside B",
+        "visit_rgb_passage_b": "RGB Passage B",
+        "visit_dysmorphia_b_entrance|visit_dysmorphia_b_main": "Dysmorphia B"
       }
     },
     "survivor": {

@@ -1004,13 +1004,16 @@
       "condition": "始祖庭に到達する"
     },
     "bsides": {
-      "name": "側面",
-      "condition": "嘔吐庭(血反吐エリア)、黒潰れ(街灯と木のエリア)、ミサロジー(反富裕側)、反富裕(始祖庭側)に到達する",
+      "name": "Blipside",
+      "condition": "嘔吐庭(血反吐エリア)、黒潰れ(街灯と木のエリア)、ミサロジー(反富裕側)、反富裕(始祖庭側)、Wooded Lakeside B、RGB Passage B、Dysmorphia Bに到達する",
       "checkbox": {
         "downfall_garden_b": "嘔吐庭(血反吐エリア)",
         "sparkling_dimension_b": "黒潰れ(街灯と木のエリア)",
         "opal_ruins_b|opal_ruins_b_b": "ミサロジー(反富裕側)",
-        "fuchsia_suburbs_b": "反富裕(始祖庭側)"
+        "fuchsia_suburbs_b": "反富裕(始祖庭側)",
+        "visit_wooded_lakeside_b": "Wooded Lakeside B",
+        "visit_rgb_passage_b": "RGB Passage B",
+        "visit_dysmorphia_b_entrance|visit_dysmorphia_b_main": "Dysmorphia B"
       }
     },
     "survivor": {
