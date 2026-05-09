@@ -994,13 +994,16 @@
       "condition": "Войдите в основную зону Originator Garden."
     },
     "bsides": {
-      "name": "Изнанки",
-      "condition": "Посетите Downfall Garden B, Sparkling Dimension B, Opal Ruins B и Fuchsia Suburbs B.",
+      "name": "Blipside",
+      "condition": "Посетите Downfall Garden B, Sparkling Dimension B, Opal Ruins B, Fuchsia Suburbs B, Wooded Lakeside B, RGB Passage B и Dysmorphia B.",
       "checkbox": {
         "downfall_garden_b": "Downfall Garden B",
         "sparkling_dimension_b": "Sparkling Dimension B",
         "opal_ruins_b|opal_ruins_b_b": "Opal Ruins B",
-        "fuchsia_suburbs_b": "Fuchsia Suburbs B"
+        "fuchsia_suburbs_b": "Fuchsia Suburbs B",
+        "visit_wooded_lakeside_b": "Wooded Lakeside B",
+        "visit_rgb_passage_b": "RGB Passage B",
+        "visit_dysmorphia_b_entrance|visit_dysmorphia_b_main": "Dysmorphia B"
       }
     },
     "survivor": {
@@ -8644,6 +8647,65 @@
     "visit_surreal_ruins": {
       "name": "Cubic Surreality",
       "condition": "Visit Surreal Ruins World"
+    },
+    "2kki_bike_effect": {
+      "name": "Yume SR400",
+      "description": "Your trusty motorcycle, ready for you to ride through this endless dream",
+      "condition": "Obtain the Bike effect. If already obtained, return to where you have done so."
+    },
+    "farm_world_farmer": {
+      "name": "The Farmer",
+      "description": "Quite a collection of plants here...",
+      "condition": "Interact with a farmer in Farm World A"
+    },
+    "guts_world_blue_lady": {
+      "name": "Balcony Blues",
+      "description": "I can see the blood altar from up here!",
+      "condition": "See the blue lady on top of the gray building in Guts World"
+    },
+    "menu_theme_79": {
+      "name": "It's a fair price...",
+      "condition": "Obtain Menu theme #79 in Black Dust Desert. If you have already unlocked it, return to where it can be found."
+    },
+    "nonogram_sands_1_board": {
+      "name": "Puzzle in the Pail",
+      "description": "Don't spend it all in one place! Well, you literally can't.",
+      "condition": "Play a game of nonogram and claim your prize at Nonogram Sands"
+    },
+    "underwater_amusement_npcs": {
+      "name": "TV Dudes",
+      "description": "Who knows, they might be taking charge of the teleporting TVs in this weird area.",
+      "condition": "Interact with the pink and blue creatures in Underwater Amusement Park"
+    },
+    "visit_amplitude": {
+      "name": "Ashen Snowscape",
+      "description": "This isn't VR...",
+      "condition": "Visit Amplitude"
+    },
+    "visit_autumn_park": {
+      "name": "Yippe Gumball!",
+      "description": "Did you see it? Of course you did, a joyous gumball!",
+      "condition": "Visit Autumn Park"
+    },
+    "visit_cornfolks_grounds": {
+      "name": "Mages of Maize",
+      "description": "Their stare pops people like popcorn.",
+      "condition": "Visit Cornfolk's Grounds"
+    },
+    "visit_crosswalk_to_nowhere": {
+      "name": "Crossing Guard of The Future",
+      "description": "Rumor has it this thing and the World Treader are related, it's not that far-fetched if you think about it.",
+      "condition": "Visit Crosswalk To Nowhere"
+    },
+    "visit_shadow_lady_isolated": {
+      "name": "Wardrobe Secret ",
+      "description": "SG0sIHRoaXMgd2l0Y2ggaG91c2UgbG9vayBhIGxpdHRsZSBiaXQgZGlmZnJlbnQuLi4g",
+      "condition": "Reach the isolated area of Shadow Lady Estate"
+    },
+    "visit_toxicology_research": {
+      "name": "Pufferfish Extraction",
+      "description": "Or, as they say, \"blowfish\".",
+      "condition": "Visit Toxicology Research Facility"
     }
   },
   "flow": {
@@ -10329,6 +10391,11 @@
       "name": "False self",
       "description": "Who are I and them？",
       "condition": "Заполните все Сосуды с подопытными в Лаборатории."
+    },
+    "mushroom_cathedral_both": {
+      "name": "Mushroom Time Church",
+      "description": "Time really flew fast in here huh?",
+      "condition": "See both the day and night versions of Mushroom Cathedral"
     }
   },
   "genie": {
@@ -11835,6 +11902,11 @@
       "name": "Epithelial Swamp",
       "description": "Maybe more than fish thrive here?",
       "condition": "Visit the Docks"
+    },
+    "tsushin_funnel_effect": {
+      "name": "Irritating Kitty Cone",
+      "description": "You know I can never scratch my head with this...",
+      "condition": "Obtain the Funnel Effect. If already obtained, return to where you have done so."
     }
   },
   "nostalgic": {
@@ -12634,6 +12706,10 @@
       "name": "Angel Statue",
       "description": "The Angel Statue does absolutely nothing, until you look away.",
       "condition": "View the angel statue in Illusion World"
+    },
+    "ly_night_market_event": {
+      "name": "Wrong move, Kodoko!",
+      "condition": "See the event in Black Market"
     }
   },
   "okuri": {
