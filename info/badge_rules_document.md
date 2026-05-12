@@ -54,8 +54,8 @@ Limmy, I’m glad you asked. Without further ado, here is the current guidebook 
 - Badge Artists cannot make more than 10% of the "Obtain Effects" Badges for a given game.
 	- This value will be rounded up.
 		- For example, if 10% of the Effects in a game results in the number 3.4, it will be rounded up to four.
-	- Effects are defined as collectibles the Player obtains that are located and equippable from within the "inventory" screen.
-	- For example, if a Badge Artist were to create 20% of the Badges for obtaining all of the Effects in Yume Nikki, the Badge Artist would be allowed to create up to 20% of the Badges for collecting effects in another fangame.
+	- Effects are defined as collectibles the Player obtains that are located and equipable from within the "inventory" screen.
+	- For example, if a Badge Artist were to create 10% of the Badges for obtaining all of the Effects in Yume Nikki, the Badge Artist would be allowed to create up to 10% of the Badges for collecting effects in another fangame.
 - Badge Artists cannot create more than one Badge that represents an ending of a given game.
 	- For example, if a Badge Artist has created a Badge for Yume 2kki's first ending, they cannot create a Badge for Yume 2kki's second ending.
 - Badge reservations will have three months to be completed. If not completed, it will be removed from reservations.
