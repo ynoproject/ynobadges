@@ -1,7 +1,12 @@
 {
   "bp": 15,
-  "reqType": "tag",
-  "reqString": "cold_a_effect",
+  "reqType": "tagArrays",
+  "reqStringArrays": [
+    [
+      "cold_a_effect",
+      "cold_a_effect_after_event"
+    ]
+  ],
   "map": 126,
   "art": "LittleCherry",
   "animated": true,
