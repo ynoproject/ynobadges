@@ -161,6 +161,7 @@
 * Kasatate
 * Kazecita
 * Kekwet
+* KitsuneYume
 * klayfruit
 * Kofu
 * Koishi Komeiji
@@ -190,6 +191,7 @@
 * Mar
 * MarshyMae
 * Marxotic
+* Masky1977
 * Mav
 * Mediochre_
 * memorisleep
