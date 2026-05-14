@@ -567,6 +567,21 @@
     "medamaude_return": {
       "name": "In a blink of an eye, you're back at the Nexus!",
       "description": "Obtain the Medamaude effect. If you have already obtained it, return to Eyeball World."
+    },
+    "visit_sky_garden": {
+      "name": "At the Edge of the World",
+      "description": "If only you were here with me...",
+      "condition": "Visit Sky Garden"
+    },
+    "yume_bike_effect": {
+      "name": "Nightmare Navigator",
+      "description": "You'll travel to many places, but nothing will be your friend except this bike. It'll be your true companion wherever you go.",
+      "condition": "Obtain the Bicycle effect. If you have already unlocked it, return to Graffiti World."
+    },
+    "yume_fatten_effect": {
+      "name": "Friend Shaped",
+      "description": "Fat and happy!",
+      "condition": "Obtain the Fatten effect. If you have already unlocked it, return to Docks B."
     }
   },
   "2kki": {
@@ -8710,6 +8725,86 @@
       "name": "Pufferfish Extraction",
       "description": "Or, as they say, \"blowfish\".",
       "condition": "Visit Toxicology Research Facility"
+    },
+    "blast_cliffs_haniwa": {
+      "name": "Dance Dance Haniwa",
+      "description": "\"Let me break it down for ya!\"",
+      "condition": "See all the haniwa statues in Blasted Cliffs"
+    },
+    "city_of_liars_01_npc": {
+      "name": "Binary Truth",
+      "description": "A hidden gift of truth in deception and lies.",
+      "condition": "Interact with 01-Kun in City of Liars"
+    },
+    "shimako_glitched_butterfly": {
+      "name": "Shimako's Sanctuary",
+      "description": "Welcome to my haven, I hope you find it as comfy as I do.",
+      "condition": "Interact with Shimako in Glitched Butterfly Sector"
+    },
+    "visit_blue_house_road": {
+      "name": "Take Me to The City!",
+      "description": "You promised me we'd get stuck in traffic together! :D",
+      "condition": "Visit Blue House Road"
+    },
+    "visit_brutal_sewing_landscape": {
+      "name": "BRUTAL.",
+      "description": "It's not that deep.",
+      "condition": "Visit Brutal Sewing Landscape"
+    },
+    "visit_empty_abode_balcony": {
+      "name": "Construction View",
+      "description": "How do they even build them that fast?",
+      "condition": "Enter the balcony in Empty Abode"
+    },
+    "visit_highway": {
+      "name": "Life Isn't a Highway, Unfortunately",
+      "description": "Nights at the highway shine brighter. ",
+      "condition": "Visit Highway"
+    },
+    "visit_peaceful_shoal": {
+      "name": "Paradise, Paradise",
+      "description": "Built perfectly just for you. ",
+      "condition": "Visit Peaceful Shoal"
+    },
+    "visit_serpent_ruins": {
+      "name": "The Hiss List",
+      "description": "SSSsssssssss!",
+      "condition": "Visit Serpent Ruins A and Serpent Ruins B"
+    },
+    "chainsaw_day_night_towers": {
+      "name": "That Really Shatters My Urotsuki",
+      "description": "I hope nobody was watching you mess THAT up, kiddo!",
+      "condition": "Chainsaw your own reflection in the mirror room of Day and Night Towers"
+    },
+    "twilight_park_ophanim": {
+      "name": "Throne of Providence",
+      "description": "The golden likeness of God's divine harbingers.",
+      "condition": "See the ophanim in Twilight Park"
+    },
+    "visit_bathhouse_sauna": {
+      "name": "Sauna Time!",
+      "description": "Feels perfect after a refreshing bath!",
+      "condition": "Enter the sauna in Bathhouse"
+    },
+    "visit_day_night_towers": {
+      "name": "Daylight Cycles",
+      "description": "Day after night after day after night.",
+      "condition": "See all areas of the Day and Night Towers"
+    },
+    "visit_nightmare_express": {
+      "name": "There Is no Turning Back.",
+      "description": "I find to forget them, will keep them all alive.",
+      "condition": "Visit Nightmare Express"
+    },
+    "visit_restored_sky_kingdom": {
+      "name": "Olden Days",
+      "description": "Enter the old days.",
+      "condition": "Visit Restored Sky Kingdom"
+    },
+    "visit_sunflower_fields": {
+      "name": "Breezy Springtime",
+      "description": "I used to know this girl, she was like a sunflower, I wonder how she's doing nowadays...",
+      "condition": "Visit Sunflower Fields"
     }
   },
   "flow": {
@@ -9825,6 +9920,11 @@
     "broken_seagull": {
       "name": "Fragile Feathered Friend",
       "condition": "See the broken seagull event"
+    },
+    "ud_turtle_hole_event": {
+      "name": "DUDE Was Here",
+      "description": "And so was Kubo.",
+      "condition": "See the Turtle Hole event in All-Seeing Forest"
     }
   },
   "braingirl": {
@@ -10157,6 +10257,11 @@
       "name": "Luminous Lampyridae",
       "description": "Like embers, they glow so brightly and fade so fast.",
       "condition": "Visit Firefly Cycle path"
+    },
+    "amillusion_visit_abyss": {
+      "name": "Angry Vibes from Behind!",
+      "description": "Calm down, your majesty—please don't smite me!",
+      "condition": "Reach the Abyss from Chasers' Versailles"
     }
   },
   "muma": {
@@ -10400,6 +10505,16 @@
       "name": "Mushroom Time Church",
       "description": "Time really flew fast in here huh?",
       "condition": "See both the day and night versions of Mushroom Cathedral"
+    },
+    "muma_realm_orb_empty": {
+      "name": "Caution! Fragile!",
+      "description": "One day, she fell into her creation, and was shattered across dream and reality.",
+      "condition": "Witness the Realm of the Orb's Empty event"
+    },
+    "muma_visit_the_grinder": {
+      "name": "Purgatory",
+      "description": "Oh my god! They killed Muma!",
+      "condition": "Visit The Grinder"
     }
   },
   "genie": {
@@ -11520,6 +11635,16 @@
       "name": "Hydrated Radiance",
       "description": "Let there be water!",
       "condition": "Fill the pool with water in Outback Roads"
+    },
+    "oversomnia_scooter_effect": {
+      "name": "Helium-Powered Scooter",
+      "description": "Comfort and style.",
+      "condition": "Obtain the Scooter effect. If you have already unlocked it, return to Noble Gas District."
+    },
+    "oversomnia_formal_effect": {
+      "name": "Style Work Clothes",
+      "description": "You can be cute even in work too!",
+      "condition": "Obtain the Formal Effect. If you have already unlocked it, return to Electro Tower."
     }
   },
   "tsushin": {
@@ -11907,6 +12032,15 @@
       "name": "Irritating Kitty Cone",
       "description": "You know I can never scratch my head with this...",
       "condition": "Obtain the Funnel Effect. If already obtained, return to where you have done so."
+    },
+    "tsushin_roomba_effect": {
+      "name": "Roomba!",
+      "description": "A super cute and comedically large robot vacuum that you can use as a mode of transportation.",
+      "condition": "Obtain the Sweeping Robot effect. If you have already unlocked it, return to the Library."
+    },
+    "tsushin_visit_low_poly_town": {
+      "name": "Cubic Town",
+      "condition": "Visit Low-poly Town"
     }
   },
   "nostalgic": {
@@ -12459,6 +12593,11 @@
       "name": "독안에 들다",
       "description": "여길 나보고 어떻게 빠져나가라고?",
       "condition": "Good-bye Stranger의 마지막 단계에서 붙잡히기"
+    },
+    "fog_photon_effect": {
+      "name": "LE(on)D",
+      "description": "\"(phôs, phōtós) 'light'\n\"",
+      "condition": "As Leon, obtain the Photon Effect. If you have already unlocked it, return to Neon World."
     }
   },
   "cold": {
@@ -12582,6 +12721,10 @@
       "name": "A mask of my own face",
       "description": "And smile as they grip their own nd try to do the same!",
       "condition": "Obtain the Smile effect. If already obtained, return to where you have done so."
+    },
+    "cold_ending_1": {
+      "name": "is that good enough?",
+      "condition": "See the Ending #1"
     }
   },
   "loveyou": {
@@ -12710,6 +12853,20 @@
     "ly_night_market_event": {
       "name": "Wrong move, Kodoko!",
       "condition": "See the event in Black Market"
+    },
+    "ly_discomfort_bath_corpse": {
+      "name": "Worthless",
+      "condition": "View the \"It's not worth it\" event in Discomfort Bath"
+    },
+    "visit_night_field": {
+      "name": "Midnight Fields",
+      "description": "Despite the darkness and slowly gathering rain, you feel a strange feeling of comfort and relief in your heart.",
+      "condition": "Visit Night Field"
+    },
+    "ly_candle_death_world": {
+      "name": "The Light That Shines Beyond Death",
+      "description": "When all is lost to death, a candle still whispers hope.",
+      "condition": "Use the Candle effect in Death World"
     }
   },
   "okuri": {

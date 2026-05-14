@@ -1,10 +1,14 @@
 {
-  "animated": true,
-  "art": "LittleCherry",
-  "batch": 212,
   "bp": 15,
+  "reqType": "tagArrays",
+  "reqStringArrays": [
+    [
+      "cold_a_effect",
+      "cold_a_effect_after_event"
+    ]
+  ],
   "map": 126,
-  "reqStrings": ["cold_a_effect", "cold_a_effect_after_event"],
-  "reqCount": 1,
-  "reqType": "tags"
+  "art": "LittleCherry",
+  "animated": true,
+  "batch": 212
 }
