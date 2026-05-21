@@ -1,6 +1,6 @@
 # Badge Rules Document
 
-*** THE RULES OF THIS DOCUMENT WERE LAST UPDATED ON 3/13/2025 @ 10:00 AM PST ***
+*** THE RULES OF THIS DOCUMENT WERE LAST UPDATED ON 5/11/2026 @ 10:00 PM PST ***
 
 *** BADGES SUBMITTED PRIOR TO THIS DATE ARE SUBJECTED TO PRIOR RULES DOCUMENTS ***
 
@@ -34,7 +34,7 @@ The Badge Committee was created as a way for regular users to have a say in furt
 
 ### So, what are the new badge rules?
 
-Bimmy, I’m glad you asked. Without further ado, here is the current guidebook for Badge production.
+Limmy, I’m glad you asked. Without further ado, here is the current guidebook for Badge production.
 
 ## Badge Reservation Rules
 - Badge Artists can only have up to four Badges reserved at once. This reservation count applies to all games.
@@ -51,6 +51,13 @@ Bimmy, I’m glad you asked. Without further ado, here is the current guidebook 
     - For example, if an Artist has four currently reserved Badges and wants to reserve another, DO NOT reserve that Badge for them to ensure it will be available once they have an open slot.
 - Badge Artists cannot make more than 20% or three of the total badges a given author currently has that are implemented and obtainable, whichever is larger. Please ensure your reservation is valid by calculating this yourself; or ask a moderator to do it for you. We *will* check before your Badge is added.
     - For example, if qxy content has twenty Badges obtainable, and you have made four of those Badges, you need to wait for other Badges to be implemented.
+- Badge Artists cannot make more than 10% of the "Obtain Effects" Badges for a given game.
+	- This value will be rounded up.
+		- For example, if 10% of the Effects in a game results in the number 3.4, it will be rounded up to four.
+	- Effects are defined as collectibles the Player obtains that are located and equipable from within the "inventory" screen.
+	- For example, if a Badge Artist were to create 10% of the Badges for obtaining the Effects in Yume Nikki, the Badge Artist would be allowed to create up to 10% of the Badges for collecting effects in another fangame.
+- Badge Artists cannot create more than one Badge that represents an ending of a given game.
+	- For example, if a Badge Artist has created a Badge for Yume 2kki's first ending, they cannot create a Badge for Yume 2kki's second ending.
 - Badge reservations will have three months to be completed. If not completed, it will be removed from reservations.
 - Badges for new content cannot be reserved for the first 72 hours after release on YNOProject. If content is updated, this rule will re-apply.
     - When an update is released, a Badge Committee member will try to post a timestamp for when Badges can be reserved for that update.

@@ -1,16 +1,16 @@
 {
-  "animated": true,
-  "art": "Ren",
-  "batch": 100,
-  "bp": 15,
   "group": "2_el",
-  "map": 1827,
+  "bp": 15,
+  "reqType": "tagArrays",
   "reqStringArrays": [
     [
       "seesaw_critter_village_a",
       "seesaw_critter_village_b"
     ]
   ],
-  "reqType": "tagArrays",
-  "secretCondition": true
+  "map": 1827,
+  "secretCondition": true,
+  "art": "Ren",
+  "animated": true,
+  "batch": 100
 }
