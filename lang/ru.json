@@ -8801,6 +8801,205 @@
       "name": "Breezy Springtime",
       "description": "I used to know this girl, she was like a sunflower, I wonder how she's doing nowadays...",
       "condition": "Visit Sunflower Fields"
+    },
+    "2kki_crossing_effect": {
+      "name": "And... STOP!!!",
+      "condition": "Obtain the Railroad Crossing effect. If you have already unlocked it, return to Heart World."
+    },
+    "2kki_visit_museums": {
+      "name": "Idol of the Forgotten Dreamer",
+      "description": "This strange idol was uncovered in a ruined Japanese Temple. No one knows what it represents but it emanates an abnormal glow. It has been moved to a museum where two security guards are always watching over it for unknown reasons...",
+      "condition": "Visit both the Museum and Dark Museum",
+      "checkbox": {
+        "2kki_visit_dark_museum": "Dark Museum",
+        "2kki_visit_museum": "Museum"
+      }
+    },
+    "animated_hub_vm": {
+      "name": "Lactose intolerance",
+      "description": "You fainted from milkiness overload!",
+      "condition": "View the vending machine event in Animated Hub"
+    },
+    "crossing_forest_apricot_wolf": {
+      "name": "Real Fake Fox",
+      "description": "The folks in the Nexus would LOVE you!",
+      "condition": "Interact with Apricot in Crossing Forest with the Wolf effect"
+    },
+    "marble_ruins_balcony": {
+      "name": "Marble Sky",
+      "description": "At the top of the tower only moonlight reaches its halls.",
+      "condition": "Reach the Balcony at the top of the Marble Tower in Marble Ruins"
+    },
+    "olympus_ruins_man_statue": {
+      "name": "Herculean Titan",
+      "description": "If all on Olympus will deny me my vengeance, then all on Olympus will die.",
+      "condition": "See the large statue of a man in Olympus Ruins"
+    },
+    "pastel_pools_star_surfer": {
+      "name": "Starstruck Surfer",
+      "description": "The only thing he loves more than surfing... is penguins.",
+      "condition": "Make the Surfer in Pastel Pools become a Star Man"
+    },
+    "rusted_city_computer": {
+      "name": "Machinery That Lasts",
+      "description": "Well... Don't let the rust consume you now.",
+      "condition": "Interact with the only working computer in Rusted City"
+    },
+    "visit_cloud_haven": {
+      "name": "Head in the Clouds",
+      "description": "\"I found this really soft picnic spot!\"",
+      "condition": "Visit Cloud Haven"
+    },
+    "visit_dal_segno": {
+      "name": "Displacement Dal Segno",
+      "description": "Let's meet again at the village where snow falls, and the fireflies fly.",
+      "condition": "Visit Dal Segno Labyrinth"
+    },
+    "visit_white_lily_lab": {
+      "name": "Lilium",
+      "description": "Simply reaching here is not the end. The lilies... they hide a sinister secret. Let the world guide you to the last dream.",
+      "condition": "Visit White Lily Laboratory"
+    },
+    "2kki_visit_docks": {
+      "name": "What's Up, Dock?",
+      "description": "Either you love maritime infrastructure, or you may be a boat. Either way, this is your token of dock appreciation!",
+      "condition": "Visit the following worlds themed around docks: Docks, Lezaxzasea Docks, Streetlight Docks, Flooded Docks, Barley Docks, Dreadful Docks, Rainy Docks, Blinking Docks, Serene Docks, Wan Lotus Docks, White Pillar Docks, Birch Tree Docks, and Sweet Pink Docks"
+    },
+    "emerald_cave_yellow_creature": {
+      "name": "Emerald Caver",
+      "description": "Big fan of whatever this is.",
+      "condition": "See the yellow creature in Emerald Cave"
+    },
+    "frozen_disco_reveal_lamplighter": {
+      "name": "The Disco of Pain",
+      "description": "The pain never ends, and it haunts me in the afterlife",
+      "condition": "Use the Glasses effect to reveal the Lamplighter in Frozen Disco"
+    },
+    "neon_sewers_rooftop": {
+      "name": "Where an Afterglow Revolves Forever",
+      "description": "After reaching the top of the world everything is far beyond reach, the world flows forever, together with an eternal afterglow.",
+      "condition": "Reach the rooftop in Neon Sewers"
+    },
+    "rbw_tiles_creatures": {
+      "name": "Colorful Critters",
+      "description": "Not all who wander are truly lost.",
+      "condition": "Interact with every creature in Rainbow Tiles Maze"
+    },
+    "visit_acerola_world": {
+      "name": "Pocket DIEmension",
+      "description": "Fear the flower.",
+      "condition": "Visit Acerola World"
+    },
+    "visit_desktops": {
+      "name": "Window to the Past",
+      "description": "Nostalgia is a beautiful but melancholic feeling.",
+      "condition": "Visit the following worlds themed around desktops: The Desktop, File Viewer, Azure Overdose Zone, Sink Catalog, ASCII Symbol World, and Tranquil Park",
+      "checkbox": {
+        "file_viewer": "File Viewer",
+        "tranquil_park": "Tranquil Park",
+        "visit_ascii_symbol_zone": "ASCII Symbol Zone",
+        "visit_azure_overdose_zone": "Azure Overdose Zone",
+        "visit_sink_catalog": "Sink Catalog",
+        "visit_the_desktop": "The Desktop"
+      }
+    },
+    "visit_sprite_lake": {
+      "name": "A Land Where Water and Sky are One",
+      "description": "The most patient adventurers receive the most beautiful reward.",
+      "condition": "Visit Sprite Lake"
+    },
+    "2kki_abyss_giant_monster": {
+      "name": "Analog H-Uro-r",
+      "description": "Restez à l'écart des terres interdites.",
+      "condition": "See the Giant Urotsuki Monster in Abyss"
+    },
+    "2kki_child_effect": {
+      "name": "Inner Child",
+      "description": "Back to simpler times...",
+      "condition": "Obtain the Child effect. If you have already unlocked it, return where it can be in found in the isolated section of the Hourglass Desert accessible from Ocean Floor."
+    },
+    "2kki_rainy_town_ambush": {
+      "name": "No More Lighting Lamps",
+      "description": "Thanks for working so hard...?",
+      "condition": "Trigger the Ghostly Ambush event in Rainy Town"
+    },
+    "2kki_visit_cloud_tops": {
+      "name": "Each Day Better than the Last",
+      "description": "Daytime turns into dusk, dusk turns into nighttime, and nighttime turns into dawn.",
+      "condition": "Visit Cloud Tops"
+    },
+    "ghostly_interiors": {
+      "name": "Spirit Resonance",
+      "description": "A sound Spirit dwells within a sound mind....and a sound body...",
+      "condition": "Войдите в особняк духов в Haunted Forest Town."
+    },
+    "pastel_sea_girl_reactions": {
+      "name": "All Devoured Beneath a Gentle Face",
+      "description": "She wears a princess's smile—yet hunts as the queen of the deep.",
+      "condition": "See all effect reactions from the girl in the chair in the Sunken Ship Mansion of Pastel Dream Sea"
+    },
+    "red_monastery_chainsaw": {
+      "name": "Crybaby",
+      "description": "\"I mean, you DID stab them with a chainsaw.\"",
+      "condition": "Chainsaw the sad face in Red Monastery"
+    },
+    "robotic_inst_glitch_event": {
+      "name": "Corrupted Facility",
+      "condition": "Witness the glitched event in Robotic Institution"
+    },
+    "server_not_found_landlady": {
+      "name": "The Twin Eyes that Hold Two Worlds",
+      "description": "Beneath shadowed white, two colors awaken.",
+      "condition": "Interact with Landlady in Server Not Found "
+    },
+    "visit_farewell_residence": {
+      "name": "Rusted Tranquility",
+      "description": "Echos of a final goodbye, lingering within a forlorn town.",
+      "condition": "Visit Farewell Residence"
+    },
+    "visit_rockbound_beach": {
+      "name": "Rocky Islands",
+      "condition": "Visit Rockbound Beach"
+    },
+    "visit_the_skin": {
+      "name": "This is the REAL Me!",
+      "description": "Now I have NOTHING TO HIDE",
+      "condition": "Visit The Skin"
+    },
+    "azure_odzsa_chainsaw": {
+      "name": "My Small Place",
+      "description": "Tiring of life, sleep in the dark small place in the web",
+      "condition": "Equip the Chainsaw in the subarea where Sniper-San is in Azure Overdose Zone"
+    },
+    "crimson_drains_dragon": {
+      "name": "Vermilion Hydra",
+      "description": "Each head is a sin; each belch of fire is a sin put to action.",
+      "condition": "View the double dragon heads in Crimson Drains"
+    },
+    "limestome_dam_reactions": {
+      "name": "The Great Prism in the Sky",
+      "description": "And I am not frightened of dreaming",
+      "condition": "Use every effect that reacts to the giant prism in Limestone Dam"
+    },
+    "monochrome_abyss_flier": {
+      "name": "In the Monochrome Skies",
+      "description": "It's a bird! It's a plane! no, it's totally not a Tako-Fuusen!",
+      "condition": "Witness Takofuusen's distant cousin in Monochromatic Abyss"
+    },
+    "stereo_station_bunny": {
+      "name": "Music Notes",
+      "description": "What a chill little bunny. Where did that sound come from, though?",
+      "condition": "Interact with the bunny in Stereo Station"
+    },
+    "visit_blasted_cliffs": {
+      "name": "Turbine Tempest",
+      "description": "Above the clouds beyond the cliffs they spin.",
+      "condition": "Visit Blasted Cliffs"
+    },
+    "visit_candlelight_void": {
+      "name": "Unfading Gloomlight",
+      "description": "Glimmering lights linger along your way",
+      "condition": "Visit Candlelight Void"
     }
   },
   "flow": {
@@ -9143,6 +9342,16 @@
       "name": "Are you sure they won't realize it's me?",
       "description": "\"C'mon, trust me, they won't see you.\"",
       "condition": "Obtain the Black Hood effect. If already obtained, return to where it can be found in Disposal."
+    },
+    "flow_orekos": {
+      "name": "Every Version of Her",
+      "condition": "See Oreko in the Hospital, Orange Maze, Submarine World, and in the Deadhole sub-area of Hole",
+      "checkbox": {
+        "flow_oreko_deadhole": "Deadhole sub-area of Hole",
+        "flow_oreko_hospital": "Hospital",
+        "flow_oreko_orange_maze_1|flow_oreko_orange_maze_2": "Orange Maze",
+        "flow_oreko_submarine_world_1|flow_oreko_submarine_world_2|flow_oreko_submarine_world_3|flow_oreko_submarine_world_4": "Submarine World"
+      }
     }
   },
   "deepdreams": {
@@ -9379,6 +9588,16 @@
     "rainbow_theme": {
       "name": "Rainbow Bloom",
       "condition": "Obtain the Rainbow system. If you have already unlocked it, return to the restrooms of the Rainbow Scratch Park."
+    },
+    "dd_cathedral": {
+      "name": "The Cathedral of Your Dreams",
+      "description": "Cathedral of dreams, a sanctuary of eternal light where stained glass mirrors your forgotten memories.",
+      "condition": "Visit Cathedral"
+    },
+    "rafflesia_pin": {
+      "name": "Lady Rafflesia",
+      "description": "The bearer of a smile as unpleasant as the rafflesia's signature stench",
+      "condition": "Доберитесь до последней комнаты Квартир."
     }
   },
   "someday": {
@@ -9921,6 +10140,11 @@
       "name": "DUDE Was Here",
       "description": "And so was Kubo.",
       "condition": "See the Turtle Hole event in All-Seeing Forest"
+    },
+    "ud_dementia_wake_up": {
+      "name": "Lights Off",
+      "description": "I lost it all before I knew I had it.",
+      "condition": "Trigger the wake up event in Dementia"
     }
   },
   "braingirl": {
@@ -10258,6 +10482,11 @@
       "name": "Angry Vibes from Behind!",
       "description": "Calm down, your majesty—please don't smite me!",
       "condition": "Reach the Abyss from Chasers' Versailles"
+    },
+    "ami_train_woman_music": {
+      "name": "Jazzy Tune",
+      "description": "But first, will you dance with me?",
+      "condition": "Interact with the woman who changes the music in Le Jazzy Train Bleu"
     }
   },
   "muma": {
@@ -10511,6 +10740,11 @@
       "name": "Purgatory",
       "description": "Oh my god! They killed Muma!",
       "condition": "Visit The Grinder"
+    },
+    "muma_ending_3": {
+      "name": "Nothing Inside",
+      "description": "Let's leave this world behind us...",
+      "condition": "See the Ending #3"
     }
   },
   "genie": {
@@ -10752,6 +10986,11 @@
       "name": "Knight In Shining Armor",
       "description": "I'll always protect you.",
       "condition": "Obtain the Golden Armor delusion. If already obtained, return to where it can be found in Golden Canopy."
+    },
+    "dg_freezing_point_blob": {
+      "name": "Unbalanced Temperature",
+      "description": "Maybe it's not too bad.",
+      "condition": "Interact with the screaming chromatic blob thing in Freezing Point"
     }
   },
   "mikan": {
@@ -11641,6 +11880,11 @@
       "name": "Style Work Clothes",
       "description": "You can be cute even in work too!",
       "condition": "Obtain the Formal Effect. If you have already unlocked it, return to Electro Tower."
+    },
+    "visit_emerald_shrubland_iso": {
+      "name": "In the Quiet of Waiting for Something",
+      "description": "While the magpie waits for something, we share a quiet of our own.",
+      "condition": "Visit the isolated section of Emerald Shrubland from the Vile Tunnels"
     }
   },
   "tsushin": {
@@ -12041,6 +12285,20 @@
     "tsushin_visit_low_poly_town": {
       "name": "Cubic Town",
       "condition": "Visit Low-poly Town"
+    },
+    "tsushin_forever_bus_stop": {
+      "name": "Forgotten Route",
+      "description": "This bus sure is taking forever.",
+      "condition": "See the bus stop in Forest Bus Stop"
+    },
+    "tsushin_seaside_night_light_bug": {
+      "name": "Bioluminescent Seashells",
+      "condition": "Use the Light Bug effect in the night version of Seaside"
+    },
+    "tsushin_snow_globe_effect": {
+      "name": "Cutest Little Snowglobe",
+      "description": "Happy Holidays from your beloved Wormiko!",
+      "condition": "Obtain the Snow Globe effect. If you have already unlocked it, return where it can be found in Snowy Avenue."
     }
   },
   "nostalgic": {
@@ -12598,6 +12856,11 @@
       "name": "LE(on)D",
       "description": "\"(phôs, phōtós) 'light'\n\"",
       "condition": "As Leon, obtain the Photon Effect. If you have already unlocked it, return to Neon World."
+    },
+    "fog_8ball_effect": {
+      "name": "Ask Me Anything",
+      "description": "Reply hazy, please try again.",
+      "condition": "Obtain the 8 Ball effect. If you have already unlocked it, return to the Path to Pyramid in Grass World."
     }
   },
   "cold": {
@@ -12725,6 +12988,11 @@
     "cold_ending_1": {
       "name": "is that good enough?",
       "condition": "See the Ending #1"
+    },
+    "cold_visit_school_rooftop": {
+      "name": "Sky of the Past",
+      "description": "The past flashing before your eye but you can't do anything about it.",
+      "condition": "Reach Rooftop in the School"
     }
   },
   "loveyou": {
@@ -12867,6 +13135,26 @@
       "name": "The Light That Shines Beyond Death",
       "description": "When all is lost to death, a candle still whispers hope.",
       "condition": "Use the Candle effect in Death World"
+    },
+    "ly_railroad_smoker": {
+      "name": "Phantom Express",
+      "description": "A brawl is surely brewing! You're up!",
+      "condition": "Interact with the Smoking Motorman in Orange Railroad Crossing"
+    },
+    "ly_visit_red_corridors": {
+      "name": "Erythrophobia",
+      "description": "\"YOU WILL PERMIT IT TO PASS OVER YOU AND GO THROUGH YOU.\nAND WHEN IT HAS GONE PAST, YOU WILL TURN THE INNER EYE TO SEE IT'S PATH.\"",
+      "condition": "Visit Red Corridors"
+    },
+    "ly_visit_summer_house": {
+      "name": "Everything and Anything Between You and Me...",
+      "description": "... was never meant, 'cause you can't miss what you forget.",
+      "condition": "See the Summer House"
+    },
+    "ly_meat_cleaver_effect": {
+      "name": "Old Blood and Steel",
+      "description": "I loved you, but now I hate you...",
+      "condition": "Obtain the Meat Cleaver effect. If you have already unlocked it, return to Copper World."
     }
   },
   "okuri": {
@@ -12920,6 +13208,53 @@
       "name": "A Symphony of Raindrops and Blossoms",
       "description": "Summer begins with the color of rain.",
       "condition": "Witness the storm in Hydrangea Square"
+    },
+    "okuri_turtle_effect": {
+      "name": "Please Take Care of Me",
+      "description": "They little bit shy are they?",
+      "condition": "Obtain the Turtle effect. If you have already unlocked it, return where it can be found in Veranda."
+    },
+    "okuri_bells": {
+      "name": "Little Bell-Ringer",
+      "description": "Would you care to make a donation to the Subconscious Association?",
+      "condition": "Interact with every bell in Bell Passage"
+    },
+    "okuri_close_effect": {
+      "name": "Mini Butsudan",
+      "description": "How do you even walk with that?",
+      "condition": "Obtain the Close effect. If you have already unlocked it, return to Tatami Room."
+    },
+    "okuri_flower_effect": {
+      "name": "Chrysanthemums Adrift in Tranquility",
+      "description": "Chrysanthemums drift—and so do I.",
+      "condition": "Obtain the Chrysantheum effect. If you have already unlocked it, return to Chrysanthemums and Water Surface."
+    },
+    "okuri_sunflower_effect": {
+      "name": "Sun Petals",
+      "description": "Maybe it wouldn't hurt to look at the sun this time.",
+      "condition": "Obtain the Sunflower effect. If you have already unlocked it, return where it can be found in Field of Sunflowers."
+    },
+    "okuri_visit_veranda": {
+      "name": "Slow & Serene",
+      "description": "Relax and take it easy.",
+      "condition": "Visit Veranda"
+    }
+  },
+  "scarynikki": {
+    "sn_lightningtsuki": {
+      "name": "Lightningtsuki",
+      "description": "You interacted with him and got this stupid badge of him. Great job!",
+      "condition": "Interact with Lightningtsuki in his room"
+    },
+    "sn_pear_effect": {
+      "name": "Sanpearutsuki",
+      "description": "The happiest, most joyous specimen to ever live.",
+      "condition": "Equip the Pear effect where it was obtained in WIP"
+    },
+    "sn_school_flying": {
+      "name": "Violet Wings that Tear Through the Heavens",
+      "description": "Wings meant to break the boundaries of the world.",
+      "condition": "View the flying event at the school balcony"
     }
   }
 }
