@@ -1,8 +1,8 @@
 # Badge Rules Document
 
-*** THE RULES OF THIS DOCUMENT WERE LAST UPDATED ON 5/11/2026 @ 10:00 PM PST ***
+*** THE RULES OF THIS DOCUMENT WERE LAST UPDATED ON 5/27/2026 @ 10:00 PM PST ***
 
-*** BADGES SUBMITTED PRIOR TO THIS DATE ARE SUBJECTED TO PRIOR RULES DOCUMENTS ***
+*** BADGES SUBMITTED PRIOR TO THIS DATE ARE SUBJECTED TO PRIOR REVISIONS OF THE RULES DOCUMENT ***
 
 
 ## What is a Badge?
@@ -14,9 +14,9 @@ Badges can be equipped and displayed next to your name when you send a message i
 Badges are meant to be a reward given to the player for achieving something that takes time, effort, skill, or in some cases, RNG.
 
 
-### Why were the badge rules changed?
+### Why was this document written?
 
-Badge rules were changed due to numerous issues that we kept noticing or having reported to us, including but not limited
+This document was created due to numerous issues that we kept noticing or having reported to us, including but not limited
 to:
 
 - Artists monopolizing specific authors (wataru, qxy, Kong)
@@ -27,14 +27,14 @@ to:
 This list, again, does not include all of the reasons. No particular Artists were the cause of the Badge rule changes.
 
 
-### What’s this new-fangled Badge Committee?
+### What is the Badge Committee?
 
 The Badge Committee was created as a way for regular users to have a say in further Badge development. The terms moderator/Badge Committee are interchangeable in this document, as all moderators are a member of the Badge Committee by default, and Badge Committee members moderate Badge related activity.
 
 
-### So, what are the new badge rules?
+### So, what are the Badge rules?
 
-Limmy, I’m glad you asked. Without further ado, here is the current guidebook for Badge production.
+Wimmy, I’m glad you asked. Without further ado, here is the current guidebook for Badge production.
 
 ## Badge Reservation Rules
 - Badge Artists can only have up to four Badges reserved at once. This reservation count applies to all games.
@@ -49,7 +49,7 @@ Limmy, I’m glad you asked. Without further ado, here is the current guidebook 
     - All Artist(s) found in violation of this rule will be suspended from Badge production for three months.
     - The second violation will result in a permanent ban from Badge production, as well as consideration for removal of all currently published Badges.
     - For example, if an Artist has four currently reserved Badges and wants to reserve another, DO NOT reserve that Badge for them to ensure it will be available once they have an open slot.
-- Badge Artists cannot make more than 20% or three of the total badges a given author currently has that are implemented and obtainable, whichever is larger. Please ensure your reservation is valid by calculating this yourself; or ask a moderator to do it for you. We *will* check before your Badge is added.
+- Badge Artists cannot make more than 20% or three of the total badges a given author currently has that are implemented and obtainable, whichever is larger. Please ensure your reservation is valid by calculating this yourself; or ask a Badge Committee Member to do it for you. We *will* check before your Badge is added.
     - For example, if qxy content has twenty Badges obtainable, and you have made four of those Badges, you need to wait for other Badges to be implemented.
 - Badge Artists cannot make more than 10% of the "Obtain Effects" Badges for a given game.
 	- This value will be rounded up.
@@ -224,12 +224,15 @@ This section of the rules is heavily up to interpretation. If you can provide a 
 ## Badge Lotto Explanation
 
 The Badge Lotto is the most fair system we could devise to handle multiple Artists desiring to make the same Badge. While standard reservations are still on a first come, first served basis, Badges that need to be replaced under the following rules below will enter the Badge Lotto.
-By following the rules below, you may enter the Badge Lotto. A wheel will be spun with everyone’s entry on it, and the Badge Artist will be decided in this way.
+By following the rules below, you may enter the Badge Lotto. **A wheel will be spun with everyone’s entry on it, and the Badge Artist will be decided in this way.**
 
 ### Badge Lotto Rules
 
 - **Badge Lottos are hosted in the YNO Discord. If you are not a member, you cannot participate in the Badge Lotto.**
+- Badge Lottos are performed by adding every interested Badge Artist's name to a wheel.
+	- The wheel is then spun. Badge Lottos are decided on a best-of-one system, where the first Badge Artist spun on the wheel will receive the right to reserve the Badge.
 - When a Badge is lotto’d away, there will be an announcement posted with a sign-up sheet.
+	- Badge Artists can join a Lotto up until 24 hours before the Lotto is to be hosted.
 - Do not sign up for a lotto Badge if you are already at maximum current reservations.
     - Maximum current reservations is **four** if the Lotto is not for a banned user.
     - Maximum current reservations is **five** if the Lotto is for a banned user.
@@ -240,7 +243,6 @@ By following the rules below, you may enter the Badge Lotto. A wheel will be spu
     - Do not sign up so you can win the lotto and give the Badge to somebody else.
         - Artists found in violation of this rule will have all of their Badge reservations removed and will be suspended from producing Badges for six months.
 - Please sign up for the Badge Lotto with your **Discord Username or User ID Number**.
-- A wheel will have every user’s name put onto it, and then spun.
 - If an Artist wins the lotto, that Artist cannot drop the Badge or give the Badge to somebody else.
     - The Badge will remain reserved until the Artist’s reservation expires.
     - This is to ensure that no one is winning Badges to hold onto for someone else.
@@ -251,11 +253,12 @@ By following the rules below, you may enter the Badge Lotto. A wheel will be spu
     - Badge Artist is banned from YNOProject.
     - Badge Artist requests their art to be removed.
     - Badge reservation expires.
+	- Multiple Badge Artists would like to reserve a new Badge.
 
 
 ## Banned Users
 
-If a Badge Artist is banned from YNOProject, the following actions will occur:
+If a Badge Artist is banned from YNOProject or from making Badges, the following actions will occur:
 - The banned Artist’s solo-credited Badges are made available for reservation.
     - These Badges follow the same rules as new content Badges.
         - Please refer to [Badge Reservation Rules](#badge-reservation-rules) for more specifics.
@@ -274,6 +277,25 @@ If a Badge Artist is banned from YNOProject, the following actions will occur:
 
 ### Other Banned User Related Rules
 
-- Artists may have one additional Badge reservation specifically for a banned user Badge.
+- Badge Artists may have one additional Badge reservation specifically for a banned user Badge.
     - Do not use this slot for anything other than banned user Badge reservations.
     - Please include in your Badge notes “Banned User Badge”.
+
+
+## Punishments and Restrictions
+
+- Badge Artists may receive punishments or restrictions for breaking any of the rules outlined in this document.
+- Badge Artists are given five strikes. For each strike, a different punishment will occur.
+	- Strike one: The Badge Artist is temporarily restricted from reserving or making Badges for **two weeks**.
+	- Strike two: The Badge Artist is temporarily restricted from reserving or making Badges for **one month**.
+	- Strike three: The Badge Artist is temporarily restricted from reserving or making Badges for **three months**.
+	- Strike four: The Badge Artist is temporarily restricted from reserving or making Badges for **six months**.
+	- Strike five: The Badge Artist is **permanently banned from reserving or making Badges**.
+		- Upon receiving strike five, the Badge Artist's Badges will fall under the [Banned Users Ruleset](#banned-users).
+
+
+## Badge Committee Team Clause
+
+- In the event that there is a misunderstanding or a misuse of the rules, the Badge Committee shall convene and discuss the problem.
+	- The Badge Committee reserves the right to pass any final judgement on the situation.
+	- There is no estimate for how long any discussion may take.
