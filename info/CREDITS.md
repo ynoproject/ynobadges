@@ -67,6 +67,7 @@
 * Carbonara
 * catling
 * Catmat
+* Catsalotl
 * ChatteringTeethDemon
 * chiitriangle
 * Chimata
@@ -83,6 +84,7 @@
 * CoolKid95
 * cosmicmoths
 * Cosrie
+* Cris
 * Crisptal
 * dabe
 * DallyDEF
@@ -140,6 +142,7 @@
 * Hourai
 * Hyo
 * iEcilpse
+* Iesu
 * IronCam
 * Ivinous
 * Jameson
@@ -176,6 +179,7 @@
 * laura
 * Lester Vine
 * Libra
+* Limbs
 * LittleCherry
 * Liyzard
 * lnd
@@ -203,6 +207,7 @@
 * Minta
 * MittenBits
 * mitzyrie
+* mokqz2
 * monte
 * moodeity
 * moolk
@@ -303,6 +308,7 @@
 * Simmer
 * Siruku
 * Sleepyghost
+* sleepysky
 * snailClippin
 * sniperbob
 * Snoocola
