@@ -40,7 +40,7 @@
 * ani
 * Animatic
 * Anju
-* Anni
+* Anii
 * ApeMan
 * arksynapse
 * Arumita
