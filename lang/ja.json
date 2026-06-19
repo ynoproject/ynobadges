@@ -9174,6 +9174,7 @@
         "azure_garden": "Azure Garden",
         "blossoming_brooch": "Adabana Gardens",
         "originator_garden": "Originator Garden",
+        "snowdrop_garden": "Snowdrop Garden",
         "streetlight": "Streetlight Garden",
         "visit_abyssal_garden": "Abyssal Garden",
         "visit_bleeding_heads_garden": "Bleeding Heads Garden",
@@ -9185,7 +9186,6 @@
         "visit_mansion_garden": "Mansion Garden",
         "visit_pocket_garden": "Pocket Garden",
         "visit_ruined_garden": "Ruined Garden",
-        "visit_snowdrop_garden": "Snowdrop Garden",
         "visit_spiked_fence_garden": "Spiked Fence Garden",
         "visit_tesla_garden": "Tesla Garden"
       }
@@ -9195,7 +9195,7 @@
       "description": "There's no place like... IWANNABEAWITCH!",
       "condition": "Equip the Akama Witch mask in Jigsaw Puzzle World"
     },
-    "visit_blue_cactus_islands": {
+    "shoal_blue_cactus": {
       "name": "Tranquil Life",
       "description": "Once you arrive, you'll never wanna leave.",
       "condition": "Visit Blue Cactus Islands"
@@ -9332,6 +9332,11 @@
       "description": "Lying from photo to reality.",
       "condition": "See the wake up event in the Playground of Mystery Zone B"
     },
+    "neon_sea": {
+      "name": "Party Reef",
+      "description": "Let's dance! (if we could since we're underwater)",
+      "condition": "Visit Neon Sea"
+    },
     "smooth_coastline_flowers": {
       "name": "Flowers that Bloom in Isolation",
       "description": "Don't get too close!",
@@ -9341,11 +9346,6 @@
       "name": "Monochrome Tomb",
       "description": "This glyphic labyrinth will claim you as its own if you lose your way...",
       "condition": "Visit Glyphic Mausoleum"
-    },
-    "visit_neon_sea": {
-      "name": "Party Reef",
-      "description": "Let's dance! (if we could since we're underwater)",
-      "condition": "Visit Neon Sea"
     },
     "visit_urban_underworld": {
       "name": "Towering Urbanism",
@@ -13851,15 +13851,15 @@
       "description": "リラックスして、気楽に過ごしましょう。",
       "condition": "縁側に到達する"
     },
+    "bouquet_sakura": {
+      "name": "Bloom Beneath the Spring Sky",
+      "description": "Wrapped in sunlight, painted in sakura.",
+      "condition": "Obtain the Sakura effect. If already obtained, return to where you have done so."
+    },
     "okuri_maple_effect": {
       "name": "Dressed in Scarlet Leaves",
       "description": "Slip your sleeves into crimson autumn.",
       "condition": "Obtain the Maple effect. If already obtained, return to where you have done so."
-    },
-    "okuri_sakura_effect": {
-      "name": "Bloom Beneath the Spring Sky",
-      "description": "Wrapped in sunlight, painted in sakura.",
-      "condition": "Obtain the Sakura effect. If already obtained, return to where you have done so."
     }
   },
   "scarynikki": {
