@@ -43,6 +43,7 @@
 * Anju
 * ApeMan
 * arksynapse
+* aronek
 * Arumita
 * Athoth
 * aukse
@@ -204,6 +205,7 @@
 * miau
 * Michi
 * MillieAmp
+* mina
 * Minta
 * MittenBits
 * mitzyrie
@@ -301,6 +303,7 @@
 * Shakzass
 * Sheanicc
 * Shimogari
+* ShinyLurantis
 * shirleycrow
 * shrimpy
 * sillyzawa
@@ -374,6 +377,7 @@
 * xenonquark996
 * yamabuki
 * Yarshmellow
+* yayoimaika
 * YouArentDistorted
 * Youli
 * Yumebako
