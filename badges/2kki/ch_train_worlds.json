@@ -1,23 +1,60 @@
 {
-  "group": "2_el",
+  "group": "4_ch",
   "bp": 40,
-  "reqType": "tags",
-  "reqStrings": [
-    "visit_crimson_district",
-    "visit_crossing_forest",
-    "visit_dark_forest",
-    "visit_fragmented_station",
-    "visit_frozen_smile_world",
-    "visit_labyrinth_of_dread",
-    "visit_ogh_colorless_pier",
-    "visit_old_train_station",
-    "visit_rice_field",
-    "visit_stereo_station",
-    "visit_ticking_blackout_zone",
-    "visit_train_tracks",
-    "visit_underground_subway",
-    "visit_wooded_lakeside_a_a",
-    "visit_wooded_lakeside_a_b"
+  "reqType": "tagArrays",
+  "reqStringArrays": [
+    [
+      "promnesic_terminal_visit"
+    ],
+    [
+      "visit_old_train_station"
+    ],
+    [
+      "visit_train_tracks"
+    ],
+    [
+      "visit_amplitude"
+    ],
+    [
+      "forgotten_station"
+    ],
+    [
+      "visit_crimson_district"
+    ],
+    [
+      "visit_dark_forest"
+    ],
+    [
+      "visit_fragmented_station"
+    ],
+    [
+      "visit_crossing_forest"
+    ],
+    [
+      "visit_labyrinth_of_dread"
+    ],
+    [
+      "visit_stereo_station"
+    ],
+    [
+      "visit_frozen_smile_world"
+    ],
+    [
+      "visit_underground_subway"
+    ],
+    [
+      "visit_rice_field"
+    ],
+    [
+      "visit_ogh_colorless_pier"
+    ],
+    [
+      "visit_wooded_lakeside_a_a",
+      "visit_wooded_lakeside_a_b"
+    ],
+    [
+      "visit_ticking_blackout_zone"
+    ]
   ],
   "map": 312,
   "secretMap": true,
