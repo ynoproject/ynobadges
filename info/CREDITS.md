@@ -95,7 +95,6 @@
 * deg
 * denji9099
 * desktopghost
-* Dmitry Pro
 * DolphinDan
 * DreamBird
 * DreamScape
@@ -332,7 +331,6 @@
 * sugarbones
 * Sugarcan3333
 * summersn0w
-* sunny
 * systemaciel
 * taechan
 * taintedeve
