@@ -1027,8 +1027,9 @@
       }
     },
     "survivor": {
-      "name": "Kẻ sống sót",
-      "condition": "Tìm và tương tác với sinh vật duy nhất không phải là Tokage ở Evergreen Woods"
+      "name": "Resist and Disorder",
+      "description": "A lone survivor...",
+      "condition": "Find and interact with the only non-Tokage being in the Evergreen Woods"
     },
     "medic_bag": {
       "name": "Túi sơ cứu",
@@ -1092,9 +1093,6 @@
       "condition": "Đổi ngày thành đêm ở Industrial Towers khi tương tác với Glitchman với hiệu ứng Tai thỏ"
     },
     "dream_fishing": {
-      "name": "Câu cá trong mơ",
-      "description": "Con này nhìn đặc biệt đấy",
-      "condition": "Đến Ocean Subsurface, Rotten Fish Lake, Fish World, Mackerel Desert, Sushi World, Flying Fish World, Lamplit Stones, Streetlight Docks, Depths, và Bioluminescent Cavern",
       "checkbox": {
         "ocean_subsurface": "Ocean Subsurface",
         "rotten_fish_lake": "Rotten Fish Lake",
@@ -1106,7 +1104,10 @@
         "fish_streetlight": "Streetlight Docks",
         "fish_depths": "Depths",
         "fish_bioluminescent": "Bioluminescent Cavern"
-      }
+      },
+      "name": "Solid Fish",
+      "description": "With darkness and silence through the night....",
+      "condition": "Visit all water-based worlds with fish: Ocean Subsurface, Rotten Fish Lake, Fish World, Mackerel Desert, Sushi World, Flying Fish World, Lamplit Stones, Streetlight Docks, Depths, and Bioluminescent Cavern"
     },
     "decrepit_smile": {
       "name": "Nụ cười suy sụp",
@@ -1726,9 +1727,9 @@
       "condition": "Xem cả hai biến thể của White Garden ở Pure White Lands"
     },
     "starry_night": {
-      "name": "Đêm đầy sao",
+      "name": "Starry Depths",
       "description": "You look quite divine tonight, underneath these vibrant lights...",
-      "condition": "Vào bức tranh Đêm đầy sao ở Windswept Scarlet Sands"
+      "condition": "Enter the Starry Night painting in Windswept Scarlet Sands"
     },
     "victorian_festival": {
       "name": "Lễ hội vạn màu",
@@ -1989,9 +1990,6 @@
       "condition": "Tương tác với 3 thanh chocolate khác nhau trong Chocolate World"
     },
     "sad_jellyfish": {
-      "name": "Sứa sầu",
-      "description": "Luôn ngoài tầm với",
-      "condition": "Tìm gặp chú sứa buồn ở Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle, Moonlight Lantern Forest, Twilight Park",
       "checkbox": {
         "sad_jellyfish_forest_pier": "Forest Pier",
         "sad_jellyfish_chaotic_buildings": "Chaotic Buildings",
@@ -2000,8 +1998,13 @@
         "sad_jellyfish_fantasy_isle": "Fantasy Isle",
         "sad_jellyfish_monolith_jungle": "Monolith Jungle",
         "sad_jellyfish_m_l_forest": "Moonlight Lantern Forest",
-        "sad_jellyfish_twl_park": "Twilight Park"
-      }
+        "sad_jellyfish_twl_park": "Twilight Park",
+        "sad_jellyfish_black_wilderness": "Black Wilderness",
+        "sad_jellyfish_watching_forest": "Watching Forest"
+      },
+      "name": "Sad Jellyfish",
+      "description": "Always out of your reach.",
+      "condition": "Witness the sad jellyfish in all areas they appear in: Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle, Twilight Park, Moonlight Lantern Forest, Black Wilderness, and Watching Forest"
     },
     "monmon": {
       "name": "Monmon",
@@ -4028,9 +4031,9 @@
       "condition": "Đến File Viewer"
     },
     "car_rainbow_silhouette": {
-      "name": "Vận tốc ánh sáng",
-      "description": "Con xe này xịn dữ!!!",
-      "condition": "Tìm chiếc xe ô tô ở Rainbow Silhouette World"
+      "name": "Light Velocity \"Move\"",
+      "description": "A model for chromatic edition of the scadu version!",
+      "condition": "Find the car in Rainbow Silhouette World"
     },
     "house_rainbow_black": {
       "name": "Hoa hồng đơn sắc",
@@ -4081,9 +4084,9 @@
       "condition": "Ngắm dãy núi ở House of Vases"
     },
     "techno_cdm_eight": {
-      "name": "888",
-      "description": "Nhóm tám sinh vật hình số tám trên tầng tám",
-      "condition": "Xem các sinh vật hình số 8 đổi màu bằng hiệu ứng Bé trai và Marginal trên tầng tám của Techno Condominium"
+      "name": "HachiHachiHachi",
+      "description": "Group of 8 shape-8 creatures on the 8th floor.",
+      "condition": "See the creatures in the shape of eight change their color by using the Boy and Marginal effects on the 8th floor of the Techno Condominium"
     },
     "guardian_forest_pier": {
       "name": "The Forest's Angel",
@@ -4091,9 +4094,9 @@
       "condition": "Tìm gặp người bảo hộ của Forest Pier"
     },
     "town_maze": {
-      "name": "Màn sương ký ức",
-      "description": "Here you cross the mist of fragments from other places",
-      "condition": "Đến Town Maze"
+      "name": "Of Starlight and the Dark",
+      "description": "A shaper of dreams, a fragment of a dream already dreamed, or a dream that should have been dreamed?",
+      "condition": "Visit Town Maze"
     },
     "view_blissful_clinic": {
       "name": "Mặt trăng ngọt ngào",
@@ -4786,9 +4789,9 @@
       "condition": "Xem sự kiện Rave ở Bracken Plains"
     },
     "monster_jaw_cake": {
-      "name": "Lonely Cake Girl",
-      "description": "Cô ấy thuroogn thực sự cô đơn.",
-      "condition": "Sử dụng hiệu ứng Bánh kem ở Monster's Jaw và xem đoạn chuyển cảnh"
+      "name": "All Alone By Herself",
+      "description": "Oh, all alone, in a world of confectionery and sweets... There resides a girl, Shimofuri-Tan...",
+      "condition": "Use the Cake effect on the Monster's Jaw and view the short cutscene"
     },
     "cake_fridge_virtual_city": {
       "name": "Kẻ Trộm Bánh Kem",
@@ -6057,8 +6060,8 @@
       "condition": "Equip the cone hat mask in Twisted Cone World"
     },
     "fox_kitsune_residence": {
-      "name": "The Watching Fox",
-      "description": "Is this your residence?",
+      "name": "Mother of Foxes",
+      "description": "Watching over her descendants.",
       "condition": "See the yellow fox in Kitsune Residence"
     },
     "superfan_hellish_village": {
@@ -9592,14 +9595,14 @@
       "condition": "Obtain the Broom effect. If you have already unlocked it, return where it can be found in Famicom World."
     },
     "uniform_effect_flow": {
-      "name": "Back at School!",
-      "description": "At least the uniform is nice!",
-      "condition": "Obtain the Uniform effect. If you have already unlocked it, return where it can be found in School."
+      "name": "Normal School Girl",
+      "description": "Blends right in.",
+      "condition": "Obtain the Uniform effect. If you have already unlocked it, return to where it can be found in the School."
     },
     "dress_effect_flow": {
-      "name": "Fragrance Snowy Dress",
-      "description": "A nice pretty dress I would've liked.",
-      "condition": "Obtain the Dress effect. If you have already unlocked it, return where it can be found in Snow World."
+      "name": "Wilted Petals in my Heart",
+      "description": "Pretty flowers rotting away with each step I take.",
+      "condition": "Obtain the Dress effect. If you have already unlocked it, return to where it can be found in Snow World."
     },
     "dresses_submarine_village": {
       "name": ".fashion",

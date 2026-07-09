@@ -1037,8 +1037,9 @@
       }
     },
     "survivor": {
-      "name": "生存者",
-      "condition": "夢森にいる森のようせいに話しかける"
+      "name": "Resist and Disorder",
+      "description": "A lone survivor...",
+      "condition": "Find and interact with the only non-Tokage being in the Evergreen Woods"
     },
     "medic_bag": {
       "name": "メディカルバッグ",
@@ -1102,21 +1103,21 @@
       "condition": "うさみみになってバグ男と会話し、葬塔場の時間を夜に変更する"
     },
     "dream_fishing": {
-      "name": "ゆめつっり",
-      "description": "魚祭り",
-      "condition": "地下の海、骨魚、ぶりぶり、鯖砂漠、サケ、リベンジビル、石影、釣り堀、みなぞこ、夜花草に到達する",
       "checkbox": {
-        "ocean_subsurface": "地下の海",
-        "rotten_fish_lake": "骨魚",
-        "fish_world": "ぶりぶり",
-        "tuna_desert": "鯖砂漠",
-        "sushi_world": "サケ",
-        "fish_f_f_world": "リベンジビル",
-        "fish_lamplit": "石影",
-        "fish_streetlight": "釣り堀",
-        "fish_depths": "みなぞこ",
-        "fish_bioluminescent": "夜花草"
-      }
+        "ocean_subsurface": "Ocean Subsurface",
+        "rotten_fish_lake": "Rotten Fish Lake",
+        "fish_world": "Fish World",
+        "tuna_desert": "Mackerel Desert",
+        "sushi_world": "Sushi World",
+        "fish_f_f_world": "Flying Fish World",
+        "fish_lamplit": "Lamplit Stones",
+        "fish_streetlight": "Streetlight Docks",
+        "fish_depths": "Depths",
+        "fish_bioluminescent": "Bioluminescent Cavern"
+      },
+      "name": "Solid Fish",
+      "description": "With darkness and silence through the night....",
+      "condition": "Visit all water-based worlds with fish: Ocean Subsurface, Rotten Fish Lake, Fish World, Mackerel Desert, Sushi World, Flying Fish World, Lamplit Stones, Streetlight Docks, Depths, and Bioluminescent Cavern"
     },
     "decrepit_smile": {
       "name": "魔女の微笑み",
@@ -1737,9 +1738,9 @@
       "condition": "2つのバージョンの白い世界を見る"
     },
     "starry_night": {
-      "name": "星月夜",
-      "description": "この夜の鮮やかな光の下にいる貴方はとても神聖に見える...",
-      "condition": "砂と風:波と月に到達する"
+      "name": "Starry Depths",
+      "description": "You look quite divine tonight, underneath these vibrant lights...",
+      "condition": "Enter the Starry Night painting in Windswept Scarlet Sands"
     },
     "victorian_festival": {
       "name": "色の祭典",
@@ -2000,19 +2001,21 @@
       "condition": "チョコレートの通路にある三種類の板チョコの扉を開ける"
     },
     "sad_jellyfish": {
-      "name": "虹色くらげ",
-      "description": "いつも手は届かない",
-      "condition": "桟橋の森、水の都の森エリア、繁栄巣、人形屋敷、甘い嘘、樹海の遺跡、月街灯の森、月明かりの庭園で虹色くらげを目撃する",
       "checkbox": {
-        "sad_jellyfish_forest_pier": "桟橋の森",
-        "sad_jellyfish_chaotic_buildings": "水の都の森エリア",
-        "sad_jellyfish_overgrown": "繁栄巣",
-        "sad_jellyfish_doll_house": "人形屋敷",
-        "sad_jellyfish_fantasy_isle": "甘い嘘",
-        "sad_jellyfish_monolith_jungle": "樹海の遺跡",
-        "sad_jellyfish_m_l_forest": "月街灯の森",
-        "sad_jellyfish_twl_park": "月明かりの庭園"
-      }
+        "sad_jellyfish_forest_pier": "Forest Pier",
+        "sad_jellyfish_chaotic_buildings": "Chaotic Buildings",
+        "sad_jellyfish_overgrown": "Overgrown Condominium",
+        "sad_jellyfish_doll_house": "Doll House",
+        "sad_jellyfish_fantasy_isle": "Fantasy Isle",
+        "sad_jellyfish_monolith_jungle": "Monolith Jungle",
+        "sad_jellyfish_m_l_forest": "Moonlight Lantern Forest",
+        "sad_jellyfish_twl_park": "Twilight Park",
+        "sad_jellyfish_black_wilderness": "Black Wilderness",
+        "sad_jellyfish_watching_forest": "Watching Forest"
+      },
+      "name": "Sad Jellyfish",
+      "description": "Always out of your reach.",
+      "condition": "Witness the sad jellyfish in all areas they appear in: Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle, Twilight Park, Moonlight Lantern Forest, Black Wilderness, and Watching Forest"
     },
     "monmon": {
       "name": "もんもん",
@@ -4042,9 +4045,9 @@
       "condition": "ゆめかわうぃんどうに到達する"
     },
     "car_rainbow_silhouette": {
-      "name": "光速",
-      "description": "なんてすばらしいくるまなんだ!!!",
-      "condition": "きらきらでくるまを見つける"
+      "name": "Light Velocity \"Move\"",
+      "description": "A model for chromatic edition of the scadu version!",
+      "condition": "Find the car in Rainbow Silhouette World"
     },
     "house_rainbow_black": {
       "name": "Monochrome Rose",
@@ -4095,9 +4098,9 @@
       "condition": "水瓶と蝋燭の迷宮の山脈の壁画で壁画を見る"
     },
     "techno_cdm_eight": {
-      "name": "888",
-      "description": "8階にいる8体の8みたいなの",
-      "condition": "コンドミニアムの8階で、おとこのことマージナルを使って、8の形をした生き物の色が変わるのを見る"
+      "name": "HachiHachiHachi",
+      "description": "Group of 8 shape-8 creatures on the 8th floor.",
+      "condition": "See the creatures in the shape of eight change their color by using the Boy and Marginal effects on the 8th floor of the Techno Condominium"
     },
     "guardian_forest_pier": {
       "name": "森の天使",
@@ -4105,9 +4108,9 @@
       "condition": "桟橋の森の赤ウネウネ石像を見る"
     },
     "town_maze": {
-      "name": "記憶の霧",
-      "description": "ここで霧がかった他の場所を通過します",
-      "condition": "館に到達する"
+      "name": "Of Starlight and the Dark",
+      "description": "A shaper of dreams, a fragment of a dream already dreamed, or a dream that should have been dreamed?",
+      "condition": "Visit Town Maze"
     },
     "view_blissful_clinic": {
       "name": "淡い月",
@@ -4800,9 +4803,9 @@
       "condition": "ワラビ平原にいる緑色の蛇を調べてイベントを見る"
     },
     "monster_jaw_cake": {
-      "name": "孤独な少女",
-      "description": "彼女たちはひとりぼっちでそこにいる",
-      "condition": "高台でケーキのエフェクトを使い、景色を見る"
+      "name": "All Alone By Herself",
+      "description": "Oh, all alone, in a world of confectionery and sweets... There resides a girl, Shimofuri-Tan...",
+      "condition": "Use the Cake effect on the Monster's Jaw and view the short cutscene"
     },
     "cake_fridge_virtual_city": {
       "name": "ケーキ泥棒",
@@ -6071,9 +6074,9 @@
       "condition": "ねじれコーン世界でねじれ帽子のマネキンを調べてお面を装備する"
     },
     "fox_kitsune_residence": {
-      "name": "こちらを見つめる狐",
-      "description": "ここがあなたの住処？",
-      "condition": "黄常池で八尾の狐に話しかける"
+      "name": "Mother of Foxes",
+      "description": "Watching over her descendants.",
+      "condition": "See the yellow fox in Kitsune Residence"
     },
     "superfan_hellish_village": {
       "name": "フラッシュ撮影禁止",
@@ -9606,14 +9609,14 @@
       "condition": "ほうきのエフェクトを入手する、すでに入手している場合は魔女の家の見つけた場所に行く。"
     },
     "uniform_effect_flow": {
-      "name": "新学期！",
-      "description": "制服だけは素敵！",
-      "condition": "せいふくのエフェクトを入手する、すでに入手している場合は学校の見つけた場所に行く。"
+      "name": "Normal School Girl",
+      "description": "Blends right in.",
+      "condition": "Obtain the Uniform effect. If you have already unlocked it, return to where it can be found in the School."
     },
     "dress_effect_flow": {
-      "name": "雪香るドレス",
-      "description": "可愛い素敵なドレスが欲しかった。",
-      "condition": "ドレスのエフェクトを入手する、すでに入手している場合は雪の見つけた場所に行く。"
+      "name": "Wilted Petals in my Heart",
+      "description": "Pretty flowers rotting away with each step I take.",
+      "condition": "Obtain the Dress effect. If you have already unlocked it, return to where it can be found in Snow World."
     },
     "dresses_submarine_village": {
       "name": ".fashion",
