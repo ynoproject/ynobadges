@@ -1027,8 +1027,9 @@
       }
     },
     "survivor": {
-      "name": "생존자",
-      "condition": "Evergreen Woods에서 인간의 형태를 한 생물체와 상호작용하기"
+      "name": "Resist and Disorder",
+      "description": "A lone survivor...",
+      "condition": "Find and interact with the only non-Tokage being in the Evergreen Woods"
     },
     "medic_bag": {
       "name": "응급키트",
@@ -1092,9 +1093,6 @@
       "condition": "토끼귀 이펙트를 끼고 글리치맨(Glitchman) NPC와 상호작용해서 Industrial Towers의 시간대를 밤으로 바꾸기"
     },
     "dream_fishing": {
-      "name": "꿈낚시",
-      "description": "이건 좀 독특하게 생겼네",
-      "condition": "Ocean Subsurface, Rotten Fish Lake, Fish World, Mackerel Desert, Sushi World, Flying Fish World, Lamplit Stones, Streetlight Docks, Depths, Bioluminescent Cavern를 방문하기",
       "checkbox": {
         "ocean_subsurface": "Ocean Subsurface",
         "rotten_fish_lake": "Rotten Fish Lake",
@@ -1106,7 +1104,10 @@
         "fish_streetlight": "Streetlight Docks",
         "fish_depths": "Depths",
         "fish_bioluminescent": "Bioluminescent Cavern"
-      }
+      },
+      "name": "Solid Fish",
+      "description": "With darkness and silence through the night....",
+      "condition": "Visit all water-based worlds with fish: Ocean Subsurface, Rotten Fish Lake, Fish World, Mackerel Desert, Sushi World, Flying Fish World, Lamplit Stones, Streetlight Docks, Depths, and Bioluminescent Cavern"
     },
     "decrepit_smile": {
       "name": "망가진 미소",
@@ -1725,9 +1726,9 @@
       "condition": "Pure White Lands에서 White Garden 서브 에리어의 모든 버전을 보기"
     },
     "starry_night": {
-      "name": "별이 빛나는 밤",
-      "description": "이 찬란한 별빛들 아래, 오늘 밤의 당신은 정말로 멋져 보여요",
-      "condition": "Windswept Scarlet Sands의 Starry Night painting 서브 에리어에 도달하기"
+      "name": "Starry Depths",
+      "description": "You look quite divine tonight, underneath these vibrant lights...",
+      "condition": "Enter the Starry Night painting in Windswept Scarlet Sands"
     },
     "victorian_festival": {
       "name": "색들의 축제",
@@ -1988,9 +1989,6 @@
       "condition": "Chocolate World에서 3가지 다른 맛의 초콜릿 문과 상호작용하기"
     },
     "sad_jellyfish": {
-      "name": "슬픈 해파리",
-      "description": "언제나 닿지 않는 곳에 있다",
-      "condition": "Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle, Moonlight Lantern Forest, Twilight Park에서 슬픈 해파리(Sad Jellyfish) NPC를 발견하기",
       "checkbox": {
         "sad_jellyfish_forest_pier": "Forest Pier",
         "sad_jellyfish_chaotic_buildings": "Chaotic Buildings",
@@ -1999,8 +1997,13 @@
         "sad_jellyfish_fantasy_isle": "Fantasy Isle",
         "sad_jellyfish_monolith_jungle": "Monolith Jungle",
         "sad_jellyfish_m_l_forest": "Moonlight Lantern Forest",
-        "sad_jellyfish_twl_park": "Twilight Park"
-      }
+        "sad_jellyfish_twl_park": "Twilight Park",
+        "sad_jellyfish_black_wilderness": "Black Wilderness",
+        "sad_jellyfish_watching_forest": "Watching Forest"
+      },
+      "name": "Sad Jellyfish",
+      "description": "Always out of your reach.",
+      "condition": "Witness the sad jellyfish in all areas they appear in: Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle, Twilight Park, Moonlight Lantern Forest, Black Wilderness, and Watching Forest"
     },
     "monmon": {
       "name": "몬몬",
@@ -4031,9 +4034,9 @@
       "condition": "File Viewer에 도달하기"
     },
     "car_rainbow_silhouette": {
-      "name": "광속",
-      "description": "전설의 '두부배달차'에 필적할 정도인데!",
-      "condition": "Rainbow Silhouette World에서 자동차를 발견하기"
+      "name": "Light Velocity \"Move\"",
+      "description": "A model for chromatic edition of the scadu version!",
+      "condition": "Find the car in Rainbow Silhouette World"
     },
     "house_rainbow_black": {
       "name": "단색의 장미",
@@ -4084,9 +4087,9 @@
       "condition": "House of Vases의 Mountain Overlook 서브 에리어에서 산의 경치를 감상하기"
     },
     "techno_cdm_eight": {
-      "name": "888",
-      "description": "8층에 있는 8마리의 8모양 생명체들",
-      "condition": "Techno Condominium의 8번째 층에 있는 8모양 생명체 근처에서 마지널과 낭자아이 이펙트를 장착하여 색을 변화시키기"
+      "name": "HachiHachiHachi",
+      "description": "Group of 8 shape-8 creatures on the 8th floor.",
+      "condition": "See the creatures in the shape of eight change their color by using the Boy and Marginal effects on the 8th floor of the Techno Condominium"
     },
     "guardian_forest_pier": {
       "name": "숲속의 천사",
@@ -4094,9 +4097,9 @@
       "condition": "Forest Pier에서 천사 조각상(Angel Statue) NPC를 발견하기"
     },
     "town_maze": {
-      "name": "안개낀 기억",
-      "description": "이곳에서 당신은 다른 세계의 조각들이 깃든 안개 속을 가로지른다",
-      "condition": "Town Maze에 도달하기"
+      "name": "Of Starlight and the Dark",
+      "description": "A shaper of dreams, a fragment of a dream already dreamed, or a dream that should have been dreamed?",
+      "condition": "Visit Town Maze"
     },
     "view_blissful_clinic": {
       "name": "'달'콤함",
@@ -4789,9 +4792,9 @@
       "condition": "Bracken Plains에서 고사리의 춤(Rave) 이벤트를 감상하기"
     },
     "monster_jaw_cake": {
-      "name": "외로운 케이크 소녀",
-      "description": "그녀는 정말로 외로워 보인다",
-      "condition": "Monster's Jaw에서 케이크 이펙트를 장착한 뒤 바깥 경치를 내다보며 짧은 컷신을 감상하기"
+      "name": "All Alone By Herself",
+      "description": "Oh, all alone, in a world of confectionery and sweets... There resides a girl, Shimofuri-Tan...",
+      "condition": "Use the Cake effect on the Monster's Jaw and view the short cutscene"
     },
     "cake_fridge_virtual_city": {
       "name": "케이크 절도범",
@@ -6060,8 +6063,8 @@
       "condition": "Equip the cone hat mask in Twisted Cone World"
     },
     "fox_kitsune_residence": {
-      "name": "The Watching Fox",
-      "description": "Is this your residence?",
+      "name": "Mother of Foxes",
+      "description": "Watching over her descendants.",
       "condition": "See the yellow fox in Kitsune Residence"
     },
     "superfan_hellish_village": {
@@ -9589,14 +9592,14 @@
       "condition": "패미컴 월드에서 빗자루 이펙트를 획득하기 (이미 얻은 상태라면, 빗자루를 얻었던 집에 들어가기)"
     },
     "uniform_effect_flow": {
-      "name": "학교로 복귀!",
-      "description": "적어도 교복은 멋져보이는데!",
-      "condition": "학교에서 교복 이펙트를 획득하기 (이미 얻은 상태라면, 교복을 얻었던 교실에 들어가기)"
+      "name": "Normal School Girl",
+      "description": "Blends right in.",
+      "condition": "Obtain the Uniform effect. If you have already unlocked it, return to where it can be found in the School."
     },
     "dress_effect_flow": {
-      "name": "눈밭의 기품있는 드레스",
-      "description": "내가 좋아할 만한 멋지고 예쁜 드레스",
-      "condition": "눈의 세계에서 드레스 이펙트를 획득하기 (이미 얻은 상태라면 드레스를 얻었던 곳으로 돌아가기)"
+      "name": "Wilted Petals in my Heart",
+      "description": "Pretty flowers rotting away with each step I take.",
+      "condition": "Obtain the Dress effect. If you have already unlocked it, return to where it can be found in Snow World."
     },
     "dresses_submarine_village": {
       "name": "닷패션",

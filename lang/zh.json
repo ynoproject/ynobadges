@@ -1027,8 +1027,9 @@
       }
     },
     "survivor": {
-      "name": "幸存者",
-      "condition": "在Evergreen Woods中找到唯一一个不是Tokage的生物并与之互动"
+      "name": "Resist and Disorder",
+      "description": "A lone survivor...",
+      "condition": "Find and interact with the only non-Tokage being in the Evergreen Woods"
     },
     "medic_bag": {
       "name": "医疗包",
@@ -1092,9 +1093,6 @@
       "condition": "使用兔耳效果，让Industrial Towers的Glitchman将时间变为夜晚"
     },
     "dream_fishing": {
-      "name": "渔之乐",
-      "description": "这条挺别致的",
-      "condition": "抵达Ocean Subsurface、Rotten Fish Lake、Fish World、Mackerel Desert、Sushi World、Flying Fish World、Lamplit Stones、Streetlight Docks、Depths、Bioluminescent Cavern",
       "checkbox": {
         "ocean_subsurface": "Ocean Subsurface",
         "rotten_fish_lake": "Rotten Fish Lake",
@@ -1106,7 +1104,10 @@
         "fish_streetlight": "Streetlight Docks",
         "fish_depths": "Depths",
         "fish_bioluminescent": "Bioluminescent Cavern"
-      }
+      },
+      "name": "Solid Fish",
+      "description": "With darkness and silence through the night....",
+      "condition": "Visit all water-based worlds with fish: Ocean Subsurface, Rotten Fish Lake, Fish World, Mackerel Desert, Sushi World, Flying Fish World, Lamplit Stones, Streetlight Docks, Depths, and Bioluminescent Cavern"
     },
     "decrepit_smile": {
       "name": "芜言狞笑",
@@ -1726,9 +1727,9 @@
       "condition": "在Pure White Land看到其庭院的两种版本"
     },
     "starry_night": {
-      "name": "星月夜",
-      "description": "在这明亮的光芒之下，今夜的你是如此美丽……",
-      "condition": "驻足于Windswept Scarlet Sands的星空"
+      "name": "Starry Depths",
+      "description": "You look quite divine tonight, underneath these vibrant lights...",
+      "condition": "Enter the Starry Night painting in Windswept Scarlet Sands"
     },
     "victorian_festival": {
       "name": "缤纷庆典",
@@ -1995,9 +1996,6 @@
       "condition": "在Chocolate World调查三种不同口味的巧克力"
     },
     "sad_jellyfish": {
-      "name": "忧伤水母",
-      "description": "就是够不着",
-      "condition": "在Forest Pier、Chaotic Buildings、Overgrown Condominium、Doll House、Fantasy Isle、Monolith Jungle、Moonlight Lantern Forest、Twilight Park看到Sad Jellyfish",
       "checkbox": {
         "sad_jellyfish_forest_pier": "Forest Pier",
         "sad_jellyfish_chaotic_buildings": "Chaotic Buildings",
@@ -2006,8 +2004,13 @@
         "sad_jellyfish_fantasy_isle": "Fantasy Isle",
         "sad_jellyfish_monolith_jungle": "Monolith Jungle",
         "sad_jellyfish_m_l_forest": "Moonlight Lantern Forest",
-        "sad_jellyfish_twl_park": "Twilight Park"
-      }
+        "sad_jellyfish_twl_park": "Twilight Park",
+        "sad_jellyfish_black_wilderness": "Black Wilderness",
+        "sad_jellyfish_watching_forest": "Watching Forest"
+      },
+      "name": "Sad Jellyfish",
+      "description": "Always out of your reach.",
+      "condition": "Witness the sad jellyfish in all areas they appear in: Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle, Twilight Park, Moonlight Lantern Forest, Black Wilderness, and Watching Forest"
     },
     "monmon": {
       "name": "Monmon",
@@ -4036,9 +4039,9 @@
       "condition": "到达File Viewer"
     },
     "car_rainbow_silhouette": {
-      "name": "光速",
-      "description": "一辆多么不可思议的车！！！",
-      "condition": "找到Rainbow Silhouette World的车子"
+      "name": "Light Velocity \"Move\"",
+      "description": "A model for chromatic edition of the scadu version!",
+      "condition": "Find the car in Rainbow Silhouette World"
     },
     "house_rainbow_black": {
       "name": "黑白玫瑰",
@@ -4089,9 +4092,9 @@
       "condition": "看到House of Vases的山脉"
     },
     "techno_cdm_eight": {
-      "name": "888",
-      "description": "8楼的8个8形生物",
-      "condition": "用男孩和非主流效果看到Techno Condominium 8楼的8形生物变色"
+      "name": "HachiHachiHachi",
+      "description": "Group of 8 shape-8 creatures on the 8th floor.",
+      "condition": "See the creatures in the shape of eight change their color by using the Boy and Marginal effects on the 8th floor of the Techno Condominium"
     },
     "guardian_forest_pier": {
       "name": "森林天使",
@@ -4099,9 +4102,9 @@
       "condition": "看到Forest Pier的守护神像"
     },
     "town_maze": {
-      "name": "记忆迷雾",
-      "description": "你在这里穿过来自其他地方的碎片迷雾",
-      "condition": "到达Town Maze"
+      "name": "Of Starlight and the Dark",
+      "description": "A shaper of dreams, a fragment of a dream already dreamed, or a dream that should have been dreamed?",
+      "condition": "Visit Town Maze"
     },
     "view_blissful_clinic": {
       "name": "甜美明月",
@@ -4798,9 +4801,9 @@
       "condition": "在Bracken Plains见证锐舞事件"
     },
     "monster_jaw_cake": {
-      "name": "孤独的蛋糕少女",
-      "description": "她一定感觉很孤独吧。",
-      "condition": "在Monster's Jaw使用蛋糕效果并见证剧情事件"
+      "name": "All Alone By Herself",
+      "description": "Oh, all alone, in a world of confectionery and sweets... There resides a girl, Shimofuri-Tan...",
+      "condition": "Use the Cake effect on the Monster's Jaw and view the short cutscene"
     },
     "cake_fridge_virtual_city": {
       "name": "蛋糕窃贼",
@@ -6069,9 +6072,9 @@
       "condition": "在Twisted Cone World装备锥形帽子面具"
     },
     "fox_kitsune_residence": {
-      "name": "守望狐",
-      "description": "这是你的住所吗？",
-      "condition": "在Kitsune Residence看到黄色九尾狐"
+      "name": "Mother of Foxes",
+      "description": "Watching over her descendants.",
+      "condition": "See the yellow fox in Kitsune Residence"
     },
     "superfan_hellish_village": {
       "name": "请勿使用闪光灯拍照",
@@ -9598,14 +9601,14 @@
       "condition": "获得扫帚效果。若已解锁，请返回Famicom World中获得该效果处。"
     },
     "uniform_effect_flow": {
-      "name": "返校！",
-      "description": "至少校服不错！",
-      "condition": "获得制服效果。若已获得，请返回School中获得该效果处。"
+      "name": "Normal School Girl",
+      "description": "Blends right in.",
+      "condition": "Obtain the Uniform effect. If you have already unlocked it, return to where it can be found in the School."
     },
     "dress_effect_flow": {
-      "name": "雪中衣裙",
-      "description": "是我会喜欢的好裙子。",
-      "condition": "获得裙子效果。若已解锁，请返回Snow World中获得该效果处。"
+      "name": "Wilted Petals in my Heart",
+      "description": "Pretty flowers rotting away with each step I take.",
+      "condition": "Obtain the Dress effect. If you have already unlocked it, return to where it can be found in Snow World."
     },
     "dresses_submarine_village": {
       "name": ".时尚",
