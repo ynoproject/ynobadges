@@ -215,8 +215,10 @@ def main() -> int:
         for n in found:
             new_names.add(n)
 
-    if ("<anonymous>" in new_names):
-        new_names.remove("<anonymous>")
+    if "<Anonymous>" in new_names:
+        new_names.remove("<Anonymous>")
+    if "<None>" in new_names:
+        new_names.remove("<None>")
 
     # Handle deleted files
     names_to_remove: Set[str] = set()
