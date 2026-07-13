@@ -1027,8 +1027,9 @@
       }
     },
     "survivor": {
-      "name": "Выживший",
-      "condition": "Найдите и дотроньтесь до единственного не-Токаге в Evergreen Woods."
+      "name": "Resist and Disorder",
+      "description": "A lone survivor...",
+      "condition": "Find and interact with the only non-Tokage being in the Evergreen Woods"
     },
     "medic_bag": {
       "name": "Сумка врача",
@@ -1092,9 +1093,6 @@
       "condition": "Переключите время на ночь в Industrial Towers, провзаимодействовав с Человеком-Глюком, надев кроличьи уши."
     },
     "dream_fishing": {
-      "name": "Рыбалка во сне",
-      "description": "Это выглядит необычно.",
-      "condition": "Посетите Ocean Subsurface, Rotten Fish Lake, Fish World, Mackerel Desert, Sushi World, Flying Fish World, Lamplit Stones, Streetlight Docks, Depths и Bioluminescent Cavern",
       "checkbox": {
         "ocean_subsurface": "Ocean Subsurface",
         "rotten_fish_lake": "Rotten Fish Lake",
@@ -1106,7 +1104,10 @@
         "fish_streetlight": "Streetlight Docks",
         "fish_depths": "Depths",
         "fish_bioluminescent": "Bioluminescent Cavern"
-      }
+      },
+      "name": "Solid Fish",
+      "description": "With darkness and silence through the night....",
+      "condition": "Visit all water-based worlds with fish: Ocean Subsurface, Rotten Fish Lake, Fish World, Mackerel Desert, Sushi World, Flying Fish World, Lamplit Stones, Streetlight Docks, Depths, and Bioluminescent Cavern"
     },
     "decrepit_smile": {
       "name": "Вялая улыбка",
@@ -1725,9 +1726,9 @@
       "condition": "Побывайте в обеих версиях Белого сада в Pure White Lands."
     },
     "starry_night": {
-      "name": "Звёздная ночь",
-      "description": "Ты выглядишь превосходно в этой ночи, в трепете этих лучей...",
-      "condition": "Войдите в картину Звёздной ночи в Windswept Scarlet Sands."
+      "name": "Starry Depths",
+      "description": "You look quite divine tonight, underneath these vibrant lights...",
+      "condition": "Enter the Starry Night painting in Windswept Scarlet Sands"
     },
     "victorian_festival": {
       "name": "Фестиваль цветов",
@@ -1988,9 +1989,6 @@
       "condition": "Дотроньтесь до Шоколадных плиток с 3 разными вкусами в Chocolate World."
     },
     "sad_jellyfish": {
-      "name": "Грустная медуза",
-      "description": "Всегда вне досягаемости.",
-      "condition": "Посмотрите на грустную медузу в Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle, Moonlight Lantern Forest и Twilight Park.",
       "checkbox": {
         "sad_jellyfish_forest_pier": "Forest Pier",
         "sad_jellyfish_chaotic_buildings": "Chaotic Buildings",
@@ -1999,8 +1997,13 @@
         "sad_jellyfish_fantasy_isle": "Fantasy Isle",
         "sad_jellyfish_monolith_jungle": "Monolith Jungle",
         "sad_jellyfish_m_l_forest": "Moonlight Lantern Forest",
-        "sad_jellyfish_twl_park": "Twilight Park"
-      }
+        "sad_jellyfish_twl_park": "Twilight Park",
+        "sad_jellyfish_black_wilderness": "Black Wilderness",
+        "sad_jellyfish_watching_forest": "Watching Forest"
+      },
+      "name": "Sad Jellyfish",
+      "description": "Always out of your reach.",
+      "condition": "Witness the sad jellyfish in all areas they appear in: Forest Pier, Chaotic Buildings, Overgrown Condominium, Doll House, Fantasy Isle, Monolith Jungle, Twilight Park, Moonlight Lantern Forest, Black Wilderness, and Watching Forest"
     },
     "monmon": {
       "name": "Монмон",
@@ -4027,8 +4030,8 @@
       "condition": "Visit File Viewer"
     },
     "car_rainbow_silhouette": {
-      "name": "Light Velocity",
-      "description": "What an incredible vehicle!!!",
+      "name": "Light Velocity \"Move\"",
+      "description": "A model for chromatic edition of the scadu version!",
       "condition": "Find the car in Rainbow Silhouette World"
     },
     "house_rainbow_black": {
@@ -4080,9 +4083,9 @@
       "condition": "See the mountain range in the House of Vases"
     },
     "techno_cdm_eight": {
-      "name": "888",
-      "description": "Group of eight shape-eight creatures on the eighth floor",
-      "condition": "See the creatures in shape of eight change their color by using the Boy and Marginal effects on the eighth floor of the Techno Condominium"
+      "name": "HachiHachiHachi",
+      "description": "Group of 8 shape-8 creatures on the 8th floor.",
+      "condition": "See the creatures in the shape of eight change their color by using the Boy and Marginal effects on the 8th floor of the Techno Condominium"
     },
     "guardian_forest_pier": {
       "name": "The Forest's Angel",
@@ -4090,8 +4093,8 @@
       "condition": "See the guardian in Forest Pier"
     },
     "town_maze": {
-      "name": "Mists of Memory",
-      "description": "Here you cross the mist of fragments from other places",
+      "name": "Of Starlight and the Dark",
+      "description": "A shaper of dreams, a fragment of a dream already dreamed, or a dream that should have been dreamed?",
       "condition": "Visit Town Maze"
     },
     "view_blissful_clinic": {
@@ -4785,8 +4788,8 @@
       "condition": "See the Rave event in the Bracken Plains"
     },
     "monster_jaw_cake": {
-      "name": "Lonely Cake Girl",
-      "description": "She does sure feel lonely.",
+      "name": "All Alone By Herself",
+      "description": "Oh, all alone, in a world of confectionery and sweets... There resides a girl, Shimofuri-Tan...",
       "condition": "Use the Cake effect on the Monster's Jaw and view the short cutscene"
     },
     "cake_fridge_virtual_city": {
@@ -6056,8 +6059,8 @@
       "condition": "Equip the cone hat mask in Twisted Cone World"
     },
     "fox_kitsune_residence": {
-      "name": "The Watching Fox",
-      "description": "Is this your residence?",
+      "name": "Mother of Foxes",
+      "description": "Watching over her descendants.",
       "condition": "See the yellow fox in Kitsune Residence"
     },
     "superfan_hellish_village": {
@@ -9135,14 +9138,14 @@
         "visit_fragmented_station": "Fragmented Station",
         "visit_frozen_smile_world": "Frozen Smile World",
         "visit_labyrinth_of_dread": "Labyrinth of Dread",
-        "visit_ogh_colorless_pier": "Wooded Lakeside A",
+        "visit_ogh_colorless_pier": "Octagonal Grid Hub (Colorless Pier)",
         "visit_old_train_station": "Old Train Station",
         "visit_rice_field": "Rice Field",
         "visit_stereo_station": "Stereo Station",
-        "visit_ticking_blackout_zone": "Octagonal Grid Hub (Colorless Pier)",
+        "visit_ticking_blackout_zone": "Ticking Blackout Zone",
         "visit_train_tracks": "Train Tracks",
         "visit_underground_subway": "Underground Subway",
-        "visit_wooded_lakeside_a_a|visit_wooded_lakeside_a_b": "Ticking Blackout Zone"
+        "visit_wooded_lakeside_a_a|visit_wooded_lakeside_a_b": "Wooded Lakeside A"
       }
     },
     "ch_visit_garden_worlds": {
@@ -9585,14 +9588,14 @@
       "condition": "Obtain the Broom effect. If you have already unlocked it, return where it can be found in Famicom World."
     },
     "uniform_effect_flow": {
-      "name": "Back at School!",
-      "description": "At least the uniform is nice!",
-      "condition": "Obtain the Uniform effect. If you have already unlocked it, return where it can be found in School."
+      "name": "Normal School Girl",
+      "description": "Blends right in.",
+      "condition": "Obtain the Uniform effect. If you have already unlocked it, return to where it can be found in the School."
     },
     "dress_effect_flow": {
-      "name": "Fragrance Snowy Dress",
-      "description": "A nice pretty dress I would've liked.",
-      "condition": "Obtain the Dress effect. If you have already unlocked it, return where it can be found in Snow World."
+      "name": "Wilted Petals in my Heart",
+      "description": "Pretty flowers rotting away with each step I take.",
+      "condition": "Obtain the Dress effect. If you have already unlocked it, return to where it can be found in Snow World."
     },
     "dresses_submarine_village": {
       "name": ".fashion",
