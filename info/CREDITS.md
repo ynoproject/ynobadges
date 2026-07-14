@@ -95,7 +95,6 @@
 * deg
 * denji9099
 * desktopghost
-* Dmitry Pro
 * DolphinDan
 * DreamBird
 * DreamScape
@@ -217,7 +216,6 @@
 * Moth
 * mothtam
 * Moucky2333
-* Moumekie
 * mrbloxxypants
 * MrSwag
 * Murasaki
@@ -332,7 +330,6 @@
 * sugarbones
 * Sugarcan3333
 * summersn0w
-* sunny
 * systemaciel
 * taechan
 * taintedeve
