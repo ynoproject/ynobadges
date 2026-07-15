@@ -353,7 +353,6 @@
 * Vanna
 * VelvetKitty
 * vena
-* visc3ra
 * VoislavJ
 * vomitlaura
 * VoxlAlien
