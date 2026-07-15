@@ -141,7 +141,6 @@
 * Horse de Paus
 * Hourai
 * Hyo
-* iEcilpse
 * Iesu
 * IronCam
 * Ivinous
