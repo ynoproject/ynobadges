@@ -195,7 +195,6 @@
 * Marxotic
 * Masky1977
 * Mav
-* Mediochre_
 * memorisleep
 * meriamory
 * Mewzie
