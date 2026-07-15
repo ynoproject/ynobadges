@@ -355,7 +355,6 @@
 * Vanna
 * VelvetKitty
 * vena
-* vermilionangel
 * visc3ra
 * VoislavJ
 * vomitlaura
