@@ -291,7 +291,6 @@
 * saul
 * Sawney
 * SealOasis
-* SeashellC4
 * Sekiranun
 * Shak3l1ght
 * Shakzass
