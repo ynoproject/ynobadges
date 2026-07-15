@@ -375,7 +375,6 @@
 * Yuni
 * Zaakarias
 * Zahyou
-* Zelthra
 * Zethyer
 * Zimnior12
 * ZLD1
