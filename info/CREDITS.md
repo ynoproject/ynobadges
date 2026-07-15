@@ -156,7 +156,6 @@
 * JIVV
 * JohnYumeNiki
 * JSG5
-* jue
 * juliemeal
 * Kalail
 * Kantyo
