@@ -5095,7 +5095,7 @@
     "qxy_vm_challenge": {
       "name": "数学家",
       "description": "这里的零食来自一家雪山上的制造商。",
-      "condition": "找到以下地点的15个自贩机并在其中买到零食：Snowy Forest、Snowy Forest：Winter Path、Erratic Pillar Lands、Cotton Candy Haven、Neon Caves、Surgical Scissors World、Aquatic Cube City、Static Noise Hell、Polycube Ruins (木质自贩机)、Polycube Ruins (冰自贩机)、Flooded Dungeon、Vending Machine Factory (Entrance)、Travel Hotel (Balcony)、Aurora Lake、Streetlight Docks：Angler's Depths、Kaleidoscope World、Critter Village：Hexagonal Tile Factory、Adabana Gardens、Red Sewers、Wooded Lakeside B、Oblique Hell、Virtual City (Bar Entrance), Snack Gallery",
+      "condition": "找到以下地点的15个自贩机并在其中买到零食：Snowy Forest、Snowy Forest：Winter Path、Erratic Pillar Lands、Cotton Candy Haven、Neon Caves、Surgical Scissors World、Aquatic Cube City、Static Noise Hell、Polycube Ruins (木质自贩机)、Polycube Ruins (冰自贩机)、Flooded Dungeon、Vending Machine Factory (入口处)、Travel Hotel (阳台)、Aurora Lake、Streetlight Docks：Angler's Depths、Kaleidoscope World、Critter Village：Hexagonal Tile Factory、Adabana Gardens、Red Sewers、Wooded Lakeside B、Oblique Hell、Virtual City (酒吧入口), Snack Gallery",
       "checkbox": {
         "qxy_vm_snowy_forest": "Snowy Forest",
         "qxy_vm_winter_path": "Snowy Forest：Winter Path",
@@ -5108,8 +5108,8 @@
         "qxy_vm_pl_ruins_wood": "Polycube Ruins (木质自贩机)",
         "qxy_vm_pl_ruins_ice": "Polycube Ruins (冰自贩机)",
         "qxy_vm_flooded_dungeon": "Flooded Dungeon",
-        "qxy_vm_vm_factory_ent": "Vending Machine Factory (Entrance)",
-        "qxy_vm_travel_hotel_balcony": "Travel Hotel (Balcony)",
+        "qxy_vm_vm_factory_ent": "Vending Machine Factory (入口处)",
+        "qxy_vm_travel_hotel_balcony": "Travel Hotel (阳台)",
         "qxy_vm_aurora_lake": "Aurora Lake",
         "qxy_vm_anglers_depths": "Streetlight Docks：Angler's Depths",
         "qxy_vm_kaleidoscope_world": "Kaleidoscope World",
@@ -5118,7 +5118,7 @@
         "qxy_vm_red_sewers": "Red Sewers",
         "qxy_vm_wooded_lakeside_b": "Wooded Lakeside B",
         "qxy_vm_oblique_hell": "Oblique Hell",
-        "qxy_vm_virtual_city_bar": "Virtual City (Bar Entrance)",
+        "qxy_vm_virtual_city_bar": "Virtual City (酒吧入口)",
         "qxy_vm_snack_gallery": "Snack Gallery"
       }
     },
@@ -9130,11 +9130,11 @@
         "visit_english_thundershower": "English Thundershower",
         "visit_frozen_disco": "Frozen Disco",
         "visit_lavender_park": "Lavender Park",
-        "visit_limestone_dam": "Rice Paddy",
+        "visit_limestone_dam": "Limestone Dam",
         "visit_rainfall_forest": "Rainfall Forest",
         "visit_rainfall_ruins": "Rainfall Ruins",
         "visit_rainy_bridges_a|visit_rainy_bridges_b": "Rainy Bridges",
-        "visit_rice_paddy": "Limestone Dam"
+        "visit_rice_paddy": "Rice Paddy"
       }
     },
     "ch_train_worlds": {
@@ -12385,19 +12385,19 @@
       "condition": "获得效果Formal。若已解锁，请返回Electro Tower。"
     },
     "visit_emerald_shrubland_iso": {
-      "name": "In the Quiet of Waiting for Something",
-      "description": "While the magpie waits for something, we share a quiet of our own.",
-      "condition": "Visit the isolated section of Emerald Shrubland from the Vile Tunnels"
+      "name": "静待某物",
+      "description": "当喜鹊等待着什么的时候，我们共享着属于自己的安静。",
+      "condition": "从Vile Tunnels抵达Emerald Shrubland的孤立区域"
     },
     "oversomnia_fox_chase_boy": {
       "name": "Fox Chase",
-      "description": "\"I'm like Munny\", Irving said calmly.",
-      "condition": "Interact with the fox boy in Waterworks Office after completing the fox chase event"
+      "description": "\"我就像Munny一样\"，Irving平静地说",
+      "condition": "在完成fox chase事件之后与Waterworks Office的狐狸男孩互动"
     },
     "mycotoxin_marsh_cave": {
-      "name": "Darkest Cave Smoke",
-      "description": "Mushroom grow and vibing here.",
-      "condition": "Enter the Mushroom Cave in Mycotoxin Marsh"
+      "name": "至暗洞穴中的烟雾",
+      "description": "蘑菇在这里茁壮生长。",
+      "condition": "抵达Mycotoxin Marsh的Mushroom Cave"
     }
   },
   "tsushin": {
@@ -13712,7 +13712,7 @@
     "ly_victim_effect": {
       "name": "你一身血腥味",
       "description": "你干了什么？",
-      "condition": "获得效果Victim。若已解锁，请返回Sacrificial Ground获得该效果处。"
+      "condition": "Obtain the Victim effect. If you have already unlocked it, return to -30."
     },
     "ly_visit_sunset_skyscrapers": {
       "name": "ly_construct",

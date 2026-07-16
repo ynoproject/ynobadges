@@ -1,7 +1,8 @@
 {
   "bp": 10,
-  "reqType": "tag",
-  "reqString": "ly_victim_effect",
+  "reqType": "tags",
+  "reqStrings": ["ly_victim_effect", "ly_victim_effect_after_event"],
+  "reqCount": 1,
   "map": 65,
   "art": "systemaciel",
   "batch": 221
