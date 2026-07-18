@@ -167,7 +167,7 @@
 * Kofu
 * Koishi Komeiji
 * kolteel
-* Komaki
+* Risena
 * krossower1
 * KSakura
 * Kudadaze
