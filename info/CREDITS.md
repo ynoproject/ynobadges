@@ -141,7 +141,6 @@
 * Horse de Paus
 * Hourai
 * Hyo
-* iEcilpse
 * Iesu
 * IronCam
 * Ivinous
@@ -157,7 +156,6 @@
 * JIVV
 * JohnYumeNiki
 * JSG5
-* jue
 * juliemeal
 * Kalail
 * Kantyo
@@ -197,7 +195,6 @@
 * Marxotic
 * Masky1977
 * Mav
-* Mediochre_
 * memorisleep
 * meriamory
 * Mewzie
@@ -232,7 +229,6 @@
 * natl
 * Necrotic
 * neesaig
-* neetifice
 * nekhnona
 * Nexrob010
 * Ni
@@ -295,7 +291,6 @@
 * saul
 * Sawney
 * SealOasis
-* SeashellC4
 * Sekiranun
 * Shak3l1ght
 * Shakzass
@@ -357,8 +352,6 @@
 * Vanna
 * VelvetKitty
 * vena
-* vermilionangel
-* visc3ra
 * VoislavJ
 * vomitlaura
 * VoxlAlien
@@ -381,7 +374,6 @@
 * Yuni
 * Zaakarias
 * Zahyou
-* Zelthra
 * Zethyer
 * Zimnior12
 * ZLD1
