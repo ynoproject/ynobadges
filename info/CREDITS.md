@@ -167,7 +167,6 @@
 * Kofu
 * Koishi Komeiji
 * kolteel
-* Komaki
 * krossower1
 * KSakura
 * Kudadaze
@@ -275,6 +274,7 @@
 * Rennatalia
 * ribon996
 * Riqo
+* Risena
 * rooliette
 * Rooy
 * rosaregard

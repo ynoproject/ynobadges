@@ -1024,22 +1024,22 @@
       "condition": "始祖庭に到達する"
     },
     "bsides": {
-      "name": "Blipside",
-      "condition": "嘔吐庭(血反吐エリア)、黒潰れ(街灯と木のエリア)、ミサロジー(反富裕側)、反富裕(始祖庭側)、Wooded Lakeside B、RGB Passage B、Dysmorphia Bに到達する",
+      "name": "反対側",
+      "condition": "嘔吐庭(血反吐エリア)、黒潰れ(街灯と木のエリア)、ミサロジー(反富裕側)、反富裕(始祖庭側)、ダムのほとり、ネオン通路:水中植物園側、足跡の白黒世界に到達する",
       "checkbox": {
         "downfall_garden_b": "嘔吐庭(血反吐エリア)",
         "sparkling_dimension_b": "黒潰れ(街灯と木のエリア)",
         "opal_ruins_b|opal_ruins_b_b": "ミサロジー(反富裕側)",
         "fuchsia_suburbs_b": "反富裕(始祖庭側)",
-        "visit_wooded_lakeside_b": "Wooded Lakeside B",
-        "visit_rgb_passage_b": "RGB Passage B",
-        "visit_dysmorphia_b_entrance|visit_dysmorphia_b_main": "Dysmorphia B"
+        "visit_wooded_lakeside_b": "ダムのほとり",
+        "visit_rgb_passage_b": "ネオン通路:水中植物園側",
+        "visit_dysmorphia_b_entrance|visit_dysmorphia_b_main": "足跡の白黒世界"
       }
     },
     "survivor": {
-      "name": "Resist and Disorder",
-      "description": "A lone survivor...",
-      "condition": "Find and interact with the only non-Tokage being in the Evergreen Woods"
+      "name": "抵抗と混沌",
+      "description": "たったひとりの生存者……",
+      "condition": "夢森で森のようせいに話しかける"
     },
     "medic_bag": {
       "name": "メディカルバッグ",
@@ -4045,9 +4045,9 @@
       "condition": "ゆめかわうぃんどうに到達する"
     },
     "car_rainbow_silhouette": {
-      "name": "Light Velocity \"Move\"",
-      "description": "A model for chromatic edition of the scadu version!",
-      "condition": "Find the car in Rainbow Silhouette World"
+      "name": "光速の \"ムーヴ\"",
+      "description": "影のなかのカラーバリエーションモデル！",
+      "condition": "きらきらでくるまを見つける"
     },
     "house_rainbow_black": {
       "name": "Monochrome Rose",
@@ -4108,9 +4108,9 @@
       "condition": "桟橋の森の赤ウネウネ石像を見る"
     },
     "town_maze": {
-      "name": "Of Starlight and the Dark",
-      "description": "A shaper of dreams, a fragment of a dream already dreamed, or a dream that should have been dreamed?",
-      "condition": "Visit Town Maze"
+      "name": "星明かりと闇の狭間で",
+      "description": "夢を形作る者なのか、すでに見られた夢の欠片なのか、それとも見るべきだった夢そのものなのか？",
+      "condition": "館に到達する"
     },
     "view_blissful_clinic": {
       "name": "淡い月",
@@ -4803,9 +4803,9 @@
       "condition": "ワラビ平原にいる緑色の蛇を調べてイベントを見る"
     },
     "monster_jaw_cake": {
-      "name": "All Alone By Herself",
-      "description": "Oh, all alone, in a world of confectionery and sweets... There resides a girl, Shimofuri-Tan...",
-      "condition": "Use the Cake effect on the Monster's Jaw and view the short cutscene"
+      "name": "たったひとりで",
+      "description": "ああ、お菓子と甘いものでできた世界に、たったひとりで……そこには、ケーキ子という少女が住んでいる……",
+      "condition": "高台でケーキのエフェクトを使用し、ケーキ子を見る"
     },
     "cake_fridge_virtual_city": {
       "name": "ケーキ泥棒",
@@ -6074,9 +6074,9 @@
       "condition": "ねじれコーン世界でねじれ帽子のマネキンを調べてお面を装備する"
     },
     "fox_kitsune_residence": {
-      "name": "Mother of Foxes",
-      "description": "Watching over her descendants.",
-      "condition": "See the yellow fox in Kitsune Residence"
+      "name": "狐たちのママ",
+      "description": "子孫たちを見守っている。",
+      "condition": "黄常池で八尾の狐に会う"
     },
     "superfan_hellish_village": {
       "name": "フラッシュ撮影禁止",
@@ -8223,8 +8223,8 @@
       "condition": "シュガー:おもてでピンクときいろのせいぶつを見つける"
     },
     "observatory_in_palace": {
-      "name": "Whispering Sky",
-      "description": "All alone with my thoughts, the water, and the stars.",
+      "name": "囁く空",
+      "description": "思索と、水と、星々だけが寄り添う孤独なひととき。",
       "condition": "瑠璃の聖堂:球遺場に到達する"
     },
     "inverted_eye_color_facility": {
@@ -9269,7 +9269,6 @@
     },
     "2kki_train_tracks_rat": {
       "name": "壁沿いのバク",
-      "description": "あとは4匹のカメが必要だな……",
       "condition": "廃線:線路エリアで見下ろすバクに会う"
     },
     "cat_cemetery_samhain": {
@@ -9776,7 +9775,6 @@
     },
     "flow_visit_sea": {
       "name": "Sea of Dreams",
-      "description": "Have you ever seen the sea?",
       "condition": "Visit Sea"
     },
     "flow_shinsoku_neko_ex": {
@@ -10624,7 +10622,6 @@
     },
     "ud_visit_star_lake": {
       "name": "Starlight Reflections",
-      "description": "Is this where shooting stars go when they want to sleep?",
       "condition": "Visit Star Lake"
     },
     "cheese_congregation_island": {
