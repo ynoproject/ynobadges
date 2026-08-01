@@ -9244,7 +9244,7 @@
     "worksite_girl_glasses": {
       "name": "Silly Disguise",
       "description": "Pump it up kitty! Just pump it up kitty cat. Where you at? There you go, put two paws on the floor Two in the air and then just.. Go kitty Go kitty Go kitty go! And just Ride kitty Ride kitty Ride kitty roll!",
-      "condition": "See the girl in Worksite with the Glasses effect"
+      "condition": "Use the glasses effect near the purple girl NPC in Worksite"
     },
     "2kki_train_tracks_rat": {
       "name": "Rat by the track",
@@ -9272,7 +9272,7 @@
     "hex_pillar_passage_dolphin": {
       "name": "Thirsty Dolphin",
       "description": "You're not drinking that coffee... right?",
-      "condition": "Interact with the dolphin in the isolated section of Hexagonal Pillar Passage"
+      "condition": "Interact with the dolphin in Hexagonal Pillar Passage's isolated section"
     },
     "oblique_hell_statue": {
       "name": "Butterfly Guardian",
@@ -9385,6 +9385,10 @@
       "name": "Building Relationships",
       "description": "So wholesome.",
       "condition": "Посмотрите на обнимающиеся постройки на Тропе в Фиолетовом Лесу, что в Sculpture Park."
+    },
+    "black_hole_dream_wardrobe": {
+      "name": "Colorful Singularities",
+      "condition": "Equip any of the black hole girl masks in Dream Wardrobe"
     }
   },
   "flow": {
@@ -10597,7 +10601,7 @@
     "ud_visit_rainy_street": {
       "name": "City Stars",
       "description": "I think I love every person behind every window. I love you, people, for being my stars. You are lovely for tonight...",
-      "condition": "See the Rainy Street that connects Blacklight Bar to Pink Desert"
+      "condition": "Visit the Rainy Street from Blacklight Bar or Pink Desert"
     },
     "ud_visit_star_lake": {
       "name": "Starlight Reflections",
@@ -13861,7 +13865,7 @@
     "sn_visit_vaporwave": {
       "name": "Sampuru 96",
       "description": "Scary, retro, and samples.",
-      "condition": "Visit the Vaporwave Area."
+      "condition": "Visit the Vaporwave Area"
     },
     "sn_visit_school_rooftop": {
       "name": "Bloodied rooftop",
