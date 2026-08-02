@@ -1,8 +1,17 @@
 {
   "group": "2_el",
   "bp": 10,
-  "reqType": "tag",
-  "reqString": "sai_no_kawara_push_rock",
+  "reqType": "tagArrays",
+  "reqStringArrays": [
+    [
+      "sai_no_kawara_rock_1",
+      "sai_no_kawara_rock_2",
+      "sai_no_kawara_rock_3",
+      "sai_no_kawara_rock_4",
+      "sai_no_kawara_rock_5",
+      "sai_no_kawara_rock_6"
+    ]
+  ],
   "map": 1913,
   "art": "tophat",
   "animated": true,

@@ -1,8 +1,12 @@
 {
   "bp": 15,
-  "reqType": "tags",
-  "reqStrings": ["ly_sansara_effect", "ly_sansara_effect_equip"],
-  "reqCount": 1,
+  "reqType": "tagArrays",
+  "reqStringArrays": [
+    [
+      "ly_sansara_effect",
+      "ly_sansara_effect_equip"
+    ]
+  ],
   "map": 126,
   "art": "SamsungFridg",
   "batch": 223
