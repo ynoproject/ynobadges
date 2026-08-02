@@ -315,6 +315,7 @@
 * solnpass
 * Somsnosna
 * SpaceBug
+* spectrumcore
 * speeedysalad
 * Staghouse33
 * starbits
