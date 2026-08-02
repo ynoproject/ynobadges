@@ -9172,7 +9172,7 @@
     "ch_visit_garden_worlds": {
       "name": "花に染まる",
       "description": "あの日の約束の場所へ、花で埋め尽くされるその時まで。",
-      "condition": "以下の庭園がテーマの世界を訪れる: 植物世界、月夜館、テスラ庭園、エポッペ、オータム、街灯園、始祖庭、彼の庭、辺境の夢:花の小径、蒼園、徒花、屋敷庭園、深淵庭、フェアリー庭園、無限の庭、思索の浅瀬、スノードロップ",
+      "condition": "以下の庭園がテーマの世界を訪れる: 植物世界、月夜館、テスラ庭園、エポッペ、オータム、街灯園、始祖庭、彼の庭、辺境の夢:花の小径、蒼園、徒花、明暗館、深淵庭、フェアリー庭園、無限の庭、思索の浅瀬、スノードロップ",
       "checkbox": {
         "adabana_gardens": "徒花",
         "azure_garden": "蒼園",
@@ -9263,9 +9263,9 @@
       "condition": "未界の明路に到達する"
     },
     "worksite_girl_glasses": {
-      "name": "おかしな変装",
-      "description": "さあ、元気を出せ、子猫ちゃん！そう、元気を出せ、子猫ちゃん。どこにいるの？そう、その調子。両足を床につけて、両手を空中に上げて、それから……行け、子猫ちゃん！行け、子猫ちゃん！行け、子猫ちゃん、行け！そして、走れ、子猫ちゃん！走れ、子猫ちゃん！走れ、子猫ちゃん、転がれ！！",
-      "condition": "現場道路:紫巨人の通路で紫巨人にめがねのエフェクトを使用する"
+      "name": "Silly Disguise",
+      "description": "Pump it up kitty! Just pump it up kitty cat. Where you at? There you go, put two paws on the floor Two in the air and then just.. Go kitty Go kitty Go kitty go! And just Ride kitty Ride kitty Ride kitty roll!",
+      "condition": "Use the glasses effect near the purple girl NPC in Worksite"
     },
     "2kki_train_tracks_rat": {
       "name": "壁沿いのバク",
@@ -9291,9 +9291,9 @@
       "condition": "科学展の天文台で2種類の景色を見る"
     },
     "hex_pillar_passage_dolphin": {
-      "name": "喉が渇いたイルカ",
-      "description": "まさかそのコーヒー、飲まないよね……？",
-      "condition": "六角タイル世界:六角柱通路・石材で吸イルカに話しかける"
+      "name": "Thirsty Dolphin",
+      "description": "You're not drinking that coffee... right?",
+      "condition": "Interact with the dolphin in Hexagonal Pillar Passage's isolated section"
     },
     "oblique_hell_statue": {
       "name": "蝶のガーディアン",
@@ -9315,9 +9315,9 @@
       "condition": "水中植物園に到達する"
     },
     "dreadful_city_outlook": {
-      "name": "歪んだ親近感",
-      "description": "かつて存在したものの、壊れ果てた残骸。",
-      "condition": "慄れられた街:奈落のかなたに到達する"
+      "name": "Distorted Familiarity",
+      "description": "A corrupted ruin of what once was.",
+      "condition": "Visit the mountain outlook area of Dreadful City"
     },
     "eyeberry_orchard_couch": {
       "name": "洗い流せない血",
@@ -9406,6 +9406,10 @@
       "name": "関係構築",
       "description": "てぇてぇ",
       "condition": "彫刻庭園の雨の小道で抱き合う目付き建物を見る"
+    },
+    "black_hole_dream_wardrobe": {
+      "name": "Colorful Singularities",
+      "condition": "Equip any of the black hole girl masks in Dream Wardrobe"
     }
   },
   "flow": {
@@ -10618,7 +10622,7 @@
     "ud_visit_rainy_street": {
       "name": "City Stars",
       "description": "I think I love every person behind every window. I love you, people, for being my stars. You are lovely for tonight...",
-      "condition": "See the Rainy Street that connects Blacklight Bar to Pink Desert"
+      "condition": "Visit the Rainy Street from Blacklight Bar or Pink Desert"
     },
     "ud_visit_star_lake": {
       "name": "Starlight Reflections",
@@ -13886,7 +13890,7 @@
     "sn_visit_vaporwave": {
       "name": "Sampuru 96",
       "description": "Scary, retro, and samples.",
-      "condition": "Visit the Vaporwave Area."
+      "condition": "Visit the Vaporwave Area"
     },
     "sn_visit_school_rooftop": {
       "name": "Bloodied rooftop",
