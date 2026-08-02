@@ -1,8 +1,12 @@
 {
   "bp": 10,
-  "reqType": "tags",
-  "reqStrings": ["ly_palliative_ward", "ly_palliative_ward_after_event"],
-  "reqCount": 1,
+  "reqType": "tagArrays",
+  "reqStringArrays": [
+    [
+      "ly_palliative_ward",
+      "ly_palliative_ward_after_event"
+    ]
+  ],
   "map": 96,
   "secretCondition": true,
   "art": "Ticks",
