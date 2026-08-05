@@ -82,6 +82,7 @@
 * ClownTea
 * Cmax_
 * Colby
+* Coolkid95
 * CoolKid95
 * cosmicmoths
 * Cosrie
@@ -315,6 +316,7 @@
 * solnpass
 * Somsnosna
 * SpaceBug
+* spectrumcore
 * speeedysalad
 * Staghouse33
 * starbits

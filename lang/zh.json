@@ -1093,6 +1093,9 @@
       "condition": "使用兔耳效果，让Industrial Towers的Glitchman将时间变为夜晚"
     },
     "dream_fishing": {
+      "name": "固态鱼",
+      "description": "穿过黑暗寂静的夜晚……",
+      "condition": "抵达以下含有鱼的水主题世界：Ocean Subsurface、Rotten Fish Lake、Fish World、Mackerel Desert、Sushi World、Flying Fish World、Lamplit Stones、Streetlight Docks、Depths、Bioluminescent Cavern",
       "checkbox": {
         "ocean_subsurface": "Ocean Subsurface",
         "rotten_fish_lake": "Rotten Fish Lake",
@@ -1104,10 +1107,7 @@
         "fish_streetlight": "Streetlight Docks",
         "fish_depths": "Depths",
         "fish_bioluminescent": "Bioluminescent Cavern"
-      },
-      "name": "固态鱼",
-      "description": "穿过黑暗寂静的夜晚……",
-      "condition": "抵达以下含有鱼的水主题世界：Ocean Subsurface、Rotten Fish Lake、Fish World、Mackerel Desert、Sushi World、Flying Fish World、Lamplit Stones、Streetlight Docks、Depths、Bioluminescent Cavern"
+      }
     },
     "decrepit_smile": {
       "name": "芜言狞笑",
@@ -1996,6 +1996,9 @@
       "condition": "在Chocolate World调查三种不同口味的巧克力"
     },
     "sad_jellyfish": {
+      "name": "忧伤水母",
+      "description": "永远无法触及。",
+      "condition": "在以下忧伤水母出现的位置看到它：Forest Pier、Chaotic Buildings、Overgrown Condominium、Doll House、Fantasy Isle、Monolith Jungle、Twilight Park、Moonlight Lantern Forest、Black Wilderness、Watching Forest",
       "checkbox": {
         "sad_jellyfish_forest_pier": "Forest Pier",
         "sad_jellyfish_chaotic_buildings": "Chaotic Buildings",
@@ -2007,10 +2010,7 @@
         "sad_jellyfish_twl_park": "Twilight Park",
         "sad_jellyfish_black_wilderness": "Black Wilderness",
         "sad_jellyfish_watching_forest": "Watching Forest"
-      },
-      "name": "忧伤水母",
-      "description": "永远无法触及。",
-      "condition": "在以下忧伤水母出现的位置看到它：Forest Pier、Chaotic Buildings、Overgrown Condominium、Doll House、Fantasy Isle、Monolith Jungle、Twilight Park、Moonlight Lantern Forest、Black Wilderness、Watching Forest"
+      }
     },
     "monmon": {
       "name": "Monmon",
@@ -9255,9 +9255,9 @@
       "condition": "抵达Neon Spacewalk"
     },
     "worksite_girl_glasses": {
-      "name": "愚蠢伪装",
-      "description": "加油猫咪！嗨起来就好。你在哪呢？来吧，两只爪子放在地上，两只手放在空气中的二楼，然后……去吧猫咪去吧猫咪去吧买米去吧！然后翻滚起来吧猫咪！",
-      "condition": "使用眼镜效果观察Worksite的女孩"
+      "name": "Silly Disguise",
+      "description": "Pump it up kitty! Just pump it up kitty cat. Where you at? There you go, put two paws on the floor Two in the air and then just.. Go kitty Go kitty Go kitty go! And just Ride kitty Ride kitty Ride kitty roll!",
+      "condition": "Use the glasses effect near the purple girl NPC in Worksite"
     },
     "2kki_train_tracks_rat": {
       "name": "铁道边的老鼠",
@@ -9283,9 +9283,9 @@
       "condition": "看到Grand Scientific Museum望远镜中的两种景象"
     },
     "hex_pillar_passage_dolphin": {
-      "name": "口渴海豚",
-      "description": "你没有在喝那个咖啡……对吧？",
-      "condition": "与Hexagonal Pillar Passage孤立区域的海豚交互"
+      "name": "Thirsty Dolphin",
+      "description": "You're not drinking that coffee... right?",
+      "condition": "Interact with the dolphin in Hexagonal Pillar Passage's isolated section"
     },
     "oblique_hell_statue": {
       "name": "蝴蝶守卫",
@@ -9307,9 +9307,9 @@
       "condition": "抵达Botanical Garden"
     },
     "dreadful_city_outlook": {
-      "name": "扭曲的熟悉感",
-      "description": "曾经的样子已不再，只剩下朽坏的遗迹。",
-      "condition": "抵达Dreadful City的山景区域"
+      "name": "Distorted Familiarity",
+      "description": "A corrupted ruin of what once was.",
+      "condition": "Visit the mountain outlook area of Dreadful City"
     },
     "eyeberry_orchard_couch": {
       "name": "洗不去的血迹",
@@ -9398,6 +9398,86 @@
       "name": "建筑交际",
       "description": "如此完整。",
       "condition": "找到Sculpture Park: Purple Forest Path里拥抱的建筑。"
+    },
+    "black_hole_dream_wardrobe": {
+      "name": "Colorful Singularities",
+      "condition": "Equip any of the black hole girl masks in Dream Wardrobe"
+    },
+    "2kki_cloud_mirror_reactions": {
+      "name": "A Batty Interaction!",
+      "description": "The reflection of the sky and the wind flowing through the grass is calming.",
+      "condition": "See all of Ringo's effect interactions in Cloud Mirror."
+    },
+    "2kki_forest_cavern_mask": {
+      "name": "Plant Maiden",
+      "description": "Scars covered in ivy",
+      "condition": "Equip the plant maiden mask in the isolated section of Forest Cavern accessible from Shrouded Arcadia"
+    },
+    "2kki_qxyaoi_chainsaw": {
+      "name": "Little Sister",
+      "description": "What are you doing in this large labyrinth?",
+      "condition": "Chainsaw the Sister in Auguries of Innocence"
+    },
+    "2kki_red_gray_maze_rainbow": {
+      "name": "Prideful Rave Event",
+      "description": "Don't stare at it for too long or you'll be vomiting rainbows later.",
+      "condition": "Witness the Rainbow Circle Event in Red-Gray Maze"
+    },
+    "2kki_smooth_coastline_castle": {
+      "name": "Castle on The Coast",
+      "condition": "Find the sand castle in Smooth Coastline"
+    },
+    "2kki_spirit_lake_crystal": {
+      "name": "Crystallic Phantasia",
+      "description": "Your eyes are gems shining in their full brilliance, beautiful, but cold and hard.",
+      "condition": "Enter the crystal room leading to Kaleidoscope in Sprite Lake"
+    },
+    "2kki_the_skin_blood_creature": {
+      "name": "Crawling in my skin",
+      "description": "\"STOP STARING AT ME!!!!\"",
+      "condition": "See the creature near the blood pile in The Skin"
+    },
+    "2kki_visit_christmas": {
+      "name": "Christmas Spirit",
+      "description": "Save on everything on Christmas in July!",
+      "condition": "Visit Christmas World"
+    },
+    "2kki_visit_keygen_room": {
+      "name": "Cyber Locksmith",
+      "description": "I'm gonna be king of the pirates!",
+      "condition": "Enter the rare Keygen room of Mystery Zone B"
+    },
+    "2kki_visit_mother": {
+      "name": "Mother",
+      "condition": "Enter Mother's room in Urotsuki's Dream Apartments"
+    },
+    "2kki_visit_watching_forest": {
+      "name": "The Forest Has Eyes",
+      "description": "Lost in the forest's gaze, the little dreamer followed the path inwards to it's lamplit heart.",
+      "condition": "Visit both sections of Watching Forest"
+    },
+    "ch_rainbow_worlds": {
+      "name": "Sunshine and Rainbows",
+      "description": "I love colors!!!",
+      "condition": "Visit the following rainbow worlds: Rainbow Ruins (Bright Forest), Rainbow Towers, Rainbow Axis, Rainbow Pottery Zone, Rainbow Silhouette World, Rainbow Snow Plateau, Sealed Rainbow Pillars, Rainbow Tiles Maze, Radiant Rainbow Reef, Rainbow Road, and House Over the Rainbow",
+      "checkbox": {
+        "ch_rainbow_worlds_e": "Rainbow Silhouette World",
+        "radiant_rainbow_reef": "Radiant Rainbow Reef",
+        "rainbow_axis": "Rainbow Axis",
+        "rainbow_ruins": "Rainbow Ruins (Bright Forest)",
+        "rainbow_snow_plateau": "Rainbow Snow Plateau",
+        "rainbow_towers": "Rainbow Towers",
+        "sealed_rainbow_pillars": "Sealed Rainbow Pillars",
+        "visit_house_over_rainbow": "House Over the Rainbow",
+        "visit_rainbow_pottery_zone": "Rainbow Pottery Zone",
+        "visit_rainbow_road": "Rainbow Road",
+        "visit_rainbow_tiles_maze": "Rainbow Tiles Maze"
+      }
+    },
+    "visit_limestone_dam": {
+      "name": "Drizzling Dam",
+      "description": "A structure made of limestone enduring even in a never ending rain.",
+      "condition": "Visit Limestone Dam"
     }
   },
   "flow": {
@@ -10608,9 +10688,9 @@
       "condition": "在Violet Caves睡觉的龙处获得零钱"
     },
     "ud_visit_rainy_street": {
-      "name": "城市群星",
-      "description": "我认为我爱每扇窗背后的每个人。我爱你，人们，因为你们是我的群星。你们今夜是如此可爱……",
-      "condition": "看到连通Blacklight Bar和Pink Desert的Rainy Street"
+      "name": "City Stars",
+      "description": "I think I love every person behind every window. I love you, people, for being my stars. You are lovely for tonight...",
+      "condition": "Visit the Rainy Street from Blacklight Bar or Pink Desert"
     },
     "ud_visit_star_lake": {
       "name": "星光倒影",
@@ -11240,6 +11320,16 @@
       "name": "里面什么也没有",
       "description": "让我们把这个世界抛在身后……",
       "condition": "见证结局#3"
+    },
+    "muma_another_white_npcs": {
+      "name": "The Mono Trio",
+      "description": "Our groove cannot be stopped!",
+      "condition": "Interact with Kaki, Saki, and Maki in Another White"
+    },
+    "muma_broken_passageway_cat": {
+      "name": "Personmeowl Space",
+      "description": "Can't... Quite... Reeeach...",
+      "condition": "See the white cat in Broken Passageway"
     }
   },
   "genie": {
@@ -13755,6 +13845,10 @@
       "name": "飞向远方",
       "description": "享受本次乘机！",
       "condition": "获得效果Wingman effect。若已解锁，请返回Crimson Dunes。"
+    },
+    "ly_foam_world_house": {
+      "name": "Aww! Soap cube!",
+      "condition": "Visit the house of Hamigaki-san in Foam World"
     }
   },
   "okuri": {
@@ -13872,9 +13966,9 @@
       "condition": "与School的生物互动"
     },
     "sn_visit_vaporwave": {
-      "name": "样本96",
-      "description": "恐怖、怀旧、样本。",
-      "condition": "抵达Vaporwave Area."
+      "name": "Sampuru 96",
+      "description": "Scary, retro, and samples.",
+      "condition": "Visit the Vaporwave Area"
     },
     "sn_visit_school_rooftop": {
       "name": "染血屋顶",
