@@ -82,8 +82,8 @@
 * ClownTea
 * Cmax_
 * Colby
-* CoolKid95
 * Coolkid95
+* CoolKid95
 * cosmicmoths
 * Cosrie
 * Cris
