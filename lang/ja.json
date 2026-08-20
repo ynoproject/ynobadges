@@ -2465,12 +2465,11 @@
     },
     "zalgo_appearance": {
       "name": "Z̴̜̬̈́͐̒̄͑̃͛̄̊̕͝Ạ̶̭̮̰̯̱̠̠͖̜̲̯̈́̃͌͑̚͘ͅL̵̡̡̡͓͚̖̗̙̹̲̻̝͚̒͒͌G̷̝̜̦̱̠̝̮̲̺̝̽̓͜Ŏ̷͈́̔̚̕̕͝",
-      "condition": "集束、廃線、アトリエ、文字世界で集束の顔を見つける",
+      "condition": "集束、廃線、アトリエで集束の顔を見つける",
       "checkbox": {
         "zalgo_magnet_room": "集束",
         "zalgo_train_tracks": "廃線",
-        "zalgo_atelier": "アトリエ",
-        "zalgo_character": "文字世界"
+        "zalgo_atelier": "アトリエ"
       }
     },
     "cyclop_holiday_hell": {
@@ -9172,7 +9171,7 @@
     "ch_visit_garden_worlds": {
       "name": "花に染まる",
       "description": "あの日の約束の場所へ、花で埋め尽くされるその時まで。",
-      "condition": "以下の庭園がテーマの世界を訪れる: 植物世界、月夜館、テスラ庭園、エポッペ、オータム、街灯園、始祖庭、彼の庭、辺境の夢:花の小径、蒼園、徒花、明暗館、深淵庭、フェアリー庭園、無限の庭、思索の浅瀬、スノードロップ",
+      "condition": "以下の庭園がテーマの世界を訪れる: 植物世界、月夜館、テスラ庭園、エポッペ、オータム、街灯園、始祖庭、彼の庭、辺境の夢:花の小径、蒼園、徒花、屋敷庭園、深淵庭、フェアリー庭園、無限の庭、思索の浅瀬、スノードロップ",
       "checkbox": {
         "adabana_gardens": "徒花",
         "azure_garden": "蒼園",
@@ -9469,7 +9468,7 @@
       "description": "I love colors!!!",
       "condition": "Visit the following rainbow worlds: Rainbow Ruins (Bright Forest), Rainbow Towers, Rainbow Axis, Rainbow Pottery Zone, Rainbow Silhouette World, Rainbow Snow Plateau, Sealed Rainbow Pillars, Rainbow Tiles Maze, Radiant Rainbow Reef, Rainbow Road, and House Over the Rainbow",
       "checkbox": {
-        "ch_rainbow_worlds_e": "Rainbow Silhouette World",
+        "visit_rainbow_silhouette": "Rainbow Silhouette World",
         "radiant_rainbow_reef": "Radiant Rainbow Reef",
         "rainbow_axis": "Rainbow Axis",
         "rainbow_ruins": "Rainbow Ruins (Bright Forest)",
@@ -9486,6 +9485,11 @@
       "name": "Drizzling Dam",
       "description": "A structure made of limestone enduring even in a never ending rain.",
       "condition": "Visit Limestone Dam"
+    },
+    "2kki_aoi_sister_chainsaw": {
+      "name": "Little Sister",
+      "description": "What are you doing in this large labyrinth?",
+      "condition": "Chainsaw the Sister in Auguries of Innocence"
     }
   },
   "flow": {

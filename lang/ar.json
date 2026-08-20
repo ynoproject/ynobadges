@@ -2454,12 +2454,11 @@
     },
     "zalgo_appearance": {
       "name": "Z̴̜̬̈́͐̒̄͑̃͛̄̊̕͝Ạ̶̭̮̰̯̱̠̠͖̜̲̯̈́̃͌͑̚͘ͅL̵̡̡̡͓͚̖̗̙̹̲̻̝͚̒͒͌G̷̝̜̦̱̠̝̮̲̺̝̽̓͜Ŏ̷͈́̔̚̕̕͝",
-      "condition": "Find Zalgo in the Magnet Room, Train Tracks, the Atelier, and Restored Character World",
+      "condition": "Find Zalgo in the Magnet Room, Train Tracks, and the Atelier",
       "checkbox": {
         "zalgo_magnet_room": "Magnet Room",
         "zalgo_train_tracks": "Train Tracks",
-        "zalgo_atelier": "Atelier",
-        "zalgo_character": "Restored Character World"
+        "zalgo_atelier": "Atelier"
       }
     },
     "cyclop_holiday_hell": {
@@ -9455,7 +9454,7 @@
       "description": "I love colors!!!",
       "condition": "Visit the following rainbow worlds: Rainbow Ruins (Bright Forest), Rainbow Towers, Rainbow Axis, Rainbow Pottery Zone, Rainbow Silhouette World, Rainbow Snow Plateau, Sealed Rainbow Pillars, Rainbow Tiles Maze, Radiant Rainbow Reef, Rainbow Road, and House Over the Rainbow",
       "checkbox": {
-        "ch_rainbow_worlds_e": "Rainbow Silhouette World",
+        "visit_rainbow_silhouette": "Rainbow Silhouette World",
         "radiant_rainbow_reef": "Radiant Rainbow Reef",
         "rainbow_axis": "Rainbow Axis",
         "rainbow_ruins": "Rainbow Ruins (Bright Forest)",
@@ -9472,6 +9471,11 @@
       "name": "Drizzling Dam",
       "description": "A structure made of limestone enduring even in a never ending rain.",
       "condition": "Visit Limestone Dam"
+    },
+    "2kki_aoi_sister_chainsaw": {
+      "name": "Little Sister",
+      "description": "What are you doing in this large labyrinth?",
+      "condition": "Chainsaw the Sister in Auguries of Innocence"
     }
   },
   "flow": {
