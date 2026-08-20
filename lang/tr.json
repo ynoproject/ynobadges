@@ -2451,11 +2451,12 @@
     },
     "zalgo_appearance": {
       "name": "Z̴̜̬̈́͐̒̄͑̃͛̄̊̕͝Ạ̶̭̮̰̯̱̠̠͖̜̲̯̈́̃͌͑̚͘ͅL̵̡̡̡͓͚̖̗̙̹̲̻̝͚̒͒͌G̷̝̜̦̱̠̝̮̲̺̝̽̓͜Ŏ̷͈́̔̚̕̕͝",
-      "condition": "Find Zalgo in the Magnet Room, Train Tracks, and the Atelier",
+      "condition": "Find Zalgo in the Magnet Room, Train Tracks, the Atelier, and Restored Character World",
       "checkbox": {
         "zalgo_magnet_room": "Magnet Room",
         "zalgo_train_tracks": "Train Tracks",
-        "zalgo_atelier": "Atelier"
+        "zalgo_atelier": "Atelier",
+        "zalgo_character": "Restored Character World"
       }
     },
     "cyclop_holiday_hell": {
@@ -9473,6 +9474,66 @@
       "name": "Little Sister",
       "description": "What are you doing in this large labyrinth?",
       "condition": "Chainsaw the Sister in Auguries of Innocence"
+    },
+    "2kki_jockey_lmao": {
+      "name": "UroCRAFT",
+      "description": "First we Uro, then we Tsuki... LET'S UROTSUKI!!",
+      "condition": "Chainsaw the blocky Urotsuki in Sands of Self until it's completely gone"
+    },
+    "spirit_factory_cloudroom": {
+      "name": "Take Your Time...",
+      "description": "Hey, wanna go cloud watching with me?",
+      "condition": "See both Cloud Rooms in Spirit Factory"
+    },
+    "2kki_voidrooms": {
+      "name": "Void Cells",
+      "description": "Compact cells of the cybernetic void.",
+      "condition": "Enter all 3 rooms of the Void"
+    },
+    "2kki_umbrella_world": {
+      "name": "A Whisper of Silence",
+      "description": "The rain doesn't call for my umbrella - my umbrella calls for the rain that never comes.",
+      "condition": "Visit Umbrella World"
+    },
+    "2kki_pink_girl_glutton": {
+      "name": "Mangled Innocence",
+      "description": "Your innocence wears white, but your ending blooms in red.",
+      "condition": "Kill the pink girl in Realm of Gluttony"
+    },
+    "the_liar": {
+      "name": "A malicious smile",
+      "description": "What should I believe?",
+      "condition": "Turn the light off in the Liar's bedroom"
+    },
+    "blossom_boardwalk_visit": {
+      "name": "Buried in Bloom",
+      "description": "In this place where even time lies sleeping, I only melt into a suspended fragrance.",
+      "condition": "Visit Blossom Boardwalk"
+    },
+    "2kki_its_tv_tunnels_time": {
+      "name": "Psychotropic Broadcast",
+      "description": "Why am I switching faster than the channels on TV?",
+      "condition": "Enter the TV room in Tunnels"
+    },
+    "2kki_autumnal_worlds": {
+      "name": "Golden Season",
+      "condition": "Visit the following Autumnal Worlds: Fall Shoal, Autumn Docks, Autumn Park, Autumn Pastel Plains, Autumn Sky",
+      "checkbox": {
+        "1_fall_shoal": "Fall Shoal",
+        "2_autumn_docks": "Autumn Docks",
+        "3_autumn_park": "Autumn Park",
+        "4_autumn_pastel_plains": "Autumn Pastel Plains",
+        "5_autumn_sky": "Autumn Sky"
+      }
+    },
+    "2kki_crimson_district_visit": {
+      "name": "A city glowing crimson",
+      "condition": "Visit Crimson District"
+    },
+    "glaciated_sanctuary_room": {
+      "name": "Comfy Space",
+      "description": "This painting is for you someday.",
+      "condition": "Enter the home in Glaciated Sanctuary"
     }
   },
   "flow": {
@@ -9853,6 +9914,11 @@
       "name": "Peeling, Rotting, Deteriorating",
       "description": "A memory so rusty inside your head it hurts to remember. But even yet, it's beautiful to remember, isn't it?",
       "condition": "Visit Deterioration"
+    },
+    "flow_plant_effect": {
+      "name": "Blooming, Fed by Me",
+      "description": "My ruin is their spring.",
+      "condition": "Obtain the Plant Effect. If you've already obtained it, return to Illusionary Corridors."
     }
   },
   "deepdreams": {
@@ -10109,6 +10175,11 @@
       "name": "Infinity Street",
       "description": "Luckily there's no demon here.",
       "condition": "Visit Infinity Street"
+    },
+    "deepdreams_jelly_alter": {
+      "name": "Jellyfish Dreams",
+      "description": "Ah! So jelly...",
+      "condition": "Obtain the Gelatinous Alter. If you've already obtained it, return to Alien Ocean."
     }
   },
   "someday": {
@@ -12913,6 +12984,11 @@
       "name": "Lights adorning the early summer night",
       "description": "It's dark in here, please bring a light source.",
       "condition": "Use the Light Bug Effect in the passageway from Deep Forest A to Plush Grave"
+    },
+    "ending_1_tsushin": {
+      "name": "Indefinite Hold",
+      "description": "The Moratorium Where the Ringing Never Stops",
+      "condition": "See the Ending #1"
     }
   },
   "nostalgic": {
@@ -13848,6 +13924,11 @@
     "ly_foam_world_house": {
       "name": "Aww! Soap cube!",
       "condition": "Visit the house of Hamigaki-san in Foam World"
+    },
+    "ly_complex_kill_kodoko": {
+      "name": "Love Hurts",
+      "description": "I still and will never get you off my mind...",
+      "condition": "Butcher the Red Kodoko in the Love Complex"
     }
   },
   "okuri": {
@@ -13995,6 +14076,11 @@
       "name": "Best Friends Forever",
       "description": "My delicious little friend",
       "condition": "Purchase a pet steak at the Steak Farm"
+    },
+    "spacefuneral_bloodknight": {
+      "name": "Blood Thirsty Knight",
+      "description": "Thanks bro.",
+      "condition": "Save the knight with a Big Blood in the Swamp Cave"
     }
   }
 }
