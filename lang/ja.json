@@ -9536,14 +9536,14 @@
       "name": "Golden Season",
       "condition": "Visit the following Autumnal Worlds: Fall Shoal, Autumn Docks, Autumn Park, Autumn Pastel Plains, Autumn Sky",
       "checkbox": {
-        "1_fall_shoal": "Fall Shoal",
+        "fall_shoal": "Fall Shoal",
         "2_autumn_docks": "Autumn Docks",
-        "3_autumn_park": "Autumn Park",
-        "4_autumn_pastel_plains": "Autumn Pastel Plains",
-        "5_autumn_sky": "Autumn Sky"
+        "visit_autumn_park": "Autumn Park",
+        "autumn_pastel_plains": "Autumn Pastel Plains",
+        "autumn_sky": "Autumn Sky"
       }
     },
-    "2kki_crimson_district_visit": {
+    "visit_crimson_district": {
       "name": "A city glowing crimson",
       "condition": "Visit Crimson District"
     },
@@ -13005,7 +13005,7 @@
     "ending_1_tsushin": {
       "name": "Indefinite Hold",
       "description": "The Moratorium Where the Ringing Never Stops",
-      "condition": "See the Ending #1"
+      "condition": "See Ending #1"
     }
   },
   "nostalgic": {

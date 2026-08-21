@@ -1,8 +1,11 @@
 {
   "group": "2_el",
   "bp": 20,
-  "reqType": "tag",
-  "reqString": "spirit_factory_cloudroom",
+  "reqType": "tags",
+  "reqStrings": [
+    "spirit_factory_cloudroom_a",
+    "spirit_factory_cloudroom_b"
+  ],
   "map": 3867,
   "art": "emocore",
   "animated": true,
