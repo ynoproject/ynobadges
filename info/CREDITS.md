@@ -152,6 +152,7 @@
 * Jetrotal
 * JFero
 * JGS5
+* jinyajin
 * Jirachi
 * JIVV
 * JohnYumeNiki
@@ -339,6 +340,7 @@
 * Telebotz
 * Temwichi
 * thatdolphin
+* thatoneartistdude
 * Theero
 * TheInkBlot
 * TheRagingRowlet
