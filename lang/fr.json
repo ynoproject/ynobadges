@@ -9537,6 +9537,60 @@
       "name": "Comfy Space",
       "description": "This painting is for you someday.",
       "condition": "Enter the home in Glaciated Sanctuary"
+    },
+    "2kki_mnt_range_conductor": {
+      "name": "The Desolate Microcosm",
+      "condition": "See the conductor in Mountain Range"
+    },
+    "2kki_visit_art_gallery": {
+      "name": "True Painter's Exhibit",
+      "description": "The abstract catalogue of works designed by the masked painter.",
+      "condition": "Visit Art Gallery"
+    },
+    "2kki_visit_cloudy_world": {
+      "name": "The white wind is howling...",
+      "description": "The Harmony of White and Water",
+      "condition": "Visit Cloudy World"
+    },
+    "2kki_visit_crystal_waters": {
+      "name": "The Crystals That Remember the Sky",
+      "description": "Reflecting the starlight, the crystals shine on forever.",
+      "condition": "Visit Crystal Waters"
+    },
+    "blue_house_road_car": {
+      "name": "Deja Vu!",
+      "description": "I've just been in this place before.",
+      "condition": "Get in a car at Blue House Road"
+    },
+    "dream_tropics_islands": {
+      "name": "Island Hopping!",
+      "description": "From the nugget islets, passing though the twin isles, heading towards lilypad island...",
+      "condition": "Visit every island of Dream Tropics"
+    },
+    "monster_jaw_chainsaw": {
+      "name": "Good nap, Aojiru!",
+      "description": "Wait in nap, I'm going to hurt you!",
+      "condition": "Use the Chainsaw Effect on the Monster's Jaw to view a cutscene of Aojiru asleep"
+    },
+    "sunlit_winter_chasers": {
+      "name": "Thought You Could Get Away?",
+      "description": "You're my little doll. You can't run away from me.",
+      "condition": "Get caught by the sister chasers in Sunlit Winter Woods"
+    },
+    "tt_waters_edge": {
+      "name": "Gateway Edge",
+      "description": "A penumbral threshold... of darkness.",
+      "condition": "Reach the final room in Water's Edge in {TIME} or less in Time Trial Mode"
+    },
+    "visit_amorphous_maroon_space": {
+      "name": "Red and Writhing",
+      "description": "That reddish-black thing.",
+      "condition": "Visit Amorphous Maroon Space"
+    },
+    "visit_colorful_spheres": {
+      "name": "A Round Universe",
+      "description": "The universe is always in motion!",
+      "condition": "Visit Colorful Spheres World"
     }
   },
   "flow": {
@@ -13114,6 +13168,11 @@
       "name": "Garden of False Dream",
       "description": "I'm looking at the sky and thinking about my false idea of life",
       "condition": "Visit Sleeping Garden"
+    },
+    "nost_pastel_space_effects": {
+      "name": "Floating into Dreamscape",
+      "description": "I drift through imagination, scattering into anything I could become. I could wander beyond the sky, but I only wish to dissolve somewhere beautiful.",
+      "condition": "Equip the Zero Gravity effect and the Unicorn Effect in Pastel Space, where both can be found at the same place."
     }
   },
   "if": {
@@ -13550,6 +13609,11 @@
       "name": "Ask Me Anything",
       "description": "Reply hazy, please try again.",
       "condition": "Obtain the 8 Ball effect. If you have already unlocked it, return to the Path to Pyramid in Grass World."
+    },
+    "fog_water_fountain_balcony": {
+      "name": "\"A Universe upon your Glasses\n\"",
+      "description": "\"May your light reflected in the glass find its way back to you.\n\"",
+      "condition": "Visit the balcony of Water Fountain Campus"
     }
   },
   "cold": {
@@ -13928,6 +13992,16 @@
       "name": "Love Hurts",
       "description": "I still and will never get you off my mind...",
       "condition": "Butcher the Red Kodoko in the Love Complex"
+    },
+    "ly_cursed_menu_theme": {
+      "name": "A Benevolent Cryptid",
+      "description": "I had that dream again, about the horse behind the rock. I saw the destruction its presence warned of, then we parted ways and I told it that it would always be welcome here.",
+      "condition": "Obtain the Cursed Menu Theme. If you have already unlocked it, return where it can be found in Macabre Forest."
+    },
+    "ly_heart_effect": {
+      "name": "But Please.",
+      "description": "This heart of mine still beats just for you. Every drip of blood I'll spill will show you just how much I loved you... So, please... Please love me again...",
+      "condition": "Obtain the Heart effect. If you have already obtained it, return to where it can be found in Love Drains."
     }
   },
   "okuri": {
@@ -14021,6 +14095,11 @@
       "name": "Dressed in Scarlet Leaves",
       "description": "Slip your sleeves into crimson autumn.",
       "condition": "Obtain the Maple effect. If already obtained, return to where you have done so."
+    },
+    "okuri_fuki_shoot_effect": {
+      "name": "Blooming bud of early spring",
+      "description": "I hope this young plant grows to be healthy and strong.....",
+      "condition": "Obtain the Fuki Shoot effect. If you have already obtained it, return to where it can be found in the Garden."
     }
   },
   "scarynikki": {
