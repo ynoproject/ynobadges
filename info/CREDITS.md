@@ -45,6 +45,7 @@
 * Aring
 * arksynapse
 * aronek
+* Aronek
 * Arumita
 * Athoth
 * aukse
@@ -307,6 +308,7 @@
 * Siruku
 * Sleepyghost
 * sleepysky
+* Sleepysky
 * snailClippin
 * sniperbob
 * Snoocola
@@ -353,9 +355,11 @@
 * Twiscool
 * ufo
 * uroyu
+* valkvv
 * Vanna
 * VelvetKitty
 * vena
+* violetsita
 * VoislavJ
 * vomitlaura
 * VoxlAlien
