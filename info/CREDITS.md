@@ -45,7 +45,6 @@
 * Aring
 * arksynapse
 * aronek
-* Aronek
 * Arumita
 * Athoth
 * aukse
@@ -144,7 +143,6 @@
 * Hourai
 * Hyo
 * Iesu
-* IronCam
 * Ivinous
 * Jameson
 * jams
@@ -158,7 +156,6 @@
 * Jirachi
 * JIVV
 * JohnYumeNiki
-* JSG5
 * juliemeal
 * Kalail
 * Kantyo
@@ -308,7 +305,6 @@
 * Siruku
 * Sleepyghost
 * sleepysky
-* Sleepysky
 * snailClippin
 * sniperbob
 * Snoocola
