@@ -41,6 +41,7 @@
 * Anii
 * Animatic
 * Anju
+* anorek
 * ApeMan
 * Aring
 * arksynapse
@@ -216,6 +217,7 @@
 * MrSwag
 * Murasaki
 * Murasaki no Yume
+* mycringeswag7
 * Myshfelk
 * MZD
 * Nabisae
@@ -305,6 +307,7 @@
 * Siruku
 * Sleepyghost
 * sleepysky
+* Sleepysky
 * snailClippin
 * sniperbob
 * Snoocola
@@ -357,6 +360,7 @@
 * vena
 * violetsita
 * VoislavJ
+* volta
 * vomitlaura
 * VoxlAlien
 * VoxSilentii
@@ -378,6 +382,7 @@
 * Yuni
 * Zaakarias
 * Zahyou
+* Zarkv
 * Zethyer
 * Zimnior12
 * ZLD1
