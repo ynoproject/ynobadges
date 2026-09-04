@@ -9395,10 +9395,6 @@
       "description": "So wholesome.",
       "condition": "View the hugging buildings in the Purple Forest Path of Sculpture Park"
     },
-    "black_hole_dream_wardrobe": {
-      "name": "Colorful Singularities",
-      "condition": "Equip any of the black hole girl masks in Dream Wardrobe"
-    },
     "2kki_cloud_mirror_reactions": {
       "name": "A Batty Interaction!",
       "description": "The reflection of the sky and the wind flowing through the grass is calming.",
@@ -9593,6 +9589,90 @@
       "name": "A Round Universe",
       "description": "The universe is always in motion!",
       "condition": "Visit Colorful Spheres World"
+    },
+    "kitsune_residence_girl": {
+      "name": "A doll-like girl",
+      "description": "The Foxes and the Dreaming Girl",
+      "condition": "Visit the girl at the house in Kitsune Residence"
+    },
+    "ocular_spacecraft_girl": {
+      "name": "Spec Optics",
+      "description": "…Maybe I needed these more than I remember.",
+      "condition": "See the girl in Ocular Spacecraft with and without glasses"
+    },
+    "visit_surface_shallows": {
+      "name": "Color Waves",
+      "description": "Sit back.",
+      "condition": "Visit Surface Shallows"
+    },
+    "glitch_ending": {
+      "name": "A Broken Dream",
+      "condition": "See the Glitch Ending"
+    },
+    "teleport_mazes": {
+      "name": "Teleporter Goin' Up!",
+      "description": "I have done nothing but teleport Urotsuki for three days!",
+      "condition": "Visit the following teleport maze worlds: Teleport Maze, Cog Maze, Sierpinski Maze, Data Stream, Valentine Mail, Rhombus, Hemophilic Islands, Sandstone Brick Maze, and Sacred Stairways",
+      "checkbox": {
+        "teleport_maze": "Teleport Maze",
+        "cog_maze": "Cog Maze",
+        "sierpinski_sierpinski_maze": "Sierpinski Maze",
+        "data_stream": "Data Stream",
+        "valentine_mail": "Valentine Mail",
+        "rhombus": "Rhombus",
+        "hemophilic_islands": "Hemophilic Islands",
+        "sandstone_brick_maze": "Sandstone Brick Maze",
+        "sacred_stairways": "Sacred Stairways"
+      }
+    },
+    "find_jizo": {
+      "name": "Flowers Return, Jizo Remains",
+      "description": "Even as cosmos bloom and dandelions take to the wind.",
+      "condition": "Find the jizo in both Sai no Kawara and Field of Cosmos",
+      "checkbox": {
+        "jizo_sainokawara": "Sai no Kawara",
+        "jizo_fieldofcosmos": "Field of Cosmos"
+      }
+    },
+    "menu_theme_37": {
+      "name": "Fluorescent Funk",
+      "description": "Lose yourself in the pretty neon colors!",
+      "condition": "Obtain Menu theme #37 in Fluorescent Halls. If you have already unlocked it, return to where it can be found."
+    },
+    "visit_night_garden": {
+      "name": "Lanterns of the Blossoming Night",
+      "description": "Guided by lanterns, embraced by blossoms.",
+      "condition": "Visit Night Garden"
+    },
+    "snipersan_blissful_chainsaw": {
+      "name": "Let's Break Everything Together!",
+      "description": "This tiny room is no fun!",
+      "condition": "Interact with sniper-san with the chainsaw effect in the broom closet in Blissful Clinic"
+    },
+    "statue_tov": {
+      "name": "Weeping Giant",
+      "description": "Trapped below the depths, his cries echoing far, where water reflects...",
+      "condition": "See the crying statue in the Seabed of Tomb of Velleities"
+    },
+    "dim_floors_glitch_room": {
+      "name": "Corrupted Sky",
+      "description": "You've slipped through a crack in the system, and in the stars of the pitch black expanse, you can almost see the outline of a bunny materialize, as your hunger grows.",
+      "condition": "Visit the glitchy room in Dim Floors"
+    },
+    "blue_buildings_crow": {
+      "name": "Spread Your Wings",
+      "description": "Reach beyond the clouds with those beautiful black wings",
+      "condition": "View the Giant Crow Event in Perfect Blue Buildings"
+    },
+    "streetlight_scenery": {
+      "name": "The Night the Stars Fell",
+      "description": "Past the endless rain, the stars shine on.",
+      "condition": "Reach the end of Submerged Communications Area"
+    },
+    "visage_world": {
+      "name": "Suit of Armor ",
+      "description": "And all my armor falling down in a pile at my feet.",
+      "condition": "Visit Visage World"
     }
   },
   "flow": {
@@ -11187,6 +11267,11 @@
       "name": "Eggstatic Oasis",
       "description": "You can get this from an egg!",
       "condition": "Visit JB's Hideout"
+    },
+    "make_crepes": {
+      "name": "Cooking Show",
+      "description": "On dit que cuisiner renforce l'amitié…",
+      "condition": "Make a crêpe bretonne for somebody"
     }
   },
   "muma": {
@@ -11455,6 +11540,11 @@
       "name": "Personmeowl Space",
       "description": "Can't... Quite... Reeeach...",
       "condition": "See the white cat in Broken Passageway"
+    },
+    "reverse_space_station": {
+      "name": "Reversed Reverie",
+      "description": "Amidst your reflection and the stars, the best view is from the upside-down",
+      "condition": "Visit Reverse Space Staiton"
     }
   },
   "genie": {

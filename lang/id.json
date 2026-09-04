@@ -2274,7 +2274,7 @@
     "bane_jack": {
       "name": "Jack Out of the Box",
       "description": "A springy friend, happily bouncing everywhere!",
-      "condition": "Encounter Bane Jack in Urotsuki's Dream Apartments"
+      "condition": "Encounter Bane Jack in the Apartments"
     },
     "hooked_fisherman": {
       "name": "Hooked",
@@ -2454,12 +2454,11 @@
     },
     "zalgo_appearance": {
       "name": "Z̴̜̬̈́͐̒̄͑̃͛̄̊̕͝Ạ̶̭̮̰̯̱̠̠͖̜̲̯̈́̃͌͑̚͘ͅL̵̡̡̡͓͚̖̗̙̹̲̻̝͚̒͒͌G̷̝̜̦̱̠̝̮̲̺̝̽̓͜Ŏ̷͈́̔̚̕̕͝",
-      "condition": "Find Zalgo in the Magnet Room, Train Tracks, the Atelier, and Restored Character World",
+      "condition": "Find Zalgo in the Magnet Room, Train Tracks, and the Atelier",
       "checkbox": {
         "zalgo_magnet_room": "Magnet Room",
         "zalgo_train_tracks": "Train Tracks",
-        "zalgo_atelier": "Atelier",
-        "zalgo_character": "Restored Character World"
+        "zalgo_atelier": "Atelier"
       }
     },
     "cyclop_holiday_hell": {
@@ -3466,7 +3465,7 @@
     "verdant_nexus": {
       "name": "Magical Surprise",
       "description": "Is it green? Or is it purple? Or maybe a flower or duo axolotl and tanuki? Who knows!",
-      "condition": "Visit The Magic Nexus"
+      "condition": "Visit the Magic Nexus"
     },
     "decrepit_dwg_statue": {
       "name": "Giant Woman",
@@ -5693,7 +5692,7 @@
     "twintails_effect": {
       "name": "The Wolf of Infinite Dream",
       "description": "Essence of twintails",
-      "condition": "Obtain the Twintails effect. If you have already unlocked it, return where it can be found at The Deciding Street."
+      "condition": "Obtain the Twintails effect. If you have already unlocked it, return where it can be found at the Deciding Street."
     },
     "quarter_flats": {
       "name": "Ceramic Islands",
@@ -7721,6 +7720,59 @@
       "description": "The city slowly awakens beneath a curl of morning smoke.",
       "condition": "See the skyline from the high rise of the Vending Machine Factory"
     },
+    "nightmare_inn_chapel_event": {
+      "name": "In His Name",
+      "description": "Blessed Be the Hands That Spill Blood",
+      "condition": "Trigger the Tot tsi ttog event in Nightmare Inn"
+    },
+    "tarnished_ship_dead_shark": {
+      "name": "Gyotaku Shark Print",
+      "description": "It will take a lot of ink to print such a big fish.",
+      "condition": "Find a dead shark in ink in the Tarnished Ship"
+    },
+    "ice_cream_islands_sink": {
+      "name": "Sticky Situation",
+      "condition": "Sink through the ice cream at Ice Cream Islands"
+    },
+    "sushi_mask": {
+      "name": "I want to be sushi!",
+      "description": "Just eat it!",
+      "condition": "Equip the two Sushi masks in Sushi Roll Swamp"
+    },
+    "overwork_office": {
+      "name": "Unpaid Overtime",
+      "description": "You still haven't hit your quota!",
+      "condition": "Visit Overwork Office"
+    },
+    "lake_of_bones_bunny": {
+      "name": "The Innocent Bunny at the Lake of Bones",
+      "description": "A lake filled with bones. Only one heartbeat remains - hers.",
+      "condition": "Interact with the bunny ears girl in Lake of Bones and do the same while equipped with effects that she reacts to"
+    },
+    "sepia_factory": {
+      "name": "Sepia Skies from the Sepia Factory",
+      "description": "Incredibly cozy for a factory.",
+      "condition": "Visit Sepia Factory"
+    },
+    "tele_pole_plains": {
+      "name": "Purple Boots",
+      "condition": "Visit Tele-pole Plains"
+    },
+    "radioactive_garden": {
+      "name": "Sunflowers and Radiation",
+      "description": "What is this smell..?",
+      "condition": "Visit Radioactive Garden"
+    },
+    "chicken_world": {
+      "name": "Which Came First?",
+      "description": "The plot chickens...",
+      "condition": "Visit Chicken World"
+    },
+    "journeys_road_purapura": {
+      "name": "Now what do YOU Want?",
+      "description": "Can't you see I'm reading?",
+      "condition": "Interact with PuraPura in Journey's Road"
+    },
     "star_carpet_world": {
       "name": "The Carpet of Sorrow",
       "description": "Are these carpets safe to touch?",
@@ -8717,7 +8769,7 @@
     },
     "visit_highway": {
       "name": "Life Isn't a Highway, Unfortunately",
-      "description": "Nights at the highway shine brighter. ",
+      "description": "Nights at the highway shine brighter.",
       "condition": "Visit Highway"
     },
     "visit_peaceful_shoal": {
@@ -8928,7 +8980,7 @@
     "server_not_found_landlady": {
       "name": "The Twin Eyes that Hold Two Worlds",
       "description": "Beneath shadowed white, two colors awaken.",
-      "condition": "Interact with Landlady in Server Not Found "
+      "condition": "Interact with Landlady in Server Not Found"
     },
     "visit_farewell_residence": {
       "name": "Rusted Tranquility",
@@ -9342,10 +9394,6 @@
       "description": "So wholesome.",
       "condition": "View the hugging buildings in the Purple Forest Path of Sculpture Park"
     },
-    "black_hole_dream_wardrobe": {
-      "name": "Colorful Singularities",
-      "condition": "Equip any of the black hole girl masks in Dream Wardrobe"
-    },
     "2kki_cloud_mirror_reactions": {
       "name": "A Batty Interaction!",
       "description": "The reflection of the sky and the wind flowing through the grass is calming.",
@@ -9541,10 +9589,89 @@
       "description": "The universe is always in motion!",
       "condition": "Visit Colorful Spheres World"
     },
-    "nightmare_inn_chapel_event": {
-      "name": "In His Name",
-      "description": "Blessed Be the Hands That Spill Blood",
-      "condition": "Trigger the Tot tsi ttog event in Nightmare Inn"
+    "kitsune_residence_girl": {
+      "name": "A doll-like girl",
+      "description": "The Foxes and the Dreaming Girl",
+      "condition": "Visit the girl at the house in Kitsune Residence"
+    },
+    "ocular_spacecraft_girl": {
+      "name": "Spec Optics",
+      "description": "…Maybe I needed these more than I remember.",
+      "condition": "See the girl in Ocular Spacecraft with and without glasses"
+    },
+    "visit_surface_shallows": {
+      "name": "Color Waves",
+      "description": "Sit back.",
+      "condition": "Visit Surface Shallows"
+    },
+    "glitch_ending": {
+      "name": "A Broken Dream",
+      "condition": "See the Glitch Ending"
+    },
+    "teleport_mazes": {
+      "name": "Teleporter Goin' Up!",
+      "description": "I have done nothing but teleport Urotsuki for three days!",
+      "condition": "Visit the following teleport maze worlds: Teleport Maze, Cog Maze, Sierpinski Maze, Data Stream, Valentine Mail, Rhombus, Hemophilic Islands, Sandstone Brick Maze, and Sacred Stairways",
+      "checkbox": {
+        "teleport_maze": "Teleport Maze",
+        "cog_maze": "Cog Maze",
+        "sierpinski_sierpinski_maze": "Sierpinski Maze",
+        "data_stream": "Data Stream",
+        "valentine_mail": "Valentine Mail",
+        "rhombus": "Rhombus",
+        "hemophilic_islands": "Hemophilic Islands",
+        "sandstone_brick_maze": "Sandstone Brick Maze",
+        "sacred_stairways": "Sacred Stairways"
+      }
+    },
+    "find_jizo": {
+      "name": "Flowers Return, Jizo Remains",
+      "description": "Even as cosmos bloom and dandelions take to the wind.",
+      "condition": "Find the jizo in both Sai no Kawara and Field of Cosmos",
+      "checkbox": {
+        "jizo_sainokawara": "Sai no Kawara",
+        "jizo_fieldofcosmos": "Field of Cosmos"
+      }
+    },
+    "menu_theme_37": {
+      "name": "Fluorescent Funk",
+      "description": "Lose yourself in the pretty neon colors!",
+      "condition": "Obtain Menu theme #37 in Fluorescent Halls. If you have already unlocked it, return to where it can be found."
+    },
+    "visit_night_garden": {
+      "name": "Lanterns of the Blossoming Night",
+      "description": "Guided by lanterns, embraced by blossoms.",
+      "condition": "Visit Night Garden"
+    },
+    "snipersan_blissful_chainsaw": {
+      "name": "Let's Break Everything Together!",
+      "description": "This tiny room is no fun!",
+      "condition": "Interact with sniper-san with the chainsaw effect in the broom closet in Blissful Clinic"
+    },
+    "statue_tov": {
+      "name": "Weeping Giant",
+      "description": "Trapped below the depths, his cries echoing far, where water reflects...",
+      "condition": "See the crying statue in the Seabed of Tomb of Velleities"
+    },
+    "dim_floors_glitch_room": {
+      "name": "Corrupted Sky",
+      "description": "You've slipped through a crack in the system, and in the stars of the pitch black expanse, you can almost see the outline of a bunny materialize, as your hunger grows.",
+      "condition": "Visit the glitchy room in Dim Floors"
+    },
+    "blue_buildings_crow": {
+      "name": "Spread Your Wings",
+      "description": "Reach beyond the clouds with those beautiful black wings",
+      "condition": "View the Giant Crow Event in Perfect Blue Buildings"
+    },
+    "streetlight_scenery": {
+      "name": "The Night the Stars Fell",
+      "description": "Past the endless rain, the stars shine on.",
+      "condition": "Reach the end of Submerged Communications Area"
+    },
+    "visage_world": {
+      "name": "Suit of Armor ",
+      "description": "And all my armor falling down in a pile at my feet.",
+      "condition": "Visit Visage World"
     }
   },
   "flow": {
@@ -10726,6 +10853,10 @@
       "name": "Totsutsuki Washer",
       "condition": "Reach the washing machine in Bubble Lounge"
     },
+    "secret_woods_menu": {
+      "name": "Respite",
+      "condition": "Obtain the menu theme 10. If you have already unlocked it, return where it can be found in the Secret Woods."
+    },
     "synthwave_central": {
       "name": "Retro Paradisso",
       "description": "Neon lights make the night so bright with you...",
@@ -11135,6 +11266,11 @@
       "name": "Eggstatic Oasis",
       "description": "You can get this from an egg!",
       "condition": "Visit JB's Hideout"
+    },
+    "make_crepes": {
+      "name": "Cooking Show",
+      "description": "On dit que cuisiner renforce l'amitié…",
+      "condition": "Make a crêpe bretonne for somebody"
     }
   },
   "muma": {
@@ -11403,6 +11539,11 @@
       "name": "Personmeowl Space",
       "description": "Can't... Quite... Reeeach...",
       "condition": "See the white cat in Broken Passageway"
+    },
+    "reverse_space_station": {
+      "name": "Reversed Reverie",
+      "description": "Amidst your reflection and the stars, the best view is from the upside-down",
+      "condition": "Visit Reverse Space Staiton"
     }
   },
   "genie": {
@@ -12067,6 +12208,11 @@
       "description": "Light the candle - stay, and watch the rite unfold",
       "condition": "Obtain the hexe window type. If you have already unlocked it, return to the Magic Room of the Floating Library."
     },
+    "streetlamp_effect": {
+      "name": "Light Up The World",
+      "description": "O, light. Guide me through the night...",
+      "condition": "Obtain the Street Lamp effect. If you have already unlocked it, return to Streetlamp World."
+    },
     "stars_pastels": {
       "name": "Dangling Star Fragments",
       "description": "Looking at them is making me sleepy...",
@@ -12091,11 +12237,6 @@
       "name": "Somenikki",
       "description": "Would you like to write down your dreams?",
       "condition": "Buy the save book from the Pastel World shop"
-    },
-    "streetlamp_effect": {
-      "name": "Light Up The World",
-      "description": "O, light. Guide me through the night...",
-      "condition": "Obtain the Street Lamp effect. If you have already unlocked it, return to Streetlamp World."
     }
   },
   "sheawaits": {
@@ -12915,6 +13056,10 @@
         "slime_catgirl_r_totem_a|slime_catgirl_r_totem_b": "Red Totem Passage"
       }
     },
+    "dining_table_effect": {
+      "name": "Attack of the Killer Table",
+      "condition": "Obtain the Dining Table effect. If you have already unlocked it, return where it can be found in the Cake Tower."
+    },
     "sushi_monitor_realm": {
       "name": "The appearance of sushi and the heart of a fish...",
       "description": "Its name is Sushi Fish!",
@@ -13617,6 +13762,16 @@
       "name": "[ERR/OR]",
       "description": "666174616c6572726f7221",
       "condition": "Visit ERROR"
+    },
+    "snowy_inside_girl": {
+      "name": "She Wore Black in the Snow",
+      "description": "Just her, the snow, and a tiny snowman.",
+      "condition": "Interact with the girl making a snowman in Snowy Inside"
+    },
+    "brothers_ward_pat": {
+      "name": "My Dear Memory",
+      "description": "Your warmth is so comfortable to me, I miss it",
+      "condition": "Interact with Aruben's brother in Brother's Ward"
     },
     "yno_dolls": {
       "name": "Little Dreamers!",
