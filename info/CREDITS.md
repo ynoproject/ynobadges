@@ -41,7 +41,6 @@
 * Anii
 * Animatic
 * Anju
-* anorek
 * ApeMan
 * Aring
 * arksynapse
@@ -307,7 +306,6 @@
 * Siruku
 * Sleepyghost
 * sleepysky
-* Sleepysky
 * snailClippin
 * sniperbob
 * Snoocola
