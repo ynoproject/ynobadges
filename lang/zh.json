@@ -1,4 +1,4 @@
-{
+ {
   "ynoproject": {
     "badge_amulet": {
       "name": "朝花夕拾",
@@ -1728,9 +1728,9 @@
       "condition": "在Pure White Land看到其庭院的两种版本"
     },
     "starry_night": {
-      "name": "Starry Depths",
-      "description": "You look quite divine tonight, underneath these vibrant lights...",
-      "condition": "Enter the Starry Night painting in Windswept Scarlet Sands"
+      "name": "星空深渊",
+      "description": "今夜的你在这些波动的星光之下，如天神般迷人。",
+      "condition": "进入Windswept Scarlet Sands的星夜画作"
     },
     "victorian_festival": {
       "name": "缤纷庆典",
@@ -3427,7 +3427,7 @@
     "doctor_doors": {
       "name": "时间错位",
       "description": "有些时候，一扇有着违和感的门等待着你……",
-      "condition": "找到Colorful Sphere World、Floating Window World、Gentle Meadows和Low Tide Sands的秘密卧室",
+      "condition": "找到Colorful Sphere World、Floating Window World、Gentle Meadows、Low Tide Sands的秘密卧室",
       "checkbox": {
         "doctor_door_1": "Low Tide Sands",
         "doctor_door_2": "Colorful Sphere World",
@@ -3742,7 +3742,7 @@
     "red_monsters_qxy": {
       "name": "梦魇痉挛",
       "description": "这些扰动的祸害是怪物还是征兆？你是命运的工具还是灾难的见证者？",
-      "condition": "锯掉Wooded Lakeside A、Wooded Lakeside B、Kaleidoscope World、Streetlight Docks、Critter Village：Hexagonal Pillar Passage、Pure White Lands的红色怪物",
+      "condition": "用电锯攻击Wooded Lakeside A、Wooded Lakeside B、Kaleidoscope World、Streetlight Docks、Critter Village：Hexagonal Pillar Passage、Pure White Lands的红色怪物",
       "checkbox": {
         "wooded_lakeside_1_monster": "Wooded Lakeside A",
         "wooded_lakeside_2_monster": "Wooded Lakeside B",
@@ -7479,9 +7479,9 @@
       "condition": "从Sunken City抵达Atlantis"
     },
     "koala_eucalyptus_woodland": {
-      "name": "Leaf Muncher",
-      "description": "Trees are fun to climb, yknow.",
-      "condition": "Equip the koala suit mask where it can be found in Eucalyptus Woodland"
+      "name": "食叶者",
+      "description": "爬树很好玩，你懂的。",
+      "condition": "在Eucalyptus Woodland中找到考拉服面具处装备该面具"
     },
     "copper_cube_plains": {
       "name": "铜立方平原",
@@ -8781,9 +8781,9 @@
       "condition": "抵达Highway"
     },
     "visit_peaceful_shoal": {
-      "name": "Paradise, Paradise",
-      "description": "Built perfectly just for you.",
-      "condition": "Visit Peaceful Shoal"
+      "name": "天国，仙境",
+      "description": "完美的只为你而建造之处。",
+      "condition": "抵达Peaceful Shoal"
     },
     "visit_serpent_ruins": {
       "name": "嘶嘶列表",
@@ -9286,9 +9286,9 @@
       "condition": "看到Grand Scientific Museum望远镜中的两种景象"
     },
     "hex_pillar_passage_dolphin": {
-      "name": "Thirsty Dolphin",
-      "description": "You're not drinking that coffee... right?",
-      "condition": "Interact with the dolphin in Hexagonal Pillar Passage's isolated section"
+      "name": "口渴海豚",
+      "description": "你没有在喝那个咖啡……对吧？",
+      "condition": "与Hexagonal Pillar Passage孤立区域的海豚互动"
     },
     "oblique_hell_statue": {
       "name": "蝴蝶守卫",
@@ -9597,9 +9597,9 @@
       "condition": "Visit Amorphous Maroon Space"
     },
     "visit_colorful_spheres": {
-      "name": "A Round Universe",
-      "description": "The universe is always in motion!",
-      "condition": "Visit Colorful Spheres World"
+      "name": "球体宇宙",
+      "description": "宇宙一直处于动态！",
+      "condition": "抵达Colorful Spheres World"
     },
     "visit_blissful_clinic": {
       "name": "Peaceful Hospital",
@@ -9649,10 +9649,83 @@
       "name": "Calico Statues Call",
       "description": "I say AWOO! You say NYAA!",
       "condition": "Veiw the Cat Statues reactions to the Wolf and Chainsaw Effects",
+    },
+    "kitsune_residence_girl": {
+      "name": "人偶般的少女",
+      "description": "群狐与梦见少女",
+      "condition": "见到Kitsune Residence房屋边的女孩"
+    },
+    "ocular_spacecraft_girl": {
+      "name": "观星配镜",
+      "description": "……可能我比自己记忆里的样子更需要眼镜。",
+      "condition": "分别看到Ocular Spacecraft的女孩戴眼镜和不戴眼镜的样子"
+    },
+    "visit_surface_shallows": {
+      "name": "彩色波浪",
+      "description": "坐下。",
+      "condition": "抵达Surface Shallows"
+    },
+    "glitch_ending": {
+      "name": "崩坏之梦",
+      "condition": "见证故障结局"
+    },
+    "teleport_mazes": {
+      "name": "传送不停！",
+      "description": "我连着三天除了传送Urotsuki什么都没干！",
+      "condition": "抵达以下传送迷宫世界：Teleport Maze、Cog Maze、Sierpinski Maze、Data Stream、Valentine Mail、Rhombus、Hemophilic Islands、Sandstone Brick Maze、Sacred Stairways",
       "checkbox": {
         "calico_forest_statues_wolf": "Wolf",
         "calico_forest_statues_chainsaw": "Chainsaw"
       }
+    },
+    "find_jizo": {
+      "name": "繁花回归，地藏仍在",
+      "description": "从波斯菊盛开到蒲公英随风飘散。",
+      "condition": "分别找到Sai no Kawara和Field of Cosmos的地藏像",
+      "checkbox": {
+        "jizo_sainokawara": "Sai no Kawara",
+        "jizo_fieldofcosmos": "Field of Cosmos"
+      }
+    },
+    "menu_theme_37": {
+      "name": "荧光放克",
+      "description": "迷失于华彩霓虹之中！",
+      "condition": "在Fluorescent Halls获得菜单样式37。若已解锁，请返回获得该菜单样式处。"
+    },
+    "visit_night_garden": {
+      "name": "咲夜灯火",
+      "description": "被灯笼引导，为繁花环抱。",
+      "condition": "抵达Night Garden"
+    },
+    "snipersan_blissful_chainsaw": {
+      "name": "我们一起破坏一切吧！Let's Break Everything Together!",
+      "description": "这个房间太小了不好玩！",
+      "condition": "在Blissful Clinic的扫除用品仓库里使用电锯效果与Sniper-san互动"
+    },
+    "statue_tov": {
+      "name": "哭泣巨人",
+      "description": "祂被困在深渊之下，哭声在水中回响不绝，传向远方……",
+      "condition": "在Tomb of Velleities看到哭泣的巨像"
+    },
+    "dim_floors_glitch_room": {
+      "name": "崩坏天空",
+      "description": "你滑进了一个系统的漏洞，在漆黑无垠的星空里，随着饥饿感愈发强烈，你几乎能看见一只兔子的轮廓渐渐浮现。",
+      "condition": "抵达Dim Floors的故障房间"
+    },
+    "blue_buildings_crow": {
+      "name": "展翅",
+      "description": "用这漆黑美丽的羽翼抵达云层之外",
+      "condition": "在Perfect Blue Buildings的屋顶见证Giant Crow Event"
+    },
+    "streetlight_scenery": {
+      "name": "群星坠落之夜",
+      "description": "在无尽之雨后，群星仍在闪烁。",
+      "condition": "抵达Submerged Communications Area的尽头"
+    },
+    "visage_world": {
+      "name": "铠甲",
+      "description": "然后我所有的铠甲脱落，在我的脚下变成一堆。",
+      "condition": "抵达Visage World"
     }
   },
   "flow": {
@@ -11261,6 +11334,11 @@
       "name": "Omnipresent Meow-Meow",
       "description": "He’s here, he’s there, he's everywhere, who you gonna call? Omnipresent Meow-Meow",
       "condition": "Interact with the cat in both parts of Dreaming Lozère"
+    },
+    "make_crepes": {
+      "name": "烹饪秀",
+      "description": "人们说烹饪能加深友谊……",
+      "condition": "为某人做一份布列塔尼可丽饼"
     }
   },
   "muma": {
@@ -11507,7 +11585,7 @@
     },
     "muma_realm_orb_empty": {
       "name": "当心！易碎品！",
-      "description": "有一天，她坠入了自己的创造，并在梦境与现实之间被破碎。",
+      "description": "有一天，她坠入了自己创造的梦境，并在梦境与现实之间被粉碎。",
       "condition": "见证Realm of the Orb的Empty事件"
     },
     "muma_visit_the_grinder": {
@@ -11526,13 +11604,18 @@
       "condition": "Interact with Kaki, Saki, and Maki in Another White"
     },
     "muma_broken_passageway_cat": {
-      "name": "Personmeowl Space",
-      "description": "Can't... Quite... Reeeach...",
-      "condition": "See the white cat in Broken Passageway"
+      "name": "个喵空间",
+      "description": "完全……够……不……到……",
+      "condition": "看到Broken Passageway的白猫"
     },
     "faraway_place": {
       "name": "Not Peaceful Place",
       "condition": "Visit the normal and corrupted versions of Faraway Place"
+    },
+    "reverse_space_station": {
+      "name": "反向白日梦",
+      "description": "在你的倒影与群星之间，通过逆转重力获得最佳观景角度",
+      "condition": "抵达Reverse Space Staiton"
     }
   },
   "genie": {
@@ -13250,9 +13333,9 @@
       "condition": "抵达Sleeping Garden"
     },
     "nost_pastel_space_effects": {
-      "name": "Floating into Dreamscape",
-      "description": "I drift through imagination, scattering into anything I could become. I could wander beyond the sky, but I only wish to dissolve somewhere beautiful.",
-      "condition": "Equip the Zero Gravity effect and the Unicorn Effect in Pastel Space, where both can be found at the same place."
+      "name": "飘入梦景",
+      "description": "我在想象中漂流，飘散成自己可以成为的一切。我可以在天空中游荡，但我只想溶入某个美丽之处。",
+      "condition": "在Pastel Space装备Zero Gravity和Unicorn效果，两个效果皆可在此处获得。"
     }
   },
   "if": {

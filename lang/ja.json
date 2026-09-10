@@ -9661,6 +9661,90 @@
         "calico_forest_statues_wolf": "Wolf",
         "calico_forest_statues_chainsaw": "Chainsaw"
       }
+    },
+    "kitsune_residence_girl": {
+      "name": "ドールみたいな女の子",
+      "description": "狐たちと夢見る少女",
+      "condition": "黄常池のだれかのおうちにいる女の子に会う"
+    },
+    "ocular_spacecraft_girl": {
+      "name": "眼鏡の光学",
+      "description": "……思っていた以上に、これが必要だったのかも。",
+      "condition": "未確認飛行物体で、ポニテメガネの研究員の2種類の姿を見る"
+    },
+    "visit_surface_shallows": {
+      "name": "色彩の波",
+      "description": "ゆっくりくつろごうよ",
+      "condition": "表面の浅瀬に到達する"
+    },
+    "glitch_ending": {
+      "name": "壊れた夢",
+      "condition": "似非エンディングを見る"
+    },
+    "teleport_mazes": {
+      "name": "テレポーター、上へ行くぞッ！",
+      "description": "3日間、うろつきをテレポートさせることしかしていない！",
+      "condition": "以下のテレポート迷路世界を訪れる: ワープ、歯車、さんかく遺跡、データストリーム、ラブレター、ロンバス、融血群島、空と砂岩、澱底の聖域",
+      "checkbox": {
+        "teleport_maze": "ワープ",
+        "cog_maze": "歯車",
+        "sierpinski_sierpinski_maze": "さんかく遺跡",
+        "data_stream": "データストリーム",
+        "valentine_mail": "ラブレター",
+        "rhombus": "ロンバス",
+        "hemophilic_islands": "融血群島",
+        "sandstone_brick_maze": "空と砂岩",
+        "sacred_stairways": "澱底の聖域"
+      }
+    },
+    "find_jizo": {
+      "name": "巡る花、佇む地蔵",
+      "description": "コスモスが咲き、タンポポが風に舞っても。",
+      "condition": "賽の河原とコスモス峠で地蔵を見つける",
+      "checkbox": {
+        "jizo_sainokawara": "賽の河原",
+        "jizo_fieldofcosmos": "コスモス峠"
+      }
+    },
+    "menu_theme_37": {
+      "name": "蛍光ファンク",
+      "description": "美しいネオンカラーに染まろう！",
+      "condition": "メニュータイプ37を取得する。すでに入手している場合は、見つけた場所に行く"
+    },
+    "visit_night_garden": {
+      "name": "花咲く夜の灯籠",
+      "description": "灯りに導かれ、花に包まれる。",
+      "condition": "夜桜灯篭に到達する"
+    },
+    "snipersan_blissful_chainsaw": {
+      "name": "いっしょにぜんぶこわしちゃお！",
+      "description": "こんなせまいへやじゃつまらない！",
+      "condition": "サナトリウム:反省部屋でチェーンソーを装備して銃少年に話しかける"
+    },
+    "statue_tov": {
+      "name": "泣き叫ぶ巨人",
+      "description": "深淵の底に閉じ込められ、その泣き声は、水面が映す遥か彼方まで響き渡る……",
+      "condition": "Butterfly:水底で人の像を見つける"
+    },
+    "dim_floors_glitch_room": {
+      "name": "壊れた空",
+      "description": "システムの裂け目から滑り落ち、漆黒の空間に広がる星々の中で、空腹が増していくにつれ、実体化するウサギの輪郭がかすかに見えてくる。",
+      "condition": "ラスターレイヤー:バグ領域に到達する"
+    },
+    "blue_buildings_crow": {
+      "name": "翼を広げて",
+      "description": "その美しい黒い翼で、雲の彼方まで飛んでいこう",
+      "condition": "青いビル群:屋上で大烏の背に乗る"
+    },
+    "streetlight_scenery": {
+      "name": "星が降った夜",
+      "description": "終わりのない雨の向こうで、星々は輝き続ける。",
+      "condition": "水没電柱:夜の山に到達する"
+    },
+    "visage_world": {
+      "name": "甲冑",
+      "description": "そして、私のすべての鎧は足元で崩れ落ちていく。",
+      "condition": "赤銅月下:外観に到達する"
     }
   },
   "flow": {
@@ -11269,6 +11353,11 @@
       "name": "Omnipresent Meow-Meow",
       "description": "He’s here, he’s there, he's everywhere, who you gonna call? Omnipresent Meow-Meow",
       "condition": "Interact with the cat in both parts of Dreaming Lozère"
+    },
+    "make_crepes": {
+      "name": "料理番組",
+      "description": "料理が友情を深めると言われている…",
+      "condition": "ブルターニュ風クレープを誰かに振る舞う"
     }
   },
   "muma": {
@@ -11541,6 +11630,11 @@
     "faraway_place": {
       "name": "Not Peaceful Place",
       "condition": "Visit the normal and corrupted versions of Faraway Place"
+    },
+    "reverse_space_station": {
+      "name": "Reversed Reverie",
+      "description": "鏡像と星々の中で、最高の眺めは上下逆さまの場所にある",
+      "condition": "Reverse Space Staitonに到達する"
     }
   },
   "genie": {
