@@ -42,6 +42,7 @@
 * Animatic
 * Anju
 * ApeMan
+* Aring
 * arksynapse
 * aronek
 * Arumita
@@ -66,6 +67,7 @@
 * Canio
 * Canto Mk. 6
 * Carbonara
+* CatASI
 * catling
 * Catmat
 * Catsalotl
@@ -142,7 +144,6 @@
 * Hourai
 * Hyo
 * Iesu
-* IronCam
 * Ivinous
 * Jameson
 * jams
@@ -152,16 +153,17 @@
 * Jetrotal
 * JFero
 * JGS5
+* jinyajin
 * Jirachi
 * JIVV
 * JohnYumeNiki
-* JSG5
 * juliemeal
 * Kalail
 * Kantyo
 * Kasatate
 * Kazecita
 * Kekwet
+* Kirieshka
 * KitsuneYume
 * klayfruit
 * Kofu
@@ -216,6 +218,7 @@
 * MrSwag
 * Murasaki
 * Murasaki no Yume
+* mycringeswag7
 * Myshfelk
 * MZD
 * Nabisae
@@ -339,6 +342,7 @@
 * Telebotz
 * Temwichi
 * thatdolphin
+* thatoneartistdude
 * Theero
 * TheInkBlot
 * TheRagingRowlet
@@ -350,10 +354,13 @@
 * Twiscool
 * ufo
 * uroyu
+* valkvv
 * Vanna
 * VelvetKitty
 * vena
+* violetsita
 * VoislavJ
+* volta
 * vomitlaura
 * VoxlAlien
 * VoxSilentii
@@ -375,6 +382,7 @@
 * Yuni
 * Zaakarias
 * Zahyou
+* Zarkv
 * Zethyer
 * Zimnior12
 * ZLD1
