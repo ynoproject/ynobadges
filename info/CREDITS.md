@@ -308,8 +308,8 @@
 * Simmer
 * Siruku
 * Sleepyghost
-* sleepysky
 * Sleepysky
+* sleepysky
 * snailClippin
 * sniperbob
 * Snoocola
