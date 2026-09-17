@@ -1255,8 +1255,9 @@
       }
     },
     "scared_octopus": {
-      "name": "窘迫章鱼",
-      "condition": "使用妖精效果惊吓Atlantis的Tako Otoko"
+      "name": "Don't scare me like that!",
+      "description": "I'm not scared of some fairy... well, maybe a little bit.",
+      "condition": "Use the Fairy effect to scare Tako Otoko in Atlantis"
     },
     "mini_town": {
       "name": "巨人",
@@ -5767,9 +5768,9 @@
       }
     },
     "princess_crescent_tile_world": {
-      "name": "光映姬",
-      "description": "请别关灯！",
-      "condition": "在Crescent Tile World看到公主的各种反应"
+      "name": "Moonlit Princess",
+      "description": "Don't you dare touch that light switch.",
+      "condition": "See all of the reactions of the Princess in Crescent Tile World"
     },
     "cliff_gsc_mountain_ring": {
       "name": "孤狼",
@@ -7901,9 +7902,9 @@
       "condition": "在School因为使用摩托车被校长抓住骂"
     },
     "teru_teru_bozu_effect": {
-      "name": "旧晴天娃娃",
-      "description": "希望天空放晴。",
-      "condition": "获得晴天娃娃效果。若已获得，请返回Dark Alleys的主区域。"
+      "name": "Tomorrow, Be Sunny!",
+      "description": "Bye-bye, rain! Hello, sunshine!",
+      "condition": "Obtain the Teru Teru Bōzu effect. If you have already unlocked it, return in the main part of Dark Alleys."
     },
     "guts_world_red_sewers": {
       "name": "变回活性颜色的器官",
@@ -9586,9 +9587,9 @@
       "condition": "在Sunlit Winter Woods被修女追逐者抓住"
     },
     "tt_waters_edge": {
-      "name": "门户边界",
-      "description": "黑暗的半影阈限……",
-      "condition": "在计时模式中用 {TIME} 或以下时间抵达Water's Edge的最终房间"
+      "name": "Indigo Edge",
+      "description": "A luminous threshold... of light.",
+      "condition": "Reach the final room in Water's Edge in 9 minutes or less"
     },
     "visit_amorphous_maroon_space": {
       "name": "红色与扭动",
@@ -9728,9 +9729,9 @@
       "condition": "在Perfect Blue Buildings的屋顶见证Giant Crow Event"
     },
     "streetlight_scenery": {
-      "name": "群星坠落之夜",
-      "description": "在无尽之雨后，群星仍在闪烁。",
-      "condition": "抵达Submerged Communications Area的尽头"
+      "name": "The Night the Stars Fell",
+      "description": "Past the endless rain, the stars shine on.",
+      "condition": "Reach the end of Submerged Communications Area"
     },
     "visage_world": {
       "name": "铠甲",
@@ -11083,9 +11084,9 @@
       "condition": "获得效果Duckling Dress。若已解锁，请返回Cubic Ruins。"
     },
     "outlook_hot_springs": {
-      "name": "解压日落",
-      "description": "在寒冷天气中暖起来的好办法",
-      "condition": "抵达Tanuki Woods温泉的观景区"
+      "name": "Evening Respite",
+      "description": "Tanuki Hot Springs, an excellent place for relaxing!",
+      "condition": "Reach the outlook in the Hot Springs of Tanuki Woods"
     },
     "turnip_psychedelic_farm": {
       "name": "狂躁芜菁",
@@ -12315,6 +12316,11 @@
       "name": "Somenikki",
       "description": "你想不想记录自己的梦境？",
       "condition": "购买Pastel World shop的存档书。"
+    },
+    "uv_repose": {
+      "name": "Mancountry",
+      "description": "Feel the breeze, the water, and the grass beneath you.",
+      "condition": "Enter the isolated section of Countryside from Streetlamp World"
     }
   },
   "sheawaits": {
@@ -13491,9 +13497,9 @@
       "condition": "获得效果Curtain。若已解锁，请返回Fashion Market获得该效果处。"
     },
     "if_ending3": {
-      "name": ">删除_你",
-      "description": "永别了，Izumi",
-      "condition": "观看结局3"
+      "name": "Image not found: CharSet/Shimitsuki",
+      "description": "Loading of Map Map0003.lmu failed. Map not readable.",
+      "condition": "See Ending #3"
     },
     "effect_primary_colors": {
       "name": "CMYKRGB",
@@ -13932,9 +13938,9 @@
       "condition": "获得效果Scene。若已解锁，请返回Bioluminescent Ocean获得该效果处。"
     },
     "candle_effect": {
-      "name": "活体蜡烛",
-      "description": "\"比起在黑暗中游荡，\n点起一根蜡烛更好。\"",
-      "condition": "获得效果Candle。若已解锁，请返回Rosehip Garden获得该效果处。"
+      "name": "Let there be Light",
+      "description": "Allow me to shine a path for you.",
+      "condition": "Obtain the Candle effect. If you already have it, return to where it can be found in the Rosehip Garden."
     },
     "noir_effect": {
       "name": "黑",
@@ -13960,9 +13966,9 @@
       "condition": "在Her Decomposing Remains见证事件Tea Party"
     },
     "love_drains": {
-      "name": "<3拍",
-      "description": "去呼唤来自上方的手，去依靠……这对我来说不够好",
-      "condition": "解锁从Nexus到Love Drains的连接"
+      "name": "Drain The Blood From This Abscess",
+      "description": "My love for you has been drained. Along with it came my energy and my brain.",
+      "condition": "Unlock the connection to the Nexus from Love Drains. If you have already unlocked it, return to Love Drains."
     },
     "sunset_railroad": {
       "name": "夕照铁道",
@@ -13985,9 +13991,9 @@
       "condition": "获得效果Goat。如已获得，返回请Black Market。"
     },
     "cherry_bar": {
-      "name": "樱桃唱片",
-      "description": "欢迎来到音乐角！",
-      "condition": "抵达Love Drains的Cherry Bar"
+      "name": "Alcoholic Drunkard",
+      "description": "And I'll drink day and night.",
+      "condition": "Reach Cherry Bar in Love Drains"
     },
     "neon_bear_rave": {
       "name": "孩子，过来泰迪熊这里！",
@@ -14010,9 +14016,9 @@
       "condition": "在Sunset Skyscrapers找到神秘狗子"
     },
     "here_comes_the_bride": {
-      "name": "死亡之爱",
-      "description": "死亡面前，我也要找新郎。",
-      "condition": "获得效果Bride。如已获得，请返回获得该效果处。"
+      "name": "Buried Vows",
+      "description": "Our love is six feet under.",
+      "condition": "Obtain the Bride Effect. If you have already obtained it, return to the area where you originally found it."
     },
     "loveyou_yearning_visit": {
       "name": "腐败与渴望",
