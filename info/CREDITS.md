@@ -308,7 +308,6 @@
 * Simmer
 * Siruku
 * Sleepyghost
-* Sleepysky
 * sleepysky
 * snailClippin
 * sniperbob
