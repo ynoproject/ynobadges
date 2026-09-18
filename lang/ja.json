@@ -1268,7 +1268,7 @@
     "scared_octopus": {
       "name": "Don't scare me like that!",
       "description": "I'm not scared of some fairy... well, maybe a little bit.",
-      "condition": "Use the Fairy effect to scare Tako Otoko in Atlantis"
+      "condition": "海底の少年にようせいを使用し正体を見る"
     },
     "mini_town": {
       "name": "ジャイアント",
@@ -5772,7 +5772,7 @@
     "princess_crescent_tile_world": {
       "name": "Moonlit Princess",
       "description": "Don't you dare touch that light switch.",
-      "condition": "See all of the reactions of the Princess in Crescent Tile World"
+      "condition": "月の家でエフェクトを使用して王女のすべての反応を見る"
     },
     "cliff_gsc_mountain_ring": {
       "name": "一匹狼",
@@ -7906,7 +7906,7 @@
     "teru_teru_bozu_effect": {
       "name": "Tomorrow, Be Sunny!",
       "description": "Bye-bye, rain! Hello, sunshine!",
-      "condition": "Obtain the Teru Teru Bōzu effect. If you have already unlocked it, return in the main part of Dark Alleys."
+      "condition": "てるてるぼうずのエフェクトを取得する。すでに入手している場合は、見つけた場所に行く"
     },
     "guts_world_red_sewers": {
       "name": "血の色に還る命の器",
@@ -9610,56 +9610,56 @@
       "condition": "球宙に到達する"
     },
     "visit_blissful_clinic": {
-      "name": "Peaceful Hospital",
-      "description": "Ah, this clinic is so clean and quiet and- wait, why is there a grenade lying here?",
-      "condition": "Visit Blissful Clinic"
+      "name": "穏やかな病院",
+      "description": "この診療所はとても清潔で静かで――えっ待って、なんでここに手榴弾が落ちてるの？",
+      "condition": "サナトリウムに到達する"
     },
     "spirit_factory_aquarium_secret": {
-      "name": "Oceanic Reflexion",
-      "description": "You don't drown by falling in the water; you drown by staying there.",
-      "condition": "Enter the secret room in Spirit Factory's aquarium"
+      "name": "海の反射",
+      "description": "水に落ちたから溺れるんじゃない。そこに留まり続けるから溺れるんだ。",
+      "condition": "精神の階廊:白い水槽に到達する"
     },
     "picture_book_girl": {
-      "name": "A piece dedicated to you",
-      "condition": "Interact with the piano girl in Picture book"
+      "name": "あなたに捧げる一曲",
+      "condition": "絵本でピアニストに話しかける"
     },
     "visit_vitamin_world": {
-      "name": "Good For Health, Bad For Dreams",
-      "description": "Don’t think these can help with cuts…",
-      "condition": "Visit Vitamin World"
+      "name": "健康には良いが、夢には良くない",
+      "description": "これで切り傷が治るとは思わないでね……",
+      "condition": "ビタミングリーンに到達する"
     },
     "flower_teruterubozu_mask": {
-      "name": "Hana Hana Bozu",
-      "description": "April showers *are* May flowers",
-      "condition": "Equip the Flowery Teru Teru mask in Blossoming Wonderland"
+      "name": "はなはなぼうず",
+      "description": "4月の雨が5月の花を咲かせる",
+      "condition": "風庭の花道で花柄てるてるぼうずのお面を装備する"
     },
     "burgundy_flats_landlady": {
-      "name": "My Personal Workspace",
-      "description": "\"Have I seen you anywhere else?\"",
-      "condition": "Enter the Landlady's room in Burgundy Flats"
+      "name": "私だけの作業場",
+      "description": "「どこかであなたを見かけたかしら？」",
+      "condition": "幻荘:白髪の人物の部屋に到達する"
     },
     "cotton_candy_blood_bed": {
-      "name": "Bloody Mess",
-      "description": "Am I supposed to clean this?",
-      "condition": "See the blood on the bed in Cotton Candy Haven"
+      "name": "血まみれ",
+      "description": "これ私が掃除しなきゃいけないの？",
+      "condition": "havenで血まみれのベッドを見る"
     },
     "tsugihagikun_chainsaw_lantern": {
-      "name": "Bleeding Doll",
-      "description": "You okay?",
-      "condition": "Use the lantern and the chainsaw effect on Tsugihagi-kun In the Pansy Path Patchwork playroom"
+      "name": "ツギハギドール",
+      "description": "だいじょうぶ？",
+      "condition": "パッチワークフォータイルで、ツギハギな子にチェーンソーとカンテラのエフェクトを使用する"
     },
     "visit_guts_world": {
-      "name": "Gutted Alive",
-      "description": "Living with a hollow feeling.",
-      "condition": "Visit Guts World"
+      "name": "生き腑抜け",
+      "description": "空っぽな感覚を抱えながら生きる。",
+      "condition": "生肉に到達する"
     },
     "calico_forest_statues": {
-      "name": "Calico Statues Call",
-      "description": "I say AWOO! You say NYAA!",
-      "condition": "View the cat statues' reactions to the Wolf and Chainsaw effects",
+      "name": "三毛猫像の呼び声",
+      "description": "I say アオーン！ You say にゃーん！",
+      "condition": "三毛猫の森でおおかみとチェーンソーの２つのエフェクトを装備し、猫型構造物のリアクションを見る",
       "checkbox": {
-        "calico_forest_statues_wolf": "Wolf",
-        "calico_forest_statues_chainsaw": "Chainsaw"
+        "calico_forest_statues_wolf": "おおかみ",
+        "calico_forest_statues_chainsaw": "チェーンソー"
       }
     },
     "kitsune_residence_girl": {
@@ -9737,9 +9737,9 @@
       "condition": "青いビル群:屋上で大烏の背に乗る"
     },
     "streetlight_scenery": {
-      "name": "The Night the Stars Fell",
-      "description": "Past the endless rain, the stars shine on.",
-      "condition": "Reach the end of Submerged Communications Area"
+      "name": "星が降った夜",
+      "description": "終わりのない雨の向こうで、星々は輝き続ける。",
+      "condition": "水没電柱:夜の山に到達する"
     },
     "visage_world": {
       "name": "甲冑",
@@ -10553,8 +10553,8 @@
       "condition": "LSD Worldの4バージョン全てに到達する"
     },
     "vaporwave_mall_event": {
-      "name": "Disco Floor",
-      "condition": "Witness the Vaporwave Mall event"
+      "name": "ディスコフロア",
+      "condition": "Vaporwave Mallイベントを見る"
     }
   },
   "unevendream": {
@@ -10983,9 +10983,9 @@
       "condition": "Congregation Islandのチーズが追いかけてくるエリアから脱出する"
     },
     "prayer_ice_chapel": {
-      "name": "Warmth of God",
-      "description": "Won't you pray with me?",
-      "condition": "See the Prayer event in Ice Chapel"
+      "name": "神の温もり",
+      "description": "私と共に祈りませんか？",
+      "condition": "Ice ChapelでPrayerイベントを見る"
     }
   },
   "braingirl": {
@@ -11092,9 +11092,9 @@
       "condition": "小ガモのドレスのエフェクトを入手する、すでに入手している場合はCubic Ruinsの見つけた場所に行く。"
     },
     "outlook_hot_springs": {
-      "name": "Evening Respite",
-      "description": "Tanuki Hot Springs, an excellent place for relaxing!",
-      "condition": "Reach the outlook in the Hot Springs of Tanuki Woods"
+      "name": "夕暮れの休息",
+      "description": "タヌキ温泉は、リラックスに最適！",
+      "condition": "Tanuki WoodsにあるHot Springsの景色に到達する"
     },
     "turnip_psychedelic_farm": {
       "name": "狂ったカブ",
@@ -11350,9 +11350,9 @@
       "condition": "JB's Hideoutに到達する"
     },
     "dreaming_lozere_cat": {
-      "name": "Omnipresent Meow-Meow",
-      "description": "He’s here, he’s there, he's everywhere, who you gonna call? Omnipresent Meow-Meow",
-      "condition": "Interact with the cat in both parts of Dreaming Lozère"
+      "name": "遍在するにゃんこ",
+      "description": "ここにも、あそこにも、どこにでも、誰を呼ぶ？遍在するにゃんこ！",
+      "condition": "Dreaming Lozèreの両方の場所でねこに話しかける"
     },
     "make_crepes": {
       "name": "料理番組",
@@ -11628,8 +11628,8 @@
       "condition": "Broken Passagewayで白猫を見る"
     },
     "faraway_place": {
-      "name": "Not Peaceful Place",
-      "condition": "Visit the normal and corrupted versions of Faraway Place"
+      "name": "穏やかじゃない場所",
+      "condition": "Faraway Placeの通常と歪んだバージョンを訪れる"
     },
     "reverse_space_station": {
       "name": "Reversed Reverie",
@@ -12330,9 +12330,9 @@
       "condition": "黄色い店で夢日記帳を購入する"
     },
     "uv_repose": {
-      "name": "Mancountry",
-      "description": "Feel the breeze, the water, and the grass beneath you.",
-      "condition": "Enter the isolated section of Countryside from Streetlamp World"
+      "name": "マンカントリー",
+      "description": "そよ風、水、そして足元の草の感触を感じて。",
+      "condition": "公園から田園の隔離エリアに到達する"
     }
   },
   "sheawaits": {
@@ -12796,9 +12796,9 @@
       "condition": "桃色沼地の洞窟に入る"
     },
     "lucky_ice_sculpture": {
-      "name": "A True Work Of Art",
-      "description": "I am so Lucky to witness this masterpiece!",
-      "condition": "Interact with Lucky while looking like her with the Ice Sculpture effect"
+      "name": "見事な出来だな",
+      "description": "この傑作を目にできるなんて、なんて幸運なんだ！",
+      "condition": "氷像のエフェクトを使って緑髪の少女とそっくりの姿で彼女に話しかける"
     }
   },
   "tsushin": {
@@ -13511,7 +13511,7 @@
     "if_ending3": {
       "name": "Image not found: CharSet/Shimitsuki",
       "description": "Loading of Map Map0003.lmu failed. Map not readable.",
-      "condition": "See Ending #3"
+      "condition": "ED3を見る"
     },
     "effect_primary_colors": {
       "name": "CMYKRGB",
@@ -13950,9 +13950,9 @@
       "condition": "シーンのエフェクトを入手する、すでに入手している場合はBioluminescent Oceanの見つけた場所に行く。"
     },
     "candle_effect": {
-      "name": "Let there be Light",
-      "description": "Allow me to shine a path for you.",
-      "condition": "Obtain the Candle effect. If you already have it, return to where it can be found in the Rosehip Garden."
+      "name": "光あれ",
+      "description": "あなたの進む道を私に照らさせて。",
+      "condition": "ろうそくのエフェクトを入手する、すでに入手している場合はRosehip Gardenの見つけた場所に行く。"
     },
     "noir_effect": {
       "name": "ノワール",
@@ -13978,9 +13978,9 @@
       "condition": "Her Decomposing RemainsでTea Partyイベントを見る"
     },
     "love_drains": {
-      "name": "Drain The Blood From This Abscess",
-      "description": "My love for you has been drained. Along with it came my energy and my brain.",
-      "condition": "Unlock the connection to the Nexus from Love Drains. If you have already unlocked it, return to Love Drains."
+      "name": "この肉塊から血を流し出して",
+      "description": "あなたへの愛情は枯れ果ててしまった。それと一緒に、私の活力も感情も失われた。",
+      "condition": "Love DrainsからNexusへの接続を開放する、すでに開放している場合はLove Drainsにもう一度行く。"
     },
     "sunset_railroad": {
       "name": "日暮れの鉄道",
@@ -14003,9 +14003,9 @@
       "condition": "ヤギのエフェクトを入手する、すでに入手している場合はBlack Marketにもう一度行く。"
     },
     "cherry_bar": {
-      "name": "Alcoholic Drunkard",
-      "description": "And I'll drink day and night.",
-      "condition": "Reach Cherry Bar in Love Drains"
+      "name": "アルコール依存の酔っ払い",
+      "description": "そして、昼も夜も呑み続けるんだ。",
+      "condition": "Love DrainsのCherry Barに到達する"
     },
     "neon_bear_rave": {
       "name": "テディヘヨウコソ",
@@ -14028,9 +14028,9 @@
       "condition": "Sunset Skyscrapersで見覚えのある犬を見つける"
     },
     "here_comes_the_bride": {
-      "name": "Buried Vows",
-      "description": "Our love is six feet under.",
-      "condition": "Obtain the Bride Effect. If you have already obtained it, return to the area where you originally found it."
+      "name": "埋もれた誓い",
+      "description": "\"Our love is six feet under.\"",
+      "condition": "花嫁のエフェクトを入手する、すでに入手している場合は最初に見つけた場所にもう一度行く。"
     },
     "loveyou_yearning_visit": {
       "name": "朽ち果てた憧れ",
