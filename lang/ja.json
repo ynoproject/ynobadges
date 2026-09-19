@@ -9595,9 +9595,9 @@
       "condition": "大仏雪原:雪原で黒髪ツインテお嬢様に捕まる"
     },
     "tt_waters_edge": {
-      "name": "藍色の境界",
-      "description": "光り輝く境界……。",
-      "condition": "Time Trial Modeで9分以内に鎮底の渚:瀞櫃に到達する"
+      "name": "Indigo Edge",
+      "description": "A luminous threshold... of light.",
+      "condition": "Reach the final room in Water's Edge in {TIME} or less in Time Trial Mode"
     },
     "visit_amorphous_maroon_space": {
       "name": "赤く、蠢く。",
@@ -9745,6 +9745,69 @@
       "name": "甲冑",
       "description": "そして、私のすべての鎧は足元で崩れ落ちていく。",
       "condition": "赤銅月下:外観に到達する"
+    },
+    "cloud_mirror": {
+      "name": "Birch Lakes",
+      "description": "The wind spreads the colors throughout.",
+      "condition": "Visit Cloud Mirror"
+    },
+    "golden_casino": {
+      "name": "Million Dollar Dreamers",
+      "description": "Place your bets, dreamers.",
+      "condition": "Visit the Golden Casino in Playing Card Dungeon"
+    },
+    "lamplit_complex": {
+      "name": "Guiding Lights",
+      "condition": "Visit the main area of Lamplit Complex"
+    },
+    "lantern_cat_mask": {
+      "name": "I'm a kitty Cat!",
+      "condition": "Interact with the Cat costume with the lantern effect equiped in Dressing Room"
+    },
+    "late_summer_bat": {
+      "name": "Short break",
+      "description": "So, how about playing a board game with me?",
+      "condition": "Visit the red bat person at Late Summer"
+    },
+    "visit_arctic": {
+      "name": "Snow Grave",
+      "description": "An everlasting snow, like an impossible spell...",
+      "condition": "Visit Arctic"
+    },
+    "tessellation_terrace_piano": {
+      "name": "Op. 18: II. Adagio Sostenuto",
+      "description": "An invitation from the Rose Church to a requiem for a simulacrum.",
+      "condition": "Play the piano in Tessellation Terrace subarea"
+    },
+    "tessellation_terrace_sky": {
+      "name": "Tessera Continuum",
+      "description": "It will all return to dust, and only memories will remain...",
+      "condition": "View the sky area in Tessellation Terrace subarea"
+    },
+    "critter_village_coffee_cafe": {
+      "name": "Coffee, Coming Right Up!",
+      "description": "Have some of the finest coffee the dream world has to offer!",
+      "condition": "Drink coffee at the Critter Village cafe"
+    },
+    "menu_type_106": {
+      "name": "Warm-toned paintings",
+      "description": "*orange you glad you took this long journey?*",
+      "condition": "Obtain the menu type 106. If you have already unlocked it, return where it can be found in Painted Landscape."
+    },
+    "moonlit_pier_girl": {
+      "name": "Path of light to you",
+      "description": "Shine a path to solitude; listen by the water while gazing at the moon.",
+      "condition": "Find the girl in Moonlit Pier"
+    },
+    "atlantis_reef_face_smile": {
+      "name": "Don'tLookAway",
+      "description": "ILoveWhenTheyStare,KeepWatching",
+      "condition": "Make the face in the Atlantis reef smile"
+    },
+    "mint_town_weird_tree": {
+      "name": "Cure Mint",
+      "description": "The green earth of tranquility is my strength, you should try it sometime. ♡",
+      "condition": "See the weird tree in Mint Town"
     }
   },
   "flow": {
@@ -11634,7 +11697,12 @@
     "reverse_space_station": {
       "name": "Reversed Reverie",
       "description": "鏡像と星々の中で、最高の眺めは上下逆さまの場所にある",
-      "condition": "Reverse Space Staitonに到達する"
+      "condition": "Reverse Space Stationに到達する"
+    },
+    "sheet_music_song": {
+      "name": "足跡からなるメロディ",
+      "description": "夜明けから日暮れまで、一歩一歩が音符となる。",
+      "condition": "Sheet Musicで曲全体を聞く"
     }
   },
   "genie": {
@@ -11881,6 +11949,11 @@
       "name": "ご主人様",
       "description": "おかえりなさいませ、ご主人様！2名様ですか？デートするんですよ？当然です！萌え萌えキュ～ン♡",
       "condition": "Colly Maid Cafeに到達する"
+    },
+    "dg_yin_ming": {
+      "name": "繋がりの糸",
+      "description": "どんなに離れていたとしても、いつでも互いの姿を見られる。",
+      "condition": "Dream GenieのFloating Cube RPGの隔離エリアで阴明と:|に会う"
     }
   },
   "mikan": {
@@ -14192,6 +14265,11 @@
       "name": "それでも、お願い。",
       "description": "この心臓は、今もあなただけのために鼓動している。私が流す血の一滴一滴が、私がどれほどあなたを愛していたかを教えてくれる……だから、お願い……お願いだから、もう一度私を愛して……",
       "condition": "心臓のエフェクトを入手する、すでに入手している場合はLove Drainsの見つけた場所に行く。"
+    },
+    "noir_seaside": {
+      "name": "星なき海の波",
+      "description": "暗くうねる疑念の海の彼方には、決して消えることのない一筋の光がある。",
+      "condition": "Noirの海岸のエリアに到達する"
     }
   },
   "okuri": {
@@ -14322,6 +14400,11 @@
       "name": "血に濡れた屋上",
       "description": "全ての苦労はこの景色のためだったのか……",
       "condition": "学校の屋上に到達する"
+    },
+    "omega_sword": {
+      "name": "ぼくのオメガクールソード！",
+      "description": "これは真の力のさんぷるだよ、へへへ……",
+      "condition": "オメガソードを入手する(入手した場所の近くでオメガソードになる)"
     }
   },
   "space": {
