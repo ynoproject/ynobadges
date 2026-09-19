@@ -41,6 +41,7 @@
 * Anii
 * Animatic
 * Anju
+* Antarlik
 * ApeMan
 * Aring
 * arksynapse
@@ -93,6 +94,7 @@
 * dabe
 * DallyDEF
 * dave
+* Dawnchorrus
 * dawnchorrus
 * deadsquid
 * deg
