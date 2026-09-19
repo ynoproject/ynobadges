@@ -94,7 +94,6 @@
 * dabe
 * DallyDEF
 * dave
-* Dawnchorrus
 * dawnchorrus
 * deadsquid
 * deg
