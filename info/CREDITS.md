@@ -41,6 +41,7 @@
 * Anii
 * Animatic
 * Anju
+* Antarlik
 * ApeMan
 * Aring
 * arksynapse
@@ -308,7 +309,6 @@
 * Simmer
 * Siruku
 * Sleepyghost
-* Sleepysky
 * sleepysky
 * snailClippin
 * sniperbob
@@ -385,6 +385,7 @@
 * Zaakarias
 * Zahyou
 * Zarkv
+* Zelthra
 * Zethyer
 * Zimnior12
 * ZLD1
