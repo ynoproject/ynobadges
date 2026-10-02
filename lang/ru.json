@@ -5812,7 +5812,8 @@
       "condition": "Use the Fairy or Spacesuit effects near the duo in the Patchwork Playroom of The Pansy Path"
     },
     "water_edge_check_park": {
-      "name": "Ultramarine Chamber",
+      "name": "Indigo Edge",
+      "description": "A luminous threshold... of light.",
       "condition": "Reach the Blue Checkered Park in Water's Edge"
     },
     "faceless_endless_apartments": {
@@ -8512,8 +8513,8 @@
       "condition": "Visit Beyond"
     },
     "visit_calico_forest": {
-      "name": "Meowing Forest",
-      "description": "Home is where the cats are.",
+      "name": "Purradise",
+      "description": "Meow? Meow.",
       "condition": "Visit Calico Forest"
     },
     "visit_dazzling_garden": {
@@ -8552,8 +8553,8 @@
       "condition": "Get sent to the secret room in Fliperama Hall by the security in the basement."
     },
     "hemlock_lab_girl": {
-      "name": "Research Log-00000",
-      "description": "65 98 115 111 108 117 116 101 108 121 32 100 111 32 110 111 116 32 108 101 116 32 116 104 97 116 32 100 97 116 97 32 98 101 32 108 101 97 107 101 100 32 116 111 32 116 104 101 32 111 117 116 115 105 100 101 46",
+      "name": "Lonely Experiment",
+      "description": "Do not allow unauthorized personnel to enter the ██████████ ████. DO NOT allow anyone to see ███ ████. You must remember that ███ ██ ███ ██████ ██████████. Failure to comply will result in ██████ ██████████. ",
       "condition": "Find the girl in the Hemlock Lab"
     },
     "jazz_station_peace": {
@@ -9574,9 +9575,9 @@
       "condition": "Get caught by the sister chasers in Sunlit Winter Woods"
     },
     "tt_waters_edge": {
-      "name": "Indigo Edge",
-      "description": "A luminous threshold... of light.",
-      "condition": "Reach the final room in Water's Edge in {TIME} or less in Time Trial Mode"
+      "name": "Gateway Edge",
+      "description": "A penumbral threshold... of darkness.",
+      "condition": "Reach the final room in Water's Edge in 9 minutes or less"
     },
     "visit_amorphous_maroon_space": {
       "name": "Red and Writhing",
@@ -9633,13 +9634,13 @@
       "condition": "Visit Guts World"
     },
     "calico_forest_statues": {
-      "name": "Calico Statues Call",
-      "description": "I say AWOO! You say NYAA!",
-      "condition": "View the cat statues' reactions to the Wolf and Chainsaw effects",
       "checkbox": {
         "calico_forest_statues_wolf": "Wolf",
         "calico_forest_statues_chainsaw": "Chainsaw"
-      }
+      },
+      "name": "Calico Statues Call",
+      "description": "I say AWOO! You say NYAA!",
+      "condition": "View the Cat Statues' reactions to the Wolf and Chainsaw Effects"
     },
     "kitsune_residence_girl": {
       "name": "A doll-like girl",
@@ -9782,6 +9783,33 @@
       "name": "Cure Mint",
       "description": "The green earth of tranquility is my strength, you should try it sometime. ♡",
       "condition": "See the weird tree in Mint Town"
+    },
+    "hyoukaku_woodwind_isles": {
+      "name": "Ice Lady",
+      "condition": "See Hyoukaku in Woodwind Isles"
+    },
+    "rainy_town_visit": {
+      "name": "Unfading Flame",
+      "description": "Light the flame, so it may shine through the rain.",
+      "condition": "Visit Rainy Town"
+    },
+    "buy_himawaris_hat": {
+      "name": "This is for You",
+      "description": "You look so cute!",
+      "condition": "Purchase and wear Ms. Himawari's Hat from her shop at the Garden Festival"
+    },
+    "effect_the_rainbow_axis": {
+      "name": "Hue Shift",
+      "description": "Feel the rainbow!",
+      "condition": "See all the reactions to different effects in Rainbow Axis"
+    },
+    "pro_2kki_gamer_surreal": {
+      "name": "A True Gamer",
+      "condition": "Visit the Gamer's Room in Surreal Ruins World"
+    },
+    "flooded_baths_blue_thing": {
+      "name": "Blood Bath",
+      "condition": "See the large blue creature open its eye in Flooded Baths"
     }
   },
   "flow": {
@@ -11297,8 +11325,8 @@
       "condition": "Reach the Holy Sea"
     },
     "ninas_outpost": {
-      "name": "Disused Groundwork",
-      "description": "What is she researching?",
+      "name": "Abandoned Facility",
+      "description": "Can this place be used for researching?",
       "condition": "Visit Nina's Outpost"
     },
     "pure_creativity": {
@@ -12842,6 +12870,11 @@
       "name": "A True Work Of Art",
       "description": "I am so Lucky to witness this masterpiece!",
       "condition": "Interact with Lucky while looking like her with the Ice Sculpture effect"
+    },
+    "stormy_tower_npc": {
+      "name": "85cm radius is the distance that I can reach",
+      "description": "Someday, when I get worn out from spinning, please be by my side.",
+      "condition": "Interact with the NPC in Stormy Towers"
     }
   },
   "tsushin": {
@@ -14338,6 +14371,11 @@
       "name": "Blooming bud of early spring",
       "description": "I hope this young plant grows to be healthy and strong.....",
       "condition": "Obtain the Fuki Shoot effect. If you have already obtained it, return to where it can be found in the Garden."
+    },
+    "okuri_snow_effect": {
+      "name": "Snowball",
+      "description": "Just a fluffy cute little snowball",
+      "condition": "Obtain the Snow effect. If already obtained, return to where you have done so."
     }
   },
   "scarynikki": {

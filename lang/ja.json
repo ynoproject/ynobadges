@@ -5827,8 +5827,9 @@
       "condition": "パッチワークフォータイル:小部屋にいる回る誰かの近くで、ようせいかうちゅうふくを使用する"
     },
     "water_edge_check_park": {
-      "name": "ウルトラマリンの大広間",
-      "condition": "鎮底の渚:瀞櫃に到達する"
+      "name": "Indigo Edge",
+      "description": "A luminous threshold... of light.",
+      "condition": "Reach the Blue Checkered Park in Water's Edge"
     },
     "faceless_endless_apartments": {
       "name": "内なる動揺",
@@ -8527,9 +8528,9 @@
       "condition": "近代都市に到達する"
     },
     "visit_calico_forest": {
-      "name": "にゃーにゃー森",
-      "description": "猫がいる場所こそが帰るべき場所",
-      "condition": "三毛猫の森に到達する"
+      "name": "Purradise",
+      "description": "Meow? Meow.",
+      "condition": "Visit Calico Forest"
     },
     "visit_dazzling_garden": {
       "name": "きらめきまみれの石",
@@ -8567,9 +8568,9 @@
       "condition": "フリペラーマ広間:地下倉庫でバグった影に捕まり、小部屋へ送られる"
     },
     "hemlock_lab_girl": {
-      "name": "研究ログ-00000",
-      "description": "65 98 115 111 108 117 116 101 108 121 32 100 111 32 110 111 116 32 108 101 116 32 116 104 97 116 32 100 97 116 97 32 98 101 32 108 101 97 107 101 100 32 116 111 32 116 104 101 32 111 117 116 115 105 100 101 46",
-      "condition": "パルマコン:秘密の部屋で眠る少女を見つける"
+      "name": "Lonely Experiment",
+      "description": "Do not allow unauthorized personnel to enter the ██████████ ████. DO NOT allow anyone to see ███ ████. You must remember that ███ ██ ███ ██████ ██████████. Failure to comply will result in ██████ ██████████. ",
+      "condition": "Find the girl in the Hemlock Lab"
     },
     "jazz_station_peace": {
       "name": "残骸の中の安らぎ",
@@ -9595,9 +9596,9 @@
       "condition": "大仏雪原:雪原で黒髪ツインテお嬢様に捕まる"
     },
     "tt_waters_edge": {
-      "name": "藍色の境界",
-      "description": "光り輝く境界……。",
-      "condition": "Time Trial Modeで{TIME}以内に鎮底の渚:瀞櫃に到達する"
+      "name": "Gateway Edge",
+      "description": "A penumbral threshold... of darkness.",
+      "condition": "Reach the final room in Water's Edge in 9 minutes or less"
     },
     "visit_amorphous_maroon_space": {
       "name": "赤く、蠢く。",
@@ -9654,13 +9655,13 @@
       "condition": "生肉に到達する"
     },
     "calico_forest_statues": {
-      "name": "三毛猫像の呼び声",
-      "description": "I say アオーン！ You say にゃーん！",
-      "condition": "三毛猫の森でおおかみとチェーンソーの２つのエフェクトを装備し、猫型構造物のリアクションを見る",
       "checkbox": {
         "calico_forest_statues_wolf": "おおかみ",
         "calico_forest_statues_chainsaw": "チェーンソー"
-      }
+      },
+      "name": "三毛猫像の呼び声",
+      "description": "I say アオーン！ You say にゃーん！",
+      "condition": "三毛猫の森でおおかみとチェーンソーの２つのエフェクトを装備し、猫型構造物のリアクションを見る"
     },
     "kitsune_residence_girl": {
       "name": "ドールみたいな女の子",
@@ -9800,6 +9801,34 @@
       "condition": "沖:沖合いエリアで、顔のオブジェにめだまばくだんのエフェクトを使用する"
     },
     "mint_town_weird_tree": {
+      "name": "Cure Mint",
+      "description": "The green earth of tranquility is my strength, you should try it sometime. ♡",
+      "condition": "See the weird tree in Mint Town"
+    },
+    "hyoukaku_woodwind_isles": {
+      "name": "Ice Lady",
+      "condition": "See Hyoukaku in Woodwind Isles"
+    },
+    "rainy_town_visit": {
+      "name": "Unfading Flame",
+      "description": "Light the flame, so it may shine through the rain.",
+      "condition": "Visit Rainy Town"
+    },
+    "buy_himawaris_hat": {
+      "name": "This is for You",
+      "description": "You look so cute!",
+      "condition": "Purchase and wear Ms. Himawari's Hat from her shop at the Garden Festival"
+    },
+    "effect_the_rainbow_axis": {
+      "name": "Hue Shift",
+      "description": "Feel the rainbow!",
+      "condition": "See all the reactions to different effects in Rainbow Axis"
+    },
+    "pro_2kki_gamer_surreal": {
+      "name": "A True Gamer",
+      "condition": "Visit the Gamer's Room in Surreal Ruins World"
+    },
+    "flooded_baths_blue_thing": {
       "name": "キュアミント",
       "description": "安らぎの緑の大地こそが私の力！あなたもいつか試してみるといいわ♡",
       "condition": "Mint Town:メインエリアで奇妙な形の木を見る"
@@ -11318,9 +11347,9 @@
       "condition": "Holy Seaに到達する"
     },
     "ninas_outpost": {
-      "name": "破棄された基礎",
-      "description": "彼女は何を研究しているのだろう？",
-      "condition": "Nina's Outpostに到達する"
+      "name": "Abandoned Facility",
+      "description": "Can this place be used for researching?",
+      "condition": "Visit Nina's Outpost"
     },
     "pure_creativity": {
       "name": "キャンバスの上で、わたしを創る",
@@ -12867,6 +12896,11 @@
       "name": "見事な出来だな",
       "description": "この傑作を目にできるなんて、なんて幸運なんだ！",
       "condition": "氷像のエフェクトを使って緑髪の少女とそっくりの姿で彼女に話しかける"
+    },
+    "stormy_tower_npc": {
+      "name": "85cm radius is the distance that I can reach",
+      "description": "Someday, when I get worn out from spinning, please be by my side.",
+      "condition": "Interact with the NPC in Stormy Towers"
     }
   },
   "tsushin": {
@@ -14363,6 +14397,11 @@
       "name": "早春に芽吹くつぼみ",
       "description": "この若々しい植物が、健やかに逞しく育ちますように……",
       "condition": "ふきのとうのエフェクトを入手する、すでに入手している場合は庭の見つけた場所に行く。"
+    },
+    "okuri_snow_effect": {
+      "name": "Snowball",
+      "description": "Just a fluffy cute little snowball",
+      "condition": "Obtain the Snow effect. If already obtained, return to where you have done so."
     }
   },
   "scarynikki": {
