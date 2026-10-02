@@ -333,7 +333,6 @@
 * Sugarcan3333
 * summersn0w
 * systemaciel
-* Taechan
 * taechan
 * taintedeve
 * Takofuusen
