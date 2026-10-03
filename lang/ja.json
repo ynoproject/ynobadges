@@ -1103,20 +1103,20 @@
       "condition": "うさみみになってバグ男と会話し、葬塔場の時間を夜に変更する"
     },
     "dream_fishing": {
-      "name": "Solid Fish",
-      "description": "With darkness and silence through the night....",
-      "condition": "Visit all water-based worlds with fish: Ocean Subsurface, Rotten Fish Lake, Fish World, Mackerel Desert, Sushi World, Flying Fish World, Lamplit Stones, Streetlight Docks, Depths, and Bioluminescent Cavern",
+      "name": "ソリッド・フィッシュ",
+      "description": "\"With darkness and silence through the night....\"",
+      "condition": "魚のいる水系の世界をすべて訪れる: 地下の海、骨魚、ぶりぶり、鯖砂漠、サケ、リベンジビル、石影、釣り堀、みなぞこ、夜花草",
       "checkbox": {
-        "ocean_subsurface": "Ocean Subsurface",
-        "rotten_fish_lake": "Rotten Fish Lake",
-        "fish_world": "Fish World",
-        "tuna_desert": "Mackerel Desert",
-        "sushi_world": "Sushi World",
-        "fish_f_f_world": "Flying Fish World",
-        "fish_lamplit": "Lamplit Stones",
-        "fish_streetlight": "Streetlight Docks",
-        "fish_depths": "Depths",
-        "fish_bioluminescent": "Bioluminescent Cavern"
+        "ocean_subsurface": "地下の海",
+        "rotten_fish_lake": "骨魚",
+        "fish_world": "ぶりぶり",
+        "tuna_desert": "鯖砂漠",
+        "sushi_world": "サケ",
+        "fish_f_f_world": "リベンジビル",
+        "fish_lamplit": "石影",
+        "fish_streetlight": "釣り堀",
+        "fish_depths": "みなぞこ",
+        "fish_bioluminescent": "夜花草"
       }
     },
     "decrepit_smile": {
@@ -5827,8 +5827,9 @@
       "condition": "パッチワークフォータイル:小部屋にいる回る誰かの近くで、ようせいかうちゅうふくを使用する"
     },
     "water_edge_check_park": {
-      "name": "ウルトラマリンの大広間",
-      "condition": "鎮底の渚:瀞櫃に到達する"
+      "name": "Indigo Edge",
+      "description": "A luminous threshold... of light.",
+      "condition": "Reach the Blue Checkered Park in Water's Edge"
     },
     "faceless_endless_apartments": {
       "name": "内なる動揺",
@@ -7324,8 +7325,8 @@
       "condition": "水瓶と蝋燭の迷宮に到達する"
     },
     "rune_jade_dunes": {
-      "name": "Jade Rune",
-      "description": "Oh no! Our Rune! It's broken!",
+      "name": "翡翠の叉オブジェ",
+      "description": "大変っ！私たちのルーンが壊れちゃった！",
       "condition": "翠の砂漠で翠の叉オブジェを調べる"
     },
     "pop_revoir": {
@@ -7491,8 +7492,8 @@
       "condition": "斑地に到達する"
     },
     "girl_moonlit_pier": {
-      "name": "Path of light to you",
-      "description": "Shine a path to solitude; listen by the water while gazing at the moon.",
+      "name": "あなたへと続く光の道",
+      "description": "孤独への道を照らし、月を眺めながら水辺で耳を澄ます。",
       "condition": "常闇渡りで座り込んだ少女を見つける"
     },
     "crowded_void": {
@@ -7904,8 +7905,8 @@
       "condition": "校内の通路でバイクのエフェクトを使用し、教師に叱られる"
     },
     "teru_teru_bozu_effect": {
-      "name": "明日天気になあれ",
-      "description": "バイバイ、レイン！ハロー、サンシャイン！",
+      "name": "あーしたてんきになぁれ！",
+      "description": "ばいばい、雨さん！こんにちは、おひさま！",
       "condition": "てるてるぼうずのエフェクトを取得する。すでに入手している場合は、見つけた場所に行く"
     },
     "guts_world_red_sewers": {
@@ -8527,9 +8528,9 @@
       "condition": "近代都市に到達する"
     },
     "visit_calico_forest": {
-      "name": "にゃーにゃー森",
-      "description": "猫がいる場所こそが帰るべき場所",
-      "condition": "三毛猫の森に到達する"
+      "name": "Purradise",
+      "description": "Meow? Meow.",
+      "condition": "Visit Calico Forest"
     },
     "visit_dazzling_garden": {
       "name": "きらめきまみれの石",
@@ -8557,8 +8558,8 @@
       "condition": "周回軌道に到達する"
     },
     "visit_start_cubes": {
-      "name": "Midnight Shack",
-      "description": "When the stars come out, they lead the way here.",
+      "name": "真夜中の小屋",
+      "description": "星々が姿を現すと、ここへ続く道を示してくれる。",
       "condition": "星街灯の世界:小屋に到達する"
     },
     "fliperama_hall_basement": {
@@ -8567,9 +8568,9 @@
       "condition": "フリペラーマ広間:地下倉庫でバグった影に捕まり、小部屋へ送られる"
     },
     "hemlock_lab_girl": {
-      "name": "研究ログ-00000",
-      "description": "65 98 115 111 108 117 116 101 108 121 32 100 111 32 110 111 116 32 108 101 116 32 116 104 97 116 32 100 97 116 97 32 98 101 32 108 101 97 107 101 100 32 116 111 32 116 104 101 32 111 117 116 115 105 100 101 46",
-      "condition": "パルマコン:秘密の部屋で眠る少女を見つける"
+      "name": "Lonely Experiment",
+      "description": "Do not allow unauthorized personnel to enter the ██████████ ████. DO NOT allow anyone to see ███ ████. You must remember that ███ ██ ███ ██████ ██████████. Failure to comply will result in ██████ ██████████. ",
+      "condition": "Find the girl in the Hemlock Lab"
     },
     "jazz_station_peace": {
       "name": "残骸の中の安らぎ",
@@ -9595,9 +9596,9 @@
       "condition": "大仏雪原:雪原で黒髪ツインテお嬢様に捕まる"
     },
     "tt_waters_edge": {
-      "name": "藍色の境界",
-      "description": "光り輝く境界……。",
-      "condition": "Time Trial Modeで{TIME}以内に鎮底の渚:瀞櫃に到達する"
+      "name": "Gateway Edge",
+      "description": "A penumbral threshold... of darkness.",
+      "condition": "Reach the final room in Water's Edge in 9 minutes or less"
     },
     "visit_amorphous_maroon_space": {
       "name": "赤く、蠢く。",
@@ -9654,13 +9655,13 @@
       "condition": "生肉に到達する"
     },
     "calico_forest_statues": {
-      "name": "三毛猫像の呼び声",
-      "description": "I say アオーン！ You say にゃーん！",
-      "condition": "三毛猫の森でおおかみとチェーンソーの２つのエフェクトを装備し、猫型構造物のリアクションを見る",
       "checkbox": {
         "calico_forest_statues_wolf": "おおかみ",
         "calico_forest_statues_chainsaw": "チェーンソー"
-      }
+      },
+      "name": "三毛猫像の呼び声",
+      "description": "I say アオーン！ You say にゃーん！",
+      "condition": "三毛猫の森でおおかみとチェーンソーの２つのエフェクトを装備し、猫型構造物のリアクションを見る"
     },
     "kitsune_residence_girl": {
       "name": "ドールみたいな女の子",
@@ -9747,62 +9748,89 @@
       "condition": "赤銅月下:外観に到達する"
     },
     "cloud_mirror": {
-      "name": "Birch Lakes",
-      "description": "The wind spreads the colors throughout.",
-      "condition": "Visit Cloud Mirror"
+      "name": "白樺の湖",
+      "description": "風が色彩をあたり一面へと広げていく。",
+      "condition": "白樺の湖鏡に到達する"
     },
     "golden_casino": {
-      "name": "Million Dollar Dreamers",
-      "description": "Place your bets, dreamers.",
-      "condition": "Visit the Golden Casino in Playing Card Dungeon"
+      "name": "100万ドルのドリーマー",
+      "description": "さあ、夢見人たちよ、賭けの時間です。",
+      "condition": "カジノに到達する"
     },
     "lamplit_complex": {
-      "name": "Guiding Lights",
-      "condition": "Visit the main area of Lamplit Complex"
+      "name": "導きの光",
+      "condition": "燈灯館:燈灯の道に到達する"
     },
     "lantern_cat_mask": {
-      "name": "I'm a kitty Cat!",
-      "condition": "Interact with the Cat costume with the lantern effect equiped in Dressing Room"
+      "name": "子猫ですニャン！",
+      "condition": "ぜんまい衣装店でカンテラを装備してにゃんこスーツを着る"
     },
     "late_summer_bat": {
-      "name": "Short break",
-      "description": "So, how about playing a board game with me?",
-      "condition": "Visit the red bat person at Late Summer"
+      "name": "小休憩",
+      "description": "ねえ、私と一緒にボードゲームでもしない？ ",
+      "condition": "残暑:和室に到達する"
     },
     "visit_arctic": {
-      "name": "Snow Grave",
-      "description": "An everlasting snow, like an impossible spell...",
-      "condition": "Visit Arctic"
+      "name": "雪の墓標",
+      "description": "まるで叶わないおまじないのような、永遠に続く雪……",
+      "condition": "嵐の極地に到達する"
     },
     "tessellation_terrace_piano": {
-      "name": "Op. 18: II. Adagio Sostenuto",
-      "description": "An invitation from the Rose Church to a requiem for a simulacrum.",
-      "condition": "Play the piano in Tessellation Terrace subarea"
+      "name": "Op. 18: II. アダージョ・ソステヌート",
+      "description": "薔薇の教会から贈られた、模造品のための鎮魂曲への招待。",
+      "condition": "テセレーション:ピアノエリアにあるグランドピアノを弾く"
     },
     "tessellation_terrace_sky": {
-      "name": "Tessera Continuum",
-      "description": "It will all return to dust, and only memories will remain...",
-      "condition": "View the sky area in Tessellation Terrace subarea"
+      "name": "建物の連続体",
+      "description": "すべては塵へと還り、記憶だけが残る……",
+      "condition": "テセレーション:幻視の雲間に到達する"
     },
     "critter_village_coffee_cafe": {
-      "name": "Coffee, Coming Right Up!",
-      "description": "Have some of the finest coffee the dream world has to offer!",
-      "condition": "Drink coffee at the Critter Village cafe"
+      "name": "コーヒー、お待たせしました！",
+      "description": "夢の世界が誇る、とびきりのコーヒーをどうぞ！",
+      "condition": "六角タイル世界:カフェでドリンクを飲む"
     },
     "menu_type_106": {
-      "name": "Warm-toned paintings",
-      "description": "*orange you glad you took this long journey?*",
-      "condition": "Obtain the menu type 106. If you have already unlocked it, return where it can be found in Painted Landscape."
+      "name": "暖色系の絵画",
+      "description": "*こんなに長い旅をしてきたかいはあったかい？*",
+      "condition": "メニュータイプ106を取得する。すでに入手している場合は、見つけた場所に行く"
     },
     "atlantis_reef_face_smile": {
-      "name": "Don'tLookAway",
-      "description": "ILoveWhenTheyStare,KeepWatching",
-      "condition": "Make the face in the Atlantis reef smile"
+      "name": "ﾒｦｿﾗｻﾅｲﾃﾞ",
+      "description": "ﾐﾂﾒﾗﾚﾙﾉｶﾞｽｷ、ｽﾞｯﾄﾐﾃｲﾃ",
+      "condition": "沖:沖合いエリアで、顔のオブジェにめだまばくだんのエフェクトを使用する"
     },
     "mint_town_weird_tree": {
-      "name": "Cure Mint",
-      "description": "The green earth of tranquility is my strength, you should try it sometime. ♡",
-      "condition": "See the weird tree in Mint Town"
+      "name": "キュアミント",
+      "description": "安らぎの緑の大地こそが私の力！あなたもいつか試してみるといいわ♡",
+      "condition": "Mint Town:メインエリアで奇妙な形の木を見る"
+    },
+    "hyoukaku_woodwind_isles": {
+      "name": "Ice Lady",
+      "condition": "See Hyoukaku in Woodwind Isles"
+    },
+    "rainy_town_visit": {
+      "name": "Unfading Flame",
+      "description": "Light the flame, so it may shine through the rain.",
+      "condition": "Visit Rainy Town"
+    },
+    "buy_himawaris_hat": {
+      "name": "This is for You",
+      "description": "You look so cute!",
+      "condition": "Purchase and wear Ms. Himawari's Hat from her shop at the Garden Festival"
+    },
+    "effect_the_rainbow_axis": {
+      "name": "Hue Shift",
+      "description": "Feel the rainbow!",
+      "condition": "See all the reactions to different effects in Rainbow Axis"
+    },
+    "pro_2kki_gamer_surreal": {
+      "name": "A True Gamer",
+      "condition": "Visit the Gamer's Room in Surreal Ruins World"
+    },
+    "flooded_baths_blue_thing": {
+      "name": "Blood Bath",
+      "condition": "See the large blue creature open its eye in Flooded Baths"
     }
   },
   "flow": {
@@ -11318,9 +11346,9 @@
       "condition": "Holy Seaに到達する"
     },
     "ninas_outpost": {
-      "name": "破棄された基礎",
-      "description": "彼女は何を研究しているのだろう？",
-      "condition": "Nina's Outpostに到達する"
+      "name": "Abandoned Facility",
+      "description": "Can this place be used for researching?",
+      "condition": "Visit Nina's Outpost"
     },
     "pure_creativity": {
       "name": "キャンバスの上で、わたしを創る",
@@ -12867,6 +12895,11 @@
       "name": "見事な出来だな",
       "description": "この傑作を目にできるなんて、なんて幸運なんだ！",
       "condition": "氷像のエフェクトを使って緑髪の少女とそっくりの姿で彼女に話しかける"
+    },
+    "stormy_tower_npc": {
+      "name": "85cm radius is the distance that I can reach",
+      "description": "Someday, when I get worn out from spinning, please be by my side.",
+      "condition": "Interact with the NPC in Stormy Towers"
     }
   },
   "tsushin": {
@@ -14363,6 +14396,11 @@
       "name": "早春に芽吹くつぼみ",
       "description": "この若々しい植物が、健やかに逞しく育ちますように……",
       "condition": "ふきのとうのエフェクトを入手する、すでに入手している場合は庭の見つけた場所に行く。"
+    },
+    "okuri_snow_effect": {
+      "name": "Snowball",
+      "description": "Just a fluffy cute little snowball",
+      "condition": "Obtain the Snow effect. If already obtained, return to where you have done so."
     }
   },
   "scarynikki": {

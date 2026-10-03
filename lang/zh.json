@@ -5825,7 +5825,8 @@
       "condition": "在Pansy Path：Patchwork Playroom中二人组的身边使用妖精或宇航服效果"
     },
     "water_edge_check_park": {
-      "name": "水下房间",
+      "name": "Indigo Edge",
+      "description": "A luminous threshold... of light.",
       "condition": "抵达Water's Edge：Blue Checkered Park"
     },
     "faceless_endless_apartments": {
@@ -8525,8 +8526,8 @@
       "condition": "抵达Beyond"
     },
     "visit_calico_forest": {
-      "name": "喵喵森林",
-      "description": "家就是有猫的地方。",
+      "name": "Purradise",
+      "description": "Meow? Meow.",
       "condition": "抵达Calico Forest"
     },
     "visit_dazzling_garden": {
@@ -8565,8 +8566,8 @@
       "condition": "被Fliperama Hall地下室的保安关进秘密房间。"
     },
     "hemlock_lab_girl": {
-      "name": "研究记录-00000",
-      "description": "65 98 115 111 108 117 116 101 108 121 32 100 111 32 110 111 116 32 108 101 116 32 116 104 97 116 32 100 97 116 97 32 98 101 32 108 101 97 107 101 100 32 116 111 32 116 104 101 32 111 117 116 115 105 100 101 46",
+      "name": "Lonely Experiment",
+      "description": "Do not allow unauthorized personnel to enter the ██████████ ████. DO NOT allow anyone to see ███ ████. You must remember that ███ ██ ███ ██████ ██████████. Failure to comply will result in ██████ ██████████. ",
       "condition": "找到Hemlock Lab的女孩"
     },
     "jazz_station_peace": {
@@ -9587,9 +9588,9 @@
       "condition": "在Sunlit Winter Woods被修女追逐者抓住"
     },
     "tt_waters_edge": {
-      "name": "Indigo Edge",
-      "description": "A luminous threshold... of light.",
-      "condition": "Reach the final room in Water's Edge in {TIME} or less in Time Trial Mode"
+      "name": "Gateway Edge",
+      "description": "A penumbral threshold... of darkness.",
+      "condition": "Reach the final room in Water's Edge in 9 minutes or less"
     },
     "visit_amorphous_maroon_space": {
       "name": "红色与扭动",
@@ -9646,13 +9647,13 @@
       "condition": "抵达Guts World"
     },
     "calico_forest_statues": {
-      "name": "三毛雕像的呼唤",
-      "description": "我说嗷呜！你说喵！",
-      "condition": "看到猫雕像对狼和电锯效果的反应",
       "checkbox": {
         "calico_forest_statues_wolf": "Wolf",
         "calico_forest_statues_chainsaw": "Chainsaw"
-      }
+      },
+      "name": "三毛雕像的呼唤",
+      "description": "我说嗷呜！你说喵！",
+      "condition": "看到猫雕像对狼和电锯效果的反应"
     },
     "kitsune_residence_girl": {
       "name": "人偶般的少女",
@@ -9795,6 +9796,33 @@
       "name": "治愈薄荷",
       "description": "我的力量源自于平静翠绿的大地，你有机会也可以试试。♡",
       "condition": "看到Mint Town的奇怪树木"
+    },
+    "hyoukaku_woodwind_isles": {
+      "name": "Ice Lady",
+      "condition": "See Hyoukaku in Woodwind Isles"
+    },
+    "rainy_town_visit": {
+      "name": "Unfading Flame",
+      "description": "Light the flame, so it may shine through the rain.",
+      "condition": "Visit Rainy Town"
+    },
+    "buy_himawaris_hat": {
+      "name": "This is for You",
+      "description": "You look so cute!",
+      "condition": "Purchase and wear Ms. Himawari's Hat from her shop at the Garden Festival"
+    },
+    "effect_the_rainbow_axis": {
+      "name": "Hue Shift",
+      "description": "Feel the rainbow!",
+      "condition": "See all the reactions to different effects in Rainbow Axis"
+    },
+    "pro_2kki_gamer_surreal": {
+      "name": "A True Gamer",
+      "condition": "Visit the Gamer's Room in Surreal Ruins World"
+    },
+    "flooded_baths_blue_thing": {
+      "name": "Blood Bath",
+      "condition": "See the large blue creature open its eye in Flooded Baths"
     }
   },
   "flow": {
@@ -11310,9 +11338,9 @@
       "condition": "抵达Holy Sea"
     },
     "ninas_outpost": {
-      "name": "废弃的准备工作",
-      "description": "她在研究什么？",
-      "condition": "抵达Nina's Outpost"
+      "name": "Abandoned Facility",
+      "description": "Can this place be used for researching?",
+      "condition": "Visit Nina's Outpost"
     },
     "pure_creativity": {
       "name": "在画布上创造自我",
@@ -12855,6 +12883,11 @@
       "name": "真正的艺术",
       "description": "见证这杰作真是三生有“幸”！",
       "condition": "使用Ice Sculpture效果与Lucky相似的形态和她互动"
+    },
+    "stormy_tower_npc": {
+      "name": "85cm radius is the distance that I can reach",
+      "description": "Someday, when I get worn out from spinning, please be by my side.",
+      "condition": "Interact with the NPC in Stormy Towers"
     }
   },
   "tsushin": {
@@ -14351,6 +14384,11 @@
       "name": "早春蓓蕾",
       "description": "我希望这株幼苗能长得健壮……",
       "condition": "获得效果Fuki Shoot。若已获得，请返回Garden获得该效果处。"
+    },
+    "okuri_snow_effect": {
+      "name": "Snowball",
+      "description": "Just a fluffy cute little snowball",
+      "condition": "Obtain the Snow effect. If already obtained, return to where you have done so."
     }
   },
   "scarynikki": {
