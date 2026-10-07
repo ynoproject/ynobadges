@@ -9842,7 +9842,13 @@
     "ch_reflections": {
       "name": "Urotuki in the Water Mirror",
       "description": "The reflection of \"me\" on the water's surface",
-      "condition": "\"Visit the following locations where you can see Urotsukis reflection in water. \nWater Lantern World, Shattered Lake, The tree subarea in Blood Cell Sea and the glowing part of Gemstone Cave\""
+      "condition": "\"Visit the following locations where you can see Urotsuki's reflection in water: Water Lantern World, Shattered Lake, the tree subarea in Blood Cell Sea, and the glowing part of Gemstone Cave\"",
+      "checkbox": {
+        "glowing_gemstone_cave": "Gemstone Cave",
+        "visit_blood_cell_sea": "Blood Cell Sea",
+        "visit_shattered_lake": "Shattered Lake",
+        "water_lantern_world": "Water Lantern World"
+      }
     },
     "apple_prison_jail": {
       "name": "You’re the Apple of my Eye",
