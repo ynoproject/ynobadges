@@ -9598,7 +9598,7 @@
     "tt_waters_edge": {
       "name": "Gateway Edge",
       "description": "A penumbral threshold... of darkness.",
-      "condition": "Reach the final room in Water's Edge in 9 minutes or less"
+      "condition": "Reach the final room in Water's Edge in {TIME} or less in Time Trial Mode"
     },
     "visit_amorphous_maroon_space": {
       "name": "赤く、蠢く。",
@@ -9655,13 +9655,13 @@
       "condition": "生肉に到達する"
     },
     "calico_forest_statues": {
+      "name": "三毛猫像の呼び声",
+      "description": "I say アオーン！ You say にゃーん！",
+      "condition": "三毛猫の森でおおかみとチェーンソーの２つのエフェクトを装備し、猫型構造物のリアクションを見る",
       "checkbox": {
         "calico_forest_statues_wolf": "おおかみ",
         "calico_forest_statues_chainsaw": "チェーンソー"
-      },
-      "name": "三毛猫像の呼び声",
-      "description": "I say アオーン！ You say にゃーん！",
-      "condition": "三毛猫の森でおおかみとチェーンソーの２つのエフェクトを装備し、猫型構造物のリアクションを見る"
+      }
     },
     "kitsune_residence_girl": {
       "name": "ドールみたいな女の子",

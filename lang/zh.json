@@ -9590,7 +9590,7 @@
     "tt_waters_edge": {
       "name": "Gateway Edge",
       "description": "A penumbral threshold... of darkness.",
-      "condition": "Reach the final room in Water's Edge in 9 minutes or less"
+      "condition": "Reach the final room in Water's Edge in {TIME} or less in Time Trial Mode"
     },
     "visit_amorphous_maroon_space": {
       "name": "红色与扭动",
@@ -9647,13 +9647,13 @@
       "condition": "抵达Guts World"
     },
     "calico_forest_statues": {
+      "name": "三毛雕像的呼唤",
+      "description": "我说嗷呜！你说喵！",
+      "condition": "看到猫雕像对狼和电锯效果的反应",
       "checkbox": {
         "calico_forest_statues_wolf": "Wolf",
         "calico_forest_statues_chainsaw": "Chainsaw"
-      },
-      "name": "三毛雕像的呼唤",
-      "description": "我说嗷呜！你说喵！",
-      "condition": "看到猫雕像对狼和电锯效果的反应"
+      }
     },
     "kitsune_residence_girl": {
       "name": "人偶般的少女",

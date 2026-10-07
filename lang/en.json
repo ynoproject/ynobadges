@@ -9583,7 +9583,7 @@
     "tt_waters_edge": {
       "name": "Gateway Edge",
       "description": "A penumbral threshold... of darkness.",
-      "condition": "Reach the final room in Water's Edge in 9 minutes or less"
+      "condition": "Reach the final room in Water's Edge in {TIME} or less in Time Trial Mode"
     },
     "visit_amorphous_maroon_space": {
       "name": "Red and Writhing",
@@ -9640,13 +9640,13 @@
       "condition": "Visit Guts World"
     },
     "calico_forest_statues": {
+      "name": "Calico Statues Call",
+      "description": "I say AWOO! You say NYAA!",
+      "condition": "View the Cat Statues' reactions to the Wolf and Chainsaw Effects",
       "checkbox": {
         "calico_forest_statues_wolf": "Wolf",
         "calico_forest_statues_chainsaw": "Chainsaw"
-      },
-      "name": "Calico Statues Call",
-      "description": "I say AWOO! You say NYAA!",
-      "condition": "View the Cat Statues' reactions to the Wolf and Chainsaw Effects"
+      }
     },
     "kitsune_residence_girl": {
       "name": "A doll-like girl",
