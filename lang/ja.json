@@ -5829,7 +5829,7 @@
     "water_edge_check_park": {
       "name": "Indigo Edge",
       "description": "A luminous threshold... of light.",
-      "condition": "Reach the Blue Checkered Park in Water's Edge"
+      "condition": "鎮底の渚:瀞櫃に到達する"
     },
     "faceless_endless_apartments": {
       "name": "内なる動揺",
@@ -8530,7 +8530,7 @@
     "visit_calico_forest": {
       "name": "Purradise",
       "description": "Meow? Meow.",
-      "condition": "Visit Calico Forest"
+      "condition": "三毛猫の森に到達する"
     },
     "visit_dazzling_garden": {
       "name": "きらめきまみれの石",
@@ -8570,7 +8570,7 @@
     "hemlock_lab_girl": {
       "name": "Lonely Experiment",
       "description": "Do not allow unauthorized personnel to enter the ██████████ ████. DO NOT allow anyone to see ███ ████. You must remember that ███ ██ ███ ██████ ██████████. Failure to comply will result in ██████ ██████████. ",
-      "condition": "Find the girl in the Hemlock Lab"
+      "condition": "パルマコン:秘密の部屋で眠る少女を見つける"
     },
     "jazz_station_peace": {
       "name": "残骸の中の安らぎ",
@@ -9598,7 +9598,7 @@
     "tt_waters_edge": {
       "name": "Gateway Edge",
       "description": "A penumbral threshold... of darkness.",
-      "condition": "Reach the final room in Water's Edge in 9 minutes or less"
+      "condition": "Reach the final room in Water's Edge in {TIME} or less in Time Trial Mode"
     },
     "visit_amorphous_maroon_space": {
       "name": "赤く、蠢く。",
@@ -9655,13 +9655,13 @@
       "condition": "生肉に到達する"
     },
     "calico_forest_statues": {
+      "name": "三毛猫像の呼び声",
+      "description": "I say アオーン！ You say にゃーん！",
+      "condition": "三毛猫の森でおおかみとチェーンソーの２つのエフェクトを装備し、猫型構造物のリアクションを見る",
       "checkbox": {
         "calico_forest_statues_wolf": "おおかみ",
         "calico_forest_statues_chainsaw": "チェーンソー"
-      },
-      "name": "三毛猫像の呼び声",
-      "description": "I say アオーン！ You say にゃーん！",
-      "condition": "三毛猫の森でおおかみとチェーンソーの２つのエフェクトを装備し、猫型構造物のリアクションを見る"
+      }
     },
     "kitsune_residence_girl": {
       "name": "ドールみたいな女の子",
@@ -9831,6 +9831,42 @@
     "flooded_baths_blue_thing": {
       "name": "Blood Bath",
       "condition": "See the large blue creature open its eye in Flooded Baths"
+    },
+    "visit_new_japan_town": {
+      "name": "Dream-Runner 2099",
+      "description": "Streetkid, Corpo-Rat, Nomad, Dreamer- Everyone's got something to find here in the City of Tomorrow.",
+      "condition": "Visit New Japan Town"
+    },
+    "2kki_beret_twins": {
+      "name": "The Twins of the Dark & Snow",
+      "description": "Despite the Snowfall, we will still be together in our hearts",
+      "condition": "Interact with both of the Beret Twins "
+    },
+    "aerogel_airport_cliff": {
+      "name": "Sorrowful Winter",
+      "description": "A lonely cliff beneath an endless winter sky",
+      "condition": "Visit the cliff subarea in Aerogel Airport"
+    },
+    "ninetails_reactions": {
+      "name": "Nine Tails of Silver",
+      "description": "Amidst a lake of crimson lilies, only the white fox shone.",
+      "condition": "Interact with Ninetails with the Fairy and Child effect in Red Lily Lake"
+    },
+    "ch_reflections": {
+      "name": "Urotuki in the Water Mirror",
+      "description": "The reflection of \"me\" on the water's surface",
+      "condition": "\"Visit the following locations where you can see Urotsuki's reflection in water: Water Lantern World, Shattered Lake, the tree subarea in Blood Cell Sea, and the glowing part of Gemstone Cave\"",
+      "checkbox": {
+        "glowing_gemstone_cave_b": "Gemstone Cave",
+        "tree_of_life_a": "Blood Cell Sea",
+        "visit_shattered_lake": "Shattered Lake",
+        "water_lantern_world": "Water Lantern World"
+      }
+    },
+    "apple_prison_jail": {
+      "name": "You’re the Apple of my Eye",
+      "description": "And I’ll never let you go…",
+      "condition": "Visit the Apple Prison and get inside the jail cell"
     }
   },
   "flow": {
@@ -11072,6 +11108,11 @@
       "name": "神の温もり",
       "description": "私と共に祈りませんか？",
       "condition": "Ice ChapelでPrayerイベントを見る"
+    },
+    "ud_starlit_road_behind": {
+      "name": "The Star Beyond the Ruins",
+      "description": "Even where no one remained, the stars had not gone dark.",
+      "condition": "Visit the area behind the Geschäft in Starlit Road"
     }
   },
   "braingirl": {
@@ -11195,6 +11236,11 @@
       "name": "真夜中に現れる不審者",
       "description": "何あれ",
       "condition": "Mikan's Bedroomで夜の間にMidnight Yellowmanを見る"
+    },
+    "bg_tanuki_towel": {
+      "name": "Fluffy Towel, Cozy Onsen~",
+      "description": "Towel? Check. Swimsuit? Check. Cozy bath time? Absolutely!",
+      "condition": "Wear a towel on your head at the Tanuki Woods Hot Springs"
     }
   },
   "amillusion": {
@@ -11346,9 +11392,9 @@
       "condition": "Holy Seaに到達する"
     },
     "ninas_outpost": {
-      "name": "Abandoned Facility",
-      "description": "Can this place be used for researching?",
-      "condition": "Visit Nina's Outpost"
+      "name": "廃施設",
+      "description": "こんな場所で研究できるのか？",
+      "condition": "Nina's Outpostに到達する"
     },
     "pure_creativity": {
       "name": "キャンバスの上で、わたしを創る",
@@ -12897,9 +12943,9 @@
       "condition": "氷像のエフェクトを使って緑髪の少女とそっくりの姿で彼女に話しかける"
     },
     "stormy_tower_npc": {
-      "name": "85cm radius is the distance that I can reach",
-      "description": "Someday, when I get worn out from spinning, please be by my side.",
-      "condition": "Interact with the NPC in Stormy Towers"
+      "name": "半径85センチがこの手の届く距離",
+      "description": "いつの日か回り疲れた時は側にいてください",
+      "condition": "嵐の塔で回転する青い女性に話しかける"
     }
   },
   "tsushin": {
@@ -14398,9 +14444,9 @@
       "condition": "ふきのとうのエフェクトを入手する、すでに入手している場合は庭の見つけた場所に行く。"
     },
     "okuri_snow_effect": {
-      "name": "Snowball",
-      "description": "Just a fluffy cute little snowball",
-      "condition": "Obtain the Snow effect. If already obtained, return to where you have done so."
+      "name": "「ゆき」のかたまり",
+      "description": "ただただふわふわのかわいいちっちゃなゆきだま",
+      "condition": "ゆきのエフェクトを入手する、すでに入手している場合は入手した場所にもう一度行く。"
     }
   },
   "scarynikki": {

@@ -9647,13 +9647,13 @@
       "condition": "抵达Guts World"
     },
     "calico_forest_statues": {
+      "name": "三毛雕像的呼唤",
+      "description": "我说嗷呜！你说喵！",
+      "condition": "看到猫雕像对狼和电锯效果的反应",
       "checkbox": {
         "calico_forest_statues_wolf": "Wolf",
         "calico_forest_statues_chainsaw": "Chainsaw"
-      },
-      "name": "三毛雕像的呼唤",
-      "description": "我说嗷呜！你说喵！",
-      "condition": "看到猫雕像对狼和电锯效果的反应"
+      }
     },
     "kitsune_residence_girl": {
       "name": "人偶般的少女",
@@ -9823,6 +9823,42 @@
     "flooded_baths_blue_thing": {
       "name": "浸血浴",
       "condition": "在Flooded Baths看到巨大蓝色生物睁眼"
+    },
+    "visit_new_japan_town": {
+      "name": "Dream-Runner 2099",
+      "description": "Streetkid, Corpo-Rat, Nomad, Dreamer- Everyone's got something to find here in the City of Tomorrow.",
+      "condition": "Visit New Japan Town"
+    },
+    "2kki_beret_twins": {
+      "name": "The Twins of the Dark & Snow",
+      "description": "Despite the Snowfall, we will still be together in our hearts",
+      "condition": "Interact with both of the Beret Twins "
+    },
+    "aerogel_airport_cliff": {
+      "name": "Sorrowful Winter",
+      "description": "A lonely cliff beneath an endless winter sky",
+      "condition": "Visit the cliff subarea in Aerogel Airport"
+    },
+    "ninetails_reactions": {
+      "name": "Nine Tails of Silver",
+      "description": "Amidst a lake of crimson lilies, only the white fox shone.",
+      "condition": "Interact with Ninetails with the Fairy and Child effect in Red Lily Lake"
+    },
+    "ch_reflections": {
+      "name": "Urotuki in the Water Mirror",
+      "description": "The reflection of \"me\" on the water's surface",
+      "condition": "\"Visit the following locations where you can see Urotsuki's reflection in water: Water Lantern World, Shattered Lake, the tree subarea in Blood Cell Sea, and the glowing part of Gemstone Cave\"",
+      "checkbox": {
+        "glowing_gemstone_cave_b": "Gemstone Cave",
+        "tree_of_life_a": "Blood Cell Sea",
+        "visit_shattered_lake": "Shattered Lake",
+        "water_lantern_world": "Water Lantern World"
+      }
+    },
+    "apple_prison_jail": {
+      "name": "You’re the Apple of my Eye",
+      "description": "And I’ll never let you go…",
+      "condition": "Visit the Apple Prison and get inside the jail cell"
     }
   },
   "flow": {
@@ -11064,6 +11100,11 @@
       "name": "神的温暖",
       "description": "不和我一起祈祷吗？",
       "condition": "在Ice Chapel见证Prayer事件"
+    },
+    "ud_starlit_road_behind": {
+      "name": "The Star Beyond the Ruins",
+      "description": "Even where no one remained, the stars had not gone dark.",
+      "condition": "Visit the area behind the Geschäft in Starlit Road"
     }
   },
   "braingirl": {
@@ -11187,6 +11228,11 @@
       "name": "午夜出现的怪人",
       "description": "那是啥",
       "condition": "在午夜，在Mikan's Bedroom中见到Midnight Yellowman。"
+    },
+    "bg_tanuki_towel": {
+      "name": "Fluffy Towel, Cozy Onsen~",
+      "description": "Towel? Check. Swimsuit? Check. Cozy bath time? Absolutely!",
+      "condition": "Wear a towel on your head at the Tanuki Woods Hot Springs"
     }
   },
   "amillusion": {
