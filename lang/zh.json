@@ -9889,6 +9889,42 @@
       "name": "漫步酿酒厂",
       "description": "越老越香醇。",
       "condition": "抵达Wine Cellar"
+    },
+    "ch_visit_lake_worlds": {
+      "name": "Golden Reed and Little Droplet",
+      "description": "I'm half crazy, all for the lakes of you.",
+      "condition": "Visit the following lake worlds: Aurora Lake, Crystal Lake, Dark Pagoda Lake, Firefly Lake, Fossil Lake, Lake of Bones, Luminous Lake, Red Lily Lake, Rotten Fish Lake, Shattered Lake, Shell Lake, Sprite Lake, Underground Lake, & Weeping Lake",
+      "checkbox": {
+        "aurora_lake": "Aurora Lake",
+        "crystal_lake_2kki": "Crystal Lake",
+        "dark_pagoda_lake": "Dark Pagoda Lake",
+        "firefly_lake": "Firefly Lake",
+        "fossil_lake": "Fossil Lake",
+        "lake_of_bones": "Lake of Bones",
+        "luminous_lake": "Luminous Lake",
+        "red_lily_lake": "Red Lily Lake",
+        "rotten_fish_lake": "Rotten Fish Lake",
+        "shell_lake": "Shell Lake",
+        "underground_lake": "Underground Lake",
+        "visit_shattered_lake": "Shattered Lake",
+        "visit_sprite_lake": "Sprite Lake",
+        "weeping_lake": "Weeping Lake"
+      }
+    },
+    "dice_effect": {
+      "name": "Dice To Meet You",
+      "description": "I’ll roll and i’ll roll, till I change my luck..",
+      "condition": "Obtain the dice effect. If you have already unlocked it, return to Acerola World"
+    },
+    "snowy_forest": {
+      "name": "Rough Winter",
+      "description": "Why is the winter so rough here..",
+      "condition": "Visit the main area of Snowy Forest"
+    },
+    "visit_candy_land": {
+      "name": "The Great Gingerbread Adventure",
+      "description": "Sugary dreams and licorice schemes",
+      "condition": "Visit Candyland"
     }
   },
   "flow": {
@@ -11135,6 +11171,11 @@
       "name": "遗迹背后的星空",
       "description": "即使在众人都已逝去之地，群星的光辉仍未褪色。",
       "condition": "抵达Starlit Road中Geschäft背后的区域"
+    },
+    "weird_haus": {
+      "name": "Weird House",
+      "description": "Once upon a time, lived a little Totsu in a very weird, little house.",
+      "condition": "Visit the Weirdhaus in Berdplace"
     }
   },
   "braingirl": {
@@ -13687,6 +13728,10 @@
       "name": "CMYKRGB",
       "description": "你这个样子搞得我眼睛很痛。",
       "condition": "获得效果Primary Colors。若已解锁，请返回Monochrome City获得该效果处。"
+    },
+    "see_angel_monochrome": {
+      "name": "Shadow Angel",
+      "condition": "See the Angel event in Monochrome Islands"
     }
   },
   "oneshot": {
@@ -14367,6 +14412,11 @@
       "name": "无星之海上的波浪",
       "description": "在波动着的黑暗猜疑之海外，有一座从未熄灭的灯塔。",
       "condition": "抵达Noir的海滨区域"
+    },
+    "fish_bar_bioluminiscent": {
+      "name": "Drowning in my feelings",
+      "description": "You are the only fish in the sea for me",
+      "condition": "Visit the fish room in Bioluminiscent Ocean"
     }
   },
   "okuri": {
@@ -14539,6 +14589,11 @@
       "name": "永远苍蓝的天空",
       "description": "自从我看到了你……",
       "condition": "打败Moon Boss并见证Space Funeral的结局。"
+    },
+    "become_fish": {
+      "name": "Phish",
+      "description": "And now, time for your SUITABLY IRONIC PUNISHMENT!",
+      "condition": "Get turned into a fish by the Genie in Space Funeral"
     }
   }
 }
