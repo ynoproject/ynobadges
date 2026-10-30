@@ -9925,6 +9925,43 @@
       "name": "The Great Gingerbread Adventure",
       "description": "Sugary dreams and licorice schemes",
       "condition": "Visit Candyland"
+    },
+    "candlestick_world": {
+      "name": "A lone candlestick in a dark, dark world...",
+      "condition": "Visit Candlestick World"
+    },
+    "ch_theatre_worlds": {
+      "name": "Dramaturgique",
+      "description": "Will you play my play ?",
+      "condition": "Visit the following theatre related worlds: Theatre World, Drains Theatre: The Cinema, Story Theatre, The Theatre in Dark Room, Snow White Field: Puppet's Theatre, The Amphitheater in Chainlink lees and The Theatre in Planetarium",
+      "checkbox": {
+        "amphitheater_chainlinklees": "The Amphitheater in Chainlink lees",
+        "dark_room_theatre": "The Theatre in Dark Room",
+        "drains_theatre_cinema": "Drains Theatre: The Cinema",
+        "planetarium_theatre": "The Theatre in Planetarium",
+        "puppet_theatre_swf": "Snow White Field: Puppet's Theatre",
+        "story_theatre": "Story Theatre",
+        "visit_theatre_world": "Theatre World"
+      }
+    },
+    "escape_flesh_dungeon": {
+      "name": "Tender is the Flesh, Sharp is the Fear",
+      "description": "Samsara of cut sinew and crushed bone.",
+      "condition": "Escape the Flesh Dungeon before time runs out"
+    },
+    "jukebox_bug_maze": {
+      "name": "Great Obelisk of Tunes",
+      "description": "This rock knows how to rock!",
+      "condition": "Interact with the Jukebox Stone in Bug Maze"
+    },
+    "monochrome_ranch": {
+      "name": "Cock-a-mow-mow",
+      "condition": "Visit Monochrome Ranch"
+    },
+    "visit_escher_path": {
+      "name": "Intergalactic Jell-O Cubes!",
+      "description": "Now in a whole rainbow of flavors!",
+      "condition": "Visit Escher Path"
     }
   },
   "flow": {
@@ -11558,6 +11595,10 @@
       "name": "苍炎之刃",
       "description": "他的刀刃上燃烧着无法被任何黑暗熄灭的火焰。",
       "condition": "完成Givregel Village的追逐事件"
+    },
+    "golden_shamrock_key": {
+      "name": "Gold Danette Trophy",
+      "condition": "Transform into Golden Danaë using the Shamrock key"
     }
   },
   "muma": {
@@ -12091,6 +12132,11 @@
       "name": "连接之线",
       "description": "无论我们离得多远，我们都能经常见到对方。",
       "condition": "在梦鬼的Floating Cube RPG孤立区域中见到阴明和:|"
+    },
+    "fairy_delusion": {
+      "name": "Faerie’s Slumber",
+      "description": "Through violet tides, prying eyes see the shine of silver hair, floating in the breeze, lest blonde you’d be",
+      "condition": "Equip the Fairy delusion where it can be obtained in Star of Wise Sea B"
     }
   },
   "mikan": {
