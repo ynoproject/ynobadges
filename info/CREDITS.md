@@ -45,6 +45,7 @@
 * Antarlik
 * ApeMan
 * Aring
+* AriTheMoth
 * arksynapse
 * aronek
 * Arumita
@@ -281,6 +282,7 @@
 * ribon996
 * Riqo
 * Risena
+* Rita
 * rooliette
 * Rooy
 * rosaregard
@@ -335,6 +337,7 @@
 * systemaciel
 * taechan
 * taintedeve
+* takikomi
 * Takofuusen
 * talyis
 * Tamarindo

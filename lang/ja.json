@@ -546,7 +546,8 @@
       "condition": "こびとのエフェクトを入手する、すでに入手している場合は蝋燭の世界にもう一度行く。"
     },
     "severed_head_effect": {
-      "name": "斬首",
+      "name": "Beheaded",
+      "description": "Can you please find my body...?",
       "condition": "なまくびのエフェクトを入手する、すでに入手している場合はギロチン部屋かギロチン大部屋にもう一度行く。"
     },
     "spaceship_crash_event": {
@@ -4061,8 +4062,8 @@
       "condition": "Time Trial Modeで{TIME}以内に黒薔薇に到達する"
     },
     "frozen_glade": {
-      "name": "さむいさむいカワベ",
-      "description": "今の今まで川の水が飲みたくなることなんてなかったのに...",
+      "name": "Travesty",
+      "description": "An abundance of snowflakes.",
       "condition": "冬の川辺に到達する"
     },
     "vm_kitsune_residence": {
@@ -5623,8 +5624,7 @@
       "condition": "電子塔:ナルでイベントを見る"
     },
     "bear_n_bot_flooded_baths": {
-      "name": "クマandロボ",
-      "description": "浸水浴で人気のドリンク販売員たち！",
+      "name": "A Drink For Every Nyan!!",
       "condition": "浸水浴:陸上エリアにいる白熊店員と赤い店員のいずれかに話しかける"
     },
     "moth_girl_moth_world": {
@@ -7666,8 +7666,8 @@
       "condition": "鏡湖で病人に会う"
     },
     "2kki_bluescreen": {
-      "name": "GPUの故障",
-      "description": "ああ…… :(",
+      "name": "I Just Fixed You!",
+      "description": "I spent 900 Uro's getting this fixed! What a scam! :(",
       "condition": "error404に到達する"
     },
     "system_sounds_5": {
@@ -9271,9 +9271,9 @@
       "condition": "現場道路:紫巨人の通路で紫巨人にめがねのエフェクトを使用する"
     },
     "2kki_train_tracks_rat": {
-      "name": "Tapir by the Track",
+      "name": "線路脇のバク",
       "description": "Contrary to (un)popular belief, this is not a rat.",
-      "condition": "See the tapir in Train Tracks"
+      "condition": "廃線:線路エリアで見下ろすバクに会う"
     },
     "cat_cemetery_samhain": {
       "name": "お姫様。",
@@ -9833,70 +9833,70 @@
       "condition": "エイリアンのハラワタで謎のアレ(青い目を抱いた存在)の目が開くところを見る"
     },
     "visit_new_japan_town": {
-      "name": "Dream-Runner 2099",
-      "description": "Streetkid, Corpo-Rat, Nomad, Dreamer- Everyone's got something to find here in the City of Tomorrow.",
-      "condition": "Visit New Japan Town"
+      "name": "ドリームランナー 2099",
+      "description": "ストリートキッド、コーポラット、ノーマッド、ドリーマー……未来都市には、誰もが探し求める何かがある。",
+      "condition": "頽廃ネオメトロに到達する"
     },
     "2kki_beret_twins": {
-      "name": "The Twins of the Dark & Snow",
-      "description": "Despite the Snowfall, we will still be together in our hearts",
-      "condition": "Interact with both of the Beret Twins "
+      "name": "闇と雪の双子",
+      "description": "雪が降りしきろうとも、心はずっと一緒。",
+      "condition": "劇場とパイプオルガンで、黒帽子の少女と藍帽子の少女に会う"
     },
     "aerogel_airport_cliff": {
-      "name": "Sorrowful Winter",
-      "description": "A lonely cliff beneath an endless winter sky",
-      "condition": "Visit the cliff subarea in Aerogel Airport"
+      "name": "悲しみの冬",
+      "description": "終わりのない冬空の下に佇む、孤独な崖。",
+      "condition": "夢空港:雪降る高台に到達する"
     },
     "ninetails_reactions": {
-      "name": "Nine Tails of Silver",
-      "description": "Amidst a lake of crimson lilies, only the white fox shone.",
-      "condition": "Interact with Ninetails with the Fairy and Child effect in Red Lily Lake"
+      "name": "九尾の銀狐",
+      "description": "深紅の彼岸花が咲き乱れる湖の中で、白い狐だけが輝いていた。",
+      "condition": "彼岸花で九尾の狐にようせい、こどものエフェクトで話しかける"
     },
     "ch_reflections": {
-      "name": "Urotuki in the Water Mirror",
-      "description": "The reflection of \"me\" on the water's surface",
-      "condition": "\"Visit the following locations where you can see Urotsuki's reflection in water: Water Lantern World, Shattered Lake, the tree subarea in Blood Cell Sea, and the glowing part of Gemstone Cave\"",
+      "name": "水鏡の中のうろつき",
+      "description": "水面に映る「私」の姿。",
+      "condition": "うろつきの姿が水面に映る以下の場所を訪れる:灯篭流し、水月鏡花、srom:生命の樹、宝石洞窟:宝石湖",
       "checkbox": {
-        "glowing_gemstone_cave_b": "Gemstone Cave",
-        "tree_of_life_a": "Blood Cell Sea",
-        "visit_shattered_lake": "Shattered Lake",
-        "water_lantern_world": "Water Lantern World"
+        "glowing_gemstone_cave_b": "宝石洞窟:宝石湖",
+        "tree_of_life_a": "srom:生命の樹",
+        "visit_shattered_lake": "水月鏡花",
+        "water_lantern_world": "灯篭流し"
       }
     },
     "apple_prison_jail": {
-      "name": "You’re the Apple of my Eye",
-      "description": "And I’ll never let you go…",
-      "condition": "Visit the Apple Prison and get inside the jail cell"
+      "name": "あなたは目に入れても痛くないリンゴ",
+      "description": "そして、決して離しはしない……",
+      "condition": "檻ンゴで牢屋の中に入る"
     },
     "aerogel_airport_cockpit": {
-      "name": "Sparkling Night View",
-      "description": "Enjoy the view from a special seat!",
-      "condition": "View the cockpit in Aerogel Airport"
+      "name": "きらきら夜景",
+      "description": "特等席でご覧ください！",
+      "condition": "夢空港:コックピットで操縦席を見上げる"
     },
     "calcarina_sea_variations": {
-      "name": "Calcarina Days",
-      "description": "But don't fret, you get to go to the beach during any time and season! We've got you covered.",
-      "condition": "See all versions of Calcarina Sea."
+      "name": "カルカリナ・デイズ",
+      "description": "ご心配なく。いつでもどの季節でも、海に行けます！こちらにお任せください。",
+      "condition": "カルカリナ海の2種類の景色、スヤスヤ星、オオワタ星に到達する"
     },
     "dojo_space_fireless": {
-      "name": "Urotsuki And The Tale of Space",
-      "description": "It is only with the heart that one can see rightly.",
-      "condition": "Visit the Dojo's space area."
+      "name": "うろつきと宇宙の物語",
+      "description": "ものごとはね、心で見なくてはよく見えない。",
+      "condition": "青竹:短冊に到達する"
     },
     "rice_paddy": {
-      "name": "Walking along the furrows",
-      "description": "Being out in this rain brings back memories of those days.",
-      "condition": "Visit Rice paddy"
+      "name": "畝を征く",
+      "description": "この雨に打たれていると、あの頃を思い出すね。",
+      "condition": "水田に到達する"
     },
     "whirl_world": {
-      "name": "Thoughts Spinning",
-      "description": "A sweet dream of berry sauce and white cream",
-      "condition": "Visit Whirl World"
+      "name": "思考がぐるぐる駆け巡る",
+      "description": "ベリーソースとホワイトクリームの甘い夢",
+      "condition": "旋回の世界に到達する"
     },
     "wine_cellar_visit": {
-      "name": "Walky Winery",
-      "description": "Aged like fine wine.",
-      "condition": "Visit Wine Cellar"
+      "name": "ワイナリーをお散歩",
+      "description": "熟成を重ねた、上質なワインのように",
+      "condition": "ワイナリーに到達する"
     },
     "ch_visit_lake_worlds": {
       "name": "Golden Reed and Little Droplet",
@@ -9933,6 +9933,43 @@
       "name": "The Great Gingerbread Adventure",
       "description": "Sugary dreams and licorice schemes",
       "condition": "Visit Candyland"
+    },
+    "candlestick_world": {
+      "name": "A lone candlestick in a dark, dark world...",
+      "condition": "Visit Candlestick World"
+    },
+    "ch_theatre_worlds": {
+      "name": "Dramaturgique",
+      "description": "Will you play my play ?",
+      "condition": "Visit the following theatre related worlds: Theatre World, Drains Theatre: The Cinema, Story Theatre, The Theatre in Dark Room, Snow White Field: Puppet's Theatre, The Amphitheater in Chainlink lees and The Theatre in Planetarium",
+      "checkbox": {
+        "amphitheater_chainlinklees": "The Amphitheater in Chainlink lees",
+        "dark_room_theatre": "The Theatre in Dark Room",
+        "drains_theatre_cinema": "Drains Theatre: The Cinema",
+        "planetarium_theatre": "The Theatre in Planetarium",
+        "puppet_theatre_swf": "Snow White Field: Puppet's Theatre",
+        "story_theatre": "Story Theatre",
+        "visit_theatre_world": "Theatre World"
+      }
+    },
+    "escape_flesh_dungeon": {
+      "name": "Tender is the Flesh, Sharp is the Fear",
+      "description": "Samsara of cut sinew and crushed bone.",
+      "condition": "Escape the Flesh Dungeon before time runs out"
+    },
+    "jukebox_bug_maze": {
+      "name": "Great Obelisk of Tunes",
+      "description": "This rock knows how to rock!",
+      "condition": "Interact with the Jukebox Stone in Bug Maze"
+    },
+    "monochrome_ranch": {
+      "name": "Cock-a-mow-mow",
+      "condition": "Visit Monochrome Ranch"
+    },
+    "visit_escher_path": {
+      "name": "Intergalactic Jell-O Cubes!",
+      "description": "Now in a whole rainbow of flavors!",
+      "condition": "Visit Escher Path"
     }
   },
   "flow": {
@@ -11181,9 +11218,9 @@
       "condition": "Starlit RoadのGeschäftの裏手に行く"
     },
     "weird_haus": {
-      "name": "Weird House",
-      "description": "Once upon a time, lived a little Totsu in a very weird, little house.",
-      "condition": "Visit the Weirdhaus in Berdplace"
+      "name": "変な家",
+      "description": "むかしむかし、とても奇妙なちいさな家に、とつという小さなこどもが住んでいました。",
+      "condition": "BerdplaceのWeirdhausに到達する"
     }
   },
   "braingirl": {
@@ -11566,6 +11603,10 @@
       "name": "蒼炎の刃",
       "description": "彼の剣に宿る炎を、いかなる闇も消すことはできない。",
       "condition": "Givregel Villageの追跡イベントを成功させる"
+    },
+    "golden_shamrock_key": {
+      "name": "Gold Danette Trophy",
+      "condition": "Transform into Golden Danaë using the Shamrock key"
     }
   },
   "muma": {
@@ -12099,6 +12140,11 @@
       "name": "繋がりの糸",
       "description": "どんなに離れていたとしても、いつでも互いの姿を見られる。",
       "condition": "Dream GenieのFloating Cube RPGの隔離エリアで阴明と:|に会う"
+    },
+    "fairy_delusion": {
+      "name": "Faerie’s Slumber",
+      "description": "Through violet tides, prying eyes see the shine of silver hair, floating in the breeze, lest blonde you’d be",
+      "condition": "Equip the Fairy delusion where it can be obtained in Star of Wise Sea B"
     }
   },
   "mikan": {
@@ -13679,8 +13725,8 @@
       "condition": "Ice TempleでFlightイベントを見る"
     },
     "ink_wash__iffect": {
-      "name": "モノクロのかわいこちゃん",
-      "description": "まばたきしてると見逃すよ",
+      "name": "You look a little dull",
+      "description": "Where did all your colour go? ",
       "condition": "すみぬきエフェクトを入手する、すでに入手している場合は、もう一度Steel Wildsの見つけた場所に行く。"
     },
     "name_isolated_house": {
@@ -13742,8 +13788,8 @@
       "condition": "げんしょくのエフェクトを入手する、すでに入手している場合はMonochrome Cityの見つけた場所に行く。"
     },
     "see_angel_monochrome": {
-      "name": "Shadow Angel",
-      "condition": "See the Angel event in Monochrome Islands"
+      "name": "影の天使",
+      "condition": "Monochrome IslandsでAngelイベントを見る"
     }
   },
   "oneshot": {
@@ -14426,9 +14472,9 @@
       "condition": "Noirの海岸のエリアに到達する"
     },
     "fish_bar_bioluminiscent": {
-      "name": "Drowning in my feelings",
-      "description": "You are the only fish in the sea for me",
-      "condition": "Visit the fish room in Bioluminiscent Ocean"
+      "name": "感情に溺れている",
+      "description": "私にとって、あなたは海の中にいるたった一匹の魚",
+      "condition": "Bioluminescent Oceanの魚の部屋に到達する"
     }
   },
   "okuri": {
