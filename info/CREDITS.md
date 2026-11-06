@@ -283,6 +283,7 @@
 * Riqo
 * Risena
 * Rita
+* Rollenets
 * rooliette
 * Rooy
 * rosaregard
@@ -334,6 +335,7 @@
 * sugarbones
 * Sugarcan3333
 * summersn0w
+* sylvonis
 * systemaciel
 * taechan
 * taintedeve
@@ -384,6 +386,7 @@
 * yayoimaika
 * YouArentDistorted
 * Youli
+* yukicao
 * Yumebako
 * Yuni
 * z1krispy
