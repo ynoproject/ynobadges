@@ -4751,8 +4751,8 @@
       }
     },
     "cube_of_sweets": {
-      "name": "Cubic Sweets",
-      "description": "Now in 3 different flavors!",
+      "name": "Cake Selection",
+      "description": "Strawberry, Chocolate, Crepe... I don't know which one I want!",
       "condition": "Enter Cube of Sweets"
     },
     "glitch_hell": {
@@ -8584,12 +8584,13 @@
       "condition": "Interact with Morita in Coral Shoal"
     },
     "trombone_effect": {
-      "name": "Golden Instrument",
-      "description": "doot doot",
+      "name": "Silly Little Tunes",
+      "description": "The Goofy Urotsuki Band",
       "condition": "Obtain the Trombone effect. If already obtained, return to where you have done so in the Baddies Bar or Acoustic Lounge."
     },
     "visit_muffin_spice": {
-      "name": "Spicy Muffin",
+      "name": "Falls Ballade",
+      "description": "Sugar, spice, and everything nice! Wait, are teleporters also an addition to the flavor?",
       "condition": "Visit Muffin Spice World"
     },
     "visit_sunset_mesa": {
@@ -9129,8 +9130,8 @@
       }
     },
     "ch_train_worlds": {
-      "name": "Memories, Dreams, and Railways",
-      "description": "Recalling the journey took while observing various trains and railways for a long time from morning till night, move forward toward the end of that journey.",
+      "name": "Railfan Girl",
+      "description": "Trains will never leave my heart!",
       "condition": "Visit the following areas with trains and railways: Promnesic Terminal, Old Train Station, Train Tracks, Amplitude, Forgotten Station, Crimson District, Dark Forest, Fragmented Station, Crossing Forest, Labyrinth of Dread, Stereo Station, Frozen Smile World, Underground Subway, Rice Field, Wooded Lakeside A, Ticking Blackout Zone, and Octagonal Grid Hub (Colorless Pier)",
       "checkbox": {
         "forgotten_station": "Forgotten Station",
@@ -10000,6 +10001,41 @@
       "name": "The Rooms of Dreamers, Just Like You.",
       "description": "\"Call my name through the cream, & i'll hear you scream again.\"",
       "condition": "Visit Vacant rooms"
+    },
+    "arctic_house_event": {
+      "name": "Fiddle Around and Find Out",
+      "description": "That's why you don't play with the lights.",
+      "condition": "Veiw the event in Hisui's House in Arctic"
+    },
+    "elysium_big_sniper_pool": {
+      "name": "Enjoy your eternal rest",
+      "description": "...but everything still hurts",
+      "condition": "See the laying giant Sniper-san in Elysium pools"
+    },
+    "forgotten_study_tenticles": {
+      "name": "Wriggling away!",
+      "description": "Somewhere in a deserted study, there are tentacles grew from the ground waiting for you...",
+      "condition": "Visit the tenticle room in Forgotten Study"
+    },
+    "paralell_hourglass": {
+      "name": "Tempus Mortis",
+      "description": "Life is short; time and death go hand-in-hand.",
+      "condition": "View the Hourglass in Parallel Graveyard"
+    },
+    "visit_back_halls": {
+      "name": "Out of Bounds. Out of Memory.",
+      "description": "I feel like... I'm right where I'm supposed to be...",
+      "condition": "Visit Back Halls"
+    },
+    "visit_laboratory_main": {
+      "name": "Ordinary laboratory?",
+      "description": "What kind of experiments are these creepy uncles doing...",
+      "condition": "Visit the main area of Laboratory"
+    },
+    "visit_woodwind_isles": {
+      "name": "Breezy Bliss",
+      "description": "Lost amongst new expanses with the harmonious sounds of woodwind echoing all around.",
+      "condition": "Visit Woodwind Isles"
     }
   },
   "flow": {
@@ -11545,8 +11581,8 @@
       "condition": "Dance on the dance floor in Smugglers' Hideout"
     },
     "amillusion_star": {
-      "name": "Warp Star",
-      "description": "Effect 1-1 Clear!",
+         "name": "I’m Gonna Be A Star! (Star!)",
+      "description": "SIXTEEN With JY- oh wait nevermind this is YNOProject…",
       "condition": "Equip the Star key where it can be found in Space"
     },
     "yummy_crepes": {
@@ -12368,8 +12404,8 @@
       "condition": "See the Ending #3"
     },
     "projector_room_muzou": {
-      "name": "Regret Slideshow",
-      "description": "Viewing your mistake",
+      "name": "Slides of Regret",
+      "description": "Witness your mistake",
       "condition": "Visit the Projector Room"
     },
     "torso_effect": {
@@ -14505,6 +14541,11 @@
       "name": "Drowning in my feelings",
       "description": "You are the only fish in the sea for me",
       "condition": "Visit the fish room in Bioluminiscent Ocean"
+    },
+    "trauma_900": {
+      "name": "Breaking Point",
+      "description": "The deeper you dwelve, the worse it'll be.",
+      "condition": "Trigger the event in Aitsuki's Room with a Trauma level of 900 or higher"
     }
   },
   "okuri": {

@@ -4764,8 +4764,8 @@
       }
     },
     "cube_of_sweets": {
-      "name": "Cubic Sweets",
-      "description": "现有3种口味！",
+      "name": "Cake Selection",
+      "description": "Strawberry, Chocolate, Crepe... I don't know which one I want!",
       "condition": "抵达Cube of Sweets"
     },
     "glitch_hell": {
@@ -8602,12 +8602,13 @@
       "condition": "在Coral Shoal与Morita互动"
     },
     "trombone_effect": {
-      "name": "黄金乐器",
-      "description": "嘟嘟",
+      "name": "Silly Little Tunes",
+      "description": "The Goofy Urotsuki Band",
       "condition": "获得效果长号。若已获得，请返回Baddies Bar或Acoustic Lounge获得该效果处。"
     },
     "visit_muffin_spice": {
-      "name": "香料松饼",
+      "name": "Falls Ballade",
+      "description": "Sugar, spice, and everything nice! Wait, are teleporters also an addition to the flavor?",
       "condition": "抵达Muffin Spice World"
     },
     "visit_sunset_mesa": {
@@ -9141,8 +9142,8 @@
       }
     },
     "ch_train_worlds": {
-      "name": "记忆、梦境与铁道",
-      "description": "从早到晚一边观察火车和铁道一边回想旅程，走向旅途的终点。",
+      "name": "Railfan Girl",
+      "description": "Trains will never leave my heart!",
       "condition": "抵达以下含有火车和铁道的区域：Promnesic Terminal、Old Train Station、Train Tracks、Amplitude、Forgotten Station、Crimson District、Dark Forest、Fragmented Station、Crossing Forest、Labyrinth of Dread、Stereo Station、Frozen Smile World、Underground Subway、Rice Field、Wooded Lakeside A、Ticking Blackout Zone、Octagonal Grid Hub (Colorless Pier)",
       "checkbox": {
         "forgotten_station": "Forgotten Station",
@@ -10007,6 +10008,41 @@
       "name": "像你一样的梦中人们的房间。",
       "description": "\"透过尖角呼唤我的名字，我就会再次听到你的尖叫。\"",
       "condition": "抵达Vacant rooms"
+    },
+    "arctic_house_event": {
+      "name": "Fiddle Around and Find Out",
+      "description": "That's why you don't play with the lights.",
+      "condition": "Veiw the event in Hisui's House in Arctic"
+    },
+    "elysium_big_sniper_pool": {
+      "name": "Enjoy your eternal rest",
+      "description": "...but everything still hurts",
+      "condition": "See the laying giant Sniper-san in Elysium pools"
+    },
+    "forgotten_study_tenticles": {
+      "name": "Wriggling away!",
+      "description": "Somewhere in a deserted study, there are tentacles grew from the ground waiting for you...",
+      "condition": "Visit the tenticle room in Forgotten Study"
+    },
+    "paralell_hourglass": {
+      "name": "Tempus Mortis",
+      "description": "Life is short; time and death go hand-in-hand.",
+      "condition": "View the Hourglass in Parallel Graveyard"
+    },
+    "visit_back_halls": {
+      "name": "Out of Bounds. Out of Memory.",
+      "description": "I feel like... I'm right where I'm supposed to be...",
+      "condition": "Visit Back Halls"
+    },
+    "visit_laboratory_main": {
+      "name": "Ordinary laboratory?",
+      "description": "What kind of experiments are these creepy uncles doing...",
+      "condition": "Visit the main area of Laboratory"
+    },
+    "visit_woodwind_isles": {
+      "name": "Breezy Bliss",
+      "description": "Lost amongst new expanses with the harmonious sounds of woodwind echoing all around.",
+      "condition": "Visit Woodwind Isles"
     }
   },
   "flow": {
@@ -11552,8 +11588,8 @@
       "condition": "在Smugglers' Hideout的舞池上跳舞"
     },
     "amillusion_star": {
-      "name": "传送星",
-      "description": "效果1-1: 通关！",
+      "name": "I’m Gonna Be A Star! (Star!)",
+      "description": "SIXTEEN With JY- oh wait nevermind this is YNOProject…",
       "condition": "装备星星钥匙"
     },
     "yummy_crepes": {
@@ -12375,8 +12411,8 @@
       "condition": "见证结局#3"
     },
     "projector_room_muzou": {
-      "name": "后悔幻灯片",
-      "description": "观看你的错误",
+      "name": "Slides of Regret",
+      "description": "Witness your mistake",
       "condition": "抵达Projector Room"
     },
     "torso_effect": {
@@ -14508,6 +14544,11 @@
       "name": "沉溺在自我的情感中",
       "description": "你是这片海里我唯一的鱼",
       "condition": "抵达Bioluminiscent Ocean的鱼房间"
+    },
+    "trauma_900": {
+      "name": "Breaking Point",
+      "description": "The deeper you dwelve, the worse it'll be.",
+      "condition": "Trigger the event in Aitsuki's Room with a Trauma level of 900 or higher"
     }
   },
   "okuri": {
