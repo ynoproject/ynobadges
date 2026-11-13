@@ -4766,8 +4766,8 @@
       }
     },
     "cube_of_sweets": {
-      "name": "Cubic Sweets",
-      "description": "3種類のフレーバーが登場！",
+      "name": "Cake Selection",
+      "description": "Strawberry, Chocolate, Crepe... I don't know which one I want!",
       "condition": "スイートキューブに到達する"
     },
     "glitch_hell": {
@@ -8604,12 +8604,13 @@
       "condition": "コーラルビーチで青ウミウシに話しかける"
     },
     "trombone_effect": {
-      "name": "金ピカの楽器",
-      "description": "ﾌﾟｯﾌﾟｰ",
+      "name": "Silly Little Tunes",
+      "description": "The Goofy Urotsuki Band",
       "condition": "トロンボーンのエフェクトを入手する。すでに入手している場合は、見つけた場所に行く"
     },
     "visit_muffin_spice": {
-      "name": "スパイシーなマフィン",
+      "name": "Falls Ballade",
+      "description": "Sugar, spice, and everything nice! Wait, are teleporters also an addition to the flavor?",
       "condition": "甘ったるい香りに到達する"
     },
     "visit_sunset_mesa": {
@@ -9149,8 +9150,8 @@
       }
     },
     "ch_train_worlds": {
-      "name": "思い出と夢と鉄道",
-      "description": "朝から夜まで列車と線路を眺め続けた旅路を思い返しながら、その終着点へ向かおう。",
+      "name": "Railfan Girl",
+      "description": "Trains will never leave my heart!",
       "condition": "以下の列車・鉄道のある世界を訪れる: ルインステーション、第三閉塞、廃線、アンプリチュード、頽廃ネオメトロ:降車駅、バーガンディーシティ、迷いの森、薄片の駅、踏切森林、ヘドロード、ステレオステーション、凍凍笑顔、白街灯の駅、畦道、湖のほとり、二極線、寂れた停留所",
       "checkbox": {
         "forgotten_station": "頽廃ネオメトロ:降車駅",
@@ -10015,6 +10016,41 @@
       "name": "The Rooms of Dreamers, Just Like You.",
       "description": "\"Call my name through the cream, & i'll hear you scream again.\"",
       "condition": "Visit Vacant rooms"
+    },
+    "arctic_house_event": {
+      "name": "Fiddle Around and Find Out",
+      "description": "That's why you don't play with the lights.",
+      "condition": "Veiw the event in Hisui's House in Arctic"
+    },
+    "elysium_big_sniper_pool": {
+      "name": "Enjoy your eternal rest",
+      "description": "...but everything still hurts",
+      "condition": "See the laying giant Sniper-san in Elysium pools"
+    },
+    "forgotten_study_tenticles": {
+      "name": "Wriggling away!",
+      "description": "Somewhere in a deserted study, there are tentacles grew from the ground waiting for you...",
+      "condition": "Visit the tenticle room in Forgotten Study"
+    },
+    "paralell_hourglass": {
+      "name": "Tempus Mortis",
+      "description": "Life is short; time and death go hand-in-hand.",
+      "condition": "View the Hourglass in Parallel Graveyard"
+    },
+    "visit_back_halls": {
+      "name": "Out of Bounds. Out of Memory.",
+      "description": "I feel like... I'm right where I'm supposed to be...",
+      "condition": "Visit Back Halls"
+    },
+    "visit_laboratory_main": {
+      "name": "Ordinary laboratory?",
+      "description": "What kind of experiments are these creepy uncles doing...",
+      "condition": "Visit the main area of Laboratory"
+    },
+    "visit_woodwind_isles": {
+      "name": "Breezy Bliss",
+      "description": "Lost amongst new expanses with the harmonious sounds of woodwind echoing all around.",
+      "condition": "Visit Woodwind Isles"
     }
   },
   "flow": {
@@ -11560,8 +11596,8 @@
       "condition": "Smugglers' Hideoutのダンスフロアで踊る"
     },
     "amillusion_star": {
-      "name": "ワープスター",
-      "description": "エフェクト 1-1 クリア！",
+      "name": "I’m Gonna Be A Star! (Star!)",
+      "description": "SIXTEEN With JY- oh wait nevermind this is YNOProject…",
       "condition": "流れ星のキーをSpaceの見つけた場所で使う"
     },
     "yummy_crepes": {
@@ -12383,8 +12419,8 @@
       "condition": "END3を見る"
     },
     "projector_room_muzou": {
-      "name": "後悔のスライドショー",
-      "description": "自らの過ちを眺めている",
+      "name": "Slides of Regret",
+      "description": "Witness your mistake",
       "condition": "投影に到達する"
     },
     "torso_effect": {
@@ -14520,6 +14556,11 @@
       "name": "感情に溺れている",
       "description": "私にとって、あなたは海の中にいるたった一匹の魚",
       "condition": "Bioluminescent Oceanの魚の部屋に到達する"
+    },
+    "trauma_900": {
+      "name": "Breaking Point",
+      "description": "The deeper you dwelve, the worse it'll be.",
+      "condition": "Trigger the event in Aitsuki's Room with a Trauma level of 900 or higher"
     }
   },
   "okuri": {
