@@ -35,6 +35,7 @@
 * Akxzii
 * AlfaDream
 * Amadeus
+* Amamo
 * Ame
 * AmeTokage
 * anglerfishchef
@@ -100,6 +101,7 @@
 * deadsquid
 * deg
 * denji9099
+* depipisthief
 * desktopghost
 * DolphinDan
 * DreamBird
@@ -149,6 +151,7 @@
 * Hyo
 * Iesu
 * Ivinous
+* Jaderabbit
 * Jameson
 * jams
 * JEAN
@@ -167,6 +170,7 @@
 * Kasatate
 * Kazecita
 * Kekwet
+* kirieshka
 * Kirieshka
 * KitsuneYume
 * klayfruit
