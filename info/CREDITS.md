@@ -428,6 +428,7 @@
 
 * Fonvight
 * zakernichny
+* Veridian74
 
 ### Vietnamese
 
