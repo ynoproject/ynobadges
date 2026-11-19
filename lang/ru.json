@@ -10030,6 +10030,45 @@
       "name": "Breezy Bliss",
       "description": "Lost amongst new expanses with the harmonious sounds of woodwind echoing all around.",
       "condition": "Visit Woodwind Isles"
+    },
+    "abandoned_lightlady_tent": {
+      "name": "Mourning Light",
+      "description": "Such a comforting face in such an unfamiliar place... I wonder why everyone is here.",
+      "condition": "Visit the light lady tent in Abandoned Campsite"
+    },
+    "giant_crow_lady_bwh": {
+      "name": "Super Coffee Drinker Crow Deity",
+      "description": "What separates a god from a mortal, if both can appreciate the same simple pleasures?",
+      "condition": "See the giant crow lady in Black Wing Heaven"
+    },
+    "maiden_sunset_school_reactions": {
+      "name": "The sun sets in the west",
+      "description": "Are you watching the blackboard or the teacher?! Pay attention in class!!!",
+      "condition": "See all the reactions from the Shrine maiden teacher in Sunset School"
+    },
+    "monmon_lantern": {
+      "name": "I am going... to smoke you!",
+      "description": "Last words before I spark it?",
+      "condition": "Kill a monon with the Lantern effect in Marijuana Goddess World. If you have already done so, return to Marijuana Goddess World"
+    },
+    "pierside_residence_girl_reactions": {
+      "name": "Let's play!",
+      "description": "This girl looks ghastly at first glance, but she’s actually creepy.",
+      "condition": "See all the reactions of the girl in Pierside Residence"
+    },
+    "visit_memory_town": {
+      "name": "Reise in die Vergangenheit",
+      "description": "Eins, Zwei, Drei, Vier, Fünf, Sechs, Sieben, Acht, Neun, Zehn.",
+      "condition": "Visit Memory Town"
+    },
+    "visit_sky_kingdoms": {
+      "name": "Restoration of What it Used to Be",
+      "description": "2 Kingdoms that ruled the sky; one in ruins, & one in paradise.",
+      "condition": "Visit Sky Kingdom and Restored SU+200bky Kingdom",
+      "checkbox": {
+        "visit_restored_sky_kingdom": "Restored SU+200bky Kingdom",
+        "visit_sky_kingdom": "Sky Kingdom"
+      }
     }
   },
   "flow": {
@@ -11575,7 +11614,7 @@
       "condition": "Dance on the dance floor in Smugglers' Hideout"
     },
     "amillusion_star": {
-         "name": "I’m Gonna Be A Star! (Star!)",
+      "name": "I’m Gonna Be A Star! (Star!)",
       "description": "SIXTEEN With JY- oh wait nevermind this is YNOProject…",
       "condition": "Equip the Star key where it can be found in Space"
     },
@@ -14676,6 +14715,11 @@
       "name": "My Omega-COOL Sword!",
       "description": "This is just a Sanpuru of my true power, heheh..",
       "condition": "Obtain the omega sword (equip the omega sword near where it is obtained)"
+    },
+    "eyes_event_lightningtsuki_room": {
+      "name": "All Eyes On You",
+      "description": "Stop staring at me with them big ol' eyes!",
+      "condition": "View the Eyes event in Lightningtsuki's Room."
     }
   },
   "space": {
