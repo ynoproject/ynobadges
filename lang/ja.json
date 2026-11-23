@@ -10051,6 +10051,45 @@
       "name": "そよ風の至福",
       "description": "木管楽器の調和のとれた音色が辺り一面に響く中、新たな世界の広がりに迷い込む。",
       "condition": "木風の島々に到達する"
+    },
+    "abandoned_lightlady_tent": {
+      "name": "Mourning Light",
+      "description": "Such a comforting face in such an unfamiliar place... I wonder why everyone is here.",
+      "condition": "Visit the light lady tent in Abandoned Campsite"
+    },
+    "giant_crow_lady_bwh": {
+      "name": "Super Coffee Drinker Crow Deity",
+      "description": "What separates a god from a mortal, if both can appreciate the same simple pleasures?",
+      "condition": "See the giant crow lady in Black Wing Heaven"
+    },
+    "maiden_sunset_school_reactions": {
+      "name": "The sun sets in the west",
+      "description": "Are you watching the blackboard or the teacher?! Pay attention in class!!!",
+      "condition": "See all the reactions from the Shrine maiden teacher in Sunset School"
+    },
+    "monmon_lantern": {
+      "name": "I am going... to smoke you!",
+      "description": "Last words before I spark it?",
+      "condition": "Kill a monon with the Lantern effect in Marijuana Goddess World. If you have already done so, return to Marijuana Goddess World"
+    },
+    "pierside_girl_reactions": {
+      "name": "Let's play!",
+      "description": "This girl looks ghastly at first glance, but she’s actually creepy.",
+      "condition": "See all the reactions of the girl in Pierside Residence"
+    },
+    "visit_memory_town": {
+      "name": "Reise in die Vergangenheit",
+      "description": "Eins, Zwei, Drei, Vier, Fünf, Sechs, Sieben, Acht, Neun, Zehn.",
+      "condition": "Visit Memory Town"
+    },
+    "visit_sky_kingdoms": {
+      "name": "Restoration of What it Used to Be",
+      "description": "2 Kingdoms that ruled the sky; one in ruins, & one in paradise.",
+      "condition": "Visit Sky Kingdom and Restored S​ky Kingdom",
+      "checkbox": {
+        "visit_restored_sky_kingdom": "Restored S​ky Kingdom",
+        "visit_sky_kingdom": "Sky Kingdom"
+      }
     }
   },
   "flow": {
@@ -14701,6 +14740,11 @@
       "name": "ぼくのオメガクールソード！",
       "description": "これは真の力のさんぷるだよ、へへへ……",
       "condition": "オメガソードを入手する(入手した場所の近くでオメガソードになる)"
+    },
+    "eyes_event_lightningtsuki_room": {
+      "name": "All Eyes On You",
+      "description": "Stop staring at me with them big ol' eyes!",
+      "condition": "View the Eyes event in Lightningtsuki's Room."
     }
   },
   "space": {

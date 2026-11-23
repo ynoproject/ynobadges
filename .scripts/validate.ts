@@ -166,7 +166,7 @@ if (import.meta.main) (async function() {
 
         const hasBoundsCheck = "mapX1" in data || "mapX2" in data || "mapY1" in data || "mapY2" in data;
         if (hasBoundsCheck) {
-            const completed = "trigger" in data || "switchId" in data || "varId" in data;
+            const completed = "trigger" in data || "switchId" in data || "varId" in data || "switchIds" in data || "varIds" in data;
             if (!completed) {
                 emit("error", `conditionId ${name} has bounds check with no trigger/switch/variable`);
             }

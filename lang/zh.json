@@ -9991,7 +9991,7 @@
     },
     "tunnel_onigiri": {
       "name": "寿司特快！",
-      "description": "好吧，不管这些黑暗的隧道， Well, despite these dark tunnels, the fish population is doing surprisingly well!",
+      "description": "好吧，虽然有这些黑暗的隧道，这里鱼类种群的状况却出奇的好！",
       "condition": "在Tunnels看到饭团"
     },
     "virtual_city_halo_girl": {
@@ -10010,39 +10010,78 @@
       "condition": "抵达Vacant rooms"
     },
     "arctic_house_event": {
-      "name": "Fiddle Around and Find Out",
-      "description": "That's why you don't play with the lights.",
-      "condition": "Veiw the event in Hisui's House in Arctic"
+      "name": "瞎折腾然后发现了",
+      "description": "这就是你不应该玩电灯开关的原因。",
+      "condition": "在Arctic见证Hisui's House中的事件"
     },
     "elysium_big_sniper_pool": {
-      "name": "Enjoy your eternal rest",
-      "description": "...but everything still hurts",
-      "condition": "See the laying giant Sniper-san in Elysium pools"
+      "name": "享受你永恒的休憩吧",
+      "description": "……但一切依然很痛苦",
+      "condition": "看到Elysium pools中趴着的巨大Sniper-san"
     },
     "forgotten_study_tenticles": {
-      "name": "Wriggling away!",
-      "description": "Somewhere in a deserted study, there are tentacles grew from the ground waiting for you...",
-      "condition": "Visit the tenticle room in Forgotten Study"
+      "name": "蛄蛹到一边去！",
+      "description": "在某处的一个废弃研究所中，地上长出来的触手等待着你……",
+      "condition": "抵达Forgotten Study中的触手房间"
     },
     "paralell_hourglass": {
-      "name": "Tempus Mortis",
-      "description": "Life is short; time and death go hand-in-hand.",
-      "condition": "View the Hourglass in Parallel Graveyard"
+      "name": "死亡时刻",
+      "description": "生命是短暂的；时间是死亡的同行者。",
+      "condition": "抵达Parallel Graveyard的沙漏处"
     },
     "visit_back_halls": {
-      "name": "Out of Bounds. Out of Memory.",
-      "description": "I feel like... I'm right where I'm supposed to be...",
-      "condition": "Visit Back Halls"
+      "name": "边界之外。记忆之外。",
+      "description": "我感觉……我现在在自己应该待的地方……",
+      "condition": "抵达Back Halls"
     },
     "visit_laboratory_main": {
-      "name": "Ordinary laboratory?",
-      "description": "What kind of experiments are these creepy uncles doing...",
-      "condition": "Visit the main area of Laboratory"
+      "name": "普通的实验室？",
+      "description": "这些怪大叔们到底在做什么实验啊……",
+      "condition": "抵达Laboratory的主区域"
     },
     "visit_woodwind_isles": {
-      "name": "Breezy Bliss",
-      "description": "Lost amongst new expanses with the harmonious sounds of woodwind echoing all around.",
-      "condition": "Visit Woodwind Isles"
+      "name": "喜悦微风",
+      "description": "迷失在崭新的广阔天地之间，木管乐器的和声在四周回荡。",
+      "condition": "抵达Woodwind Isles"
+    },
+    "abandoned_lightlady_tent": {
+      "name": "Mourning Light",
+      "description": "Such a comforting face in such an unfamiliar place... I wonder why everyone is here.",
+      "condition": "Visit the light lady tent in Abandoned Campsite"
+    },
+    "giant_crow_lady_bwh": {
+      "name": "Super Coffee Drinker Crow Deity",
+      "description": "What separates a god from a mortal, if both can appreciate the same simple pleasures?",
+      "condition": "See the giant crow lady in Black Wing Heaven"
+    },
+    "maiden_sunset_school_reactions": {
+      "name": "The sun sets in the west",
+      "description": "Are you watching the blackboard or the teacher?! Pay attention in class!!!",
+      "condition": "See all the reactions from the Shrine maiden teacher in Sunset School"
+    },
+    "monmon_lantern": {
+      "name": "I am going... to smoke you!",
+      "description": "Last words before I spark it?",
+      "condition": "Kill a monon with the Lantern effect in Marijuana Goddess World. If you have already done so, return to Marijuana Goddess World"
+    },
+    "pierside_girl_reactions": {
+      "name": "Let's play!",
+      "description": "This girl looks ghastly at first glance, but she’s actually creepy.",
+      "condition": "See all the reactions of the girl in Pierside Residence"
+    },
+    "visit_memory_town": {
+      "name": "Reise in die Vergangenheit",
+      "description": "Eins, Zwei, Drei, Vier, Fünf, Sechs, Sieben, Acht, Neun, Zehn.",
+      "condition": "Visit Memory Town"
+    },
+    "visit_sky_kingdoms": {
+      "name": "Restoration of What it Used to Be",
+      "description": "2 Kingdoms that ruled the sky; one in ruins, & one in paradise.",
+      "condition": "Visit Sky Kingdom and Restored S​ky Kingdom",
+      "checkbox": {
+        "visit_restored_sky_kingdom": "Restored S​ky Kingdom",
+        "visit_sky_kingdom": "Sky Kingdom"
+      }
     }
   },
   "flow": {
@@ -10379,7 +10418,7 @@
     },
     "rust_menu": {
       "name": "锈忆",
-      "condition": "获得菜单主题锈(Rust)。若已解锁，请返回Back Yard。"
+      "condition": "获得菜单主题Rust。若已解锁，请返回Back Yard。"
     },
     "hooded_menace_sabi": {
       "name": "你确定他们不会认出我吗？",
@@ -11419,9 +11458,9 @@
       "condition": "在午夜，在Mikan's Bedroom中见到Midnight Yellowman。"
     },
     "bg_tanuki_towel": {
-      "name": "Fluffy Towel, Cozy Onsen~",
-      "description": "Towel? Check. Swimsuit? Check. Cozy bath time? Absolutely!",
-      "condition": "Wear a towel on your head at the Tanuki Woods Hot Springs"
+      "name": "松软毛巾，舒适温泉~",
+      "description": "毛巾？准备好了。泳衣？准备好了。舒适的泡澡时间？那肯定的！",
+      "condition": "在Tanuki Woods：Hot Springs把毛巾放在头上"
     }
   },
   "amillusion": {
@@ -11588,8 +11627,8 @@
       "condition": "在Smugglers' Hideout的舞池上跳舞"
     },
     "amillusion_star": {
-      "name": "I’m Gonna Be A Star! (Star!)",
-      "description": "SIXTEEN With JY- oh wait nevermind this is YNOProject…",
+      "name": "我要成为大明星！（星！）",
+      "description": "《SIXTEEN》，演唱者是JY——哦算了吧这里是YNOProject…",
       "condition": "装备星星钥匙"
     },
     "yummy_crepes": {
@@ -11678,8 +11717,8 @@
       "condition": "完成Givregel Village的追逐事件"
     },
     "golden_shamrock_key": {
-      "name": "Gold Danette Trophy",
-      "condition": "Transform into Golden Danaë using the Shamrock key"
+      "name": "黄金Danette奖",
+      "condition": "使用钥匙Shamrock变成黄金Danaë"
     }
   },
   "muma": {
@@ -12163,7 +12202,7 @@
     "spear_of_fear_delusion": {
       "name": "以尖牙抵抗不可避免的命运",
       "description": "不要犹豫。在你面对恐惧之矛的地方站定。记住那穿透你心灵的恐惧，那差点破坏你的命运之卷将在此重写。",
-      "condition": "获得虚伪恐惧之矛。若已解锁，请返回Narrow Apartments获得该效果处。"
+      "condition": "获得虚物恐惧之矛。若已解锁，请返回Narrow Apartments获得该效果处。"
     },
     "qiu_qin_wake_up_train": {
       "name": "另一个我沉睡之处",
@@ -12178,7 +12217,7 @@
     "yes_qiu_slay": {
       "name": "面对杀戮者",
       "description": "在冻结之星的寒冷之下，你感受到了恐惧，你知道我在接近。",
-      "condition": "获得虚像杀戮者。若已获得，请返回Freezing Point。"
+      "condition": "获得虚物杀戮者。若已获得，请返回Freezing Point。"
     },
     "dg_sub_nexus": {
       "name": "世界之间的世界",
@@ -12197,7 +12236,7 @@
     "dg_golden_armor_effect": {
       "name": "黄金甲士",
       "description": "我会永远保护你的。",
-      "condition": "获得虚像黄金甲士。若已获得，请返回Golden Canopy获得该效果处。"
+      "condition": "获得虚物黄金甲士。若已获得，请返回Golden Canopy获得该效果处。"
     },
     "dg_freezing_point_blob": {
       "name": "失衡温度",
@@ -12411,8 +12450,8 @@
       "condition": "见证结局#3"
     },
     "projector_room_muzou": {
-      "name": "Slides of Regret",
-      "description": "Witness your mistake",
+      "name": "后悔的幻灯片",
+      "description": "见证你的错误",
       "condition": "抵达Projector Room"
     },
     "torso_effect": {
@@ -12647,7 +12686,7 @@
       "condition": "进入Pastel Blocks World的星空房间"
     },
     "uv_dark_forest_cliff": {
-      "name": "Viola Nocturna",
+      "name": "夜之紫罗兰",
       "description": "孤崖上的紫罗兰。",
       "condition": "抵达Dark Forest的悬崖"
     },
@@ -13616,7 +13655,7 @@
     },
     "radio_cow_house": {
       "name": "音乐牛",
-      "description": "Cow beats to chill to",
+      "description": "瘫着听的牛牛节拍",
       "condition": "调查Breakfast World的Cow House里的收音机"
     },
     "book_star_dome": {
@@ -14366,7 +14405,7 @@
     },
     "just_smile_dog_aesprite": {
       "name": "微笑.ase",
-      "description": "嘻嘻你已经被勾勾诅咒了",
+      "description": "嘻嘻你已经被狗狗诅咒了",
       "condition": "在Sunset Skyscrapers找到神秘狗子"
     },
     "here_comes_the_bride": {
@@ -14409,7 +14448,7 @@
       "condition": "看到Illusion World的天使雕像"
     },
     "ly_night_market_event": {
-      "name": "Wrong move, Kodoko!",
+      "name": "你搞错了，Kodoko！",
       "condition": "见证Black Market的事件"
     },
     "ly_discomfort_bath_corpse": {
@@ -14473,7 +14512,7 @@
     },
     "ly_visit_sunset_skyscrapers": {
       "name": "ly_construct",
-      "description": "Aitsuki'的个人模组。",
+      "description": "Aitsuki的个人模组。",
       "condition": "抵达Sunset Skyscapers"
     },
     "ly_blooming_passage_kiko": {
@@ -14489,7 +14528,7 @@
     "ly_sansara_effect": {
       "name": "业报循环",
       "description": "轮回不止，川流不息……",
-      "condition": "获得效果Sansara effect。若已解锁，请返回Palliative Ward获得该效果处。"
+      "condition": "获得效果Sansara。若已解锁，请返回Palliative Ward获得该效果处。"
     },
     "ly_visit_black_streets": {
       "name": "在黑暗中发光的云朵之间",
@@ -14514,7 +14553,7 @@
     "ly_wingman_effect": {
       "name": "飞向远方",
       "description": "享受本次乘机！",
-      "condition": "获得效果Wingman effect。若已解锁，请返回Crimson Dunes。"
+      "condition": "获得效果Wingman。若已解锁，请返回Crimson Dunes。"
     },
     "ly_foam_world_house": {
       "name": "哦！香皂方块！",
@@ -14546,9 +14585,9 @@
       "condition": "抵达Bioluminiscent Ocean的鱼房间"
     },
     "trauma_900": {
-      "name": "Breaking Point",
-      "description": "The deeper you dwelve, the worse it'll be.",
-      "condition": "Trigger the event in Aitsuki's Room with a Trauma level of 900 or higher"
+      "name": "崩溃点",
+      "description": "你越深入，事情越糟。",
+      "condition": "值大于等于900时在Aitsuki's Room触发事件"
     }
   },
   "okuri": {
@@ -14689,6 +14728,11 @@
       "name": "我的终极炫酷剑！",
       "description": "这只是我真正力量的一个样本，嘿嘿……",
       "condition": "获得omega sword（在获得该效果处装备omega sword）"
+    },
+    "eyes_event_lightningtsuki_room": {
+      "name": "All Eyes On You",
+      "description": "Stop staring at me with them big ol' eyes!",
+      "condition": "View the Eyes event in Lightningtsuki's Room."
     }
   },
   "space": {
