@@ -171,8 +171,8 @@
 * Kasatate
 * Kazecita
 * Kekwet
-* Kirieshka
 * kirieshka
+* Kirieshka
 * KitsuneYume
 * klayfruit
 * Kofu
@@ -274,6 +274,7 @@
 * Proselyte
 * Proton
 * psigh
+* punkitt
 * pureko
 * quowl
 * RadioNF
@@ -340,6 +341,7 @@
 * sugarbones
 * Sugarcan3333
 * summersn0w
+* sunoka
 * sylvonis
 * Sylvonis
 * systemaciel
